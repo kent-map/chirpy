@@ -1,0 +1,6 @@
+# _config.local.yml
+github:
+  owner_name: kent-map
+  repository_name: chirpy
+  source:
+    branch: main
