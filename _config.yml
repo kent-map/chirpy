@@ -26,7 +26,11 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: kent-map # change to your GitHub username
+  owner_name: kent-map
+  repository_name: chirpy
+  source:
+    branch: main
 
 twitter:
   username: twitter_username # change to your Twitter username
