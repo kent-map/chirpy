@@ -11,7 +11,7 @@ permalink: /monument-valley
 published: true
 ---
 
-<script id="loader" src="https://www.juncture-digital.io/js/juncture.js" data-ghbase="{{site.github.owner_name}}/{{site.github.repository_name}}/{{site.github.source.branch}}/assets/{{ page.path | remove: '_posts/' | remove: '.md' }}" data-selector="div.content"></script>
+<script id="loader" src="https://www.juncture-digital.io/js/juncture.js" data-ghbase="{{site.github.owner_name}}/{{site.github.repository_name}}/{{site.github.source.branch}}/assets/{{ page.path | split: "/" | last | split: "-" | slice: 3, 99 | join: "-" | replace: ".md", "" }}" data-selector="div.content"></script>
 
 <style> p { font-size: 1.2em; } </style>
 
