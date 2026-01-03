@@ -1,0 +1,10 @@
+<iframe
+  id="{{ include.id }}"
+  class="embed-image"
+  loading="lazy" 
+  title="Juncture image viewer" 
+  allow="clipboard-write" 
+  src="https://www.juncture-digital.io/components/image?src={{ include.src }}&amp;caption={{ include.caption }}&amp;aspect={{ include.aspect }}&amp;ghbase={{ include.ghbase }}" 
+  style="aspect-ratio: {{ include.aspect }};"
+  allowfullscreen 
+></iframe>
