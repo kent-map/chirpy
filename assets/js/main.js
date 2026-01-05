@@ -10,33 +10,40 @@ import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab
 import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-group/tab-group.js';
 import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-panel/tab-panel.js';
 
-/* Reposition floated elements (.left, .right) to appear before the
-   paragraph block they are intended to float alongside. This is to
-   accommodate markdown that positions the floated element
-   after the paragraph block in the HTML structure. */
+let isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
 
-const floats = Array.from(document.querySelectorAll('.left, .right')).reverse();
+const repositionFloats = () => {
+    /* Reposition floated elements (.left, .right) to appear before the
+       paragraph block they are intended to float alongside. This is to
+       accommodate markdown that positions the floated element
+       after the paragraph block in the HTML structure. */
 
-floats.forEach(floatedEl => {
-    const parent = floatedEl.parentNode;
-    if (!parent) return;
+    const floats = Array.from(document.querySelectorAll('.left, .right')).reverse();
+    floats.forEach(floatedEl => {
+        const parent = floatedEl.parentNode;
+        if (!parent) return;
 
-    let ref = floatedEl.previousElementSibling;
+        let ref = floatedEl.previousElementSibling;
 
-    // Walk backward over contiguous <p> elements
-    while (ref && ref.tagName === 'P' && !ref.classList.contains('left') && !ref.classList.contains('right')) {
-        ref = ref.previousElementSibling;
-    }
+        // Walk backward over contiguous <p> elements
+        while (ref && ref.tagName === 'P' && !ref.classList.contains('left') && !ref.classList.contains('right')) {
+            ref = ref.previousElementSibling;
+            break;  // Only move before the first preceding <p>
+        }
 
-    // ref is now:
-    // - null (floated element should go first), or
-    // - the element BEFORE the paragraph block
-    const insertBeforeNode = ref
-        ? ref.nextElementSibling
-        : parent.firstElementChild;
+        // ref is now:
+        // - null (floated element should go first), or
+        // - the element BEFORE the paragraph block
+        const insertBeforeNode = ref
+            ? ref.nextElementSibling
+            : parent.firstElementChild;
 
-    parent.insertBefore(floatedEl, insertBeforeNode);
-})
+        parent.insertBefore(floatedEl, insertBeforeNode);
+    })
+}
+if (!isMobile) {
+    repositionFloats();
+}
 
 
 ////////// Start Wikidata Entity functions //////////

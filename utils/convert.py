@@ -1,17 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from operator import index
 import os
 import argparse
 import pathlib
 import re
 import shlex
-import shutil
-import json
 import hashlib
 from urllib.parse import unquote, quote
-from copy import deepcopy
 from pathlib import Path
 from datetime import datetime
 
@@ -21,7 +17,7 @@ from PIL import Image
 from io import BytesIO
 from pathlib import Path
 
-CACHE_PATH = Path(".image_aspect_cache")
+CACHE_PATH = Path('.image_aspect_cache')
 
 import markdown
 from bs4 import BeautifulSoup
@@ -138,49 +134,24 @@ def convert_params(md):
   # attribution caption cover description fit label license manifest region rotate seq src title url 
   image_attrs = set()
   def transform_image(attrs):
-    is_wc = False
-    repl_attrs = {}
+    src = ''
+    caption = ''
+    attribution = ''
+    license = ''
+    aspect_ratio = 1.0
+    
     for key, value in attrs.items():
-      if key in ['ve-image',]: continue
-      image_attrs.add(key)
-      if key in ['src', 'url']:
-        if value.startswith('wc:') or '.wikimedia.org' in value:
-          is_wc = True
-          wc_title = unquote(value.replace('wc:','').split('/')[-1]).replace(' ','_')
-          repl_attrs['src'] = f'wc:{wc_title}'
-        else:
-          repl_attrs['src'] = value
-        aspect_ratio = get_image_aspect_ratio(repl_attrs['src'])
-        repl_attrs['aspect'] = str(aspect_ratio)
-      if key == 'manifest':
-        if value.startswith('wc:'):
-          is_wc = True
-          wc_title = unquote(value.replace('wc:','')).replace(' ','_')
-          repl_attrs['src'] = f'wc:{wc_title}'
-        elif value.startswith('gh:'):
-          repl_attrs['src'] = value
-        else:
-          repl_attrs['manifest'] = value
-      elif key == 'fit':
-        if value == 'cover':
-          repl_attrs['cover'] = None
-      elif key == 'title' or key == 'label':
-          repl_attrs['caption'] = value
-      elif key in ['attribution', 'caption', 'description', 'license', 'region', 'rotate', 'seq']:
-        repl_attrs[key] = value
-      elif key in ['cover',]: # boolean attribute
-        repl_attrs[key] = None
-    if is_wc:
-      for key in ['label', 'description', 'attribution', 'license']:
-        if key in repl_attrs: del repl_attrs[key]
-    repl_str = '\n{% include embed/image.html'
-    for key, value in repl_attrs.items():
-      if value is None:
-        repl_str += f' {key}'
-      else:
-        repl_str += f' {key}="{value}"'
-    repl_str += ' width="50%"%}{: .right }\n'
-    return repl_str
+      if key in ['manifest', 'src', 'url']:
+        src = value
+        # aspect_ratio = get_image_aspect_ratio(src)
+      elif key in ['caption', 'label', 'title']:
+        caption = value
+      elif key in ['attribution',]:
+        attribution = value
+      elif key in ['license',]:
+        license = value
+        
+    return f'\n![{caption}]({src})\n_{caption}_\n{{: .right}}'
   
   # basemap center zoom
   map_attrs = set()
@@ -440,6 +411,30 @@ toc: false
       kwargs.get('permalink','')
     )
     return fm_str
+
+RE_REMOVE = re.compile(
+    r'''
+    <a\b[^>]*>\s*<img\b[^>]*\bve-button\b[^>]*>\s*</a>
+    |
+    <param\b[^>]*\bve-config\b[^>]*>
+    |
+    ^\s*(?:<br\s*/?>\s*)+\s*$
+    ''',
+    re.IGNORECASE | re.VERBOSE | re.MULTILINE | re.DOTALL
+)
+
+RE_COLLAPSE_BLANK_LINES = re.compile(r'\n\s*\n+', re.MULTILINE)
+
+RE_ADD_BLANK_AFTER_HEADING = re.compile(
+    r'^(#{1,6}\s+.+)\n(?!\s*\n)',
+    re.MULTILINE
+)
+
+def clean(text):
+  text = RE_REMOVE.sub('', text)
+  text = RE_COLLAPSE_BLANK_LINES.sub('\n\n', text)
+  text = RE_ADD_BLANK_AFTER_HEADING.sub(r'\1\n\n', text)
+  return text
   
 def convert(src, dest, max=None, **kwargs):
   ctr = 0
@@ -457,10 +452,11 @@ def convert(src, dest, max=None, **kwargs):
         if fm:
           
           md = convert_params(md)
+          md = clean(md)
           
           ctr += 1
           with open(dest_path, 'w') as fp:
-            fp.write(fm + '\n\n' + md)
+            fp.write(fm + md)
             print(ctr, root, '->', dest_path)
             if max and ctr >= max:
               break
