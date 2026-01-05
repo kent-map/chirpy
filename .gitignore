@@ -27,3 +27,4 @@ _sass/vendors
 assets/js/dist
 
 .venv
+.DS_Store

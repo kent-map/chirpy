@@ -9,13 +9,60 @@ import re
 import shlex
 import shutil
 import json
-from urllib.parse import unquote
+import hashlib
+from urllib.parse import unquote, quote
 from copy import deepcopy
 from pathlib import Path
 from datetime import datetime
 
+import requests
+import shelve
+from PIL import Image
+from io import BytesIO
+from pathlib import Path
+
+CACHE_PATH = Path(".image_aspect_cache")
+
 import markdown
 from bs4 import BeautifulSoup
+
+def wc_title_to_url(title, width=100):
+  title = unquote(title).replace(' ','_')
+  md5 = hashlib.md5(title.encode('utf-8')).hexdigest()
+  ext = title.split('.')[-1]
+  baseurl = 'https://upload.wikimedia.org/wikipedia/commons/'
+  if ext == 'svg':
+    url = f'{baseurl}thumb/{md5[:1]}/{md5[:2]}/{quote(title)}/{width}px-${quote(title)}.png'
+  elif ext in ('tif', 'tiff'):
+    url = f'{baseurl}thumb/{md5[:1]}/{md5[:2]}/{quote(title)}/{width}px-${quote(title)}.jpg'
+  else:
+    url = f'{baseurl}thumb/{md5[:1]}/{md5[:2]}/{quote(title)}/{width}px-${quote(title)}' if width is None else f'{baseurl}{md5[:1]}/{md5[:2]}/{quote(title)}'
+  return url
+
+def get_image_aspect_ratio(url: str, timeout: int = 10) -> float:
+  try:
+    if url.startswith('wc:'):
+      url = wc_title_to_url(url.replace('wc:',''))
+    print('Fetching image for aspect ratio:', url)
+    with shelve.open(str(CACHE_PATH)) as cache:
+      if url in cache:
+        return cache[url]
+
+      resp = requests.get(url, timeout=timeout, headers={'User-Agent': 'Mozilla/5.0'})
+      resp.raise_for_status()
+
+      img = Image.open(BytesIO(resp.content))
+      width, height = img.size
+
+      if width == 0 or height == 0:
+        raise ValueError("Invalid image dimensions")
+
+      ratio = width / height
+      cache[url] = ratio
+      return round(ratio, 2)
+  except Exception as e:
+    print(f"Error fetching image from {url}: {e}")
+    return 1.0  # Default aspect ratio
 
 def convert_permalink(md):
   return re.sub(r'# permalink:', 'permalink:', md)
@@ -103,6 +150,8 @@ def convert_params(md):
           repl_attrs['src'] = f'wc:{wc_title}'
         else:
           repl_attrs['src'] = value
+        aspect_ratio = get_image_aspect_ratio(repl_attrs['src'])
+        repl_attrs['aspect'] = str(aspect_ratio)
       if key == 'manifest':
         if value.startswith('wc:'):
           is_wc = True
@@ -115,23 +164,22 @@ def convert_params(md):
       elif key == 'fit':
         if value == 'cover':
           repl_attrs['cover'] = None
-      elif key == 'title':
+      elif key == 'title' or key == 'label':
           repl_attrs['caption'] = value
-      elif key in ['attribution', 'caption', 'description', 'label', 'license', 'region', 'rotate', 'seq']:
+      elif key in ['attribution', 'caption', 'description', 'license', 'region', 'rotate', 'seq']:
         repl_attrs[key] = value
       elif key in ['cover',]: # boolean attribute
         repl_attrs[key] = None
     if is_wc:
       for key in ['label', 'description', 'attribution', 'license']:
         if key in repl_attrs: del repl_attrs[key]
-    repl_str = '`image'
+    repl_str = '\n{% include embed/image.html'
     for key, value in repl_attrs.items():
       if value is None:
         repl_str += f' {key}'
       else:
-        if ' ' in value: value = f'"{value}"'
-        repl_str += f' {key}={value}'
-    repl_str += '`'
+        repl_str += f' {key}="{value}"'
+    repl_str += ' width="50%"%}{: .right }\n'
     return repl_str
   
   # basemap center zoom
@@ -292,6 +340,7 @@ def convert_params(md):
             attrs[token] = None
 
     if 've-image' in attrs: return transform_image(attrs)
+    '''
     if 've-map' in attrs: return transform_map(attrs)
     if 've-map-layer' in attrs: return transform_map_layer(attrs)
     if 've-map-marker' in attrs: return transform_map_marker(attrs)
@@ -299,6 +348,7 @@ def convert_params(md):
     if 've-compare' in attrs: return transform_compare(attrs)
     if 've-knightlab-timeline' in attrs: return transform_knightlab_timeline(attrs)
     if 've-iframe' in attrs: return transform_iframe(attrs)
+    '''
 
     return full_tag
 
@@ -328,7 +378,6 @@ def get_front_matter(src_path, md, **kwargs):
   cat_index_path = os.path.dirname(src_path) + '/README.md'
   if os.path.exists(cat_index_path):
     thumbnails = get_thumbnails(cat_index_path)
-    print(json.dumps(thumbnails, indent=2))
   
   config_attrs = {}
   regex = re.compile(r'^[ \t]*<param\s+ve-config\s+(.+?)>[ \t]*$', re.DOTALL | re.MULTILINE)
@@ -354,7 +403,9 @@ def get_front_matter(src_path, md, **kwargs):
       'author': config_attrs.get('author',''),
       'date': kwargs.get('date',''),
       'layout': 'post',
-      'image': thumbnails.get(kwargs.get('permalink','').split('/')[-2], ''),
+      'image': {
+        'path': f'"{config_attrs.get("banner","")}"',
+      },
       'permalink': kwargs.get('permalink',''),
       'categories': kwargs.get('categories','[]'),
       'tags': '[]',
@@ -365,7 +416,30 @@ def get_front_matter(src_path, md, **kwargs):
     for key in 'title description author date layout image permalink categories tags published featured'.split():
       m_lines.append(f'{key}: {fm[key]}')
     m_lines.append('---\n')
-    return '\n'.join(m_lines)
+
+    fm_str = '''---
+title: "%s"
+description: "%s"
+author: %s
+date: %s
+categories: [ %s ]
+tags: [ ]
+image: 
+  path: "%s"
+layout: post
+permalink: %s
+published: true
+toc: false    
+---''' % (
+      config_attrs.get('title',''),
+      config_attrs.get('description',''),
+      config_attrs.get('author',''),
+      kwargs.get('date',''),
+      ', '.join(kwargs.get('categories',[])),
+      config_attrs.get('banner',''),
+      kwargs.get('permalink','')
+    )
+    return fm_str
   
 def convert(src, dest, max=None, **kwargs):
   ctr = 0
@@ -373,19 +447,20 @@ def convert(src, dest, max=None, **kwargs):
     for fname in files:
       if fname == 'README.md' and not dir:
         src_path = root.split('/')
-        print('src_path', src_path)
         creation_date = datetime.fromtimestamp(Path(root).stat().st_birthtime).strftime('%Y-%m-%d')
-        category = src_path[-2]
-        base_fname = src_path[-1] if not src_path[-1].startswith(category) else src_path[-1][len(category)+1:]
+        categories = [ src_path[-2] ]
+        base_fname = src_path[-1] if not src_path[-1].startswith(categories[0]) else src_path[-1][len(categories[0])+1:]
         dest_path = f'{dest}/{creation_date}-{base_fname}.md'
   
         md = pathlib.Path(root + '/README.md').read_text(encoding='utf-8')
-        fm = get_front_matter(root, md, **{'date': creation_date, 'categories': f'[{category}]', 'permalink': f'/{category}/{base_fname}/'})
+        fm = get_front_matter(root, md, **{'date': creation_date, 'categories': categories, 'permalink': f'/{categories[0]}/{base_fname}/'})
         if fm:
-          print(fm)
+          
+          md = convert_params(md)
+          
           ctr += 1
           with open(dest_path, 'w') as fp:
-            fp.write(fm + '\n' + md)
+            fp.write(fm + '\n\n' + md)
             print(ctr, root, '->', dest_path)
             if max and ctr >= max:
               break
@@ -413,8 +488,8 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser(description='Converts a V1 Juncture essay to latest format.')  
   parser.add_argument('--src', default='/Users/ron/projects/kent-map/kent', help='Path to source directory')
   parser.add_argument('--dest', default='/Users/ron/projects/kent-map/chirpy/_posts', help='Path to destination directory')
-  parser.add_argument('--orig', default=False, action='store_true', help='Use original version')
+  parser.add_argument('--max', type=int, default=None, help='Maximum number of files to convert')
 
   args = vars(parser.parse_args())
 
-  convert(max=10, **args)
+  convert(**args)

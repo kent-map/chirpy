@@ -1,10 +1,18 @@
-<iframe
-  id="{{ include.id }}"
-  class="embed-image"
-  loading="lazy" 
-  title="Juncture image viewer" 
-  allow="clipboard-write" 
-  src="https://www.juncture-digital.io/components/image?src={{ include.src }}&amp;caption={{ include.caption }}&amp;aspect={{ include.aspect }}&amp;ghbase={{ include.ghbase }}" 
-  style="aspect-ratio: {{ include.aspect }};"
-  allowfullscreen 
-></iframe>
+{% assign qs = "src=" | append: include.src | uri_escape %}
+
+{% if include.caption %}
+{% assign qs = qs | append: "&caption=" | append: include.caption | uri_escape %}
+{% endif %}
+
+{% if include.aspect %}
+{% assign qs = qs | append: "&aspect=" | append: include.aspect | uri_escape %}
+{% endif %}
+
+{% if include.ghbase %}
+{% assign qs = qs | append: "&ghbase=" | append: include.ghbase | uri_escape %}
+{% endif %}
+
+<iframe id="{{ include.id }}" class="embed-image" loading="lazy" title="Juncture image viewer" allow="clipboard-write"
+  style="aspect-ratio:{{ include.aspect | default: '1.0' }};"
+  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen>
+</iframe>
