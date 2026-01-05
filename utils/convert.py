@@ -134,11 +134,11 @@ def convert_params(md):
   # attribution caption cover description fit label license manifest region rotate seq src title url 
   image_attrs = set()
   def transform_image(attrs):
-    src = ''
-    caption = ''
-    attribution = ''
-    license = ''
     aspect_ratio = 1.0
+    attribution = ''
+    caption = ''
+    license = ''
+    src = ''
     
     for key, value in attrs.items():
       if key in ['manifest', 'src', 'url']:
@@ -156,28 +156,36 @@ def convert_params(md):
   # basemap center zoom
   map_attrs = set()
   def transform_map(attrs):
-    repl_attrs = {}
+    basemap = ''
+    caption = ''
+    center = ''
+    zoom = ''
+
     for key, value in attrs.items():
       if key in ['ve-map',]: continue
       map_attrs.add(key)
-      if key == 'title':
-          repl_attrs['caption'] = value
-      elif key in ['caption',]:
-        repl_attrs[key] = value
-      elif key in ['basemap', 'center', 'zoom']:
-        repl_attrs[key] = value.replace(' ', '')
-      #elif key in ['cover',]: # boolean attributes
-      #  repl_attrs[key] = None
-    repl_str = '`map'
-    for key, value in repl_attrs.items():
-      if value is None:
-        repl_str += f' {key}'
-      else:
-        if ' ' in value: value = f'"{value}"'
-        repl_str += f' {key}={value}'
-    repl_str += '`'
-    return repl_str
-  
+      if key == 'center':
+          center = value
+      elif key == 'zoom':
+        zoom = value
+      elif key in ['caption', 'label', 'title']:
+        caption = value
+      elif key in ['basemap',]:
+        basemap = value
+    
+    tag = '\n{% include embed/map.html '
+    if center:
+      tag += f'center="{center}" '
+    if zoom:
+      tag += f'zoom="{zoom}" '
+    if caption:
+      tag += f'caption="{caption}" '
+    if basemap:
+      tag += f'basemap="{basemap}" '
+    tag += 'marker="true" %}{: .right}\n'
+    
+    return tag
+
   # 
   map_layer_attrs = set()
   def transform_map_layer(attrs):
@@ -311,8 +319,8 @@ def convert_params(md):
             attrs[token] = None
 
     if 've-image' in attrs: return transform_image(attrs)
-    '''
     if 've-map' in attrs: return transform_map(attrs)
+    '''
     if 've-map-layer' in attrs: return transform_map_layer(attrs)
     if 've-map-marker' in attrs: return transform_map_marker(attrs)
     if 've-video' in attrs: return transform_video(attrs)

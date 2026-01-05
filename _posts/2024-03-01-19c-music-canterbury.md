@@ -34,7 +34,8 @@ It’s even more remarkable when the membership is put on a map. The Club’s re
 ![Map of Canterbury, Archaeologia Cantiana, 1883](https://upload.wikimedia.org/wikipedia/commons/5/5b/Archaeologia_cantiana_%281883%29_%2814782593812%29.jpg)
 _Map of Canterbury, Archaeologia Cantiana, 1883_
 {: .right}
-<param ve-map center="Q29303" zoom="15">
+
+{% include embed/map.html center="Q29303" zoom="15" marker %}{: .right}
 
 That such a club could be sustained is testament to the city's relative affluence: a growing bourgeoisie was eager to support such institutions, since apart from offering a good evening's entertainment they provided important networking opportunities. This is captured neatly in a very self-congratulatory lithograph dated 1826, commissioned by one of the members, Henry Ward, a local newsagent. It claims to show likenesses of many members, and those named can be corroborated  by local records, but at this distance the more interesting features of the print relate to the conspicuous consumption – of alcohol, tobacco, and music – in a setting freighted with cultural signifiers. This is an explicit statement of aspirational socio-political identity. The features of the 25 musicians in the background are lost in the haze. But it is worth noting two things by way of context: the popularity of these clubs across the nation, and the fact that this respectable, posed informality fails to tell the whole story. 
 
