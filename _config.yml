@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Kent Maps Online # the main title
 
-tagline: Kent in words and places. # it will display as the subtitle
+tagline: Exploring Kent's History, Landscapes, and Literature. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -113,7 +113,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -172,6 +172,9 @@ kramdown:
 
 collections:
   tabs:
+    output: true
+    sort_by: order
+  admin:
     output: true
     sort_by: order
 
