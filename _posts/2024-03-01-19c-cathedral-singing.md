@@ -1,10 +1,10 @@
 ---
 title: "Cathedral Singers"
-description: ""
+description: "This essay examines the working lives of Canterbury Cathedral lay clerks and choristers from the late eighteenth to the nineteenth century, showing how cathedral singing was sustained by a mix of church appointments and piecemeal musical work. Using cathedral records, civic documents, and newspaper reports, it connects sacred music-making to Canterbury’s wider urban cultural economy and regional travel networks."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Faith & belief, Towns & cities, Arts & performance, Travel & mobility ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -13,7 +13,6 @@ published: true
 toc: false    
 ---
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
 
 Since the dissolution of the monasteries in the 1540s, the new cathedrals constituted by statute had allowed unordained men to swell the ranks of the choir required to sing the two prescribed daily offices – Matins in the Morning and Evensong in the afternoon. Ordained men – so-called Minor Canons – sang alongside them, but it was a rare cathedral which could find enough to make up the alto, tenor and bass lines, so ‘Lay Clerks’ (or, in some places, ‘Lay Vicars’) were employed to do the job. [Canterbury](/music/19c-music-canterbury) had twelve of them (four of each voice), alongside the six Minor Canons and ten boy Choristers.
 
@@ -46,7 +45,7 @@ _The Dover Road: Annals of an Ancient Turnpike_
 
 Jackson, W. (1795). On Catches. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies.   
 (1863). Obituary, Thomas Goodban. The Musical Times and Singing Class Circular, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133   
-Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469.  
+Scholes, P. (1920). The[Canterbury Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s). The Music Student, XII(8), 468-469.
 
 ### References
 

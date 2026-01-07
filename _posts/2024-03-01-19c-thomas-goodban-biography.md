@@ -1,10 +1,10 @@
 ---
 title: "Thomas Goodban (1784-1863)"
-description: ""
+description: "This essay traces the life and work of Thomas Goodban, a key figure in nineteenth-century Canterbury music culture, focusing on his role with the Catch Club Orchestra and his entrepreneurial subscription concerts. It also examines his inventive printed teaching aids, including Goodban’s Game of Musical Characters and later Music Cards, and how these publications circulated beyond Kent."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Authors & lives, Arts & performance, Towns & cities, Material culture ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -12,10 +12,6 @@ permalink: /music/19c-thomas-goodban-biography/
 published: true
 toc: false    
 ---
-
-<param ve-entity eid="Q29303" aliases="Canterbury">
-
-#
 
 Thomas Goodban (1784–1863), the long-standing conductor of the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) Orchestra, was an entrepreneurial force in the club. In 1833, he advertised ‘Subscription Concerts’ – four per season, from December through to March, at a guinea for the lot (for which two tickets of admission per concert are purchased). The one in November 1834 is the most eye-catching, for it features Henry Rowley Bishop, one of the most significant musical personalities of the day – and his wife.
 
@@ -59,7 +55,7 @@ There are other nineteenth-century examples of creative attempts at music educat
 
 In between the Game and the Cards, as the _Musical Times_ records, Goodban had been most industrious. The title page of the Music Cards booklet claims him to be the ‘Author of a complete guide to playing the violin; instructions for the pianoforte; the rudiments of music, with progressive exercises to be written upon slates; etc.’ This is true; copies are in the British Library. In 1840, a second edition of the Piano tutor, with an additional ‘variety of exercises for forming the hands, acquiring independence and facility of action, and contracting and changing them, &c., &c.’, met with an enthusiastic reception from the home crowd: the [_Kentish Gazette_](/18c/18c-kentish-gazette) recommended it as tending ‘more than any perceptive book we have ever seen, to perfect the student in the rudiments of the science.’[^ref6] 
 
-All these creations were published in London: the Game by Goulding, D’Almaine, Potter, & Co. of 20, Soho Square; the Cards by Simpkin, Marshall and Co., Stationers Court and J. A. Novello, Dean Street, Soho and 24, Poultry; the Violin Tutor by Preston ‘at his Wholesale Warehouses, 97, Strand’; and the Piano Tutor by Coventry and Hollier, 71, Dean Street, Soho. Such an imprimatur would have ensured a distribution well beyond the city of Canterbury.
+All these creations were published in London: the Game by Goulding, D’Almaine, Potter, & Co. of 20, Soho Square; the Cards by Simpkin, Marshall and Co., Stationers Court and J. A. Novello, Dean Street, Soho and 24, Poultry; the Violin Tutor by Preston ‘at his Wholesale Warehouses, 97, Strand’; and the Piano Tutor by Coventry and Hollier, 71, Dean Street, Soho. Such an imprimatur would have ensured a distribution well beyond the city of [Canterbury](Q29303).
 
 Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](/music/19c-william-longhurst-biography) (1819–1904).
 
@@ -72,7 +68,7 @@ _Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music_
 ### Bibliography
 
 Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.   
-(1863). Obituary, Thomas Goodban. _The Musical Times and Singing Class Circular_, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133   
+(1863). Obituary, Thomas Goodban. _The Musical Times and Singing Class Circular_, 11(244), 70-71. Retrieved from http://www.jstor.org/stable/3352133
 
 ### References
 
@@ -81,5 +77,5 @@ Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.
 [^ref3]: _Kentish Gazette_, pp. 9 December 1845, 2.   
 [^ref4]: Ibid.   
 [^ref5]: Obituary, Thomas Goodban. The Musical Times and Singing Class Circular (1 June 1863), 11 (244).   
-[^ref6]:  _Kentish Gazette_, pp. 6 October 1840, 3.   
+[^ref6]:  _Kentish Gazette_, pp. 6 October 1840, 3.
 

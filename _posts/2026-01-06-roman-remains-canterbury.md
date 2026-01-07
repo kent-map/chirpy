@@ -1,0 +1,135 @@
+---
+title: "Recycling Roman material in Early Medieval Canterbury"
+description: "This essay examines how early medieval builders in Canterbury reused Roman building materials and infrastructure after the end of Roman rule. Using churches, abbey remains, city walls, and road networks as examples, it shows how spolia shaped the fabric and continuity of the city into the Anglo-Saxon period."
+author: Harvey Wallace
+date: 2026-01-06
+categories: [ built ]
+tags: [ Buildings & architecture, Towns & cities, Material culture, Travel & mobility ]
+image: 
+  path: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey%2C_Canterbury_%281%29_2024-12-29.jpg"
+layout: post
+permalink: /built/roman-remains-canterbury/
+published: true
+toc: false    
+---
+
+
+The Romans occupied England from 43AD to 410AD, during which they devoloped Canterbury from a small settlement on the road from Dover to London,[^ref1] to an important city of its own. Once the Romans left England much of their construction knowledge left with them, along with the infrastructure to support the settlements that they built. This then led to many of the Roman buildings falling into disrepair due to their lack of proper maintenance. In the case of Canterbury this resulted in the city becoming the equivilant to a modern day builders' yard, which also meant that unlike many, the people of Canterbury continued to use the Roman materials in their buildings. 
+The main materials which the Anglo-Saxons reused were dressed green sandstone, as well as Roman clay bricks, as these were the most commonly used materials found in Roman buildings.[^ref2] The dressed green sandstone was a finely cut stone block that was easy to dismantle and rework into new buildings and used in many of the larger Roman buildings.[^ref3] Roman clay bricks were much thinner than their later counterparts and were more orange in colour, and due to their small size they were also easily fitted into new buildings and worked well when many were used together.[^ref4] Both these materials can be seen clearly across many of the Medieval buildings in Canterbury. 
+
+![St Matines Church, 2021](https://upload.wikimedia.org/wikipedia/commons/a/ae/Canterbury%2C_St._Martin%27s_Church%2C_North_eastern_aspect_-_geograph.org.uk_-_6938619.jpg)
+_St Matines Church, 2021_
+{: .right}
+
+The clearest way in which to see these reused materials is with the many pre-Conquest churchs around Canterbury as many of them have the Roman clay bricks clearly visible on their exterior. The earliest site at which this can be seen in St Martin's church, the oldest church in Canterbury.[^ref5]
+
+![St Martins Church Norman tower](https://upload.wikimedia.org/wikipedia/commons/4/47/St_Martins_Church_Norman_tower.jpg)
+_St Martins Church Norman tower_
+{: .right}
+St Martin's was originally a Roman site, the period of which is debate,[^ref6] that was then gifted to Queen Bertha by her husband, at which point it was renovated into their personal chapel.[^ref7] The Roman materials present can be found both in the Anglo-Saxon Chancel and to a lesser extent the Nave. The lowest layers of the walls of the Chancel of St Martin’s clearly show dressed green sandstone blocks which are likely to have been from the original Roman site.
+
+![St Martins Church 2022 South wall 2](https://stor.artstor.org/stor/fb3f75e0-144d-4c2f-9ca1-0432d108e853)
+_St Martins Church 2022 South wall 2_
+{: .right}
+When looking at the Nave, both the interior and exterior have reused Roman clay bricks dotted throughout the walls. Interestingly, the mortar used in the construction of the earliest parts of the church contain crushed-up Roman brick and stone,[^ref8] which was a building method mostly found in France at this time, which implies that Queen Bertha likely brought over stone masons from her homeland in order to construct her chapel.[^ref9]
+
+![St Martins Church South wall Exterior](https://upload.wikimedia.org/wikipedia/commons/1/12/St_Martins_South_wall_exterior.jpg)
+_St Martins Church South wall Exterior_
+{: .right}
+
+Another church where the reuse of Roman materials can be seen is St Mildred's, built in 1030,[^ref10] specifically seen on the eastern-facing exterior wall. The most noticeable reused material is the large dressed green sandstone blocks which make up the eastern corner. Due to their size they are easily distinguished from the rest of the brick work. Aside from the dressed stone there is also a large concentration of Roman clay bricks on the eastern-facing wall, but these are also seen throughout the whole pre-Conquest sections of the church. The materials at this site are likely to have been taken from the Roman theatre which was positioned not far from where the church now stands.[^ref11] This proximity to such a large source of Roman materials meant that it was easy to cart them to the construction site and likely affected where the church ended up being built. 
+
+![East wall of St Mildred](https://upload.wikimedia.org/wikipedia/commons/8/8d/East_wall_of_St_Mildred%27s_Church.jpg)
+_East wall of St Mildred_
+{: .right}
+
+A much larger site that contains reused Roman is St Augustine’s Abbey, which was once build entirely from reused Romans materials but which can only be seen with St Pancras Church at the East end of the site. This structure is one of the oldest parts of the site, constructed in the early 7th century,[^ref12] and is made up almost entirely of Roman red bricks. This stands out from the rest of the site today as it is the only remaining building using these bricks, as most of the original Abbey was renovated by the Normans in the later 11th and early 12th centuries.[^ref13] Like St Martin's Church, the likely reason for this church to be built from Roman red bricks is because of thier durability when compared to contemporary wattle and daub walls, as well as the ease of obtaining these Roman material.  
+
+![Remains of St Pancras church in St Augustine Abby](https://upload.wikimedia.org/wikipedia/commons/0/07/St_Augustine_Canterbury_St_Pancras_church2.JPG)
+_Remains of St Pancras church in St Augustine Abby_
+{: .right}
+
+The walls which surround the city of Canterbury contain reused Roman materials in some of it earliest medieval sections. Canterbury has had walls surrounding it since the Roman city was built,[^ref14] yet the walls which can be seen today are primarily the remains of the later medieval walls.[^ref15] The easiest section at which to find reused materials can be found as Queningate where the remnants of an archway constructed from Roman materials is visible.
+
+![Roman materials used in Queningate a part of the East side of Canterbury city wall](https://stor.artstor.org/stor/76321b82-4f3e-4ca8-99c7-149e1a8877ca)
+_Roman materials used in Queningate a part of the East side of Canterbury city wall_
+{: .right}
+
+There is a clear mix of dressed sandstone as well as red brick present in this archway, and there is more red brick used further along the wall from Queningate.
+
+![Roman materials used in the East side of Canterbury city wall](https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg)
+_Roman materials used in the East side of Canterbury city wall_
+{: .right}
+
+The name of the gate is believed to have come from its use by Queen Bertha as she would use it to go to St Martin's church.[^ref16] Because of its placement so low in the city wall it is possible that it was an original Roman gate that over time was replaced by the gate that is present today.[^ref17] This alludes to how the Anglo-Saxons did not just reuse the materials but also some of the remaining infrastructure.
+
+![Statue of Bertha Queen of Kent located in Lady Wootton's Green](https://upload.wikimedia.org/wikipedia/commons/0/08/Canterbury_-_Bertha_Queen_of_Kent_-_geograph.org.uk_-_6635849.jpg)
+_Statue of Bertha Queen of Kent located in Lady Wootton's Green_
+{: .right}
+
+Another very clear section of Roman reuse in the Canterbury city wall can be found at St Mary's Northgate Hall where on the Northern exterior wall there is clear Roman red brick and dressed sandstone, both which would have been a part of the original Northern side of the Canterbury city walls. The best spot to view this is in St Radigund’s garden, where there is a clear view of this wall. The way in which the Roman material has been used is very clear as well as how the Canterbury city wall evolved over time.
+
+![Remains of the North side of Canterbury city wall in the side of St Mary's](https://upload.wikimedia.org/wikipedia/commons/4/45/Wall_of_St_Mary%27s_church%2C_North_Gate_Canterbury.jpg)
+_Remains of the North side of Canterbury city wall in the side of St Mary's_
+{: .right}
+
+Lastly, the most used yet least visible reuse of Roman infrastructure is the Roman roads which lead out from Canterbury.[^ref18] There are five Roman roads which lead out of Canterbury, which during the time of the Romans would connect the city to other important site within the South East of England. Firstly, the road out of Ridingate to Dover, known to the Romans as Portus Dubris.[^ref19] This road would have been very important as Dover was the closest point between Gaul and Britain, this remained true even into the Anglo-Saxon period.[^ref20] This can be seen with how Dover had a burh on the site of what is now Dover Castle, something that can be found in records from 1051.[^ref21] The road from Canterbury to Lympne, know to the Romans as Portus Lemanis, also goes through Ridingate and was a Roman road.[^ref22] This road goes directly to the coast where there was a military garrison in Lympne.[^ref23] Lympne was also later used by the Anglo-Saxons as seen through the remains of a shore fort which was abandoned likely between 340-350 and later became a victim of land-slipping.[^ref24] Yet, despite the fort being abandoned, it is possible that this area may have seen continuous use by the Anglo-Saxons as the road and town are still in use today.  The next Roman road is the one that goes through Burgate and leads to Richborough known as Rutupae to the Romans.[^ref25] Richborough, like Dover, was a harbour town with a fort and an amphitheatre,[^ref26] and it is also where the Romans landed under Claudius in 43AD.[^ref27] There is some evidence of later use by the Anglo-Saxons, and Richborough is not far from where St Augustine landed in the late 6th century,[^ref28] implying that there may have been a settlement there of some kind. Lastly, there is debatably the most important road in both the Roman era and the medieval era, the road to London through Westgate. This is due to London being the seen as a major seat of power in England in both time periods, especially in the medieval era as the only way the king would arrive in Canterbury would be throught Westgate. The road itself is still one of the main routes out of Canterbury to this day. This all highlights how it was not just the building materials and other physical remains of Roman Canterbury that where reused, it was also likely much of the infrastructure as even many smaller roads in Canterbury were once Roman roads. Their reuse could have been due to convenience as these roads where low maintenance so it would make sense for them to be reused. As well as this, it may have even just been that these were the quickest and safest ways to get around Kent, something that may have also encouraged the reuse of Roman settlements through Kent due to their interconnectedness.
+
+![Route of the Roman roads that lead out of Canterbury overlaid on map of Roman Britain](https://upload.wikimedia.org/wikipedia/commons/d/da/1911Watling_Street.png)
+_Route of the Roman roads that lead out of Canterbury overlaid on map of Roman Britain_
+{: .right}
+
+To bring this all to a close, the Anglo-Saxons commonly used the ruins of Roman Canterbury as their builders' yard, taking valuable materials which they were unable to reproduce to the same quality, and using them to construct new buildings. This has been highlighted with the widespread reuse of Roman red bricks across the city, mainly in churchs and the city walls, as well as the less obvious reusage of Roman dressed green sandstone. There is also clear reuse of Roman infrastructure as seen in the continued use of the Roman roads as well as the settlements which they led to.         
+
+![Church of St Pancras 2025](https://stor.artstor.org/stor/32679105-93c3-49e0-a480-2f59b746b2ba)
+_Church of St Pancras 2025_
+{: .right}
+
+### Bibliography
+
+Allen, Martyn, David Bird, and Ben Croxford. The Roman Period. kent.gov.uk 2022. Accessed 02/1/2026   
+Blanning, Elizabeth Denise. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014.   
+Blockley, Kevin. The Anglo-Saxon Churches of Canterbury Archaeologically Reconsidered. PhD diss., Durham University, 2000.   
+Brooks, Nicholas. The Early History of the Church of Canterbury: Christ Church from 597 to 1066. Leicester University Press, 1984.   
+Canterbury Historical and Archaeological Society. Bertha, Queen. 2024.Canterbury Historical and Archaeological Society. (2024). Accessed 04/01/2026   
+Creighton, Oliver, and Robert Higham. Medieval Town Walls: An Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005.   
+Frere, Sheppard, and Grace Simpson. “The Roman Theatre at Canterbury.” Britannia 1, 1970.   
+Frere, S. S., and Sally Stow. Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982.   
+Hornblower, Simon, and Antony Spawforth, eds. The Oxford Companion to Classical Civilization. Oxford University Press, 1998.   
+Hutchinson, J. N., Cynthia Poole, N. Lambert, and E. N. Bromhead. “Combined Archaeological and Geotechnical Investigations of the Roman Fort at Lympne, Kent.” Britannia 16, 1985. 209–236.   
+Lyle, M. Canterbury: 2000 Years of History. The History Press Ltd., 2002.   
+Sweetinburgh, Sheila, ed. Early Medieval Kent, 800–1220. Boydell & Brewer, 2016.   
+Taylor, Martin I. The Cradle of English Christianity: The Coming of St Augustine and St Martin’s Church Canterbury. St Martin’s and St Paul’s PPC, 1997.   
+Wacher, John. The Towns of Roman Britain. Social Science, 2017.   
+Williams, J. H. “Roman Building-Materials in South-East England.” Britannia 2, 1971. p.166–195.
+
+### References
+
+[^ref1]: Simon Hornblower, Antony Spawforth, eds. The Oxford Companion to Classical Civilization. Oxford University Press, 1998. p. 129-131
+[^ref2]: M. Lyle. Canterbury: 2000 Years of History. The History Press Ltd. (2002).
+[^ref3]: J. H. Williams, "Roman building-materials in south-east England." Britannia 2, 1971. 166-195. p. 172
+[^ref4]: J. H. Williams, "Roman building-materials in south-east England." Britannia 2, 197.: 166-195. p. 176
+[^ref5]: Martin I. Taylor, The Cradle of English Christianity, The Coming of St Augustine and St Martin’s Church Canterbury. St Marti’s and St Paul’s PPC, 1997. p.1
+[^ref6]: Martin I. Taylor, The Cradle of English Christianity, The Coming of St Augustine and St Martin’s Church Canterbury. St Marti’s and St Paul’s PPC, 1997. p.2
+[^ref7]: Martin I. Taylor, The Cradle of English Christianity, The Coming of St Augustine and St Martin’s Church Canterbury. St Marti’s and St Paul’s PPC, 1997. p.1
+[^ref8]: Kevin Blockley. The Anglo-Saxon churches of Canterbury archaeologically reconsidered. PhD diss., Durham University, (2000) p. 18
+[^ref9]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 172
+[^ref10]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 213
+[^ref11]: Sheppard Frere, and Grace Simpson. "The Roman Theatre at Canterbury." Britannia 1, 1970. p. 85
+[^ref12]: Kevin Blockley. The Anglo-Saxon churches of Canterbury archaeologically reconsidered. PhD diss., Durham University, 2000. p. 18
+[^ref13]: M. Lyle. Canterbury: 2000 Years of History. The History Press Ltd, 2002. p. 52-53
+[^ref14]: S. S. Frere, Sally Stow, Excavations on the Roman and Medieval Defences of Canterbury. Maidstone, UK: Canterbury Archaeological Trust and Kent Archaeological Society, 1982. p. 17
+[^ref15]: Oliver Creighton, Robert Higham. Medieval Town Walls: an Archaeology and Social History of Urban Defence. Stroud, UK: Tempus, 2005. p. 259 
+[^ref16]: Canterbury Historical and Archaeological Society. (2024). Bertha, Queen – Canterbury Historical and Archaeological Society, 2024.
+[^ref17]: M. Lyle. Canterbury: 2000 Years of History. The History Press Ltd, 2002. p. 41
+[^ref18]: John Wacher. "THE FIRST CIVITAS CAPITALS." The Towns of Roman Britain, Social Science 2017. p. 199-200
+[^ref19]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 114
+[^ref20]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 114
+[^ref21]: Sheila Sweetinburgh, ed. Early Medieval Kent, 800-1220. Boydell & Brewer, 2016. p. 114
+[^ref22]: Elizabeth Denise Blanning. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014. p. 403
+[^ref23]: Elizabeth Denise Blanning. Landscape, Settlement and Materiality: Aspects of Rural Life in Kent during the Roman Period. University of Kent, 2014. p. 403
+[^ref24]: J. N. Hutchinson, Cynthia Poole, N. Lambert, and E. N. Bromhead. "Combined archaeological and geotechnical investigations of the Roman fort at Lympne, Kent." Britannia 16, 1985. p. 233
+[^ref25]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
+[^ref26]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
+[^ref27]: Martyn Allen, David Bird, and Ben Croxford. "The Roman Period." kent.gov.uk, 2022. p. 17
+[^ref28]: Nicholas Brooks. The early history of the Church of Canterbury: Christ Church from 597 to 1066. Leicester Univ. Press, 1984. p. 8-9

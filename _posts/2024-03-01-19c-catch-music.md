@@ -1,10 +1,10 @@
 ---
 title: "The Catch"
-description: ""
+description: "This essay explains the history and performance practice of the catch and its close relation to the English glee, emphasizing how meaning and harmony emerge only when multiple voices sing together. It follows the genre from medieval and early modern examples through its eighteenth- and nineteenth-century popularity in taverns, clubs, and civic occasions, with Canterbury and cathedral-choir culture as a key context."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Arts & performance, Towns & cities, Culture & society, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -13,7 +13,6 @@ published: true
 toc: false    
 ---
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
 
 The catch has a long history: ‘Sumer is Icumen In’ dates from the thirteenth century; Shakespeare makes reference to it, and Pepys records singing them socially with friends. Nowadays, we would call such a piece of music a round: in essence, it consists of a single melody, broken up into phrases of equal length (usually three or four), which may be sung not only consecutively, but concurrently. The composer’s skill is then evident, as the underlying harmony becomes audible. In performance, the singers begin the melody in turn, each beginning when the preceding singer reaches the end of the first phrase, and all will simply repeat the melody until, by common consent or musical mishap, all stop. 
 
@@ -58,4 +57,4 @@ _Canterbury Cathedral, from A Walk In and About the City of Canterbury_
 
 ### Bibliography
 
-Jackson, W. (1795). _On Catches_. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies.  
+Jackson, W. (1795). _On Catches_. In Letters on Various Subjects (3 ed., pp. 61-71). London: T. Cadell, Jun., and W. Davies.

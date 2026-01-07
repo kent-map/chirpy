@@ -1,10 +1,10 @@
 ---
 title: "William Henry Longhurst (1819–1904)"
-description: ""
+description: "This essay profiles William Henry Longhurst, who served Canterbury Cathedral for over 70 years as chorister, lay clerk, assistant organist and organist, and outlines his published compositions and teaching work. It also uses the Canterbury music collection to show how nineteenth-century musical publishing and subscription networks spread repertoire across Britain."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Authors & lives, Faith & belief, Arts & performance, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -13,11 +13,7 @@ published: true
 toc: false    
 ---
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-
-#
-
-William Henry Longhurst gave just over 70 years of service to Canterbury Cathedral as boy Chorister, Lay Clerk (i.e., gentleman singer), Assistant Organist, and Organist (from 1873). As a composer, his output included an appreciable number of vocal compositions, both sacred and secular. Many were published by London-based houses, amongst whom the most notable names are Novello and Curwen, but the more important point is that several of the pieces were considered worthy of inclusion in collections by both publishers. His one foray into music education was a book of ‘Slate Exercises […] A collection of exercises on the value of notes, rests, etc. […] Dedicated to all professors of music for the instruction of their pupils in time’ is no less impressive than that of [Thomas Goodban](/music/19c-thomas-goodban-biography), the celebrated composer and conductor of the [Catch Club](/music/19c-catch-club). This is Longhurst's only foray into music education. The music was published by various London-based houses, amongst whom the most notable names are Novello and Curwen, but the more important point is that several of the pieces were considered worthy of inclusion in collections by both publishers. 
+William Henry Longhurst gave just over 70 years of service to [Canterbury](Q29303) Cathedral as boy Chorister, Lay Clerk (i.e., gentleman singer), Assistant Organist, and Organist (from 1873). As a composer, his output included an appreciable number of vocal compositions, both sacred and secular. Many were published by London-based houses, amongst whom the most notable names are Novello and Curwen, but the more important point is that several of the pieces were considered worthy of inclusion in collections by both publishers. His one foray into music education was a book of ‘Slate Exercises […] A collection of exercises on the value of notes, rests, etc. […] Dedicated to all professors of music for the instruction of their pupils in time’ is no less impressive than that of [Thomas Goodban](/music/19c-thomas-goodban-biography), the celebrated composer and conductor of the [Catch Club](/music/19c-catch-club). This is Longhurst's only foray into music education. The music was published by various London-based houses, amongst whom the most notable names are Novello and Curwen, but the more important point is that several of the pieces were considered worthy of inclusion in collections by both publishers. 
 
 ![Plaque to Longhurst in Canterbury Cathedral](https://stor.artstor.org/stor/ee2dd200-0f05-4e33-877d-45477188e322)
 _Plaque to Longhurst in Canterbury Cathedral_

@@ -1,10 +1,10 @@
 ---
 title: "John Marsh (1752-1828)"
-description: ""
+description: "This essay uses John Marsh's diary from his years at Nethersole near Canterbury to reconstruct a lively musical and social world shaped by the practical limits of night travel. It links his concert-going and coaching experiences to broader debates about road conditions and the impact of McAdam's road-building reforms on mobility across Kent."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Authors & lives, Travel & mobility, Culture & society, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -13,14 +13,8 @@ published: true
 toc: false    
 ---
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q213180" aliases="Maidstone">
-<param ve-entity eid="Q1000115" aliases="Faversham">
-<param ve-entity eid="Q26372738" aliases="Nethersole">
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
 
-**Place:** Nethersole, near Canterbury (1783-7)
+**Place:** Nethersole, near [Canterbury](Q29303) (1783-7)
 
 According to the extensive journal of John Marsh, gentleman, barrister, and talented amateur musician, the few years he spent living at Nethersole, near [Canterbury](/music/19c-music-canterbury), were notable for the concerts in which he either played a leading role (as violinist, organist, composer, and/or organiser) or was an enthusiastic member of the audience. Occasionally he records a trip to London to sustain his study for the bar, though this seems by some way the less important part of his life. Apart from the prodigious musical energy of the man, the glimpses of the county's cultural life and the infrastructure – such as it was – which supported it are fascinating:
 
@@ -29,7 +23,8 @@ According to the extensive journal of John Marsh, gentleman, barrister, and tale
 ![18th century map showing Nethersole House](https://stor.artstor.org/stor/244f4d71-a16f-4dc8-b220-994b63422a06)
 _18th century map showing Nethersole House_
 {: .right}
-<param ve-map center="Q26372738" zoom="10">
+
+{% include embed/map.html center="Q26372738" zoom="10" marker="true" %}{: .right}
 
 A little later in the diary, Marsh notes that his musical activities were not always so accommodating:
 
@@ -69,24 +64,29 @@ _Mann mit Rotwein, late 18th century_
 
 The improvement in travelling comfort in the first three or four decades of the nineteenth century, as McAdam's method of road building was adopted across the nation, must have been wondrous at the time. Some sense of that wonder may be found in the newspaper report below: in reporting the stunt pulled off by a local actor-manager, the [_Kentish Gazette_](/18c/18c-kentish-gazette) clearly found the travelling more remarkable than the acting, since the report gives no clue as to what piece or pieces, exactly, Mr Sloman performed:
 
-'Mr Sloman's professional feat. On Thursday evening Mr Sloman, the spirited manager of this circuit [of theatres], completed his undertaking to perform in three pieces at the Canterbury, Rochester, and Maidstone theatres, within the hours of seven and 12 o'clock. The time of performing in the pieces, at the three theatres, took one hour and 48 minutes, and the time of travelling from Canterbury to Rochester, and from thence to Maidstone (36 post miles), two hours and 27 minutes, making together four hours and 15 minutes. His performances at Canterbury commenced at 7 o'clock, and closed at Maidstone at a quarter past eleven, thus completing his task in 45 minutes less than the time given. Mr Sloman was supplied with horses at the Lion Hotel, Canterbury; the Ship Inn, Faversham; the Rose Inn, Sittingbourne; and the Bull Inn, Rochester. The travelling was done at the rate of nearly 15 miles an hour, over ground by no means the most favourable for travelling. Mr Sloman was warmly greeted and cheered at the different towns he passed through, as also on his arrival at Maidstone, where he had the gratification of finishing his task to a house filled to the ceiling.'[^ref5]
+'Mr Sloman's professional feat. On Thursday evening Mr Sloman, the spirited manager of this circuit [of theatres], completed his undertaking to perform in three pieces at the Canterbury, [Rochester](Q507517), and [Maidstone](Q213180) theatres, within the hours of seven and 12 o'clock. The time of performing in the pieces, at the three theatres, took one hour and 48 minutes, and the time of travelling from Canterbury to Rochester, and from thence to Maidstone (36 post miles), two hours and 27 minutes, making together four hours and 15 minutes. His performances at Canterbury commenced at 7 o'clock, and closed at Maidstone at a quarter past eleven, thus completing his task in 45 minutes less than the time given. Mr Sloman was supplied with horses at the Lion Hotel, Canterbury; the Ship Inn, [Faversham](Q1000115); the Rose Inn, [Sittingbourne](Q1626044); and the Bull Inn, Rochester. The travelling was done at the rate of nearly 15 miles an hour, over ground by no means the most favourable for travelling. Mr Sloman was warmly greeted and cheered at the different towns he passed through, as also on his arrival at Maidstone, where he had the gratification of finishing his task to a house filled to the ceiling.'[^ref5]
 
 For much more prosaic reasons, [Canterbury's musicians](/music) would certainly have appreciated the improvement in travelling conditions.
 
 ![The Old Theatre Royal, Rochester](https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d)
 _The Old Theatre Royal, Rochester_
 {: .right}
-<param ve-map center="Q29303" zoom="10">
-<param ve-map center="Q507517" zoom="10">
-<param ve-map center="Q213180" zoom="10">
-<param ve-map center="Q1000115" zoom="10">
-<param ve-map center="Q1626044" zoom="10">
+
+{% include embed/map.html center="Q29303" zoom="10" marker="true" %}{: .right}
+
+{% include embed/map.html center="Q507517" zoom="10" marker="true" %}{: .right}
+
+{% include embed/map.html center="Q213180" zoom="10" marker="true" %}{: .right}
+
+{% include embed/map.html center="Q1000115" zoom="10" marker="true" %}{: .right}
+
+{% include embed/map.html center="Q1626044" zoom="10" marker="true" %}{: .right}
 
 ### References
 
- [^ref1]: Baring-Gould, 1890, 210.   
+[^ref1]: Baring-Gould, 1890, 210.   
  [^ref2]: Baring-Gould, 1890, 202–212.   
  [^ref3]: Baring-Gould, 1890, 217–8.   
  [^ref4]: Baring-Gould, 1890, 212.  
- [^ref5]:	_Kentish Gazette_, 6 May 1834, p. 3.   
+ [^ref5]:	_Kentish Gazette_, 6 May 1834, p. 3.
 

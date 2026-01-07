@@ -1,10 +1,10 @@
 ---
 title: "James Shoubridge (c.1805-1872)"
-description: ""
+description: "A biographical sketch of James Shoubridge, a lay clerk at Canterbury Cathedral in the 1820s–1840s, tracing his reputation, gratuities, and eventual resignation for a post at the Foundling Hospital. Using cathedral records and newspaper reports, it situates his conducting and singing within Canterbury’s nineteenth-century sacred music scene and its local societies."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Authors & lives, Faith & belief, Arts & performance, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -12,10 +12,6 @@ permalink: /music/19c-james-shoubridge/
 published: true
 toc: false    
 ---
-
-<param ve-entity eid="Q29303" aliases="Canterbury">
-
-#
 
 James Shoubridge was the last name on the list of men who were Lay Clerks at [Canterbury Cathedral](/music/19c-cathedral-singing) in 1825–6. Shoubridge was clearly a model Lay Clerk: in 1830, it was ‘Resolved that £10 a year each be given during pleasure to Shoubridge & Longhurst, Lay Clerks.’[^ref1]  There followed another gratuity in 1839: ‘James Shoubridge received a grant of £10 in addition to his stipend from July 6,’[^ref2]  again for no specified reason. In the event, he resigned the following year ‘upon obtaining an appointment at the Foundling [Hospital]’, as was recorded in the Precentor’s Book for the period.[^ref3]  He had a long and successful career from there: in 1857 he became a Vicar Choral at St Paul’s Cathedral and conductor of the Cecilian Society, London, in 1852. 
 
@@ -26,7 +22,7 @@ _The Choir, Canterbury Cathedral_
 The [Kentish Gazette](/18c/18c-kentish-gazette) reports make it clear that Shoubridge contributed significantly to the musical life of [Canterbury](/music/19c-music-canterbury): his singing is warmly received in reports from 1834,[^ref4]  but he seems to have been a leading light in the Sacred Harmonic Society, which first appears in the papers in that year:
 
 SACRED HARMONIC SOCIETY   
-Guildhall concert rooms, Canterbury   
+Guildhall concert rooms, [Canterbury](Q29303)   
 A grand selection of SACRED MUSIC, from HANDEL’S Oratorio of the MESSIAH;    
 HAYDN’S CREATION, &c., &c., will be given by upwards of SEVENTY VOCAL and    
 INSTRUMENTAL PERFORMERS,   
@@ -57,5 +53,5 @@ _The Canterbury Catch Club_
 [^ref3]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.   
 [^ref4]: _Kentish Gazette_ template’ _Kentish Gazette_, pp. 11 March 1834, 3.   
 [^ref5]: _Kentish Gazette_, pp. 3 March 1857, 4.   
-[^ref6]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.   
+[^ref6]: _Precentor’s Book_. GB-CA; CCA-DCc-PB/7, p. inside front cover.
 

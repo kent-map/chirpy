@@ -1,10 +1,10 @@
 ---
 title: "Music in Canterbury"
-description: ""
+description: "This essay explores musical life in Canterbury during the late eighteenth and nineteenth centuries through evidence from newspapers, directories, and club records. It focuses on the Canterbury Catch Club and related glee clubs as hubs of bourgeois sociability, mapping members’ proximity within the city and tracing links to visiting performers travelling from London."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ ]
+tags: [ Arts & performance, Towns & cities, Maps & place-making, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -13,11 +13,10 @@ published: true
 toc: false    
 ---
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
 
 A glance through the pages of a local paper at any point in the eighteenth and nineteenth centuries will furnish ample evidence of lively entertainment on offer, at least to those who could afford it and could gain access to the environments in which it took place. _Stapleton's Directory of 1838_ lists two venues (the Assembly Rooms and a theatre) and two musical clubs, but this hardly does justice to the vitality of the cultural production and consumption at the time: newspaper reports testify on a weekly basis to the earnest pursuit of musical entertainment. The following news report is typical in its somewhat formulaic celebration, although the reporting of a newly invented instrument is exceptional; it is to be regretted that nothing more is known of the flautocufolicon. 
 
-'On Wednesday evening the Canterbury Catch Club concert, under the direction of Mr Thomas Goodban, was exceedingly entertaining. The overtures were performed with much spirit, and the glees and songs elicited unbounded applause, particularly the inspiring song of ‘Blue Bonnets over the Border’ by Mr Beckwith, which was encored. In the course of the evening Mr Longhurst introduced a new instrument of his invention, which is a species of organ, and is an admirable accompaniment to that instrument and the pianoforte, and from its soft and melodious tones, we doubt not will soon become indispensable in every music room. It is termed the ‘Flautocufolicon’, and can be made to any size at a very moderate expense. The room was crowded, and the evening passed off with great eclat.'[^ref1] 
+'On Wednesday evening the [Canterbury](Q29303) Catch Club concert, under the direction of Mr Thomas Goodban, was exceedingly entertaining. The overtures were performed with much spirit, and the glees and songs elicited unbounded applause, particularly the inspiring song of ‘Blue Bonnets over the Border’ by Mr Beckwith, which was encored. In the course of the evening Mr Longhurst introduced a new instrument of his invention, which is a species of organ, and is an admirable accompaniment to that instrument and the pianoforte, and from its soft and melodious tones, we doubt not will soon become indispensable in every music room. It is termed the ‘Flautocufolicon’, and can be made to any size at a very moderate expense. The room was crowded, and the evening passed off with great eclat.'[^ref1] 
 
 ![Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &c.](https://deriv.nls.uk/dcn30/1050/0038/105000383.30.jpg)
 _Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &c._
@@ -72,7 +71,7 @@ _The Canterbury-Dover Coach passing Vanbrugh Castle_
 
 ### Bibliography
 
-Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25. 
+Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.
 
 ### References
 
