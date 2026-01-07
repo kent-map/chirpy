@@ -1,6 +1,6 @@
 ---
 title: "F. F. Montrésor (1862-1934)"
-description: "This essay traces the life and career of romance novelist F. F. Montrsor, born in Walmer, and links her family background to the Kent settings and social worlds reflected in her writing. It closely reads Into the Highways and Hedges through places around Dover and the coast, showing how local landscapes, religious preaching, and seaside culture shape key scenes and themes."
+description: "This essay traces the life and career of romance novelist F. F. Montrésor, born in Walmer, and links her family background to the Kent settings and social worlds reflected in her writing. It closely reads Into the Highways and Hedges through places around Dover and the coast, showing how local landscapes, religious preaching, and seaside culture shape key scenes and themes."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
@@ -12,7 +12,6 @@ permalink: /19c/montresor-biography/
 published: true
 toc: false    
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <!-- Global Entities -->
 
