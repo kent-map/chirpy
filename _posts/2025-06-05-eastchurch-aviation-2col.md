@@ -11,7 +11,7 @@ layout: post-2col
 permalink: /20c/eastchurch-aviation-2col/
 published: true
 toc: false    
-pin: true
+featured: true
 ---
 
 

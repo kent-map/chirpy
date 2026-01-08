@@ -6,20 +6,17 @@ date: 2024-03-01
 categories: [ music ]
 tags: [ Faith & belief, Towns & cities, Arts & performance, Travel & mobility ]
 image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+  path: wc:Canterbury_Cathedral_Choir_%2840805457492%29.jpg
+  alt: Canterbury Cathedral Choir
 layout: post
-permalink: /music/19c-cathedral-singing/
+permalink: /music/19c-cathedral-singing1/
 published: true
-toc: false  
-pin: true  
+toc: false
+featured: true 
 ---
 
 
 Since the dissolution of the monasteries in the 1540s, the new cathedrals constituted by statute had allowed unordained men to swell the ranks of the choir required to sing the two prescribed daily offices – Matins in the Morning and Evensong in the afternoon. Ordained men – so-called Minor Canons – sang alongside them, but it was a rare cathedral which could find enough to make up the alto, tenor and bass lines, so ‘Lay Clerks’ (or, in some places, ‘Lay Vicars’) were employed to do the job. [Canterbury](/music/19c-music-canterbury) had twelve of them (four of each voice), alongside the six Minor Canons and ten boy Choristers.
-
-![Canterbury Cathedral Choir](https://upload.wikimedia.org/wikipedia/commons/5/52/Canterbury_Cathedral_Choir_%2840805457492%29.jpg)
-_Canterbury Cathedral Choir_
-{: .right}
 
 The work of a Lay Clerk never has been a full-time job, and has never paid a wage that would enable a man to house, clothe, and feed himself, let alone a family. A scrutiny of civic documents alongside cathedral records enable a guess as to what else some of them did, though anything gleaned from outside the Precincts is rather more speculative. As an example, the men who sang in the cathedral choir in the year of the [Canterbury Catch Club](/music/19c-catch-club) print, 1826, are listed below (Figure 6), but the only two in this cohort whose occupations might be confidently identified are the first, Shrubsole, a saddler, and the fourth, Pillow, who was a hoyman – and possibly a smuggler, at least during the Napoleonic Wars.
 

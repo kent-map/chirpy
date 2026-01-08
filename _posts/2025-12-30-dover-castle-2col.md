@@ -8,10 +8,10 @@ tags: [ Buildings & architecture, Conflict & war, Coast & sea, Heritage & memory
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dover-Castle.jpg"
 layout: post-2col
-permalink: /built/dover-castle/
+permalink: /built/dover-castle-2col/
 published: true
 toc: false    
-pin: true
+featured: true
 ---
 
 
