@@ -27,6 +27,7 @@ const repositionFloats = () => {
 
         // Walk backward over contiguous <p> elements
         while (ref && ref.tagName === 'P' && !ref.classList.contains('left') && !ref.classList.contains('right')) {
+            ref.classList.add('text');
             ref = ref.previousElementSibling;
             break;  // Only move before the first preceding <p>
         }
@@ -153,42 +154,6 @@ function whosOnFirstUrl(wof) {
     return `https://data.whosonfirst.org/${wofParts.join('/')}/${wof}.geojson`
 }
 
-// For cropping regular images
-async function imageDataUrl(url, region, dest) {
-    return new Promise((resolve) => {
-        let { x, y, w, h } = region
-        let { width, height } = dest
-
-        let image = new Image()
-        image.crossOrigin = 'anonymous'
-        x = x ? x / 100 : 0
-        y = y ? y / 100 : 0
-        w = w ? w / 100 : 0
-        h = h ? h / 100 : 0
-
-        image.onload = () => {
-            let sw = image.width
-            let sh = image.height
-            let swScaled = w > 0 ? sw * w : sw - (sw * x)
-            let shScaled = h > 0 ? sh * h : sh - (sh * y)
-            let ratio = swScaled / shScaled
-            if (ratio > 1) height = width / ratio
-            else width = height * ratio
-            const canvas = document.createElement('canvas')
-            const ctx = canvas.getContext('2d')
-            canvas.width = width
-            canvas.height = height
-            x = x * sw
-            y = y * sh
-            ctx?.drawImage(image, x, y, swScaled, shScaled, 0, 0, width, height)
-            let dataUrl = canvas.toDataURL()
-            resolve(dataUrl)
-        }
-        image.src = url
-
-    })
-}
-
 const makeEntityPopups = async () => {
     let qids = new Set()
     Array.from(document.body.querySelectorAll('a')).forEach(async a => {
@@ -262,3 +227,5 @@ const makeEntityPopups = async () => {
 makeEntityPopups();
 
 ////////// End Wikidata Entity functions //////////
+
+// export { repositionFloats, makeEntityPopups };
