@@ -186,7 +186,7 @@ script_includes:
     prior = document.querySelector('.active');
     if (prior) prior.classList.remove('active');
     el.classList.add('active');
-  };
+  }
 
   const makeCarousel = (el) => {
     const carousel = document.createElement('wa-carousel');
@@ -200,7 +200,7 @@ script_includes:
       carousel.appendChild(item);
     });
     return carousel;
-  };
+  }
 
   const updateViewer = (el) => {
 
@@ -215,23 +215,20 @@ script_includes:
     clone.style.display = 'block';
     if (viewer.firstChild) viewer.removeChild(viewer.firstChild);
     viewer.appendChild(clone);
-  };
+  }
 
   const handleStepEnter = (response) => {
-    // console.log('enter', response.element);
     setActive(response.element);
     updateViewer(response.element);
-  };
+  }
 
   const positionViewer = () => {
     let articleRect = article.getBoundingClientRect();
     let articleWidth = articleRect.width;
-    // viewer.style.top = header.getBoundingClientRect().bottom - 6 + 'px';
     viewer.style.height = (window.innerHeight - header.getBoundingClientRect().bottom - 2) + 'px';
     viewer.style.width = (articleWidth / 2) + 'px';
     viewer.style.right = window.innerWidth - articleRect.right + 'px';
-    // console.log(viewer.style.right, viewer.style.width);
-  };
+  }
 
   const init = () => {
     window.addEventListener('scroll', () => positionViewer());
@@ -246,7 +243,7 @@ script_includes:
         debug: false
       })
       .onStepEnter(handleStepEnter);
-  };
+  }
 
   init();
 
