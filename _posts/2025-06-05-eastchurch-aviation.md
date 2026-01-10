@@ -21,7 +21,7 @@ The Isle of Sheppey off the north Kent coast, best known for its dockyard, three
 _Isle of Sheppey from Space NASA_
 {: .right}
 
-{% include embed/map.html center="Q1500299" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q1500299" zoom="12" marker="Q1500299" %}{: .right}
 
 After the Wright Brother’s first powered flight in a fixed-wing, heavier-than-air machine on 17th December 1903, at Kitty Hawk, North Carolina, USA, Wilbur and Orville Wright continued refining their design working towards achieving controlled, manoeuvrable aircraft capable of sustained flight.  Despite achieving something that would forever alter the course of humanity, at the time the brothers struggled to get commercial interest, with both British and American governments failing to see the potential in these flying machines.[^ref1]  But a group of fellow pioneers in Britain watched closely as they understood the significance of this breakthrough.  
 
@@ -34,6 +34,8 @@ Charles Rolls - of Rolls Royce Motors fame and fortune - together with Frank and
 ![Ballooning at Monmouth Gasworks, Charles Rolls in the basket](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ballooning_at_Monmouth_Gasworks.jpg)
 _Ballooning at Monmouth Gasworks, Charles Rolls in the basket_
 {: .right}
+
+# Heading
 
 In 1908, members from the Aero Club including Charles Rolls, went to France to see a demonstration of the Wright Flyer, and were each given flights by Wilbur.[^ref5]  On their return they spoke with the Aero Club’s balloon aeronautical engineers, Eustace and Oswald Short, enthusing with great excitement about their experience.  The Short brothers saw the opportunity and decided to expand their work and manufacture flying machines.[^ref6] The third brother and fellow engineer, Horace Short, had been unimpressed with ballooning and found work elsewhere. But when Eustace and Oswald approached him about working with the Wright brothers, he joined them and became a key player in what was to happen next.[^ref7] At the end of 1908, Eustace went to France to meet Wilbur and have a demonstration flight, and negotiations began for the production of the Wright Flyer in the UK. A contract was agreed for the Short Brothers to build the first six Flyers.[^ref8]  Now, they needed a site. 
 
@@ -52,6 +54,8 @@ In February of that year, Horace Short met with the Wright Brothers in Pau, Fran
 ![Short Brothers statue at Leysdown Country Park - geograph.org.uk](https://upload.wikimedia.org/wikipedia/commons/b/b0/Short_Brothers_statue_at_Leysdown_Country_Park_-_geograph.org.uk_-_4428292.jpg)
 _Short Brothers statue at Leysdown Country Park - geograph.org.uk_
 {: .right}
+
+# Another Heading
 
 At the end of April 1909, Aero Club member and aviation enthusiast JTC Moore-Brabazon made history on the Isle of Sheppey by becoming the **first** observed Briton in Britain to officially pilot a heavier-than-air flying machine, named Bird of Passage.[^ref14]  His flight, which took place on Shellbeach, another aviation first for the island, demonstrated the potential of powered flight in Britain, and inspired a new generation of early aviation pioneers to push boundaries through experimentation and engineering innovation, setting records and making history.
 
