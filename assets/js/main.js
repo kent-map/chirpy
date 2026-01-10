@@ -136,34 +136,53 @@ wrapAdjacentEmbedsAsTabs();
 
 const repositionFloats = () => {
     /* Reposition floated elements (.left, .right) to appear before the
-       paragraph block they are intended to float alongside. This is to
-       accommodate markdown that positions the floated element
-       after the paragraph block in the HTML structure. */
+       paragraph block they are intended to float alongside, and wrap
+       each float + its corresponding paragraph block in a container
+       suitable for `display: flow-root` (or grid/flex later). */
 
     const floats = Array.from(document.querySelectorAll('.left, .right')).reverse();
+
     floats.forEach(floatedEl => {
         const parent = floatedEl.parentNode;
         if (!parent) return;
 
-        let ref = floatedEl.previousElementSibling;
+        // Find the contiguous preceding <p> block this float belongs to
+        let p = floatedEl.previousElementSibling;
 
-        // Walk backward over contiguous <p> elements
-        while (ref && ref.tagName === 'P' && !ref.classList.contains('left') && !ref.classList.contains('right')) {
-            ref.classList.add('text');
-            ref = ref.previousElementSibling;
-            break;  // Only move before the first preceding <p>
+        // Collect paragraphs (closest first)
+        const paras = [];
+        while (p && p.tagName === 'P' && !p.classList.contains('left') && !p.classList.contains('right')) {
+            p.classList.add('text');
+            paras.push(p);
+            // If you truly only want ONE paragraph, uncomment the next line:
+            // break;
+            p = p.previousElementSibling;
         }
 
-        // ref is now:
-        // - null (floated element should go first), or
-        // - the element BEFORE the paragraph block
-        const insertBeforeNode = ref
-            ? ref.nextElementSibling
-            : parent.firstElementChild;
+        if (paras.length === 0) {
+            // Nothing to pair with; just move float to start like before
+            parent.insertBefore(floatedEl, parent.firstElementChild);
+            return;
+        }
 
-        parent.insertBefore(floatedEl, insertBeforeNode);
-    })
-}
+        // We walked backwards; restore document order
+        paras.reverse();
+
+        // Anchor: insert wrapper where the paragraph block starts
+        const anchor = paras[0];
+
+        // Create wrapper for flow-root solution
+        const wrapper = document.createElement('div');
+        wrapper.className = 'media-pair';
+
+        // Insert wrapper before the first paragraph, then move nodes into it
+        parent.insertBefore(wrapper, anchor);
+
+        // Put float first, then the paragraph(s)
+        wrapper.appendChild(floatedEl);
+        paras.forEach(pEl => wrapper.appendChild(pEl));
+    });
+};
 if (!isMobile) {
     repositionFloats();
 }

@@ -14,6 +14,17 @@ sl-tab-panel .left {
     width: 100%;
 }
 
+hr {
+    clear: both;
+}
+
+.media-pair {
+    display: flow-root;
+    /* contains floats; prevents next pair from rising */
+    margin-block: 1rem;
+    /* optional spacing */
+}
+
 aside#panel-wrapper {
     display: none;
 }
