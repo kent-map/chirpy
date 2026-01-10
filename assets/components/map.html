@@ -116,25 +116,6 @@
     figcaption svg { width: 1em; height: 1em; flex: none; fill: currentColor; cursor: pointer; }
     #map { width:100%; height:100%; cursor:pointer; }
     */
-    .expandToggle {
-      cursor: pointer;
-      margin-left: auto;
-      flex-shrink: 0;
-    }
-
-    sl-drawer::part(base) {
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    }
-
-    sl-drawer::part(body) {
-      padding: 0;
-      margin: 3px;
-    }
-
-    sl-drawer::part(footer) {
-      padding: 0.5em;
-      border-top: 1px solid #ccc;
-    }
 
     sl-tab::part(base) {
       padding: 0.5em 1em;
@@ -142,11 +123,6 @@
 
     sl-tab-panel::part(base) {
       padding: 0.5em;
-    }
-
-    .drawerToggle {
-      cursor: pointer;
-      flex-shrink: 0;
     }
 
     pre {
@@ -196,50 +172,6 @@
       margin: 0;
     }
 
-    .leaflet-popup-content .card {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      grid-template-rows: auto auto auto 1fr auto;
-      border-radius: 6px;
-      width: 280px;
-      min-height: 80px;
-      max-height: 100px;
-      overflow-y: hidden;
-      background-color: #fff;
-      box-shadow: #32325d40 0 6px 12px -2px, #0000004d 0 3px 7px -3px;
-    }
-
-    .leaflet-popup-content .label {
-      grid-area: 1 / 1 / 2 / 2;
-      font-size: 120%;
-      font-weight: 600;
-    }
-
-    .leaflet-popup-content .description {
-      grid-area: 2 / 1 / 3 / 2;
-      font-size: 110%;
-      font-weight: 400;
-      height: 100%;
-    }
-
-    .leaflet-popup-content .label,
-    .leaflet-popup-content .description {
-      margin: 6px;
-      line-height: 1.2;
-    }
-
-    .leaflet-popup-content .image {
-      grid-area: 1 / 2 / 6 / 3;
-      height: 100%;
-      max-height: 100px;
-      width: 90px;
-      -o-object-fit: cover;
-      object-fit: cover;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center;
-    }
-
     .leaflet-control-attribution {
       display: none;
     }
@@ -251,6 +183,61 @@
 
     .leaflet-container:hover .leaflet-control-container {
       opacity: 1;
+    }
+
+    :root {
+      --popup-card-width: 300px;
+      /* change once, affects all cards */
+      --popup-gap: 10px;
+      --popup-pad: 10px;
+      --thumb-ratio: 1 / 1;
+      /* square thumbnail */
+    }
+
+    /* Card container */
+    .popup-card {
+      width: var(--popup-card-width);
+      box-sizing: border-box;
+      display: grid;
+      grid-template-columns: 1fr;
+      /* no thumbnail => full width */
+      gap: var(--popup-gap);
+      padding: var(--popup-pad);
+      border-radius: 10px;
+    }
+
+    /* Two-column layout when thumbnail exists */
+    .popup-card.has-thumb {
+      grid-template-columns: 2fr 1fr;
+      /* 2/3 text, 1/3 thumbnail */
+      align-items: start;
+    }
+
+    /* Text column */
+    .popup-text {
+      display: grid;
+      grid-auto-rows: min-content;
+      row-gap: 6px;
+      min-width: 0;
+      /* allow wrapping */
+    }
+
+    .popup-label {
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .popup-desc {
+      line-height: 1.25;
+    }
+
+    /* Thumbnail as background image */
+    .popup-thumb {
+      width: 100%;
+      aspect-ratio: var(--thumb-ratio);
+      background-size: cover;
+      background-position: center;
+      border-radius: 8px;
     }
   </style>
 </head>
@@ -266,28 +253,10 @@
       </div>
 
       <figcaption>
-        <svg class="drawerToggle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 512">
-          <path
-            d="M64 360a56 56 0 1 0 0 112 56 56 0 1 0 0-112zm0-160a56 56 0 1 0 0 112 56 56 0 1 0 0-112zM120 96A56 56 0 1 0 8 96a56 56 0 1 0 112 0z" />
-        </svg>
         <div class="title clamp"></div>
-        <svg class="expandToggle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-          <path
-            d="M32 32C14.3 32 0 46.3 0 64l0 96c0 17.7 14.3 32 32 32s32-14.3 32-32l0-64 64 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L32 32zM64 352c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 96c0 17.7 14.3 32 32 32l96 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-64 0 0-64zM320 32c-17.7 0-32 14.3-32 32s14.3 32 32 32l64 0 0 64c0 17.7 14.3 32 32 32s32-14.3 32-32l0-96c0-17.7-14.3-32-32-32l-96 0zM448 352c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 64-64 0c-17.7 0-32 14.3-32 32s14.3 32 32 32l96 0c17.7 0 32-14.3 32-32l0-96z" />
-        </svg>
       </figcaption>
 
     </figure>
-
-    <sl-drawer contained class="drawer" no-header style="--size: calc(100% - 30px);">
-      <sl-tab-group>
-        <sl-tab slot="nav" active panel="map-info">Map info</sl-tab>
-        <sl-tab-panel active name="map-info">
-          <div class="size"></div>
-        </sl-tab-panel>
-      </sl-tab-group>
-      <sl-button slot="footer" variant="primary" size="small" class="close">Close</sl-button>
-    </sl-drawer>
 
   </main>
 
@@ -306,7 +275,6 @@
 
     // import any needed Shoelace components (https://shoelace.style/)
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/button/button.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/drawer/drawer.js';
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab/tab.js';
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-group/tab-group.js';
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-panel/tab-panel.js';
@@ -532,68 +500,58 @@
       let point = e.type === 'click' ? e.latlng : e.target.getCenter()
       let zoom = e.target.getZoom()
       let _latLngZoom = [point.lat, point.lng, zoom]
-      latLngZoom = `${Number((point.lat).toFixed(5))},${Number((point.lng).toFixed(5))},${zoom}`
+      latLngZoom = `${Number((point.lat).toFixed(3))},${Number((point.lng).toFixed(3))},${zoom}`
     }
     const copyTextToClipboard = (text) => navigator.clipboard?.writeText(text)
     coords.addEventListener('click', e => copyTextToClipboard(coords.textContent))
 
-    const drawer = document.querySelector('.drawer')
-    const toggleDrawerOpen = () => drawer.open = !drawer.open
+    const coerce = (value) => {
+      return (value === 'true' || value === '') ? true
+        : (value === 'false') ? false
+          : value;
+    };
 
-    const drawerToggle = figcaption.querySelector('.drawerToggle')
-    drawerToggle.addEventListener('click', e => drawer.open = !drawer.open)
+    const params = new URLSearchParams(location.search);
+
+    // --- marker: always string[]
+    const marker = params.getAll('marker').filter(v => v !== '');
+
+    // --- everything else
+    const queryObj = {};
+    for (const key of new Set(params.keys())) {
+      if (key === 'marker') continue;
+
+      const values = params.getAll(key).map(coerce);
+      queryObj[key] = values.length > 1 ? values : values[0];
+    }
 
     const props = {
-      ...{              // default properties
-        basemap: null,
-        basemaps: 'OpenStreetMap',
-        caption: null,   // caption text,
+      ...{              // defaults
+        basemap: 'OpenStreetMap',
+        caption: null,
         center: '51.505,-0.09',
-        data: null,
         gestureHandling: true,
         ghbase: null,
-        location: '51.505,-0.09,8', // map center and zoom
-        marker: false,          // show marker
-        popupOnHover: false, // show popup on hover
-        'prefer-geojson': false, // use GeoJSON if available,
+        marker: [],              // ← always an array
+        popupOnHover: false,
+        'prefer-geojson': false,
         zoom: 8
       },
-      ...Object.fromEntries( // URLSearchParams to object
-        Array.from(new URLSearchParams(location.search).entries())
-          .map(([key, value]) => [key, (value === 'true' || !value) ? true : value === 'false' ? false : value])
-      )
-    }
-    console.log(props)
+      ...queryObj,
+      marker               // ← normalized override
+    };
+
+    console.log(props);
 
     let inIframe = window.location !== window.parent.location // flag indicating if the page is in an iframe
     const md2Html = (md) => marked.parse(md).slice(3, -5) // convert markdown to HTML
-
+    const capitalizeFirst = (s) => typeof s === 'string' && s.length ? s[0].toUpperCase() + s.slice(1) : s ?? '';
     const setCaption = (caption) => { figcaption.querySelector('.title').innerHTML = md2Html(caption) }
     const docReady = (fn) => { if (document.readyState === 'complete' || document.readyState === 'interactive') setTimeout(fn, 1); else document.addEventListener('DOMContentLoaded', fn) }
-    document.querySelector('.drawer sl-button.close').addEventListener('click', e => toggleDrawerOpen())
 
     let center
     let zoom = 8
     let caption
-
-    const expandToggle = figcaption.querySelector('.expandToggle')
-    if (props['in-dialog']) expandToggle.style.display = 'none'
-    else {
-      expandToggle.addEventListener('click', e => {
-        window.parent.postMessage({
-          type: 'showDialog',
-          props: {
-            kwargs: {
-              ...Object.fromEntries(Object.entries(props).filter(([_, value]) => value !== null && value !== false)),
-              ...{
-                tag: 'map',
-                aspect: windowAspectRatio,
-              }
-            }
-          }
-        }, '*');
-      })
-    }
 
     const isQid = (s) => /^Q\d+$/.test(s)
     const parseLayerStr = (s) => {
@@ -621,49 +579,6 @@
       return parsed
     }
 
-    let layerDefs = props.data ? props.data.split('|').map(rec => parseLayerStr(rec)) : []
-    const collectQIDs = () => {
-      let qids = new Set()
-      if (isQid(props.center)) qids.add(props.center)
-      layerDefs.forEach(def => { if (def.kwargs.qid) qids.add(def.kwargs.qid) })
-      return qids
-    }
-    const collectManifestURLs = () => {
-      let urls = new Set()
-      layerDefs.forEach(def => {
-        if (def.kwargs.iiif) {
-          def.kwargs.iiif = decodeURIComponent(def.kwargs.iiif)
-          if (!def.kwargs.iiif.startsWith('http')) def.kwargs.iiif = `https://iiif.juncture-digital.io/${def.kwargs.iiif}/manifest.json`;
-          if (def.kwargs.iiif) urls.add(def.kwargs.iiif)
-        }
-      })
-      return Array.from(urls)
-    }
-
-    const makeLocationCard = (entity) => {
-      let card = document.createElement('div')
-      card.className = 'card'
-      let label = document.createElement('div')
-      label.className = 'label'
-      label.textContent = entity.label
-      card.appendChild(label)
-      if (entity.description) {
-        let description = document.createElement('div')
-        description.className = 'description'
-        description.innerHTML = entity.description
-        card.appendChild(description)
-      }
-      if (entity.thumbnail) {
-        let imgDiv = document.createElement('div')
-        imgDiv.className = 'image'
-        imgDiv.setAttribute('style', `background-image: url('${entity.thumbnail}');`)
-        card.appendChild(imgDiv)
-      }
-      return card
-    }
-
-    const kebabToCamel = (input) => input.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
-
     const mwImage = (mwImg, width) => {
       width = width | 0
       // Converts Wikimedia commons image URL to a thumbnail link
@@ -686,10 +601,10 @@
 
     const fullUrl = (url) => {
       // Converts a URL to a full URL if it is relative or uses a shortcode
-      if (url.indexOf('http') === 0)
+      if (url.indexOf('wc:') === 0 || url.indexOf('wikimedia.org') > -1 || url.indexOf('wikipedia.org') > -1 && url.indexOf('/media/File:') > -1) {
+        return mwImage(url.replace('wc:', ''), 300)
+      } else if (url.indexOf('http') === 0)
         return url
-      else if (url.indexOf('wc:') === 0 || url.indexOf('wikimedia.org') > -1 || url.indexOf('wikipedia.org') > -1 && url.indexOf('/media/File:') > -1)
-        return mwImage(url, 300)
       else if (url.indexOf('gh:') === 0)
         return `https://raw.githubusercontent.com/${url.slice(3)}/main`
       else if (url[0] === '/') {
@@ -698,6 +613,61 @@
       } else
         return `https://raw.githubusercontent.com/${props.ghbase}/${url}`
     }
+
+    let layerDefs = props.marker.map(marker => {
+      let args = marker.split('|')
+      if (isQid(args[0])) {
+        return { type: 'marker', qid: args[0], layer: args[1] }
+      } else {
+        let [coords, label, description, thumbnail, layer] = marker.split('|')
+        return {
+          type: 'marker',
+          coords,
+          label: capitalizeFirst(decodeURIComponent(label.replace(/_/g, ' '))),
+          description: capitalizeFirst(decodeURIComponent(description.replace(/_/g, ' '))),
+          thumbnail: fullUrl(thumbnail),
+          layer
+        }
+      }
+    })
+    const collectQIDs = () => {
+      let qids = new Set()
+      if (isQid(props.center)) qids.add(props.center)
+      props.marker.forEach(marker => {
+        let args = marker.split('|')
+        if (isQid(args[0])) qids.add(args[0])
+      })
+      return qids
+    }
+
+    const makeLocationCard = (locProps) => {
+      let card = document.createElement('div')
+      card.className = 'popup-card' + (locProps.thumbnail ? ' has-thumb' : '')
+      let textWrapper = document.createElement('div')
+      textWrapper.className = 'popup-text'
+      card.appendChild(textWrapper)
+      let label = document.createElement('div')
+      label.className = 'popup-label'
+      label.textContent = locProps.label
+      textWrapper.appendChild(label)
+      if (locProps.description) {
+        let description = document.createElement('div')
+        description.className = 'popup-desc'
+        description.innerHTML = locProps.description
+        textWrapper.appendChild(description)
+      }
+      if (locProps.thumbnail) {
+        let imgDiv = document.createElement('div')
+        imgDiv.className = 'popup-thumb'
+        imgDiv.setAttribute('role', 'img')
+        imgDiv.setAttribute('aria-label', locProps.label)
+        imgDiv.setAttribute('style', `background-image: url('${locProps.thumbnail}');`)
+        card.appendChild(imgDiv)
+      }
+      return card
+    }
+
+    const kebabToCamel = (input) => input.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
 
     const getExifLocationFromUrl = async (imageUrl) => {
       try {
@@ -789,7 +759,7 @@
         sparqlResp.results.bindings.forEach(rec => {
           let qid = rec.item.value.split('/').pop()
           let _entityData = { id: qid, label: rec.label.value }
-          if (rec.description) _entityData.description = rec.description.value
+          if (rec.description) _entityData.description = capitalizeFirst(decodeURIComponent(rec.description.value.replace(/_/g, ' ')))
           if (rec.alias) _entityData.aliases = [rec.alias.value]
           if (rec.coords) _entityData.coords = rec.coords.value.slice(6, -1).split(' ').reverse().join(',')
           if (rec.wikipedia) _entityData.wikipedia = rec.wikipedia.value
@@ -828,40 +798,9 @@
     let entities = referencedQIDs.size ? await getEntityData(Array.from(referencedQIDs), props.language) : []
     const getEntity = (qid) => entities[qid] || {}
 
-    const loadManifest = async (manifestUrl) => {
-      const resp = await fetch(manifestUrl);
-      if (!resp.ok) throw new Error(`Failed to fetch manifest at ${manifestUrl}: ${resp.status} ${resp.statusText}`);
-      const manifest = await resp.json();
-      const contexts = Array.isArray(manifest['@context']) ? manifest['@context'] : [manifest['@context']];
-      const foundV2 = contexts.find(ctx => {
-        const parts = ctx.split('/');
-        const possibleVersionSeg = parts.slice(-2, -1).pop();
-        const versionNum = parseFloat(possibleVersionSeg);
-        return ctx.indexOf('shared-canvas.org') > 0 || versionNum < 3;
-      });
-      const isV3Manifest = !foundV2;
-      if (isV3Manifest) return manifest;
-      else {
-        // POST the entire v2 manifest to your converter endpoint
-        const convertedResp = await fetch(`${iiifServiceUrl}/prezi2to3/`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(manifest)
-        });
-        if (!convertedResp.ok) throw new Error(`Conversion failed for ${manifestUrl}: ${convertedResp.status}`);
-        return convertedResp.json();
-      }
-    };
-
-    const loadAllManifests = async () => {
-      return await Promise.all(collectManifestURLs().map(url => loadManifest(url)));
-    };
-
-    const manifests = await loadAllManifests()
-
     for (const def of layerDefs) {
-      if (def.kwargs.qid) {
-        let entity = getEntity(def.kwargs.qid)
+      if (def.qid) {
+        let entity = getEntity(def.qid)
         if (entity) {
           def.label = entity.label
           def.description = entity.description
@@ -869,115 +808,19 @@
           def.coords = entity.coords
           def.geojson = entity.geojson
         }
-      } else if (def.kwargs.iiif) {
-        let manifest = manifests.find(m => m['@id'] === def.kwargs.iiif || m.id === def.kwargs.iiif)
-        if (manifest) {
-          def.label = (manifest?.label?.en || manifest?.label?.none || Object.values(manifest.label)).join(' ')
-          def.description = (manifest?.summary?.en || manifest?.summary?.none || Object.values(manifest.summary)).join(' ')
-          def.thumbnail = manifest.thumbnail ? manifest.thumbnail[0].id : null
-          def.coords = manifest.navPlace?.features?.[0].geometry.coordinates.join(',') || null
-          def.geojson = null // IIIF manifests don't have geojson
-        } else {
-          console.warn(`Manifest not found for URL: ${def.kwargs.iiif}`)
-        }
-      } else if (def.kwargs.image && !def.kwargs.coords) {
-        let exifCoords = await getExifLocationFromUrl(fullUrl(def.kwargs.image))
+      } else if (def.image && !def.coords) {
+        let exifCoords = await getExifLocationFromUrl(fullUrl(def.image))
         if (exifCoords) def.coords = exifCoords
       }
-      if (def.kwargs.image && !def.kwargs.thumbnail) {
-        def.thumbnail = `${imageServiceUrl}/${fullUrl(def.kwargs.image)}/w_300`
+      if (def.image && !def.thumbnail) {
+        def.thumbnail = `${imageServiceUrl}/${fullUrl(def.image)}/w_300`
       }
-      for (let [prop, value] of Object.entries(def.kwargs)) {
+      for (let [prop, value] of Object.entries(def)) {
         if (['allmaps', 'circle', 'label', 'id', 'description', 'thumbnail', 'coords', 'url'].includes(prop)) def[prop] = decodeURIComponent(value)
       }
-      if (def.kwargs.layer) def.layerName = decodeURIComponent(def.kwargs.layer)
+      // if (def.layer) def.layerName = decodeURIComponent(def.layer)
     }
     console.log(layerDefs)
-
-
-    const tokenize = (s) => {
-      s = s || ''
-      let tokens = []
-      s = s.replace(/“/, '"').replace(/”/, '"').replace(/’/, "'")
-      let match = s.match(/[^\s"]+|"([^"]*)"/gmi)
-      if (match) match.forEach(token => {
-        if (tokens.length > 0 && tokens[tokens.length - 1].indexOf('=') === tokens[tokens.length - 1].length - 1) tokens[tokens.length - 1] = `${tokens[tokens.length - 1]}${token}`
-        else tokens.push(token)
-      })
-      return tokens
-    }
-
-    const isCoords = (s) => /^[+-]?\d+(.\d*|\d*),{1}[+-]?\d+(.\d*|\d*)$/.test(s)
-    const isZoom = (s) => /^\d{1,2}(\.\d{1})?$/.test(s)
-
-    const entityToInfoObj = (entity, id) => {
-      id = id | ''
-      let obj = { id: id || entity.id }
-      if (entity.coords) obj.coords = entity.coords
-      if (entity.geojson) obj.geojson = entity.geojson
-      // if (props.preferGeojson && entity.geojson) obj.geojson = entity.geojson
-      if (entity.label) obj.label = entity.label
-      if (entity.description) obj.description = entity.description
-      if (entity.thumbnail) obj.image = entity.thumbnail
-      return obj
-    }
-
-    const toObj = async (s) => {
-      let parsed = parseLayerStr(s)
-      let tokens = tokenize(s.replace(/&/g, ' ')).map(token => token.trim())
-      let obj = {}
-      let booleans = new Set(['disabled', 'prefer-geojson'])
-      for (let i = 0; i < tokens.length; i++) {
-        let token = tokens[i]
-
-        if (token.indexOf('=') > 0) {
-          let [key, ...rest] = token.split('=')
-          let value = decodeURIComponent(rest.join('='))
-          value = '"' && value[value.length - 1] === '"' ? value.slice(1, -1) : value
-
-          if (key === 'marker') {
-            obj.type = 'marker'
-            if (isQid(value)) obj.qid = value
-            else if (isCoords(value)) obj.coords = value
-            else if (value.startsWith('http')) {
-              obj.url = value
-              if (value.indexOf('wc:') === 0) obj.image = mwImage(value.slice(3), 108)
-            } else if (value.startsWith('wof:')) {
-              obj.geojson = whosOnFirstUrl(value.slice(4))
-            } else {
-              console.warn(`Invalid marker value: ${value}`)
-            }
-            obj.type = 'marker'
-            obj.qid = value
-            /*
-            let entity = await getEntity(value)
-            if (entity) {
-              obj = {...entityToInfoObj(entity, token), ...obj}
-              obj.type = 'marker' 
-            } else {
-              console.warn(`Entity not found for QID: ${value}`)
-            }
-            */
-          }
-          else if (key === 'iiif') {
-            obj.type = 'marker'
-            // let manifest = await getManifest(token)
-            // obj = {...manifestToInfoObj(manifest, token), ...obj}
-          } else {
-            obj[key === 'layer' ? 'layerName' : key] = value
-          }
-        } else if (booleans.has(token)) {
-          obj[kebabToCamel(token)] = true
-
-        } else {
-          // let text = token[0] === '"' && token[token.length-1] === '"' ? token.slice(1,-1) : token
-          // if (obj.label) obj.description = text
-          // else obj.label = text
-        }
-      }
-      // obj.preferGeojson = (obj.preferGeojson || (props.preferGeojson) && obj.geojson ) || (obj.geojson && !obj.coords) ? true : false
-      return obj
-    }
 
     const toGeoJSONLayer = (data) => {
       return L.geoJSON(data, {
@@ -1098,7 +941,7 @@
       }
       zoom = props.zoom
 
-      let _basemaps = (props.basemap || props.basemaps).split(',').map(name => {
+      let _basemaps = (props.basemap).split(',').map(name => {
         let [url, options] = baseMapsConfigs[name]
         return [name.replace(/_/, ' '), L.tileLayer(url, options)]
       })
@@ -1116,20 +959,12 @@
 
       if (_basemaps.length > 1) layerControl = L.control.layers(Object.fromEntries(_basemaps), {}).addTo(map)
 
-      if (props.marker) {
-        let marker = L.marker(center)
-        let card = entity ? makeLocationCard(entity) : makeLocationCard(props)
-        marker.bindPopup(card.outerHTML)
-        marker.addTo(map)
-      }
-
       latLngZoom = `${Number((center.lat).toFixed(5))},${Number((center.lng).toFixed(5))},${zoom}`
       coords.textContent = latLngZoom
       map.on('click', (e) => {
         getLatLngZoom(e)
-        let lat, lng, zoom = atLngZoom.split(',')
-        // copyTextToClipboard(latLngZoom.split(',').join(','))
-        copyTextToClipboard(`center=${lat},${lng} zoom=${zoom}`)
+        let [lat, lng, zoom] = latLngZoom.split(',')
+        copyTextToClipboard(`${lat},${lng}`)
       })
       map.on('movestart', () => { mapEl.style.cursor = 'move' })
       map.on('moveend', (e) => {
@@ -1187,23 +1022,6 @@
     }
 
     docReady(async function () {
-      window.addEventListener('message', (event) => {
-        let eventData = JSON.parse(event.data)
-        let action = eventData.action?.toLowerCase()
-        let args = eventData.args
-        if (action === 'flyto') {
-          let locZoom = args[0]
-          if ((locZoom === zoomed) && priorLoc) {
-            flyTo(priorLoc)
-            priorLoc = null
-            zoomed = null
-          } else {
-            flyTo(locZoom)
-            priorLoc = latLngZoom
-            zoomed = locZoom
-          }
-        }
-      })
 
       if (props.caption) setCaption(props.caption)
       main.style.visibility = 'visible'
@@ -1211,20 +1029,21 @@
       let mapAspectRatio = parseFloat(props.aspect || 1)
       windowAspectRatio = main.clientWidth / (main.clientWidth / mapAspectRatio + figcaption.clientHeight)
       window.parent.postMessage({ type: 'setAspect', aspect: windowAspectRatio }, '*');
-      document.querySelector('.size').innerHTML = `<span><b>Aspect ratio: </b></span> ${mapAspectRatio.toFixed(2)}`
+      // document.querySelector('.size').innerHTML = `<span><b>Aspect ratio: </b></span> ${mapAspectRatio.toFixed(2)}`
 
       map = await initMap()
 
-      if (props.data) {
+      if (layerDefs.length) {
 
         let markersByLayer = {}
         let geoJsonLayers = {}
 
         layerDefs.forEach(layerDef => {
+          console.log(layerDef)
           if (layerDef.type === 'warped-map') {
             addWarpedMap(layerDef)
           } else if (layerDef.type === 'marker') {
-            let layerName = layerDef.layerName || 'Locations'
+            let layerName = layerDef.layer || 'locations'
             if (layerDef.preferGeojson && layerDef.geojson) {
               fetch(layerDef.geojson).then(resp => resp.json())
                 .then(data => {
