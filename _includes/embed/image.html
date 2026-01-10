@@ -1,18 +1,112 @@
-{% assign qs = "src=" | append: include.src | uri_escape %}
+{%- assign src_in = include.src | to_s | strip -%}
+{%- assign src_final = src_in -%}
 
-{% if include.caption %}
-{% assign qs = qs | append: "&caption=" | append: include.caption | uri_escape %}
-{% endif %}
+{%- assign media_subpath = page.media_subpath | default: "" | strip -%}
+{%- assign cdn_base = site.cdn | default: "" | strip -%}
 
-{% if include.aspect %}
-{% assign qs = qs | append: "&aspect=" | append: include.aspect | uri_escape %}
-{% endif %}
+{%- assign p3 = src_in | slice: 0, 3 -%}
+{%- assign p7 = src_in | slice: 0, 7 -%}
+{%- assign p8 = src_in | slice: 0, 8 -%}
+{%- assign p2 = src_in | slice: 0, 2 -%}
 
-{% if include.ghbase %}
-{% assign qs = qs | append: "&ghbase=" | append: include.ghbase | uri_escape %}
-{% endif %}
+{%- comment -%}
+If Wikimedia Commons reference:
+- starts with wc:
+- OR contains commons.wikimedia.org
+=> replace with Wikimedia thumb URL (default width 1200, override via include.mw_width)
 
-<iframe id="{{ include.id }}" class="embed-image" loading="lazy" title="Juncture image viewer" allow="clipboard-write"
+Otherwise:
+- Keep existing behavior: if not a full URL and media_subpath/cdn exists, prepend media_subpath (preferred) else cdn.
+{%- endcomment -%}
+
+{%- assign is_wc = false -%}
+{%- if p3 == "wc:" or src_in contains "commons.wikimedia.org" -%}
+  {%- assign is_wc = true -%}
+{%- endif -%}
+
+{%- if is_wc -%}
+  {%- assign mw_width = include.mw_width | default: 1200 -%}
+
+  {%- assign mw_title = src_in
+    | replace: 'wc:', ''
+    | replace: 'Special:FilePath/', 'File:'
+    | split: 'File:'
+    | last
+    | url_decode
+    | replace: ' ', '_'
+  -%}
+
+  {%- assign mw_path = mw_title | uri_escape -%}
+
+  {%- assign _md5 = mw_title | md5 -%}
+  {%- assign extension = mw_title | split: '.' | last | downcase -%}
+
+  <!-- md5: {{ _md5 }} -->
+
+  {%- capture mw_url -%}
+https://upload.wikimedia.org/wikipedia/commons/thumb/{{ _md5 | slice: 0, 1 }}/{{ _md5 | slice: 0, 2 }}/{{ mw_path }}/{{ mw_width }}px-{{ mw_path }}
+{%- if extension == 'svg' -%}.png
+{%- elsif extension == 'tif' or extension == 'tiff' -%}.jpg
+{%- endif -%}
+  {%- endcapture -%}
+
+  {%- assign src_final = mw_url | strip -%}
+
+{%- else -%}
+
+  {%- comment -%}
+  Your original prepend logic (unchanged)
+  Leave src unchanged if:
+  - starts with wc:  (already excluded by is_wc)
+  - already full URL (http/https) or protocol-relative //
+  - neither media_subpath nor cdn is defined
+  Otherwise, prepend media_subpath (preferred) else cdn.
+  {%- endcomment -%}
+
+  {%- if p3 != "wc:" and p2 != "//" and p7 != "http://" and p8 != "https://" and (media_subpath != "" or cdn_base != "") -%}
+
+    {%- if media_subpath != "" -%}
+      {%- assign base = media_subpath -%}
+    {%- else -%}
+      {%- assign base = cdn_base -%}
+    {%- endif -%}
+
+    {%- assign base_last = base | slice: -1, 1 -%}
+    {%- assign src_first = src_in | slice: 0, 1 -%}
+
+    {%- if base_last == "/" and src_first == "/" -%}
+      {%- assign src_final = base | append: (src_in | slice: 1, 9999) -%}
+    {%- elsif base_last != "/" and src_first != "/" -%}
+      {%- assign src_final = base | append: "/" | append: src_in -%}
+    {%- else -%}
+      {%- assign src_final = base | append: src_in -%}
+    {%- endif -%}
+
+  {%- endif -%}
+
+{%- endif -%}
+
+{%- assign qs = "src=" | append: src_final | uri_escape -%}
+
+{%- if include.caption -%}
+  {%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
+{%- endif -%}
+
+{%- if include.aspect -%}
+  {%- assign qs = qs | append: "&aspect=" | append: include.aspect | uri_escape -%}
+{%- endif -%}
+
+{%- if include.ghbase -%}
+  {%- assign qs = qs | append: "&ghbase=" | append: include.ghbase | uri_escape -%}
+{%- endif -%}
+
+<iframe
+  id="{{ include.id }}"
+  class="embed-image"
+  loading="lazy"
+  title="Juncture image viewer"
+  allow="clipboard-write"
   style="aspect-ratio:{{ include.aspect | default: '1.0' }};"
-  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen>
+  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}"
+  allowfullscreen>
 </iframe>
