@@ -21,7 +21,7 @@ The Isle of Sheppey off the north Kent coast, best known for its dockyard, three
 _Isle of Sheppey from Space NASA_
 {: .right}
 
-{% include embed/map.html center="Q1500299" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q1500299" zoom="12" marker="Q1500299" %}{: .right}
 
 After the Wright Brother’s first powered flight in a fixed-wing, heavier-than-air machine on 17th December 1903, at Kitty Hawk, North Carolina, USA, Wilbur and Orville Wright continued refining their design working towards achieving controlled, manoeuvrable aircraft capable of sustained flight.  Despite achieving something that would forever alter the course of humanity, at the time the brothers struggled to get commercial interest, with both British and American governments failing to see the potential in these flying machines.[^ref1]  But a group of fellow pioneers in Britain watched closely as they understood the significance of this breakthrough.  
 

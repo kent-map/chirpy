@@ -7,8 +7,9 @@
   <title>Map Component</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
-  <link rel="stylesheet" href="//unpkg.com/leaflet-gesture-handling/dist/leaflet-gesture-handling.min.css"
-    type="text/css">
+  <link rel="stylesheet" href="//unpkg.com/leaflet-gesture-handling/dist/leaflet-gesture-handling.min.css" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&amp;family=Source+Sans+Pro:wght@400;600;700;900&amp;display=swap" />
   <style>
     *,
     *::before,
@@ -81,19 +82,22 @@
 
     /* ---- caption ------------------------------------------------------- */
     figcaption {
+      font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
       font-size: 16px;
-      /* fixed across all iframes */
-      line-height: 1.2;
+      line-height: 28px;
       padding: 8px 0;
       /* 8 px top + bottom (fixed) */
       text-align: left;
       /* left-align text */
       display: flex;
       align-items: center;
-      /* optional styling niceties */
       background: #fff;
-      /* keeps text readable over dark images */
+      color: rgb(52, 52, 60);
+      font-style: italic;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
     }
+
 
     /* ---- any inline SVG icons in the caption --------------------------- */
     figcaption svg {
@@ -546,7 +550,7 @@
     let inIframe = window.location !== window.parent.location // flag indicating if the page is in an iframe
     const md2Html = (md) => marked.parse(md).slice(3, -5) // convert markdown to HTML
     const capitalizeFirst = (s) => typeof s === 'string' && s.length ? s[0].toUpperCase() + s.slice(1) : s ?? '';
-    const setCaption = (caption) => { figcaption.querySelector('.title').innerHTML = md2Html(caption) }
+    const setCaption = (caption) => figcaption.innerHTML = md2Html(caption)
     const docReady = (fn) => { if (document.readyState === 'complete' || document.readyState === 'interactive') setTimeout(fn, 1); else document.addEventListener('DOMContentLoaded', fn) }
 
     let center
