@@ -19,7 +19,7 @@ function wrapAdjacentEmbedsAsTabs({
 
     // Font Awesome classes for each item type
     iconFor = (node) => {
-        if (node.tagName === 'IFRAME') return 'fa-solid fa-map';
+        if (node.tagName === 'IFRAME') return 'fa-regular fa-map';
         if (node.tagName === 'P' && node.querySelector('img')) return 'fa-regular fa-image';
         return 'fa-solid fa-square';
     },

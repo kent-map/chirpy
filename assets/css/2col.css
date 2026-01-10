@@ -1,3 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css");
+
+sl-tab::part(base) {
+    font-size: 1.2rem;
+    padding: 0.4rem 0.6rem;
+}
+
+sl-tab i {
+    pointer-events: none;
+}
+
+sl-tab-panel .right,
+sl-tab-panel .left {
+    width: 100%;
+}
+
+hr {
+    clear: both;
+}
+
 aside {
     display: none;
 }
@@ -38,7 +58,7 @@ article>main {
 
 .viewer {
     position: fixed;
-    top: 0;
+    top: 8px;
     right: 0;
     width: calc(50% - 8em);
     height: 50dvh;
