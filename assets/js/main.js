@@ -187,6 +187,46 @@ if (!isMobile) {
     repositionFloats();
 }
 
+// setup action links to iframes (e.g., zoomto, flyto, play)
+const addActionLinks = (rootEl) => {
+    rootEl.querySelectorAll('iframe').forEach(iframe => {
+        if (!iframe.id) return
+        rootEl.querySelectorAll('a').forEach(a => {
+            let href = a.href || a.getAttribute('data-href')
+            let target, action, args, text
+            let actionAttribute = Array.from(a.attributes).filter(attr => !['href', 'class', 'id', 'label', 'target'].includes(attr.name)).pop()
+            if (actionAttribute) {
+                action = actionAttribute.name;
+                [target, ...args] = actionAttribute.value.split('/').filter(p => p)
+                if (iframe.id !== target) return
+            } else {
+                let path = href?.split('/').slice(3).filter(p => p !== '#' && p !== '')
+                const targetIdx = path?.findIndex(p => p == iframe.id);
+                if (targetIdx < 0) return
+                [target, action, ...args] = path.slice(targetIdx).slice('/')
+            }
+            if (isStatic) {
+                a.removeAttribute('href')
+                a.style.color = 'inherit'
+            } else {
+                if (a.href) {
+                    a.setAttribute('data-href', href)
+                    a.classList.add('trigger')
+                    a.removeAttribute('href')
+                    a.style.cursor = 'pointer'
+                    a.addEventListener('click', () => {
+                        console.log(action, text, args);
+                        let msg = { event: 'action', action, text, args }
+                        document.getElementById(iframe.id)?.contentWindow.postMessage(JSON.stringify(msg), '*')
+                    })
+                }
+            }
+        })
+    })
+}
+
+// addActionLinks();
+
 
 ////////// Start Wikidata Entity functions //////////
 

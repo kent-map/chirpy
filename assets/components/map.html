@@ -536,7 +536,7 @@
         center: '51.505,-0.09',
         gestureHandling: true,
         ghbase: null,
-        marker: [],              // ← always an array
+        markers: '',
         popupOnHover: false,
         'prefer-geojson': false,
         zoom: 8
@@ -618,7 +618,7 @@
         return `https://raw.githubusercontent.com/${props.ghbase}/${url}`
     }
 
-    let layerDefs = props.marker.map(marker => {
+    let layerDefs = props.markers.split('::').map(marker => {
       let args = marker.split('|')
       if (isQid(args[0])) {
         return { type: 'marker', qid: args[0], layer: args[1] }
@@ -637,7 +637,7 @@
     const collectQIDs = () => {
       let qids = new Set()
       if (isQid(props.center)) qids.add(props.center)
-      props.marker.forEach(marker => {
+      props.markers.split('::').forEach(marker => {
         let args = marker.split('|')
         if (isQid(args[0])) qids.add(args[0])
       })
