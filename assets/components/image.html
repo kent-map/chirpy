@@ -306,21 +306,18 @@
     * @returns {HTMLElement}                     The caption element
     */
     function addTextBelowBox(viewer, box, text, opts = {}) {
-      // Default options
       const {
         fontSize = 16,
         bgColor = '#000',
         bgOpacity = 0.5,
         textColor = '#fff',
         paddingEm = 0.5,
+        offsetPx = 6
       } = opts;
 
-      // Helper: turn '#rgb' or '#rrggbb' into 'rgba(r,g,b,alpha)'
       function hexToRgba(hex, alpha) {
         let h = hex.replace('#', '');
-        if (h.length === 3) {
-          h = h.split('').map(c => c + c).join('');
-        }
+        if (h.length === 3) h = h.split('').map(c => c + c).join('');
         const int = parseInt(h, 16);
         const r = (int >> 16) & 255;
         const g = (int >> 8) & 255;
@@ -328,41 +325,51 @@
         return `rgba(${r},${g},${b},${alpha})`;
       }
 
-      // 1) Create and style the DIV
-      const div = document.createElement('div');
-      div.textContent = text;
-      Object.assign(div.style, {
-        width: `${box.w}px`,
-        textAlign: 'center',
+      // Anchor element: OSD will apply its own transforms to THIS element
+      const anchor = document.createElement('div');
+      Object.assign(anchor.style, {
         position: 'absolute',
+        width: '0px',
+        height: '0px',
+        overflow: 'visible',
+        pointerEvents: 'none',
+        zIndex: 9999
+      });
+
+      // Actual label: we control transform HERE (OSD won't overwrite it)
+      const pill = document.createElement('div');
+      pill.textContent = text;
+      Object.assign(pill.style, {
         display: 'inline-block',
-        fontSize: fontSize + 'px',
+        transform: `translate(-50%, ${offsetPx}px)`, // center under anchor + push down
+        fontSize: (typeof fontSize === 'number') ? `${fontSize}px` : String(fontSize),
         backgroundColor: hexToRgba(bgColor, bgOpacity),
         color: textColor,
         padding: `${paddingEm}em`,
+        borderRadius: '6px',
         boxSizing: 'border-box',
-        whiteSpace: 'pre-wrap',
-        pointerEvents: 'none',
-        opacity: '1'            // ensure text remains fully opaque
+        whiteSpace: 'nowrap',
+        lineHeight: '1.2',
+        textAlign: 'center'
       });
 
-      // 2) Compute the bottom-center of the box in image coords
+      anchor.appendChild(pill);
+
+      // Bottom-center of the box in IMAGE coords
       const imgX = box.x + box.w / 2;
       const imgY = box.y + box.h;
 
-      // 3) Convert to viewport coords
-      const vp = viewer.viewport.imageToViewportCoordinates(box.x, imgY);
+      // Convert to viewport coords
+      const vp = viewer.viewport.imageToViewportCoordinates(imgX, imgY);
 
-      // 4) Add as a TOP-centered overlay (auto-width)
       viewer.addOverlay({
-        element: div,
+        element: anchor,
         location: new OpenSeadragon.Point(vp.x, vp.y),
-        placement: OpenSeadragon.Placement.TOP
+        placement: OpenSeadragon.Placement.TOP_LEFT
       });
 
-      return div;
+      return anchor;
     }
-
     /**
 * Draws a border around an image‐pixel box in an OpenSeadragon viewer.
 *
