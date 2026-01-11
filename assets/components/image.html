@@ -105,6 +105,68 @@
       opacity: 1;
       transform: translateY(0);
     }
+
+    #drawing-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 10;
+      pointer-events: none;
+    }
+
+    .box {
+      position: absolute;
+      border: 2px solid red;
+      box-sizing: border-box;
+      z-index: 20;
+    }
+
+    .box .handle {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      background: white;
+      border: 1px solid red;
+      box-sizing: border-box;
+      z-index: 21;
+    }
+
+    .box .handle.nw {
+      top: -4px;
+      left: -4px;
+      cursor: nw-resize;
+    }
+
+    .box .handle.ne {
+      top: -4px;
+      right: -4px;
+      cursor: ne-resize;
+    }
+
+    .box .handle.sw {
+      bottom: -4px;
+      left: -4px;
+      cursor: sw-resize;
+    }
+
+    .box .handle.se {
+      bottom: -4px;
+      right: -4px;
+      cursor: se-resize;
+    }
+
+    .copy-icon {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      background: rgba(255, 255, 255, 0.8);
+      border-radius: 50%;
+      cursor: pointer;
+      z-index: 22;
+      user-select: none;
+    }
   </style>
 </head>
 
@@ -113,6 +175,7 @@
 
   <div id="wrap">
     <div id="osd"></div>
+    <canvas id="drawing-overlay"></canvas>
 
     <!-- bottom-right hover hotspot + tooltip (aspect ratio of entire iframe, incl caption) -->
     <div id="ar-hotspot" aria-label="Iframe aspect ratio">
@@ -122,17 +185,22 @@
     <div id="caption"></div>
   </div>
 
-  <script>
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js'
+
     const params = new URLSearchParams(location.search);
 
-    const src = params.get("src");
+    let src = params.get("src");
     const captionStr = params.get("caption");
     const cover = params.get("cover") === "1"; // viewer expects cover=1
     const regionStr = params.get("region");        // "full" | "x,y,w,h" | "pct:x,y,w,h"
     const rotateStr = params.get("rotate");        // "0" | "90" | "!90" etc
+    const max = ['', 'true', '1'].includes(params.get("max"));
 
     const msgEl = document.getElementById("msg");
     const capEl = document.getElementById("caption");
+
+    let imageAspect;
 
     function showMsg(html) {
       msgEl.innerHTML = html;
@@ -142,6 +210,30 @@
     if (!src) {
       showMsg(`Missing <code>?src=</code> parameter.`);
       throw new Error("Missing src");
+    }
+
+    const mwImage = (mwImg, width) => {
+      width = width | 0
+      // Converts Wikimedia commons image URL to a thumbnail link
+      mwImg = mwImg.split('/').pop().replace(/^wc:/, '').replace(/Special:FilePath\//, 'File:').split('File:').pop().replace(/^\d+px-/, '')
+      mwImg = decodeURIComponent(mwImg).replace(/ /g, '_')
+      const _md5 = md5(mwImg)
+      const extension = mwImg.split('.').pop()
+      let url = `https://upload.wikimedia.org/wikipedia/commons${width > 0 ? '/thumb' : ''}`
+      url += `/${_md5.slice(0, 1)}/${_md5.slice(0, 2)}/${mwImg}`
+      if (width > 0) {
+        url += `/${width}px-${mwImg}`
+        if (extension === 'svg') {
+          url += '.png'
+        } else if (extension === 'tif' || extension === 'tiff') {
+          url += '.jpg'
+        }
+      }
+      return url
+    }
+
+    if (src.indexOf('wc:') === 0 || src.indexOf('wikimedia.org') > -1 || (src.indexOf('wikipedia.org') > -1 && props.src.indexOf('/media/File:') > -1)) {
+      src = mwImage(src, max ? -1 : 1200)
     }
 
     window.addEventListener('message', (event) => {
@@ -155,6 +247,8 @@
         zoomto(args[0], text)
       }
     });
+
+
 
     /**
     * Expand a bounding box to twice its width and height,
@@ -476,13 +570,267 @@
       updateIframeAspectTip(); // caption affects wrap height
     }
 
-    // Set up viewer
+    function attachStaticClickHandler(viewer, onClick) {
+      viewer.container.addEventListener(
+        "click",
+        (e) => {
+          // Allow scrolling; click is separate and safe to own here.
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          onClick?.(e);
+        },
+        true // capture
+      );
+
+      // Optional: also block double-click so it doesn't do anything weird
+      viewer.container.addEventListener(
+        "dblclick",
+        (e) => {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+        },
+        true
+      );
+    }
+
+    function enableModifierWheelZoom(viewer) {
+      viewer.container.addEventListener(
+        "wheel",
+        (e) => {
+          const zoomIntent = e.ctrlKey || e.metaKey; // Ctrl / ⌘
+          if (!zoomIntent) return; // let the page scroll
+
+          e.preventDefault();
+          e.stopImmediatePropagation();
+
+          const factor = e.deltaY < 0 ? 1.1 : 1 / 1.1;
+          const webPoint = viewer.viewport.pointFromPixel(
+            new OpenSeadragon.Point(e.clientX, e.clientY),
+            true
+          );
+
+          viewer.viewport.zoomBy(factor, webPoint, true);
+          viewer.viewport.applyConstraints();
+        },
+        { passive: false, capture: true }
+      );
+    }
+
+    const boundingBoxHandler = (e) => {
+      const container = document.getElementById("osd");
+      const overlay = document.getElementById("drawing-overlay");
+      const ctx = overlay.getContext("2d");
+      let isDrawing = false, startX = 0, startY = 0;
+
+      // Array of { rect, el, updateOverlay }
+      const boxes = [];
+
+      function resizeOverlay() {
+        overlay.width = container.clientWidth;
+        overlay.height = container.clientHeight;
+      }
+      window.addEventListener("resize", resizeOverlay);
+      resizeOverlay();
+
+      function updateAllBoxes() {
+        boxes.forEach(b => b.updateOverlay());
+      }
+
+      viewer.addHandler("viewport-change", updateAllBoxes);
+
+      // === NEW BOX DRAWING ===
+      container.addEventListener("pointerdown", e => {
+        if (!e.shiftKey) return;
+        e.preventDefault(); e.stopImmediatePropagation();
+        isDrawing = true;
+        viewer.setMouseNavEnabled(false);
+        overlay.style.pointerEvents = "auto";
+        const r = overlay.getBoundingClientRect();
+        startX = e.clientX - r.left;
+        startY = e.clientY - r.top;
+      }, { capture: true });
+
+      document.addEventListener("pointermove", e => {
+        if (!isDrawing) return;
+        const r = overlay.getBoundingClientRect();
+        const x = e.clientX - r.left, y = e.clientY - r.top;
+        ctx.clearRect(0, 0, overlay.width, overlay.height);
+        ctx.strokeStyle = "red"; ctx.lineWidth = 2;
+        ctx.strokeRect(startX, startY, x - startX, y - startY);
+      });
+
+      document.addEventListener("pointerup", e => {
+        if (!isDrawing) return;
+        isDrawing = false;
+        viewer.setMouseNavEnabled(true);
+        overlay.style.pointerEvents = "none";
+        ctx.clearRect(0, 0, overlay.width, overlay.height);
+
+        const r = overlay.getBoundingClientRect();
+        const endX = e.clientX - r.left, endY = e.clientY - r.top;
+        const tl = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(startX, startY));
+        const br = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(endX, endY));
+
+        const rect = { x: tl.x, y: tl.y, width: br.x - tl.x, height: br.y - tl.y };
+
+        // Create the HTML overlay
+        const boxEl = document.createElement("div");
+        boxEl.className = "box";
+        container.appendChild(boxEl);
+
+        // Resize handlers
+        ['nw', 'ne', 'sw', 'se'].forEach(pos => {
+          const h = document.createElement("div");
+          h.className = `handle ${pos}`;
+          boxEl.appendChild(h);
+        });
+
+        // Copy icon
+        const icon = document.createElement('div');
+        icon.className = 'copy-icon';
+        icon.textContent = '📋';
+        boxEl.appendChild(icon);
+        icon.addEventListener('click', () => {
+          if (document.hasFocus()) {
+            navigator.clipboard.writeText('Hello world!').catch(err => console.error('Copy failed:', err));
+          } else {
+            alert('Please click on the window to focus it before copying.');
+          }
+          const regionPct = `pct:${(rect.x * 100).toFixed(2)},${(rect.y * 100 * imageAspect).toFixed(2)},${(rect.width * 100).toFixed(2)},${(rect.height * 100 * imageAspect).toFixed(2)}`
+          // navigator.clipboard.writeText(`${id}/zoomto/${regionPct}`);
+          navigator.clipboard.writeText(regionPct);
+        });
+
+        // Define updateOverlay function
+        function updateOverlay() {
+          const tlp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(rect.x, rect.y), true);
+          const brp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(rect.x + rect.width, rect.y + rect.height), true);
+          const w = brp.x - tlp.x, h = brp.y - tlp.y;
+          boxEl.style.left = tlp.x + "px";
+          boxEl.style.top = tlp.y + "px";
+          boxEl.style.width = w + "px";
+          boxEl.style.height = h + "px";
+          // position icon
+          icon.style.left = (w - 10) + "px";
+          icon.style.top = (h - 10) + "px";
+        }
+
+        // Initial positioning
+        updateOverlay();
+
+        // Add to array
+        boxes.push({ rect, el: boxEl, updateOverlay });
+
+        // === MOVE & RESIZE INTERACTIONS ===
+        let action = null, handlePos = null, startPx = 0, startPy = 0, origRect;
+
+        boxEl.addEventListener("pointerdown", e => {
+          e.stopPropagation(); e.preventDefault();
+          if (e.target.classList.contains("handle")) {
+            action = "resize";
+            handlePos = ['nw', 'ne', 'sw', 'se'].find(p => e.target.classList.contains(p));
+          } else {
+            action = "move";
+          }
+          viewer.setMouseNavEnabled(false);
+          startPx = e.clientX; startPy = e.clientY;
+          origRect = { ...rect };
+        });
+
+        document.addEventListener("pointermove", e => {
+          if (!action) return;
+          const dx = e.clientX - startPx, dy = e.clientY - startPy;
+          // get original corners in pixel space
+          const tlp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(origRect.x, origRect.y), true);
+          const brp = viewer.viewport.pixelFromPoint(
+            new OpenSeadragon.Point(origRect.x + origRect.width, origRect.y + origRect.height), true
+          );
+          let leftPx = tlp.x, topPx = tlp.y, rightPx = brp.x, bottomPx = brp.y;
+
+          if (action === "move") {
+            leftPx += dx; rightPx += dx;
+            topPx += dy; bottomPx += dy;
+          } else {
+            if (handlePos.includes("n")) topPx += dy;
+            if (handlePos.includes("s")) bottomPx += dy;
+            if (handlePos.includes("w")) leftPx += dx;
+            if (handlePos.includes("e")) rightPx += dx;
+          }
+
+          // convert back to image coords
+          const newTL = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(leftPx, topPx));
+          const newBR = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(rightPx, bottomPx));
+          rect.x = newTL.x;
+          rect.y = newTL.y;
+          rect.width = newBR.x - newTL.x;
+          rect.height = newBR.y - newTL.y;
+
+          updateOverlay();
+        });
+
+        document.addEventListener("pointerup", () => {
+          if (!action) return;
+          action = null;
+          viewer.setMouseNavEnabled(true);
+        });
+      });
+
+      // Clear on Escape
+      document.addEventListener("keydown", e => {
+        if (e.key === "Escape") {
+          boxes.forEach(b => container.removeChild(b.el));
+          boxes.length = 0;
+        }
+      });
+    }
+
     const viewer = OpenSeadragon({
       id: "osd",
       prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/images/",
-      showNavigator: true,
-      showRotationControl: true,
-      gestureSettingsMouse: { scrollToZoom: true }
+
+      // Controls only in max mode
+      showNavigationControl: max,
+      showZoomControl: max,
+      showHomeControl: max,
+      showFullPageControl: max,
+      showRotationControl: max,
+      showNavigator: false,
+      keyboard: max,
+
+      // The big switch:
+      mouseNavEnabled: max,
+
+      // Gestures: make it behave like a static image when not max
+      gestureSettingsMouse: {
+        scrollToZoom: max,        // wheel zoom only in max
+        dragToPan: max,           // pan only in max
+        clickToZoom: max,
+        dblClickToZoom: max,
+        pinchToZoom: max
+      },
+      gestureSettingsTouch: {
+        scrollToZoom: max,
+        dragToPan: max,
+        clickToZoom: max,
+        dblClickToZoom: max,
+        pinchToZoom: max
+      }
+    });
+
+    // In static mode, explicitly allow the browser to scroll normally on touch/trackpads.
+    // (Doesn't hurt desktop mouse wheels either.)
+    viewer.container.style.touchAction = max ? "none" : "pan-y";
+
+    viewer.addHandler("open", () => {
+      const item = viewer.world.getItemAt(0);
+      if (!item) return;
+
+      const size = item.getContentSize(); // image pixel dimensions
+      const width = size.x;
+      const height = size.y;
+
+      imageAspect = width / height;
+      boundingBoxHandler()
     });
 
     viewer.open({ type: "image", url: src });
@@ -490,6 +838,15 @@
     viewer.addHandler("open-failed", () => {
       showMsg("Failed to load image. The image host may not allow cross-origin access (CORS).");
     });
+
+    if (!max) {
+      attachStaticClickHandler(viewer, () => {
+        window.parent.postMessage({ type: 'showDialog', props: { aspect: 1.0, src: `${location.href}&max` } }, '*');
+      });
+
+      // Optional:
+      enableModifierWheelZoom(viewer);
+    }
 
     viewer.addHandler("open", () => {
       const item = viewer.world.getItemAt(0);

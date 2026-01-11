@@ -13,6 +13,56 @@ import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab
 let isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
 let isStatic = false;
 
+let dialog
+const showDialog = (props) => {
+    if (dialog) return
+    console.log('showDialog', props)
+    let aspectRatio = props.aspect || 1.0
+
+    // Aspect ratio with caption height
+    let aspectRatioWithCaption = window.innerWidth / (window.innerWidth / aspectRatio + 36)
+
+    let width = aspectRatioWithCaption > 1.0
+        ? window.innerWidth * 0.93
+        : window.innerHeight * aspectRatioWithCaption * 0.93
+
+    dialog = document.createElement('sl-dialog')
+    dialog.id = 'junctureDialog'
+    dialog.setAttribute('size', 'large')
+    dialog.setAttribute('no-header', '')
+    dialog.setAttribute('style', `--width: ${width}px;`)
+    dialog.addEventListener('sl-after-hide', () => dialog = dialog.remove())
+    let closeButton = document.createElement('sl-button')
+    closeButton.setAttribute('slot', 'footer')
+    closeButton.setAttribute('variant', 'primary')
+    closeButton.setAttribute('size', 'small')
+    closeButton.textContent = 'Close'
+    closeButton.addEventListener('click', () => dialog.hide())
+    dialog.appendChild(closeButton)
+    let el = document.createElement('div')
+    dialog.appendChild(el)
+    el.innerHTML = `<iframe style="width:100%;aspect-ratio:${props.aspect};" src=${props.src} loading="lazy" allow="clipboard-write" allowfullscreen=""></iframe>`
+    document.body.appendChild(dialog)
+    dialog.show()
+}
+
+const addMessageHandler = () => {
+    window.addEventListener('message', (event) => {
+        if (event.data.type === 'setAspect') {
+            const sendingIframe = Array.from(document.querySelectorAll('iframe')).find((iframe) => iframe.contentWindow === event.source)
+            if (sendingIframe) {
+                sendingIframe.style.aspectRatio = event.data.aspect
+            }
+        } else if (event.data.type === 'showDialog') {
+            // if (event.origin !== location.origin) return;
+            showDialog(event.data.props)
+        } else if (event.data.type === 'openLink') {
+            window.open(event.data.url, event.data.newtab ? '_blank' : '_self')
+        }
+    })
+}
+addMessageHandler()
+
 function wrapAdjacentEmbedsAsTabs({
     root = document.body,
     minRunLength = 2,
