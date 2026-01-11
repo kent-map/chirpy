@@ -14,7 +14,6 @@
     body {
       height: 100%;
       margin: 0;
-      /* background: #111; */
     }
 
     /* Wrap includes BOTH viewer + caption area */
@@ -23,7 +22,7 @@
       display: grid;
       grid-template-rows: 1fr auto;
       position: relative;
-      /* for bottom-right hotspot */
+      /* for bottom-right tooltip hotspot */
     }
 
     #osd {
@@ -106,6 +105,7 @@
       transform: translateY(0);
     }
 
+    /* Rubber-band drawing canvas */
     #drawing-overlay {
       position: absolute;
       top: 0;
@@ -114,6 +114,7 @@
       pointer-events: none;
     }
 
+    /* Editable box overlays */
     .box {
       position: absolute;
       border: 2px solid red;
@@ -157,15 +158,27 @@
 
     .copy-icon {
       position: absolute;
+
+      /* Visible icon size */
       width: 20px;
       height: 20px;
       line-height: 20px;
       text-align: center;
+
+      /* Increase hit area */
+      padding: 10px;
+      /* <-- makes hitbox ~40×40 */
+      margin: -10px;
+      /* <-- keeps visual position unchanged */
+
       background: rgba(255, 255, 255, 0.8);
       border-radius: 50%;
       cursor: pointer;
       z-index: 22;
       user-select: none;
+
+      /* Critical: ensure it captures events */
+      pointer-events: auto;
     }
   </style>
 </head>
@@ -177,7 +190,6 @@
     <div id="osd"></div>
     <canvas id="drawing-overlay"></canvas>
 
-    <!-- bottom-right hover hotspot + tooltip (aspect ratio of entire iframe, incl caption) -->
     <div id="ar-hotspot" aria-label="Iframe aspect ratio">
       <div id="ar-tip"></div>
     </div>
@@ -186,301 +198,126 @@
   </div>
 
   <script type="module">
-    import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js'
+    import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js';
 
-    const params = new URLSearchParams(location.search);
-
-    let src = params.get("src");
-    const captionStr = params.get("caption");
-    const cover = params.get("cover") === "1"; // viewer expects cover=1
-    const regionStr = params.get("region");        // "full" | "x,y,w,h" | "pct:x,y,w,h"
-    const rotateStr = params.get("rotate");        // "0" | "90" | "!90" etc
-    const max = ['', 'true', '1'].includes(params.get("max"));
-
-    const msgEl = document.getElementById("msg");
-    const capEl = document.getElementById("caption");
-
-    let imageAspect;
+    // =========================================================================
+    // DOM
+    // =========================================================================
+    const els = {
+      msg: document.getElementById("msg"),
+      wrap: document.getElementById("wrap"),
+      osd: document.getElementById("osd"),
+      overlay: document.getElementById("drawing-overlay"),
+      caption: document.getElementById("caption"),
+      arTip: document.getElementById("ar-tip"),
+    };
 
     function showMsg(html) {
-      msgEl.innerHTML = html;
-      msgEl.style.display = "block";
+      els.msg.innerHTML = html;
+      els.msg.style.display = "block";
     }
 
-    if (!src) {
+    // =========================================================================
+    // Params
+    // =========================================================================
+    const params = new URLSearchParams(location.search);
+    const cfg = {
+      src: params.get("src"),
+      caption: params.get("caption"),
+      cover: params.get("cover") === "1",
+      region: params.get("region"),   // "full" | "x,y,w,h" | "pct:x,y,w,h"
+      rotate: params.get("rotate"),   // "0" | "90" | "!90"
+      max: ['', 'true', '1'].includes(params.get("max")),
+    };
+
+    if (!cfg.src) {
       showMsg(`Missing <code>?src=</code> parameter.`);
       throw new Error("Missing src");
     }
 
-    const mwImage = (mwImg, width) => {
-      width = width | 0
-      // Converts Wikimedia commons image URL to a thumbnail link
-      mwImg = mwImg.split('/').pop().replace(/^wc:/, '').replace(/Special:FilePath\//, 'File:').split('File:').pop().replace(/^\d+px-/, '')
-      mwImg = decodeURIComponent(mwImg).replace(/ /g, '_')
-      const _md5 = md5(mwImg)
-      const extension = mwImg.split('.').pop()
-      let url = `https://upload.wikimedia.org/wikipedia/commons${width > 0 ? '/thumb' : ''}`
-      url += `/${_md5.slice(0, 1)}/${_md5.slice(0, 2)}/${mwImg}`
+    // =========================================================================
+    // Small utilities
+    // =========================================================================
+    function safeParseMessageData(data) {
+      if (!data) return null;
+      if (typeof data === "object") return data;
+      if (typeof data !== "string") return null;
+      try { return JSON.parse(data); } catch { return null; }
+    }
+
+    function hexToRgba(hex, alpha) {
+      let h = String(hex).replace('#', '');
+      if (h.length === 3) h = h.split('').map(c => c + c).join('');
+      const int = parseInt(h, 16);
+      const r = (int >> 16) & 255;
+      const g = (int >> 8) & 255;
+      const b = int & 255;
+      return `rgba(${r},${g},${b},${alpha})`;
+    }
+
+    // Wikimedia thumb URL helper
+    function mwImage(mwImg, width) {
+      width = width | 0;
+      mwImg = mwImg.split('/').pop()
+        .replace(/^wc:/, '')
+        .replace(/Special:FilePath\//, 'File:')
+        .split('File:').pop()
+        .replace(/^\d+px-/, '');
+      mwImg = decodeURIComponent(mwImg).replace(/ /g, '_');
+
+      const _md5 = md5(mwImg);
+      const ext = mwImg.split('.').pop().toLowerCase();
+
+      let url = `https://upload.wikimedia.org/wikipedia/commons${width > 0 ? '/thumb' : ''}`;
+      url += `/${_md5.slice(0, 1)}/${_md5.slice(0, 2)}/${mwImg}`;
+
       if (width > 0) {
-        url += `/${width}px-${mwImg}`
-        if (extension === 'svg') {
-          url += '.png'
-        } else if (extension === 'tif' || extension === 'tiff') {
-          url += '.jpg'
-        }
+        url += `/${width}px-${mwImg}`;
+        if (ext === 'svg') url += '.png';
+        else if (ext === 'tif' || ext === 'tiff') url += '.jpg';
       }
-      return url
+      return url;
     }
 
-    if (src.indexOf('wc:') === 0 || src.indexOf('wikimedia.org') > -1 || (src.indexOf('wikipedia.org') > -1 && props.src.indexOf('/media/File:') > -1)) {
-      src = mwImage(src, max ? -1 : 1200)
+    function looksLikeWikimedia(url) {
+      return url.startsWith('wc:') || url.includes('wikimedia.org') || url.includes('wikipedia.org');
     }
 
-    window.addEventListener('message', (event) => {
-      if (!event.data) return;
-      let eventData = JSON.parse(event.data)
-      let action = eventData.action?.toLowerCase()
-      let text = eventData.text
-      let args = eventData.args
-      console.log(action, args);
-      if (action === 'zoomto') {
-        zoomto(args[0], text)
-      }
-    });
-
-
-
-    /**
-    * Expand a bounding box to twice its width and height,
-    * centering the original box inside the new one.
-    *
-    * @param {{x:number, y:number, w:number, h:number}} box
-    *   The original bounding box.
-    * @param {'round'|'floor'|'ceil'} [rounding='round']
-    *   How to round the computed coordinates.
-    * @returns {{x:number, y:number, w:number, h:number}}
-    *   The expanded, centered bounding box.
-    */
-    function expandBox(box, rounding = 'round') {
-      let scale = 1.8;
-      // New dimensions
-      const newW = box.w * scale;
-      const newH = box.h * scale;
-
-      // Center of the original box
-      const cx = box.x + box.w / scale;
-      const cy = box.y + box.h / scale;
-
-      // Compute top-left of the expanded box so it's centered on (cx,cy)
-      let x = cx - newW / scale;
-      let y = cy - newH / scale;
-
-      // Apply rounding
-      if (rounding === 'floor') {
-        x = Math.floor(x);
-        y = Math.floor(y);
-      } else if (rounding === 'ceil') {
-        x = Math.ceil(x);
-        y = Math.ceil(y);
-      } else {
-        x = Math.round(x);
-        y = Math.round(y);
-      }
-
-      return { x, y, w: newW, h: newH };
+    if (looksLikeWikimedia(cfg.src)) {
+      cfg.src = mwImage(cfg.src, cfg.max ? -1 : 1200);
     }
 
-    /**
-    * Place a padded, semi‐transparent text caption under a box,
-    * with fully opaque text.
-    *
-    * @param {OpenSeadragon.Viewer} viewer
-    * @param {{x:number,y:number,w:number,h:number}} box   Image‐pixel bbox
-    * @param {string} text                                  Caption text
-    * @param {object} [opts]
-    * @param {number} [opts.fontSize=16]        Font size in px
-    * @param {string} [opts.bgColor='#000']     Background hex color (e.g. '#000', '#ff0000')
-    * @param {number} [opts.bgOpacity=0.5]      Background alpha (0–1)
-    * @param {string} [opts.textColor='#fff']   Text color
-    * @param {number} [opts.paddingEm=0.5]      Padding around text (in em)
-    * @returns {HTMLElement}                     The caption element
-    */
-    function addTextBelowBox(viewer, box, text, opts = {}) {
-      const {
-        fontSize = 16,
-        bgColor = '#000',
-        bgOpacity = 0.5,
-        textColor = '#fff',
-        paddingEm = 0.5,
-        offsetPx = 6
-      } = opts;
+    function clamp(v, lo, hi) { return Math.max(lo, Math.min(v, hi)); }
 
-      function hexToRgba(hex, alpha) {
-        let h = hex.replace('#', '');
-        if (h.length === 3) h = h.split('').map(c => c + c).join('');
-        const int = parseInt(h, 16);
-        const r = (int >> 16) & 255;
-        const g = (int >> 8) & 255;
-        const b = int & 255;
-        return `rgba(${r},${g},${b},${alpha})`;
-      }
-
-      // Anchor element: OSD will apply its own transforms to THIS element
-      const anchor = document.createElement('div');
-      Object.assign(anchor.style, {
-        position: 'absolute',
-        width: '0px',
-        height: '0px',
-        overflow: 'visible',
-        pointerEvents: 'none',
-        zIndex: 9999
-      });
-
-      // Actual label: we control transform HERE (OSD won't overwrite it)
-      const pill = document.createElement('div');
-      pill.textContent = text;
-      Object.assign(pill.style, {
-        display: 'inline-block',
-        transform: `translate(-50%, ${offsetPx}px)`, // center under anchor + push down
-        fontSize: (typeof fontSize === 'number') ? `${fontSize}px` : String(fontSize),
-        backgroundColor: hexToRgba(bgColor, bgOpacity),
-        color: textColor,
-        padding: `${paddingEm}em`,
-        borderRadius: '6px',
-        boxSizing: 'border-box',
-        whiteSpace: 'nowrap',
-        lineHeight: '1.2',
-        textAlign: 'center'
-      });
-
-      anchor.appendChild(pill);
-
-      // Bottom-center of the box in IMAGE coords
-      const imgX = box.x + box.w / 2;
-      const imgY = box.y + box.h;
-
-      // Convert to viewport coords
-      const vp = viewer.viewport.imageToViewportCoordinates(imgX, imgY);
-
-      viewer.addOverlay({
-        element: anchor,
-        location: new OpenSeadragon.Point(vp.x, vp.y),
-        placement: OpenSeadragon.Placement.TOP_LEFT
-      });
-
-      return anchor;
-    }
-    /**
-* Draws a border around an image‐pixel box in an OpenSeadragon viewer.
-*
-* @param {OpenSeadragon.Viewer} viewer
-* @param {{x:number,y:number,w:number,h:number}} box
-*        Box in image‐pixel coords (top-left + width/height).
-* @param {object} [opts]
-* @param {string} [opts.color='red']     Border color (any CSS color).
-* @param {number} [opts.lineWidth=2]     Border thickness in px.
-* @returns {HTMLElement}                 The overlay element (for later removal).
-*/
-    function drawBoxBorder(viewer, box, opts = {}) {
-      const {
-        color = 'red',
-        lineWidth = 2,
-      } = opts;
-
-      // 1) make a DIV sized to 100% × 100% of its overlay rectangle,
-      //    with only a border and transparent fill
-      const div = document.createElement('div');
-      Object.assign(div.style, {
-        position: 'absolute',
-        width: '100%',
-        height: '100%',
-        boxSizing: 'border-box',
-        border: `${lineWidth}px solid ${color}`,
-        background: 'transparent',
-        pointerEvents: 'none',
-      });
-
-      // 2) map the box corners to viewport coords
-      const vpTL = viewer.viewport.imageToViewportCoordinates(box.x, box.y);
-      const vpTR = viewer.viewport.imageToViewportCoordinates(box.x + box.w, box.y);
-      const vpBL = viewer.viewport.imageToViewportCoordinates(box.x, box.y + box.h);
-
-      const widthVP = vpTR.x - vpTL.x;
-      const heightVP = vpBL.y - vpTL.y;
-
-      // 3) build the overlay rectangle
-      const rect = new OpenSeadragon.Rect(
-        vpTL.x,
-        vpTL.y,
-        widthVP,
-        heightVP
-      );
-
-      // 4) add it to the viewer
-      viewer.addOverlay({
-        element: div,
-        location: rect
-      });
-
-      return div;
+    function normalizeRectVH(rect) {
+      // rect is in viewport coords: {x,y,width,height}
+      if (rect.width < 0) { rect.x += rect.width; rect.width = Math.abs(rect.width); }
+      if (rect.height < 0) { rect.y += rect.height; rect.height = Math.abs(rect.height); }
+      return rect;
     }
 
-    const parseRegionString = (region, center) => {
-      const s1 = region.split(':')
-      let [x, y, w, h] = s1[s1.length - 1].split(',').map(v => parseInt(v))
-      const size = viewer.world.getItemAt(0)?.getContentSize()
-      if (!size) return
-      if (s1.length === 2 && (s1[0] === 'pct' || s1[0] === 'percent')) {
-        x = Math.round(size.x * x / 100),
-          y = Math.round(size.y * y / 100),
-          w = Math.round(size.x * w / 100),
-          h = Math.round(size.y * h / 100)
-      }
-      return center
-        ? ({ x, y, w, h } = expandBox({ x, y, w, h }))
-        : ({ x, y, w, h })
+    // Expand an IMAGE bbox about its center
+    function expandBox(box, scale = 1.8) {
+      const cx = box.x + box.w / 2;
+      const cy = box.y + box.h / 2;
+      return {
+        x: Math.round(cx - (box.w * scale) / 2),
+        y: Math.round(cy - (box.h * scale) / 2),
+        w: Math.round(box.w * scale),
+        h: Math.round(box.h * scale),
+      };
     }
 
-    let zoomedToRegion = ''
-    const zoomto = (regionStr, caption) => {
-      viewer.clearOverlays();
-      if (zoomedToRegion === regionStr) {
-        viewer.viewport.goHome()
-        zoomedToRegion = ''
-      } else {
-        zoomedToRegion = regionStr
-        let region = parseRegionString(regionStr, false)
-        let expandedRegion = parseRegionString(regionStr, true)
-        setTimeout(() => {
-          let rect = viewer.viewport.imageToViewportRectangle(...Object.values(expandedRegion))
-          viewer.viewport.fitBounds(rect, false)
-          const borderEl = drawBoxBorder(viewer, region, {
-            color: '#FFFF00',
-            lineWidth: 2
-          });
-          if (caption) addTextBelowBox(viewer, region, caption, {
-            fontSize: '1em',
-            bgColor: "#fff",
-            bgOpacity: 0.8,
-            textColor: "#000",
-            paddingEm: 0.3
-          });
-        }, 100)
-      }
-    }
-
-    // --- Helpers: IIIF-like rotate/region ---
+    // IIIF-like rotate parsing: "!90" => flip + rotate 90
     function parseRotate(v) {
       if (!v) return { flip: false, degrees: 0 };
       const s = String(v).trim();
       const flip = s.startsWith("!");
       const deg = parseFloat(flip ? s.slice(1) : s);
-      return {
-        flip,
-        degrees: Number.isFinite(deg) ? ((deg % 360) + 360) % 360 : 0
-      };
+      return { flip, degrees: Number.isFinite(deg) ? ((deg % 360) + 360) % 360 : 0 };
     }
 
+    // IIIF-like region parsing: "full" | "x,y,w,h" | "pct:x,y,w,h"
     function parseRegion(v, w, h) {
       if (!v) return null;
       const raw = String(v).trim();
@@ -488,11 +325,7 @@
 
       let s = raw;
       let pct = false;
-
-      if (s.toLowerCase().startsWith("pct:")) {
-        pct = true;
-        s = s.slice(4);
-      }
+      if (s.toLowerCase().startsWith("pct:")) { pct = true; s = s.slice(4); }
 
       const parts = s.split(",").map(p => parseFloat(p.trim()));
       if (parts.length !== 4 || parts.some(n => !Number.isFinite(n))) return null;
@@ -507,43 +340,18 @@
       }
 
       // Clamp to image bounds
-      x = Math.max(0, Math.min(x, w));
-      y = Math.max(0, Math.min(y, h));
-      rw = Math.max(0, Math.min(rw, w - x));
-      rh = Math.max(0, Math.min(rh, h - y));
-
+      x = clamp(x, 0, w);
+      y = clamp(y, 0, h);
+      rw = clamp(rw, 0, w - x);
+      rh = clamp(rh, 0, h - y);
       if (rw <= 0 || rh <= 0) return null;
 
       return new OpenSeadragon.Rect(x, y, rw, rh);
     }
 
-    // --- Cover: crop-based (no letterbox) ---
-    function fitCover(viewer, itemBounds) {
-      const vp = viewer.viewport;
-      const containerSize = vp.getContainerSize(); // pixels
-      const vpAspect = containerSize.x / containerSize.y;
-
-      const b = itemBounds.clone(); // viewport coords
-      const bAspect = b.width / b.height;
-
-      if (bAspect > vpAspect) {
-        // wider than viewport: crop width (zoom in)
-        const newW = b.height * vpAspect;
-        const dx = (b.width - newW) / 2;
-        b.x += dx;
-        b.width = newW;
-      } else {
-        // taller than viewport: crop height (zoom in)
-        const newH = b.width / vpAspect;
-        const dy = (b.height - newH) / 2;
-        b.y += dy;
-        b.height = newH;
-      }
-
-      vp.fitBounds(b, true);
-    }
-
-    // --- Tooltip: aspect ratio of ENTIRE iframe content (#wrap), incl caption row ---
+    // =========================================================================
+    // Tooltip: aspect ratio of ENTIRE iframe content (#wrap), incl caption row
+    // =========================================================================
     function gcd(a, b) {
       a = Math.abs(Math.round(a));
       b = Math.abs(Math.round(b));
@@ -555,82 +363,286 @@
       const g = gcd(w, h);
       const rw = Math.round(w / g);
       const rh = Math.round(h / g);
-      const dec = w / h;
-      return `Iframe aspect: ${rw}:${rh} (${dec.toFixed(3)})`;
+      return `Iframe aspect: ${rw}:${rh} (${(w / h).toFixed(3)})`;
     }
 
     function updateIframeAspectTip() {
-      const wrap = document.getElementById("wrap");
-      const tip = document.getElementById("ar-tip");
-      if (!wrap || !tip) return;
-
-      const r = wrap.getBoundingClientRect();
+      const r = els.wrap.getBoundingClientRect();
       const w = Math.max(1, Math.round(r.width));
       const h = Math.max(1, Math.round(r.height));
-      tip.textContent = iframeAspectText(w, h);
+      els.arTip.textContent = iframeAspectText(w, h);
     }
 
-    // Caption (Chirpy-like)
-    if (captionStr) {
-      capEl.textContent = captionStr;
-      capEl.style.display = "block";
-      updateIframeAspectTip(); // caption affects wrap height
+    // Caption init
+    if (cfg.caption) {
+      els.caption.textContent = cfg.caption;
+      els.caption.style.display = "block";
+      updateIframeAspectTip();
     }
 
+    // =========================================================================
+    // OpenSeadragon init
+    // =========================================================================
+    const viewer = OpenSeadragon({
+      id: "osd",
+      prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/images/",
+      showNavigationControl: cfg.max,
+      showZoomControl: cfg.max,
+      showHomeControl: cfg.max,
+      showFullPageControl: cfg.max,
+      showRotationControl: cfg.max,
+      showNavigator: false,
+      keyboard: cfg.max,
+
+      mouseNavEnabled: cfg.max,
+
+      gestureSettingsMouse: {
+        scrollToZoom: cfg.max,
+        dragToPan: cfg.max,
+        clickToZoom: cfg.max,
+        dblClickToZoom: cfg.max,
+        pinchToZoom: cfg.max
+      },
+      gestureSettingsTouch: {
+        scrollToZoom: cfg.max,
+        dragToPan: cfg.max,
+        clickToZoom: cfg.max,
+        dblClickToZoom: cfg.max,
+        pinchToZoom: cfg.max
+      }
+    });
+
+    // Allow page scroll in static mode
+    viewer.container.style.touchAction = cfg.max ? "none" : "pan-y";
+
+    viewer.addHandler("open-failed", () => {
+      showMsg("Failed to load image. The image host may not allow cross-origin access (CORS).");
+    });
+
+    // =========================================================================
+    // Cover fit (crop-based)
+    // =========================================================================
+    function fitCover(viewer, itemBounds) {
+      const vp = viewer.viewport;
+      const containerSize = vp.getContainerSize();
+      const vpAspect = containerSize.x / containerSize.y;
+
+      const b = itemBounds.clone(); // viewport coords
+      const bAspect = b.width / b.height;
+
+      if (bAspect > vpAspect) {
+        const newW = b.height * vpAspect;
+        const dx = (b.width - newW) / 2;
+        b.x += dx; b.width = newW;
+      } else {
+        const newH = b.width / vpAspect;
+        const dy = (b.height - newH) / 2;
+        b.y += dy; b.height = newH;
+      }
+      vp.fitBounds(b, true);
+    }
+
+    // =========================================================================
+    // OSD overlays: border + centered label
+    // =========================================================================
+    function drawBoxBorder(viewer, box, opts = {}) {
+      const { color = 'red', lineWidth = 2 } = opts;
+
+      const div = document.createElement('div');
+      Object.assign(div.style, {
+        position: 'absolute',
+        width: '100%',
+        height: '100%',
+        boxSizing: 'border-box',
+        border: `${lineWidth}px solid ${color}`,
+        background: 'transparent',
+        pointerEvents: 'none',
+      });
+
+      const vpTL = viewer.viewport.imageToViewportCoordinates(box.x, box.y);
+      const vpTR = viewer.viewport.imageToViewportCoordinates(box.x + box.w, box.y);
+      const vpBL = viewer.viewport.imageToViewportCoordinates(box.x, box.y + box.h);
+
+      const rect = new OpenSeadragon.Rect(vpTL.x, vpTL.y, vpTR.x - vpTL.x, vpBL.y - vpTL.y);
+      viewer.addOverlay({ element: div, location: rect });
+      return div;
+    }
+
+    // Centered label below IMAGE box (uses anchor + pill so OSD doesn't overwrite transform)
+    function addTextBelowBox(viewer, box, text, opts = {}) {
+      const {
+        fontSize = 16,
+        bgColor = '#000',
+        bgOpacity = 0.5,
+        textColor = '#fff',
+        paddingEm = 0.5,
+        offsetPx = 6
+      } = opts;
+
+      const anchor = document.createElement('div');
+      Object.assign(anchor.style, {
+        position: 'absolute',
+        width: '0px',
+        height: '0px',
+        overflow: 'visible',
+        pointerEvents: 'none',
+        zIndex: 9999
+      });
+
+      const pill = document.createElement('div');
+      pill.textContent = text;
+      Object.assign(pill.style, {
+        display: 'inline-block',
+        transform: `translate(-50%, ${offsetPx}px)`,
+        fontSize: (typeof fontSize === 'number') ? `${fontSize}px` : String(fontSize),
+        backgroundColor: hexToRgba(bgColor, bgOpacity),
+        color: textColor,
+        padding: `${paddingEm}em`,
+        borderRadius: '6px',
+        boxSizing: 'border-box',
+        whiteSpace: 'nowrap',
+        lineHeight: '1.2',
+        textAlign: 'center'
+      });
+
+      anchor.appendChild(pill);
+
+      const imgX = box.x + box.w / 2;
+      const imgY = box.y + box.h;
+      const vp = viewer.viewport.imageToViewportCoordinates(imgX, imgY);
+
+      viewer.addOverlay({
+        element: anchor,
+        location: new OpenSeadragon.Point(vp.x, vp.y),
+        placement: OpenSeadragon.Placement.TOP_LEFT
+      });
+
+      return anchor;
+    }
+
+    // =========================================================================
+    // Static-mode interactions (click to open dialog + modifier-wheel zoom)
+    // =========================================================================
     function attachStaticClickHandler(viewer, onClick) {
-      viewer.container.addEventListener(
-        "click",
-        (e) => {
-          // Allow scrolling; click is separate and safe to own here.
-          e.preventDefault();
-          e.stopImmediatePropagation();
-          onClick?.(e);
-        },
-        true // capture
-      );
+      viewer.container.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        onClick?.(e);
+      }, true);
 
-      // Optional: also block double-click so it doesn't do anything weird
-      viewer.container.addEventListener(
-        "dblclick",
-        (e) => {
-          e.preventDefault();
-          e.stopImmediatePropagation();
-        },
-        true
-      );
+      viewer.container.addEventListener("dblclick", (e) => {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+      }, true);
     }
 
     function enableModifierWheelZoom(viewer) {
-      viewer.container.addEventListener(
-        "wheel",
-        (e) => {
-          const zoomIntent = e.ctrlKey || e.metaKey; // Ctrl / ⌘
-          if (!zoomIntent) return; // let the page scroll
+      viewer.container.addEventListener("wheel", (e) => {
+        const zoomIntent = e.ctrlKey || e.metaKey; // Ctrl / ⌘
+        if (!zoomIntent) return; // let the page scroll
 
-          e.preventDefault();
-          e.stopImmediatePropagation();
+        e.preventDefault();
+        e.stopImmediatePropagation();
 
-          const factor = e.deltaY < 0 ? 1.1 : 1 / 1.1;
-          const webPoint = viewer.viewport.pointFromPixel(
-            new OpenSeadragon.Point(e.clientX, e.clientY),
-            true
-          );
+        const factor = e.deltaY < 0 ? 1.1 : 1 / 1.1;
+        const webPoint = viewer.viewport.pointFromPixel(
+          new OpenSeadragon.Point(e.clientX, e.clientY),
+          true
+        );
 
-          viewer.viewport.zoomBy(factor, webPoint, true);
-          viewer.viewport.applyConstraints();
-        },
-        { passive: false, capture: true }
-      );
+        viewer.viewport.zoomBy(factor, webPoint, true);
+        viewer.viewport.applyConstraints();
+      }, { passive: false, capture: true });
     }
 
-    const boundingBoxHandler = (e) => {
-      const container = document.getElementById("osd");
-      const overlay = document.getElementById("drawing-overlay");
-      const ctx = overlay.getContext("2d");
-      let isDrawing = false, startX = 0, startY = 0;
+    // =========================================================================
+    // Zoom-to support (postMessage action="zoomto")
+    // =========================================================================
+    let zoomedToRegion = '';
+    let imageSize = null; // {x, y}
 
-      // Array of { rect, el, updateOverlay }
+    function parseRegionString(region, center) {
+      const s1 = region.split(':');
+      let [x, y, w, h] = s1[s1.length - 1].split(',').map(v => parseInt(v, 10));
+
+      const size = viewer.world.getItemAt(0)?.getContentSize();
+      if (!size) return null;
+
+      if (s1.length === 2 && (s1[0] === 'pct' || s1[0] === 'percent')) {
+        x = Math.round(size.x * x / 100);
+        y = Math.round(size.y * y / 100);
+        w = Math.round(size.x * w / 100);
+        h = Math.round(size.y * h / 100);
+      }
+
+      const box = { x, y, w, h };
+      return center ? expandBox(box, 1.8) : box;
+    }
+
+    function zoomto(regionStr, caption) {
+      viewer.clearOverlays();
+
+      if (zoomedToRegion === regionStr) {
+        viewer.viewport.goHome();
+        zoomedToRegion = '';
+        return;
+      }
+
+      zoomedToRegion = regionStr;
+
+      const region = parseRegionString(regionStr, false);
+      const expanded = parseRegionString(regionStr, true);
+      if (!region || !expanded) return;
+
+      setTimeout(() => {
+        const rect = viewer.viewport.imageToViewportRectangle(expanded.x, expanded.y, expanded.w, expanded.h);
+        viewer.viewport.fitBounds(rect, false);
+
+        drawBoxBorder(viewer, region, { color: '#FFFF00', lineWidth: 2 });
+
+        if (caption) {
+          addTextBelowBox(viewer, region, caption, {
+            fontSize: '1em',
+            bgColor: "#fff",
+            bgOpacity: 0.8,
+            textColor: "#000",
+            paddingEm: 0.3
+          });
+        }
+      }, 60);
+    }
+
+    window.addEventListener('message', (event) => {
+      const data = safeParseMessageData(event.data);
+      if (!data) return;
+
+      const action = String(data.action || '').toLowerCase();
+      if (action === 'zoomto' && Array.isArray(data.args) && data.args[0]) {
+        zoomto(String(data.args[0]), data.text);
+      }
+    });
+
+    // =========================================================================
+    // Bounding boxes: draw (SHIFT-drag), move/resize, copy pct of IMAGE
+    // =========================================================================
+    function enableBoundingBoxes() {
+      const container = els.osd;
+      const overlay = els.overlay;
+      const ctx = overlay.getContext("2d");
+
+      // Boxes store VIEWPORT-rects: {x,y,width,height} in viewport coordinates
       const boxes = [];
+
+      // Rubber-band draw state
+      let isDrawing = false;
+      let startX = 0, startY = 0;
+
+      // Drag state for moving/resizing boxes (GLOBAL for all boxes)
+      let action = null;        // "move" | "resize" | null
+      let handlePos = null;     // "nw"|"ne"|"sw"|"se"|null
+      let startPx = 0, startPy = 0;
+      let active = null;        // active box object
+      let origRect = null;      // snapshot of active.rect at drag start
 
       function resizeOverlay() {
         overlay.width = container.clientWidth;
@@ -639,119 +651,46 @@
       window.addEventListener("resize", resizeOverlay);
       resizeOverlay();
 
-      function updateAllBoxes() {
-        boxes.forEach(b => b.updateOverlay());
+      // Coalesce box updates during pan/zoom
+      let rafPending = false;
+      function requestUpdateAllBoxes() {
+        if (rafPending) return;
+        rafPending = true;
+        requestAnimationFrame(() => {
+          rafPending = false;
+          boxes.forEach(b => b.updateOverlay());
+        });
       }
+      viewer.addHandler("viewport-change", requestUpdateAllBoxes);
 
-      viewer.addHandler("viewport-change", updateAllBoxes);
-
-      // === NEW BOX DRAWING ===
-      container.addEventListener("pointerdown", e => {
+      // --- Rubber-band draw (SHIFT + drag) ---
+      container.addEventListener("pointerdown", (e) => {
         if (!e.shiftKey) return;
-        e.preventDefault(); e.stopImmediatePropagation();
+        e.preventDefault();
+        e.stopImmediatePropagation();
+
         isDrawing = true;
         viewer.setMouseNavEnabled(false);
         overlay.style.pointerEvents = "auto";
+
         const r = overlay.getBoundingClientRect();
         startX = e.clientX - r.left;
         startY = e.clientY - r.top;
       }, { capture: true });
 
-      document.addEventListener("pointermove", e => {
-        if (!isDrawing) return;
-        const r = overlay.getBoundingClientRect();
-        const x = e.clientX - r.left, y = e.clientY - r.top;
-        ctx.clearRect(0, 0, overlay.width, overlay.height);
-        ctx.strokeStyle = "red"; ctx.lineWidth = 2;
-        ctx.strokeRect(startX, startY, x - startX, y - startY);
-      });
+      document.addEventListener("pointermove", (e) => {
+        // 1) Dragging an existing box?
+        if (action && active) {
+          const dx = e.clientX - startPx;
+          const dy = e.clientY - startPy;
 
-      document.addEventListener("pointerup", e => {
-        if (!isDrawing) return;
-        isDrawing = false;
-        viewer.setMouseNavEnabled(true);
-        overlay.style.pointerEvents = "none";
-        ctx.clearRect(0, 0, overlay.width, overlay.height);
-
-        const r = overlay.getBoundingClientRect();
-        const endX = e.clientX - r.left, endY = e.clientY - r.top;
-        const tl = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(startX, startY));
-        const br = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(endX, endY));
-
-        const rect = { x: tl.x, y: tl.y, width: br.x - tl.x, height: br.y - tl.y };
-
-        // Create the HTML overlay
-        const boxEl = document.createElement("div");
-        boxEl.className = "box";
-        container.appendChild(boxEl);
-
-        // Resize handlers
-        ['nw', 'ne', 'sw', 'se'].forEach(pos => {
-          const h = document.createElement("div");
-          h.className = `handle ${pos}`;
-          boxEl.appendChild(h);
-        });
-
-        // Copy icon
-        const icon = document.createElement('div');
-        icon.className = 'copy-icon';
-        icon.textContent = '📋';
-        boxEl.appendChild(icon);
-        icon.addEventListener('click', () => {
-          if (document.hasFocus()) {
-            navigator.clipboard.writeText('Hello world!').catch(err => console.error('Copy failed:', err));
-          } else {
-            alert('Please click on the window to focus it before copying.');
-          }
-          const regionPct = `pct:${(rect.x * 100).toFixed(2)},${(rect.y * 100 * imageAspect).toFixed(2)},${(rect.width * 100).toFixed(2)},${(rect.height * 100 * imageAspect).toFixed(2)}`
-          // navigator.clipboard.writeText(`${id}/zoomto/${regionPct}`);
-          navigator.clipboard.writeText(regionPct);
-        });
-
-        // Define updateOverlay function
-        function updateOverlay() {
-          const tlp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(rect.x, rect.y), true);
-          const brp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(rect.x + rect.width, rect.y + rect.height), true);
-          const w = brp.x - tlp.x, h = brp.y - tlp.y;
-          boxEl.style.left = tlp.x + "px";
-          boxEl.style.top = tlp.y + "px";
-          boxEl.style.width = w + "px";
-          boxEl.style.height = h + "px";
-          // position icon
-          icon.style.left = (w - 10) + "px";
-          icon.style.top = (h - 10) + "px";
-        }
-
-        // Initial positioning
-        updateOverlay();
-
-        // Add to array
-        boxes.push({ rect, el: boxEl, updateOverlay });
-
-        // === MOVE & RESIZE INTERACTIONS ===
-        let action = null, handlePos = null, startPx = 0, startPy = 0, origRect;
-
-        boxEl.addEventListener("pointerdown", e => {
-          e.stopPropagation(); e.preventDefault();
-          if (e.target.classList.contains("handle")) {
-            action = "resize";
-            handlePos = ['nw', 'ne', 'sw', 'se'].find(p => e.target.classList.contains(p));
-          } else {
-            action = "move";
-          }
-          viewer.setMouseNavEnabled(false);
-          startPx = e.clientX; startPy = e.clientY;
-          origRect = { ...rect };
-        });
-
-        document.addEventListener("pointermove", e => {
-          if (!action) return;
-          const dx = e.clientX - startPx, dy = e.clientY - startPy;
-          // get original corners in pixel space
+          // Convert orig rect corners to screen pixels
           const tlp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(origRect.x, origRect.y), true);
           const brp = viewer.viewport.pixelFromPoint(
-            new OpenSeadragon.Point(origRect.x + origRect.width, origRect.y + origRect.height), true
+            new OpenSeadragon.Point(origRect.x + origRect.width, origRect.y + origRect.height),
+            true
           );
+
           let leftPx = tlp.x, topPx = tlp.y, rightPx = brp.x, bottomPx = brp.y;
 
           if (action === "move") {
@@ -764,136 +703,233 @@
             if (handlePos.includes("e")) rightPx += dx;
           }
 
-          // convert back to image coords
+          // Convert back to viewport coords
           const newTL = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(leftPx, topPx));
           const newBR = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(rightPx, bottomPx));
-          rect.x = newTL.x;
-          rect.y = newTL.y;
-          rect.width = newBR.x - newTL.x;
-          rect.height = newBR.y - newTL.y;
 
-          updateOverlay();
-        });
+          active.rect.x = newTL.x;
+          active.rect.y = newTL.y;
+          active.rect.width = newBR.x - newTL.x;
+          active.rect.height = newBR.y - newTL.y;
 
-        document.addEventListener("pointerup", () => {
-          if (!action) return;
-          action = null;
-          viewer.setMouseNavEnabled(true);
-        });
+          normalizeRectVH(active.rect);
+          active.updateOverlay();
+          return;
+        }
+
+        // 2) Rubber-band drawing?
+        if (!isDrawing) return;
+
+        const r = overlay.getBoundingClientRect();
+        const x = e.clientX - r.left;
+        const y = e.clientY - r.top;
+
+        ctx.clearRect(0, 0, overlay.width, overlay.height);
+        ctx.strokeStyle = "red";
+        ctx.lineWidth = 2;
+        ctx.strokeRect(startX, startY, x - startX, y - startY);
       });
+
+      document.addEventListener("pointerup", (e) => {
+        // End drag
+        if (action) {
+          action = null;
+          handlePos = null;
+          active = null;
+          origRect = null;
+          viewer.setMouseNavEnabled(true);
+          return;
+        }
+
+        // End rubber-band draw
+        if (!isDrawing) return;
+        isDrawing = false;
+        viewer.setMouseNavEnabled(true);
+        overlay.style.pointerEvents = "none";
+        ctx.clearRect(0, 0, overlay.width, overlay.height);
+
+        const r = overlay.getBoundingClientRect();
+        const endX = e.clientX - r.left;
+        const endY = e.clientY - r.top;
+
+        const tl = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(startX, startY));
+        const br = viewer.viewport.pointFromPixel(new OpenSeadragon.Point(endX, endY));
+
+        const rect = normalizeRectVH({ x: tl.x, y: tl.y, width: br.x - tl.x, height: br.y - tl.y });
+        if (rect.width < 1e-6 || rect.height < 1e-6) return;
+
+        createBox(rect);
+      });
+
+      function createBox(rect) {
+        const boxEl = document.createElement("div");
+        boxEl.className = "box";
+        container.appendChild(boxEl);
+
+        // Handles
+        for (const pos of ['nw', 'ne', 'sw', 'se']) {
+          const h = document.createElement("div");
+          h.className = `handle ${pos}`;
+          boxEl.appendChild(h);
+        }
+
+        // Copy icon
+        const icon = document.createElement('div');
+        icon.className = 'copy-icon';
+        icon.textContent = '📋';
+        boxEl.appendChild(icon);
+
+        icon.addEventListener("pointerdown", (e) => {
+          e.stopPropagation();
+          e.preventDefault();
+        });
+
+        // Updates the DOM element position/size from viewport rect
+        function updateOverlay() {
+          const tlp = viewer.viewport.pixelFromPoint(new OpenSeadragon.Point(rect.x, rect.y), true);
+          const brp = viewer.viewport.pixelFromPoint(
+            new OpenSeadragon.Point(rect.x + rect.width, rect.y + rect.height),
+            true
+          );
+          const w = brp.x - tlp.x;
+          const h = brp.y - tlp.y;
+
+          boxEl.style.left = `${tlp.x}px`;
+          boxEl.style.top = `${tlp.y}px`;
+          boxEl.style.width = `${w}px`;
+          boxEl.style.height = `${h}px`;
+
+          icon.style.left = `${w + 2}px`;
+          icon.style.top = `${h + 2}px`;
+        }
+
+        const boxObj = { rect, el: boxEl, icon, updateOverlay };
+        boxes.push(boxObj);
+        updateOverlay();
+
+        // Start move/resize on pointerdown
+        boxEl.addEventListener("pointerdown", (e) => {
+          e.stopPropagation();
+          e.preventDefault();
+
+          active = boxObj;
+          action = e.target.classList.contains("handle") ? "resize" : "move";
+          handlePos = action === "resize"
+            ? ['nw', 'ne', 'sw', 'se'].find(p => e.target.classList.contains(p))
+            : null;
+
+          viewer.setMouseNavEnabled(false);
+          startPx = e.clientX;
+          startPy = e.clientY;
+          origRect = { ...active.rect };
+
+          boxEl.setPointerCapture?.(e.pointerId);
+        });
+
+        // Copy pct of IMAGE (not viewport)
+        icon.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          e.preventDefault();
+          try {
+            const item = viewer.world.getItemAt(0);
+            if (!item) throw new Error("No image loaded");
+            const size = item.getContentSize();
+            if (!size?.x || !size?.y) throw new Error("Image size unavailable");
+
+            // Convert viewport rect to image-pixel rect
+            const imgRect = viewer.viewport.viewportToImageRectangle(
+              rect.x, rect.y, rect.width, rect.height
+            );
+
+            // Convert to percent of the underlying image
+            let xp = (imgRect.x / size.x) * 100;
+            let yp = (imgRect.y / size.y) * 100;
+            let wp = (imgRect.width / size.x) * 100;
+            let hp = (imgRect.height / size.y) * 100;
+
+            // Normalize if needed
+            if (wp < 0) { xp += wp; wp = Math.abs(wp); }
+            if (hp < 0) { yp += hp; hp = Math.abs(hp); }
+
+            // Clamp so origin is within [0,100] and size doesn't exceed bounds
+            xp = clamp(xp, 0, 100);
+            yp = clamp(yp, 0, 100);
+            wp = clamp(wp, 0, 100 - xp);
+            hp = clamp(hp, 0, 100 - yp);
+
+            const regionPct = `pct:${xp.toFixed(2)},${yp.toFixed(2)},${wp.toFixed(2)},${hp.toFixed(2)}`;
+            await navigator.clipboard.writeText(regionPct);
+          } catch (err) {
+            console.error('Copy failed:', err);
+            alert('Copy failed. Your browser may block clipboard without focus/user gesture.');
+          }
+        });
+      }
 
       // Clear on Escape
-      document.addEventListener("keydown", e => {
-        if (e.key === "Escape") {
-          boxes.forEach(b => container.removeChild(b.el));
-          boxes.length = 0;
-        }
+      document.addEventListener("keydown", (e) => {
+        if (e.key !== "Escape") return;
+        boxes.forEach(b => container.removeChild(b.el));
+        boxes.length = 0;
       });
     }
 
-    const viewer = OpenSeadragon({
-      id: "osd",
-      prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/images/",
-
-      // Controls only in max mode
-      showNavigationControl: max,
-      showZoomControl: max,
-      showHomeControl: max,
-      showFullPageControl: max,
-      showRotationControl: max,
-      showNavigator: false,
-      keyboard: max,
-
-      // The big switch:
-      mouseNavEnabled: max,
-
-      // Gestures: make it behave like a static image when not max
-      gestureSettingsMouse: {
-        scrollToZoom: max,        // wheel zoom only in max
-        dragToPan: max,           // pan only in max
-        clickToZoom: max,
-        dblClickToZoom: max,
-        pinchToZoom: max
-      },
-      gestureSettingsTouch: {
-        scrollToZoom: max,
-        dragToPan: max,
-        clickToZoom: max,
-        dblClickToZoom: max,
-        pinchToZoom: max
-      }
-    });
-
-    // In static mode, explicitly allow the browser to scroll normally on touch/trackpads.
-    // (Doesn't hurt desktop mouse wheels either.)
-    viewer.container.style.touchAction = max ? "none" : "pan-y";
-
+    // =========================================================================
+    // Open handler (single place)
+    // =========================================================================
     viewer.addHandler("open", () => {
       const item = viewer.world.getItemAt(0);
       if (!item) return;
 
-      const size = item.getContentSize(); // image pixel dimensions
-      const width = size.x;
-      const height = size.y;
+      imageSize = item.getContentSize();
 
-      imageAspect = width / height;
-      boundingBoxHandler()
-    });
-
-    viewer.open({ type: "image", url: src });
-
-    viewer.addHandler("open-failed", () => {
-      showMsg("Failed to load image. The image host may not allow cross-origin access (CORS).");
-    });
-
-    if (!max) {
-      attachStaticClickHandler(viewer, () => {
-        window.parent.postMessage({ type: 'showDialog', props: { aspect: 1.0, src: `${location.href}&max` } }, '*');
-      });
-
-      // Optional:
-      enableModifierWheelZoom(viewer);
-    }
-
-    viewer.addHandler("open", () => {
-      const item = viewer.world.getItemAt(0);
-      if (!item) return;
-
-      // Region (IIIF-like)
-      const size = item.getContentSize(); // raw image pixel dims
-      const clip = parseRegion(regionStr, size.x, size.y);
+      // Apply clip (IIIF-like)
+      const clip = parseRegion(cfg.region, imageSize.x, imageSize.y);
       if (clip) item.setClip(clip);
 
-      // Rotate (IIIF-like) + optional flip via "!"
-      const rot = parseRotate(rotateStr);
+      // Apply rotate + optional flip
+      const rot = parseRotate(cfg.rotate);
       if (rot.flip && typeof item.setFlip === "function") item.setFlip(true);
       viewer.viewport.setRotation(rot.degrees);
 
       // Initial view
       viewer.viewport.goHome(true);
 
-      // Cover mode (crop-based)
-      if (cover) {
+      // Cover mode
+      if (cfg.cover) {
         const bounds = item.getBounds(true); // accounts for clip
         fitCover(viewer, bounds);
       }
 
-      // Tooltip (iframe aspect incl caption)
+      // Enable drawn/editable boxes
+      enableBoundingBoxes();
+
+      // Tooltip (caption affects wrap height)
       updateIframeAspectTip();
     });
 
-    // Keep tooltip accurate on resize / layout changes
-    window.addEventListener("resize", updateIframeAspectTip);
+    // Open image
+    viewer.open({ type: "image", url: cfg.src });
 
-    if ("ResizeObserver" in window) {
-      const ro = new ResizeObserver(updateIframeAspectTip);
-      ro.observe(document.getElementById("wrap"));
-    } else {
-      // Fallback: periodic refresh (rarely needed)
-      setInterval(updateIframeAspectTip, 750);
+    // Static mode: click opens parent dialog + modifier wheel zoom
+    if (!cfg.max) {
+      attachStaticClickHandler(viewer, () => {
+        window.parent.postMessage(
+          { type: 'showDialog', props: { aspect: 1.0, src: `${location.href}&max` } },
+          '*'
+        );
+      });
+      enableModifierWheelZoom(viewer);
     }
 
-    // Initial tooltip text (even before image opens)
+    // Tooltip updates
+    window.addEventListener("resize", updateIframeAspectTip);
+    if ("ResizeObserver" in window) {
+      const ro = new ResizeObserver(updateIframeAspectTip);
+      ro.observe(els.wrap);
+    } else {
+      setInterval(updateIframeAspectTip, 750);
+    }
     updateIframeAspectTip();
   </script>
 </body>
