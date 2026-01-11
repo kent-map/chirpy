@@ -144,6 +144,230 @@
       throw new Error("Missing src");
     }
 
+    window.addEventListener('message', (event) => {
+      if (!event.data) return;
+      let eventData = JSON.parse(event.data)
+      let action = eventData.action?.toLowerCase()
+      let text = eventData.text
+      let args = eventData.args
+      console.log(action, args);
+      if (action === 'zoomto') {
+        zoomto(args[0], text)
+      }
+    });
+
+    /**
+    * Expand a bounding box to twice its width and height,
+    * centering the original box inside the new one.
+    *
+    * @param {{x:number, y:number, w:number, h:number}} box
+    *   The original bounding box.
+    * @param {'round'|'floor'|'ceil'} [rounding='round']
+    *   How to round the computed coordinates.
+    * @returns {{x:number, y:number, w:number, h:number}}
+    *   The expanded, centered bounding box.
+    */
+    function expandBox(box, rounding = 'round') {
+      let scale = 1.8;
+      // New dimensions
+      const newW = box.w * scale;
+      const newH = box.h * scale;
+
+      // Center of the original box
+      const cx = box.x + box.w / scale;
+      const cy = box.y + box.h / scale;
+
+      // Compute top-left of the expanded box so it's centered on (cx,cy)
+      let x = cx - newW / scale;
+      let y = cy - newH / scale;
+
+      // Apply rounding
+      if (rounding === 'floor') {
+        x = Math.floor(x);
+        y = Math.floor(y);
+      } else if (rounding === 'ceil') {
+        x = Math.ceil(x);
+        y = Math.ceil(y);
+      } else {
+        x = Math.round(x);
+        y = Math.round(y);
+      }
+
+      return { x, y, w: newW, h: newH };
+    }
+
+    /**
+    * Place a padded, semi‐transparent text caption under a box,
+    * with fully opaque text.
+    *
+    * @param {OpenSeadragon.Viewer} viewer
+    * @param {{x:number,y:number,w:number,h:number}} box   Image‐pixel bbox
+    * @param {string} text                                  Caption text
+    * @param {object} [opts]
+    * @param {number} [opts.fontSize=16]        Font size in px
+    * @param {string} [opts.bgColor='#000']     Background hex color (e.g. '#000', '#ff0000')
+    * @param {number} [opts.bgOpacity=0.5]      Background alpha (0–1)
+    * @param {string} [opts.textColor='#fff']   Text color
+    * @param {number} [opts.paddingEm=0.5]      Padding around text (in em)
+    * @returns {HTMLElement}                     The caption element
+    */
+    function addTextBelowBox(viewer, box, text, opts = {}) {
+      // Default options
+      const {
+        fontSize = 16,
+        bgColor = '#000',
+        bgOpacity = 0.5,
+        textColor = '#fff',
+        paddingEm = 0.5,
+      } = opts;
+
+      // Helper: turn '#rgb' or '#rrggbb' into 'rgba(r,g,b,alpha)'
+      function hexToRgba(hex, alpha) {
+        let h = hex.replace('#', '');
+        if (h.length === 3) {
+          h = h.split('').map(c => c + c).join('');
+        }
+        const int = parseInt(h, 16);
+        const r = (int >> 16) & 255;
+        const g = (int >> 8) & 255;
+        const b = int & 255;
+        return `rgba(${r},${g},${b},${alpha})`;
+      }
+
+      // 1) Create and style the DIV
+      const div = document.createElement('div');
+      div.textContent = text;
+      Object.assign(div.style, {
+        width: `${box.w}px`,
+        textAlign: 'center',
+        position: 'absolute',
+        display: 'inline-block',
+        fontSize: fontSize + 'px',
+        backgroundColor: hexToRgba(bgColor, bgOpacity),
+        color: textColor,
+        padding: `${paddingEm}em`,
+        boxSizing: 'border-box',
+        whiteSpace: 'pre-wrap',
+        pointerEvents: 'none',
+        opacity: '1'            // ensure text remains fully opaque
+      });
+
+      // 2) Compute the bottom-center of the box in image coords
+      const imgX = box.x + box.w / 2;
+      const imgY = box.y + box.h;
+
+      // 3) Convert to viewport coords
+      const vp = viewer.viewport.imageToViewportCoordinates(box.x, imgY);
+
+      // 4) Add as a TOP-centered overlay (auto-width)
+      viewer.addOverlay({
+        element: div,
+        location: new OpenSeadragon.Point(vp.x, vp.y),
+        placement: OpenSeadragon.Placement.TOP
+      });
+
+      return div;
+    }
+
+    /**
+* Draws a border around an image‐pixel box in an OpenSeadragon viewer.
+*
+* @param {OpenSeadragon.Viewer} viewer
+* @param {{x:number,y:number,w:number,h:number}} box
+*        Box in image‐pixel coords (top-left + width/height).
+* @param {object} [opts]
+* @param {string} [opts.color='red']     Border color (any CSS color).
+* @param {number} [opts.lineWidth=2]     Border thickness in px.
+* @returns {HTMLElement}                 The overlay element (for later removal).
+*/
+    function drawBoxBorder(viewer, box, opts = {}) {
+      const {
+        color = 'red',
+        lineWidth = 2,
+      } = opts;
+
+      // 1) make a DIV sized to 100% × 100% of its overlay rectangle,
+      //    with only a border and transparent fill
+      const div = document.createElement('div');
+      Object.assign(div.style, {
+        position: 'absolute',
+        width: '100%',
+        height: '100%',
+        boxSizing: 'border-box',
+        border: `${lineWidth}px solid ${color}`,
+        background: 'transparent',
+        pointerEvents: 'none',
+      });
+
+      // 2) map the box corners to viewport coords
+      const vpTL = viewer.viewport.imageToViewportCoordinates(box.x, box.y);
+      const vpTR = viewer.viewport.imageToViewportCoordinates(box.x + box.w, box.y);
+      const vpBL = viewer.viewport.imageToViewportCoordinates(box.x, box.y + box.h);
+
+      const widthVP = vpTR.x - vpTL.x;
+      const heightVP = vpBL.y - vpTL.y;
+
+      // 3) build the overlay rectangle
+      const rect = new OpenSeadragon.Rect(
+        vpTL.x,
+        vpTL.y,
+        widthVP,
+        heightVP
+      );
+
+      // 4) add it to the viewer
+      viewer.addOverlay({
+        element: div,
+        location: rect
+      });
+
+      return div;
+    }
+
+    const parseRegionString = (region, center) => {
+      const s1 = region.split(':')
+      let [x, y, w, h] = s1[s1.length - 1].split(',').map(v => parseInt(v))
+      const size = viewer.world.getItemAt(0)?.getContentSize()
+      if (!size) return
+      if (s1.length === 2 && (s1[0] === 'pct' || s1[0] === 'percent')) {
+        x = Math.round(size.x * x / 100),
+          y = Math.round(size.y * y / 100),
+          w = Math.round(size.x * w / 100),
+          h = Math.round(size.y * h / 100)
+      }
+      return center
+        ? ({ x, y, w, h } = expandBox({ x, y, w, h }))
+        : ({ x, y, w, h })
+    }
+
+    let zoomedToRegion = ''
+    const zoomto = (regionStr, caption) => {
+      viewer.clearOverlays();
+      if (zoomedToRegion === regionStr) {
+        viewer.viewport.goHome()
+        zoomedToRegion = ''
+      } else {
+        zoomedToRegion = regionStr
+        let region = parseRegionString(regionStr, false)
+        let expandedRegion = parseRegionString(regionStr, true)
+        setTimeout(() => {
+          let rect = viewer.viewport.imageToViewportRectangle(...Object.values(expandedRegion))
+          viewer.viewport.fitBounds(rect, false)
+          const borderEl = drawBoxBorder(viewer, region, {
+            color: '#FFFF00',
+            lineWidth: 2
+          });
+          if (caption) addTextBelowBox(viewer, region, caption, {
+            fontSize: '1em',
+            bgColor: "#fff",
+            bgOpacity: 0.8,
+            textColor: "#000",
+            paddingEm: 0.3
+          });
+        }, 100)
+      }
+    }
+
     // --- Helpers: IIIF-like rotate/region ---
     function parseRotate(v) {
       if (!v) return { flip: false, degrees: 0 };

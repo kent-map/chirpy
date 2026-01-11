@@ -11,6 +11,7 @@ import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab
 import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-panel/tab-panel.js';
 
 let isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
+let isStatic = false;
 
 function wrapAdjacentEmbedsAsTabs({
     root = document.body,
@@ -187,24 +188,38 @@ if (!isMobile) {
     repositionFloats();
 }
 
+function objectFromLink(linkEl, attrs) {
+    const obj = {};
+    attrs.forEach(name => {
+        if (linkEl.hasAttribute(name)) {
+            obj[name] = linkEl.getAttribute(name);
+        }
+    });
+    return obj;
+}
+
 // setup action links to iframes (e.g., zoomto, flyto, play)
-const addActionLinks = (rootEl) => {
-    rootEl.querySelectorAll('iframe').forEach(iframe => {
-        if (!iframe.id) return
-        rootEl.querySelectorAll('a').forEach(a => {
+const addActionLinks = () => {
+    document.querySelectorAll('iframe').forEach(iframe => {
+        console.log(iframe)
+        document.querySelectorAll('a').forEach(a => {
+            let linkAttrs = objectFromLink(a, ['action', 'label', 'target', 'args']);
+            if (linkAttrs.target && linkAttrs.target !== iframe.id) return
+
             let href = a.href || a.getAttribute('data-href')
-            let target, action, args, text
-            let actionAttribute = Array.from(a.attributes).filter(attr => !['href', 'class', 'id', 'label', 'target'].includes(attr.name)).pop()
-            if (actionAttribute) {
-                action = actionAttribute.name;
-                [target, ...args] = actionAttribute.value.split('/').filter(p => p)
-                if (iframe.id !== target) return
-            } else {
-                let path = href?.split('/').slice(3).filter(p => p !== '#' && p !== '')
-                const targetIdx = path?.findIndex(p => p == iframe.id);
-                if (targetIdx < 0) return
-                [target, action, ...args] = path.slice(targetIdx).slice('/')
-            }
+            let path = href?.split('/').slice(3).filter(p => p !== '#' && p !== '')
+            const targetIdx = path?.findIndex(p => p == iframe.id);
+            path = path.slice(targetIdx)
+            if (targetIdx < 0) return
+
+            let target = linkAttrs.target || path[0]
+            let action = linkAttrs.action || path[1]
+            let text = linkAttrs.label || a.innerText
+            let args = linkAttrs.args || path.slice(2)
+
+            if (!target || !action || !text || !args.length) return
+
+
             if (isStatic) {
                 a.removeAttribute('href')
                 a.style.color = 'inherit'
@@ -225,7 +240,7 @@ const addActionLinks = (rootEl) => {
     })
 }
 
-// addActionLinks();
+addActionLinks();
 
 
 ////////// Start Wikidata Entity functions //////////

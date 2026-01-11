@@ -500,6 +500,25 @@
 
     const isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
 
+    window.addEventListener('message', (event) => {
+      let eventData = JSON.parse(event.data)
+      console.log(eventData)
+      let action = eventData.action?.toLowerCase()
+      let args = eventData.args
+      if (action === 'flyto') {
+        let locZoom = args[0]
+        if ((locZoom === zoomed) && priorLoc) {
+          flyTo(priorLoc)
+          priorLoc = null
+          zoomed = null
+        } else {
+          flyTo(locZoom)
+          priorLoc = latLngZoom
+          zoomed = locZoom
+        }
+      }
+    })
+
     const getLatLngZoom = (e) => {
       let point = e.type === 'click' ? e.latlng : e.target.getCenter()
       let zoom = e.target.getZoom()
@@ -536,7 +555,7 @@
         center: '51.505,-0.09',
         gestureHandling: true,
         ghbase: null,
-        markers: '',
+        markers: [],              // ← always an array
         popupOnHover: false,
         'prefer-geojson': false,
         zoom: 8
