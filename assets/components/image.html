@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>OpenSeadragon Image Viewer</title>
+  <title>Image Viewer</title>
 
-  <!-- OpenSeadragon from CDN -->
+  <!-- OpenSeadragon -->
   <script src="https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/openseadragon.min.js"></script>
 
   <style>
@@ -14,6 +14,16 @@
     body {
       height: 100%;
       margin: 0;
+      /* background: #111; */
+    }
+
+    /* Wrap includes BOTH viewer + caption area */
+    #wrap {
+      height: 100%;
+      display: grid;
+      grid-template-rows: 1fr auto;
+      position: relative;
+      /* for bottom-right hotspot */
     }
 
     #osd {
@@ -22,73 +32,281 @@
       background: #111;
     }
 
+    /* Chirpy-like caption (muted, centered, no banner) */
+    #caption {
+      display: none;
+      text-align: center;
+      font-size: 0.8em;
+      line-height: 1.4;
+      margin-top: 0.25rem;
+      padding: 0;
+      color: #6d6c6c;
+      background: transparent;
+      word-break: break-word;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #caption {
+        color: rgba(255, 255, 255, 0.55);
+      }
+    }
+
+    /* Error banner */
     #msg {
       position: fixed;
+      top: 0;
       left: 0;
       right: 0;
-      top: 0;
       padding: 10px 12px;
       font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
       color: #fff;
-      background: rgba(0, 0, 0, .7);
+      background: rgba(180, 40, 40, 0.9);
       display: none;
+      z-index: 1000;
     }
 
-    #msg a {
-      color: #9bd;
+    code {
+      background: rgba(255, 255, 255, .1);
+      padding: 0 4px;
+      border-radius: 4px;
+    }
+
+    /* Bottom-right hover hotspot + tooltip */
+    #ar-hotspot {
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+      width: 20px;
+      height: 20px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, .10);
+      border: 1px solid rgba(255, 255, 255, .18);
+      z-index: 50;
+      pointer-events: auto;
+    }
+
+    #ar-tip {
+      position: absolute;
+      right: 0;
+      bottom: 26px;
+      padding: 6px 8px;
+      border-radius: 8px;
+      background: rgba(0, 0, 0, .80);
+      color: rgba(255, 255, 255, .90);
+      font: 12px/1.3 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      white-space: nowrap;
+      transform: translateY(4px);
+      opacity: 0;
+      transition: opacity 120ms ease, transform 120ms ease;
+      pointer-events: none;
+    }
+
+    #ar-hotspot:hover #ar-tip {
+      opacity: 1;
+      transform: translateY(0);
     }
   </style>
 </head>
 
 <body>
   <div id="msg"></div>
-  <div id="osd"></div>
+
+  <div id="wrap">
+    <div id="osd"></div>
+
+    <!-- bottom-right hover hotspot + tooltip (aspect ratio of entire iframe, incl caption) -->
+    <div id="ar-hotspot" aria-label="Iframe aspect ratio">
+      <div id="ar-tip"></div>
+    </div>
+
+    <div id="caption"></div>
+  </div>
 
   <script>
+    const params = new URLSearchParams(location.search);
+
+    const src = params.get("src");
+    const captionStr = params.get("caption");
+    const cover = params.get("cover") === "1"; // viewer expects cover=1
+    const regionStr = params.get("region");        // "full" | "x,y,w,h" | "pct:x,y,w,h"
+    const rotateStr = params.get("rotate");        // "0" | "90" | "!90" etc
+
     const msgEl = document.getElementById("msg");
+    const capEl = document.getElementById("caption");
 
     function showMsg(html) {
       msgEl.innerHTML = html;
       msgEl.style.display = "block";
     }
 
-    const params = new URLSearchParams(location.search);
-    const src = params.get("src");
-
     if (!src) {
-      showMsg(`Missing <code>?src=</code>. Example:
-        <a href="?src=https%3A%2F%2Fiiif.harvardartmuseums.org%2Fmanifests%2Fobject%2F299843">
-          try an example
-        </a>`);
+      showMsg(`Missing <code>?src=</code> parameter.`);
       throw new Error("Missing src");
     }
 
-    // Heuristic:
-    // - If src ends with "info.json", treat as IIIF image source.
-    // - Otherwise treat as a plain image URL.
-    const isIIIFInfoJson = /info\.json(\?.*)?$/i.test(src);
+    // --- Helpers: IIIF-like rotate/region ---
+    function parseRotate(v) {
+      if (!v) return { flip: false, degrees: 0 };
+      const s = String(v).trim();
+      const flip = s.startsWith("!");
+      const deg = parseFloat(flip ? s.slice(1) : s);
+      return {
+        flip,
+        degrees: Number.isFinite(deg) ? ((deg % 360) + 360) % 360 : 0
+      };
+    }
 
+    function parseRegion(v, w, h) {
+      if (!v) return null;
+      const raw = String(v).trim();
+      if (!raw || raw.toLowerCase() === "full") return null;
+
+      let s = raw;
+      let pct = false;
+
+      if (s.toLowerCase().startsWith("pct:")) {
+        pct = true;
+        s = s.slice(4);
+      }
+
+      const parts = s.split(",").map(p => parseFloat(p.trim()));
+      if (parts.length !== 4 || parts.some(n => !Number.isFinite(n))) return null;
+
+      let [x, y, rw, rh] = parts;
+
+      if (pct) {
+        x = (x / 100) * w;
+        y = (y / 100) * h;
+        rw = (rw / 100) * w;
+        rh = (rh / 100) * h;
+      }
+
+      // Clamp to image bounds
+      x = Math.max(0, Math.min(x, w));
+      y = Math.max(0, Math.min(y, h));
+      rw = Math.max(0, Math.min(rw, w - x));
+      rh = Math.max(0, Math.min(rh, h - y));
+
+      if (rw <= 0 || rh <= 0) return null;
+
+      return new OpenSeadragon.Rect(x, y, rw, rh);
+    }
+
+    // --- Cover: crop-based (no letterbox) ---
+    function fitCover(viewer, itemBounds) {
+      const vp = viewer.viewport;
+      const containerSize = vp.getContainerSize(); // pixels
+      const vpAspect = containerSize.x / containerSize.y;
+
+      const b = itemBounds.clone(); // viewport coords
+      const bAspect = b.width / b.height;
+
+      if (bAspect > vpAspect) {
+        // wider than viewport: crop width (zoom in)
+        const newW = b.height * vpAspect;
+        const dx = (b.width - newW) / 2;
+        b.x += dx;
+        b.width = newW;
+      } else {
+        // taller than viewport: crop height (zoom in)
+        const newH = b.width / vpAspect;
+        const dy = (b.height - newH) / 2;
+        b.y += dy;
+        b.height = newH;
+      }
+
+      vp.fitBounds(b, true);
+    }
+
+    // --- Tooltip: aspect ratio of ENTIRE iframe content (#wrap), incl caption row ---
+    function gcd(a, b) {
+      a = Math.abs(Math.round(a));
+      b = Math.abs(Math.round(b));
+      while (b) { const t = b; b = a % b; a = t; }
+      return a || 1;
+    }
+
+    function iframeAspectText(w, h) {
+      const g = gcd(w, h);
+      const rw = Math.round(w / g);
+      const rh = Math.round(h / g);
+      const dec = w / h;
+      return `Iframe aspect: ${rw}:${rh} (${dec.toFixed(3)})`;
+    }
+
+    function updateIframeAspectTip() {
+      const wrap = document.getElementById("wrap");
+      const tip = document.getElementById("ar-tip");
+      if (!wrap || !tip) return;
+
+      const r = wrap.getBoundingClientRect();
+      const w = Math.max(1, Math.round(r.width));
+      const h = Math.max(1, Math.round(r.height));
+      tip.textContent = iframeAspectText(w, h);
+    }
+
+    // Caption (Chirpy-like)
+    if (captionStr) {
+      capEl.textContent = captionStr;
+      capEl.style.display = "block";
+      updateIframeAspectTip(); // caption affects wrap height
+    }
+
+    // Set up viewer
     const viewer = OpenSeadragon({
       id: "osd",
       prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/images/",
       showNavigator: true,
       showRotationControl: true,
-      gestureSettingsMouse: { scrollToZoom: true },
-      // If you run into cross-origin issues, the underlying server needs CORS headers.
+      gestureSettingsMouse: { scrollToZoom: true }
     });
 
-    const tileSource = isIIIFInfoJson
-      ? src
-      : { type: "image", url: src };
+    viewer.open({ type: "image", url: src });
 
-    viewer.open(tileSource);
-
-    // Basic error reporting
-    viewer.addHandler("open-failed", (e) => {
-      showMsg(`Failed to open <code>src</code>.<br>
-        If this is a normal image URL, it may be blocked by CORS.<br>
-        <small>${(e && e.message) ? e.message : ""}</small>`);
+    viewer.addHandler("open-failed", () => {
+      showMsg("Failed to load image. The image host may not allow cross-origin access (CORS).");
     });
+
+    viewer.addHandler("open", () => {
+      const item = viewer.world.getItemAt(0);
+      if (!item) return;
+
+      // Region (IIIF-like)
+      const size = item.getContentSize(); // raw image pixel dims
+      const clip = parseRegion(regionStr, size.x, size.y);
+      if (clip) item.setClip(clip);
+
+      // Rotate (IIIF-like) + optional flip via "!"
+      const rot = parseRotate(rotateStr);
+      if (rot.flip && typeof item.setFlip === "function") item.setFlip(true);
+      viewer.viewport.setRotation(rot.degrees);
+
+      // Initial view
+      viewer.viewport.goHome(true);
+
+      // Cover mode (crop-based)
+      if (cover) {
+        const bounds = item.getBounds(true); // accounts for clip
+        fitCover(viewer, bounds);
+      }
+
+      // Tooltip (iframe aspect incl caption)
+      updateIframeAspectTip();
+    });
+
+    // Keep tooltip accurate on resize / layout changes
+    window.addEventListener("resize", updateIframeAspectTip);
+
+    if ("ResizeObserver" in window) {
+      const ro = new ResizeObserver(updateIframeAspectTip);
+      ro.observe(document.getElementById("wrap"));
+    } else {
+      // Fallback: periodic refresh (rarely needed)
+      setInterval(updateIframeAspectTip, 750);
+    }
+
+    // Initial tooltip text (even before image opens)
+    updateIframeAspectTip();
   </script>
 </body>
 
