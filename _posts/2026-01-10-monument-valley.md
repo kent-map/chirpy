@@ -25,6 +25,8 @@ Major rock formations include [West](image/zoomto/pct:10.94,27.88,21.05,30){: la
 
 # Geography and geology
 
+[Monument Valley](map/flyto/37.02828,-110.23819,11) is part of the Colorado Plateau. The elevation of the valley floor ranges from 5,000 to 6,000 feet above sea level. The floor is largely siltstone of the Cutler Group, or sand derived from it, deposited by the meandering rivers that carved the valley. The valley's vivid red coloration comes from iron oxide exposed in the weathered siltstone. The darker, blue-gray rocks in the valley get their color from manganese oxide.  For tourists doing a national park tour, Monument Valley is situated between [Arches National Park](map/flyto/Q223969,12) and the [Grand Canyon](map/flyto/Q118841,12).
+
 {% include embed/map.html 
     center="Q192017"
     zoom="5" 
@@ -34,8 +36,6 @@ Major rock formations include [West](image/zoomto/pct:10.94,27.88,21.05,30){: la
             Q777183|National_Parks::
             Q223969|National_Parks"
 %}{: .right}
-
-[Monument Valley](map/flyto/37.02828,-110.23819,11) is part of the Colorado Plateau. The elevation of the valley floor ranges from 5,000 to 6,000 feet above sea level. The floor is largely siltstone of the Cutler Group, or sand derived from it, deposited by the meandering rivers that carved the valley. The valley's vivid red coloration comes from iron oxide exposed in the weathered siltstone. The darker, blue-gray rocks in the valley get their color from manganese oxide.  For tourists doing a national park tour, Monument Valley is situated between [Arches National Park](map/flyto/Q223969,12) and the [Grand Canyon](map/flyto/Q118841,12).
 
 The buttes arising from the valley floor are clearly stratified, with three principal layers. The lowest layer is the Organ Rock Shale, the middle is de Chelly Sandstone, and the top layer is the Moenkopi Formation capped by Shinarump Conglomerate. 
 
