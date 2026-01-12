@@ -11,15 +11,13 @@ layout: post-2col
 permalink: /20c/eastchurch-aviation-2col/
 published: true
 toc: false    
-featured: true
+pin: true
 ---
-
 
 The Isle of Sheppey off the north Kent coast, best known for its dockyard, three prisons and various holiday sites, holds a distinguished place in history for a very different reason.   On this small island in the early 20th century, aviation in Britain was born.   
 
-![Isle of Sheppey from Space NASA](https://upload.wikimedia.org/wikipedia/commons/f/fc/Isle_of_Sheppey_from_Space_NASA.jpg)
+![Isle of Sheppey from Space NASA](https://upload.wikimedia.org/wikipedia/commons/f/fc/Isle_of_Sheppey_from_Space_NASA.jpg){: .right}
 _Isle of Sheppey from Space NASA_
-{: .right}
 
 {% include embed/map.html center="Q1500299" zoom="12" markers="Q1500299" %}{: .right}
 
