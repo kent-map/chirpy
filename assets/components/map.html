@@ -501,6 +501,7 @@
     const isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
 
     window.addEventListener('message', (event) => {
+      console.log(event)
       let eventData = JSON.parse(event.data)
       console.log(eventData)
       let action = eventData.action?.toLowerCase()
@@ -536,32 +537,26 @@
 
     const params = new URLSearchParams(location.search);
 
-    // --- marker: always string[]
-    const marker = params.getAll('marker').filter(v => v !== '');
-
     // --- everything else
     const queryObj = {};
     for (const key of new Set(params.keys())) {
-      if (key === 'marker') continue;
-
       const values = params.getAll(key).map(coerce);
       queryObj[key] = values.length > 1 ? values : values[0];
     }
 
     const props = {
       ...{              // defaults
+        allmaps: '',
         basemap: 'OpenStreetMap',
         caption: null,
         center: '51.505,-0.09',
         gestureHandling: true,
-        ghbase: null,
-        markers: [],              // ← always an array
+        markers: null,
         popupOnHover: false,
         'prefer-geojson': false,
         zoom: 8
       },
-      ...queryObj,
-      marker               // ← normalized override
+      ...queryObj
     };
 
     console.log(props);
@@ -637,12 +632,12 @@
         return `https://raw.githubusercontent.com/${props.ghbase}/${url}`
     }
 
-    let layerDefs = props.markers.split('::').map(marker => {
-      let args = marker.split('|')
+    let layerDefs = props.markers ? props.markers.split('|').map(marker => {
+      let args = marker.split('~')
       if (isQid(args[0])) {
         return { type: 'marker', qid: args[0], layer: args[1] }
       } else {
-        let [coords, label, description, thumbnail, layer] = marker.split('|')
+        let [coords, label, description, thumbnail, layer] = marker.split('~')
         return {
           type: 'marker',
           coords,
@@ -652,12 +647,18 @@
           layer
         }
       }
-    })
+    }) : []
+
+    if (props.allmaps) {
+      let [allmaps, name] = props.allmaps.split('|');
+      layerDefs.push({ type: 'warped-map', allmaps: allmaps, name: name || 'Allmaps' })
+    }
+
     const collectQIDs = () => {
       let qids = new Set()
       if (isQid(props.center)) qids.add(props.center)
-      props.markers.split('::').forEach(marker => {
-        let args = marker.split('|')
+      props.markers?.split('|').forEach(marker => {
+        let args = marker.split('~')
         if (isQid(args[0])) qids.add(args[0])
       })
       return qids
@@ -1037,10 +1038,63 @@
       map.flyTo(center, zoom)
     }
 
+
+    const ALLMAPS_BASE = "https://annotations.allmaps.org";
+
+    function looksLikeAnnotationOrPage(json) {
+      if (!json || typeof json !== "object") return false;
+      const t = json.type || json["@type"];
+
+      if (t === "Annotation") return true;
+
+      if (t === "AnnotationPage" && Array.isArray(json.items)) {
+        return json.items.some(it => (it?.type || it?.["@type"]) === "Annotation");
+      }
+
+      return false;
+    }
+
+    async function tryFetchJson(url, timeoutMs = 8000) {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), timeoutMs);
+      try {
+        const res = await fetch(url, {
+          signal: controller.signal,
+          headers: { accept: "application/json" }
+        });
+        if (!res.ok) return null;
+        const json = await res.json().catch(() => null);
+        if (!looksLikeAnnotationOrPage(json)) return null;
+        return { url, json };
+      } finally {
+        clearTimeout(timer);
+      }
+    }
+
+    async function resolveAllmapsAnnotationUrl(id) {
+      // Try both. Prefer /maps if both succeed.
+      const urls = [
+        `${ALLMAPS_BASE}/maps/${id}`,
+        `${ALLMAPS_BASE}/manifests/${id}`
+      ];
+
+      const [mapRes, manifestRes] = await Promise.all([
+        tryFetchJson(urls[0]),
+        tryFetchJson(urls[1])
+      ]);
+
+      if (mapRes) return mapRes.url;
+      if (manifestRes) return manifestRes.url;
+
+      throw new Error(`No valid Allmaps annotation found for id: ${id}`);
+    }
+
     const warpedMapLayers = { value: [] }
-    const addWarpedMap = (layer) => {
-      let warpedMapLayer = new Allmaps.WarpedMapLayer(`https://annotations.allmaps.org/images/${layer.allmaps}`)
-      warpedMapLayers.value.push({ name: decodeURIComponent(layer.name), layer: warpedMapLayer, opacity: layer.opacity || 100 })
+
+    const addWarpedMap = async (layer) => {
+      let annotationURL = await resolveAllmapsAnnotationUrl(layer.allmaps)
+      let warpedMapLayer = new Allmaps.WarpedMapLayer(annotationURL)
+      warpedMapLayers.value.push({ name: decodeURIComponent(layer.name), layer: warpedMapLayer, opacity: layer.opacity || 100, name: layer.name })
       return warpedMapLayer
     }
 
@@ -1051,7 +1105,7 @@
 
       let mapAspectRatio = parseFloat(props.aspect || 1)
       windowAspectRatio = main.clientWidth / (main.clientWidth / mapAspectRatio + figcaption.clientHeight)
-      window.parent.postMessage({ type: 'setAspect', aspect: windowAspectRatio }, '*');
+      // window.parent.postMessage({ type: 'setAspect', aspect: windowAspectRatio }, '*');
       // document.querySelector('.size').innerHTML = `<span><b>Aspect ratio: </b></span> ${mapAspectRatio.toFixed(2)}`
 
       map = await initMap()
@@ -1061,10 +1115,9 @@
         let markersByLayer = {}
         let geoJsonLayers = {}
 
-        layerDefs.forEach(layerDef => {
-          console.log(layerDef)
+        for (const layerDef of layerDefs) {
           if (layerDef.type === 'warped-map') {
-            addWarpedMap(layerDef)
+            await addWarpedMap(layerDef)
           } else if (layerDef.type === 'marker') {
             let layerName = layerDef.layer || 'locations'
             if (layerDef.preferGeojson && layerDef.geojson) {
@@ -1095,7 +1148,7 @@
                 map.addLayer(geoJsonLayer)
               });
           }
-        })
+        }
         Object.keys(markersByLayer).forEach(layerName => {
           let layer = markersByLayer[layerName]
           let geoJsonLayer = toGeoJSONLayer(toGeoJSON(layer))

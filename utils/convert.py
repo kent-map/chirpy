@@ -33,6 +33,8 @@ import markdown
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
+allmaps_fragment = ''
+
 # ============================================================================
 # Configuration & Constants
 # ============================================================================
@@ -670,6 +672,7 @@ def convert_params(md: str) -> str:
     - ve-entity: Entity definitions and linking
     - ve-image: Image displays
     - ve-map: Map viewers
+    - ve-map-layer: Map layers
     """
     # First, convert entity tags
     md = convert_ve_entity_tags(md)
@@ -685,14 +688,24 @@ def convert_params(md: str) -> str:
             elif key in ['caption', 'label', 'title']:
                 caption = value
         
-        return f'\n![{caption}]({src})\n_{caption}_\n{{: .right}}'
+        # return f'\n![{caption}]({src})\n_{caption}_\n{{: .right}}'
+    
+        tag = f'\n{{% include embed/image.html src="{src}"'
+        if caption:
+            tag += f' caption="{caption}"'
+
+        tag += ' %}{: .right}\n'
+        
+        return tag
     
     def transform_map(attrs: Dict[str, str]) -> str:
         """Transform ve-map params to Jekyll map include."""
+        global allmaps_fragment
         center = attrs.get('center', '')
         zoom = attrs.get('zoom', '')
         caption = attrs.get('caption') or attrs.get('label') or attrs.get('title', '')
         basemap = attrs.get('basemap', '')
+        markers = attrs.get('marker', center)
         
         tag = '\n{% include embed/map.html '
         if center:
@@ -703,12 +716,24 @@ def convert_params(md: str) -> str:
             tag += f'caption="{caption}" '
         if basemap:
             tag += f'basemap="{basemap}" '
-        tag += 'marker="true" %}{: .right}\n'
+        if markers:
+            tag += f'markers="{markers}" '
+        tag += f'{allmaps_fragment} %}}{{: .right}}\n'
         
         return tag
+    
+    def get_allmaps_fragment(attrs: Dict[str, str]) -> str:
+        """Transform ve-map-layer params to Jekyll map include."""
+        global allmaps_fragment
+        allmaps_id = attrs.get('allmaps-id', '')
+        title = attrs.get('label') or attrs.get('title', '')
+        allmaps_fragment = f'allmaps="{allmaps_id}'
+        if title: allmaps_fragment += f'|{title}'
+        allmaps_fragment += '"'
 
     def transform(match) -> str:
         """Transform a single param tag based on its type."""
+        global allmaps_fragment
         attr_text = match.group(1)
 
         # Parse attributes using shlex (respects quotes)
@@ -726,11 +751,15 @@ def convert_params(md: str) -> str:
                 attrs[token] = None
 
         # Route to appropriate transformer
+        if 've-map-layer' in attrs:
+            get_allmaps_fragment(attrs)
+            return ''
         if 've-image' in attrs:
             return transform_image(attrs)
         if 've-map' in attrs:
+            print(allmaps_fragment)
             return transform_map(attrs)
-
+        
         # Return unchanged if no handler
         return match.group(0)
 

@@ -1,10 +1,10 @@
 ---
 title: "Aphra Behn (1640? – 1689)"
-description: "This essay outlines Aphra Behn’s early life and Kent connections, weighing conflicting accounts of her birthplace and later links through the diary of Jeffrey Boys of Betteshanger. It also surveys her later career as a pioneering professional woman writer, touching on Oroonoko and her influence on Restoration theatre and the public stage."
+description: "This essay outlines Aphra Behn’s early life and Kent connections, focusing on contested accounts of her birthplace around Harbledown, Canterbury, Sturry, and Wye, and later links such as Jeffrey Boys of Betteshanger. It situates her later career as a pioneering professional woman writer in the Restoration theatre while noting how uncertain biographical evidence shapes interpretation of works like Oroonoko."
 author: Alexa Barrett
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Representation & interpretation ]
+tags: [ Authors & lives, Literary places, Representation & interpretation, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
 layout: post
@@ -15,27 +15,22 @@ toc: false
 
 
 <!-- Historical map layers -->
-<param ve-map-layer mapwarper mapwarper-id="44832" title="John Speed Map, 1611">
+
 <!-- <param mapwarper mapwarper-id="44832" title="John Speed Map, 1611" ve-map-layer/> -->
-<param ve-map-layer active allmaps allmaps-id="de6ff48c237af0be" title="John Speed Map, 1611">
 
-Behn’s life began in 1640. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in Harbledown, near [Canterbury](Q29303)’. It is now known that she was indeed born in Harbledown. [^ref1] 
+Behn’s life began in 1640. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in [Harbledown](Q5654535), near [Canterbury](Q29303)’. It is now known that she was indeed born in Harbledown. [^ref1] 
 
-![Aphra Behn](https://upload.wikimedia.org/wikipedia/commons/3/30/Aphra_Behn_by_Peter_Lely_ca._1670.jpg)
-_Aphra Behn_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/3/30/Aphra_Behn_by_Peter_Lely_ca._1670.jpg" caption="Aphra Behn" %}{: .right}
 
-Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at Sturry or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at Wye a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of Betteshanger in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
+Her early life was in Kent, however there are deliberations as to where her exact birthplace was. Whilst ‘Colonel Thomas Colepeper declared in his manuscript “Adversaria” that she was born ‘at [Sturry](Q2173192) or Canterbury’,[^ref2] Anne Finch ‘states that she was reputed to be “Daughter to a Barber, who liv’d formerly at [Wye](Q590063) a little market town (now much decay’d) in Kent”’[^ref3] and therefore Wye is an alternative for her place of birth. A further link to Kent later in Behn’s life is Jeffrey Boys, who was ‘a young lawyer’ and son of the ‘possessor of the manor of [Betteshanger](Q4898591) in Kent’[^ref4]. He was ‘clearly acquainted’[^ref5] with Behn, suggesting her Kent connections continued beyond childhood, traced in Boys’ diary.
 
-{% include embed/map.html center="Q29303" zoom="16" marker="true" %}{: .right}
+{% include embed/map.html center="Q29303" zoom="16" markers="Q29303" allmaps="de6ff48c237af0be|John Speed Map, 1611" %}{: .right}
 
 Much of Behn’s early life is hard to piece together, until later when she is living in London and her writing gives insight to potential life experiences. One of these is a possible trip to Surinam, alluded to in the novel _Oroonoko_ (1688), which begins with a letter stating, ‘this is a true story’.[^ref6] It is hard to tell how far this is factual, but _Oroonoko_ had ‘influence on the development of the English novel’[^ref7] with its hard-hitting account of slavery, regardless of how closely it reflects on Behn’s own experience.
 
 Additionally, Behn’s ‘wit and talent having brought her into high esteem’, led her to being ‘employed by King Charles II in secret service in the Netherlands in 1666’.[^ref8] After this she became a writer to support herself and ‘emerged as the first British woman to make a living as a creative writer’.[^ref9] During her time, she had ‘at least nineteen plays staged’[^ref10] and was responsible for _The Rover_ and _Emperor of the Moon_. As she became more successful, it was evident that, ‘Behn flourished in the cosmopolitan world of the playhouse and the court’ and ‘Dryden and other wits encouraged her’[^ref11] as she began to have an impact on the theatre. This was at a point where ‘actresses for the first time appeared on the public stage’[^ref12] and this bled into Behn’s work, writing plays with ‘casts that included women’.[^ref13] Behn’s work was ground-breaking and clearly impacted theatre’s future.
 
-![Feignd Curtizans](https://upload.wikimedia.org/wikipedia/commons/6/67/Feignd_Curtizans_by_Aphra_Behn_title_page.jpg)
-_Feignd Curtizans_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feignd_Curtizans_by_Aphra_Behn_title_page.jpg" caption="Feignd Curtizans" %}{: .right}
 
 ### Bibliography
 
