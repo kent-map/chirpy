@@ -2,14 +2,25 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Map Component</title>
+
+  <!-- Shoelace theme (optional) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css" />
+
+  <!-- Leaflet + gesture handling -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
   <link rel="stylesheet" href="//unpkg.com/leaflet-gesture-handling/dist/leaflet-gesture-handling.min.css" />
+
+  <!-- Fonts -->
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&amp;family=Source+Sans+Pro:wght@400;600;700;900&amp;display=swap" />
+
+  <!-- Font Awesome (for a-solid fa-expand) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
   <style>
     *,
     *::before,
@@ -17,78 +28,47 @@
       box-sizing: border-box;
     }
 
-    @keyframes fadeInOpacity {
-      0% {
-        opacity: 0;
-      }
-
-      100% {
-        opacity: 1;
-      }
-    }
-
-    /* ------------------------------------------------------------------
-      Global reset so the iframe box behaves predictably
-    ------------------------------------------------------------------ */
     html,
     body {
       margin: 0;
       height: 100%;
-      /* let the flexbox fill the iframe */
-      box-sizing: border-box;
       font-family: system-ui, sans-serif;
     }
 
     main {
       height: 100%;
+      width: 100%;
       display: flex;
       flex-direction: column;
-      width: 100%;
       visibility: hidden;
+      /* shown after init completes */
     }
 
-    /* ------------------------------------------------------------------
-      Layout: figure stretches to full iframe height, image flexes,
-      caption is a fixed-height band (16 px text, 8 px padding each side)
-    ------------------------------------------------------------------ */
     figure {
       height: 100%;
       margin: 0;
-      display: flex;
-      flex-direction: column;
-    }
-
-    figure {
       display: grid;
       grid-template-rows: 1fr auto;
-      height: 100%;
-      margin: 0;
     }
 
     #content {
       position: relative;
-      flex: 1;
       width: 100%;
+      height: 100%;
       z-index: 2;
     }
 
-    figure #map {
+    #map {
       width: 100%;
       height: 100%;
-      /* keeps natural aspect */
-      flex: 1 0 0;
-      /* consume whatever height is left */
     }
 
-    /* ---- caption ------------------------------------------------------- */
+    /* Caption */
     figcaption {
       font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
       font-size: 16px;
       line-height: 28px;
       padding: 8px 0;
-      /* 8 px top + bottom (fixed) */
-      text-align: left;
-      /* left-align text */
       display: flex;
       align-items: center;
       background: #fff;
@@ -96,51 +76,66 @@
       font-style: italic;
       font-weight: 400;
       -webkit-font-smoothing: antialiased;
+
+      /* layout */
+      gap: 10px;
+      padding-left: 0;
+      padding-right: 0;
     }
 
-
-    /* ---- any inline SVG icons in the caption --------------------------- */
-    figcaption svg {
-      width: 1em;
-      /* 1 × font-size → scales with 16 px text */
-      height: 1em;
-      margin-inline: .3em;
-      flex: none;
-      /* don’t let flexbox shrink it */
-      fill: currentColor;
-      /* inherit text colour automatically */
+    .caption-left {
+      flex: 1 1 auto;
+      min-width: 0;
+      padding-left: 0;
     }
 
-    sl-tab::part(base) {
-      padding: 0.5em 1em;
+    .caption-right {
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      padding-right: 10px;
     }
 
-    pre {
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-
-    .wrap {
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-      -ms-word-break: break-all;
-      word-break: break-all;
-      word-break: break-word;
-    }
-
-    .clamp {
-      display: -webkit-box;
-      -webkit-line-clamp: 1;
-      -webkit-box-orient: vertical;
+    .caption-title {
+      padding-left: 0;
       overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
-    h4 {
-      margin: 0 0 0.5em 0;
+    .expand-btn {
+      appearance: none;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      padding: 6px 10px;
+      margin: 0;
+      border-radius: 8px;
+      cursor: pointer;
+      line-height: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-style: normal;
+      /* don't italicize the icon */
     }
 
+    .expand-btn:hover {
+      background: rgba(0, 0, 0, 0.06);
+    }
+
+    .expand-btn:active {
+      background: rgba(0, 0, 0, 0.10);
+    }
+
+    .expand-btn:focus-visible {
+      outline: 2px solid rgba(0, 0, 0, 0.35);
+      outline-offset: 2px;
+    }
+
+    /* Coords */
     #coords {
-      font-size: .8em;
+      font-size: 0.8em;
       opacity: 0;
       position: absolute;
       top: 0;
@@ -149,67 +144,53 @@
       border: 1px solid #ccc;
       padding: 0.5em;
       z-index: 500;
-      transition: all 0.5s ease-out;
+      transition: opacity 0.3s ease-in;
+      user-select: none;
     }
 
     #coords:hover {
       opacity: 1;
-      transition: all 0.3s ease-in;
       cursor: copy;
     }
 
-    .leaflet-popup-content {
-      margin: 0;
-    }
-
-    .leaflet-control-attribution {
-      display: none;
-    }
-
+    /* Fade Leaflet controls in only on hover */
     .leaflet-control-container {
       opacity: 0;
-      transition: all 0.3s ease-in;
+      transition: opacity 0.3s ease-in;
     }
 
     .leaflet-container:hover .leaflet-control-container {
       opacity: 1;
     }
 
+    /* Popup cards */
     :root {
       --popup-card-width: 300px;
-      /* change once, affects all cards */
       --popup-gap: 10px;
       --popup-pad: 10px;
       --thumb-ratio: 1 / 1;
-      /* square thumbnail */
     }
 
-    /* Card container */
     .popup-card {
       width: var(--popup-card-width);
-      box-sizing: border-box;
       display: grid;
       grid-template-columns: 1fr;
-      /* no thumbnail => full width */
       gap: var(--popup-gap);
       padding: var(--popup-pad);
       border-radius: 10px;
+      box-sizing: border-box;
     }
 
-    /* Two-column layout when thumbnail exists */
     .popup-card.has-thumb {
       grid-template-columns: 2fr 1fr;
-      /* 2/3 text, 1/3 thumbnail */
       align-items: start;
     }
 
-    /* Text column */
     .popup-text {
       display: grid;
       grid-auto-rows: min-content;
       row-gap: 6px;
       min-width: 0;
-      /* allow wrapping */
     }
 
     .popup-label {
@@ -221,7 +202,6 @@
       line-height: 1.25;
     }
 
-    /* Thumbnail as background image */
     .popup-thumb {
       width: 100%;
       aspect-ratio: var(--thumb-ratio);
@@ -233,954 +213,953 @@
 </head>
 
 <body>
-
   <main>
-
     <figure>
       <div id="content">
-        <div id="coords">Coords</div>
+        <div id="coords" title="Click to copy coordinates">Coords</div>
         <div id="map"></div>
       </div>
 
       <figcaption>
-        <div class="title clamp"></div>
+        <div class="caption-left">
+          <div class="title caption-title"></div>
+        </div>
+        <div class="caption-right">
+          <button id="expandBtn" class="expand-btn" type="button" aria-label="Expand map" title="Expand">
+            <i class="fa-solid fa-expand" aria-hidden="true"></i>
+          </button>
+        </div>
       </figcaption>
-
     </figure>
-
   </main>
 
+  <!-- Leaflet core + plugins (global) -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://juncture-digital.github.io/Leaflet.SmoothWheelZoom/Leaflet.SmoothWheelZoom.js"></script>
   <script src="//unpkg.com/leaflet-gesture-handling"></script>
   <script src="https://cdn.jsdelivr.net/npm/@allmaps/leaflet/dist/bundled/allmaps-leaflet-1.9.umd.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+
   <script type="module">
-
     import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
-    import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js'
+    import "https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js";
 
-    import './leaflet-opacity.js'
-    import './turf.min.js'
-
-    let imageServiceUrl = 'https://d1co2zgwaj21sl.cloudfront.net/image';
+    // ------------------------------- constants -------------------------------
+    const IMAGE_SERVICE_URL = "https://d1co2zgwaj21sl.cloudfront.net/image";
+    const ALLMAPS_BASE = "https://annotations.allmaps.org";
+    const WIKIDATA_SPARQL = "https://query.wikidata.org/sparql";
 
     const baseMapsConfigs = {
-      CartoDB_DarkMatter: ['https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_DarkMatterNoLabels: ['https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_DarkMatterOnlyLabels: ['https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_Positron: ['https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_PositronNoLabels: ['https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_PositronOnlyLabels: ['https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_Voyager: ['https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_VoyagerNoLabels: ['https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_VoyagerOnlyLabels: ['https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      CartoDB_VoyagerLabelsUnder: ['https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }],
-      Esri_DeLorme: ['https://server.arcgisonline.com/ArcGIS/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Copyright: &copy;2012 DeLorme',
-        minZoom: 1,
-        maxZoom: 11
-      }],
-      Esri_NatGeoWorldMap: ['https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
-        maxZoom: 16
-      }],
-      Esri_OceanBasemap: ['https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri',
-        maxZoom: 13
-      }],
-      Esri_WorldGrayCanvas: ['https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
-        maxZoom: 16
-      }],
-      Esri_WorldImagery: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-      }],
-      Esri_WorldPhysical: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
-        maxZoom: 8,
-        attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service'
-      }],
-      Esri_WorldShadedRelief: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Source: Esri',
-        maxZoom: 13
-      }],
-      Esri_WorldStreetMap: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-      }],
-      Esri_WorldTerrain: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Source: USGS, Esri, TANA, DeLorme, and NPS',
-        maxZoom: 13
-      }],
-      Esri_WorldTopoMap: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
-      }],
-      MtbMap: ['http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp; USGS'
-      }],
-      OpenStreetMap: ['https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 18,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-      }],
-      OpenStreetMap_DE: ['https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
-        maxZoom: 18,
+      OpenStreetMap: ["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }],
-      OpenStreetMap_France: ['https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
-        maxZoom: 20,
-        attribution: '&copy; OpenStreetMap France | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      }],
-      OpenStreetMap_HOT: ['https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>',
-        maxZoom: 19
-      }],
-      OpenStreetMap_Mapnik: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        maxZoom: 19
-      }],
-      OpenTopoMap: ['https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+      OpenTopoMap: ["https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
         maxZoom: 17,
-        attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+        attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }],
-      OPNVKarte: ['https://tileserver.memomaps.de/tilegen/{z}/{x}/{y}.png', {
-        attribution: 'Map <a href="https://memomaps.de/">memomaps.de</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        maxZoom: 18
+      Esri_WorldImagery: ["https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+        attribution: "Tiles &copy; Esri"
       }],
-      Stadia_AlidadeSmooth: ['https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+      CartoDB_Positron: ["https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: "abcd",
         maxZoom: 20
-      }],
-      Stadia_AlidadeSmoothDark: ['https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
-        maxZoom: 20
-      }],
-      Stadia_OSMBright: ['https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
-        maxZoom: 20
-      }],
-      Stadia_Outdoors: ['https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
-        maxZoom: 20,
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
-      }],
-      Stamen_Terrain: ['https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 18,
-        ext: 'png'
-      }],
-      Stamen_TerrainBackground: ['https://stamen-tiles-{s}.a.ssl.fastly.net/terrain-background/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 18,
-        ext: 'png'
-      }],
-      Stamen_TerrainLabels: ['https://stamen-tiles-{s}.a.ssl.fastly.net/terrain-labels/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 18,
-        ext: 'png'
-      }],
-      Stamen_Toner: ['https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20,
-        ext: 'png'
-      }],
-      Stamen_TonerBackground: ['https://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20,
-        ext: 'png'
-      }],
-      Stamen_TonerLite: ['https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20,
-        ext: 'png'
-      }],
-      Stamen_Watercolor: ['https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
-        subdomains: 'abcd',
-        minZoom: 1,
-        maxZoom: 16,
-        ext: 'jpg',
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      }],
-      USGS_USTopo: ['https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
-        maxZoom: 20,
-        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
-      }],
-      USGS_USImagery: ['https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
-        maxZoom: 20,
-        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
-      }],
-      USGS_USImageryTopo: ['https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}', {
-        maxZoom: 20,
-        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
-      }],
-    }
-
-    const main = document.querySelector('main')
-    const figure = main.querySelector('figure')
-    const content = document.querySelector('#content')
-    const figcaption = figure.querySelector('figcaption')
-
-    const coords = document.querySelector('#coords')
-    const mapEl = document.querySelector('#map')
-
-    let map
-    let latLngZoom
-    let zoomed
-    let priorLoc
-    let windowAspectRatio = 0.919
-
-    const isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent))
-
-    window.addEventListener('message', (event) => {
-      console.log(event)
-      let eventData = JSON.parse(event.data)
-      console.log(eventData)
-      let action = eventData.action?.toLowerCase()
-      let args = eventData.args
-      if (action === 'flyto') {
-        let locZoom = args[0]
-        if ((locZoom === zoomed) && priorLoc) {
-          flyTo(priorLoc)
-          priorLoc = null
-          zoomed = null
-        } else {
-          flyTo(locZoom)
-          priorLoc = latLngZoom
-          zoomed = locZoom
-        }
-      }
-    })
-
-    const getLatLngZoom = (e) => {
-      let point = e.type === 'click' ? e.latlng : e.target.getCenter()
-      let zoom = e.target.getZoom()
-      let _latLngZoom = [point.lat, point.lng, zoom]
-      latLngZoom = `${Number((point.lat).toFixed(3))},${Number((point.lng).toFixed(3))},${zoom}`
-    }
-    const copyTextToClipboard = (text) => navigator.clipboard?.writeText(text)
-    coords.addEventListener('click', e => copyTextToClipboard(coords.textContent))
-
-    const coerce = (value) => {
-      return (value === 'true' || value === '') ? true
-        : (value === 'false') ? false
-          : value;
+      }]
     };
 
-    const params = new URLSearchParams(location.search);
-
-    // --- everything else
-    const queryObj = {};
-    for (const key of new Set(params.keys())) {
-      const values = params.getAll(key).map(coerce);
-      queryObj[key] = values.length > 1 ? values : values[0];
-    }
-
-    const props = {
-      ...{              // defaults
-        allmaps: '',
-        basemap: 'OpenStreetMap',
-        caption: null,
-        center: '51.505,-0.09',
-        geojson: null,
-        gestureHandling: true,
-        markers: null,
-        popupOnHover: false,
-        'prefer-geojson': false,
-        zoom: 8
-      },
-      ...queryObj
-    };
-
-    console.log(props);
-
-    let inIframe = window.location !== window.parent.location // flag indicating if the page is in an iframe
-    const md2Html = (md) => marked.parse(md).slice(3, -5) // convert markdown to HTML
-    const capitalizeFirst = (s) => typeof s === 'string' && s.length ? s[0].toUpperCase() + s.slice(1) : s ?? '';
-    const setCaption = (caption) => figcaption.innerHTML = md2Html(caption)
-    const docReady = (fn) => { if (document.readyState === 'complete' || document.readyState === 'interactive') setTimeout(fn, 1); else document.addEventListener('DOMContentLoaded', fn) }
-
-    let center
-    let zoom = 8
-    let caption
-
-    const isQid = (s) => /^Q\d+$/.test(s)
-    const parseLayerStr = (s) => {
-      let tokens = []
-      s.replace(/&/g, ' ').replace(/”/g, '"').replace(/”/g, '"').replace(/’/g, "'").match(/[^\s"]+|"([^"]*)"/gmi)?.filter(t => t).forEach(token => {
-        if (tokens.length > 0 && tokens[tokens.length - 1].indexOf('=') === tokens[tokens.length - 1].length - 1) tokens[tokens.length - 1] = `${tokens[tokens.length - 1]}${token}`
-        else tokens.push(token)
-      })
-      let parsed = { type: null, kwargs: {}, booleans: [] }
-      let tokenIdx = 0
-      while (tokenIdx < tokens.length) {
-        let token = tokens[tokenIdx].trim()
-        if (['marker', 'warped-map', 'geojson'].includes(token)) parsed.type = token
-        else if (token.indexOf('=') > 0 && /^[\w-:]+=/.test(token)) {
-          let idx = token.indexOf('=')
-          let key = token.slice(0, idx)
-          let value = token.slice(idx + 1)
-          value = value[0] === '"' && value[value.length - 1] === '"' ? value.slice(1, -1) : value
-          if (parsed.kwargs[key]) parsed.kwargs[key] += `|${value}`
-          else parsed.kwargs[key] = value
-        }
-        else parsed.booleans.push(token)
-        tokenIdx++
-      }
-      return parsed
-    }
-
-    const mwImage = (mwImg, width) => {
-      width = width | 0
-      // Converts Wikimedia commons image URL to a thumbnail link
-      mwImg = (Array.isArray(mwImg) ? mwImg[0] : mwImg).replace(/Special:FilePath\//, 'File:').split('File:').pop()
-      mwImg = decodeURIComponent(mwImg).replace(/ /g, '_')
-      const _md5 = md5(mwImg)
-      const extension = mwImg.split('.').pop()
-      let url = `https://upload.wikimedia.org/wikipedia/commons${width ? '/thumb' : ''}`
-      url += `/${_md5.slice(0, 1)}/${_md5.slice(0, 2)}/${mwImg}`
-      if (width > 0) {
-        url += `/${width}px-${mwImg}`
-        if (extension === 'svg') {
-          url += '.png'
-        } else if (extension === 'tif' || extension === 'tiff') {
-          url += '.jpg'
-        }
-      }
-      return url
-    }
-
-    const fullUrl = (url) => {
-      // Converts a URL to a full URL if it is relative or uses a shortcode
-      if (url.indexOf('wc:') === 0 || url.indexOf('wikimedia.org') > -1 || url.indexOf('wikipedia.org') > -1 && url.indexOf('/media/File:') > -1) {
-        return mwImage(url.replace('wc:', ''), 300)
-      } else if (url.indexOf('http') === 0)
-        return url
-      else if (url.indexOf('gh:') === 0)
-        return `https://raw.githubusercontent.com/${url.slice(3)}/main`
-      else if (url[0] === '/') {
-        let [owner, repo, branch, ...rest] = props.ghbase.split('/')
-        return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${url.slice(1)}`
-      } else
-        return `https://raw.githubusercontent.com/${props.ghbase}/${url}`
-    }
-
-    let layerDefs = props.markers ? props.markers.split('|').map(marker => {
-      let args = marker.split('~')
-      if (isQid(args[0])) {
-        return { type: 'marker', qid: args[0], layer: args[1] }
-      } else {
-        let [coords, label, description, thumbnail, layer] = marker.split('~')
-        return {
-          type: 'marker',
-          coords,
-          label: capitalizeFirst(decodeURIComponent(label.replace(/_/g, ' '))),
-          description: capitalizeFirst(decodeURIComponent(description.replace(/_/g, ' '))),
-          thumbnail: fullUrl(thumbnail),
-          layer
-        }
-      }
-    }) : []
-
-    props.geojson?.split('|').forEach(geojson => {
-      let [url, layerName] = geojson.split('~');
-      layerDefs.push({ type: 'geojson', url, layerName })
-    })
-
-    if (props.allmaps) {
-      let [allmaps, name] = props.allmaps.split('|');
-      layerDefs.push({ type: 'warped-map', allmaps: allmaps, name: name || 'Allmaps' })
-    }
-
-    const collectQIDs = () => {
-      let qids = new Set()
-      if (isQid(props.center)) qids.add(props.center)
-      props.markers?.split('|').forEach(marker => {
-        let args = marker.split('~')
-        if (isQid(args[0])) qids.add(args[0])
-      })
-      return qids
-    }
-
-    const makeLocationCard = (locProps) => {
-      let card = document.createElement('div')
-      card.className = 'popup-card' + (locProps.thumbnail ? ' has-thumb' : '')
-      let textWrapper = document.createElement('div')
-      textWrapper.className = 'popup-text'
-      card.appendChild(textWrapper)
-      let label = document.createElement('div')
-      label.className = 'popup-label'
-      label.textContent = locProps.label
-      textWrapper.appendChild(label)
-      if (locProps.description) {
-        let description = document.createElement('div')
-        description.className = 'popup-desc'
-        description.innerHTML = locProps.description
-        textWrapper.appendChild(description)
-      }
-      if (locProps.thumbnail) {
-        let imgDiv = document.createElement('div')
-        imgDiv.className = 'popup-thumb'
-        imgDiv.setAttribute('role', 'img')
-        imgDiv.setAttribute('aria-label', locProps.label)
-        imgDiv.setAttribute('style', `background-image: url('${locProps.thumbnail}');`)
-        card.appendChild(imgDiv)
-      }
-      return card
-    }
-
-    const kebabToCamel = (input) => input.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
-
-    const getExifLocationFromUrl = async (imageUrl) => {
-      try {
-        const response = await fetch(imageUrl, { mode: 'cors' });
-        const blob = await response.blob();
-
-        return new Promise((resolve, reject) => {
-          const img = new Image();
-          img.crossOrigin = 'anonymous';
-          img.onload = function () {
-            EXIF.getData(img, function () {
-              const lat = EXIF.getTag(this, "GPSLatitude");
-              const lon = EXIF.getTag(this, "GPSLongitude");
-              const latRef = EXIF.getTag(this, "GPSLatitudeRef") || "N";
-              const lonRef = EXIF.getTag(this, "GPSLongitudeRef") || "E";
-
-              if (!lat || !lon) {
-                return resolve(null); // No GPS data
-              }
-
-              const toDecimal = (dms, ref) => {
-                const [deg, min, sec] = dms;
-                let dec = deg + min / 60 + sec / 3600;
-                if (ref === "S" || ref === "W") dec = -dec;
-                return dec;
-              };
-
-              const latDec = toDecimal(lat, latRef);
-              const lonDec = toDecimal(lon, lonRef);
-
-              resolve(`${latDec},${lonDec}`);
-            });
-          };
-          img.onerror = () => reject(new Error("Failed to load image"));
-          img.src = URL.createObjectURL(blob);
-        });
-      } catch (err) {
-        console.error("Error reading EXIF:", err);
-        return null;
-      }
-    }
-
-    // Creates a GeoJSON file URL from a Who's on First ID 
-    const whosOnFirstUrl = (wof) => {
-      let wofParts = []
-      for (let i = 0; i < wof.length; i += 3) {
-        wofParts.push(wof.slice(i, i + 3))
-      }
-      return `https://data.whosonfirst.org/${wofParts.join('/')}/${wof}.geojson`
-    }
-
-    const getEntityData = async (qids, language) => {
-      language = language || 'en'
-      let entities = {}
-      let summaryUrls = {}
-      let entityUrls = qids.map(qid => `(wd:${qid})`)
-      let query = `
-      SELECT ?item (SAMPLE(?label) AS ?label) (SAMPLE(?description) AS ?description) (GROUP_CONCAT(?alias; separator=" | ") AS ?aliases) 
-          (SAMPLE(?image) AS ?image) (SAMPLE(?logoImage) AS ?logoImage) 
-          (SAMPLE(?coords) AS ?coords) (SAMPLE(?pageBanner) AS ?pageBanner)
-          (SAMPLE(?whosOnFirst) AS ?whosOnFirst) (SAMPLE(?wikipedia) AS ?wikipedia)
-      WHERE {
-        VALUES (?item) { ${entityUrls.join(' ')} }
-
-        # BIND(NOW() AS ?timestamp)  # Forces fresh evaluation
-
-        ?item rdfs:label ?label . FILTER (LANG(?label) = "en")
-        OPTIONAL { ?item schema:description ?description . FILTER (LANG(?description) = "en") }
-        OPTIONAL { ?item skos:altLabel ?alias . FILTER (LANG(?alias) = "en") }
-        OPTIONAL { ?item wdt:P625 ?coords . }
-        OPTIONAL { ?item wdt:P18 ?image . }
-        OPTIONAL { ?item wdt:P154 ?logoImage . }
-        OPTIONAL { ?item wdt:P948 ?pageBanner . }
-        OPTIONAL { ?item wdt:P6766 ?whosOnFirst . }
-        OPTIONAL { ?wikipedia schema:about ?item; schema:isPartOf <https://en.wikipedia.org/> . }
-      }
-      GROUP BY ?item
-      `
-      let resp = await fetch('https://query.wikidata.org/sparql', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
-          Accept: 'application/sparql-results+json'
-        },
-        body: `query=${encodeURIComponent(query)}`
-      })
-      if (resp.ok) {
-        let sparqlResp = await resp.json()
-        sparqlResp.results.bindings.forEach(rec => {
-          let qid = rec.item.value.split('/').pop()
-          let _entityData = { id: qid, label: rec.label.value }
-          if (rec.description) _entityData.description = capitalizeFirst(decodeURIComponent(rec.description.value.replace(/_/g, ' ')))
-          if (rec.alias) _entityData.aliases = [rec.alias.value]
-          if (rec.coords) _entityData.coords = rec.coords.value.slice(6, -1).split(' ').reverse().join(',')
-          if (rec.wikipedia) _entityData.wikipedia = rec.wikipedia.value
-          if (rec.pageBanner) _entityData.pageBanner = rec.pageBanner.value
-          if (rec.image) {
-            _entityData.image = rec.image.value
-            _entityData.thumbnail = mwImage(rec.image.value, 300)
-          }
-          if (rec.logoImage) {
-            _entityData.logoImage = rec.logoImage.value
-            if (!_entityData.thumbnail) _entityData.thumbnail = mwImage(rec.logoImage.value, 300)
-          }
-          if (rec.whosOnFirst) _entityData.geojson = whosOnFirstUrl(rec.whosOnFirst.value)
-
-          if (_entityData.wikipedia) {
-            let page = _entityData.wikipedia.replace(/\/w\//, '/wiki').split('/wiki/').pop()
-            summaryUrls[`https://${language}.wikipedia.org/api/rest_v1/page/summary/${page}`] = qid
-          }
-          entities[qid] = _entityData
-        })
-        await Promise.all(Object.keys(summaryUrls).map(url => fetch(url)))
-          .then(responses => { return Promise.all(responses.map(resp => resp.json())) })
-          .then(data => {
-            data.forEach((data, idx) => {
-              let qid = summaryUrls[Object.keys(summaryUrls)[idx]]
-              if (data.extract_html) entities[qid].summaryText = data.extract_html
-              else if (data.extract) entities[qid].summaryText = data.extract
-            })
-          })
-          .catch(err => console.error('Error fetching summaries:', err))
-      }
-      return entities
-    }
-
-    let referencedQIDs = collectQIDs()
-    let entities = referencedQIDs.size ? await getEntityData(Array.from(referencedQIDs), props.language) : []
-    const getEntity = (qid) => entities[qid] || {}
-
-    for (const def of layerDefs) {
-      if (def.qid) {
-        let entity = getEntity(def.qid)
-        if (entity) {
-          def.label = entity.label
-          def.description = entity.description
-          def.thumbnail = entity.thumbnail
-          def.coords = entity.coords
-          def.geojson = entity.geojson
-        }
-      } else if (def.image && !def.coords) {
-        let exifCoords = await getExifLocationFromUrl(fullUrl(def.image))
-        if (exifCoords) def.coords = exifCoords
-      }
-      if (def.image && !def.thumbnail) {
-        def.thumbnail = `${imageServiceUrl}/${fullUrl(def.image)}/w_300`
-      }
-      for (let [prop, value] of Object.entries(def)) {
-        if (['allmaps', 'circle', 'label', 'id', 'description', 'thumbnail', 'coords', 'url'].includes(prop)) def[prop] = decodeURIComponent(value)
-      }
-      // if (def.layer) def.layerName = decodeURIComponent(def.layer)
-    }
-    console.log(layerDefs)
-
-    const toGeoJSONLayer = (data) => {
-      return L.geoJSON(data, {
-        pointToLayer: (feature, _latlng) => {
-          const _props = feature.properties
-          let marker
-
-          if (_props.type === 'marker' && _props.url) { // image marker
-            let [width, height] = _props.size
-              ? _props.size.split(',').map((item) => Number(item))
-              : [100, 100]
-            let style = `width:${width}px;height:${height}px;`
-            if (_props.circle) style += `border-radius:50%;border:4px solid ${_props.color || '#555555'};`
-            let imgUrl = _props.url.indexOf('wc:') === 0 ? mwImage(_props.url.slice(3), 108) : _props.url
-            let img = `<img src="${imgUrl}" style="${style}"/>`
-            marker = new L.Marker(_latlng, {
-              icon: L.divIcon({
-                html: img,
-                className: 'image-icon', // Specify a class name we can refer to in CSS.
-                iconSize: [52, 52] // Set a markers width and height.
-              })
-            })
-          } else {
-            let iconOptions = { ...markerIconTemplate }
-            if (feature.properties.icon) iconOptions.iconUrl = feature.properties.icon
-            if (feature.properties.shadowUrl) iconOptions.shadowUrl = feature.properties.shadowUrl
-            if (feature.properties.iconRetinaUrl) iconOptions.iconRetinaUrl = feature.properties.iconRetinaUrl
-            if (feature.properties.size) iconOptions.iconSize = _props.size.split(',').map((item) => Number(item))
-
-            if (_props['markerType'] === 'circle' || _props['marker-symbol'] === 'circle') {
-              let radius = _props.radius
-                ? Number(_props.radius)
-                : _props['marker-size']
-                  ? _props['marker-size'] === 'small'
-                    ? 8
-                    : _props['marker-size'] === 'medium'
-                      ? 16
-                      : 32
-                  : 4
-              let color = _props['marker-color'] || '#2C84CB'
-              let fillColor = _props['fill'] || color
-              let weight = Number(_props['stroke-width']) || 0
-              let stroke = weight > 0 ? true : false
-              let options = { radius, fillColor, stroke, color, weight }
-              marker = L.circleMarker(_latlng, options)
-            } else {
-              marker = L.marker(_latlng, { icon: new L.Icon(iconOptions) })
-            }
-          }
-          return marker
-        },
-        onEachFeature: async (feature, layer) => {
-          let fg = layer
-          if (!feature.properties.coords) {
-            if (fg.feature?.bbox) {
-              let center = fg.getBounds().getCenter()
-              feature.properties.coords = `${center.lat},${center.lng}`
-            } else if (feature.geometry.type === 'Polygon') {
-              let center = turf.centroid(feature)
-              feature.properties.coords = `${center.geometry.coordinates[1]},${center.geometry.coordinates[0]}`
-            }
-          }
-
-          // Bind popup
-          if (feature.properties.qid || isQid(feature.properties.id)) {
-            let qid = feature.properties.qid || feature.properties.id
-            let entity = await getEntity(qid)
-            let card = makeLocationCard(entity)
-            layer.bindPopup(card.outerHTML)
-          } else {
-            let card = makeLocationCard(feature.properties)
-            layer.bindPopup(card.outerHTML)
-          }
-
-          if (props.popupOnHover) {
-            layer.on('mouseover', () => layer.openPopup())
-            layer.on('mouseout', () => layer.closePopup())
-          }
-
-          layer.on('click', () => {
-            layer.openPopup()
-          })
-        },
-        style: (feature) => {
-          const featureProps = feature?.properties
-          // console.log(featureProps)
-          const _geometry = feature?.geometry.type
-          for (let [prop, value] of Object.entries(featureProps)) {
-            if (value === 'null') featureProps[prop] = null
-          }
-          const style = {
-            color: featureProps.color || '#FB683F',
-            weight: featureProps.weight || (_geometry === 'Polygon' || _geometry === 'MultiPolygon' ? 0 : 4),
-            opacity: featureProps.opacity || 1,
-            fillColor: featureProps.fillColor || featureProps.fill || '#32C125',
-            fillOpacity: featureProps.fillOpacity || 0.5,
-          }
-          return style
-        }
-      })
-    }
-
-    let layerControl
-    const addLayerControl = (layer, name) => {
-      if (!layerControl) layerControl = L.control.layers(Object.fromEntries([]), {}).addTo(map)
-      layerControl.addOverlay(layer, name)
-    }
-
-    const initMap = async () => {
-
-      let entity
-      if (isQid(props.center)) {
-        entity = await getEntity(props.center)
-        center = L.latLng(entity.coords.split(',').map(c => parseFloat(c)))
-        if (!props.caption) setCaption(entity.label)
-      } else {
-        center = L.latLng(props.center.split(',').map(c => parseFloat(c)))
-      }
-      zoom = props.zoom
-
-      let _basemaps = (props.basemap).split(',').map(name => {
-        let [url, options] = baseMapsConfigs[name]
-        return [name.replace(/_/, ' '), L.tileLayer(url, options)]
-      })
-
-      let map = L.map('map', {
-        gestureHandling: props.gestureHandling === true && !props['in-dialog'],
-        preferCanvas: false,
-        scrollWheelZoom: false, // disable original zoom function
-        smoothSensitivity: 1.5,   // zoom speed. default is 1
-        smoothWheelZoom: true,  // enable smooth zoom 
-        zoomAnimation: true,
-        zoomSnap: 0.1,
-        layers: [_basemaps[0][1]]
-      }).setView(center, zoom);
-
-      if (_basemaps.length > 1) layerControl = L.control.layers(Object.fromEntries(_basemaps), {}).addTo(map)
-
-      latLngZoom = `${Number((center.lat).toFixed(5))},${Number((center.lng).toFixed(5))},${zoom}`
-      coords.textContent = latLngZoom
-      map.on('click', (e) => {
-        getLatLngZoom(e)
-        let [lat, lng, zoom] = latLngZoom.split(',')
-        copyTextToClipboard(`${lat},${lng}`)
-      })
-      map.on('movestart', () => { mapEl.style.cursor = 'move' })
-      map.on('moveend', (e) => {
-        mapEl.style.cursor = 'pointer'
-        getLatLngZoom(e)
-        coords.textContent = latLngZoom
-      })
-
-      return map
-    }
-
-    const markerIconTemplate = {
-      iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon.png',
-      iconRetinaUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon-2x.png',
+    const MARKER_ICON_TEMPLATE = {
+      iconUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon.png",
+      iconRetinaUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon-2x.png",
       iconSize: [25, 41],
       iconAnchor: [12, 41],
       popupAnchor: [1, -34],
-      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+      shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png",
       shadowSize: [41, 41]
+    };
+
+    // ---------------------------- DOM references ----------------------------
+    const mainEl = document.querySelector("main");
+    const captionTitleEl = document.querySelector("figcaption .title");
+    const coordsEl = document.querySelector("#coords");
+    const mapEl = document.querySelector("#map");
+    const expandBtn = document.querySelector("#expandBtn");
+
+    // ------------------------------ expand button ---------------------------
+    function postShowDialog() {
+      console.log('showDialog')
+      // Keep aspect stable and simple per your request
+      window.parent.postMessage(
+        { type: "showDialog", props: { aspect: 1.0, src: `${location.href}` } },
+        "*"
+      );
+    }
+    expandBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      postShowDialog();
+    });
+
+    // ------------------------------ utilities ------------------------------
+    const isQid = (s) => typeof s === "string" && /^Q\d+$/.test(s.trim());
+
+    function safeDecodeURIComponent(v) {
+      if (typeof v !== "string") return v;
+      try { return decodeURIComponent(v); } catch { return v; }
     }
 
-    const toGeoJSON = (locations) => {
-      const data = { type: 'FeatureCollection', features: [] }
-      locations.filter(location => location.coords)
-        .forEach(location => {
-          let [lat, lng] = location.coords.split(',').map(val => parseFloat(val.trim()))
-          data.features.push({
-            type: 'Feature',
-            properties: location,
-            geometry: { type: 'Point', coordinates: [lng, lat] }
-          })
-        })
-      return data
+    function coerceQueryValue(v) {
+      if (v === "true" || v === "") return true;
+      if (v === "false") return false;
+      return v;
     }
 
-    const flyTo = async (locZoom) => {
-      let split = locZoom.split(',')
-      let entity, center, zoom
-      if (isQid(split[0])) {
-        entity = await getEntity(split[0])
-        center = L.latLng(entity.coords.split(',').map(c => parseFloat(c)))
-        zoom = split.length > 1 ? Number(split[1]) : 8
-      } else if (split.length > 1) {
-        center = L.latLng(split.slice(0, 2).map(c => parseFloat(c)))
-        if (split.length > 2) zoom = parseFloat(split[2])
+    function parseQueryParams() {
+      const params = new URLSearchParams(location.search);
+      const queryObj = {};
+      for (const key of new Set(params.keys())) {
+        const values = params.getAll(key).map(coerceQueryValue);
+        queryObj[key] = values.length > 1 ? values : values[0];
       }
-      map.flyTo(center, zoom)
+      return queryObj;
     }
 
-
-    const ALLMAPS_BASE = "https://annotations.allmaps.org";
-
-    function looksLikeAnnotationOrPage(json) {
-      if (!json || typeof json !== "object") return false;
-      const t = json.type || json["@type"];
-
-      if (t === "Annotation") return true;
-
-      if (t === "AnnotationPage" && Array.isArray(json.items)) {
-        return json.items.some(it => (it?.type || it?.["@type"]) === "Annotation");
-      }
-
-      return false;
+    function mdToHtml(md) {
+      if (md == null) return "";
+      const html = marked.parse(String(md)).trim();
+      const m = html.match(/^<p>([\s\S]*)<\/p>$/i);
+      return m ? m[1] : html;
     }
 
-    async function tryFetchJson(url, timeoutMs = 8000) {
+    function setCaption(caption) {
+      captionTitleEl.innerHTML = mdToHtml(caption);
+    }
+
+    function clampNumber(n, min, max) {
+      const x = Number(n);
+      if (!Number.isFinite(x)) return min;
+      return Math.min(max, Math.max(min, x));
+    }
+
+    function parseLatLng(str) {
+      if (typeof str !== "string") return null;
+      const parts = str.split(",").map(s => s.trim());
+      if (parts.length < 2) return null;
+      const lat = Number(parts[0]);
+      const lng = Number(parts[1]);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
+      return L.latLng(lat, lng);
+    }
+
+    function parseLatLngZoom(str) {
+      if (typeof str !== "string") return null;
+      const parts = str.split(",").map(s => s.trim());
+      if (parts.length < 2) return null;
+      const lat = Number(parts[0]);
+      const lng = Number(parts[1]);
+      const zoom = parts.length >= 3 ? Number(parts[2]) : null;
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
+      return { center: L.latLng(lat, lng), zoom: Number.isFinite(zoom) ? zoom : null };
+    }
+
+    async function fetchJson(url, { timeoutMs = 12000, accept = "application/json" } = {}) {
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), timeoutMs);
       try {
-        const res = await fetch(url, {
-          signal: controller.signal,
-          headers: { accept: "application/json" }
-        });
-        if (!res.ok) return null;
-        const json = await res.json().catch(() => null);
-        if (!looksLikeAnnotationOrPage(json)) return null;
-        return { url, json };
+        const res = await fetch(url, { signal: controller.signal, headers: { accept } });
+        if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+        return await res.json();
       } finally {
         clearTimeout(timer);
       }
     }
 
+    function mwImage(mwImg, width) {
+      width = width | 0;
+      mwImg = (Array.isArray(mwImg) ? mwImg[0] : mwImg)
+        .replace(/Special:FilePath\//, "File:")
+        .split("File:")
+        .pop();
+      mwImg = safeDecodeURIComponent(mwImg).replace(/ /g, "_");
+      const _md5 = md5(mwImg);
+      const extension = mwImg.split(".").pop().toLowerCase();
+
+      let url = `https://upload.wikimedia.org/wikipedia/commons${width ? "/thumb" : ""}`;
+      url += `/${_md5.slice(0, 1)}/${_md5.slice(0, 2)}/${mwImg}`;
+
+      if (width > 0) {
+        url += `/${width}px-${mwImg}`;
+        if (extension === "svg") url += ".png";
+        if (extension === "tif" || extension === "tiff") url += ".jpg";
+      }
+      return url;
+    }
+
+    function fullUrl(url) {
+      if (typeof url !== "string" || !url) return url;
+
+      if (url.startsWith("wc:") ||
+        ((url.includes("wikimedia.org") || url.includes("wikipedia.org")) && url.includes("/media/File:"))) {
+        return mwImage(url.replace(/^wc:/, ""), 300);
+      }
+      if (url.startsWith("http://") || url.startsWith("https://")) return url;
+      if (url.startsWith("gh:")) return `https://raw.githubusercontent.com/${url.slice(3)}/main`;
+
+      return url;
+
+    }
+
+    function makeLocationCard(locProps) {
+      const card = document.createElement("div");
+      card.className = "popup-card" + (locProps.thumbnail ? " has-thumb" : "");
+
+      const textWrapper = document.createElement("div");
+      textWrapper.className = "popup-text";
+      card.appendChild(textWrapper);
+
+      const label = document.createElement("div");
+      label.className = "popup-label";
+      label.textContent = locProps.label || "";
+      textWrapper.appendChild(label);
+
+      if (locProps.description) {
+        const description = document.createElement("div");
+        description.className = "popup-desc";
+        description.innerHTML = String(locProps.description);
+        textWrapper.appendChild(description);
+      }
+
+      if (locProps.thumbnail) {
+        const imgDiv = document.createElement("div");
+        imgDiv.className = "popup-thumb";
+        imgDiv.setAttribute("role", "img");
+        imgDiv.setAttribute("aria-label", locProps.label || "");
+        imgDiv.style.backgroundImage = `url('${locProps.thumbnail}')`;
+        card.appendChild(imgDiv);
+      }
+
+      return card;
+    }
+
+    function toGeoJSON(locations) {
+      const data = { type: "FeatureCollection", features: [] };
+      locations
+        .filter(l => l && typeof l.coords === "string")
+        .forEach(location => {
+          const parsed = parseLatLng(location.coords);
+          if (!parsed) return;
+          data.features.push({
+            type: "Feature",
+            properties: location,
+            geometry: { type: "Point", coordinates: [parsed.lng, parsed.lat] }
+          });
+        });
+      return data;
+    }
+
+    // --------------------------- Allmaps helpers ---------------------------
+    function looksLikeAnnotationOrPage(json) {
+      if (!json || typeof json !== "object") return false;
+      const t = json.type || json["@type"];
+      if (t === "Annotation") return true;
+      if (t === "AnnotationPage" && Array.isArray(json.items)) {
+        return json.items.some(it => (it?.type || it?.["@type"]) === "Annotation");
+      }
+      return false;
+    }
+
     async function resolveAllmapsAnnotationUrl(id) {
-      // Try both. Prefer /maps if both succeed.
-      const urls = [
+      const candidates = [
         `${ALLMAPS_BASE}/maps/${id}`,
         `${ALLMAPS_BASE}/manifests/${id}`
       ];
 
-      const [mapRes, manifestRes] = await Promise.all([
-        tryFetchJson(urls[0]),
-        tryFetchJson(urls[1])
-      ]);
+      const results = await Promise.allSettled(
+        candidates.map(async (u) => {
+          const json = await fetchJson(u, { timeoutMs: 8000 }).catch(() => null);
+          return json && looksLikeAnnotationOrPage(json) ? u : null;
+        })
+      );
 
-      if (mapRes) return mapRes.url;
-      if (manifestRes) return manifestRes.url;
+      const mapUrl = results[0].status === "fulfilled" ? results[0].value : null;
+      const manifestUrl = results[1].status === "fulfilled" ? results[1].value : null;
+
+      if (mapUrl) return mapUrl;
+      if (manifestUrl) return manifestUrl;
 
       throw new Error(`No valid Allmaps annotation found for id: ${id}`);
     }
 
-    const warpedMapLayers = { value: [] }
-
-    const addWarpedMap = async (layer) => {
-      let annotationURL = await resolveAllmapsAnnotationUrl(layer.allmaps)
-      let warpedMapLayer = new Allmaps.WarpedMapLayer(annotationURL)
-      warpedMapLayers.value.push({ name: decodeURIComponent(layer.name), layer: warpedMapLayer, opacity: layer.opacity || 100, name: layer.name })
-      return warpedMapLayer
+    function getLayerContainer(layer) {
+      return (layer?.getContainer?.() || layer?._container || null);
     }
 
-    docReady(async function () {
+    function setWarpedOpacity(wm, pct) {
+      const v = clampNumber(pct, 0, 100);
+      wm.opacity = v;
+      const alpha = v / 100;
 
-      if (props.caption) setCaption(props.caption)
-      main.style.visibility = 'visible'
+      try { wm.layer?.setOpacity?.(alpha); } catch { }
+      const c = getLayerContainer(wm.layer);
+      if (c) c.style.opacity = String(alpha);
+    }
 
-      let mapAspectRatio = parseFloat(props.aspect || 1)
-      windowAspectRatio = main.clientWidth / (main.clientWidth / mapAspectRatio + figcaption.clientHeight)
-      // window.parent.postMessage({ type: 'setAspect', aspect: windowAspectRatio }, '*');
-      // document.querySelector('.size').innerHTML = `<span><b>Aspect ratio: </b></span> ${mapAspectRatio.toFixed(2)}`
+    function installWarpedOpacityHooks(wm) {
+      if (wm._opacityHooksInstalled) return;
+      wm._opacityHooksInstalled = true;
+      const reapply = () => setWarpedOpacity(wm, wm.opacity);
+      try {
+        wm.layer?.on?.("load", reapply);
+        wm.layer?.on?.("tileload", reapply);
+        wm.layer?.on?.("tileloadstart", reapply);
+      } catch { }
+    }
 
-      map = await initMap()
+    // Robust: recreate layer when toggling on (avoids Allmaps stale state)
+    function ensureWarpedLayer(map, wm) {
+      if (!wm.layer) {
+        wm.layer = new Allmaps.WarpedMapLayer(wm.annotationURL);
+        installWarpedOpacityHooks(wm);
+      }
+      setWarpedOpacity(wm, wm.opacity);
+      if (!map.hasLayer(wm.layer)) map.addLayer(wm.layer);
+      requestAnimationFrame(() => setWarpedOpacity(wm, wm.opacity));
+    }
 
-      if (layerDefs.length) {
+    function disableWarpedLayer(map, wm) {
+      if (wm.layer && map.hasLayer(wm.layer)) map.removeLayer(wm.layer);
+      wm.layer = null; // force fresh instance next enable
+    }
 
-        let markersByLayer = {}
-        let geoJsonLayers = {}
+    function addWarpedLayersControl(map, warpedMapLayers, { position = "topright" } = {}) {
+      const Control = L.Control.extend({
+        options: { position },
 
-        for (const layerDef of layerDefs) {
-          if (layerDef.type === 'warped-map') {
-            await addWarpedMap(layerDef)
-          } else if (layerDef.type === 'marker') {
-            let layerName = layerDef.layer || 'locations'
-            if (layerDef.preferGeojson && layerDef.geojson) {
-              fetch(layerDef.geojson).then(resp => resp.json())
-                .then(data => {
-                  data.properties.qid = layerDef.id
-                  let geoJsonLayer = toGeoJSONLayer(data)
-                  addLayerControl(geoJsonLayer, layerDef.layerName || layerDef.label)
-                  map.addLayer(geoJsonLayer)
-                });
-            } else {
-              if (!markersByLayer[layerName]) markersByLayer[layerName] = []
-              markersByLayer[layerName].push(layerDef)
-            }
-          } else if (layerDef.type === 'geojson' && layerDef.url) {
-            if (layerDef.url.indexOf('http') !== 0) {
-              if (layerDef.url[0] === '/') {
-                let [owner, repo, branch, ...path] = props.ghbase.split('/')
-                layerDef.url = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}${layerDef.url}`
+        onAdd() {
+          const container = L.DomUtil.create("div", "leaflet-bar");
+          container.style.background = "white";
+          container.style.padding = "8px";
+          container.style.borderRadius = "8px";
+          container.style.boxShadow = "0 1px 4px rgba(0,0,0,0.2)";
+          container.style.maxWidth = "320px";
+
+          L.DomEvent.disableClickPropagation(container);
+          L.DomEvent.disableScrollPropagation(container);
+
+          const title = L.DomUtil.create("div", "", container);
+          title.textContent = "Overlays";
+          title.style.font = "600 13px system-ui, sans-serif";
+          title.style.marginBottom = "6px";
+
+          const stopProp = (e) => L.DomEvent.stopPropagation(e);
+
+          warpedMapLayers.forEach((wm, idx) => {
+            wm.opacity = clampNumber(wm.opacity ?? 100, 0, 100);
+
+            const row = L.DomUtil.create("div", "", container);
+            row.style.display = "grid";
+            row.style.gridTemplateColumns = "16px 1fr 110px";
+            row.style.columnGap = "8px";
+            row.style.alignItems = "center";
+            row.style.padding = "4px 0";
+
+            const cb = document.createElement("input");
+            cb.type = "checkbox";
+            cb.checked = !wm.disabled;
+            cb.style.margin = "0";
+            row.appendChild(cb);
+
+            const label = document.createElement("div");
+            label.textContent = wm.name || `Overlay ${idx + 1}`;
+            label.style.font = "12px system-ui, sans-serif";
+            label.style.whiteSpace = "nowrap";
+            label.style.overflow = "hidden";
+            label.style.textOverflow = "ellipsis";
+            row.appendChild(label);
+
+            const range = document.createElement("input");
+            range.type = "range";
+            range.min = "0";
+            range.max = "100";
+            range.step = "1";
+            range.value = String(wm.opacity);
+            range.title = "Opacity";
+            row.appendChild(range);
+
+            cb.addEventListener("change", () => {
+              if (cb.checked) {
+                wm.disabled = false;
+                wm.opacity = clampNumber(range.value, 0, 100);
+                ensureWarpedLayer(map, wm);
               } else {
-                layerDef.url = `https://raw.githubusercontent.com/${props.ghbase}/${layerDef.url}`
+                wm.disabled = true;
+                disableWarpedLayer(map, wm);
               }
-            }
-            fetch(layerDef.url).then(resp => resp.json())
-              .then(data => {
-                let geoJsonLayer = toGeoJSONLayer(data)
-                addLayerControl(geoJsonLayer, layerDef.layerName || layerDef.label || layerDef.url.split('/').pop().split('.').shift().replace(/[_-]/g, ' ').replace(/^./, c => c.toUpperCase()))
-                map.addLayer(geoJsonLayer)
-              });
-          }
+            });
+
+            range.addEventListener("input", () => {
+              wm.opacity = clampNumber(range.value, 0, 100);
+              if (wm.layer) setWarpedOpacity(wm, wm.opacity);
+            });
+
+            ["pointerdown", "pointerup", "mousedown", "mouseup", "click", "dblclick", "touchstart", "touchend"].forEach(evt =>
+              range.addEventListener(evt, stopProp, { passive: true })
+            );
+
+            range.addEventListener("wheel", (e) => {
+              L.DomEvent.stopPropagation(e);
+              e.preventDefault();
+            }, { passive: false });
+
+            label.addEventListener("click", (e) => {
+              stopProp(e);
+              cb.checked = !cb.checked;
+              cb.dispatchEvent(new Event("change"));
+            });
+
+            ["click", "dblclick", "mousedown", "touchstart"].forEach(evt =>
+              row.addEventListener(evt, stopProp, { passive: true })
+            );
+          });
+
+          return container;
         }
-        Object.keys(markersByLayer).forEach(layerName => {
-          let layer = markersByLayer[layerName]
-          let geoJsonLayer = toGeoJSONLayer(toGeoJSON(layer))
-          addLayerControl(geoJsonLayer, layerName)
-          map.addLayer(geoJsonLayer)
-        })
+      });
 
-        const opacityLayers = {}
-        warpedMapLayers.value?.forEach(layer => {
-          addLayerControl(layer.layer, layer.name)
-          if (!layer.disabled) map.addLayer(layer.layer)
-          opacityLayers[layer.name] = layer.layer
-        })
+      map.addControl(new Control());
+    }
 
-        if (Object.keys(opacityLayers).length > 0) {
-          let opacityControl =
-            L.control.opacity(opacityLayers, {
-              label: null,
-              collapsed: true,
-              position: 'topright' // topleft or topright or bottomleft or bottomright
-            })
-          opacityControl.addTo(map)
-          Array.from(opacityControl.getContainer().querySelectorAll('.leaflet-control-layers-overlays label'))
-            .forEach((overlay) => {
-              let label = overlay.children[0].textContent.trim()
-              let warpedMapLayer
-              warpedMapLayers.value?.forEach(item => {
-                if (item.name === label) warpedMapLayer = item
-              })
-              if (warpedMapLayer) {
-                let startingOpacity = warpedMapLayer.opacity
-                let rangeControl = overlay.children[1].children[0]
-                rangeControl.value = startingOpacity
-                warpedMapLayer.layer.setOpacity(startingOpacity / 100)
-                rangeControl.addEventListener('input', (evt) => {
-                  evt.preventDefault()
-                  evt.stopPropagation()
-                  warpedMapLayer.layer.setOpacity(parseInt(rangeControl.value) / 100)
-                })
-              }
-            })
+    // --------------------------- Wikidata entity ---------------------------
+    function whosOnFirstUrl(wof) {
+      const parts = [];
+      for (let i = 0; i < wof.length; i += 3) parts.push(wof.slice(i, i + 3));
+      return `https://data.whosonfirst.org/${parts.join("/")}/${wof}.geojson`;
+    }
+
+    async function getEntityData(qids, language = "en") {
+      const entities = {};
+      const summaryUrls = {};
+
+      const entityUrls = qids.map(qid => `(wd:${qid})`);
+      const query = `
+        SELECT ?item (SAMPLE(?label) AS ?label) (SAMPLE(?description) AS ?description)
+               (SAMPLE(?image) AS ?image) (SAMPLE(?logoImage) AS ?logoImage)
+               (SAMPLE(?coords) AS ?coords) (SAMPLE(?whosOnFirst) AS ?whosOnFirst)
+               (SAMPLE(?wikipedia) AS ?wikipedia)
+        WHERE {
+          VALUES (?item) { ${entityUrls.join(" ")} }
+          ?item rdfs:label ?label . FILTER (LANG(?label) = "en")
+          OPTIONAL { ?item schema:description ?description . FILTER (LANG(?description) = "en") }
+          OPTIONAL { ?item wdt:P625 ?coords . }
+          OPTIONAL { ?item wdt:P18 ?image . }
+          OPTIONAL { ?item wdt:P154 ?logoImage . }
+          OPTIONAL { ?item wdt:P6766 ?whosOnFirst . }
+          OPTIONAL { ?wikipedia schema:about ?item; schema:isPartOf <https://en.wikipedia.org/> . }
+        }
+        GROUP BY ?item
+      `;
+
+      const resp = await fetch(WIKIDATA_SPARQL, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Accept": "application/sparql-results+json"
+        },
+        body: `query=${encodeURIComponent(query)}`
+      });
+
+      if (!resp.ok) return entities;
+
+      const sparqlResp = await resp.json();
+      sparqlResp.results.bindings.forEach(rec => {
+        const qid = rec.item.value.split("/").pop();
+        const e = { id: qid, label: rec.label?.value ?? qid };
+
+        if (rec.description) e.description = safeDecodeURIComponent(rec.description.value).replace(/_/g, " ");
+        if (rec.coords) e.coords = rec.coords.value.slice(6, -1).split(" ").reverse().join(",");
+        if (rec.image) { e.image = rec.image.value; e.thumbnail = mwImage(rec.image.value, 300); }
+        if (rec.logoImage && !e.thumbnail) e.thumbnail = mwImage(rec.logoImage.value, 300);
+        if (rec.whosOnFirst) e.geojson = whosOnFirstUrl(rec.whosOnFirst.value);
+        if (rec.wikipedia) e.wikipedia = rec.wikipedia.value;
+
+        if (e.wikipedia) {
+          const page = e.wikipedia.replace(/\/w\//, "/wiki").split("/wiki/").pop();
+          summaryUrls[`https://${language}.wikipedia.org/api/rest_v1/page/summary/${page}`] = qid;
+        }
+
+        entities[qid] = e;
+      });
+
+      const urls = Object.keys(summaryUrls);
+      if (urls.length) {
+        const settled = await Promise.allSettled(urls.map(u => fetchJson(u, { timeoutMs: 8000 })));
+        settled.forEach((r, idx) => {
+          if (r.status !== "fulfilled") return;
+          const qid = summaryUrls[urls[idx]];
+          const data = r.value;
+          if (!entities[qid]) return;
+          entities[qid].summaryText = data.extract_html || data.extract || "";
+        });
+      }
+
+      return entities;
+    }
+
+    // ----------------------------- layer parsing ----------------------------
+    function collectQIDsFromProps(props) {
+      const qids = new Set();
+      if (isQid(props.center)) qids.add(props.center);
+
+      if (typeof props.markers === "string") {
+        props.markers.split("|").forEach(marker => {
+          const [first] = marker.split("~");
+          if (isQid(first)) qids.add(first);
+        });
+      }
+      return qids;
+    }
+
+    function parseMarkerDef(markerStr) {
+      const parts = markerStr.split("~");
+      if (!parts.length) return null;
+
+      if (isQid(parts[0])) {
+        return { type: "marker", qid: parts[0], layer: parts[1] || "locations" };
+      }
+
+      const [coords, rawLabel, rawDesc, thumb, layer] = parts;
+      const label = safeDecodeURIComponent(String(rawLabel || "").replace(/_/g, " "));
+      const description = safeDecodeURIComponent(String(rawDesc || "").replace(/_/g, " "));
+      const thumbnail = thumb ? fullUrl(safeDecodeURIComponent(thumb)) : null;
+
+      return {
+        type: "marker",
+        coords: safeDecodeURIComponent(coords || ""),
+        label: label ? label[0].toUpperCase() + label.slice(1) : "",
+        description: description ? description[0].toUpperCase() + description.slice(1) : "",
+        thumbnail,
+        layer: layer || "locations"
+      };
+    }
+
+    function parseGeoJsonDefs(geojsonParam) {
+      if (typeof geojsonParam !== "string" || !geojsonParam.trim()) return [];
+      return geojsonParam.split("|").map(s => {
+        const [url, layerName] = s.split("~");
+        return { type: "geojson", url, layerName };
+      }).filter(x => x.url);
+    }
+
+    function parseAllmapsDef(allmapsParam) {
+      if (typeof allmapsParam !== "string" || !allmapsParam.trim()) return null;
+      const [id, name] = allmapsParam.split("|");
+      if (!id) return null;
+      return { type: "warped-map", allmaps: id, name: name || "Allmaps" };
+    }
+
+    async function normalizeLayerDefs(layerDefs, { entities }) {
+      const normalized = [];
+
+      for (const def of layerDefs) {
+        if (!def || !def.type) continue;
+        const out = { ...def };
+
+        if (out.qid && entities[out.qid]) {
+          const e = entities[out.qid];
+          out.label = out.label || e.label;
+          out.description = out.description || e.description || e.summaryText;
+          out.thumbnail = out.thumbnail || e.thumbnail;
+          out.coords = out.coords || e.coords;
+          out.geojson = out.geojson || e.geojson;
+          out.id = out.id || e.id;
+        }
+
+        if (out.url) out.url = fullUrl(safeDecodeURIComponent(out.url));
+
+        if (out.image && !out.thumbnail) {
+          out.thumbnail = fullUrl(safeDecodeURIComponent(out.image));
+        }
+
+        for (const key of ["label", "description", "thumbnail", "coords", "layer", "layerName", "name", "allmaps"]) {
+          if (out[key] != null) out[key] = safeDecodeURIComponent(out[key]);
+        }
+
+        normalized.push(out);
+      }
+
+      return normalized;
+    }
+
+    // ------------------------------ leaflet bits ----------------------------
+    function toGeoJSONLayer(data, { getEntity, popupOnHover }) {
+      return L.geoJSON(data, {
+        pointToLayer: (feature, latlng) => {
+          const p = feature.properties || {};
+
+          if (p.type === "marker" && p.url) {
+            const [w, h] = typeof p.size === "string" ? p.size.split(",").map(Number) : [100, 100];
+            let style = `width:${Number.isFinite(w) ? w : 100}px;height:${Number.isFinite(h) ? h : 100}px;`;
+            if (p.circle) style += `border-radius:50%;border:4px solid ${p.color || "#555555"};`;
+
+            const imgUrl = String(p.url).startsWith("wc:") ? mwImage(String(p.url).slice(3), 108) : p.url;
+            const html = `<img src="${imgUrl}" style="${style}"/>`;
+
+            return new L.Marker(latlng, {
+              icon: L.divIcon({ html, className: "image-icon", iconSize: [52, 52] })
+            });
+          }
+
+          if (p.markerType === "circle" || p["marker-symbol"] === "circle") {
+            const radius = p.radius ? Number(p.radius)
+              : p["marker-size"] === "small" ? 8
+                : p["marker-size"] === "medium" ? 16
+                  : p["marker-size"] === "large" ? 32
+                    : 4;
+
+            const color = p["marker-color"] || "#2C84CB";
+            const fillColor = p.fill || color;
+            const weight = Number(p["stroke-width"]) || 0;
+            const stroke = weight > 0;
+
+            return L.circleMarker(latlng, { radius, fillColor, stroke, color, weight });
+          }
+
+          const iconOptions = { ...MARKER_ICON_TEMPLATE };
+          if (p.icon) iconOptions.iconUrl = p.icon;
+          if (p.shadowUrl) iconOptions.shadowUrl = p.shadowUrl;
+          if (p.iconRetinaUrl) iconOptions.iconRetinaUrl = p.iconRetinaUrl;
+
+          if (typeof p.size === "string") {
+            const sz = p.size.split(",").map(Number);
+            if (sz.length === 2 && sz.every(Number.isFinite)) iconOptions.iconSize = sz;
+          }
+
+          return L.marker(latlng, { icon: new L.Icon(iconOptions) });
+        },
+
+        onEachFeature: async (feature, layer) => {
+          const p = feature.properties || {};
+
+          let card;
+          if (p.qid || isQid(p.id)) {
+            const qid = p.qid || p.id;
+            const e = await getEntity(qid);
+            card = makeLocationCard(e || { label: qid });
+          } else {
+            card = makeLocationCard(p);
+          }
+          layer.bindPopup(card.outerHTML);
+
+          if (popupOnHover) {
+            layer.on("mouseover", () => layer.openPopup());
+            layer.on("mouseout", () => layer.closePopup());
+          }
+          layer.on("click", () => layer.openPopup());
+        },
+
+        style: (feature) => {
+          const p = feature?.properties || {};
+          for (const [k, v] of Object.entries(p)) if (v === "null") p[k] = null;
+
+          const geom = feature?.geometry?.type;
+          return {
+            color: p.color || "#FB683F",
+            weight: p.weight || ((geom === "Polygon" || geom === "MultiPolygon") ? 0 : 4),
+            opacity: p.opacity ?? 1,
+            fillColor: p.fillColor || p.fill || "#32C125",
+            fillOpacity: p.fillOpacity ?? 0.5
+          };
+        }
+      });
+    }
+
+    function ensureLayerControl(map, layerControlRef, basemaps = null) {
+      if (layerControlRef.value) return layerControlRef.value;
+      layerControlRef.value = L.control.layers(basemaps || {}, {}).addTo(map);
+      return layerControlRef.value;
+    }
+
+    function addOverlayToControl(map, layerControlRef, layer, name) {
+      const lc = ensureLayerControl(map, layerControlRef);
+      lc.addOverlay(layer, name);
+    }
+
+    // ------------------------------ messaging ------------------------------
+    function parseMessageData(event) {
+      const raw = event?.data;
+      if (!raw) return null;
+      if (typeof raw === "string") {
+        try { return JSON.parse(raw); } catch { return null; }
+      }
+      if (typeof raw === "object") return raw;
+      return null;
+    }
+
+    function setupFlyToMessaging({ map, getEntity }) {
+      let prior = null;
+      let lastTargetKey = null;
+
+      window.addEventListener("message", async (event) => {
+        const msg = parseMessageData(event);
+        if (!msg) return;
+
+        const action = String(msg.action || "").toLowerCase();
+        if (action !== "flyto") return;
+
+        const args = Array.isArray(msg.args) ? msg.args : [];
+        const locZoom = String(args[0] ?? "").trim();
+        if (!locZoom) return;
+
+        if (locZoom === lastTargetKey && prior) {
+          await flyTo(map, prior, getEntity);
+          prior = null;
+          lastTargetKey = null;
+          return;
+        }
+
+        const c = map.getCenter();
+        const z = map.getZoom();
+        prior = `${c.lat.toFixed(5)},${c.lng.toFixed(5)},${z}`;
+        lastTargetKey = locZoom;
+
+        await flyTo(map, locZoom, getEntity);
+      });
+    }
+
+    async function flyTo(map, locZoom, getEntity) {
+      const s = String(locZoom || "").trim();
+      if (!s) return;
+
+      const parts = s.split(",").map(x => x.trim()).filter(Boolean);
+
+      if (parts.length >= 1 && isQid(parts[0])) {
+        const qid = parts[0];
+        const entity = await getEntity(qid);
+        const ll = entity?.coords ? parseLatLng(entity.coords) : null;
+        const zoom = parts.length >= 2 ? Number(parts[1]) : null;
+        if (!ll) return;
+        map.flyTo(ll, Number.isFinite(zoom) ? zoom : map.getZoom());
+        return;
+      }
+
+      const parsed = parseLatLngZoom(s);
+      if (!parsed) return;
+      map.flyTo(parsed.center, Number.isFinite(parsed.zoom) ? parsed.zoom : map.getZoom());
+    }
+
+    // ------------------------------ init pipeline ------------------------------
+    async function init() {
+      const queryObj = parseQueryParams();
+
+      const props = {
+        allmaps: "",
+        basemap: "OpenStreetMap",
+        caption: null,
+        center: "51.505,-0.09",
+        geojson: null,
+        gestureHandling: true,
+        markers: null,
+        popupOnHover: false,
+        zoom: 8,
+        ...queryObj
+      };
+
+      if (props.caption) setCaption(props.caption);
+
+      const qids = collectQIDsFromProps(props);
+      const entities = qids.size ? await getEntityData(Array.from(qids), props.language) : {};
+      const getEntity = async (qid) => entities[qid] || null;
+
+      // Center / zoom
+      let centerLatLng = null;
+      let zoom = Number(props.zoom);
+      if (!Number.isFinite(zoom)) zoom = 8;
+
+      if (isQid(props.center)) {
+        const e = await getEntity(props.center);
+        if (e?.coords) {
+          centerLatLng = parseLatLng(e.coords);
+          if (!props.caption && e.label) setCaption(e.label);
+        }
+      } else {
+        centerLatLng = parseLatLng(String(props.center));
+      }
+      if (!centerLatLng) centerLatLng = L.latLng(51.505, -0.09);
+
+      // Basemaps
+      const basemapNames = String(props.basemap || "OpenStreetMap")
+        .split(",")
+        .map(s => s.trim())
+        .filter(Boolean);
+
+      const basemapLayers = [];
+      for (const name of basemapNames) {
+        const cfg = baseMapsConfigs[name];
+        if (!cfg) continue;
+        const [url, options] = cfg;
+        basemapLayers.push([name.replace(/_/g, " "), L.tileLayer(url, options)]);
+      }
+      if (!basemapLayers.length) {
+        const [url, opts] = baseMapsConfigs.OpenStreetMap;
+        basemapLayers.push(["OpenStreetMap", L.tileLayer(url, opts)]);
+      }
+
+      // Create map
+      const map = L.map(mapEl, {
+        gestureHandling: props.gestureHandling === true && !props["in-dialog"],
+        preferCanvas: false,
+        scrollWheelZoom: false,
+        smoothSensitivity: 1.5,
+        smoothWheelZoom: true,
+        zoomAnimation: true,
+        zoomSnap: 0.1,
+        layers: [basemapLayers[0][1]]
+      }).setView(centerLatLng, zoom);
+
+      // Basemap picker
+      const layerControlRef = { value: null };
+      if (basemapLayers.length > 1) {
+        ensureLayerControl(map, layerControlRef, Object.fromEntries(basemapLayers));
+      }
+
+      // Coords display
+      function updateCoordsDisplay() {
+        const c = map.getCenter();
+        const z = map.getZoom();
+        const text = `${c.lat.toFixed(5)},${c.lng.toFixed(5)},${z}`;
+        coordsEl.textContent = text;
+        return text;
+      }
+      updateCoordsDisplay();
+
+      coordsEl.addEventListener("click", async () => {
+        const text = coordsEl.textContent || "";
+        const [lat, lng] = text.split(",").map(s => s.trim());
+        const toCopy = (lat && lng) ? `${lat},${lng}` : text;
+        try { await navigator.clipboard?.writeText(toCopy); } catch { }
+      });
+
+      map.on("movestart", () => { mapEl.style.cursor = "move"; });
+      map.on("moveend", () => {
+        mapEl.style.cursor = "pointer";
+        updateCoordsDisplay();
+      });
+
+      map.on("click", async () => {
+        const c = map.getCenter();
+        const toCopy = `${c.lat.toFixed(5)},${c.lng.toFixed(5)}`;
+        try { await navigator.clipboard?.writeText(toCopy); } catch { }
+      });
+
+      // FlyTo messages
+      setupFlyToMessaging({ map, getEntity });
+
+      // Layer defs
+      const layerDefs = [];
+
+      if (typeof props.markers === "string" && props.markers.trim()) {
+        for (const markerStr of props.markers.split("|")) {
+          const def = parseMarkerDef(markerStr);
+          if (def) layerDefs.push(def);
         }
       }
 
-    })
+      layerDefs.push(...parseGeoJsonDefs(props.geojson));
 
+      const allmapsDef = parseAllmapsDef(props.allmaps);
+      if (allmapsDef) layerDefs.push(allmapsDef);
+
+      const normalizedDefs = await normalizeLayerDefs(layerDefs, { entities });
+
+      await addLayers(map, normalizedDefs, { getEntity, props, layerControlRef });
+
+      // Done
+      mainEl.style.visibility = "visible";
+    }
+
+    async function addLayers(map, layerDefs, { getEntity, props, layerControlRef }) {
+      if (!layerDefs.length) return;
+
+      const markersByLayer = new Map();
+      const geoJsonOverlays = [];
+      const warpedMapLayers = [];
+
+      for (const def of layerDefs) {
+        try {
+          if (def.type === "marker") {
+            const layerName = def.layer || "locations";
+            if (!markersByLayer.has(layerName)) markersByLayer.set(layerName, []);
+            markersByLayer.get(layerName).push(def);
+            continue;
+          }
+
+          if (def.type === "geojson" && def.url) {
+            geoJsonOverlays.push(def);
+            continue;
+          }
+
+          if (def.type === "warped-map" && def.allmaps) {
+            const annotationURL = await resolveAllmapsAnnotationUrl(def.allmaps);
+
+            // IMPORTANT: store annotationURL and create layer on-demand
+            warpedMapLayers.push({
+              name: safeDecodeURIComponent(def.name || "Allmaps"),
+              annotationURL,
+              layer: null,
+              opacity: def.opacity ?? 100,
+              disabled: Boolean(def.disabled)
+            });
+          }
+        } catch (err) {
+          console.error("Layer init error:", def, err);
+        }
+      }
+
+      // Markers
+      for (const [layerName, markers] of markersByLayer.entries()) {
+        const fc = toGeoJSON(markers);
+        const layer = toGeoJSONLayer(fc, { getEntity, popupOnHover: !!props.popupOnHover });
+        addOverlayToControl(map, layerControlRef, layer, layerName);
+        map.addLayer(layer);
+      }
+
+      // GeoJSON overlays
+      const geojsonTasks = geoJsonOverlays.map(async (def) => {
+        try {
+          const url = def.url;
+          const data = await fetchJson(url, { timeoutMs: 15000 });
+          const layer = toGeoJSONLayer(data, { getEntity, popupOnHover: !!props.popupOnHover });
+
+          const defaultName = (() => {
+            const tail = url.split("/").pop() || "GeoJSON";
+            const base = tail.split(".").shift() || tail;
+            return base.replace(/[_-]/g, " ").replace(/^./, c => c.toUpperCase());
+          })();
+
+          addOverlayToControl(map, layerControlRef, layer, def.layerName || def.label || defaultName);
+          map.addLayer(layer);
+        } catch (err) {
+          console.error("GeoJSON load failed:", def, err);
+        }
+      });
+      await Promise.allSettled(geojsonTasks);
+
+      // Warped maps
+      if (warpedMapLayers.length) {
+        for (const wm of warpedMapLayers) {
+          wm.opacity = clampNumber(wm.opacity ?? 100, 0, 100);
+          if (!wm.disabled) ensureWarpedLayer(map, wm);
+        }
+        addWarpedLayersControl(map, warpedMapLayers, { position: "topright" });
+      }
+    }
+
+    // ------------------------------ start ------------------------------
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", () => init().catch(err => console.error(err)));
+    } else {
+      init().catch(err => console.error(err));
+    }
   </script>
 </body>
 
