@@ -111,22 +111,8 @@
       /* inherit text colour automatically */
     }
 
-    /*
-    body { height:100dvh; margin: 0; padding: 0; font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; animation: fadeInOpacity ease 1s; background-color: white; }    
-    main { height: 100%; display: flex; flex-direction: column; width: 100%; visibility: hidden; } 
-    figure { display: grid; grid-template-rows: 1fr auto; height: 100%; margin: 0; }
-    #content { position:relative; flex: 1; width: 100%; z-index: 2;}
-    figcaption { display: inline-flex; align-items: center; gap: 0.4em; line-height: 1.2; }
-    figcaption svg { width: 1em; height: 1em; flex: none; fill: currentColor; cursor: pointer; }
-    #map { width:100%; height:100%; cursor:pointer; }
-    */
-
     sl-tab::part(base) {
       padding: 0.5em 1em;
-    }
-
-    sl-tab-panel::part(base) {
-      padding: 0.5em;
     }
 
     pre {
@@ -276,12 +262,6 @@
 
     import './leaflet-opacity.js'
     import './turf.min.js'
-
-    // import any needed Shoelace components (https://shoelace.style/)
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/button/button.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab/tab.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-group/tab-group.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-panel/tab-panel.js';
 
     let imageServiceUrl = 'https://d1co2zgwaj21sl.cloudfront.net/image';
 
@@ -550,6 +530,7 @@
         basemap: 'OpenStreetMap',
         caption: null,
         center: '51.505,-0.09',
+        geojson: null,
         gestureHandling: true,
         markers: null,
         popupOnHover: false,
@@ -648,6 +629,11 @@
         }
       }
     }) : []
+
+    props.geojson?.split('|').forEach(geojson => {
+      let [url, layerName] = geojson.split('~');
+      layerDefs.push({ type: 'geojson', url, layerName })
+    })
 
     if (props.allmaps) {
       let [allmaps, name] = props.allmaps.split('|');
