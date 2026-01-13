@@ -10,7 +10,8 @@ image:
 layout: post
 permalink: /music/19c-charles-dobson-biography/
 published: true
-toc: false    
+toc: false
+pin: true
 ---
 
 

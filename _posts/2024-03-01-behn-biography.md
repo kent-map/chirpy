@@ -10,7 +10,8 @@ image:
 layout: post
 permalink: /17c/behn-biography/
 published: true
-toc: false    
+toc: false
+pin: true
 ---
 
 
