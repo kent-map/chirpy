@@ -62,6 +62,17 @@ aside#panel-wrapper {
     }
 }
 
+@media (max-width: 768px) {
+
+    /* mobile devices */
+    .right,
+    .left {
+        width: 100%;
+        float: unset;
+        margin: 0 0 1rem 0;
+    }
+}
+
 /* Caption styling */
 .content a.popup+em,
 .embed-video+em,
