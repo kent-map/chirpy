@@ -35,19 +35,23 @@
       margin-top: 0.25rem;
       padding: 0 36px;
       /* reserve space so the right icon doesn’t overlap text */
-      font-size: 0.8em;
+      font-size: 1em;
       line-height: 1.4;
       color: #6d6c6c;
       background: transparent;
+      min-height: 24px;
     }
 
     /* Caption text: single line, ellipsis, centered */
     #caption-text {
       display: block;
       text-align: center;
+      /*
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      */
+      line-height: 1.2;
     }
 
     /* Right-side expand button */
@@ -268,6 +272,7 @@
     const cfg = {
       src: params.get("src"),
       caption: params.get("caption"),
+      attribution: params.get("caption"),
       cover: params.get("cover") === "1",
       region: params.get("region"),   // "full" | "x,y,w,h" | "pct:x,y,w,h"
       rotate: params.get("rotate"),   // "0" | "90" | "!90"
@@ -278,6 +283,8 @@
       showMsg(`Missing <code>?src=</code> parameter.`);
       throw new Error("Missing src");
     }
+
+    setContainerHeight();
 
     // =========================================================================
     // Small utilities
@@ -392,6 +399,57 @@
 
       return new OpenSeadragon.Rect(x, y, rw, rh);
     }
+
+    function parseAspectRatio(value) {
+      if (!value) return null;
+
+      const v = value.trim();
+
+      // form: "w / h" or "w/h"
+      const slash = v.split("/");
+      if (slash.length === 2) {
+        const w = parseFloat(slash[0]);
+        const h = parseFloat(slash[1]);
+        if (Number.isFinite(w) && Number.isFinite(h) && h !== 0) {
+          return w / h;
+        }
+        return null;
+      }
+
+      // form: "1.7778"
+      const n = parseFloat(v);
+      return Number.isFinite(n) ? n : null;
+    }
+
+    function setContainerHeight(imageAspectRatio) {
+      const iframe = window.frameElement;
+      const caption = document.getElementById('caption')
+      let width = document.getElementById('osd').clientWidth;
+      if (width) {
+        if (!imageAspectRatio) {
+          const raw = iframe?.style.getPropertyValue("aspect-ratio");
+          imageAspectRatio = parseAspectRatio(raw);
+        }
+        if (imageAspectRatio) {
+          let captionHeight = caption.clientHeight || parseInt(caption?.style.height?.slice(0, -2)) || 24
+          let containerHeight = width / imageAspectRatio + captionHeight
+          console.log(`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
+          iframe.style.height = `${containerHeight}px`
+        }
+      }
+
+      /*
+      let osdWidth = document.getElementById('osd').clientWidth
+      let captionHeight = document.getElementById('caption').clientHeight || 24
+      let containerHeight = osdWidth / imageAspectRatio + captionHeight
+
+      console.log(`imageAspectRatio=${imageAspectRatio} width=${osdWidth} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
+
+      window.parent.postMessage({ type: "embedImageResize", containerHeight }, "*");
+      setTimeout(() => viewer.viewport.goHome(), 1000)
+      */
+    }
+
 
     // =========================================================================
     // Tooltip: aspect ratio of ENTIRE iframe content (#wrap), incl caption row
@@ -927,6 +985,12 @@
 
       imageSize = item.getContentSize();
 
+      setTimeout(() => {
+        let imageAspectRatio = imageSize.w / imageSize.h;
+        setContainerHeight(imageAspectRatio);
+        viewer.viewport.goHome(true)
+      }, 100);
+
       // Apply clip (IIIF-like)
       const clip = parseRegion(cfg.region, imageSize.x, imageSize.y);
       if (clip) item.setClip(clip);
@@ -980,6 +1044,7 @@
       setInterval(updateIframeAspectTip, 750);
     }
     updateIframeAspectTip();
+
   </script>
 </body>
 

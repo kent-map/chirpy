@@ -352,7 +352,7 @@ def wc_title_to_url(title: str, width: int = 100) -> str:
     return url
 
 
-def get_image_aspect_ratio(url: str, timeout: int = 10) -> float:
+def get_image_aspect_ratio(url: str, timeout: int = 10, refresh: bool = False) -> float:
     """
     Fetch image and calculate aspect ratio (width/height).
     
@@ -363,8 +363,10 @@ def get_image_aspect_ratio(url: str, timeout: int = 10) -> float:
         if url.startswith('wc:'):
             url = wc_title_to_url(url.replace('wc:', ''))
         
+        if 'wikimedia.org' in url and '/thumb/' in url:
+            url = url.replace('/thumb/','/').rsplit('/', 1)[0]
         with shelve.open(str(CACHE_PATH)) as cache:
-            if url in cache:
+            if url in cache and not refresh:
                 return cache[url]
 
             resp = requests.get(url, timeout=timeout, headers={'User-Agent': 'Mozilla/5.0'})
@@ -663,6 +665,7 @@ def convert_ve_entity_tags(md: str) -> str:
 
     return "\n\n".join(blocks)
 
+image_attrs = {}
 
 def convert_params(md: str) -> str:
     """
@@ -679,21 +682,32 @@ def convert_params(md: str) -> str:
     
     def transform_image(attrs: Dict[str, str]) -> str:
         """Transform ve-image params to markdown image with caption."""
+        attribution = ''
         caption = ''
         src = ''
         
         for key, value in attrs.items():
+            if key not in image_attrs: 
+                image_attrs[key] = 0
+            image_attrs[key] = image_attrs[key] + 1
             if key in ['manifest', 'src', 'url']:
                 src = value
             elif key in ['caption', 'label', 'title']:
                 caption = value
+            elif key in ['attribution',]:
+                attribution = value
         
-        # return f'\n![{caption}]({src})\n_{caption}_\n{{: .right}}'
-    
-        tag = f'\n{{% include embed/image.html src="{src}"'
+        aspect_ratio = get_image_aspect_ratio(src)
+
+        if 'wikimedia.org' in src:
+            src = 'wc:' + re.sub(r'^\d+px-', '', src.split('/')[-1].split('File:')[-1])
+
+        tag = f'\n{{% include embed/image.html src="{src}" aspect="{aspect_ratio}"'
         if caption:
             tag += f' caption="{caption}"'
-
+        if attribution:
+            tag += f' attribution="{attribution}"'
+        
         tag += ' %}{: .right}\n'
         
         return tag
@@ -728,7 +742,7 @@ def convert_params(md: str) -> str:
         allmaps_id = attrs.get('allmaps-id', '')
         title = attrs.get('label') or attrs.get('title', '')
         allmaps_fragment = f'allmaps="{allmaps_id}'
-        if title: allmaps_fragment += f'|{title}'
+        if title: allmaps_fragment += f'~{title}'
         allmaps_fragment += '"'
 
     def transform(match) -> str:
@@ -757,7 +771,6 @@ def convert_params(md: str) -> str:
         if 've-image' in attrs:
             return transform_image(attrs)
         if 've-map' in attrs:
-            print(allmaps_fragment)
             return transform_map(attrs)
         
         # Return unchanged if no handler
@@ -765,7 +778,10 @@ def convert_params(md: str) -> str:
 
     # Match all param tags
     regex = re.compile(r'^[ \t]*<param\s+(.+?)>[ \t]*$', re.DOTALL | re.MULTILINE)
-    return regex.sub(transform, md)
+    md = regex.sub(transform, md)
+    
+    return md
+
 
 
 def clean(text: str) -> str:
@@ -957,11 +973,15 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
     
         if max and ctr >= max:
             break
+        
+    # print('image attrs', json.dumps(image_attrs, indent=2))
     
     # Print tag statistics
+    '''
     print("\nTag usage statistics:")
     for t in sorted(all_tags.keys()):
         print(f'  "{t}": {all_tags[t]}')
+    '''
 
 
 # ============================================================================

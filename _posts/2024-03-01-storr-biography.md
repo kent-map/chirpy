@@ -4,7 +4,7 @@ description: "Jacquie Stamp introduces the work of Kent father and son poets and
 author: Jacquie Stamp
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Culture & society ]
+tags: [ Authors & lives, Texts & genres, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -17,9 +17,8 @@ toc: false
 <!-- Global Entities -->
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
 
-**Place**: Brenchley, near Tunbridge Wells.       
+**Place**: [Brenchley](Q2197855), near Tunbridge Wells.       
 
 _My first is yourself, gentle reader,   
 My second the name of a goat,   
@@ -30,28 +29,22 @@ My whole will be speedily found._
 
 ‘Conundrums’ - _Anthology of verses and other miscellaneous writings_, 1861. (The ‘Enigma’ answer which was resolved with the aid of handwritten notations in text is ‘Unanimous’).
 
-![Lych gate, All Saints, Brenchley, Kent](https://upload.wikimedia.org/wikipedia/commons/4/4b/Lych_gate%2C_All_Saints%2C_Brenchley._-_geograph.org.uk_-_768719.jpg)
-_Lych gate, All Saints, Brenchley, Kent_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Lych_gate%2C_All_Saints%2C_Brenchley._-_geograph.org.uk_-_768719.jpg" caption="Lych gate, All Saints, Brenchley, Kent|Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}
 
-{% include embed/map.html center="Q2197855" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q2197855" zoom="12" markers="Q2197855" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
 Revd Francis Storr (1808-1888) senior was vicar of All Saints’ church Brenchley in Kent from c.1854 until his death in 1888, assisted by his son, Revd Charles Storr, from 1876. He married (1) Caroline Storr, née Holland, 1814-1856; (2) Cecilia Grantham Storr, 1816-1896 (widow of Storr’s predecessor as the incumbent of All Saint’s, Brenchley and remembered on her gravestone as ‘wife of Richard Davis’). He had 5 sons, 3 daughters, 3 step-sons and 1 step-daughter. Francis Storr (1839-1919) junior was an author, biographer and translator who married Rose Storr, née Lloyd, in 1872 (Their daughter was Erica Violet Lindsay, née Storr, 1877-1962). Francis Storr junior graduated from Cambridge in 1860/61 and became well-known for his translations of the classics and his articles for the _Dictionary of National Biography_ and _Encyclopaedia Britannica_. 
 Together father and son wrote anthologies of poetry.
 
-![All Saints, Brenchley, Kent](https://upload.wikimedia.org/wikipedia/commons/5/58/All_Saints%2C_Brenchley%2C_Kent_-_geograph.org.uk_-_323900.jpg)
-_All Saints, Brenchley, Kent_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/5/58/All_Saints%2C_Brenchley%2C_Kent_-_geograph.org.uk_-_323900.jpg" caption="All Saints, Brenchley, Kent|John Salmon" %}{: .right}
 
-{% include embed/map.html center="Q2197855" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q2197855" zoom="12" markers="Q2197855" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’, which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
+_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’, which tells the story of the Battle of [Aylesford](Q793057), in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
 
-![Aylesford, Kent](https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg)
-_Aylesford, Kent_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg" caption="Aylesford, Kent|Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons" %}{: .right}
 
-{% include embed/map.html center="Q793057" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q793057" zoom="12" markers="Q793057" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’. 
 
@@ -64,11 +57,9 @@ Be found the flames supplying.’_ (p3)
 
 ’Conundrums’, on page 24, asserts that its answers will be ‘in our next’, but it seems that no ‘next’ was ever produced. This indicates again a project pursued purely for amusement - like the sports ‘on the field in front of the Vicarage’, which ‘presented a very gay scene’ and provided ‘a great deal of harmless fun.’  
 
-![The Old Vicarage, Brenchley](https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Old_Vicarage%2C_Brenchley_-_geograph.org.uk_-_1467749.jpg)
-_The Old Vicarage, Brenchley_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Old_Vicarage%2C_Brenchley_-_geograph.org.uk_-_1467749.jpg" caption="The Old Vicarage, Brenchley|Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}
 
-{% include embed/map.html center="Q2197855" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q2197855" zoom="12" markers="Q2197855" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
 ‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was completely acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:   
 
@@ -78,17 +69,13 @@ Or on the cheerless winter’s night,
 In fancy’s eye we fiercely fight   
 Our battle o’er again!_  
 
-![Centre of Brenchley](https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg)
-_Centre of Brenchley_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Centre_of_Brenchley_-_geograph.org.uk_-_2515080.jpg" caption="Centre of Brenchley|by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}
 
-{% include embed/map.html center="Q2197855" zoom="12" marker="true" %}{: .right}
+{% include embed/map.html center="Q2197855" zoom="12" markers="Q2197855" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
 A handwritten note inside the scanned volume indicates that the ‘little selection of unpublished poems’ was given to Rev. Francis John Stainforth, an Anglican clergyman who ‘owned the largest private library of Anglophone women’s writing collected during the mid-nineteenth century’ in thanks for “the great trouble [he had] been to’ regarding some tickets. The note is signed by J. Knight Jennings and sent from 36 Harrington Square, London on 11 June 1861.[^ref2]
 
-![Churchyard Yews, Brenchley](https://upload.wikimedia.org/wikipedia/commons/2/20/Churchyard_yews%2C_Brenchley.JPG)
-_Churchyard Yews, Brenchley_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/2/20/Churchyard_yews%2C_Brenchley.JPG" caption="Churchyard Yews, Brenchley|Poliphilo, CC0, via Wikimedia Commons" %}{: .right}
 
 ### Bibliography
 
@@ -100,9 +87,7 @@ Storr, Francis et al. _Minnows of Brenchley Brook_, London, Richard Barrett, 186
 UK Census, 1861. [Online:](https://ancestry.co.uk) accessed 18/02/21      
 Wikitree Genealogy website. [Online:](https://www.wikitree.com/wiki/Storr-213) accessed 16/02/21.    
 
-![All Saint's Church, Brenchley](https://upload.wikimedia.org/wikipedia/commons/2/2e/All_Saint%27s_Church%2C_Brenchley_-_geograph.org.uk_-_1274895.jpg)
-_All Saint's Church, Brenchley_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/2/2e/All_Saint%27s_Church%2C_Brenchley_-_geograph.org.uk_-_1274895.jpg" caption="All Saint's Church, Brenchley|Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}
 
 ### References
 

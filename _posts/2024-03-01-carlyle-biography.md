@@ -1,10 +1,10 @@
 ---
 title: "Jane Welsh Carlyle (1801–1866) and Geraldine Jewsbury (1812-1880)"
-description: "This essay traces Jane Welsh Carlyle and Geraldine Jewsbury’s 1861 stay in Ramsgate through Carlyle’s lively letters, focusing on seaside lodging, noise, smells, and the promise of restorative sea air. It also notes Jewsbury’s later move to Sevenoaks, linking personal friendship and literary networks to specific Kent places."
+description: "This essay reconstructs Jane Welsh Carlyle’s 1861 seaside stay in Ramsgate with her friend Geraldine Jewsbury through Carlyle’s vivid letters, focusing on sound, smell, lodging, and the search for rest. It links their relationship and literary networks to specific Kent places including Ramsgate, Broadstairs, and Sevenoaks."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Literary places, Culture & society ]
+tags: [ Authors & lives, Literary places, Coast & sea, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg"
 layout: post
@@ -18,9 +18,7 @@ toc: false
 
 _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’s, 21, Wellington Crescent, East Cliff, Ramsgate._
 
-![Ramsgate Sands, 1861](https://upload.wikimedia.org/wikipedia/commons/3/3e/Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg)
-_Ramsgate Sands, 1861_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg" caption="Ramsgate Sands, 1861|Arthur Boyd Houghton, Public domain, via Wikimedia Commons" %}{: .right}
 
 Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate](/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 
@@ -28,23 +26,17 @@ Jane, who was an inveterate letter writer, wrote to her husband on her arrival, 
 
 ‘With no sensibilities except my own to listen to them with, I can get used (I think) to the not extravagant amount of crowing and barking, and storming with the wind, and even to occasional cat-explosions on the opposite roofs! If I can’t, I can exchange beds with Geraldine; and there I can only have the noise of the sea (considerable!) and the possibilities of occasional carriages passing (I have none to-day but it is Sunday) and ‘rittle-tipping’ of Venetian blinds.’[^ref2]
 
-![Jane Welsh Carlyle, c. 1856](https://upload.wikimedia.org/wikipedia/commons/b/bf/Jane_Welsh_Carlyle%2C_ca._1856.jpg)
-_Jane Welsh Carlyle, c. 1856_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jane_Welsh_Carlyle%2C_ca._1856.jpg" caption="Jane Welsh Carlyle, c. 1856|Mrs. Paulet, Public domain, via Wikimedia Commons" %}{: .right}
 
 Geraldine, with whom Jane had a close but sometimes tempestuous relationship, slept “like a top” whereas Jane was awake half the night 'feeling for bugs, which didn’t come!'[^ref3] In fact, the bug-less white dimity beds were one of the more positive aspects of their stay, as Jane was to discover. 
 
-![Geraldine Jewsbury, 1880](https://upload.wikimedia.org/wikipedia/commons/7/74/Geraldine_Jewsbury.jpg)
-_Geraldine Jewsbury, 1880_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/7/74/Geraldine_Jewsbury.jpg" caption="Geraldine Jewsbury, 1880|Public domain, via Wikimedia Commons" %}{: .right}
 
 Commenting on her hosts, who were 'civil and honest-looking and slow',[^ref4] Jane felt that the accommodation was overpriced, but she was prepared to accept this for the slower pace of life, the food which was ‘very well cooked’ and the promise of rest and recuperation.
 
 However, in a letter, written two days later, her disenchantment with Ramsgate becomes apparent. Although she admired the East Cliff which was 'clean and genteel and airy',[^ref5] she was less impressed with the rest of the town with its 'narrow, steep, confused streets like the worst parts of Brighton. The shops look nasty, the people nasty, the smells are nasty! (spoiled shrimps complicated with cesspool!)'[^ref6]
 
-![East Cliff Promenade](https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4)
-_East Cliff Promenade_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" caption="East Cliff Promenade|Kent Maps Online Collection" %}{: .right}
 
 In addition to the odours, the cacophony of street sounds, drove Jane to distraction: 
 
@@ -52,9 +44,7 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
 
-![Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs](https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d)
-_Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" caption="Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs|Photo by Astrid Stilma. By permission of Patrick Marrin." %}{: .right}
 
 Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref9] 
 
@@ -62,13 +52,11 @@ On a more positive note, Jane acknowledged that the air was good. She had come t
 
 Geraldine was keen to stay a second week, but Jane felt she had 'better have gone to Scotland than that.'[^ref11]
 
-Jane died in 1966. After her death, Geraldine moved from London to Sevenoaks where she lived at Walnut Tree House, London Road.
+Jane died in 1966. After her death, Geraldine moved from London to [Sevenoaks](Q939838) where she lived at Walnut Tree House, London Road.
 
 This article was published: 6 April 2023.
 
-![Sevenoaks High Street](https://stor.artstor.org/stor/b0104c29-f227-4e1e-b231-3eba2e3ea4dd)
-_Sevenoaks High Street_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/b0104c29-f227-4e1e-b231-3eba2e3ea4dd" caption="Sevenoaks High Street|Kent Maps Collection" %}{: .right}
 
 ### References
 

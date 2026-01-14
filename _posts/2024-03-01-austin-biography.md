@@ -1,10 +1,10 @@
 ---
 title: "Alfred Austin (1835-1913)"
-description: "This essay offers a biographical account of Poet Laureate Alfred Austin and his mixed critical reputation at the end of the nineteenth century. It connects his writing and social networks to Swinford Old Manor near Ashford, highlighting how place, politics, and gardening shaped his legacy."
+description: "This essay profiles Alfred Austin, Poet Laureate from 1896, and explores how his reputation was shaped by contemporary criticism and political controversy. It also considers his prose writing and his life at Swinford Old Manor near Ashford, where his garden became a notable source of literary interest and social connection."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Politics & reform, Countryside & farming ]
+tags: [ Authors & lives, Texts & genres, Literary places, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -14,7 +14,7 @@ toc: false
 ---
 
 
-{% include embed/map.html center="Q26644540" zoom="15" marker="true" %}{: .right}
+{% include embed/map.html center="Q26644540" zoom="15" markers="Q26644540" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}{: .right}
 
 ‘Across the wires the electric message came    
 
@@ -23,9 +23,7 @@ He is no better, he is much the same.’
 Ironically these abominable lines, describing the illness of Edward VII, have proved to be the most enduring legacy of Poet Laureate Alfred Austin. 
 As the successor to Tennyson in 1896, Austin already had a lot on his plate. On his appointment he was described by one periodical as ‘an English gentleman of culture, dignity, and ability’.[^ref1]  But the critic broke down almost immediately afterwards, warning readers that ‘the higher gifts have been denied’[^ref2]  to him and that he had ‘epic hopes and desire with only a lyric gift of very slender substance.’ 
 
-![Alfred Austin](https://upload.wikimedia.org/wikipedia/commons/d/da/Alfred_Austin%2C_by_Barber.jpg)
-_Alfred Austin_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/d/da/Alfred_Austin%2C_by_Barber.jpg" caption="Alfred Austin|From a painting by W. Scott Barber, Public domain, via Wikimedia Commons" %}{: .right}
 
 It was not in poetry but in two prose works that Austin made his ‘nearest approach to literature’.[^ref3] 
 One of these works was _The Garden That I Love_ (1894), in which he describes the garden of Swinford Old Manor, near Ashford, on a:
@@ -34,23 +32,17 @@ One of these works was _The Garden That I Love_ (1894), in which he describes th
 
 Fellow gardening enthusiast [Elizabeth von Arnim](/20c/20c-vonarnim-biography) was so taken with the book that she wrote a fan letter (which she was too embarrassed to send).[^ref5]  She later described the garden as the loveliest she had ever seen.[^ref6]  
 
-![Swinford Manor](https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc)
-_Swinford Manor_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc" caption="Swinford Manor|Kent Maps Online" %}{: .right}
 
 Austin and his wife had lived here since their marriage in 1867, entertaining guests including John Everett Millais and Wilfred Scawen Blunt as well as sustaining friendships with local Tories such as Aretas Akers-Douglas, later 1st Viscount Chilston. But not everyone was delighted by the poet’s presence among them or by his political stance. The _Thanet Advertiser_ took him to task for his description of Gladstone as a ‘verbose poltroon’ at a local meeting, predicting that the minister would be revered by thousands who failed to remember ‘the wild poet’.[^ref7]  
 
-![Mrs Alfred Austin](https://upload.wikimedia.org/wikipedia/commons/3/35/Mrs._Alfred_Austin.jpg)
-_Mrs Alfred Austin_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/3/35/Mrs._Alfred_Austin.jpg" caption="Mrs Alfred Austin|From a photograph by Langfier, Public domain, via Wikimedia Commons" %}{: .right}
 
 In February 1896 the paper offered a prize ‘to the reader who will send the best reason for appointing Mr Alfred Austin to the office of Poet Laureate’, a feat it considered the more difficult because ‘A poet ought to be able to write poetry, and poetry is not necessarily all drivel.’[^ref8]  
 
 Poignantly at his death Austin’s own library was found to include works by much greater authors, including [Dickens](/dickens), [Christina Rossetti](/19c/19c-rossetti-biography) and Tennyson.
 
-![Alfred Austin on Paddy](https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Austin_on_Paddy.jpg)
-_Alfred Austin on Paddy_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/1/14/Alfred_Austin_on_Paddy.jpg" caption="Alfred Austin on Paddy|Alfred Austin, 1911. The Autobiography of Alfred Austin, Poet Laureate, 1835-1910. Volume 2. London: Macmillan. p. 194." %}{: .right}
 
 ### Bibliography 
 

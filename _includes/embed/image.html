@@ -11,6 +11,10 @@
 {%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
 {%- endif -%}
 
+{%- if include.attribution -%}
+{%- assign qs = qs | append: "&attribution=" | append: include.attribution | uri_escape -%}
+{%- endif -%}
+
 {%- comment -%} Strict boolean parsing for cover {%- endcomment -%}
 {%- assign cover_val = include.cover | downcase | strip -%}
 {%- if cover_val == "true" or cover_val == "1" or cover_val == "yes" or cover_val == "on" -%}

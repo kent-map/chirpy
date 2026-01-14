@@ -1,10 +1,10 @@
 ---
 title: "Reginald Koettlitz FRCS, MRCS Eng., LRCP Edin (1860-1916)"
-description: "This essay traces the life of Dr Reginald Koettlitz, a Dover-educated physician who became ship’s surgeon on the Jackson-Harmsworth Arctic expedition and later Chief of Scientific Staff on Scott’s Discovery Antarctic expedition. It connects his global scientific work and expedition records to local sites of memory in Dover, including the polar bear at Dover Museum and commemorations at Dover College."
+description: "This essay traces the life of Dr Reginald Koettlitz (1860-1916), a Dover-raised physician and polar explorer who served on major Arctic and Antarctic expeditions. It follows his medical and scientific work, his local legacy in Dover through museum collections and commemorations, and the way personal records can complicate official expedition narratives."
 author: Dr Jacquie Stamp
 date: 2024-04-18
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Coast & sea, Heritage & memory ]
+tags: [ Authors & lives, Towns & cities, Science & ideas, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg"
 layout: post
@@ -15,47 +15,33 @@ toc: false
 
 Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover](/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.[^ref1]  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on [Dover](Q179224)’s London Road, before being donated to the museum in the 1950s. 
 
-![Polar Bear, Dover Museum](https://stor.artstor.org/stor/6c9c8e14-a294-48f8-84e8-fca3236b6ad8)
-_Polar Bear, Dover Museum_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/6c9c8e14-a294-48f8-84e8-fca3236b6ad8" caption="Polar Bear, Dover Museum|Jacquie Stamp" %}{: .right}
 
 Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz[^ref2]  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]( /19c/19c-dover/) within a few weeks of Reginald’s birth.
 
-![Street Scene, Dover](https://upload.wikimedia.org/wikipedia/commons/a/a0/Street_Scene%2C_Dover_%284052820752%29.jpg)
-_Street Scene, Dover_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Street_Scene%2C_Dover_%284052820752%29.jpg" caption="Street Scene, Dover|Llyfrgell Genedlaethol Cymru/The National Library of Wales from Wales/Cymru, Public domain, via Wikimedia Commons" %}{: .right}
 
 Koettlitz was educated at Dover College before going on to study medicine, first at Guys’ Hospital in London and then at the Royal College of Physicians in Edinburgh. His first nine years as a qualified doctor of medicine were spent in the coalfields of Durham, but in 1894 he embarked on a medical and scientific career that would take him around the world, and to both its polar regions. 
 
-![Dover College Postcard](https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg)
-_Dover College Postcard_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg" caption="Dover College Postcard|Ebay, Public domain, via Wikimedia Commons" %}{: .right}
 
 His first voyage was as Ship’s Surgeon and Medical Officer on the 1894-1897 Jackson-Harmsworth expedition to the Arctic. This was led by explorer Frederick George Jackson and funded by newspaper magnate and innovator of the popular press, [Alfred Harmsworth]( /19c/19c-northcliffe-biography/). To qualify for a place on the expedition, Koettlitz had to obtain British citizenship, which he did with just days to spare before departure. It was from this expedition that Koettlitz returned with the polar bear now displayed in Dover Museum. 
 
-![A.C. Harmsworth and dog](https://upload.wikimedia.org/wikipedia/commons/2/22/A.C._Harmsworth_and_dog.jpg)
-_A.C. Harmsworth and dog_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/2/22/A.C._Harmsworth_and_dog.jpg" caption="A.C. Harmsworth and dog|West, Public domain, via Wikimedia Commons" %}{: .right}
 
 A major part of Koettlitz’s role in the Arctic was to keep accurate daily records of the health and welfare of all the men on board the ship, and to report daily on these to Commander Jackson. Such records can provide an interesting counter-narrative to the official voyage narratives published once an expedition was over. On the Jackson-Harmsworth expedition, for example, Koettlitz’s correspondence with Jackson contains many references to his significant concerns about the health of the ship’s Captain, A. Schlosshauser, whose ‘multiple physical and mental incapacities’,[^ref3]  Koettlitz concluded, rendered him ‘totally unfit to withstand the rigours of the Arctic Climate’.[^ref4]  Jackson’s diaries contain copious notes on this topic, yet _A Thousand Days in the Arctic_, the voyage-narrative that he published in 1899, makes no mention of them. Koettlitz’s conscientious monitoring of his crew’s health and welfare on this expedition, however, led him to conclude that eating fresh meat was essential in preventing scurvy, a terrible disease long feared by seafarers. 
 
-![Maps of Franz Josef Land](https://upload.wikimedia.org/wikipedia/commons/c/c0/Map_of_Franz_Josef_Land_showing_journeys_and_discoveries_of_Frederick_G._Jackson%2C_F.R.G.S._-_UvA-BC_OTM_HB-KZL_61_18_38.jpg)
-_Maps of Franz Josef Land_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Map_of_Franz_Josef_Land_showing_journeys_and_discoveries_of_Frederick_G._Jackson%2C_F.R.G.S._-_UvA-BC_OTM_HB-KZL_61_18_38.jpg" caption="Maps of Franz Josef Land|Special Collections of the University of Amsterdam, Public domain, via Wikimedia Commons" %}{: .right}
 
 Returning to [Dover](/19c/19c-dover/) in 1897, Koettlitz submitted substantial reports on his findings to the Royal Geographical Society and gave several lectures locally. He soon, though, received an ‘offer … too tempting to refuse, and [which] … could not be resisted’[^ref5]  to join the explorer Herbert Joseph Weld Blundell on an expedition to Africa and the middle-east. Koettlitz also ‘completed a solo trip up the Amazon’.[^ref6]  His report on this expedition, ’A Journey through Somaliland and Southern Abyssinia to the Shangalla or Berta Country and the Blue Nile, and through Sudan to Egypt’, was published on 1 August 1900 in the _Scottish Geographical Magazine._[^ref7] 
 
 The warmer climes of this expedition must have been a welcome change from his experience in the Arctic, yet within months of returning again to [Dover](/19c/19c-dover/), Koettlitz agreed to join another polar expedition - this time to the southern hemisphere of the globe and the continent of Antarctica. 
 
-![The Discovery](https://stor.artstor.org/stor/41de8bed-ae21-4c40-889e-ebd9585a4b31)
-_The Discovery_
-{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/41de8bed-ae21-4c40-889e-ebd9585a4b31" caption="The Discovery|The Daily Chronicle, 17 June 1901" %}{: .right}
 
 _The Discovery_ expedition was commanded by Robert Falcon Scott, who would later find fame as Scott of the Antarctic. Koettlitz was appointed Chief of Scientific Staff. At 40 years of age, he was the oldest member of the expedition, and was affectionately known as Cutlets. Also present was Ernest Henry Shackleton, who would later ‘become Scott’s greatest personal rival in Antarctic exploration’,[^ref8]  and whose expertise in ‘handling sails, [was] … essential in Antarctic conditions’.[^ref9]  In his spare time, Shackleton edited the ship’s newspaper, _The South Polar Times_, in which, in 1903 he published a poem by Sub Lieutenant Michael Barne entitled ‘Illustrated Interviews de Reginald Koettlitz’.[^ref10]  In it, Barne mocks Koettlitz for ‘his pedantry and obscurism’,[^ref11]  implying that no one back home in the UK would be interested in his minute scientific observations, but nevertheless acknowledging his conscientious commitment to his work. 
 
-![Officers of the 'Discovery' on the 1901-1904 British Antarctic Expedition](https://upload.wikimedia.org/wikipedia/commons/6/64/ATLNZ_11715.jpeg)
-_Officers of the 'Discovery' on the 1901-1904 British Antarctic Expedition_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/6/64/ATLNZ_11715.jpeg" caption="Officers of the 'Discovery' on the 1901-1904 British Antarctic Expedition|unidentified photographer, via Wikimedia Commons" %}{: .right}
 
 Three geographical features have been named in honour of Dr Reginald Koettlitz: the Ostrov Kotlitsa (Koettlitz Island) in the Arctic’s Franz Josef Land archipelago, and the Koettlitz Glacier and its tributary the Koettlitz Nevé in Antarctica.
 
@@ -63,9 +49,7 @@ Koettlitz had married French-born, Marie Louise Butez shortly before sailing to 
 
 Koettlitz is commemorated by a grave marker, installed at the Cradock Cemetery in 1922, and by a blue plaque installed at the Folkestone Road entrance to Dover College in 2016.
 
-![Koettlitz Glacier](https://upload.wikimedia.org/wikipedia/commons/7/7b/AN-Koettlitz-Glacier.jpg)
-_Koettlitz Glacier_
-{: .right}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/7/7b/AN-Koettlitz-Glacier.jpg" caption="Koettlitz Glacier|United States Geological Survey, Public domain, via Wikimedia Commons" %}{: .right}
 
 ### Bibliography
 

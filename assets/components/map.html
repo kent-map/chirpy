@@ -93,7 +93,7 @@
       flex: 0 0 auto;
       display: flex;
       align-items: center;
-      padding-right: 10px;
+      /* padding-right: 10px; */
     }
 
     .caption-title {
@@ -108,7 +108,7 @@
       border: 0;
       background: transparent;
       color: inherit;
-      padding: 6px 10px;
+      padding: 6px 0 6px 10px;
       margin: 0;
       border-radius: 8px;
       cursor: pointer;
@@ -752,7 +752,7 @@
 
     function parseAllmapsDef(allmapsParam) {
       if (typeof allmapsParam !== "string" || !allmapsParam.trim()) return null;
-      const [id, name] = allmapsParam.split("|");
+      const [id, name] = allmapsParam.split("~");
       if (!id) return null;
       return { type: "warped-map", allmaps: id, name: name || "Allmaps" };
     }

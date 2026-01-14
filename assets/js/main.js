@@ -227,8 +227,8 @@ function wrapAdjacentEmbedsAsTabs({
     minRunLength = 2,
     wrapperClass = "embed-tabs",
     iconFor = (node) => {
-        if (node.tagName === "IFRAME") return "fa-regular fa-map";
-        if (node.tagName === "P" && node.querySelector("img")) return "fa-regular fa-image";
+        if (node.classList.contains('embed-image')) return "fa-regular fa-image";
+        if (node.classList.contains('embed-map')) return "fa-solid fa-map-pin";
         return "fa-solid fa-square";
     },
     labelFor = (node, idx) => {
