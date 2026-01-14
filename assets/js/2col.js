@@ -180,3 +180,6 @@ function init2col() {
 
 console.log(`isMobile=${isMobile}`);
 if (!isMobile) init2col();
+else {
+  document.querySelectorAll('.shimmer').forEach(el => el.classList.remove("shimmer"))
+}
