@@ -352,40 +352,87 @@ def wc_title_to_url(title: str, width: int = 100) -> str:
     return url
 
 
+API = "https://commons.wikimedia.org/w/api.php"
+
+HEADERS = {
+    "User-Agent": "Juncture/-Chirpy/1.0 python-requests"
+}
+
+def _commons_title_from_url(url: str) -> str | None:
+    """
+    Extract 'File:...' title from a Wikimedia Commons image URL.
+    Handles original and /thumb/ URLs.
+    """
+    if "upload.wikimedia.org" not in url:
+        return None
+
+    # Normalize thumb URLs to original path
+    if "/thumb/" in url:
+        url = url.replace("/thumb/", "/").rsplit("/", 1)[0]
+
+    filename = unquote(url.rsplit("/", 1)[-1])
+    return f"File:{filename}"
+
+
+def _get_commons_dimensions(file_title: str, timeout: int) -> tuple[int, int]:
+    params = {
+        "action": "query",
+        "format": "json",
+        "titles": file_title,
+        "prop": "imageinfo",
+        "iiprop": "size",
+    }
+
+    r = requests.get(API, params=params, headers=HEADERS, timeout=timeout)
+    r.raise_for_status()
+    data = r.json()
+
+    page = next(iter(data["query"]["pages"].values()))
+    info = page["imageinfo"][0]
+    return int(info["width"]), int(info["height"])
+
+
 def get_image_aspect_ratio(url: str, timeout: int = 10, refresh: bool = False) -> float:
     """
-    Fetch image and calculate aspect ratio (width/height).
-    
-    Results are cached. Returns 1.0 on error.
+    Calculate image aspect ratio (width / height).
+
+    - Uses Wikimedia Commons API for Commons images (no image download).
+    - Results are cached.
+    - Returns 1.0 on error.
     """
     try:
-        # Handle Wikimedia Commons shortcuts
-        if url.startswith('wc:'):
-            url = wc_title_to_url(url.replace('wc:', ''))
-        
-        if 'wikimedia.org' in url and '/thumb/' in url:
-            url = url.replace('/thumb/','/').rsplit('/', 1)[0]
+        # Handle wc:File:... shortcut
+        if url.startswith("wc:"):
+            file_title = url.replace("wc:", "", 1)
+        else:
+            file_title = _commons_title_from_url(url)
+
+        cache_key = file_title or url
+
         with shelve.open(str(CACHE_PATH)) as cache:
-            if url in cache and not refresh:
-                return cache[url]
+            if cache_key in cache and not refresh:
+                return cache[cache_key]
 
-            resp = requests.get(url, timeout=timeout, headers={'User-Agent': 'Mozilla/5.0'})
-            resp.raise_for_status()
+            if file_title:
+                # Wikimedia Commons path (preferred)
+                width, height = _get_commons_dimensions(file_title, timeout)
+            else:
+                # Non-Wikimedia fallback: download image (rare path)
+                resp = requests.get(url, timeout=timeout, headers=HEADERS)
+                resp.raise_for_status()
+                img = Image.open(BytesIO(resp.content))
+                width, height = img.size
 
-            img = Image.open(BytesIO(resp.content))
-            width, height = img.size
-
-            if width == 0 or height == 0:
+            if width <= 0 or height <= 0:
                 raise ValueError("Invalid image dimensions")
 
-            ratio = width / height
-            cache[url] = ratio
-            return round(ratio, 2)
-            
-    except Exception as e:
-        print(f"Error fetching image from {url}: {e}")
-        return 1.0
+            ratio = round(width / height, 3)
+            cache[cache_key] = ratio
+            return ratio
 
+    except Exception as e:
+        print(f"Error computing aspect ratio for {url}: {e}")
+        return 1.0
 
 # ============================================================================
 # Wikidata Entity Handling
@@ -704,7 +751,7 @@ def convert_params(md: str) -> str:
         if 'wikimedia.org' in src:
             src = 'wc:' + re.sub(r'^\d+px-', '', src.split('/')[-1].split('File:')[-1])
 
-        tag = f'\n{{% include embed/image.html src="{src}" aspect="{aspect_ratio}"'
+        tag = f'\n{{% include embed/image.html src="{src}" aspect="{round(aspect_ratio,3)}"'
         if caption:
             tag += f' caption="{caption}"'
         if attribution and not looks_like_wikimedia:
@@ -920,8 +967,8 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
         # Determine categories and filename
         categories = [src_path[-2]]
         base_fname = src_path[-1]
-        if base_fname.startswith(categories[0]):
-            base_fname = base_fname[len(categories[0]) + 1:]
+        #if base_fname.startswith(categories[0]):
+        #    base_fname = base_fname[len(categories[0]) + 1:]
         
         # Skip test files
         if base_fname.endswith('test'):

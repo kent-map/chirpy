@@ -1,6 +1,6 @@
 ---
 title: "Thomas Goodban (1784-1863)"
-description: "This essay reconstructs the career of Thomas Goodban, a nineteenth-century Canterbury musician, conductor, and music educator, focusing on his work with the Catch Club Orchestra and his subscription concerts. It also examines his innovative published teaching games and tutors, tracing their reception, distribution, and impact on local musical culture."
+description: "This essay profiles Thomas Goodban, a nineteenth-century Canterbury musician, conductor, and music educator who organized subscription concerts and helped shape the city’s musical life. It traces his innovative teaching publications, including a board game and music cards, and situates their reach through local press coverage and London publishing networks."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
@@ -31,7 +31,7 @@ In ev’ry Bar you play.
 
 Some 230 subscribers are listed at the front of the booklet. Most are local, but the list includes music and booksellers as far afield as Marlborough, Stockport, Norwich, Newport, and Hull. Beyond this, it is difficult to tell how much success the venture brought him, though one contemporary periodical recommended it: the Quarterly _Musical Magazine and Review_ devoted over four pages to a – largely complimentary – article about it. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/MusicalCharacters-797x1024.jpg" caption="Goodban’s Game of Musical Characters. Published in 1818|By kind permission of Walter Havighurst Special Collections, Miami University" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/MusicalCharacters-797x1024.jpg" aspect="0.778" caption="Goodban’s Game of Musical Characters. Published in 1818" attribution="By kind permission of Walter Havighurst Special Collections, Miami University" %}{: .right}
 
 The Game had a successor. Much later, in 1845, Goodban produced another game-based method of music instruction: a set of Music Cards. He admits in the Preface that he had made an attempt at this twenty years previously, ‘but becoming perplexed in the formation of the cards so as to make them sufficiently simple for general application, it was then abandoned and the manuscript laid by. A recent discovery of this manuscript has, however, induced [me] to make a fresh attempt.’ The package comprises 4 diagrams, and 48 cards (four sets of twelve) showing notes, rests, and rhythm values, which can be used in various ways in any of the seven games he’s devised. The game was advertised in the local press: 
 
@@ -45,7 +45,7 @@ The advertisement goes on to explain that the pack, in its box, costs 5s. and is
 
 As an author Mr. Goodban was formerly well known to the musical world by his instruction books for the violin and pianoforte, and his ‘Rudiments of Music,’ than which no other works of the kind have ever been more extensively used, for at the time they were published (some forty years since) there were none to equal them in attractiveness, clearness of explanation, and adaptability to the powers of the young. [...] We may also add that for integrity, uprightness of character, and kindliness of disposition, no man was ever held in higher estimation by his fellow citizens and all who knew him than Mr Goodban.[^ref5] 
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Richard_Dadd_-_The_Music_Lesson_or_the_Governess%2C_a_Sketch_-_B1981.25.2575_-_Yale_Center_for_British_Art.jpg" caption="The Music Lesson or the Governess|Richard Dadd, CC0, via Wikimedia Commons, Yale Center for Art" %}{: .right}
+{% include embed/image.html src="wc:Richard_Dadd_-_The_Music_Lesson_or_the_Governess%2C_a_Sketch_-_B1981.25.2575_-_Yale_Center_for_British_Art.jpg" aspect="0.683" caption="The Music Lesson or the Governess" %}{: .right}
 
 There are other nineteenth-century examples of creative attempts at music education in the British Library, but Goodban’s may lay claim to be amongst the most attractive and rigorous examples of such work. 
 
@@ -57,7 +57,7 @@ Thomas Goodban was not the only important character in Canterbury’s musical hi
 
 This article was published: 1 June 2020.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/Thomas_Goodban.jpg" caption="Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music|Canterbury Museums and Galleries" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/Thomas_Goodban.jpg" aspect="0.776" caption="Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music" attribution="Canterbury Museums and Galleries" %}{: .right}
 
 ### Bibliography
 

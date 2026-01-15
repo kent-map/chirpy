@@ -1,10 +1,10 @@
 ---
 title: "The Catch"
-description: "This essay explains the history of the catch and its later companion genre, the English glee, focusing on how these rounds worked musically and how their lyrics could generate double meanings in performance. It situates catches and glees in tavern and club culture and traces their popularity into nineteenth-century amateur music-making, with reference to Canterbury and cathedral-choir networks."
+description: "This essay explains the history and performance practice of the catch and its close relationship to the English glee, from medieval and early modern precedents to its nineteenth-century decline. It focuses on social music-making in taverns and clubs, with Canterbury and cathedral choirs illustrating how local institutions supported skilled singers and musical networks."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ Arts & performance, Culture & society, Towns & cities, Texts & genres ]
+tags: [ Texts & genres, Arts & performance, Culture & society, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
@@ -16,32 +16,32 @@ toc: false
 
 The catch has a long history: ‘Sumer is Icumen In’ dates from the thirteenth century; Shakespeare makes reference to it, and Pepys records singing them socially with friends. Nowadays, we would call such a piece of music a round: in essence, it consists of a single melody, broken up into phrases of equal length (usually three or four), which may be sung not only consecutively, but concurrently. The composer’s skill is then evident, as the underlying harmony becomes audible. In performance, the singers begin the melody in turn, each beginning when the preceding singer reaches the end of the first phrase, and all will simply repeat the melody until, by common consent or musical mishap, all stop. 
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sumerisicumenharleyms.jpg" caption="Sumerisicumenharleyms|MS Harley 978, f. 11v, Unknown author, Public domain, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Sumerisicumenharleyms.jpg" aspect="0.714" caption="Sumerisicumenharleyms" %}{: .right}
 
 But the real delight of the catch is as much textual as musical: in the more salacious examples, a double entendre may only emerge when the voices combine. This is the kind of repertoire which has tainted the reputation of the catch. Most of the blame for the bad press may be laid firmly at the feet of Henry Purcell, but other composers contributed even more dubious specimens of the genre, often with far less musical ingenuity, and so the catch embarked upon the 1700s in very bad odour. For many, nothing changed in that century: in 1795 the composer and cleric William Jackson described them as pieces which ‘when quartered, have three parts obscenity and one part music’.  
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Henry_Purcell.png" caption="Henry Purcell|John Closterman, CC0, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Henry_Purcell.png" aspect="0.66" caption="Henry Purcell" %}{: .right}
 
 One short example will suffice: Luffman Atterbury’s ‘As t’Other Day Susan and Tom Trudg’d Along’, begins as a light-hearted tale of Susan and Tom attempting to sing a song. Tom is less competent than Susan, and keeps losing his place. His entreaties to Sue to help him regain it (‘let me in’) are met with smiling rebuffs, since she doubts his ability, at which point Sam comes along and offers to fill Tom’s role. In case the double-entendre had not become sufficiently clear, Atterbury’s setting reinforces it in bars 7 and 8 by means of the carefully placed pauses in the different voice parts.
 
 The crucial point about the catch is that in performance, all were expected to participate, subsuming the roles of both performer and audience; our very modern tripartite relationship between composer and the other two partners in the transaction does not apply to this repertoire. This is music which, in a very literal sense, was never intended to be listened to. It must have been intensely enervating, as the different lines were bellowed across the crowded room in a kind of competitive polyphony. And this is what Mr Mount meant when he described the fun as ‘fast and furious’ in his account.
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/6/62/A_Catch._Une_Chansonnette_%28BM_1935%2C0522.1.76%29.jpg" caption="A Catch: Une chansonette|After: Robert Dighton. ©The Trustees of the British Museum" %}{: .right}
+{% include embed/image.html src="wc:A_Catch._Une_Chansonnette_%28BM_1935%2C0522.1.76%29.jpg" aspect="0.744" caption="A Catch: Une chansonette" %}{: .right}
 
 The natural home of the catch was the tavern – Toby Belch invites everyone to sing one in _Twelfth Night_. In that environment, it sat cheek by jowl with the glee.
 It is difficult to overstate the popularity of the English glee in the late eighteenth and early nineteenth century. Evidence abounds: in the concert programmes reported not only from [Canterbury](/music/19c-music-canterbury) but from everywhere else in the British Isles; in the sheer volume of publication (one estimate suggests that the 25,000 surviving pieces were matched by an equal number of compositions which never made it into print); contemporary diarists who recorded their music-making; Banquet Cards from civic ceremonies recording not only the gastronomic but the musical fare on offer for the evening; its established place in the choruses within the mongrel form of opera known as English Opera popularised in the late eighteenth and early nineteenth centuries by the likes of James Hook, Henry Rowley Bishop, and William Shield; and in the strenuous efforts to nurture its growth by means of generous prizes awarded by the variously named Catch Clubs, Glee Clubs, Harmonic Societies and other musical assemblies up and down the country. 
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/5/50/Peltro_William_Tomkins_-_Sir_Andrew_Aguecheek%2C_Sir_Toby_Belch_and_the_Clown_-_%22Twelfth_Night%22%2C_Act_II%2C_Scene_III_-_B1976.1.205_-_Yale_Center_for_British_Art.jpg" caption="Twelfth Night|Peltro William Tomkins, CC0, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Peltro_William_Tomkins_-_Sir_Andrew_Aguecheek%2C_Sir_Toby_Belch_and_the_Clown_-_%22Twelfth_Night%22%2C_Act_II%2C_Scene_III_-_B1976.1.205_-_Yale_Center_for_British_Art.jpg" aspect="1.159" caption="Twelfth Night" %}{: .right}
 
 In the end, none of this could ensure the survival of the glee beyond the end of the nineteenth century, though echoes can be heard in some Gilbert and Sullivan choruses and there is one report of a Glee Club behind the lines in World War 1. By then, though, the repertoire is indistinguishable from the choruses and part songs which had become popularised in the volumes of music aimed at the enthusiastic amateur, middle-class, domestic music-making which had grown up alongside the advent of readily available pianos for the home.
 
-{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/e/eb/New_%26_Popular_Song_%26_Dance_Compositions._%28BM_1922%2C0710.660%29.jpg" caption="New and Popular Song and Dance Compositions, between 1859 and 1886|© The Trustees of the British Museum, BM 1922,0710.660" %}{: .right}
+{% include embed/image.html src="wc:New_%26_Popular_Song_%26_Dance_Compositions._%28BM_1922%2C0710.660%29.jpg" aspect="0.726" caption="New and Popular Song and Dance Compositions, between 1859 and 1886" %}{: .right}
 
 In its heyday, the glee was a rather more demanding genre requiring a level of vocal dexterity and musical training not normally associated with amateur music-making. The men who sang the glees at a Catch Club evening were more likely to be professional singers. Fortunately for [Canterbury](/music/19c-music-canterbury) – and for every other cathedral city throughout the land, and for the nearby towns who may also have and a Catch or Glee Club to which these musicians could travel along the rapidly-improving roads of the nineteenth century – there was a ready supply of such talent in the local [cathedral choir](/music/19c-cathedral-singing). 
 
 You can watch this video to find out more [Chris Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury|by William Gostling, 1825. no known copyright restrictions." %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" aspect="1.346" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions." %}{: .right}
 
 ### Bibliography
 
