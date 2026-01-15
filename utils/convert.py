@@ -699,13 +699,15 @@ def convert_params(md: str) -> str:
         
         aspect_ratio = get_image_aspect_ratio(src)
 
+        looks_like_wikimedia = src.startswith('wc:') or 'wikimedia.org' in src
+        
         if 'wikimedia.org' in src:
             src = 'wc:' + re.sub(r'^\d+px-', '', src.split('/')[-1].split('File:')[-1])
 
         tag = f'\n{{% include embed/image.html src="{src}" aspect="{aspect_ratio}"'
         if caption:
             tag += f' caption="{caption}"'
-        if attribution:
+        if attribution and not looks_like_wikimedia:
             tag += f' attribution="{attribution}"'
         
         tag += ' %}{: .right}\n'
