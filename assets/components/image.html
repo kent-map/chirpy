@@ -315,6 +315,107 @@
       return `rgba(${r},${g},${b},${alpha})`;
     }
 
+    /**
+     * Build an HTML caption (for <figcaption>) for a Wikimedia Commons image.
+     *
+     * Rules:
+     * - HTML only.
+     * - If `userCaption` is provided (non-empty), it overrides API description.
+     * - Always add a supplemental line with a link to the Commons file page.
+     * - If attribution is required, add a concise attribution statement too.
+     * - Links open in a new tab/window (target="_blank"), safe rel attrs included.
+     *
+     * Inputs:
+     *   meta: flattened extmetadata + (optionally) width/height/size/mime
+     *   commonsFileTitle: e.g. "File:Monument Valley, Utah, USA.jpg" (from resp.query.pages[...].title)
+     *   userCaption: optional string
+     *
+     * Returns:
+     *   { captionHtml: string, attributionRequired: boolean }
+     */
+    function buildCommonsCaption(meta, commonsFileTitle, userCaption = "") {
+      const asBool = (v) =>
+        typeof v === "boolean"
+          ? v
+          : typeof v === "string"
+            ? v.trim().toLowerCase() === "true"
+            : false;
+
+      const attributionRequired = asBool(meta?.AttributionRequired);
+
+      const escHtml = (s) =>
+        String(s)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#39;");
+
+      const isNonEmpty = (s) => typeof s === "string" && s.trim().length > 0;
+
+      // Description: user caption wins; else fall back to Commons metadata.
+      const description =
+        (isNonEmpty(userCaption) && userCaption.trim()) ||
+        (isNonEmpty(meta?.ImageDescription) && String(meta.ImageDescription).trim()) ||
+        (isNonEmpty(meta?.ObjectName) && String(meta.ObjectName).trim()) ||
+        "Image";
+
+      // Commons file page URL (always included in supplement)
+      const commonsUrl = commonsFileTitle
+        ? `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(commonsFileTitle).replace(/%3A/g, ":")}`
+        : null;
+
+      // Extract plain author name from Artist (often HTML <a>..</a>)
+      const extractInnerText = (html) => {
+        if (!html) return null;
+        const s = String(html);
+        const m = s.match(/<a\b[^>]*>(.*?)<\/a>/i);
+        const raw = m ? m[1] : s;
+        return raw
+          .replace(/&nbsp;/g, " ")
+          .replace(/&amp;/g, "&")
+          .replace(/&quot;/g, '"')
+          .replace(/&#39;/g, "'")
+          .replace(/<[^>]*>/g, "")
+          .trim() || null;
+      };
+
+      const artistName = extractInnerText(meta?.Artist) || "Unknown author";
+      const licenseName =
+        meta?.LicenseShortName || meta?.UsageTerms || meta?.License || "License";
+      const licenseUrl = meta?.LicenseUrl || null;
+
+      const linkAttrs = `target="_blank" rel="noopener noreferrer"`;
+
+      // Supplemental line: always includes Commons source link; adds attribution if required.
+      const supplementParts = [];
+
+      if (commonsUrl) {
+        supplementParts.push(
+          `Source: <a href="${escHtml(commonsUrl)}" ${linkAttrs}>Wikimedia Commons</a>`
+        );
+      } else {
+        // If title wasn't provided, still meet the "always provide supplement" intent,
+        // but without a usable link.
+        supplementParts.push(`Source: Wikimedia Commons`);
+      }
+
+      if (attributionRequired) {
+        // Keep it concise: author + license (linked if possible)
+        const licenseHtml = licenseUrl
+          ? `<a href="${escHtml(licenseUrl)}" target="_blank" rel="license noopener noreferrer">${escHtml(licenseName)}</a>`
+          : escHtml(licenseName);
+
+        supplementParts.push(`© ${escHtml(artistName)} — ${licenseHtml}`);
+      }
+
+      const supplementHtml = `<small>${supplementParts.join(" • ")}</small>`;
+
+      const captionHtml = `${escHtml(description)}<br>${supplementHtml}`;
+
+      return { captionHtml, attributionRequired };
+    }
+
     // Wikimedia thumb URL helper
     function mwImage(mwImg, width) {
       width = width | 0;
@@ -339,12 +440,46 @@
       return url;
     }
 
+    function wcTitleFromUrl(url) {
+      let mwTitle = url.split('/').pop()
+        .replace(/^wc:/, '')
+        .replace(/Special:FilePath\//, 'File:')
+        .split('File:').pop()
+        .replace(/^\d+px-/, '');
+      mwTitle = decodeURIComponent(mwTitle).replace(/ /g, '_');
+      return mwTitle
+    }
+
+    async function getWcMetadata(mwTitle) {
+      let resp = await fetch(`https://commons.wikimedia.org/w/api.php? origin=*&format=json&action=query&titles=File:${encodeURIComponent(mwTitle)}&prop=imageinfo&iiprop=extmetadata|size|mime`, { headers: { 'User-Agent': 'Mozilla/5.0' } })
+      resp = await resp.json()
+      const page = Object.values(resp.query.pages)[0];
+      const info = page.imageinfo[0];
+
+      let metadata = {
+        ...Object.fromEntries(
+          Object.entries(info.extmetadata).map(([key, v]) => [key, v?.value])
+        ),
+        ...Object.fromEntries(
+          Object.entries(info).filter(([key]) =>
+            ["width", "height", "size", "mime"].includes(key)
+          )
+        )
+      };
+      return metadata
+    }
+
     function looksLikeWikimedia(url) {
       return url.startsWith('wc:') || url.includes('wikimedia.org') || url.includes('wikipedia.org');
     }
 
     if (looksLikeWikimedia(cfg.src)) {
       cfg.src = mwImage(cfg.src, cfg.max ? -1 : 1200);
+      let wcTitle = wcTitleFromUrl(cfg.src);
+      let wcMeta = await getWcMetadata(wcTitle);
+
+      const { captionHtml } = buildCommonsCaption(wcMeta, wcTitle, cfg.caption);
+      cfg.caption = captionHtml
     }
 
     function clamp(v, lo, hi) { return Math.max(lo, Math.min(v, hi)); }
@@ -431,7 +566,6 @@
     }
 
     function setContainerHeight(imageAspectRatio) {
-      console.log('setContainerHeight', imageAspectRatio)
       const iframe = window.frameElement;
       const caption = document.getElementById('caption')
       let width = document.getElementById('osd').clientWidth;
@@ -443,21 +577,10 @@
         if (imageAspectRatio) {
           let captionHeight = caption.clientHeight || parseInt(caption?.style.height?.slice(0, -2)) || 24
           let containerHeight = width / imageAspectRatio + captionHeight
-          console.log(`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
+          // console.log(`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
           iframe.style.height = `${containerHeight}px`
         }
       }
-
-      /*
-      let osdWidth = document.getElementById('osd').clientWidth
-      let captionHeight = document.getElementById('caption').clientHeight || 24
-      let containerHeight = osdWidth / imageAspectRatio + captionHeight
-
-      console.log(`imageAspectRatio=${imageAspectRatio} width=${osdWidth} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
-
-      window.parent.postMessage({ type: "embedImageResize", containerHeight }, "*");
-      setTimeout(() => viewer.viewport.goHome(), 1000)
-      */
     }
 
 
@@ -487,7 +610,7 @@
 
     // Caption init
     if (cfg.caption) {
-      els.captionText.textContent = cfg.caption;
+      els.captionText.innerHTML = cfg.caption;
       els.caption.style.display = "block";
       updateIframeAspectTip(); // caption affects wrap height
     }
@@ -1006,7 +1129,7 @@
             els.wrap.classList.add("is-visible");
 
             // 4. Notify parent of final height
-            schedulePostHeight();
+            // schedulePostHeight();
           });
         });
       }, 100);
