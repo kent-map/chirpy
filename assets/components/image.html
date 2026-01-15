@@ -473,7 +473,6 @@
       return url.startsWith('wc:') || url.includes('wikimedia.org') || url.includes('wikipedia.org');
     }
 
-    console.log(cfg.src, looksLikeWikimedia(cfg.src));
 
     if (looksLikeWikimedia(cfg.src)) {
       cfg.src = mwImage(cfg.src, cfg.max ? -1 : 1200);
@@ -481,8 +480,7 @@
       let wcMeta = await getWcMetadata(wcTitle);
 
       const { captionHtml } = buildCommonsCaption(wcMeta, wcTitle, cfg.caption);
-      console.log(captionHtml)
-      cfg.caption = captionHtml
+      cfg.caption = captionHtml;
     }
 
     function clamp(v, lo, hi) { return Math.max(lo, Math.min(v, hi)); }
@@ -580,7 +578,7 @@
         if (imageAspectRatio) {
           let captionHeight = caption.clientHeight || parseInt(caption?.style.height?.slice(0, -2)) || 24
           let containerHeight = width / imageAspectRatio + captionHeight
-          // console.log(`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
+          // (`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
           iframe.style.height = `${containerHeight}px`
         }
       }
@@ -624,6 +622,7 @@
     const viewer = OpenSeadragon({
       id: "osd",
       prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@5.0.1/build/openseadragon/images/",
+      homeFillsViewer: true,
       showNavigationControl: cfg.max,
       showZoomControl: cfg.max,
       showHomeControl: cfg.max,
