@@ -67,7 +67,7 @@
     .caption-action {
       position: absolute;
       right: 0;
-      top: 50%;
+      top: 8px;
       transform: translateY(-50%);
 
       /* big, easy hit target */
@@ -281,7 +281,7 @@
     const cfg = {
       src: params.get("src"),
       caption: params.get("caption"),
-      attribution: params.get("caption"),
+      attribution: params.get("attribution"),
       cover: params.get("cover") === "1",
       region: params.get("region"),   // "full" | "x,y,w,h" | "pct:x,y,w,h"
       rotate: params.get("rotate"),   // "0" | "90" | "!90"
@@ -612,6 +612,7 @@
     // Caption init
     if (cfg.caption) {
       els.captionText.innerHTML = cfg.caption;
+      if (cfg.attribution) els.captionText.innerHTML += `<br><small>${cfg.attribution}</small>`
       els.caption.style.display = "block";
       updateIframeAspectTip(); // caption affects wrap height
     }
