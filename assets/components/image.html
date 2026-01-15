@@ -17,6 +17,15 @@
       margin: 0;
     }
 
+    #wrap {
+      opacity: 0;
+      transition: opacity 250ms ease-in;
+    }
+
+    #wrap.is-visible {
+      opacity: 1;
+    }
+
     /* Figure wrapper (viewer + caption) */
     #wrap {
       height: 100%;
@@ -422,6 +431,7 @@
     }
 
     function setContainerHeight(imageAspectRatio) {
+      console.log('setContainerHeight', imageAspectRatio)
       const iframe = window.frameElement;
       const caption = document.getElementById('caption')
       let width = document.getElementById('osd').clientWidth;
@@ -985,11 +995,23 @@
 
       imageSize = item.getContentSize();
 
+      let imageAspectRatio = imageSize.x / imageSize.y;
+      setContainerHeight(imageAspectRatio);
       setTimeout(() => {
-        let imageAspectRatio = imageSize.w / imageSize.h;
-        setContainerHeight(imageAspectRatio);
-        viewer.viewport.goHome(true)
+        viewer.viewport.goHome(true);
+        requestAnimationFrame(() => {
+          requestAnimationFrame(() => {
+
+            // 3. Fade in the entire figure
+            els.wrap.classList.add("is-visible");
+
+            // 4. Notify parent of final height
+            schedulePostHeight();
+          });
+        });
       }, 100);
+
+
 
       // Apply clip (IIIF-like)
       const clip = parseRegion(cfg.region, imageSize.x, imageSize.y);
