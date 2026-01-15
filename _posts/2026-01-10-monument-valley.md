@@ -18,7 +18,7 @@ pin: true
 
 **Monument Valley**, meaning "valley of the rocks", is a region of the Colorado Plateau characterized by a cluster of sandstone buttes, with the largest reaching 1,000 ft (300 m) above the valley floor.[^1] The most famous butte formations are located in northeastern Arizona along the Utah–Arizona state line. The valley is considered sacred by the [Navajo Nation](Q1783171), the Native American people within whose reservation it lies.[^2]
 
-{% include embed/image.html id="image" src="wc:Monument_Valley,_Utah,_USA.jpg" caption="Monument Valley, UT" cover="true" aspect="1.354" %}{: .right}
+{% include embed/image.html id="image" src="wc:Monument_Valley,_Utah,_USA.jpg" caption="Monument Valley, UT" cover="true" aspect="1.5" %}{: .right}
 
 Major rock formations include [West](image/zoomto/pct:10.94,27.88,21.05,30){: label="West Mitten Butte"} and [East Mitten](image/zoomto/pct:40.59,35.80,21.91,25){: label="East Mitten Butte"}  Buttes, [Merrick Butte](image/zoomto/pct:67.68,34.23,23.22,27), Hunts Mesa, Eagle Mesa, Sentinel Mesa, Brighams Tomb, Castle Rock, Stagecoach, Big Indian, Rain God Mesa, Spearhead Mesa, Mitchell Mesa, Mitchell Butte, Gray Whiskers, Elephant Butte, Camel Butte, Cly Butte, King-on-his-Throne, Rooster Rock, and Setting Hen. Another notable formation is [Totem Pole](Q7828304), a highly eroded butte remanent. The valley also includes large stone structures, such as the "Eye of the Sun". [People](image/zoomto/pct:48.49,66.82,11.31,7.44)
 
@@ -31,7 +31,7 @@ Major rock formations include [West](image/zoomto/pct:10.94,27.88,21.05,30){: la
     id="map"
     center="Q192017"
     zoom="5" 
-    caption="Monument_Valley" 
+    caption="Monument Valley" 
     aspect="1" 
     markers="Q118841~National_Parks|
             Q777183~National_Parks|
