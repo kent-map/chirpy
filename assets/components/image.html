@@ -473,12 +473,15 @@
       return url.startsWith('wc:') || url.includes('wikimedia.org') || url.includes('wikipedia.org');
     }
 
+    console.log(cfg.src, looksLikeWikimedia(cfg.src));
+
     if (looksLikeWikimedia(cfg.src)) {
       cfg.src = mwImage(cfg.src, cfg.max ? -1 : 1200);
       let wcTitle = wcTitleFromUrl(cfg.src);
       let wcMeta = await getWcMetadata(wcTitle);
 
       const { captionHtml } = buildCommonsCaption(wcMeta, wcTitle, cfg.caption);
+      console.log(captionHtml)
       cfg.caption = captionHtml
     }
 
