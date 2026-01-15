@@ -43,7 +43,7 @@ His first Kent address was in St Peter’s, just outside [Broadstairs](Q922739),
 
 {% include embed/map.html center="Q107339017" zoom="13" markers="Q107339017" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-Freeman is rightly noted for his forensic attention to detail, leading [Julian Symons](/20c/20c-symons-biography) to comment that ‘Reading a Freeman story is very much like chewing dry straw.’[^ref1] But he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
+Freeman is rightly noted for his forensic attention to detail, leading [Julian Symons]({{ site.baseurl }}/20c/20c-symons-biography) to comment that ‘Reading a Freeman story is very much like chewing dry straw.’[^ref1] But he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
 _The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin._[^ref2] 
 
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations.
@@ -54,7 +54,7 @@ A number of his subsequent novels and stories, from the 1913 _The Unwilling Adve
 
 {% include embed/map.html center="Q2087380" zoom="13" markers="Q2087380" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, [Gravesend](Q676689). It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
+In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, [Gravesend](Q676689). It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_]({{ site.baseurl }}/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
 
 {% include embed/image.html src="wc:The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" aspect="1.309" caption="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" %}{: .right}
 

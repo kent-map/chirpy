@@ -29,7 +29,7 @@ toc: false
 
 {% include embed/image.html src="https://stor.artstor.org/stor/583b0092-6214-4137-985b-ac9062374c5a" aspect="1.333" caption="The Timber Batts, at Bodsham" attribution="Martin Crowther" %}{: .right}
 
-Bessie Marchant (Bessie Marchant Comfort, Mrs J. A. Comfort, pesud. John Comfort) was born at Debden Court Farm, [Petham](Q2678184), Canterbury on 12 December 1862. She set a number of her earlier novels in the place of her childhood – Kent. Her father, a farmer and of the Baptist faith, helped to set up a [mission chapel in Elmsted](http://www.hastingleigh.com/hast-chapel.html), between [Canterbury](/19c/19c-canterbury) and Ashford, but was forced to move to Petham after retaliation from the landowner of his rented farm. 
+Bessie Marchant (Bessie Marchant Comfort, Mrs J. A. Comfort, pesud. John Comfort) was born at Debden Court Farm, [Petham](Q2678184), Canterbury on 12 December 1862. She set a number of her earlier novels in the place of her childhood – Kent. Her father, a farmer and of the Baptist faith, helped to set up a [mission chapel in Elmsted](http://www.hastingleigh.com/hast-chapel.html), between [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) and Ashford, but was forced to move to Petham after retaliation from the landowner of his rented farm. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/e4695031-8e15-4353-8dda-d963f4faffe2" aspect="1.232" caption="Debden Court Farm, Petham" attribution="Photograph by Alan Major. International Centre for Victorian Women Writers" %}{: .right}
 

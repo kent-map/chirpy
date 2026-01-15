@@ -16,7 +16,7 @@ toc: false
 
 <!-- Historical map layers -->
 
-Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year, she and her four siblings were ‘taken ill at once with a most dreadful fever, and were all very dangerously ill. When we were all recovered in some degree, so as to be able to walk, and were nearly as strong in health, papa and mamma determined to take us to [Broadstairs](/dickens/broadstairs-19th-century), to spend the summer holidays by the seaside.’[^ref1] 
+Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year, she and her four siblings were ‘taken ill at once with a most dreadful fever, and were all very dangerously ill. When we were all recovered in some degree, so as to be able to walk, and were nearly as strong in health, papa and mamma determined to take us to [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), to spend the summer holidays by the seaside.’[^ref1] 
 
 {% include embed/image.html src="wc:Margaret_Emily_Shore_engraving.jpg" aspect="0.689" caption="Margaret Emily Shore engraving, 1838" %}{: .right}
 
@@ -24,7 +24,7 @@ Emily Shore was an observant and precocious diarist. She was born and brought up
 
 {% include embed/map.html center="Q922739" zoom="12" markers="Q922739" allmaps="4478e36824ad9d1a~Greenwood 1829" %}{: .right}
 
-Emily’s first impressions of Thanet were not entirely favourable. On 6 July she writes, ‘The country about [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century), and [Ramsgate](/dickens/19c-ramsgate) is odious. The soil is chalky, scarce a tree is to be seen, and a hill would be a wonder. The cliffs of [chalk](/landscape/kentish-chalk) have not a broken edge anywhere, and are perfectly the same for miles’. But if the countryside was disappointing and the journey ‘very hot, dusty and fatiguing’,  [Broadstairs](/dickens/broadstairs-19th-century) itself offered a more picturesque view and Emily was immediately captivated by the sea, which none of the children had ever seen before, ‘indeed it broke most beautifully on our sight, of the brightest blue, and perfectly calm.’[^ref2]
+Emily’s first impressions of Thanet were not entirely favourable. On 6 July she writes, ‘The country about [Margate]({{ site.baseurl }}/dickens/19c-margate), [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), and [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate) is odious. The soil is chalky, scarce a tree is to be seen, and a hill would be a wonder. The cliffs of [chalk]({{ site.baseurl }}/landscape/kentish-chalk) have not a broken edge anywhere, and are perfectly the same for miles’. But if the countryside was disappointing and the journey ‘very hot, dusty and fatiguing’,  [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) itself offered a more picturesque view and Emily was immediately captivated by the sea, which none of the children had ever seen before, ‘indeed it broke most beautifully on our sight, of the brightest blue, and perfectly calm.’[^ref2]
 
 {% include embed/image.html src="wc:From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" aspect="1.343" caption="From the cliffs, Broadstairs" %}{: .right}
 
@@ -64,7 +64,7 @@ She is equally conscientious about recording the flowers she finds, remarking so
 
 {% include embed/image.html src="wc:RedValerian.jpg" aspect="0.654" caption="Red Valerian" %}{: .right}
 
-Mrs Shore appears not to have shared this fascination with the natural features of [Thanet](Q1752642), her only recorded comment on [Broadstairs](/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
+Mrs Shore appears not to have shared this fascination with the natural features of [Thanet](Q1752642), her only recorded comment on [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" aspect="1.339" caption="Broadstairs" %}{: .right}
 
@@ -72,7 +72,7 @@ Mrs Shore appears not to have shared this fascination with the natural features 
 
 {% include embed/map.html center="Q922739" zoom="12" markers="Q922739" allmaps="4478e36824ad9d1a~Greenwood 1829" %}{: .right}
 
-She may have preferred [Ramsgate](/dickens/19c-ramsgate), described by Emily as ‘a large and rather handsome town, with a noble harbour and a great deal of shipping’[^ref6]  and where they went to see the printing going on at Burgess’s Library. Again Emily gives a long and detailed description of the process, from the wooden compartments containing letters, which she notes ‘are not arranged alphabetically, but according as they are most wanted, to the ‘roller, composed of glue, isinglass, and some other elastic materials’ used to ink the types which are then pressed on to the paper.[^ref7] On her return home Emily expended time and money on pasteboard and paints to make a model of the [Broadstairs](/dickens/broadstairs-19th-century) steam-packet, which she furnished and painted in punctilious detail. 
+She may have preferred [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate), described by Emily as ‘a large and rather handsome town, with a noble harbour and a great deal of shipping’[^ref6]  and where they went to see the printing going on at Burgess’s Library. Again Emily gives a long and detailed description of the process, from the wooden compartments containing letters, which she notes ‘are not arranged alphabetically, but according as they are most wanted, to the ‘roller, composed of glue, isinglass, and some other elastic materials’ used to ink the types which are then pressed on to the paper.[^ref7] On her return home Emily expended time and money on pasteboard and paints to make a model of the [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) steam-packet, which she furnished and painted in punctilious detail. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c7983b3e-e756-442c-81ad-5a75c9941c5f" aspect="1.448" caption="Ramsgate, 1830" %}{: .right}
 
@@ -82,7 +82,7 @@ She may have preferred [Ramsgate](/dickens/19c-ramsgate), described by Emily as 
 
 {% include embed/map.html center="Q922739" zoom="12" markers="Q922739" allmaps="4478e36824ad9d1a~Greenwood 1829" %}{: .right}
 
-It comes as no surprise to find her back in Kent in 1835, eagerly following the work going on in [Chatham Dockyard](/19c/19c-chatham-dockyard), from the hammering of the fluke of an anchor to the steam-engine in the suffocatingly hot saw-room. She comments too on a visit to Cobham Hall and the sentimental story of the widowed heron who ‘used to walk for hours before the windows of the orange-house, looking at itself in the glass.’[^ref9]  But it is the machinery rather than the tame bird that has captured her imagination, and the dockyard that features as ‘perhaps the most interesting and wonderful place I have seen since I left Woodbury’.[^ref9]
+It comes as no surprise to find her back in Kent in 1835, eagerly following the work going on in [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard), from the hammering of the fluke of an anchor to the steam-engine in the suffocatingly hot saw-room. She comments too on a visit to Cobham Hall and the sentimental story of the widowed heron who ‘used to walk for hours before the windows of the orange-house, looking at itself in the glass.’[^ref9]  But it is the machinery rather than the tame bird that has captured her imagination, and the dockyard that features as ‘perhaps the most interesting and wonderful place I have seen since I left Woodbury’.[^ref9]
 
 {% include embed/image.html src="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" aspect="1.526" caption="Chatham Dockyard" %}{: .right}
 

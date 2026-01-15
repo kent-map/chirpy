@@ -39,7 +39,7 @@ Rochester has had many illustrious visitors. Henry VIII met Ann of Cleves in the
 
 {% include embed/image.html src="wc:Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg" aspect="1.564" caption="Rochester Cathedral and Castle" %}{: .right}
 
-The dramatist and courtier, [John Lyly](/16c/16c-lyly-biography), may have been born in Rochester c. check date 155 and set his 'realistic' comedy 'Mother Bombie' in the town.
+The dramatist and courtier, [John Lyly]({{ site.baseurl }}/16c/16c-lyly-biography), may have been born in Rochester c. check date 155 and set his 'realistic' comedy 'Mother Bombie' in the town.
 
 James Temple who was convicted of the regicide of Charles I was born in Rochester in 1606.
 
@@ -47,25 +47,25 @@ Samuel Pepys, the diarist, was appointed the Clerk of the Acts of the Navy Board
 
 {% include embed/map.html center="Q26377461" zoom="10" markers="Q26377461" allmaps="4f72c8eb5fe1eba5~Mackenzie 1900" %}{: .right}
 
-Sarah Dixon who wrote _Poems on Several Occasions_ was baptised in Rochester, in 1671. [Elizabeth Carter](/18c/18c-carter-biography) was one of the subscribers to her collection.
+Sarah Dixon who wrote _Poems on Several Occasions_ was baptised in Rochester, in 1671. [Elizabeth Carter]({{ site.baseurl }}/18c/18c-carter-biography) was one of the subscribers to her collection.
 
-Chemist, Dr [Robert Plot](/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
+Chemist, Dr [Robert Plot]({{ site.baseurl }}/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
 
 {% include embed/image.html src="https://github.com/kent-map/images/blob/main/maps/Dickens_Rochester_Chatham.jpg" aspect="1.0" %}{: .right}
 
-Friend and mentor of [Charles Darwin](/19c/19c-darwin-biography), John Stevens Henslow, botanist and geologist was born in Rochester in 1796.
+Friend and mentor of [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography), John Stevens Henslow, botanist and geologist was born in Rochester in 1796.
 
-Artist, [Richard Dadd](/19c/19c-dadd-biography) was educated at the King's School.
+Artist, [Richard Dadd]({{ site.baseurl }}/19c/19c-dadd-biography) was educated at the King's School.
 
-[Ellen Ternan](/19c/19c-ternan-biography), actress, was born in Rochester in 1839.
+[Ellen Ternan]({{ site.baseurl }}/19c/19c-ternan-biography), actress, was born in Rochester in 1839.
 
 Thomas Aveling, iron founder and agricultural engineer was mayor of the city and has a school named after him.
 
-Phyllis Bottome, novelist and short story writer was born in Rochester and inspired James Bond author [Ian Fleming](/20c/20c-fleming-biography).
+Phyllis Bottome, novelist and short story writer was born in Rochester and inspired James Bond author [Ian Fleming]({{ site.baseurl }}/20c/20c-fleming-biography).
 
 {% include embed/image.html src="wc:The_castle%2C_Rochester%2C_England-LCCN2002708076.jpg" aspect="1.325" caption="The castle, Rochester" %}{: .right}
 
-Sybil Thorndike, actor, moved to Rochester at the age two. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in [Romney Marsh](/landscape/romney-writers), was born in the city in 1885. Mathematician, [John Edensor Littlewood](/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
+Sybil Thorndike, actor, moved to Rochester at the age two. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in [Romney Marsh]({{ site.baseurl }}/landscape/romney-writers), was born in the city in 1885. Mathematician, [John Edensor Littlewood]({{ site.baseurl }}/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
 
 {% include embed/image.html src="wc:Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" aspect="0.746" caption="Sybil Thorndike, 1932" %}{: .right}
 

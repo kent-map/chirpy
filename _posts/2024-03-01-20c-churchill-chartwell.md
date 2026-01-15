@@ -48,7 +48,7 @@ Churchill was also appointed Lord Warden and Admiral of the Cinque Ports (Dover,
 
 {% include embed/map.html center="Q2543161" zoom="12" markers="Q2543161" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-As well as residing in Kent, Churchill visited other areas of the county on numerous occasions. Most notably he spent time at Dover Castle, in the [Secret Wartime Tunnels](/20c/20c-secret-tunnels) where a number of notable wartime operations were planned. He also had flying lessons at [Eastchurch](/20c/20c-eastchurch-aviation) on the Isle of Sheppey. 
+As well as residing in Kent, Churchill visited other areas of the county on numerous occasions. Most notably he spent time at Dover Castle, in the [Secret Wartime Tunnels]({{ site.baseurl }}/20c/20c-secret-tunnels) where a number of notable wartime operations were planned. He also had flying lessons at [Eastchurch]({{ site.baseurl }}/20c/20c-eastchurch-aviation) on the Isle of Sheppey. 
 
 {% include embed/image.html src="wc:Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" aspect="0.991" caption="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" %}{: .right}
 

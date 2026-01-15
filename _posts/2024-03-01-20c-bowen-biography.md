@@ -42,7 +42,7 @@ The landscape, too, entranced her with its ‘wide views, though also mysterious
 
 At the same time, Kent’s history was almost part of its landscape, bursting ‘from under the contemporary surface at every point’, while its geology had a newness compared with that of Ireland.[^ref4]   
 
-And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells](/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and [Folkestone](Q375314), that were in a book.’[^ref5][^ref6]  
+And she realised how fiction can be set in the real world: reading _Kipps_ by [H.G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), she was ‘made dizzy by the discovery that [she] had, for years, been living in two places, Hythe and [Folkestone](Q375314), that were in a book.’[^ref5][^ref6]  
 
 {% include embed/image.html src="wc:H_G_Wells_pre_1922.jpg" aspect="0.717" caption="H. G. Wells" %}{: .right}
 
@@ -57,7 +57,7 @@ For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramat
 {% include embed/image.html src="wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" aspect="1.333" caption="The Leas, Folkestone" %}{: .right}
 
 **Elizabeth Bowen at Downe House in 1916.**   
-For six years, between 1906 and 1912, she and her mother lived in rented houses in [Folkestone](Q375314), Seabrook, [Hythe](Q967166) and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a _‘committee of aunts’_, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in [Charles Darwin](/19c/19c-darwin-biography)’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years... I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’[^ref8] 
+For six years, between 1906 and 1912, she and her mother lived in rented houses in [Folkestone](Q375314), Seabrook, [Hythe](Q967166) and Lyminge. But in the summer of 1912 her mother died of cancer and she was given to the care of a _‘committee of aunts’_, going to live with one of them in Hertfordshire. In 1914 she returned to Kent, when she was sent to Downe House School in [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography)’s former home, where the headmistress, Olive Willis, taught her ‘how not to write’. She wrote about her time there in a 1935 article _The Mulberry Tree_, but by the time she came to write the article the school had moved away, and the building had been ‘reinstated as some kind of shrine, for Charles Darwin lived there for some years... I have never liked scientific people very much, and it mortifies me to think of them trampling reverently around there on visiting days, thinking of Charles Darwin and ignorant of my own youth.’[^ref8] 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Down_House_banner.jpg" aspect="2.61" %}{: .right}
 

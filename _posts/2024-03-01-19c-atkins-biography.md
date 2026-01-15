@@ -66,7 +66,7 @@ In 1842, Hershel invented the cyanotype, a photographic process, which later bec
 
 {% include embed/image.html src="wc:Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" aspect="0.716" caption="Anna Atkins" %}{: .right}
 
-Anna died on the 9 June 1871 at Halstead Place, near Sevenoaks, and is buried in St. Margaret's Churchyard. [Sir John Hershel](/19c/19c-herschel-biography), her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an 'amiable and benevolent lady'[^ref15], but her early experimentation in photography is not mentioned.
+Anna died on the 9 June 1871 at Halstead Place, near Sevenoaks, and is buried in St. Margaret's Churchyard. [Sir John Hershel]({{ site.baseurl }}/19c/19c-herschel-biography), her friend and inspiration, had died a month earlier at his home Collingwood, near Hawkhurst.  Anna's obituary describes her as an 'amiable and benevolent lady'[^ref15], but her early experimentation in photography is not mentioned.
 
 {% include embed/image.html src="wc:St_Margaret%27s_Church%2C_Halstead.JPG" aspect="1.333" caption="St Margaret's Church, Halstead" %}{: .right}
 

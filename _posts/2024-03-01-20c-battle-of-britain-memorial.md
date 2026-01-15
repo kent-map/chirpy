@@ -13,7 +13,7 @@ published: true
 toc: false    
 ---
 
-The Battle of Britain Memorial is situated on top of the White Cliffs at [Capel-le-Ferne](Q1006783), near [Folkestone](Q375314). Dedicated to [Churchill’s](/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
+The Battle of Britain Memorial is situated on top of the White Cliffs at [Capel-le-Ferne](Q1006783), near [Folkestone](Q375314). Dedicated to [Churchill’s]({{ site.baseurl }}/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
 
 {% include embed/image.html src="wc:The_Battle_of_Britain_Memorial.jpg" aspect="1.333" caption="The Battle of Britain Memorial" %}{: .right}
 
@@ -38,7 +38,7 @@ In 2015, the final touches were added to the visitor centre, renamed "The Wing" 
 {% include embed/image.html src="wc:Capel-le-Ferne%2C_Battle_of_Britain_Memorial_-_geograph.org.uk_-_2207729.jpg" aspect="1.333" caption="Capel-le-Ferne, Battle of Britain Memorial" %}{: .right}
 
 The memorial in its entirety, is a very poignant reminder of what Britain faced during the Second World War. 
-In the very famous words of [Sir Winston Churchill](/20c/20c-churchill-chartwell): “Never in the field of human conflict was so much owed by so many to so few.”
+In the very famous words of [Sir Winston Churchill]({{ site.baseurl }}/20c/20c-churchill-chartwell): “Never in the field of human conflict was so much owed by so many to so few.”
 
 {% include embed/image.html src="wc:Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" aspect="0.991" caption="Winston Churchill studies after action reports with Vice Admiral Sir Bertram Ramsay, Flag Officer Comanding Dover, 28 August 1940" %}{: .right}
 

@@ -21,15 +21,15 @@ _‘At low water, we are a heap of mud, with an empty channel in it, where a cou
 
 {% include embed/image.html src="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" aspect="1.445" caption="The Harbour, Folkestone, looking east by George Barnard" attribution="By kind permission of Martin Crowther" %}{: .right}
 
-[Dickens](Q5686) stayed in [Folkestone](/19c/19c-folkestone) on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning _Little Dorrit_ during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel, with its description of a hot day in Marseilles with ‘no wind to make a ripple on the foul water within the harbour, or on the beautiful sea without’ (_Little Dorrit_ 1). 
+[Dickens](Q5686) stayed in [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning _Little Dorrit_ during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel, with its description of a hot day in Marseilles with ‘no wind to make a ripple on the foul water within the harbour, or on the beautiful sea without’ (_Little Dorrit_ 1). 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1" aspect="1.333" caption="Blue Plaque" attribution="Martin Crowther" %}{: .right}
 
-Whilst he is more often associated with [Broadstairs](/dickens/broadstairs), Dickens wrote warmly about [Folkestone](/19c/19c-folkestone) in a number of letters from the 1840s. In 1849 he wrote to John Leech suggesting a trip to see the town, telling him that ‘I know the place itself to be a good one, and most accessible’[^ref2]. In a letter to Angela Burdett Coutts in 1852 Dickens told her that he was going to [Folkestone](/19c/19c-folkestone) for a few days to get away from letters of introduction (a reminder that the Victorian precursor of social media involved physically meeting total strangers based on nothing more than a ‘friend suggestion’). ‘I feel as if I had been thinking my brain into a sort of cabbage net’[^ref3]. 
+Whilst he is more often associated with [Broadstairs]({{ site.baseurl }}/dickens/broadstairs), Dickens wrote warmly about [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) in a number of letters from the 1840s. In 1849 he wrote to John Leech suggesting a trip to see the town, telling him that ‘I know the place itself to be a good one, and most accessible’[^ref2]. In a letter to Angela Burdett Coutts in 1852 Dickens told her that he was going to [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) for a few days to get away from letters of introduction (a reminder that the Victorian precursor of social media involved physically meeting total strangers based on nothing more than a ‘friend suggestion’). ‘I feel as if I had been thinking my brain into a sort of cabbage net’[^ref3]. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" aspect="1.326" caption="3, Albion Villas" attribution="Martin Crowther" %}{: .right}
 
-His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone](/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
+His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Smaller_pavilionstone.jpg" aspect="0.752" caption="Pavilionstone" attribution="Published by the Frederick Hotels Group, 1902" %}{: .right}
 
@@ -41,7 +41,7 @@ Writing in 1914 Charles G. Harper commented that ‘the people who made holiday 
 
 {% include embed/image.html src="wc:Folkestone%2C_The_Leas%2C_Bandstand.jpg" aspect="0.923" caption="Bandstand on the Leas, Folkestone" %}{: .right}
 
-In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
+In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst]({{ site.baseurl }}/dickens/dickens-staplehurst).
 
 {% include embed/image.html src="wc:Staplehurst_rail_crash.jpg" aspect="1.421" caption="Illustrated London News" %}{: .right}
 

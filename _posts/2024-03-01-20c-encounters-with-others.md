@@ -20,11 +20,11 @@ _The curious colours of the folk afield / The raven hair, the flamy silk, the bl
 {% include embed/image.html src="https://stor.artstor.org/stor/b8c85c59-97a0-45db-befb-36c7a779740c" aspect="1.33" caption="Incidents of Hop gathering" %}{: .right}
 
 The term ‘othering’ describes the classification of another person or group as belonging to a culturally or socially inferior category. The ‘other’ is different, the opposite of ‘self’, or ‘us’. Othering distances the ‘self’ from what it believes it is not – the crude, barbarous, uncivilised. This may include denigration, or romanticising of subaltern groups, for example rural labourers, the urban poor, itinerant workers. While othering may displace people to the margins of society, they may still be regarded as quintessential elements of place or shared landscapes.   
-Itinerant hop and fruit pickers are certainly seen as transient but archetypal characters within the landscapes of Kent. Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests; these have been variously discussed in the [literature on Kent](/20c-hop-picking). 
+Itinerant hop and fruit pickers are certainly seen as transient but archetypal characters within the landscapes of Kent. Traditionally London families helped with the hop harvest as a ‘paid holiday’, while other ‘travellers’ followed the seasons and the various fruit harvests; these have been variously discussed in the [literature on Kent]({{ site.baseurl }}/20c-hop-picking). 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266" aspect="1.333" caption="Hopping" attribution="Private collection" %}{: .right}
 
-[Donald Maxwell](/20c-maxwelld-biography), in _The Enchanted Road_ (1927) sentimentalises his encounters in the hop gardens, despite characterising the pickers as ‘out of place’, as intruders into his idyll:
+[Donald Maxwell]({{ site.baseurl }}/20c-maxwelld-biography), in _The Enchanted Road_ (1927) sentimentalises his encounters in the hop gardens, despite characterising the pickers as ‘out of place’, as intruders into his idyll:
 _‘Being the first week in September, the land was full of nomadic Londoners, and the smoke from countless fires bore witness to the annual invasion.’_     
 Similarly, Blunden, in his exoticised description of [hop pickers]( ](/20c-hop-picking)) in the poem quoted at the start, uses an incursion metaphor - of ‘tattered armies gathered to the spoil … fierce of eye and tongue’ 
 

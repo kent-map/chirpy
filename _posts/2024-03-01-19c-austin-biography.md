@@ -30,7 +30,7 @@ One of these works was _The Garden That I Love_ (1894), in which he describes th
 
 'quiet August afternoon, with its long motionless shadows, its slight intimation of silver haze, and its soothing noises of neighbourhood rooks; the music of a mill stream I could just overhear, the melodious monotone of contiguous ringdoves, the colour of the nectarines on the wall, the recollection of the ripe and ruddy orchard; - all of these seemed to imbue my mind with a sense of autumnal mellowness, when everything one longs for awaits the plucking, and there is nothing more to be desired'.[^ref4]
 
-Fellow gardening enthusiast [Elizabeth von Arnim](/20c/20c-vonarnim-biography) was so taken with the book that she wrote a fan letter (which she was too embarrassed to send).[^ref5]  She later described the garden as the loveliest she had ever seen.[^ref6]  
+Fellow gardening enthusiast [Elizabeth von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) was so taken with the book that she wrote a fan letter (which she was too embarrassed to send).[^ref5]  She later described the garden as the loveliest she had ever seen.[^ref6]  
 
 {% include embed/image.html src="https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc" aspect="1.56" caption="Swinford Manor" attribution="Kent Maps Online" %}{: .right}
 
@@ -40,7 +40,7 @@ Austin and his wife had lived here since their marriage in 1867, entertaining gu
 
 In February 1896 the paper offered a prize ‘to the reader who will send the best reason for appointing Mr Alfred Austin to the office of Poet Laureate’, a feat it considered the more difficult because ‘A poet ought to be able to write poetry, and poetry is not necessarily all drivel.’[^ref8]  
 
-Poignantly at his death Austin’s own library was found to include works by much greater authors, including [Dickens](/dickens), [Christina Rossetti](/19c/19c-rossetti-biography) and Tennyson.
+Poignantly at his death Austin’s own library was found to include works by much greater authors, including [Dickens]({{ site.baseurl }}/dickens), [Christina Rossetti]({{ site.baseurl }}/19c/19c-rossetti-biography) and Tennyson.
 
 {% include embed/image.html src="wc:Alfred_Austin_on_Paddy.jpg" aspect="1.417" caption="Alfred Austin on Paddy" %}{: .right}
 

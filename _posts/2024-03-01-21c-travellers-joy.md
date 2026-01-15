@@ -14,7 +14,7 @@ toc: false
 ---
 
 
-When walking around the city of [Canterbury](Q29303), one quickly notices the representation and referencing of the city’s rich cultural heritage. Promotional photos on shop windows, celebratory paintings in underpasses, an antiquarian bookshop named after [Geoffrey Chaucer](/14c/14c-chaucer), and even a fish and chip shop called _The Canterbury Tales_. 
+When walking around the city of [Canterbury](Q29303), one quickly notices the representation and referencing of the city’s rich cultural heritage. Promotional photos on shop windows, celebratory paintings in underpasses, an antiquarian bookshop named after [Geoffrey Chaucer]({{ site.baseurl }}/14c/14c-chaucer), and even a fish and chip shop called _The Canterbury Tales_. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c6cf4dfd-eb93-40b5-b466-58ae8f557f5f" aspect="1.333" caption="Chaucer's Pilgrims by Gloria Treseder" attribution="Photography by Martin Crowther" %}{: .right}
 
@@ -36,7 +36,7 @@ In 2018 the Canterbury City Council commissioned a new mural to cover pillars of
 
 {% include embed/map.html center="Q26369737" zoom="15" markers="Q26369737" allmaps="3cec6f180298eeb9~Mudge 1801" %}{: .right}
 
-Treseder draws the inspiration for her art from nature so the central element of the mural is a plant Clematis vitalba, also called traveller’s joy, which gave its name to the mural. Its leaves and vines lead the eye to the references from literature – [Rupert Bear](/20c/20c-tourtel-biography), [David Copperfield](/dickens/david-copperfield-curated-walk/), the pilgrims from [Chaucer](/14c/14c-chaucer)'s  _The Canterbury Tales_ and finally Sherlock Holmes with Dr. Watson. Painted around them are various insects like the native English bee or the English ladybird, and silhouettes of children representing joy and playfulness. Additionally, Treseder used bright colours and illustrative, slightly expressive brush strokes.
+Treseder draws the inspiration for her art from nature so the central element of the mural is a plant Clematis vitalba, also called traveller’s joy, which gave its name to the mural. Its leaves and vines lead the eye to the references from literature – [Rupert Bear]({{ site.baseurl }}/20c/20c-tourtel-biography), [David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk/), the pilgrims from [Chaucer]({{ site.baseurl }}/14c/14c-chaucer)'s  _The Canterbury Tales_ and finally Sherlock Holmes with Dr. Watson. Painted around them are various insects like the native English bee or the English ladybird, and silhouettes of children representing joy and playfulness. Additionally, Treseder used bright colours and illustrative, slightly expressive brush strokes.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" aspect="0.75" caption="Rupert Bear by Gloria Treseder" attribution="Photography by Martin Crowther" %}{: .right}
 

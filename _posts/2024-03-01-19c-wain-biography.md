@@ -51,7 +51,7 @@ His life in Westgate, where he would walk with his own cats on the beach at dusk
 into Westgate’s late Victorian society, was a mixture of personal sadness and joy at the public’s acclaim. As the only male in the household, the girls were proud of their famous brother. Though disorganised and, at times, tyrannical, he escorted them to the assembly rooms and to tennis parties, all basking in his reflected glory.
 
 His sister Marie’s deteriorating mental health had caused great concern for many years and she was eventually admitted to St Augustine’s Hospital at
-Chartham, near [Canterbury](/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
+Chartham, near [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), in 1901 after being certified insane.  She would die there in 1913.
 
 {% include embed/image.html src="wc:Westgate_Bay_-_geograph.org.uk_-_1931362.jpg" aspect="2.827" caption="Westgate Bay" %}{: .right}
 
@@ -66,7 +66,7 @@ Louis should have been rich - the more so after travelling to America in 1910 to
 {% include embed/image.html src="wc:Wein_catpoker.jpg" aspect="1.58" caption="Cat poker" %}{: .right}
 
 By 1925 Louis was certified insane with schizophrenia and confined in a pauper’s asylum at Springfield Hospital, Tooting, 
-the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells](/20c/20c-wellshg-biography) made a radio appeal to help raise money for his ongoing care.
+the county asylum for Middlesex. His plight was discovered and science fiction writer [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography) made a radio appeal to help raise money for his ongoing care.
 
 {% include embed/image.html src="wc:A_cat_in_%22gothic%22_style._Gouache_by_Louis_Wain%2C_1925-1939._Wellcome_L0026931.jpg" aspect="0.693" caption="A cat in gothic style. Gouache by Louis Wain, 1925-1939. Wellcome L0026931" %}{: .right}
 

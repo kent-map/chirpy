@@ -34,7 +34,7 @@ Thomas Shadwell and the Earl of Dorset enjoyed life to excess (Dorset’s receip
 
 {% include embed/map.html center="Q1285144" zoom="12" markers="Q1285144" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}{: .right}
 
-Anne Shadwell, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn](/17c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref9] (This suggests that Ann was not hopeful of Charles fulfilling this role at this point, although there may have been pressure later for him to do so).
+Anne Shadwell, who had performed in at least two of Thomas’s plays as well as two by the female playwright, [Aphra Behn]({{ site.baseurl }}/17c/17c-behn-biography), now had to support the family. In 1693, she published Thomas’s last play _The Volunteers_ with a dedication to Queen Ann  in which she wrote: 'The little wit of our poor family as well as the best part of the subsistence perished with my husband; so that we have not where withall, worthily to express our great Acknowledgement due for the Support and Favour, we have already received.'[^ref9] (This suggests that Ann was not hopeful of Charles fulfilling this role at this point, although there may have been pressure later for him to do so).
 
 Not much is known about Anne after 1705, although she retained an interest in the rents for the Dorset Garden Theatre, which was on the Duke of Dorset's land. It is clear that Sackville's role as patron of the theatre at this period was important as his coach journeys reveal that he had property at Cockpit, Whitehall, which was formerly the site of a theatre.[^ref10] His death in 1707 must have impacted on the lives of those who relied on his patronage.
 
@@ -48,7 +48,7 @@ By 1710, Charles had become the supervisor of the excise in Kent. It is not cert
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}{: .right}
 
-Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_ "to incorporate You, by name into one Body, would require a College of Heralds to order the precedence" suggesting that he had more than one influential supporter.[^ref14] Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of [Dover](Q179224) Castle and Lord Warden of the [Cinque Ports](/medieval/cinque-ports) from 1708-12, and it was possibly family connections which enabled Thomas to obtain his position in the excise. Lionel may not have shared his father's interest in the theatre, and Charles acknowledges his struggle to obtain a performance of _A Fair Quaker_ in his preface:
+Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_ "to incorporate You, by name into one Body, would require a College of Heralds to order the precedence" suggesting that he had more than one influential supporter.[^ref14] Lionel Cranfield Sackville (1688-1765), the son of his father’s patron, was the Governor of [Dover](Q179224) Castle and Lord Warden of the [Cinque Ports]({{ site.baseurl }}/medieval/cinque-ports) from 1708-12, and it was possibly family connections which enabled Thomas to obtain his position in the excise. Lionel may not have shared his father's interest in the theatre, and Charles acknowledges his struggle to obtain a performance of _A Fair Quaker_ in his preface:
 
 "This Play was writ about three Years since, and put into the Hands of a famous Comedian belonging to the Hay-Market Play-House, who took care to beat down the Value of it so much, as to offer the Author to alter it fit to appear on the Stage, on Condition he might have half the Profits of the Third Day, and the Dedication entire: that is as much as to say, that it may pass for one of his, according to Custom. The Author not agreeing to this reasonable Proposal, it lay in his Hands till the Beginning of this Winter ; when Mr. Booth read it, and lik'd it, and persuaded the Author that with a little Alteration it would please the Town".[^ref15]
 
@@ -56,7 +56,7 @@ Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_ "to
 
 'The Fair Quaker of Deal' was performed at Drury Lane Theatre, London in 1710. 
 
-In Act 1 Scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs is the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provides a natural anchorage for ships waiting for a good wind. There were sometimes 300-400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
+In Act 1 Scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs is the water between Deal and the [Goodwins Sands]({{ site.baseurl }}/dickens/david-copperfield-goodwin-sands/) which provides a natural anchorage for ships waiting for a good wind. There were sometimes 300-400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell]({{ site.baseurl }}/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
 
 {% include embed/image.html src="wc:English_warships_at_anchor_in_a_calm%2C_drying_sails_RMG_BHC1009.tiff" aspect="1.395" caption="English warships at anchor in a calm, drying sails" %}{: .right}
 
@@ -118,7 +118,7 @@ At the end of the first act, Mr Norris, the coxswain and a sailor are discussing
 
 "Ay, and so be clap'd : If he would force the Surgeon to cure us at the Government's Charge, it would be a mighty Encouragement to us; but our Rogue of a Loblolly Doctor, being not satisfied with his Twopences, must have a Note for two Months Pay for every Cure; and the last time the Ship was paid, between the Officers, and the Sailors, he swept above half the Ship's Company's Money into his own Hat",[^ref25]
 
-A fine was imposed on sailors by the Navy for treating venereal diseases at this period unlike the nineteenth century [Contagious Diseases Acts](/19c/19c-contagious-diseases) when women were stigmatised for the spread of venereal diseases.
+A fine was imposed on sailors by the Navy for treating venereal diseases at this period unlike the nineteenth century [Contagious Diseases Acts]({{ site.baseurl }}/19c/19c-contagious-diseases) when women were stigmatised for the spread of venereal diseases.
 
 {% include embed/image.html src="wc:Men_of_war_caricature_1791.jpg" aspect="0.736" caption="Men of War, caricature of sailors and prostitutes with the Chatham to Gravesend tide coach in the background. Published 1791" %}{: .right}
 
@@ -157,7 +157,7 @@ Flip, a commodore, offers a contrasting view point, harking back to the past and
 
 Rovewell contradicts him saying: 'Yes, yes, you fought very gloriously, when you let the Dutch burn the fleet at [Chatham](Q729006)'.[^ref38]
 
-The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway](/17c/17c-sheppey-at-war) in June 1667.
+The Dutch had attacked English warships lying at anchor off Chatham and Gillingham during the [Raid on the Medway]({{ site.baseurl }}/17c/17c-sheppey-at-war) in June 1667.
 Flip defends the navy, blaming 'the Treachery of some Rogues at Land' (the local people who ran away in fear when they saw the warships), but his reverence for the navy of the past is ridiculed.
 
 {% include embed/image.html src="wc:The_Raid_on_the_Medway_by_Willem_Schellinks_Rijksmuseum_Amsterdam_SK-C-1737.jpg" aspect="1.346" caption="The raid on the Medway" %}{: .right}

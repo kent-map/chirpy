@@ -31,7 +31,7 @@ Charlotte’s ground-breaking publication _British Freewomen: Their Historical P
 
 {% include embed/image.html src="wc:CCStopesDedication.jpg" aspect="0.75" caption="Stopes Dedication" %}{: .right}
 
-Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte, however, played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits](/landscape/chalk-pits-stig)”[^ref6] She said, “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road](/dickens/dover-road) which runs East of her garden wall.” 
+Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte, however, played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits]({{ site.baseurl }}/landscape/chalk-pits-stig)”[^ref6] She said, “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road]({{ site.baseurl }}/dickens/dover-road) which runs East of her garden wall.” 
 
 {% include embed/image.html src="wc:Woodland_Path_at_Swanscombe_Heritage_Park.jpg" aspect="1.779" caption="Woodland Path at Swanscombe Heritage Park" %}{: .right}
 
@@ -43,7 +43,7 @@ After the death of her husband in 1902 at Hillside, [Greenhithe](Q3028239), Char
 
 {% include embed/map.html center="Q3028239" zoom="10" markers="Q3028239" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}{: .right}
 
-Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
+Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library]({{ site.baseurl }}/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
 
 This article was published: 9 October 2021.
 

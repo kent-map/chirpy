@@ -22,11 +22,11 @@ toc: false
 
 <!-- Historical map layers -->
 
-Jessie Challacombe née Worsfold, children’s author, was born in [Dover](/19c/19c-dover) the daughter of Christopher and Martha Worsfold. Her father was a chartered accountant and the borough treasurer and her grandfather was twice mayor of [Dover](Q179224) and had been friends with the late Duke of Wellington.[^ref1]  The family lived at 23, Maison Dieu Road but later moved to 33, Liverpool Street next to Kilvington House, a Preparatory School for Boys run by Jessie’s aunts Emily and Lucy. 
+Jessie Challacombe née Worsfold, children’s author, was born in [Dover]({{ site.baseurl }}/19c/19c-dover) the daughter of Christopher and Martha Worsfold. Her father was a chartered accountant and the borough treasurer and her grandfather was twice mayor of [Dover](Q179224) and had been friends with the late Duke of Wellington.[^ref1]  The family lived at 23, Maison Dieu Road but later moved to 33, Liverpool Street next to Kilvington House, a Preparatory School for Boys run by Jessie’s aunts Emily and Lucy. 
 
 {% include embed/image.html src="wc:Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" aspect="1.332" caption="Seafront, Dover, c. 1890" %}{: .right}
 
-By 1891, the Worsfolds had moved to 1, Christ Church Villa, St Martin’s Hill (Folkestone Road) opposite Christ Church. Christ Church was one of the newer churches in [Dover](/19c/19c-dover), having been consecrated in 1844. The condition of its establishment had been that it should include seating reserved for about 160 soldiers and that its incumbents should be low church.[^ref2]  It rapidly attracted a large congregation and within seven years of its opening, two additional galleries were added. Jessie’s father became churchwarden and a parishioner recalls that he used to '...give account of the financial state of the parish and he generally wound by saying: "I want two or three good door mats,"' and generally asked in such way that one felt ashamed to go to Church next Sunday unless they were forthcoming'.[^ref3] Jessie's mother was involved in the charitable work of the town including raising funds for the Dover orphan home. 
+By 1891, the Worsfolds had moved to 1, Christ Church Villa, St Martin’s Hill (Folkestone Road) opposite Christ Church. Christ Church was one of the newer churches in [Dover]({{ site.baseurl }}/19c/19c-dover), having been consecrated in 1844. The condition of its establishment had been that it should include seating reserved for about 160 soldiers and that its incumbents should be low church.[^ref2]  It rapidly attracted a large congregation and within seven years of its opening, two additional galleries were added. Jessie’s father became churchwarden and a parishioner recalls that he used to '...give account of the financial state of the parish and he generally wound by saying: "I want two or three good door mats,"' and generally asked in such way that one felt ashamed to go to Church next Sunday unless they were forthcoming'.[^ref3] Jessie's mother was involved in the charitable work of the town including raising funds for the Dover orphan home. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/5db33e54-3dee-44c0-b6ec-eea3b3013422" aspect="0.723" caption="Ward Lock's Dover and the South East" attribution="Ward Lock" %}{: .right}
 
@@ -36,7 +36,7 @@ Jessie and her siblings received a good education. Her sister Lucy studied at Be
 
 Like her parents, Jessie contributed to the life of the church. She was a member of the church’s young ladies’ working party and in 1890, gave a talk to the parents of the Sunday School scholars on the best way to bring up children: 'Prayer, home-teaching, training, and the power of example were suggested as the four great means for directing the children aright.'[^ref5]  This advice was later evidenced in her fiction, through her tales of Christian life. 
 
-It was not only children and parents to whom Jessie turned her attention. She ran a class for young Christian men and was involved in running the Christ Church Institute. The institute held lectures in the Christ Church Mission Hall and was one of the first young men's clubs with a gymnasium and cricket team connected to a Church in [Dover](/19c/19c-dover). Christ Church Institute played matches both in the valley and on the heights,[^ref6] including at Northfall Meadow where Louis Bleriot would land his plane in 1909.
+It was not only children and parents to whom Jessie turned her attention. She ran a class for young Christian men and was involved in running the Christ Church Institute. The institute held lectures in the Christ Church Mission Hall and was one of the first young men's clubs with a gymnasium and cricket team connected to a Church in [Dover]({{ site.baseurl }}/19c/19c-dover). Christ Church Institute played matches both in the valley and on the heights,[^ref6] including at Northfall Meadow where Louis Bleriot would land his plane in 1909.
 
 {% include embed/image.html src="wc:Northfall_Meadow_-_geograph.org.uk_-_2370768.jpg" aspect="1.333" caption="Northfall Meadow" %}{: .right}
 
@@ -46,7 +46,7 @@ After the ceremony, the wedding breakfast was served at Chaldercot, Leyburn-road
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c565d372-ac5a-45a0-8643-b87759b40e24" aspect="0.702" caption="The Village Church" attribution="Arthur Dixon" %}{: .right}
 
-Two years after their marriage, the Challacombes moved to New Malden, where they lived and worked for the next 28 years. Jessie began writing stories for children which were published by the Society for the Promotion of Christian Knowledge (SPCK). Her first book _The Brother’s Promise_ was published in 1897 followed by _Little Christopher’s Cross_ a year later, about a small boy named Christopher, no doubt inspired by her own son Christopher who had been born in 1893. Each chapter was prefaced by words from hymns by the former Dean of [Canterbury](/19c/19c-canterbury), Henry Alford. 
+Two years after their marriage, the Challacombes moved to New Malden, where they lived and worked for the next 28 years. Jessie began writing stories for children which were published by the Society for the Promotion of Christian Knowledge (SPCK). Her first book _The Brother’s Promise_ was published in 1897 followed by _Little Christopher’s Cross_ a year later, about a small boy named Christopher, no doubt inspired by her own son Christopher who had been born in 1893. Each chapter was prefaced by words from hymns by the former Dean of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), Henry Alford. 
 
 {% include embed/image.html src="wc:Poul_Friis_Nybo_-_Interi%C3%B8r_med_en_l%C3%A6sende_kvinde_ved_en_skrivepult.png" aspect="0.943" caption="Interior with a woman reading at a desk, between 1887 and 1929" %}{: .right}
 
@@ -56,9 +56,9 @@ This type of muscular Christianity in which athleticism was highly valued was ve
 
 {% include embed/image.html src="https://stor.artstor.org/stor/b03486f1-7d66-491a-9ed1-7ede07f75a60" aspect="0.645" caption="Wait and Win by Jessie Challacombe" attribution="By kind permission of Michelle Crowther" %}{: .right}
 
-Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers [Bessie Marchant](/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
+Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers [Bessie Marchant]({{ site.baseurl }}/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
 
-Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to [Dover](/19c/19c-dover), and buried at St. James' Cemetery, by lamplight.[^ref11]
+Jessie died in Farnborough at the age of 61 years. Her body was brought by rail to [Dover]({{ site.baseurl }}/19c/19c-dover), and buried at St. James' Cemetery, by lamplight.[^ref11]
 
 To find out more, watch this video about [Little Christopher’s Cross](https://youtu.be/LcFhJ0TySSU) created by Christ Church, New Malden.
 

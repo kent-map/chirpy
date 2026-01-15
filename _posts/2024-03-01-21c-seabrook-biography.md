@@ -21,7 +21,7 @@ I check my dates. Thirteen decades have passed. The removal of mourning rings ma
 
 {% include embed/map.html center="Q507517" zoom="10" markers="Q507517" allmaps="3cec6f180298eeb9~Mudge 1801" %}{: .right}
 
-The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns, and intertextually apposite given Seabrook’s extended analysis of Drood in _All the Devils Are Here_ (2002), where he offers [Richard Dadd](/19c/19c-dadd-biography) (he of the unfinished Fairy Feller’s Master-Stroke) as the inspiration for [Dickens’s](/dickens/dickens-biography) eponym, whose cruel parricide, Seabrook opines, served as fodder for the (probable) fate of the forever-deferred [Edwin](/dickens/edwin-drood-curated-walk).
+The word mystery comes to mind when approaching Seabrook and his work - a fitting word, given the author’s obsession with the local lore and hidden historical disjecta membra of Kent’s coastal towns, and intertextually apposite given Seabrook’s extended analysis of Drood in _All the Devils Are Here_ (2002), where he offers [Richard Dadd]({{ site.baseurl }}/19c/19c-dadd-biography) (he of the unfinished Fairy Feller’s Master-Stroke) as the inspiration for [Dickens’s]({{ site.baseurl }}/dickens/dickens-biography) eponym, whose cruel parricide, Seabrook opines, served as fodder for the (probable) fate of the forever-deferred [Edwin]({{ site.baseurl }}/dickens/edwin-drood-curated-walk).
 
 {% include embed/image.html src="https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf" aspect="0.754" caption="Richard Dadd at his easel, 1850s" attribution="In copyright. By permission of Bethlem Museum of the Mind" %}{: .right}
 
@@ -30,7 +30,7 @@ Fragments shored against ruins.
 
 {% include embed/map.html center="Q29303" zoom="10" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}{: .right}
 
-_Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](/20c/20c-eliot-biography) with a series of mysterious, or recently erased, locales: the Victorian shelter overlooking the sands where he composed what was to become parts of ‘The Fire Sermon’, the Albermarle hotel (on the Eastern Esplanade in Cliftonville - gone), and, improbably, Dreamland, which had opened in 1920, and whose name looks forward to Seabrook’s second, obsessive chapter, ‘Daddlands’.  Taking in [Ramsgate](Q736439), [Broadstairs](Q922739) (where Seabrook is less concerned with the obvious - because well attested - Dickensian links, and more keen to explore the scandalous backwaters linking George Curzon, John Buchan and Frank Richards), [Deal](Q1011096) and [Dover](Q179224) - this is a local book for local people.  Or for DFL’s like me, who plump for life in cinque port semi-solitude, and who are therefore seldom exposed to the Seabrookian topoi of death, dirt, disease, murder.  And mystery.
+_Devils_ begins in [Margate]({{ site.baseurl }}/21c/21c-margate), where Seabrook connects [Eliot]({{ site.baseurl }}/20c/20c-eliot-biography) with a series of mysterious, or recently erased, locales: the Victorian shelter overlooking the sands where he composed what was to become parts of ‘The Fire Sermon’, the Albermarle hotel (on the Eastern Esplanade in Cliftonville - gone), and, improbably, Dreamland, which had opened in 1920, and whose name looks forward to Seabrook’s second, obsessive chapter, ‘Daddlands’.  Taking in [Ramsgate](Q736439), [Broadstairs](Q922739) (where Seabrook is less concerned with the obvious - because well attested - Dickensian links, and more keen to explore the scandalous backwaters linking George Curzon, John Buchan and Frank Richards), [Deal](Q1011096) and [Dover](Q179224) - this is a local book for local people.  Or for DFL’s like me, who plump for life in cinque port semi-solitude, and who are therefore seldom exposed to the Seabrookian topoi of death, dirt, disease, murder.  And mystery.
 
 {% include embed/image.html src="wc:Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg" aspect="1.488" caption="Dreamland, Margate" %}{: .right}
 
@@ -52,7 +52,7 @@ _Devils_ begins in [Margate](/21c/21c-margate), where Seabrook connects [Eliot](
 
 {% include embed/map.html center="Q179224" zoom="10" markers="Q179224" allmaps="3cec6f180298eeb9~Mudge 1801" %}{: .right}
 
-_All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco](/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.    
+_All the Devils Are Here_ is an essential addition to any library of the odd and uncommon.  Put Seabrook on a shelf with Kafka, Lovecraft, Beckett, Hoffmann, [Eco]({{ site.baseurl }}/21c/21c-waterstones-canterbury) and Borges, and he fits right in: liminal, disruptive, hard to pin down.    
 
 Final words?  Perhaps best to end with those from the _Observer_ review, ominously appended to the back page of the Granta edition: to know _Devils_, we are told, _‘is somehow not to know anything at all.’_   
 It’s a right old mystery.

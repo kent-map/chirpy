@@ -18,7 +18,7 @@ toc: false
 
 <!-- Historical map layers -->
 
-In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for [Maidstone](Q213180) to design a missionary monument at St Augustine’s College, [Canterbury](/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.
+In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for [Maidstone](Q213180) to design a missionary monument at St Augustine’s College, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88" aspect="1.254" caption="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury" %}{: .right}
 
@@ -36,11 +36,11 @@ Burges was the son of marine engineer Alfred Burges (1796–1886) who along with
 
 {% include embed/map.html center="Q179224" zoom="11.5" markers="Q179224" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-After studying at King’s College School, London, where he became friends with pre-Raphaelite artist [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) and his brother William Michael, Burges entered the offices of the pre-eminent Gothic Revival architect, Edward Blore, in 1844. After this, he joined the offices of Matthew Digby Wyatt and worked on the Medieval Court at the Great Exhibition of 1851.
+After studying at King’s College School, London, where he became friends with pre-Raphaelite artist [Dante Gabriel Rossetti]({{ site.baseurl }}/19c/19c-rossetti-biography) and his brother William Michael, Burges entered the offices of the pre-eminent Gothic Revival architect, Edward Blore, in 1844. After this, he joined the offices of Matthew Digby Wyatt and worked on the Medieval Court at the Great Exhibition of 1851.
 
 {% include embed/image.html src="wc:William_Burges_portrait.jpg" aspect="0.836" caption="William Burges" %}{: .right}
 
-In 1856, Burges set up his own architectural practice and entered several competitions for architectural commissions, but in the early days he was unsuccessful. However, after completing the designs for the missionary monument at [Canterbury](/19c/19c-canterbury), Burges’s career began to flourish and in 1859 he was introduced to the Dover Corporation Restoration Committee to take over the work begun by Ambrose Poynter to restore the 13th century Maison Dieu at Dover. Burges’s designs were influenced by his travels in Europe and included carved grotesques and heraldic shields.
+In 1856, Burges set up his own architectural practice and entered several competitions for architectural commissions, but in the early days he was unsuccessful. However, after completing the designs for the missionary monument at [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), Burges’s career began to flourish and in 1859 he was introduced to the Dover Corporation Restoration Committee to take over the work begun by Ambrose Poynter to restore the 13th century Maison Dieu at Dover. Burges’s designs were influenced by his travels in Europe and included carved grotesques and heraldic shields.
 
 {% include embed/image.html src="wc:The_Installation_of_Lord_Palmerston_as_Lord_Warden_of_the_Cinque_Ports%2C_the_Banquet_in_the_Townhall_%28Maison_Dieu%29_Dover_-_ILN_1861.jpg" aspect="1.405" caption="The Installation of Lord Palmerston as Lord Warden of the Cinque Ports, Banquet in the Maison Dieu, Dover, 1861" %}{: .right}
 
@@ -82,7 +82,7 @@ Burges was not only a talented architect, but also a designer. In 1867 he was co
 
 {% include embed/map.html center="Q1254903" zoom="11.5" markers="Q1254903" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-In 1880, the Mayor of [Dover](/19c/19c-dover) decided that the town needed an assembly hall and civic rooms. Burges was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. 
+In 1880, the Mayor of [Dover]({{ site.baseurl }}/19c/19c-dover) decided that the town needed an assembly hall and civic rooms. Burges was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/d5b27092-f8fb-411c-9d48-dd2224622676" aspect="1.333" caption="Ceiling in the Mayor's Parlour" attribution="William Burges. Photogaph by Michelle Crowther" %}{: .right}
 

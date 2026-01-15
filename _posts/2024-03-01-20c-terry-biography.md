@@ -16,7 +16,7 @@ toc: false
 
 Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she first trod the boards aged eight in the part of Mamillius in _The Winter’s Tale_. She is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US.   
 
-She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John](/20c/20c-st-john-biography).
+She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography).
 
 {% include embed/image.html src="wc:Ellen_Terry_as_Margaret.jpg" aspect="0.717" caption="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre" %}{: .right}
 
@@ -40,7 +40,7 @@ Ellen Terry wrote of her new home:
 
 {% include embed/map.html center="Q614560" zoom="15" markers="Q614560" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
 
-She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig](/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John](/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
+She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig]({{ site.baseurl }}/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
 
 {% include embed/image.html src="wc:Priest%27s_House_Small_Hythe_Kent_Geograph-1641754-by-Robin-Webster.jpg" aspect="1.495" caption="Priest’s House" %}{: .right}
 
@@ -52,7 +52,7 @@ Ellen Terry wrote about life with Edy at [Smallhythe Place](Q7543679) (then call
 
 {% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
 
-[Christopher St John](/20c/20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig](/20c/20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to [Bodiam Castle](Q639208), and took the occasional pleasure cruise across the English Channel to Bruges.
+[Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to [Bodiam Castle](Q639208), and took the occasional pleasure cruise across the English Channel to Bruges.
 
 {% include embed/image.html src="wc:Bodiam-castle-10My8-1185.jpg" aspect="1.504" caption="Bodiam Castle" %}{: .right}
 
@@ -60,7 +60,7 @@ Ellen Terry wrote about life with Edy at [Smallhythe Place](Q7543679) (then call
 
 {% include embed/map.html center="Q639208" zoom="10" markers="Q639208" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
 
-[St John](/20c/20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry – her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
+[St John]({{ site.baseurl }}/20c/20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry – her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
 
 {% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
 

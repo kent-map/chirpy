@@ -82,7 +82,7 @@ Lena, having been very close to the action, wrote a book about what she had witn
 {% include embed/image.html src="wc:Lena_Login_from_a_miniature_by_Fisher%2C_1850.jpg" aspect="0.8" caption="Lena Login from a miniature by Fisher, 1850" %}{: .right}
 
 **Dame Ellen Terry**   
-Alice [Ellen Terry](/20c/20c-terry-biography) who was said to be the most popular actress of her time spent her 80th birthday at the Red House as the guest of Lady Mabel Egerton. Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
+Alice [Ellen Terry]({{ site.baseurl }}/20c/20c-terry-biography) who was said to be the most popular actress of her time spent her 80th birthday at the Red House as the guest of Lady Mabel Egerton. Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
 
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while. Unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the <span data-mouseover-image-zoomto="97,50,537,346">leading lady</span> for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
 
@@ -95,7 +95,7 @@ As her acting career began to run its course Ellen began a tour lecturing on Sha
 
 {% include embed/image.html src="wc:Ellen_Terry_LCCN2014698965.jpg" aspect="0.669" caption="Ellen Terry in 1915" %}{: .right}
 
-Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
+Dame [Ellen Terry]({{ site.baseurl }}/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
 
 {% include embed/image.html src="wc:Ellen_Terry_1922.jpg" aspect="0.632" caption="Ellen Terry at Walmer Castle, 1922" %}{: .right}
 

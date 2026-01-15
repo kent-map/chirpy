@@ -59,7 +59,7 @@ However, after some 'White feather foolery' which she said was 'absolutely contr
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Feather_1228678_1920.jpg" aspect="1.739" caption="White Feather" %}{: .right}
 
-The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.' [^ref14] 
+The arrival of the [Belgian Refugees]({{ site.baseurl }}/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.' [^ref14] 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Arrival_of_Belgians_FMuseum.jpg" aspect="1.39" caption="Belgian Refugees" attribution="Folkestone Museum" %}{: .right}
 

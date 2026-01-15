@@ -18,7 +18,7 @@ Jane Austen stayed with her brother Edward Austen Knight (1767-1852) at [Godmers
 
 {% include embed/image.html src="https://stor.artstor.org/stor/6c1e5309-950a-423e-a8b6-00288674c2d5" aspect="1.333" caption="Godmersham Park" %}{: .right}
 
-The luxurious existence at Godmersham was not its only attraction.  Visitors came frequently, and the Austens often received invitations to dine out, whether at Goodnestone, [Canterbury](/19c/19c-canterbury), Eastwell, [Chilham](Q1004824), or elsewhere.  When Austen stayed at Godmersham, she took occasional day trips to [Ashford](Q725261) or [Ramsgate](/19c/19c-ramsgate/), and made more frequent visits to [Canterbury](/19c/19c-canterbury)
+The luxurious existence at Godmersham was not its only attraction.  Visitors came frequently, and the Austens often received invitations to dine out, whether at Goodnestone, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), Eastwell, [Chilham](Q1004824), or elsewhere.  When Austen stayed at Godmersham, she took occasional day trips to [Ashford](Q725261) or [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/), and made more frequent visits to [Canterbury]({{ site.baseurl }}/19c/19c-canterbury)
 
 {% include embed/image.html src="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" aspect="1.333" caption="Godmersham Park" %}{: .right}
 

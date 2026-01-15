@@ -34,7 +34,7 @@ Her writing at this time could be described as part of the ‘New Woman’ movem
 
 {% include embed/image.html src="wc:Fig29NewWoman.png" aspect="0.545" caption="The New Woman c.1896" %}{: .right}
 
-From at least 1895 she was writing stories for [Jerome K. Jerome](/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon](/19c/19c-braddon-biography), Sarah [Grand](/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
+From at least 1895 she was writing stories for [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon]({{ site.baseurl }}/19c/19c-braddon-biography), Sarah [Grand]({{ site.baseurl }}/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
 
 {% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome" %}{: .right}
 

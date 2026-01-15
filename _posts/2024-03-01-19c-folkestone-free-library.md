@@ -13,7 +13,7 @@ published: true
 toc: false    
 ---
 
-Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. [Canterbury Museum and Public Library](/19c/19c-canterbury-free-library) (now The Beaney) opened its doors in 1858, making it the first free library in England.
+Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. [Canterbury Museum and Public Library]({{ site.baseurl }}/19c/19c-canterbury-free-library) (now The Beaney) opened its doors in 1858, making it the first free library in England.
 
 {% include embed/image.html src="wc:Canterbury_Library_main_entrance.jpg" aspect="1.0" caption="Canterbury Library" %}{: .right}
 
@@ -31,7 +31,7 @@ Nor was the open access system adopted until 1910. Before then anyone wanting to
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Library_indicator__1.jpg" aspect="1.333" caption="Library Indicator" attribution="Kent Archive and Local History Service" %}{: .right}
 
-[H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the [Folkestone library](Q26314337) in 1905, where he claims nervously, _‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’._ 
+[H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography) sends Kipps to the [Folkestone library](Q26314337) in 1905, where he claims nervously, _‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’._ 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Kipps_in_Folkestone_Library.jpg" aspect="0.75" caption="Kipps in Folkestone Library" attribution="Kent Archive and Local History Service" %}{: .right}
 

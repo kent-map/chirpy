@@ -19,19 +19,19 @@ toc: false
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Gladys_Waterer__1.jpg" aspect="1.269" caption="Gladys Waterer, as Mrs Squeers, Dickens Festival 1939" %}{: .right}
 
-Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs](/dickens/broadstairs) branch of the Dickens Fellowship from its inauguration in 1837. Her parents Clarence and Emmeline Waterer were from Surrey, where they had married in 1884. Gladys was born in Addlestone on 17 March 1885, around two years before her brother Clarence. By 1901 the family was living at 35 Northdown Avenue in [Margate](Q618045). 
+Gladys Waterer was best known in her lifetime as a dramatist and leading light of the [Broadstairs]({{ site.baseurl }}/dickens/broadstairs) branch of the Dickens Fellowship from its inauguration in 1837. Her parents Clarence and Emmeline Waterer were from Surrey, where they had married in 1884. Gladys was born in Addlestone on 17 March 1885, around two years before her brother Clarence. By 1901 the family was living at 35 Northdown Avenue in [Margate](Q618045). 
 
 {% include embed/image.html src="wc:Broadstairs_bandstand_performance_-_geograph.org.uk_-_2053865.jpg" aspect="1.5" caption="Broadstairs" %}{: .right}
 
 {% include embed/image.html src="wc:Margate_parade_1904.jpg" aspect="1.566" caption="Margate Parade 1904" %}{: .right}
 
-The 1939 census places Gladys back at 35 Northdown Avenue, presumably helping to look after her father, who is described as 'incapacitated'. Emmeline Waterer would die two years later at the age of 81, and Clarence in 1943, aged 85. But from at least 1937 Gladys had been living with Dora Tattam at [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial Dickens festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
+The 1939 census places Gladys back at 35 Northdown Avenue, presumably helping to look after her father, who is described as 'incapacitated'. Emmeline Waterer would die two years later at the age of 81, and Clarence in 1943, aged 85. But from at least 1937 Gladys had been living with Dora Tattam at [2 Nuckell’s Place]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place), the original of Aunt Betsey’s cottage in _David Copperfield_. For the initial Dickens festival she adapted _Pickwick_ with Nina Boreham, followed by _David Copperfield_ (complete with donkeys) in 1938. By 1964 she had tackled every one of the major works bar _Oliver Twist_, which she candidly admitted she couldn’t face living with for the eight months it would have taken to prepare a suitable play. 
 
 {% include embed/image.html src="wc:David_Copperfield_%281850%29_%2814593575778%29.jpg" aspect="0.785" caption="David Copperfield, 1850" %}{: .right}
 
 {% include embed/map.html center="Q107337170" zoom="10" markers="Q107337170" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
 
-While her name appears only sporadically in newspapers and most often in connection with [Dickens](/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). 
+While her name appears only sporadically in newspapers and most often in connection with [Dickens]({{ site.baseurl }}/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/982eba99-332b-4bcd-8cbe-a328476822ca" aspect="0.656" caption="Gladys Waterer" attribution="By kind permission of Broadstairs Museum" %}{: .right}
 

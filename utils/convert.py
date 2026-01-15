@@ -936,6 +936,12 @@ toc: false
     
     return None
 
+def update_links(text):
+    pattern = re.compile(r'\[([^\]]+)\]\(\s*/([^)\s]+)\s*\)')
+    replacement = r'[\1]({{ site.baseurl }}/\2)'
+
+    out = pattern.sub(replacement, text)
+    return out
 
 # ============================================================================
 # Main Conversion Logic
@@ -1009,6 +1015,8 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
         
         # Clean markdown
         md = clean(md)
+        
+        md = update_links(md)
         
         # Write converted file
         if fm:

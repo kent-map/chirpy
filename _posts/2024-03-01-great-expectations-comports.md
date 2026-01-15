@@ -33,7 +33,7 @@ toc: false
 
 My first encounter with _Great Expectations_ was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spellbound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip.
 
-Very much later I realised that Pip’s terrifying encounter with Magwitch had taken place in [Cooling](/dickens/great-expectations-cooling) churchyard, the man who ‘started up from among the graves at the side of the porch’ to threaten Pip was hiding behind a tomb of one of my ancestors, and the tombs that were ‘sacred to the memory of five little brothers of mine’ were the tombs of Comport children, all of whom died in early infancy. There are in fact thirteen lozenge tombs grouped around the headstone of the parents of many of them. The parents' stone towers above the tombs that are ‘each about a foot and a half long’. 
+Very much later I realised that Pip’s terrifying encounter with Magwitch had taken place in [Cooling]({{ site.baseurl }}/dickens/great-expectations-cooling) churchyard, the man who ‘started up from among the graves at the side of the porch’ to threaten Pip was hiding behind a tomb of one of my ancestors, and the tombs that were ‘sacred to the memory of five little brothers of mine’ were the tombs of Comport children, all of whom died in early infancy. There are in fact thirteen lozenge tombs grouped around the headstone of the parents of many of them. The parents' stone towers above the tombs that are ‘each about a foot and a half long’. 
 
 {% include embed/image.html src="wc:%22Pip%27s_Graves%22%2C_Cooling.jpg" aspect="1.333" caption="Pip's Graves" %}{: .right}
 

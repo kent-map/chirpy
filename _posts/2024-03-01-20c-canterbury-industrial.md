@@ -22,7 +22,7 @@ One of the largest upholstery tanneries in Europe prospered throughout the 20th 
 
 {% include embed/map.html center="Q17529474" zoom="15" markers="Q17529474" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}{: .right}
 
-The owners of the business, the Williamson family, were great benefactors of the city, giving their home, [Tower House](Q26534635), the Westgate Gardens and the Tannery Field to the council in 1936. [Catherine Williamson](Q28921788) became the city’s first female mayor (1938-40) and earned huge respect for her civic dedication during and after the [Second World War](/canterbury/20c-canterbury-ww2).
+The owners of the business, the Williamson family, were great benefactors of the city, giving their home, [Tower House](Q26534635), the Westgate Gardens and the Tannery Field to the council in 1936. [Catherine Williamson](Q28921788) became the city’s first female mayor (1938-40) and earned huge respect for her civic dedication during and after the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
 
 {% include embed/image.html src="wc:Westgate_Gardens_5.JPG" aspect="1.333" caption="Westgate Gardens" %}{: .right}
 
@@ -40,6 +40,6 @@ The sculptured figure of a cow standing alongside the ring road on the Tannery F
 
 ***
 
-Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-canterbury-commerce), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2).
+Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
 
 {% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}{: .right}

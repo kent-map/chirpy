@@ -49,7 +49,7 @@ Franklin’s ships, HMS “Erebus” and HMS “Terror”, were towed downstream
 
 {% include embed/image.html src="wc:Terror_%281813%29%3B_Erebus_%281826%29_RMG_J1412.png" aspect="0.671" caption="Terror" %}{: .right}
 
-In 1859, after twelve years of searching, proof was found that everyone on the expedition had lost his life, and Franklin himself had died on 11 June 1847. [Dickens](/dickens/dickens-biography) among others vehemently opposed any suggestion that Franklin's crew had resorted to cannibalism before they died. The ships were not found until 2014 and 2016 respectively, and explorations continue in hope of finally resolving the mystery of the lost Franklin expedition.
+In 1859, after twelve years of searching, proof was found that everyone on the expedition had lost his life, and Franklin himself had died on 11 June 1847. [Dickens]({{ site.baseurl }}/dickens/dickens-biography) among others vehemently opposed any suggestion that Franklin's crew had resorted to cannibalism before they died. The ships were not found until 2014 and 2016 respectively, and explorations continue in hope of finally resolving the mystery of the lost Franklin expedition.
 
 In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in his honour circa 2000; he would have known it as The White Hart. The village’s other pub, which Franklin would have known as The Admiral Keppell, became The Pier Hotel in 1847[^ref3]. Each of these establishments backs onto the river and each boasts a suitable wharf from which Erebus or Terror could have set sail. 
 

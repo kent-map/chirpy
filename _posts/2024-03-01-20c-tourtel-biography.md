@@ -16,13 +16,13 @@ toc: false
 
 <!-- Historical map layers -->
 
-Mary Tourtel (nee Caldwell) was the last child of Sarah and Samuel Caldwell. She was born in 1874 in 52 Palace Street in [Canterbury](/19c/19c-canterbury), where she grew up. Her father and one brother were stonemasons and stained-glass designers at Canterbury Cathedral. Her eldest brother, Edmund, was also an artist with an interest in painting animals.
+Mary Tourtel (nee Caldwell) was the last child of Sarah and Samuel Caldwell. She was born in 1874 in 52 Palace Street in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), where she grew up. Her father and one brother were stonemasons and stained-glass designers at Canterbury Cathedral. Her eldest brother, Edmund, was also an artist with an interest in painting animals.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Tourtel_cantmus.jpg" aspect="0.75" caption="Mary Tourtel at her home in Palace Street, Canterbury. Circa 1895." attribution="©Canterbury Museums and Galleries" %}{: .right}
 
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-Mary went to school in [Canterbury](/19c/19c-canterbury). Like her father and brothers, she had an interest in art and attended the Sidney Cooper School of Art under Thomas Sidney Cooper. She had a particular fondness and ability for capturing the likenesses of animals. Before becoming the writer and illustrator of [Rupert Bear](/20c/20c-rupert-bear) for the _Daily Express_ in 1920, she created characters and scenes more akin to the [Kentish landscape](/landscape/kentish-landscapes). 
+Mary went to school in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). Like her father and brothers, she had an interest in art and attended the Sidney Cooper School of Art under Thomas Sidney Cooper. She had a particular fondness and ability for capturing the likenesses of animals. Before becoming the writer and illustrator of [Rupert Bear]({{ site.baseurl }}/20c/20c-rupert-bear) for the _Daily Express_ in 1920, she created characters and scenes more akin to the [Kentish landscape]({{ site.baseurl }}/landscape/kentish-landscapes). 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Sidney_Cooper.jpg" aspect="1.333" caption="The Sidney Cooper Gallery" attribution="© Martin Crowther" %}{: .right}
 
@@ -42,7 +42,7 @@ This clear influence is highlighted in the diary of Herbert Tourtel, Mary’s hu
 
 {% include embed/map.html center="Q7148079" zoom="13" markers="Q7148079" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-It was not only the natural landscapes that inspired Tourtel’s work. She also created artworks inspired by the architecture, including the Cathedral at [Canterbury](/19c/19c-canterbury), where her father worked as a stonemason and stained-glass designer. This watercolour is entitled ‘[Canterbury](Q29303) Cloisters,’ and was painted by Mary in 1894 when she was 20 years old. 
+It was not only the natural landscapes that inspired Tourtel’s work. She also created artworks inspired by the architecture, including the Cathedral at [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), where her father worked as a stonemason and stained-glass designer. This watercolour is entitled ‘[Canterbury](Q29303) Cloisters,’ and was painted by Mary in 1894 when she was 20 years old. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Tourtel_cantmus__5.jpg" aspect="0.657" caption="Canterbury Cloisters" attribution="©Canterbury Museums and Galleries" %}{: .right}
 

@@ -40,7 +40,7 @@ Together father and son wrote anthologies of poetry.
 
 {% include embed/map.html center="Q2197855" zoom="12" markers="Q2197855" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’, which tells the story of the Battle of [Aylesford](Q793057), in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
+_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’, which tells the story of the Battle of [Aylesford](Q793057), in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa]({{ site.baseurl }}/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
 
 {% include embed/image.html src="wc:Aylesford%2C_Kent_11.jpg" aspect="1.333" caption="Aylesford, Kent" %}{: .right}
 

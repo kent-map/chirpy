@@ -15,7 +15,7 @@ toc: false
 
 Mathematician, astronomer, chemist and polymath, Sir John Frederick William Herschel (1792-1871) moved to Collingwood House in [Hawkhurst, Kent](Q2744669) in 1840. Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.
 
-As well as naming seven moons of Saturn and four of the moons of Uranus, Sir John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins](/19c/19c-atkins-biography) in 1842. 
+As well as naming seven moons of Saturn and four of the moons of Uranus, Sir John Herschel made important contributions to photography, inventing the cynatope photographic process used by [Anna Atkins]({{ site.baseurl }}/19c/19c-atkins-biography) in 1842. 
 
 {% include embed/image.html src="wc:Sir_William_Herschel_and_Caroline_Herschel._Wellcome_V0002731_%28cropped%29.jpg" aspect="0.689" caption="Sir William Herschel and Caroline Herschel" %}{: .right}
 
@@ -35,11 +35,11 @@ Sir John contributed to the life of the village and in November 1857, read a lec
 
 Despite his failing health, Herschel continued to write and correspond with the scientific community, publishing books on astronomy and translating the _Iliad_. He also wrote articles for the _Edinburgh Encyclopedia_ on mathematics and isoperimetrical problems and ones on meteorology, physical geography and the telescope for _Encylopedia Britannica_ .[^ref6]
 
-He was an inspiration to [Charles Darwin](/19c/19c-darwin-biography), who modelled _On the Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_ (1830), although John did not agree with Darwin's findings.[^ref7]
+He was an inspiration to [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography), who modelled _On the Origin of Species_ on Herschel's _Preliminary Discourse on Natural Science_ (1830), although John did not agree with Darwin's findings.[^ref7]
 
 {% include embed/image.html src="wc:Sir_John_Herschel_MET_DP295233.jpg" aspect="0.793" caption="Sir John Herschel" %}{: .right}
 
-Sir John died at Collingwood on 11 May 1871. His body was conveyed by train From Hawkhurst to Charing Cross station where it was taken by hearse to Westminster Abbey. Sir John was buried near the tomb of Sir Isaac Newton. [Charles Darwin](/19c/19c-darwin-biography) was in the congregation[^ref8] and on his death was buried next to Herschel.
+Sir John died at Collingwood on 11 May 1871. His body was conveyed by train From Hawkhurst to Charing Cross station where it was taken by hearse to Westminster Abbey. Sir John was buried near the tomb of Sir Isaac Newton. [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography) was in the congregation[^ref8] and on his death was buried next to Herschel.
 
 This article was published 17 December 2023.
 

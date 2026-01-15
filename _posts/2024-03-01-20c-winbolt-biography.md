@@ -70,7 +70,7 @@ Indeed, Winbolt recognised that keeping the project in the limelight was importa
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Roman_Folkestone_inside_MJC.jpg" aspect="1.205" caption="Roman Folkestone by S.E. Winbolt" %}{: .right}
 
-Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, 'if he had another choice he would be a Kentish man'[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described [Richborough](/20c/20c-richborough) as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
+Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, 'if he had another choice he would be a Kentish man'[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described [Richborough]({{ site.baseurl }}/20c/20c-richborough) as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
 
 {% include embed/image.html src="wc:Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg" aspect="1.511" caption="Farm House at St Radegund’s Abbey" %}{: .right}
 

@@ -26,7 +26,7 @@ In 1933, Reg Barrett opened a store in St George’s Street which brought togeth
 
 {% include embed/map.html center="51.2780188177824, 1.08137879348189" zoom="15" markers="51.2780188177824, 1.08137879348189" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}{: .right}
 
-The success of Lefevre’s and the Barretts’ stores in the 1930s heralded Canterbury’s phenomenal development after the [Second World War](/canterbury/20c-canterbury-ww2) as East Kent’s major shopping centre. Canterbury’s prime retail area in the St George’s Street, Longport, Whitefriars quadrant of the city arose from the devastation of the area by the 1942 bombing. The townscape of the area has changed architecturally twice with the rebuilds of the 1960s and 1990s (completing the Whitefriars in 2008), but with the consistent purpose of making Canterbury the premier shopping centre for East Kent.
+The success of Lefevre’s and the Barretts’ stores in the 1930s heralded Canterbury’s phenomenal development after the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) as East Kent’s major shopping centre. Canterbury’s prime retail area in the St George’s Street, Longport, Whitefriars quadrant of the city arose from the devastation of the area by the 1942 bombing. The townscape of the area has changed architecturally twice with the rebuilds of the 1960s and 1990s (completing the Whitefriars in 2008), but with the consistent purpose of making Canterbury the premier shopping centre for East Kent.
 
 {% include embed/map.html center="Q17064998" zoom="15" markers="Q17064998" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}{: .right}
 
@@ -46,7 +46,7 @@ The Canterbury Guildhall had stood on its site at the junction of Palace Street 
 
 {% include embed/map.html center="Q17641331" zoom="15" markers="Q17641331" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}{: .right}
 
-[Commerce](/canterbury/20c-canterbury-commerce) has been combined with conservation. [Conquest House](Q17557113), in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
+[Commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) has been combined with conservation. [Conquest House](Q17557113), in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
 
 {% include embed/image.html src="wc:Canterbury_-_Conquest_House.jpg" aspect="0.659" caption="Conquest House" %}{: .right}
 
@@ -64,6 +64,6 @@ Does internet shopping and the closures accelerated by coronavirus signal the en
 
 ***
 
-Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-canterbury-commerce) and [industrial heritage](/canterbury/20c-canterbury-industrial), its [trading estates](/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](/canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2).
+Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
 
 {% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}{: .right}

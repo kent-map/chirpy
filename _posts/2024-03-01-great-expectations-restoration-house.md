@@ -18,7 +18,7 @@ toc: false
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Satis_house.jpg" aspect="0.677" caption="Restoration House, Crow Lane, Rochester, Kent by Ernest William Haslehust (1866-1949), RI, RWA 1911" attribution="Scanned image and text by Philip V. Allingham, www.victorianweb.org" %}{: .right}
 
-As with [Fort House](/dickens/dickens-fort-house) in [Broadstairs](dickens-broadstairs) , Dickens's fiction bleeds across the real buildings of Rochester to create new associations. Satis House in Rochester both is and is not an ‘original’ for Miss Havisham’s forbidding domicile in _Great Expectations_, – because there really is a house by this name in the town, but it is not the Satis House of the novel. That distinction belongs to [Restoration House](https://www.restorationhouse.co.uk/the-house) in Crow Lane, just outside the city wall. Dickens’s appropriation of ‘Satis’ (enough) for the scene of Miss Havisham’s immolation, is deeply ironic. But certainly there is no promise of ‘restoration’ and indeed the house is last seen on the eve of its final demolition.
+As with [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) in [Broadstairs](dickens-broadstairs) , Dickens's fiction bleeds across the real buildings of Rochester to create new associations. Satis House in Rochester both is and is not an ‘original’ for Miss Havisham’s forbidding domicile in _Great Expectations_, – because there really is a house by this name in the town, but it is not the Satis House of the novel. That distinction belongs to [Restoration House](https://www.restorationhouse.co.uk/the-house) in Crow Lane, just outside the city wall. Dickens’s appropriation of ‘Satis’ (enough) for the scene of Miss Havisham’s immolation, is deeply ironic. But certainly there is no promise of ‘restoration’ and indeed the house is last seen on the eve of its final demolition.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/3c4c6ac1-83f5-4506-b071-fa8fb35f90bc" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}{: .right}
 
@@ -31,7 +31,7 @@ Opposite the house is a small park, where today there is a convenient bench with
 
 See also [Mobile Landscapes](dickens/mobile-landscapes)
 
-[Ellen Ternan](/19c/19c-ternan-biography), sometimes believed to be the inspiration for Estella, also had connections with Rochester.
+[Ellen Ternan]({{ site.baseurl }}/19c/19c-ternan-biography), sometimes believed to be the inspiration for Estella, also had connections with Rochester.
 
 Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](https://explorekent.org/activities/the-vines-gardens/)
 

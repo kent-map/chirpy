@@ -64,7 +64,7 @@ These documents were only produced after Tradescant’s death at Lambeth on 22 A
 
 {% include embed/image.html src="wc:Edward_Hyde%2C_1st_Earl_of_Clarendon_by_Adriaen_Hanneman.jpg?20091204062317" aspect="0.51" caption="Edward Hyde, 1st Earl of Clarendon, c.1671, by Adriaen Hanneman" %}{: .right}
 
-A few years later, in 1683, Ashmole used the Tradescant collection as part of the basis of the Ashmolean Museum at the University of Oxford, under the curatorship of [Robert Plot](/17c/17c-robert-plot). The Ashmolean, like The Ark, was open to all, and in essence this outcome produced the same effect as Tradescant’s second will might have, if the collection had been granted to the University in 1662.
+A few years later, in 1683, Ashmole used the Tradescant collection as part of the basis of the Ashmolean Museum at the University of Oxford, under the curatorship of [Robert Plot]({{ site.baseurl }}/17c/17c-robert-plot). The Ashmolean, like The Ark, was open to all, and in essence this outcome produced the same effect as Tradescant’s second will might have, if the collection had been granted to the University in 1662.
 
 {% include embed/image.html src="wc:Ashmolean_Museum_in_July_2014.jpg" aspect="1.505" caption="Ashmolean Museum, 2014" %}{: .right}
 

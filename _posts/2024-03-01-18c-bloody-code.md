@@ -26,7 +26,7 @@ Whilst the reasons behind the increase in laws carrying the death penalty are a 
 {% include embed/image.html src="wc:An_original_portrait_of_Captain_Swing_%28BM_1948%2C0214.941_1%29.jpg" aspect="0.825" caption="An original portrait of Captain Swing, 1830" %}{: .right}
 
 The criminal law was reformed and the Bloody Code abolished by the 1830s, following the work of the English lawyer and social reformer Sir Samuel Romilly. Romilly was an anti-slavery supporter of Wilberforce, and devoted his time as an MP to removing capital punishment for petty offences.   
-See also [Magwitch](/dickens/great-expectations-curated-walk)   
+See also [Magwitch]({{ site.baseurl }}/dickens/great-expectations-curated-walk)   
 
 {% include embed/image.html src="wc:Sir_Samuel_Romilly.jpg" aspect="0.84" caption="Sir Samuel Romilly, c.1806-10" %}{: .right}
 

@@ -19,7 +19,7 @@ toc: false
 
 <!-- Historical map layers -->
 
-Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number of authors. His collaboration with [Dickens](/dickens) began and ended with two novels connected to Kent, [The Pickwick Papers](/dickens/pickwick-papers) and [A Tale of Two Cities](/dickens/tale-two-cities) respectively.
+Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number of authors. His collaboration with [Dickens]({{ site.baseurl }}/dickens) began and ended with two novels connected to Kent, [The Pickwick Papers]({{ site.baseurl }}/dickens/pickwick-papers) and [A Tale of Two Cities]({{ site.baseurl }}/dickens/tale-two-cities) respectively.
 
 {% include embed/image.html src="wc:Pickwick_Weller_Hablot_Knight_Browne_1836.jpg" aspect="0.77" caption="Pickwick Weller, 1836" %}{: .right}
 
@@ -29,7 +29,7 @@ While it is uncertain when Browne visited Kent, we do know that he was here on a
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}{: .right}
 
-We know that he also visited [Margate](/19c-margate) at least once, from an undated letter written to his son Walter from 6A Crescent Place (formerly one of the chief buildings in the town according to Walley Oulton).[^ref1]  A local guide describes the High Street’s ‘wooden booths where you may buy a walking-stick, then go into the next one and have your hair cut and curled, and afterwards step next door and take a bath’.[^ref2]  Browne includes an illustration of himself struggling with a towel in one of these baths, ‘the gas-burner being so ingeniously placed that it was impossible for any bather to avoid casting gigantic studies of the nude upon the window blind.’[^ref3] 
+We know that he also visited [Margate]({{ site.baseurl }}/19c-margate) at least once, from an undated letter written to his son Walter from 6A Crescent Place (formerly one of the chief buildings in the town according to Walley Oulton).[^ref1]  A local guide describes the High Street’s ‘wooden booths where you may buy a walking-stick, then go into the next one and have your hair cut and curled, and afterwards step next door and take a bath’.[^ref2]  Browne includes an illustration of himself struggling with a towel in one of these baths, ‘the gas-burner being so ingeniously placed that it was impossible for any bather to avoid casting gigantic studies of the nude upon the window blind.’[^ref3] 
 
 {% include embed/map.html center="Q618045" zoom="13" markers="Q618045" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}{: .right}
 
@@ -37,7 +37,7 @@ It is possible that this was more a work trip than a holiday per se, as Browne w
 
 {% include embed/map.html center="Q618045" zoom="13" markers="Q618045" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}{: .right}
 
-While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens](/dickens) at [Gad’s Hill](/dickens/dickens-gads-hill).
+While Browne clearly enjoyed the comedic opportunities of a holiday in Kent, it is poignant to remember that he probably never visited his former friend and collaborator [Dickens]({{ site.baseurl }}/dickens) at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill).
 
 {% include embed/image.html src="https://iiif.wellcomecollection.org/image/V0039463/full/full/0/default.jpg" aspect="0.857" caption="A man with a carpetbag and an umbrella enters a lodging house and asks for a room, but the landlady rejects his request, thinking that his carpetbag identifies him with a man who had defrauded other lodging houses" attribution="Wood engraving after Phiz, Wellcome Collection" %}{: .right}
 

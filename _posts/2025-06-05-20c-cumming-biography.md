@@ -22,7 +22,7 @@ Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on 
 
 {% include embed/image.html src="wc:Bruno_Liljefors_-_Black_pony_1887.jpg" aspect="1.27" caption="Black Pony, 1887" %}{: .right}
 
-Primrose’s older siblings Richard and Violet were both born in the [Cranbrook](Q2160826) district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]( /20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911, and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
+Primrose’s older siblings Richard and Violet were both born in the [Cranbrook](Q2160826) district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]({{ site.baseurl }}/20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911, and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
 
 {% include embed/image.html src="wc:Cleve_Court%2C_Thanet-geograph.org.uk-2261048.jpg" aspect="1.333" caption="Cleve Court" %}{: .right}
 

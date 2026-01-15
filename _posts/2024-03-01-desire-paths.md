@@ -20,7 +20,7 @@ The first roads were desire lines, connecting towns and villages to one another.
 {% include embed/image.html src="https://stor.artstor.org/stor/a1030442-f940-4024-b047-7790ada36d4c" aspect="0.75" caption="Desire path" attribution="Daisy Butcher" %}{: .right}
 
 **A Local History of Desire Paths**   
-Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion',[^ref1] since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the [medieval](/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
+Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion',[^ref1] since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the [medieval]({{ site.baseurl }}/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
 
 This historic pathway still exists today, and there are similarly connected routes in the more everyday locations of the city. Whether window shopping along the high street or hurrying to the train station, you’re walking along paths that many pilgrims would once have taken. Notably, ‘pilgrimage’ also means to wander, and it is wandering beyond these existing routes that creates desire paths. 
 
@@ -31,7 +31,7 @@ Rebecca Solnit’s _Wanderlust: A History of Walking_ provides interesting persp
 {% include embed/image.html src="https://stor.artstor.org/stor/41eafcdb-aeb1-4406-8269-3ef56a2b1e05" aspect="0.75" caption="Desire path" attribution="Daisy Eleanor" %}{: .right}
 
 **The Written History of Desire Paths**    
-Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn](/17c/17c-behn-biography) (1640-1689). The city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
+Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn]({{ site.baseurl }}/17c/17c-behn-biography) (1640-1689). The city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
 
 Looking beyond Canterbury, we find literary figures such as Thoreau, the Transcendentalist writer who wrote his essay 'Walking' (1862) on the title topic. Over 24 pages, Thoreau framed walking as a self-reflective practice that, in connecting with nature, connected him to the world of thought. If you’ve ever wistfully stared out from a train carriage window or sat in a park and watched dog walkers pass by, you’ve probably practised it too. His ideas have been likened to 21st Century ‘mindfulness’, and they are certainly useful when considering the nature of walking and the history of desire paths in literature. 
 
@@ -54,7 +54,7 @@ To create your own desire path walk, you can find one local to you or start here
 
 {% include embed/image.html src="wc:Monastery_Street%2C_Canterbury_-_geograph.org.uk_-_4472902.jpg" aspect="1.333" caption="Monastery Street, Canterbury" %}{: .right}
 
-If you’re on the High Street, you can pass the [Cathedral](/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
+If you’re on the High Street, you can pass the [Cathedral]({{ site.baseurl }}/pages/canterbury-cathedral-now-and-then) and walk towards Abbots Mill Garden or Westgate Gardens if you’d rather go further. Around these areas, you’ll be sure to find another desire path to continue your journey. 
 
 Once you’ve found one, consider whether the path has changed the architecture. Is it a newer trail of scuffed-up dirt, or is it a cemented path over what once would have been one? Can you tell if pedestrians still walk across it?
 

@@ -22,7 +22,7 @@ Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, ac
 
 {% include embed/image.html src="wc:Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" aspect="0.769" caption="Mary Elizabeth Maxwell (née Braddon) by William Powell Frith.jpg" %}{: .right}
 
-The 1863 novel _Aurora Floyd_ opens with a description of 'the rich darkness of the Kentish woods' where Archibald Floyd retires from his city banking career and offends the neighbouring gentry by marrying an actress. Braddon and her family lived in Richmond, but in 1878 they were in [Broadstairs](/dickens/broadstairs-19th-century) ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’ Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
+The 1863 novel _Aurora Floyd_ opens with a description of 'the rich darkness of the Kentish woods' where Archibald Floyd retires from his city banking career and offends the neighbouring gentry by marrying an actress. Braddon and her family lived in Richmond, but in 1878 they were in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’ Like the parents of [Emily Shore]({{ site.baseurl }}/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Braddon_family.jpg" aspect="0.817" caption="M.E. Braddon and family" attribution="©ICVWW " %}{: .right}
 
@@ -32,7 +32,7 @@ The 1863 novel _Aurora Floyd_ opens with a description of 'the rich darkness of 
 
 {% include embed/map.html center="Q922739" zoom="12" markers="Q922739" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little [Broadstairs](Q922739), with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 
+But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little [Broadstairs](Q922739), with alternations of gaiety at [Margate]({{ site.baseurl }}/dickens/19c-margate) and [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate)’. 
 _Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests that a character who spends the summer in ‘some Bad in Bohemia’, identified only as ‘a Bad with a crackjaw name’, never gets further than the Thanet coast:   
 
 _I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and [Birchington](Q865021), and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season._
@@ -45,7 +45,7 @@ _I believe he invents a name and a Bad every summer, and then goes quietly and l
 
 {% include embed/map.html center="Q618045" zoom="13" markers="Q618045" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
+[_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
 _Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and [Ramsgate](Q736439)!_
 
 {% include embed/image.html src="wc:North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg" aspect="1.333" caption="North Cliff, near Broadstairs - geograph.org.uk - 185248.jpg" %}{: .right}

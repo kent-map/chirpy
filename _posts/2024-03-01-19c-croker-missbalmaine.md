@@ -22,7 +22,7 @@ toc: false
 
 {% include embed/map.html center="Q1506093" zoom="11" markers="Q1506093" allmaps="e401b16b2669a50d~OS SE 1903" %}{: .right}
 
-‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate](/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
+‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" aspect="1.333" caption="Blue Plaque, 10 Radnor Cliff" attribution="Martin Crowther" %}{: .right}
 
@@ -74,7 +74,7 @@ Mrs Croker described [New Romney](Q181071) and the Marshes as timeless and tedio
 
 {% include embed/map.html center="Q1506093" zoom="11" markers="Q1506093" allmaps="e401b16b2669a50d~OS SE 1903" %}{: .right}
 
-Bithia Croker continued to write until she died in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in [Sandgate](Q1000312).[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19c-florence-warden-biography) and [H.G.Wells](/20c/20c-wellshg-biography/).
+Bithia Croker continued to write until she died in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in [Sandgate](Q1000312).[^ref2] Other noted Sandgate writers at this period include [Florence Warden]({{ site.baseurl }}/19c/19c-florence-warden-biography) and [H.G.Wells]({{ site.baseurl }}/20c/20c-wellshg-biography/).
 
 This article was published: 4 December 2021.
 

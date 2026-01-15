@@ -14,7 +14,7 @@ toc: false
 ---
 
 
-In her 2021 novel _[A Sin of Omission]( https://www.envelopebooks.co.uk/a-sin-of-omission)_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in [Canterbury](/19c/19c-canterbury). After their studies, students were sent on Holy missions across the world. In the novel, Poland follows a young Ngqika man, Stephen Mzamane, who is based on a former student of the college, Reverend Stephen Mtutuko Mnyakama. In our discussion on the Writing Comes Alive Podcast, Poland informed me that her great-grandfather Alfred William Brereton was also a student at the college, and loosely influenced another character in the novel, Reverend Turvey.
+In her 2021 novel _[A Sin of Omission]( https://www.envelopebooks.co.uk/a-sin-of-omission)_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). After their studies, students were sent on Holy missions across the world. In the novel, Poland follows a young Ngqika man, Stephen Mzamane, who is based on a former student of the college, Reverend Stephen Mtutuko Mnyakama. In our discussion on the Writing Comes Alive Podcast, Poland informed me that her great-grandfather Alfred William Brereton was also a student at the college, and loosely influenced another character in the novel, Reverend Turvey.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/4cd4b6d3-4f35-4412-9634-7b08e7f93583" aspect="1.506" caption="Louis Laurent Razé’s 1848 view of the quadrangle by kind permission of Peter Henderson" %}{: .right}
 
@@ -64,7 +64,7 @@ Nevertheless, it has been documented that many students still had a strong affil
 
 {% include embed/image.html src="https://stor.artstor.org/stor/6dbab552-24f7-4374-94c8-3bfeb96b1587" aspect="1.526" caption="St Augustine's College" %}{: .right}
 
-St. Augustine’s Missionary College was pivotal in [Canterbury](/19c/19c-canterbury)’s history at a time of extraordinary growth, both theologically and locally within the city. During its 96 years, the College sent out just under 1000 missionaries across the globe. Unfortunately, in 1942, the college was severely damaged by a German air raid and could no longer operate.  Thankfully, the lower chapel still holds a piece of the college’s history. In our discussion, Poland informed me of her experience visiting the lower chapel:
+St. Augustine’s Missionary College was pivotal in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury)’s history at a time of extraordinary growth, both theologically and locally within the city. During its 96 years, the College sent out just under 1000 missionaries across the globe. Unfortunately, in 1942, the college was severely damaged by a German air raid and could no longer operate.  Thankfully, the lower chapel still holds a piece of the college’s history. In our discussion, Poland informed me of her experience visiting the lower chapel:
 
 There were the names of all the alumni of the college carved on the wall. (She and her husband went on to find Mnyakama’s and her Great-Grandfather’s name.) – In a strange way, I suppose that was the only place where Stephen’s name was inscribed in stone, and to see that for me was very moving.[^ref22] 
 

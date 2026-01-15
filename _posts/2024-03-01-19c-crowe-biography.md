@@ -27,7 +27,7 @@ toc: false
 
 ‘There’s nothing to be made of the land … It will grow nothing but heath and furze’    
 
-Best known for her 1848 collection of ‘real’ ghost stories [_The Night Side of Nature: or of Ghosts and Ghost Seers_](https://www.gutenberg.org/files/54532/54532-h/54532-h.htm), which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens](/dickens/dickens-biography), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
+Best known for her 1848 collection of ‘real’ ghost stories [_The Night Side of Nature: or of Ghosts and Ghost Seers_](https://www.gutenberg.org/files/54532/54532-h/54532-h.htm), which documented ordinary people’s ‘actual’ brushes with ghosts and the supernatural and was highly praised by [Dickens]({{ site.baseurl }}/dickens/dickens-biography), Crowe shot to public and literary fame during the 1840s and 50s. That which brought her fame however also brought her ridicule and she suffered a brief psychotic breakdown in 1854. Dickens described her 1854 as ‘a Medium and an Ass, and I don’t know what else. The other day she was discovered walking down her own street in Edinburgh, not only stark mad but stark naked too’.
 
 {% include embed/image.html src="wc:7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg" aspect="0.608" caption="The Night Side of Nature" %}{: .right}
 
@@ -35,7 +35,7 @@ Best known for her 1848 collection of ‘real’ ghost stories [_The Night Side 
 
 {% include embed/map.html center="Q28339447" zoom="9.5" markers="Q28339447" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone](/19c/19c-folkestone) and passed away peacefully there. 
+Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) and passed away peacefully there. 
 
 {% include embed/map.html center="Q2001391" zoom="12" markers="Q2001391" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 

@@ -15,7 +15,7 @@ toc: false
 
 **2007**
 
-**1/10/2007** - I’ve just sent off the MS of ‘The Skies Over [Thanet](Q1752642)’ (the MS that subsequently became [Crab & Winkle](/21c/21c-crab-and-winkle)). The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting (in Kent) the atmosphere was affected by eruptions in Indonesia, half a world away.  
+**1/10/2007** - I’ve just sent off the MS of ‘The Skies Over [Thanet](Q1752642)’ (the MS that subsequently became [Crab & Winkle]({{ site.baseurl }}/21c/21c-crab-and-winkle)). The title’s from a Turner quote and fortuitously there’s an item in today’s _Guardian_ about meteorologists taking note of Turner’s sunsets. Apparently, as JMWT was painting (in Kent) the atmosphere was affected by eruptions in Indonesia, half a world away.  
 **15/10/2007** - Virginia Woolf was in [Rough Common](Q7370806) – at ‘[Moat House](Q26621065)’, addressed as [Blean](Q2741069), but just off the R.C. road, in 1910, one of her early breakdowns. The house was rented by Clive and Vanessa. The ‘rest cure’ didn’t work and she went into hospital, but she did write a nice paragraph about the surrounds.
 **23/12/2007** - [Dungeness](Q911577) – English Surrealist painters invariably dealt with the seaside. Surrealism was almost washed ashore from France. An anthology could be called ‘Flotsam’.
 
@@ -40,7 +40,7 @@ toc: false
 **16/4/2009** - The black poplar’s leaves start as reddish-brown then become green. The trees seem luminous at a distance. The dark green leaves on the forest floor are dog’s mercury.    
 
 **21/4/2009** - At Wilgate Green, between [Throwley](Q2621037) and Painter’s Forstal: small white butterfly with bright yellow wing-tips (m. orange tip, the f. has grey tips). <br> 
-**2/9/2009** - Paradoxically perhaps, I find myself the inhabitant of a county no-one I’ve met knows a lot about. A ‘home county’ but off the radar of many Brit. writers despite its history ([Ford](/20c/20c-fordmadoxford-biography), [Conrad](/19c/19c-conrad-biography) &c). History asserts itself in one particular: the Kent coast was for years accessible more by sea than by land. Hence association with smugglers, escaping Kings &c. And only an hour and a bit out of London, where they seem to know more about Yorkshire.   
+**2/9/2009** - Paradoxically perhaps, I find myself the inhabitant of a county no-one I’ve met knows a lot about. A ‘home county’ but off the radar of many Brit. writers despite its history ([Ford]({{ site.baseurl }}/20c/20c-fordmadoxford-biography), [Conrad]({{ site.baseurl }}/19c/19c-conrad-biography) &c). History asserts itself in one particular: the Kent coast was for years accessible more by sea than by land. Hence association with smugglers, escaping Kings &c. And only an hour and a bit out of London, where they seem to know more about Yorkshire.   
 
 **18/9/2009** -  A puffin over the [Oare Marshes](Q7074367) (strayed from the north Pacific).   
 
@@ -118,7 +118,7 @@ snowdrops eaten by pheasant (partly)
 
 2018
 
-**30/8/2018** - At [Rochester](Q507517) new housing advertises itself as ‘The Home Of [Great Expectations](/dickens/great-expectations-curated-walk)’.
+**30/8/2018** - At [Rochester](Q507517) new housing advertises itself as ‘The Home Of [Great Expectations]({{ site.baseurl }}/dickens/great-expectations-curated-walk)’.
 
 **3/9/2018** - Over the weekend, the Hop Festival. The town crazy for a few hours. We ventured out into it two or three times to check out the bands and the ambience generally. The Sun has its music in the beer garden so our backyard, two doors down, seems like the stalls. On the Saturday I picked up a hop vine for the fireplace and threw out the old one. On Sunday morning we walked over to Goodnestone and back through the farms.   
 

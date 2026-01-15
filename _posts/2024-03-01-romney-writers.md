@@ -13,11 +13,11 @@ published: true
 toc: false    
 ---
 
-A number of writers of the Edwardian era and the years between the World Wars chose to depict [Romney Marsh](Q1506093) in their work. Not least among them was [Henry James](/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  
+A number of writers of the Edwardian era and the years between the World Wars chose to depict [Romney Marsh](Q1506093) in their work. Not least among them was [Henry James]({{ site.baseurl }}/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  
 
 {% include embed/image.html src="wc:Harold_Gilman_-_Romney_Marsh_-_B1975.4.330_-_Yale_Center_for_British_Art.jpg" aspect="1.266" caption="Romney Marsh" %}{: .right}
 
-Among those drawn to the Romney Marsh was [Joseph Conrad](/19c/19c-conrad-biography), who for a while lived at [Aldington](Q921173) overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in [Dymchurch](Q2796278) with Conrad and another acquaintance.  
+Among those drawn to the Romney Marsh was [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography), who for a while lived at [Aldington](Q921173) overlooking the Marsh. A much lesser-known novelist who wrote less literary works - Edgar Jepson - recalled a day spent in [Dymchurch](Q2796278) with Conrad and another acquaintance.  
 
 {% include embed/map.html center="Q2796278" zoom="10" markers="Q2796278" allmaps="3cec6f180298eeb9~Mudge 1801" %}{: .right}
 
@@ -25,7 +25,7 @@ Jepson noted that they spent most of the afternoon ‘on Dymchurch wall, and the
 
 {% include embed/image.html src="wc:Ordnance_Survey_Drawings_-_Dungeness%2C_Kent_%28OSD_104-2%29.jpg" aspect="0.916" caption="Dungeness Point" %}{: .right}
 
-Jepson and [Joseph Conrad](/19c/19c-conrad-biography), judging by their respective works, were not particularly enamoured of the Marsh - certainly the descriptions they give us tend towards the gloomy. In Jepson’s _The Murder in Romney Marsh_ (1929) - a drug smuggling and murder mystery - he describes the Marsh as almost cheerful but then ‘a bank of heavy cloud drifted over its grey and drab flatness’ and when it became dark ‘it grew uncommonly eerie’ while in winter it is a  ‘bleak and bitter place’.[^ref3]   However he does admit that he could see ‘clear across the Marsh to the mist-wrapped  hills … six or seven miles away’. He is at one with Conrad in his opinion of the inhabitants of the Marsh too. Jepson notes that the people of the Marsh are somewhat standoffish to strangers and view them as ‘foreigners’.[^ref4]  
+Jepson and [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography), judging by their respective works, were not particularly enamoured of the Marsh - certainly the descriptions they give us tend towards the gloomy. In Jepson’s _The Murder in Romney Marsh_ (1929) - a drug smuggling and murder mystery - he describes the Marsh as almost cheerful but then ‘a bank of heavy cloud drifted over its grey and drab flatness’ and when it became dark ‘it grew uncommonly eerie’ while in winter it is a  ‘bleak and bitter place’.[^ref3]   However he does admit that he could see ‘clear across the Marsh to the mist-wrapped  hills … six or seven miles away’. He is at one with Conrad in his opinion of the inhabitants of the Marsh too. Jepson notes that the people of the Marsh are somewhat standoffish to strangers and view them as ‘foreigners’.[^ref4]  
 
 {% include embed/image.html src="wc:Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg" aspect="1.205" caption="Romney Marsh" %}{: .right}
 
@@ -33,7 +33,7 @@ Conrad’s tale set on the Marsh is a short story entitled ‘Amy Foster’ (190
 
 {% include embed/image.html src="wc:New_Romney_Old_pre_1905.jpg" aspect="1.61" caption="Old Mill, New Romney pre-1905" %}{: .right}
 
-In Kipps (1905) [H. G.  Wells’s](/20c/20c-wellshg-biography) picture of the Marsh is one seen through the eyes of young boys inhabiting an idyllic world:
+In Kipps (1905) [H. G.  Wells’s]({{ site.baseurl }}/20c/20c-wellshg-biography) picture of the Marsh is one seen through the eyes of young boys inhabiting an idyllic world:
 
 There were glorious days of ‘mucking about’ along the beach, the siege of unresisting Martello towers, the incessant interest of the mystery and motion of windmills, the windy excursions with boarded feet over the yielding shingle to Dungeness lighthouse— far adrift from reality, smugglers and armed men from the moment they left Great Stone behind them—wanderings in the hedgeless reedy marsh, long excursions reaching even to Hythe, where the machine guns of the Empire are forever whirling and tapping . . .  The sky in these memories was the blazing hemisphere of the marsh heavens in summer, or its wintry tumult of sky and sea; and there were wrecks, real wrecks, and there was bathing all naked in the sea, bathing to one's armpits and even trying to swim in the warm sea-water and the rare eating of dinner from a paper parcel miles away from home.[^ref6] 
 
@@ -53,7 +53,7 @@ Everything was vivid - either very dark or very light. Such grass as they came t
 
 {% include embed/image.html src="wc:Doctor_Syn_1915_Doubleday_cover.png" aspect="0.635" caption="Dr Syn" %}{: .right}
 
-In the 21st century _Dr Syn_ has continued to inspire authors, and a novel by crime writer [Martin Edwards](/21c/21c-edwards-sepulchre-street) its famous chorus:
+In the 21st century _Dr Syn_ has continued to inspire authors, and a novel by crime writer [Martin Edwards]({{ site.baseurl }}/21c/21c-edwards-sepulchre-street) its famous chorus:
 
 ‘Here’s to the feet wot have walked the plank –
 Yo-ho for the dead man’s throttle!

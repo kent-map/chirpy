@@ -30,20 +30,20 @@ This epigraph, which clearly underlines his affection for and pride in Kent, was
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
 
 **Betteshanger**    
-Boys farmed at Betteshanger Home Farm, about five miles inland from [Deal](/seascape/deal). He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
+Boys farmed at Betteshanger Home Farm, about five miles inland from [Deal]({{ site.baseurl }}/seascape/deal). He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
 
 {% include embed/image.html src="wc:%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff" aspect="0.772" caption="Taking in new hay and stacking it, possibly Kent, June 1774" %}{: .right}
 
 {% include embed/map.html center="Q2455830" zoom="12" markers="Q2455830" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
 
-The Morrice family sold the [Betteshanger](Q4898591) estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
+The Morrice family sold the [Betteshanger](Q4898591) estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne]({{ site.baseurl }}/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
 
 {% include embed/image.html src="wc:Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg" aspect="1.333" caption="Home Farm and Home Farm cottages, Little Betteshanger" %}{: .right}
 
 {% include embed/map.html center="Q4898591" zoom="12" markers="Q4898591" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
 
 **A General view of the agriculture of the county of Kent**   
-Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
+Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography]({{ site.baseurl }}/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" aspect="1.172" caption="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}{: .right}
 

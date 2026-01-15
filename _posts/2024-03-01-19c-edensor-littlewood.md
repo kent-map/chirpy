@@ -25,7 +25,7 @@ John Edensor Littlewood, mathematician was born in [Rochester](Q507517) on 9 Jun
 
 {% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-The Littlewood family moved to [Dover](/19c/19c-dover/) in 1887, where his father took up a post at [Dover](Q179224) College, set in the grounds and ruins of the Priory of St. Martin. Edward's younger brother Francis had attended the school which had been established sixteen years earlier. It was here that John's two brothers Martin and Leslie were born and where his parents took in boarders, so home life would have been lively with babies and young boys.[^ref4] 
+The Littlewood family moved to [Dover]({{ site.baseurl }}/19c/19c-dover/) in 1887, where his father took up a post at [Dover](Q179224) College, set in the grounds and ruins of the Priory of St. Martin. Edward's younger brother Francis had attended the school which had been established sixteen years earlier. It was here that John's two brothers Martin and Leslie were born and where his parents took in boarders, so home life would have been lively with babies and young boys.[^ref4] 
 
 {% include embed/image.html src="wc:Dover_College_postcard.jpg" aspect="1.547" caption="Dover College" %}{: .right}
 

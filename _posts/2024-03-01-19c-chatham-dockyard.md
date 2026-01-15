@@ -18,7 +18,7 @@ toc: false
 
 <!-- Historical map layers -->
 
-The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution. [John Dickens](/dickens/dickens-chatham) worked here for a few years when his son was a boy. Sheltered and with easy access to London, the docks in [Chatham](/dickens/dickens-medway) were considerably larger than those in the capital such as Blackwall and Deptford, and were therefore able to keep pace with the increasing size of warship required by the Royal Navy. 
+The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the industrial revolution. [John Dickens]({{ site.baseurl }}/dickens/dickens-chatham) worked here for a few years when his son was a boy. Sheltered and with easy access to London, the docks in [Chatham]({{ site.baseurl }}/dickens/dickens-medway) were considerably larger than those in the capital such as Blackwall and Deptford, and were therefore able to keep pace with the increasing size of warship required by the Royal Navy. 
 
 {% include embed/image.html src="wc:Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg" aspect="2.03" caption="Joseph Farington (1747-1821) - Chatham Dockyard - BHC1782 - Royal Museums Greenwich" %}{: .right}
 
@@ -28,7 +28,7 @@ Two components of the industrial revolution transformed Chatham. Firstly, manage
 
 {% include embed/map.html center="Q729006" zoom="15" markers="Q729006" allmaps="9a62ace9300b7b2e~Kent Ordnance Survey 1822" %}{: .right}
 
-Whilst women had previously only been employed in the colour loft, making and repairing flags for the fleet, the mechanised Ropery introduced ‘outside women’ in 1864, employed at lower pay than men. They were called ‘outside’ because the ‘inside’ women in the loft, who enjoyed enhanced status and respect, were solely recruited from the widows and daughters of sailors lost at sea. Such respect was not granted to ‘outside’ women however, and to preserve dignity, their hours of work differed from those of the men, thus avoiding congestion of the sexes when entering and leaving the yard. In the same year Chatham became a pilot port for the notorious [Contagious Diseases Act](/19c/19c-contagious-diseases).
+Whilst women had previously only been employed in the colour loft, making and repairing flags for the fleet, the mechanised Ropery introduced ‘outside women’ in 1864, employed at lower pay than men. They were called ‘outside’ because the ‘inside’ women in the loft, who enjoyed enhanced status and respect, were solely recruited from the widows and daughters of sailors lost at sea. Such respect was not granted to ‘outside’ women however, and to preserve dignity, their hours of work differed from those of the men, thus avoiding congestion of the sexes when entering and leaving the yard. In the same year Chatham became a pilot port for the notorious [Contagious Diseases Act]({{ site.baseurl }}/19c/19c-contagious-diseases).
 
 {% include embed/image.html src="wc:Chatham_Dockyard_ropery_6.jpg" aspect="1.347" caption="Chatham Dockyard Ropery" %}{: .right}
 

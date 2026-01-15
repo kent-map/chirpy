@@ -13,7 +13,7 @@ published: true
 toc: false    
 ---
 
-[Dickens](/dickens) sees bodies wet in the hedges,   
+[Dickens]({{ site.baseurl }}/dickens) sees bodies wet in the hedges,   
 
 hop dust is believed to cure consumption.   
 Eden Phillpotts, writing in 1916,   
@@ -26,7 +26,7 @@ all over the fingers and chaff in the throat.
 But for Eileen one January morning, hops   
 nailed to the ceiling brittle as dust,   
 in the home where she now lives?   
-Her school at one end of [Canterbury](/20c-canterbury-ww2)
+Her school at one end of [Canterbury]({{ site.baseurl }}/20c-canterbury-ww2)
 was bombed. I didn’t know   
 it had a chapel.
 

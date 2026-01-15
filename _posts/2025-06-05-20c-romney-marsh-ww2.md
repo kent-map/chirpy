@@ -34,7 +34,7 @@ After this, the Romney, Hythe and Dymchurch railway continued to play a vital mi
 
 The demands of the war took a toll on the railway’s infrastructure. To expedite the PLUTO construction, long sections of pipeline were dragged directly along the railway track bed by bulldozers, causing extensive damage. As a result, the Dungeness extension was reduced to a single track in 1947 – a post-war compromise reflecting the urgency and strain of wartime use.
 
-A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby [Sound Mirrors](/built/sound-mirrors) – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951.
+A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby [Sound Mirrors]({{ site.baseurl }}/built/sound-mirrors) – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951.
 
 After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity.[^ref3] 
 

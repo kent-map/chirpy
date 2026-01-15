@@ -22,7 +22,7 @@ toc: false
 
 **Wife, Mother, Mantua Maker (Dress-Maker), Pastry Maker, Registry Office Keeper for Servants, Playwright and Author.**
 
-The exceptional Elizabeth Burgess was born in [Canterbury](Q29303) as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the [_Kentish Gazette_](/18c/18c-kentish-gazette) as follows:
+The exceptional Elizabeth Burgess was born in [Canterbury](Q29303) as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette) as follows:
 
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’
 
@@ -32,14 +32,14 @@ They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Eli
 
 {% include embed/image.html src="wc:Canterbury_-_St_Alphege.jpg" aspect="1.511" caption="St Alphege" %}{: .right}
 
-In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in [_Kentish Gazette_](/18c/18c-kentish-gazette) as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
+In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette) as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
 
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br><br>
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
 
 {% include embed/image.html src="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" aspect="1.333" caption="43, King Street" attribution="Edward Crowther" %}{: .right}
 
-In 1772 [Kentish Gazette](/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’ but probably from 1768 till about 1790 between the Corn Market (now Longmarket) and Butchery Lane), and in the same year the following appears:
+In 1772 [Kentish Gazette]({{ site.baseurl }}/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’ but probably from 1768 till about 1790 between the Corn Market (now Longmarket) and Butchery Lane), and in the same year the following appears:
 
 ELIZABETH BURGESS Begs Leave to inform the PUBLIC, That she has opened a SHOP, in St. GEORGE’S STREET, CANTERBURY; Where are MADE and SOLD all Sorts of PASTRY and CONFECTIONARY.<br>
 Those Gentlemen and Ladies who please to favor her with their Commands, may be served with RICH CAKES, MADE-DISHES, JELLIES, SOUPS, HAMS, POTTED and COLLARED MEATS, etc.

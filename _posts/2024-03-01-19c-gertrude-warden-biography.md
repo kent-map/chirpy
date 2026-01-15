@@ -19,7 +19,7 @@ toc: false
 
 {% include embed/image.html src="wc:Lympne_Castle%2C_Kent_-_geograph.org.uk_-_730491.jpg" aspect="1.502" caption="Lympne Castle, Kent" %}{: .right}
 
-Gertrude Warden, actor and writer, was born in Brixton in 1859. The daughter of Charles and Alice Price, Gertrude enjoyed a life of privilege with her siblings Florence and Percy, until the failure of her father's business. Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. She appeared as one of the schoolgirls in the Bancrofts’ revival of _The School for Scandal_ and later took roles in both London and provincial theatres, as well as touring America with Mrs Langtry. In her sister, [Florence Warden](/19c/19c-florence-warden-biography)'s production, _The House on the Marsh_ (1885), she played the “disagreeable” Mrs Rayner.[^ref2] 
+Gertrude Warden, actor and writer, was born in Brixton in 1859. The daughter of Charles and Alice Price, Gertrude enjoyed a life of privilege with her siblings Florence and Percy, until the failure of her father's business. Forced to leave her finishing school in Brighton, with her sister, Gertrude sought to make her way in the world working as a governess for two years before taking to the stage. She appeared as one of the schoolgirls in the Bancrofts’ revival of _The School for Scandal_ and later took roles in both London and provincial theatres, as well as touring America with Mrs Langtry. In her sister, [Florence Warden]({{ site.baseurl }}/19c/19c-florence-warden-biography)'s production, _The House on the Marsh_ (1885), she played the “disagreeable” Mrs Rayner.[^ref2] 
 
 {% include embed/image.html src="wc:The_School_for_Scandal_%28BM_1868%2C0808.5776_2%29.jpg" aspect="1.754" caption="The School for Scandal" %}{: .right}
 
@@ -74,7 +74,7 @@ In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who '
 
 {% include embed/map.html center="Q2056118" zoom="15" markers="Q2056118" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}{: .right}
 
-It is unlikely that Gertrude’s stay in Kent was as long as her protagonist's, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).[^ref19] She was a member of the Women's Writers' Suffrage League, along with [Sarah Grand](/19c/19c-grand-biography).
+It is unlikely that Gertrude’s stay in Kent was as long as her protagonist's, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera and became acquainted with [Baroness Orczy]({{ site.baseurl }}/20c/20c-orczy-biography).[^ref19] She was a member of the Women's Writers' Suffrage League, along with [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography).
 
 This article was published: 25 September 2021.
 

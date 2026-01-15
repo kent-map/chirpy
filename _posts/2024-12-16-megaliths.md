@@ -40,7 +40,7 @@ Way.[^ref3]
 
 {% include embed/image.html src="wc:William_Stukeley%27s_Illustration_of_Little_Kit%27s_Coty_and_Kit%27s_Coty.png" aspect="1.65" caption="Illustration of Little Kit's Coty" %}{: .right}
 
-According to local folklore, the Saxon mercenaries [Hengist and Horsa](/medieval/hengestandhorsa/) are said to be buried at the Kit’s Coty House and the close by [White Horse Stone](Q7994824). As with all things of this antiquity, accounts differ. 
+According to local folklore, the Saxon mercenaries [Hengist and Horsa]({{ site.baseurl }}/medieval/hengestandhorsa/) are said to be buried at the Kit’s Coty House and the close by [White Horse Stone](Q7994824). As with all things of this antiquity, accounts differ. 
 Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa[^ref4]
 , it was the Venerable Bede[^ref5] who was the first to add detail about people and places. Hengist and Horsa landed 
 in Britain at Ebbsfleet in 449 at the request of King Vortigern. In return for driving out the Picts and 
@@ -88,7 +88,7 @@ stories”.[^ref3],[^ref14]
 
 {% include embed/image.html src="wc:Gezicht_op_Kit%27s_Coty_House%2C_te_Kent%2C_RP-P-2018-1949.jpg" aspect="1.459" caption="Kit's Coty House" %}{: .right}
 
-Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_](/landscape/chalk-pits-stig/) by Clive 
+Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_]({{ site.baseurl }}/landscape/chalk-pits-stig/) by Clive 
 King. Clive King lived in Ash Kent and went to King’s school in Rochester. Barney, the protagonist in 
 the story, befriends a cave boy he finds inhabiting an old chalk pit used as a dumping ground and 
 they have many adventures together. The end of the book sees Barney and his sister entering a “time 

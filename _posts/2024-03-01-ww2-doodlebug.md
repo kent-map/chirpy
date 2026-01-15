@@ -29,7 +29,7 @@ Despite its somewhat light-hearted nickname, the doodlebug was a source of great
 
 {% include embed/map.html center="Q614560" zoom="10" markers="Q614560" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
 
-The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly in those areas where few bombs fell. At the bank holiday fete in [Canterbury](/canterbury/20c-canterbury-ww2/) "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In [Herne Bay](Q929286) residents could view a Doodlebug at Woolworths[^ref8] and in [Whitstable](Q964785) at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
+The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly in those areas where few bombs fell. At the bank holiday fete in [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-ww2/) "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In [Herne Bay](Q929286) residents could view a Doodlebug at Woolworths[^ref8] and in [Whitstable](Q964785) at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain]({{ site.baseurl }}/20c/20c-battle-of-britain-memorial/). [^ref9]  
 
 {% include embed/image.html src="wc:Fieseler_Fi_103R_Reichenberg.jpg" aspect="1.557" caption="V-1 flying bomb" %}{: .right}
 
@@ -37,7 +37,7 @@ The doodlebug became an object of curiosity during 'Doodlebug Summer' particular
 
 {% include embed/map.html center="Q29303" zoom="11" markers="Q29303" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
 
-A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
+A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill]({{ site.baseurl }}/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
 
 {% include embed/image.html src="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" aspect="1.5" caption="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" %}{: .right}
 

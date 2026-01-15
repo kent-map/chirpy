@@ -27,6 +27,6 @@ a man in yellow is bouncing a ball,
 rain taps on the ground   
 and my baby don’t care.   
 
-First published in [_Reach_](https://indigodreamspublishing.com/reach-poetry-zaea23), 2018. You can read more about [Margate](/21c/21c-margate) in our 21st century section.
+First published in [_Reach_](https://indigodreamspublishing.com/reach-poetry-zaea23), 2018. You can read more about [Margate]({{ site.baseurl }}/21c/21c-margate) in our 21st century section.
 
 {% include embed/image.html src="wc:Beach_goers%2C_Margate_Beach_-_geograph.org.uk_-_4098902.jpg" aspect="1.499" caption="Beach goers, Margate Beach by Oast House Archive, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}

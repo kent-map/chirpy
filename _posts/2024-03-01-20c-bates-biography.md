@@ -66,7 +66,7 @@ As the narrator’s relationship with the Templetons develops, the landscape bec
 
 Bates uses the Kent landscape to reflect the emotions of his characters whilst also encapsulating a way of life that is fast disappearing. With the barracks closed in Dover and apple orchards declining, his stories reflect a moment in time that act as an important commentary on life in mid-twentieth century Kent.
 
-As well as fiction, H.E. Bates wrote a biography of Edward Garnett, literary mentor and agent, and friend of [D.H. Lawrence](/20c/20c-lawrence-biography), who lived near Edenbridge. Two of Bates's books _My Uncle Silas_ and _Sugar for the Horse_ were illustrated by Edward Ardizzone who lived at Rodmersham Green.
+As well as fiction, H.E. Bates wrote a biography of Edward Garnett, literary mentor and agent, and friend of [D.H. Lawrence]({{ site.baseurl }}/20c/20c-lawrence-biography), who lived near Edenbridge. Two of Bates's books _My Uncle Silas_ and _Sugar for the Horse_ were illustrated by Edward Ardizzone who lived at Rodmersham Green.
 
 Bates died in Canterbury on 29 January 1974 and is interred at Charing Crematorium.
 

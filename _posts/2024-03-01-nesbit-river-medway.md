@@ -148,7 +148,7 @@ But he walked up to Yalding and leaned on the bridge and looked down into the my
 
 {% include embed/map.html center="51.22340252406306, 0.4293744136337939" zoom="15" markers="51.22340252406306, 0.4293744136337939" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}{: .right}
 
-In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
+In 1905 Edith sent a note to [H.G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
 
 {% include embed/image.html src="wc:H._G._Wells%2C_c.1890.jpg" aspect="1.474" caption="H.G. Wells, c. 1890" %}{: .right}
 

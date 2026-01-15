@@ -35,7 +35,7 @@ _‘Ours was the marsh country, down by the river, within, as the river wound, t
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Cooling.JPG" aspect="0.58" caption="Cooling" attribution="© The British Library Board ktc28b20f001r." %}{: .right}
 
-In the opening scene of [_Great Expectations_](/dickens/great-expectations-curated-walk) (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a [convict](/18c/18c-bloody-code) in the thirteenth century St James’s Church, Cooling. St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested by Shlicke as an additional model.
+In the opening scene of [_Great Expectations_]({{ site.baseurl }}/dickens/great-expectations-curated-walk) (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a [convict]({{ site.baseurl }}/18c/18c-bloody-code) in the thirteenth century St James’s Church, Cooling. St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested by Shlicke as an additional model.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Cooling_Churchyard.jpg" aspect="1.333" caption="Cooling Churchyard" %}{: .right}
 
@@ -44,7 +44,7 @@ Visiting St James’s where the graves are located, it is easy to imagine how vu
 {% include embed/image.html src="wc:Porch_of_St._James_Church%2C_Cooling_-_geograph.org.uk_-_1364156.jpg" aspect="1.333" caption="Porch of St James's Church, Cooling" %}{: .right}
 
 To the child brought up to believe unquestioningly in adult authority, the convict’s threat that his confederate can infiltrate the home itself is intensely real. Even when Pip is duly sent home to find ‘wittles’ and a file, he knows that he can be kept under surveillance for miles as he moves through ‘dykes and mounds and gates’ with only the ‘scattered cattle’ to witness his terror. The full tragedy of the scenario may strike an adult – reading this passage in the church porch on a damp day, the hopelessness of Magwitch’s plight resonates in his very speech, despite his initial treatment of Pip. To look out across the ‘dark flat wilderness beyond the churchyard’ on such a day is to realise that there is no shelter for either child or convict. By the time he tells his story the narrating Pip is deeply conscious of this. But as his reticence on this point reminds us, it is here that the child first learns what it means to keep a guilty secret.    
-See also [Mobile Landscapes](/dickens/mobile-landscapes)   
+See also [Mobile Landscapes]({{ site.baseurl }}/dickens/mobile-landscapes)   
 Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent.org/activities/heron-cycle-trail-the-hoo-peninsula/)   
 
 {% include embed/image.html src="wc:Cooling_Marshes_-_geograph.org.uk_-_1116640.jpg" aspect="1.331" caption="Cooling Marshes" %}{: .right}

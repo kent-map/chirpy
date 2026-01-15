@@ -42,7 +42,7 @@ While simpler versions were soon to be found in the country and town houses of t
 {% include embed/image.html src="https://stor.artstor.org/stor/470cd2c9-931b-4036-9a67-66079d3f8925" aspect="1.478" caption="Biggin Hall, site of the former Turkish baths, Dover" attribution="M.R. Shifrin" %}{: .right}
 
 While [Kent](Q23298) had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
-[F C Burnand](/19c/19c-burnand-biography/), [Wilkie Collins](/19c/19c-collins-biography/), and [Edward Linley Sambourne](/19c/19c-sambourne-biography/), while [George Grossmith](/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
+[F C Burnand]({{ site.baseurl }}/19c/19c-burnand-biography/), [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography/), and [Edward Linley Sambourne]({{ site.baseurl }}/19c/19c-sambourne-biography/), while [George Grossmith]({{ site.baseurl }}/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
 
 {% include embed/image.html src="wc:Edward_Linley_Sambourne%2C_self_portrait_1891.png" aspect="0.884" caption="Edward Linley Sambourne" %}{: .right}
 
@@ -56,9 +56,9 @@ A number of baths were proposed but never progressed any further. Between 1860 a
 
 {% include embed/map.html center="Q7148079" zoom="12" markers="Q7148079" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-More hopefully, in 1877, the [Dover](/19c/19c-dover) Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
+More hopefully, in 1877, the [Dover]({{ site.baseurl }}/19c/19c-dover) Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 
-The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous [Augustus Welby Pugin](/19c/19c-pugin-biography), as part of the Granville Hotel in [Ramsgate](/19c/19c-ramsgate).[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
+The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous [Augustus Welby Pugin]({{ site.baseurl }}/19c/19c-pugin-biography), as part of the Granville Hotel in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate).[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" aspect="2.155" caption="Advertisement in The Globe for the Granville Hotel" %}{: .right}
 
@@ -68,7 +68,7 @@ The first Victorian Turkish bath in Kent successfully to open to the public was 
 
 {% include embed/map.html center="Q736439" zoom="12" markers="Q736439" allmaps="9fdfcd0d2307e89c~Letts 1883" %}{: .right}
 
-This was followed by baths in [Tunbridge Wells](Q665489) (1875), Woolwich* (1876), [Folkestone](/19c/19c-folkestone/) (1895), [Dover](Q179224) (1903), and two in [Margate](Q618045) (1904 and 1927)
+This was followed by baths in [Tunbridge Wells](Q665489) (1875), Woolwich* (1876), [Folkestone]({{ site.baseurl }}/19c/19c-folkestone/) (1895), [Dover](Q179224) (1903), and two in [Margate](Q618045) (1904 and 1927)
 All Kent’s Victorian and Victorian style Turkish baths had closed before the beginning of the Second World War. Their relatively short lifespan is no different from that in most other counties. 
 
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 

@@ -28,7 +28,7 @@ Sandgate, a coastal village near the outskirts of [Folkestone](Q375314), has bee
 
 {% include embed/map.html center="Q1000312" zoom="11.5" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter](/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
+Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter]({{ site.baseurl }}/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
 
 Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the library, the general rendezvous of the social, or upon the pier”. She did however go to church where she met William Wilberforce:
 
@@ -40,15 +40,15 @@ Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the 
 
 Anna Sewell, the author of _Black Beauty_ came on holiday to Sandgate as a child and visited neighbouring Folkestone where she saw the Blue Clay fossils.[^ref4]
 
-[Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandgate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref5]
+[Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandgate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref5]
 
 {% include embed/image.html src="wc:Sarah_Grand_profile.jpg" aspect="0.658" caption="Sarah Grand by Hayman Seleg Mendelssohn" %}{: .right}
 
-The journalist and author, [George Augustus Sala](/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref6]  
+The journalist and author, [George Augustus Sala]({{ site.baseurl }}/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref6]  
 
 {% include embed/image.html src="wc:GeorgeAugustusSala1828-1895.jpg" aspect="0.656" caption="George Augustus Sala" %}{: .right}
 
-The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref7]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited [Henrietta Vaughan Stannard](/19c/19c-vaughan-stannard-biography) who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref8]. 
+The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref7]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited [Henrietta Vaughan Stannard]({{ site.baseurl }}/19c/19c-vaughan-stannard-biography) who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref8]. 
 
 In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is the dismallest day I've seen at Sandgate." He also said that he was working his way through the circulating library.[^ref9]
 
@@ -70,9 +70,9 @@ Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biogr
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at [Hythe](Q967166) Town Hall in February 1900.[^ref11] 
 
-Author [Jocelyn Brooke](/20c/20c-brooke-biography) who was born in Sandgate in 1908 describes Radnor Cliff and the  wildflowers along the Lower Road in _The Orchid Trilogy_.
+Author [Jocelyn Brooke]({{ site.baseurl }}/20c/20c-brooke-biography) who was born in Sandgate in 1908 describes Radnor Cliff and the  wildflowers along the Lower Road in _The Orchid Trilogy_.
 
-The Chaplain of Eversley School, Sandgate, [John Ferguson](/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
+The Chaplain of Eversley School, Sandgate, [John Ferguson]({{ site.baseurl }}/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" aspect="1.333" caption="Home of Bithia Croker" attribution="Photographed by Martin Crowther" %}{: .right}
 

@@ -33,7 +33,7 @@ _Kitty’s Engagement_, 1895.
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
 
-Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, [Ramsgate](Q736439) and later Beach House, [Sandgate](/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
+Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, [Ramsgate](Q736439) and later Beach House, [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 
 {% include embed/image.html src="wc:Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" aspect="0.727" caption="Portrait of Florence Warden" %}{: .right}
 
@@ -57,8 +57,8 @@ Described as 'Petite and dark, with a bright humorous eye,'[^ref5]  she was a fu
 
 {% include embed/image.html src="wc:Joseph_Clayton_Clark_AReader_of_The_Era.jpg" aspect="0.736" caption="A reader of The Era" %}{: .right}
 
-In 1887, Florence and George married at St Pancras. She had published at least six more novels by this time and decided to give up acting to concentrate on her writing.  In 1891, the couple with their two small children (George, now described as a comedian) moved from Addison Road, Kensington to St Mildred’s Road, [Ramsgate](/19c/19c-ramsgate). 
-According to the _Thanet Advertiser_, Mr and Mrs James live 'very quietly at a Kentish watering-place, and seldom visit London'.[^ref9]  Given her family circumstance and her punishing novel writing schedule at this time, it is not surprising. She was not entirely cut off from literary circles and the _East Kent Times_ mentions 'other litterateurs' who made Ramsgate their dwelling place.[^ref10]   It is reported that she was friendly with [Jerome K. Jerome](/19c/19c-jerome-biography) and [F.C. Burnand](19c-burnand-biography) of _Punch_ at this time.[^ref11] 
+In 1887, Florence and George married at St Pancras. She had published at least six more novels by this time and decided to give up acting to concentrate on her writing.  In 1891, the couple with their two small children (George, now described as a comedian) moved from Addison Road, Kensington to St Mildred’s Road, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). 
+According to the _Thanet Advertiser_, Mr and Mrs James live 'very quietly at a Kentish watering-place, and seldom visit London'.[^ref9]  Given her family circumstance and her punishing novel writing schedule at this time, it is not surprising. She was not entirely cut off from literary circles and the _East Kent Times_ mentions 'other litterateurs' who made Ramsgate their dwelling place.[^ref10]   It is reported that she was friendly with [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) and [F.C. Burnand](19c-burnand-biography) of _Punch_ at this time.[^ref11] 
 
 {% include embed/image.html src="wc:Francis_Burnand.png" aspect="0.715" caption="Francis Burnand" %}{: .right}
 
@@ -66,7 +66,7 @@ According to the _Thanet Advertiser_, Mr and Mrs James live 'very quietly at a K
 
 {% include embed/map.html center="Q9033431" zoom="11.5" markers="Q9033431" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
 
-It is likely, however, that the Jameses did not spend all their time in Kent at this period, and instead divided their time between London and their seaside home. In 1895, Florence attended the New Vagabond Club Christmas dinner at Holborn restaurant, where Frances Hodgson Burnett was a guest. Fellow diners included [Sarah Grand](19c/19c-grand-biography), [John Strange Winter](/19c/19c-vaughan-stannard), [Isaac Zangwill](/19c/19c-zangwill-biography) and [Jerome K. Jerome](/19c/19c-jerome-biography).
+It is likely, however, that the Jameses did not spend all their time in Kent at this period, and instead divided their time between London and their seaside home. In 1895, Florence attended the New Vagabond Club Christmas dinner at Holborn restaurant, where Frances Hodgson Burnett was a guest. Fellow diners included [Sarah Grand](19c/19c-grand-biography), [John Strange Winter]({{ site.baseurl }}/19c/19c-vaughan-stannard), [Isaac Zangwill]({{ site.baseurl }}/19c/19c-zangwill-biography) and [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography).
 
 {% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome, c.1890s" %}{: .right}
 
@@ -78,7 +78,7 @@ The Kentish landscape provides a backdrop for romantic liaisons and sensational 
 
 {% include embed/image.html src="wc:The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg" aspect="1.347" caption="The Promenade, Sandgate" %}{: .right}
 
-Whilst in Ramsgate, Florence attended sittings at the local police court, 'whenever there was anything before the Bench likely to suggest matter for her stories.'[^ref14]  During one murder case, a seat was reserved for her with the press so that she did not miss a thing. It is most likely that this was the infamous [Ramsgate murder](https://theisleofthanetnews.com/2017/12/18/a-ramsgate-murder-from-1893-features-in-a-new-penny-dreadfuls-book/) of Mrs Sarah Dinah Noel who was found shot in her home on the 14th May 1893. The trial attracted a large crowd to the hearing at the Town Hall and gained notoriety in the national press. The question on everyone’s lips was did her husband kill her? One wit wrote to [A.C. Doyle](/19c/19c-conan-doyle) inviting Sherlock Holmes to solve it. Doyle declined.
+Whilst in Ramsgate, Florence attended sittings at the local police court, 'whenever there was anything before the Bench likely to suggest matter for her stories.'[^ref14]  During one murder case, a seat was reserved for her with the press so that she did not miss a thing. It is most likely that this was the infamous [Ramsgate murder](https://theisleofthanetnews.com/2017/12/18/a-ramsgate-murder-from-1893-features-in-a-new-penny-dreadfuls-book/) of Mrs Sarah Dinah Noel who was found shot in her home on the 14th May 1893. The trial attracted a large crowd to the hearing at the Town Hall and gained notoriety in the national press. The question on everyone’s lips was did her husband kill her? One wit wrote to [A.C. Doyle]({{ site.baseurl }}/19c/19c-conan-doyle) inviting Sherlock Holmes to solve it. Doyle declined.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" aspect="1.146" caption="Ramsgate Commemorative Map 1884-1934" %}{: .right}
 
@@ -92,15 +92,15 @@ She was described as a 'sprightly little lady, handsome and fluent in conversati
 
 {% include embed/map.html center="Q1000312" zoom="12" markers="Q1000312" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
 
-Florence's sister [Gertrude Warden](/19c/19c-gertrude-warden-biography), had written _The Wooing of a Fairy_ in 1897 which was set in Lythinge (Lympne), suggesting that the sisters knew the area. Beach House, where Florence was later to live in 1898, would have provided the perfect location for the sisters to write.[^ref18]
+Florence's sister [Gertrude Warden]({{ site.baseurl }}/19c/19c-gertrude-warden-biography), had written _The Wooing of a Fairy_ in 1897 which was set in Lythinge (Lympne), suggesting that the sisters knew the area. Beach House, where Florence was later to live in 1898, would have provided the perfect location for the sisters to write.[^ref18]
 
 {% include embed/image.html src="wc:St_Stephen%2C_Lympne_1.JPG" aspect="1.333" caption="St Stephen, Lympne" %}{: .right}
 
-In December 1898, the _Folkestone, Hythe, Sandgate & Cheriton Herald_ announced proudly that their latest resident Miss Florence Warden 'loves to gaze on the every-changing scenes of the English Channel from Beach Cottage' [^ref19] (Beach House, as it was actually called, was at 119, Sandgate High Street and is now Dareth House)  Hailed as the ‘author’s haven of repose’, Sandgate was also home to [Edith Katherine Spicer Jay](/19c/19c-spicer-jay-biography), Bithia Croker, and [H.G. Wells](/19c/19c-wellshg-biography) who stayed at 2 Beach Cottages in 1898. Adrian Ross (Adrian Reep Ropes), the lyricist and [William Pett Ridge](/20c/20c-pett-ridge-biography), the novelist, were also among Florence’s acquaintances whilst she lived here. 
+In December 1898, the _Folkestone, Hythe, Sandgate & Cheriton Herald_ announced proudly that their latest resident Miss Florence Warden 'loves to gaze on the every-changing scenes of the English Channel from Beach Cottage' [^ref19] (Beach House, as it was actually called, was at 119, Sandgate High Street and is now Dareth House)  Hailed as the ‘author’s haven of repose’, Sandgate was also home to [Edith Katherine Spicer Jay]({{ site.baseurl }}/19c/19c-spicer-jay-biography), Bithia Croker, and [H.G. Wells]({{ site.baseurl }}/19c/19c-wellshg-biography) who stayed at 2 Beach Cottages in 1898. Adrian Ross (Adrian Reep Ropes), the lyricist and [William Pett Ridge]({{ site.baseurl }}/20c/20c-pett-ridge-biography), the novelist, were also among Florence’s acquaintances whilst she lived here. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c7f07717-8259-4ac5-ac27-4d758d4daf61" aspect="1.333" caption="Beach House (now Darenth House)" attribution="By kind permission of John Barrett, Sandgate Society" %}{: .right}
 
-Florence was not entirely lost to [Ramsgate](/19c/19c-ramsgate). A year after her departure, it was reported that: 'Miss Warden lives at Ramsgate, finding the invigorating sea air absolutely essential to her health, as her somewhat sensational books demand a good deal of work and nerve strain.'[^ref20]  Whether this was true, or a sleepy news reporter had just not heard of her recent departure, it is difficult to tell.   
+Florence was not entirely lost to [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). A year after her departure, it was reported that: 'Miss Warden lives at Ramsgate, finding the invigorating sea air absolutely essential to her health, as her somewhat sensational books demand a good deal of work and nerve strain.'[^ref20]  Whether this was true, or a sleepy news reporter had just not heard of her recent departure, it is difficult to tell.   
 
 {% include embed/image.html src="wc:%27Ramsgate%27_by_J._Buxton_Knight.jpg" aspect="1.455" caption="Ramsgate by J. Buxton Knight, 1908" %}{: .right}
 

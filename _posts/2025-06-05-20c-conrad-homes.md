@@ -16,13 +16,13 @@ toc: false
 
 <!-- Historical map layers -->
 
-This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad](/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
+This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" aspect="0.669" caption="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad" %}{: .right}
 
 **Pent Farm, Postling**
 
-The very first page, after the contents of course, is concerned with “the second home” Conrad occupied after his marriage – Pent Farm in Postling, near Hythe.[^ref1]  Pent Farm was the former residence of [Ford Madox Hueffer](/20c/20c-fordmadoxford-biography/), who was there from 1897-1898, and from whom Joseph Conrad and Jessie George took over the tenancy. (Interestingly, at the time of writing, the property is for sale with an asking price of £1,500,000). A beautiful cottage, the lintel of Pent Farm once contained a quotation, reputedly by Walter Crane, which read: 
+The very first page, after the contents of course, is concerned with “the second home” Conrad occupied after his marriage – Pent Farm in Postling, near Hythe.[^ref1]  Pent Farm was the former residence of [Ford Madox Hueffer]({{ site.baseurl }}/20c/20c-fordmadoxford-biography/), who was there from 1897-1898, and from whom Joseph Conrad and Jessie George took over the tenancy. (Interestingly, at the time of writing, the property is for sale with an asking price of £1,500,000). A beautiful cottage, the lintel of Pent Farm once contained a quotation, reputedly by Walter Crane, which read: 
 
 Want we not for board or tent    
 While overhead we have the Pent
@@ -33,7 +33,7 @@ Borys writes that the quote “remained there until some six or seven years ago 
 
 Pent Farm is supposed to be associated with many of Conrad’s key works, such as _Youth_ (1898), _The Heart of Darkness_ (1899), _Lord Jim_ (1900), _Typhoon_ (1902), _Nostromo_ (1904) and _The Secret Agent_ (1907) to say a few. A lesser known work, _The End of the Tether_ (1902) is included later by Borys, as a work which “was partly destroyed by fire when the glass bowl of [his] father’s table lamp burst and set fire to the manuscripts on his writing table”.[^ref4]  Despite this, it would be collected in _Youth, A Narrative and Two Other Stories_ in 1902. 
 
-The author reports that many literary figures visited Pent Farm, including [John Galsworthy](/19c/19c-galsworthy-biography), [H. G. Wells](/20c/20c-wellshg-biography), William Rothstein, [Henry James](19c/19c-jamesh-hever-castle/), R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
+The author reports that many literary figures visited Pent Farm, including [John Galsworthy]({{ site.baseurl }}/19c/19c-galsworthy-biography), [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), William Rothstein, [Henry James](19c/19c-jamesh-hever-castle/), R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
 
 {% include embed/image.html src="wc:The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" aspect="1.333" caption="North Downs Way, near Pent Farm" %}{: .right}
 
@@ -49,7 +49,7 @@ Capel House, at the time of Borys’s writing, was virtually unchanged, with the
 
 The property fuelled Joseph’s love of the motorcar, by association with Reginald Percival Gibbon, who would visit on a twin-cylinder motorcycle; whilst at Capel, Conrad bought his first car – “a second-hand single-cylinder 12-horsepower Cadillac”.[^ref9] It was a “sturdy and reliable little machine” which both Jessie and Joseph learned to drive, and it would enable many family adventures.[^ref10] 
 
-There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole](/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
+There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole]({{ site.baseurl }}/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
 
 {% include embed/image.html src="wc:Mr._Joseph_Conrad.jpg" aspect="1.613" caption="Mr Joseph Conrad outside Capel House" %}{: .right}
 

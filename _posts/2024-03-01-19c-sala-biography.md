@@ -28,7 +28,7 @@ At the age of 11, George was sent to study in Paris, where he stayed at a lodgin
 
 George describes their arrival in England in the winter of 1840:
 
-“There was no Lord Warden Hotel at [Dover](/19c/19c-dover) in those days; and the railway to London although considerable progress had been made in the work, was, in 1841, very far from completion. It was, I think, at a cosy, old-fashioned hostelry by the side of “The Gun”, kept by an old-fashioned worthy named Hipgrave, that we first took up our quarter…”[^ref3]
+“There was no Lord Warden Hotel at [Dover]({{ site.baseurl }}/19c/19c-dover) in those days; and the railway to London although considerable progress had been made in the work, was, in 1841, very far from completion. It was, I think, at a cosy, old-fashioned hostelry by the side of “The Gun”, kept by an old-fashioned worthy named Hipgrave, that we first took up our quarter…”[^ref3]
 
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy.” It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed having spent a considerable sum on the journey.[^ref4]
 
@@ -38,7 +38,7 @@ Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom Hous
 
 {% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-On arriving in [Dover](/19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover](/19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover](/19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
+On arriving in [Dover]({{ site.baseurl }}/19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover]({{ site.baseurl }}/19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover]({{ site.baseurl }}/19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 
 The Salas received much support from friends at this time, including Lady Fitzroy Somerset who arranged a benefit concert for Madame Sala in December, which “elicited the warmest applause from a crowded and fashionable audience”.[^ref6] 
 
@@ -54,7 +54,7 @@ In December, despite her failing eyesight, a consequence of suffering smallpox i
 
 Sala’s older brother Charles who was “anxious to enact Hamlet the Dane ” performed at the Theatre Royal in the following February. [^ref13] The theatre which was “in a simply deplorable condition”[^ref14] lacked suitable costumes and Charles had to design a suit of armour out of pasteboard and tinfoil.[^ref15]
 
-Early in 1841, Madame Sala along with Mrs Reignolds, hosted a grand ball at the Apollonion Hall, a newly built hall and tavern, on the corner of Snargate Street. Tickets were 6s for the gentlemen and 5 shillings for the ladies.[^ref16] and the entertainment included a quadrille band, refreshments and card room.  The ball proved to be very popular and Snargate Street was “blocked with travelling carriages and postchaises”[^ref17] It was attended by the officers of the garrison as well as the county families from [Folkestone](/19c/19c-folkestone), [Hythe](Q967166) and [Sandgate](/placesqz/sandgate-overview). 
+Early in 1841, Madame Sala along with Mrs Reignolds, hosted a grand ball at the Apollonion Hall, a newly built hall and tavern, on the corner of Snargate Street. Tickets were 6s for the gentlemen and 5 shillings for the ladies.[^ref16] and the entertainment included a quadrille band, refreshments and card room.  The ball proved to be very popular and Snargate Street was “blocked with travelling carriages and postchaises”[^ref17] It was attended by the officers of the garrison as well as the county families from [Folkestone]({{ site.baseurl }}/19c/19c-folkestone), [Hythe](Q967166) and [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview). 
 
 {% include embed/image.html src="wc:Madame_Sala.png" aspect="0.724" caption="Madame Sala, stage name of Henrietta Catharina Florentina (née Simon) Sala, British actress and singer fl 1827-1859 and mother of George Augustus Sala" %}{: .right}
 
@@ -73,21 +73,21 @@ Sala admits that he remembers nothing of Herne Bay “save a prodigiously protra
 
 During his time at Dover, the thirteen-year-old Sala wrote his first novel entitled “Jemmy Jenkins: or, the Adventures of a Sweep” which was subsequently lost, revealing his early ambitions as a writer.[^ref25] His mother's connections with the stage brought him into the company of men of letters and in 1851 he attracted the attention of [Charles Dickens](dickens/dickens-biography).
 
-Sala began to write for _Household Words_ in 1851 and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote _A Journey due North: being notes on a residence in Russia_. [Dickens](/dickens/dickens-biography) embargoed the work which caused some bitterness between the two men. However in 1858, [Dickens](dickens/dickens-biography) removed the embargo and Sala sent it to Richard Bentley, who agreed to publish it.[^ref26] 
+Sala began to write for _Household Words_ in 1851 and in 1856 travelled to Russia as a special correspondent. It was during this time that he wrote _A Journey due North: being notes on a residence in Russia_. [Dickens]({{ site.baseurl }}/dickens/dickens-biography) embargoed the work which caused some bitterness between the two men. However in 1858, [Dickens](dickens/dickens-biography) removed the embargo and Sala sent it to Richard Bentley, who agreed to publish it.[^ref26] 
 
 Returning from his visit to the continent, Sala read a review of his book at the Lord Warden Hotel, [Dover](19c/19c-dover), having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais. The reviewer had described the book as “a bundle of impertinences” and insinuated that Sala was “an idiot, a libeller and a snob”. Sala “read and re-read it, quite forgetting my breakfast.”[^ref27] The review did not damage his reputation however, and a second edition was produced. 
 
 {% include embed/image.html src="wc:Charles_Dickens_circa_1860.jpg" aspect="0.687" caption="Charles Dickens, c.1860" %}{: .right}
 
-Sala retained a fondness for [Dover](/19c/19c-dover) and wrote about it in his article 'The Streets of the World' published in _Temple Bar_ in 1864, describing his mother's practice of reading liturgy to her children from "a little brown-covered, battered, yellow-stained, dog's-eared book" in the mornings and evenings in their home in Snargate Street.[^ref28] 
+Sala retained a fondness for [Dover]({{ site.baseurl }}/19c/19c-dover) and wrote about it in his article 'The Streets of the World' published in _Temple Bar_ in 1864, describing his mother's practice of reading liturgy to her children from "a little brown-covered, battered, yellow-stained, dog's-eared book" in the mornings and evenings in their home in Snargate Street.[^ref28] 
 
 He observed that few people actually know [Dover](19c/19c-dover): "You may embark or debark there five hundred times without ever seeing Dover at all."[^ref29] He continued: "You scud along passages, trip over level crossings, and clamber over platforms, and how you know not; but somehow or another discover yourself descending the slimy steps of the Admiralty Pier, on your way to the deck of the steamer."[^ref30] Returning from the continent, visitors "tumble up into a vestibule, and a refreshment-room where somebody wants one-and-sixpence for a cup of scalding water with a nasty flavour in it, libellously called coffee, and tells you that a twenty-franc piece is only worth fourteen shillings".[^ref31] 
 
 Even those passengers who spend a night at a hotel rarely see the town: "They may take a blow on the pier, and cast an upward glance at the Castle, the Heights and as much of the blasted chalk as railway engineers and landslips have left of Shakespeare's Cliff"[^ref32] but then they travel on to new destinations, leaving [Dover](19c/19c-dover) "still as a ledger that is locked". For Sala, "he who knows not Snargate Street cannot be familiar with [Dover](19c/19c-dover)".[^ref33]
 
-Returning to [Dover](/19c/19c-dover) years later, Sala discovered that his childhood home had been gutted and transformed into a haberdasher's shop.
+Returning to [Dover]({{ site.baseurl }}/19c/19c-dover) years later, Sala discovered that his childhood home had been gutted and transformed into a haberdasher's shop.
 
-Sala also visited [Canterbury](/19c/19c-canterbury) and [Sandgate](/placesqz/sandgate-overview/).
+Sala also visited [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) and [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview/).
 
 This article was published: 13 November 2021.
 

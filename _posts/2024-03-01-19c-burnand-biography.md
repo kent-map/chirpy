@@ -26,9 +26,9 @@ Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Me
 
 {% include embed/map.html center="Q2313624" zoom="12" markers="Q2313624" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
 
-By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
+By 1881, the family had settled in [Dover]({{ site.baseurl }}/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
 
-When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover](/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
+When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover]({{ site.baseurl }}/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/be2d7a73-d2b3-4188-8d40-1a76523fa117" aspect="0.75" caption="Ward Lock Dover" %}{: .right}
 
@@ -54,7 +54,7 @@ In 1905, May published her first book, _Love Letters that Caused a Divorce_, a s
 
 {% include embed/map.html center="Q2551894" zoom="12" markers="Q2551894" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
 
-In the summer of 1906, the Aldingtons bought Rothiemay at St Margaret’s at Cliffe, where Albert became Master of the Foreland Lodge of Freemasons.[^ref16] In Ursula Bloom’s memoir _Holiday Mood_ she recalls 'Aldington's people were well off, and had a comfortable house in which they entertained quite a lot.'[^ref17] Their lifestyle was described both as Bohemian and modern.[^ref18] However, after making some poor business decisions, Rotheimay had to be sold and May and the children moved to [Sandwich](Q26163).[^ref19] Relations between the couple became strained. During this period, May wrote short stories for _Cassell's Magazine_, _The Story-teller_, _The English Illustrated Magazine_ and _The Red Magazine_, published by [Alfred Harmsworth](/20c/20c-northcliffe-biography), as well as an anthology of poems _Songs of Life_ published in 1907. A novel _God's Toys_ published in 1908 was criticised for 'over-moralisation'.[^ref20]
+In the summer of 1906, the Aldingtons bought Rothiemay at St Margaret’s at Cliffe, where Albert became Master of the Foreland Lodge of Freemasons.[^ref16] In Ursula Bloom’s memoir _Holiday Mood_ she recalls 'Aldington's people were well off, and had a comfortable house in which they entertained quite a lot.'[^ref17] Their lifestyle was described both as Bohemian and modern.[^ref18] However, after making some poor business decisions, Rotheimay had to be sold and May and the children moved to [Sandwich](Q26163).[^ref19] Relations between the couple became strained. During this period, May wrote short stories for _Cassell's Magazine_, _The Story-teller_, _The English Illustrated Magazine_ and _The Red Magazine_, published by [Alfred Harmsworth]({{ site.baseurl }}/20c/20c-northcliffe-biography), as well as an anthology of poems _Songs of Life_ published in 1907. A novel _God's Toys_ published in 1908 was criticised for 'over-moralisation'.[^ref20]
 
 {% include embed/image.html src="wc:The_Harmsworth_Red_Magazine_15_March_1910.jpg" aspect="0.792" caption="The Harmsworth Red Magazine, Public domain, via Wikimedia Commons" %}{: .right}
 

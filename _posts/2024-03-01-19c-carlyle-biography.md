@@ -20,7 +20,7 @@ _Jane Welsh Carlyle to Thomas Carlyle, Sunday, August 4, 1861 from Mrs Stokes’
 
 {% include embed/image.html src="wc:Arthur_Boyd_Houghton_%281836-1875%29_-_Ramsgate_Sands_-_N03907_-_National_Gallery.jpg" aspect="1.196" caption="Ramsgate Sands, 1861" %}{: .right}
 
-Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate](/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
+Jane Carlyle, wife of the Scottish historian, philosopher and essayist, Thomas Carlyle, visited [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) with her dear friend, novelist and book reviewer, Geraldine Jewsbury in August 1861. 
 
 Jane, who was an inveterate letter writer, wrote to her husband on her arrival, describing their accommodation which was agreeably situated if a little noisy:
 
@@ -42,7 +42,7 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 
 ‘from early morning to late night, cries of prawns, shrimps and lollipops – things one never wanted, and will never want, of the most miscellaneous sort, and if that were all! But a brass band plays all through our breakfast, and repeats the performance often during the day, and the brass band is succeeded by a band of Ethiopians, and that again by a band of female fiddlers! and interspersed with these are individual barrel organs, and individual Scotch bagpipes, individual French horns.’[^ref7]
 
-In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs](/19c/19c-broadstair), where [Dickens](/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
+In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs]({{ site.baseurl }}/19c/19c-broadstair), where [Dickens]({{ site.baseurl }}/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" aspect="1.366" caption="Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}{: .right}
 

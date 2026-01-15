@@ -34,7 +34,7 @@ It was during this trip that he first displayed symptoms of mania, initially mis
 
 {% include embed/map.html center="Q949561" zoom="12" markers="Q949561" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-On 28 August the two men shared a meal at the Ship Inn at Cobham. The waiter recognized Robert Dadd and asked whether he should get him one bed or two for the night, in a nearby cottage. He answered, ‘This is my son, and one will be enough’, but as the waiter was leaving the room, Richard opened the door and said sharply, ‘Get two beds.’[^ref4]  Later that evening the two men went for a walk and the following morning Robert Dadd was found stabbed to death in nearby Cobham Park, where a young [Emily Shore](/19c/19c-shore-biography) had watched a tame heron following the gardener around in 1831. Suspicion immediately fell on his son, who was understood to be ‘labouring under mental aberration’.[^ref5]  As his brother Stephen put it, ‘My God to think he should fall by the hand of his son Richard who loved him so dearly and whom he so dearly loved’[^ref6]. 
+On 28 August the two men shared a meal at the Ship Inn at Cobham. The waiter recognized Robert Dadd and asked whether he should get him one bed or two for the night, in a nearby cottage. He answered, ‘This is my son, and one will be enough’, but as the waiter was leaving the room, Richard opened the door and said sharply, ‘Get two beds.’[^ref4]  Later that evening the two men went for a walk and the following morning Robert Dadd was found stabbed to death in nearby Cobham Park, where a young [Emily Shore]({{ site.baseurl }}/19c/19c-shore-biography) had watched a tame heron following the gardener around in 1831. Suspicion immediately fell on his son, who was understood to be ‘labouring under mental aberration’.[^ref5]  As his brother Stephen put it, ‘My God to think he should fall by the hand of his son Richard who loved him so dearly and whom he so dearly loved’[^ref6]. 
 
 {% include embed/image.html src="wc:The_Ship_Inn%2C_Cobham_-_geograph.org.uk_-_2522999.jpg" aspect="1.333" caption="The Ship Inn, Cobham" %}{: .right}
 
@@ -42,7 +42,7 @@ On 28 August the two men shared a meal at the Ship Inn at Cobham. The waiter rec
 
 {% include embed/map.html center="Q949561" zoom="12" markers="Q949561" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-Immediately after the murder Richard fled to [Dover](/19c/19c-dover) Port, from where he escaped to Calais. After attacking a fellow traveller, he spent ten months in an asylum before being extradited and taken to Maidstone Gaol. He stood trial in Rochester in July 1844 – as the charge was read, Dadd retorted, ‘You say I am the murderer, you b-y villain.’[^ref7]  He was found to be criminally insane, a diagnosis that saw him institutionalised, rather than being remanded in prison. At the age of 23 Dadd’s loss of autonomy coincided with the end of his time in Kent. 
+Immediately after the murder Richard fled to [Dover]({{ site.baseurl }}/19c/19c-dover) Port, from where he escaped to Calais. After attacking a fellow traveller, he spent ten months in an asylum before being extradited and taken to Maidstone Gaol. He stood trial in Rochester in July 1844 – as the charge was read, Dadd retorted, ‘You say I am the murderer, you b-y villain.’[^ref7]  He was found to be criminally insane, a diagnosis that saw him institutionalised, rather than being remanded in prison. At the age of 23 Dadd’s loss of autonomy coincided with the end of his time in Kent. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/d08f6d96-830c-4102-97a5-c96b9eb64ef2" aspect="1.392" caption="The Picturesque Beauties of Great Britain: Kent: The New Sessions House, Maidstone" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin" %}{: .right}
 
@@ -50,7 +50,7 @@ Immediately after the murder Richard fled to [Dover](/19c/19c-dover) Port, from 
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
 
-[Dickens](/dickens) was among those who remained fascinated by the case. The artist W. P. Frith told William R. Hughes that on one occasion he went with [Dickens](/dickens)  and Georgina Hogarth to the [Leather Bottle Inn](/dickens/pickwick-papers-leather-bottle), ‘where [Dickens](/dickens) was eloquent on the subject of the Dadd parricide, showing us the place where the body was found, with many startling and interesting details of the discovery.’[^ref8]  
+[Dickens]({{ site.baseurl }}/dickens) was among those who remained fascinated by the case. The artist W. P. Frith told William R. Hughes that on one occasion he went with [Dickens]({{ site.baseurl }}/dickens)  and Georgina Hogarth to the [Leather Bottle Inn]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle), ‘where [Dickens]({{ site.baseurl }}/dickens) was eloquent on the subject of the Dadd parricide, showing us the place where the body was found, with many startling and interesting details of the discovery.’[^ref8]  
 
 {% include embed/image.html src="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" aspect="1.5" caption="Leather Bottle Inn" attribution="Benjamin Mortley" %}{: .right}
 

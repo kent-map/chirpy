@@ -27,7 +27,7 @@ Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermil
 
 {% include embed/map.html center="Q587299" zoom="11" markers="Q587299" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
 
-Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the [Kentish landscape](/landscape), and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
+Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the [Kentish landscape]({{ site.baseurl }}/landscape), and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
 
 {% include embed/image.html src="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" aspect="1.227" caption="Unknown Kent, 1921" %}{: .right}
 
@@ -45,7 +45,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 
-Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Cooling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_](/dickens/great-expectations-curated-walk).
+Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Cooling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_]({{ site.baseurl }}/dickens/great-expectations-curated-walk).
 
 {% include embed/image.html src="wc:Cooling_Church_Graveyard_-_geograph.org.uk_-_43903.jpg" aspect="1.333" caption="Cooling Church graveyard" %}{: .right}
 

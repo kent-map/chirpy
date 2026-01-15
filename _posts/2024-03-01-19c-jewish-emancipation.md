@@ -25,7 +25,7 @@ In comparison with Rochester, [Chatham](Q729006) was governed by Court Leet – 
 
 {% include embed/image.html src="wc:WP_David_Salomons.jpg" aspect="0.769" caption="David Salomons" %}{: .right}
 
-It was the time of the Crimean war and Chatham was swollen with troops preparing for the campaign or coming back on leave. Local hospitals were full of the wounded and the convalescing. On 6 March 1855 [Queen Victoria](/19c/19c-victoria-biography) paid a visit to the town and public hospitals in Chatham and its vicinity and inspected the patients who had recently arrived from the Crimea. 
+It was the time of the Crimean war and Chatham was swollen with troops preparing for the campaign or coming back on leave. Local hospitals were full of the wounded and the convalescing. On 6 March 1855 [Queen Victoria]({{ site.baseurl }}/19c/19c-victoria-biography) paid a visit to the town and public hospitals in Chatham and its vicinity and inspected the patients who had recently arrived from the Crimea. 
 
 The Queen was hosted by the High Constable Charles Isaacs. At [Fort Pitt](Q17664052) Hospital, Her Majesty was given a tour by a Jewish surgeon, Dr Jacob Solomon, an alien and a refugee from Cracow, who was left in charge of the hospital, as the army medical staff had been sent to the front line.  
 
