@@ -1,5 +1,11 @@
 @import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css");
 
+@media (min-width: 1200px) {
+    .content {
+        font-size: 1.2em;
+    }
+}
+
 sl-tab::part(base) {
     font-size: 1.2rem;
     padding: 0.4rem 0.6rem;

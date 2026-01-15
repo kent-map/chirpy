@@ -1,0 +1,29 @@
+---
+title: "Elizabeth Elstob (1683–1756)"
+description: "This essay traces the life and work of Elizabeth Elstob, a pioneering female scholar and advocate for women’s education with early roots in Canterbury. It follows her intellectual formation, publications on Old English, and later career as a teacher and governess, situating her achievements within the constraints placed on women’s learning in the early eighteenth century."
+author: Professor Jackie Eales
+date: 2024-03-14
+categories: [ 18c ]
+tags: [ Authors & lives, Politics & reform, Towns & cities, Science & ideas ]
+image: 
+  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
+layout: post
+permalink: /18c/18c-elstob-biography/
+published: true
+toc: false    
+---
+
+Looking back at her education in [Canterbury](Q29303) in the 1690s, Elizabeth Elstob later remembered how she and her childhood friend Mary Randolph had spent many happy hours together ‘sighing out … our wishes’ for the freedom to study Greek and Latin. Elizabeth’s love of books had been encouraged by her mother, who was a great admirer of women’s education, but Elizabeth was only eight when her mother died and she was sent to live with her uncle, Charles Elstob, a prebendary at Canterbury Cathedral. She discovered that he was ‘no friend to women’s learning’ and Elizabeth only got his permission to learn French with great difficulty ‘being always put off, with that common and vulgar saying that one tongue is enough for a woman’. Elizabeth can, however, lay claim to be Canterbury’s first bluestocking or female scholar, because she mastered Anglo-Saxon studies. She later described herself as the first woman to understand Old English since it had last been spoken. She was also the first female English Historian and a passionate defender of women’s learning. In her publications Elizabeth made the case for women’s education, which was ‘too frequently almost generally deny’d them’. At the time only about 30% of women could both read and as a woman, Elizabeth was barred from being a pupil at the King’s School in Canterbury and she could not gain admittance to the two English Universities of Oxford and Cambridge. 
+
+{% include embed/image.html src="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" aspect="1.346" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury " attribution="by William Gostling, 1825. No known copyright restrictions" %}{: .right}
+
+Her older brother, William, was a student at Oxford and later rector of St Swithun’s church in London where he took on Elizabeth’s education. With William’s support, she studied Latin, Anglo-Saxon History and the Old English language. She also gained the admiration of William’s university contacts, who promoted her publications such as An English-Saxon Homily on the Birth-day of St. Gregory, a work by the tenth-century monk Aelfric about Augustine’s mission to Kent in 597. In the preface to this book, Elizabeth wrote that ‘there are two things usually opposed against Women’s Learning. That it makes them impertinent, and neglect their household Affairs. Where this happens is a Fault. But it is not the Fault of Learning’. 
+
+{% include embed/image.html src="wc:Elizabeth_Elstob.jpg" aspect="0.872" caption="Simon Gribelin, Public domain, via Wikimedia Commons" %}{: .right}
+
+{% include embed/image.html src="wc:The_rudiments_of_grammar_for_the_English-Saxon_tongue%2C_first_given_in_English-_with_an_apology_for_the_study_of_northern_antiquities_Fleuron_T072424-3.png" aspect="1.863" caption="The rudiments of grammar for the English-Saxon tongue" %}{: .right}
+
+Despite Elizabeth’s early renown, the death of her brother in 1715 ended her scholarly career and finding herself in debt, Elizabeth left her London home and later ran a girls’ school in Evesham.  From 1739 Elizabeth was employed as a governess by Margaret, Duchess of Portland and she died in 1756. Before taking up her post with the duchess’s family, Elizabeth wrote to her describing her educational methods and lamenting ‘how much the education of our youth, especially that of the females is neglected’. Her ideas about teaching were strongly influenced by the education advocated by the seventeenth-century clergy for girls. She thus ensured her employer that she would instil the ‘principles of religion and virtue’ in her daughters and would teach them to read, write and speak in English. At her death, Elizabeth was buried in St Margaret’s church in Westminster. A Blue Plaque for Elizabeth will be installed in Burgate in Canterbury in 2024. 
+
+{% include embed/image.html src="wc:Michael_Dahl_%281656-1659-1743%29_%28after%29_-_Lady_Margaret_Cavendish-Harley_%281715%E2%80%931785%29%2C_Duchess_of_Portland_-_1129208_-_National_Trust.jpg" aspect="0.877" caption="Lady Margaret Cavendish-Harley (1715–1785), Duchess of Portland" %}{: .right}
+
