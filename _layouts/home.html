@@ -2,6 +2,25 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<script>
+  let sidebar = document.querySelector('div.sidebar-bottom');
+  let modeToggle = document.createElement('a');
+  modeToggle.id = 'view-toggle';
+  modeToggle.setAttribute('aria-label', 'Column Mode Toggle');
+  modeToggle.setAttribute('rel', 'noopener noreferrer');
+  modeToggle.style.cursor = 'pointer';
+  let icon = document.createElement('i');
+  icon.className = 'fa-solid fa-grip';
+  modeToggle.appendChild(icon);
+
+  const ghLink = sidebar.children[2];
+  if (ghLink) {
+    ghLink.replaceWith(modeToggle);
+  }
+</script>
+
 {{ content }}
 
 {% include lang.html %}
@@ -48,13 +67,64 @@ layout: default
 {% endfor %}
 {% endif %}
 
-<div id="post-list" class="flex-grow-1 px-xl-1">
+<div id="post-index" class="post-index view-list flex-grow-1 px-xl-1">
   {% for post in posts %}
-  {% include post_list_item.html post=post %}
+  {% include post_index_item.html post=post %}
   {% endfor %}
 </div>
-<!-- #post-list -->
 
 {% if paginator.total_pages > 1 %}
 {% include post-paginator.html %}
 {% endif %}
+
+
+<script>
+  const containers = ["#post-index", "#featured-essays"]
+    .map(sel => document.querySelector(sel))
+    .filter(Boolean);
+
+  const toggleBtn = document.querySelector("#view-toggle");
+  const toggleIcon = toggleBtn?.querySelector("i");
+
+  function setView(view) {
+    const isGrid = view === "grid";
+
+    containers.forEach(container => {
+      container.classList.toggle("view-grid", isGrid);
+      container.classList.toggle("view-list", !isGrid);
+    });
+
+    if (toggleIcon) {
+      // Your current mapping: grid => bars, list => grip
+      toggleIcon.className = isGrid ? "fa-solid fa-bars" : "fa-solid fa-grip";
+    }
+
+    localStorage.setItem("postIndexView", view);
+  }
+
+  // click handler
+  toggleBtn?.addEventListener("click", () => {
+    const isCurrentlyGrid = containers[0]?.classList.contains("view-grid");
+    setView(isCurrentlyGrid ? "list" : "grid");
+  });
+
+  // restore preference
+  setView(localStorage.getItem("postIndexView") === "grid" ? "grid" : "list");
+
+  // More/Less excerpt toggle
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest(".post-excerpt-toggle");
+    if (!btn) return;
+
+    // prevent navigation since button sits inside <a>
+    e.preventDefault();
+    e.stopPropagation();
+
+    const card = btn.closest(".post-index-item");
+    if (!card) return;
+
+    const expanded = card.classList.toggle("is-expanded");
+    btn.setAttribute("aria-expanded", expanded ? "true" : "false");
+    btn.textContent = expanded ? "Less" : "More";
+  });
+</script>

@@ -1,6 +1,6 @@
 ---
 title: "Arden of Faversham (Author unknown)"
-description: "This essay explores the 1551 murder of Thomas Arden in Faversham and its transformation into the late sixteenth-century domestic tragedy Arden of Faversham. It connects the play’s true-crime origins, disputed authorship, and debates about marriage and social order to specific local sites such as Faversham Abbey, the Fleur-de-Lis, the quay, and routes to Canterbury and Sheppey."
+description: "This essay explores the early modern murder of Thomas Arden in Faversham and how it was transformed into the domestic tragedy Arden of Faversham within a booming true-crime print culture. It links the play’s ambiguous treatment of marriage, social order, and landlordism to specific local sites such as Faversham Abbey, the Fleur-de-Lis, and Arden’s house, while noting ongoing debates about the play’s authorship."
 author: Marnie Stanley
 date: 2024-03-01
 categories: [ 16c ]
@@ -8,44 +8,46 @@ tags: [ Texts & genres, Crime & punishment, Towns & cities, Representation & int
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
 layout: post
+auto_float: true
 permalink: /16c/16c-arden-faversham/
 published: true
-toc: false    
+toc: false
+featured: true
 ---
 
 On St. Valentine’s day 1551 a grizzly sight was found in the grounds of [Faversham](Q1000115) abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. 
 
-{% include embed/image.html src="wc:Faversham_Abbey_Site_-_48474928356.jpg" aspect="1.5" caption="Faversham Abbey" %}{: .right}
+{% include embed/image.html src="wc:Faversham_Abbey_Site_-_48474928356.jpg" aspect="1.5" caption="Faversham Abbey" %}
 
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" aspect="1.339" caption="The house where Thomas Arden lived and was killed in 1551" attribution="Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" aspect="1.339" caption="The house where Thomas Arden lived and was killed in 1551" attribution="Martin Crowther" %}
 
 Soon two assassins have been hired (Shakebag and Black Will), and Arden’s manservant is drawn into the plot (also with the promise of Mosby’s sister). After several murder attempts fail, they eventually manage to lure Arden into a trap set in his own house, before killing him, and dragging his body into the grounds. It is not long before neighbourhood suspicion arises, and the poorly hidden evidence points the authorities in the direction of Alice and her fellow assassins, who are executed for the deed. Numerous speculations and rigorous scholarly studies have attempted to attribute the play to various playwrights – the main three put forward being William Shakespeare, Christopher Marlowe and Thomas Kyd. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" aspect="1.339" caption="Arden Plaque" attribution="Marnie Stanley" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" aspect="1.339" caption="Arden Plaque" attribution="Marnie Stanley" %}
 
 Recent computer analysis by Kinney has found evidence that the play is partly by Shakespeare, with little indication of contribution from Marlowe or Kyd. However, Freebury-Jones argues that to attribute the play to Shakespeare is to ignore the numerous studies which have provided strong evidence for Kyd. The play’s authorship remains up for debate. One argument put forward in favour of Shakespeare, is the play’s ambiguity’ – the play certainly covers a variety of controversial debates of the age, without making any solid judgements and instead leaves the audience to take their own stance on matters. 
 
-{% include embed/image.html src="wc:Shakespeare_Droeshout_1623.jpg" aspect="1.0" caption="Shakespeare, 1623" %}{: .right}
+{% include embed/image.html src="wc:Shakespeare_Droeshout_1623.jpg" aspect="1.0" caption="Shakespeare, 1623" %}
 
 It is one of the first known plays of its genre, the domestic tragedy, which represented the ordinary domestic matters of the ordinary man and woman, making these plays more relatable to a wider audience, and bringing the themes they dealt with closer to home. The most obvious topic that the play handles is that of marriage, which was a matter of intense dispute at the time the play was written. Debates on divorce followed the Reformation, some (usually those of a puritan stance) arguing strongly in its favour, others feeling that it could potentially lead to social chaos. The play represents both of these viewpoints, portraying the breakdown of social order that comes when a woman challenges her marriage, whilst also leaving audiences potentially questioning whether the ending would have been so grim if Alice had had the option of divorce, indeed she even proclaims ‘Love is god, and marriage is but words…’, and the murder was used in a 1652 text arguing ‘That a man may not only put away his Wife for her Adultery, but also marry another.’ Furthermore, although Alice’s actions are condemned in the play, the blame is not solely put on her. As Richardson and Sullivan Jr have pointed out, Arden’s poor household management skills are also bought up for questioning, as from an early modern point of view, both his greed and oversights allowed for a man of lower rank to acquire his status by means of sleeping with his wife – women as possessions being part of the acquisition process of acquiring another man’s property. 
 
-{% include embed/image.html src="wc:Arden_of_Faversham_first_quarto_title_page.jpg" aspect="0.756" caption="Arden of Faversham first quarto page" %}{: .right}
+{% include embed/image.html src="wc:Arden_of_Faversham_first_quarto_title_page.jpg" aspect="0.756" caption="Arden of Faversham first quarto page" %}
 
 There are no clear villains or heroes in the play, the characters are each analysed in both disapproval and sympathy, and Mosby for instance is represented as simultaneously under Alice’s charms (there are quotes in the play which almost portray Alice as a witch), and consciously using her to gain Arden’s fortune (there are equally quotes which associate Mosby with witchcraft). 
 
-{% include embed/image.html src="wc:Arden%27s_House%2C_Faversham.JPG" aspect="1.333" caption="Arden's House" %}{: .right}
+{% include embed/image.html src="wc:Arden%27s_House%2C_Faversham.JPG" aspect="1.333" caption="Arden's House" %}
 
 The real Arden was a disliked man who had caused much local offense for purchasing the lands of Faversham Abbey, which were dissolved in the dissolution of the monasteries, and was found dead in the fair which he had contrived to ensure was held solely on his land, preventing the community from receiving any profits. This is represented in the play, and as Sullivan Jr. has discussed the ending of the play detailing how the print of Arden’s body remained in the land for years (and in real life this print initially became somewhat of a tourist attraction after the murder), provides a powerful message that his misuse of the land, his greed and his move away from social to economic landlordism, had led to his demise. If Shakespeare could be put forward as author for ambiguity, then Marlowe could certainly be put forward for regional knowledge, having been born in local Canterbury, where Alice had been burnt alive for the murder. The author has ensured that the play remains true to its setting, mostly using the real locations and people accounted in the Holinshed Chronicle, such as the Flower-de-Luce inn on Preston Street where Mosby was found by authorities, and whose resident Adam Fowle had delivered a pair of fateful silver dice from Alice to Mosby during their affair. 
 
-{% include embed/image.html src="wc:Ruins_Of_Faversham_Abbey%2C_Stukeley%2C_1722.jpg" aspect="1.553" caption="Ruins of Faversham Abbey" %}{: .right}
+{% include embed/image.html src="wc:Ruins_Of_Faversham_Abbey%2C_Stukeley%2C_1722.jpg" aspect="1.553" caption="Ruins of Faversham Abbey" %}
 
 The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. 
 
 This article was published: 1 November 2020.
 
-{% include embed/image.html src="wc:Faversham_Quay1.jpg" aspect="1.031" caption="Faversham Quay" %}{: .right}
+{% include embed/image.html src="wc:Faversham_Quay1.jpg" aspect="1.031" caption="Faversham Quay" %}
 
 ### Bibliography and Further Reading
 

@@ -7,6 +7,19 @@ order: 2
 
 <style>
     h1, h2, h3, h4, h5 { clear: both; }
+    p:has(img) {
+        float: right;
+        width: 40%;
+        margin-left: 1em;
+    }
+    p a,
+    p a img {
+        width: 100%;
+    }
+
+    p a img {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
 </style>
 
 The site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists including Charles Dickens, who is featured in the early essays available on the site. Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that history is just that – a story we tell to others and ourselves? As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of yet.

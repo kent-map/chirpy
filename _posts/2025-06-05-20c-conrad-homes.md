@@ -1,13 +1,14 @@
 ---
 title: "Coach Tour of Joseph Conrad’s Homes in Kent"
-description: "This essay follows a coach-tour pamphlet written by Borys Conrad to trace Joseph Conrad’s sequence of Kent homes, from Pent Farm near Hythe to Oswalds in Bishopsbourne. It uses mapped locations, photographs, and anecdotes to connect these residences to Conrad’s writing, visitors, and family life in the early twentieth century."
+description: "This essay traces a coach-style tour of Joseph Conrad’s Kent homes using Borys Conrad’s 1974 pamphlet as a guide, combining photographs, place description, and biographical context. It links each residence to Conrad’s writing life, visiting networks, and the local landscapes around Postling, Orlestone, Wye, and Bishopsbourne."
 author: Daniel Vince
 date: 2025-06-05
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Maps & place-making ]
+tags: [ Authors & lives, Literary places, Travel & mobility, Buildings & architecture ]
 image: 
   path: "https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"
 layout: post
+auto_float: true
 permalink: /20c/20c-conrad-homes/
 published: true
 toc: false    
@@ -18,7 +19,7 @@ toc: false
 
 This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" aspect="0.669" caption="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" aspect="0.669" caption="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad" %}
 
 **Pent Farm, Postling**
 
@@ -29,17 +30,17 @@ While overhead we have the Pent
 
 Borys writes that the quote “remained there until some six or seven years ago [from 1974] when some over-enthusiastic house decorator obliterated the inscription”.[^ref2]   As one will see if they choose to search for the property listing, the “grapevine which grew over it no longer exist[s]”, but despite this, the house has remained almost untouched – inscription and grapevine aside.[^ref3] 
 
-{% include embed/image.html src="wc:Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg" aspect="1.501" caption="Pent Farm, Postling" %}{: .right}
+{% include embed/image.html src="wc:Pent_Farm%2C_Postling_%28geograph_3467328%29.jpg" aspect="1.501" caption="Pent Farm, Postling" %}
 
 Pent Farm is supposed to be associated with many of Conrad’s key works, such as _Youth_ (1898), _The Heart of Darkness_ (1899), _Lord Jim_ (1900), _Typhoon_ (1902), _Nostromo_ (1904) and _The Secret Agent_ (1907) to say a few. A lesser known work, _The End of the Tether_ (1902) is included later by Borys, as a work which “was partly destroyed by fire when the glass bowl of [his] father’s table lamp burst and set fire to the manuscripts on his writing table”.[^ref4]  Despite this, it would be collected in _Youth, A Narrative and Two Other Stories_ in 1902. 
 
 The author reports that many literary figures visited Pent Farm, including [John Galsworthy]({{ site.baseurl }}/19c/19c-galsworthy-biography), [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), William Rothstein, [Henry James](19c/19c-jamesh-hever-castle/), R. B. Cunningham Graham and numerous others. The family remained at the house until 1907, when Jessie George grew and when the advent of John Conrad “made it necessary to seek a larger house”.[^ref5] 
 
-{% include embed/image.html src="wc:The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" aspect="1.333" caption="North Downs Way, near Pent Farm" %}{: .right}
+{% include embed/image.html src="wc:The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" aspect="1.333" caption="North Downs Way, near Pent Farm" %}
 
 <!-- Base map centred on Postling -->
 
-{% include embed/map.html center="Q2309424" zoom="12" markers="Q2309424" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q2309424" zoom="12" markers="Q2309424" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 **Capel House, Orlestone, Nr. Ashford**
 
@@ -51,11 +52,11 @@ The property fuelled Joseph’s love of the motorcar, by association with Regina
 
 There were, as at Pent Farm, many visitors to Capel. These included Sir Sidney Darke, [Hugh Walpole]({{ site.baseurl }}/19c/19c-walpole-biography), Jean-Aubry, Norman Douglas and Stephen Reynolds to name just a few. It held many happy memories for the Conrads, who witnessed many seismic world events from its walls. It was a happy home. 
 
-{% include embed/image.html src="wc:Mr._Joseph_Conrad.jpg" aspect="1.613" caption="Mr Joseph Conrad outside Capel House" %}{: .right}
+{% include embed/image.html src="wc:Mr._Joseph_Conrad.jpg" aspect="1.613" caption="Mr Joseph Conrad outside Capel House" %}
 
 <!-- Base map centred on Orlestone -->
 
-{% include embed/map.html center="Q690486" zoom="12" markers="Q690486" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q690486" zoom="12" markers="Q690486" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 **Spring Grove, Wye, Nr. Ashford**
 
@@ -67,11 +68,11 @@ The building, according to Borys Conrad, was “far bigger than […] needed”,
 
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.[^ref12]  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move.[^ref13] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/91091fac-a648-45cd-907b-28de593b3ee6" aspect="1.5" caption="Spring Grove School" attribution="By kind permission of Nicky Lee-Browne, Spring Grove School" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/91091fac-a648-45cd-907b-28de593b3ee6" aspect="1.5" caption="Spring Grove School" attribution="By kind permission of Nicky Lee-Browne, Spring Grove School" %}
 
 <!-- Base map centred on Wye -->
 
-{% include embed/map.html center="Q590063" zoom="12" markers="Q590063" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q590063" zoom="12" markers="Q590063" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 **Oswalds, [Bishopsbourne](Q866348), Nr. [Canterbury](Q29303)**
 
@@ -81,21 +82,21 @@ Joseph Conrad often complained that Oswalds was “down in a hole” and isolate
 
 The house has changed greatly in appearance since the nineteen twenties. Half of the building has “been knocked down”, but at the time of Borys’s writing, the owners were “trying to restore it to its original glory”.[^ref16]  The three beautiful walled gardens, however, could not be recreated.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Rear_of_Oswalds_-_Bishopsbourne_MJC.jpg" aspect="1.333" caption="Oswalds" attribution="©Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Rear_of_Oswalds_-_Bishopsbourne_MJC.jpg" aspect="1.333" caption="Oswalds" attribution="©Martin Crowther" %}
 
 <!-- Base map centred on Bishopsbourne -->
 
-{% include embed/map.html center="Q866348" zoom="12" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q866348" zoom="12" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 The family lived at Oswalds for five happy years, but on August 3rd, 1924, their happiness would soon lapse. Borys Conrad’s pamphlet speaks very little about his father’s death, so I would like to quote Jocelyn Baines’s biography to complete the narrative:
 
 the Borys Conrad family and John Conrad arrived for a Bank Holiday visit which had already been arranged. Conrad had a bad night, but seemed a little better in the early morning, and Jessie, who was in the next room, remembered him having called out to her at about six: 'You Jess, I am better this morning. I can always get a rise out of you.' At eight-thirty he was dead.[^ref17] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" aspect="1.333" caption="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" aspect="1.333" caption="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther" %}
 
 <!-- Base map centred on Bishopsbourne -->
 
-{% include embed/map.html center="Q866348" zoom="12" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q866348" zoom="12" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 ### References
 

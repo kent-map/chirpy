@@ -8,6 +8,7 @@ tags: [ Texts & genres, Coast & sea, Material culture, Heritage & memory ]
 image: 
   path: "xxx"
 layout: post
+auto_float: true
 permalink: /poetry/fisherman-oulton/
 published: true
 toc: false    

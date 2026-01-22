@@ -1,13 +1,14 @@
 ---
 title: "Albert Makaula White"
-description: "This essay traces the life of Albert Makaula-White, a South African-born Bhaca chief’s son adopted by English missionaries who later settled in Kent and worked as a farmer and lay religious speaker. It follows his movements through Kent communities, highlighting experiences of integration, racial prejudice, local court cases, and the pressures of farming in the early twentieth century."
+description: "This essay traces the life of Albert Makaula-White, born in the Eastern Cape in 1865 and later a farmer and Methodist speaker in Kent. It follows his movements across several Kent communities, highlighting how race, faith, and local tensions shaped his family’s experiences from the Edwardian period through the 1930s."
 author: Liam Cohen
 date: 2024-12-16
 categories: [ 20c ]
-tags: [ Authors & lives, Countryside & farming, Faith & belief, Identity & community ]
+tags: [ Authors & lives, Identity & community, Countryside & farming, Towns & cities, Faith & belief ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NBY_419452%29.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-makaula-white-biography/
 published: true
 toc: false    
@@ -17,13 +18,13 @@ Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[
 
 At the age of nine months, Albert grew seriously ill. His sickness was seen as a bad omen among the Bhaca people, who feared that a great calamity would befall the tribe. Chief Makaula and Albert's mother, Mamagayiyana (The Great Wife) tried everything to cure Albert.[^ref2] Growing desperate, Albert's mother walked 20 miles to the mission station at Tshungwana (Osborn) carrying Albert on her back, whilst Chief Makaula followed on horseback. Here they asked the English missionary, Reverend Charles White to help save their son, saying: "Here is a thing that I have brought you; if it lives it is yours, if it dies, bury it."[^ref3] Charles and Martha White, who had no children of their own, agreed to look after Albert and he recovered. The Whites adopted Albert, who was the Chief's second son, and he added White to his name, making him Albert Makaula-White. He lived with the Whites for 15 years.
 
-{% include embed/image.html src="wc:1928_Map_of_the_Environs_of_London%2C_England_-_Geographicus_-_LondonEnvirons-bartholomew-1928.jpg" aspect="1.593" caption="Environs of London, 1928" %}{: .right}
+{% include embed/image.html src="wc:1928_Map_of_the_Environs_of_London%2C_England_-_Geographicus_-_LondonEnvirons-bartholomew-1928.jpg" aspect="1.593" caption="Environs of London, 1928" %}
 
 Albert grew up as a Black child amongst White people. He integrated well and is described as speaking perfect English. He enjoyed conversing, particularly with adults, although he didn't learn his native tongue until he was 16.[^ref4] Most of his youth was spent in South Africa; where he would have witnessed tribal conflict and the impact this had on the local community.[^ref5] In 1871, Chief Makaula asked Reverend White to act as an intermediary between the AmaBhaca and the warring Griquas, but White struggled to broker peace and the mission station became crowded with displaced women and children fleeing the aggression.[^ref6]
 
 In 1888, Makaula-White came to the UK and visited Henry Darney, father in law of the Colonial Resident Magistrate in Bacaland, at his home in Kinghorn, Scotland.[^ref7] It was in this year that Reverend Charles White died, with Martha dying two years later.[^ref8]
 
-{% include embed/image.html src="wc:Thomas_Baines_Baobab.jpg" aspect="1.415" caption="Baobab Tree" %}{: .right}
+{% include embed/image.html src="wc:Thomas_Baines_Baobab.jpg" aspect="1.415" caption="Baobab Tree" %}
 
 After the death of his adoptive parents, Albert trained to become a clergyman at the Richmond Theological College in Surrey. It was whilst he was here that he conducted services at Wesleyan Chapels in Thame[^ref9], Hastings, Banbury[^ref10], Sandycombe and Winchcombe.[^ref11] 
 
@@ -31,15 +32,15 @@ After leaving the college, Albert married Eleanor Botting at Wesleyan Methodist 
 
 Not long after their marriage, the couple moved to South Africa. Albert found work as an interpreter to the Magistrate of Idutywa  and acted as an interpreter for his father during a visit from Cecil Rhodes. He was later appointed as Chief Constable of Libode and acted as an interpreter for his father during the visit from the Duke of York in 1901. He was sacked from this post in 1902 after he was accused of seizing goods from a hut-tax payer.[^ref14] The Makaula-Whites had three children, all born in South Africa: Irene, in 1893, Charles in 1897 and Claude in 1898. The South Africa of Albert's childhood had changed enormously, ravaged by wars, and over-run with white settlers seeking riches in the gold and diamond mines, and restricting the rights of the native people.[^ref15]  At the end of 1906, Albert's father died leaving over 100 sons and daughters. His older brother, Mncisane, became the new Chief.[^ref16] 
 
-{% include embed/image.html src="wc:Wesleyan_Church_Strood.jpg" aspect="0.628" caption="Wesleyan Church, Strood" %}{: .right}
+{% include embed/image.html src="wc:Wesleyan_Church_Strood.jpg" aspect="0.628" caption="Wesleyan Church, Strood" %}
 
-{% include embed/map.html center="Q1808441" zoom="15" markers="Q1808441" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="Q1808441" zoom="15" markers="Q1808441" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 In 1904, the Makaula-Whites moved to Kent. Eleanor's mother had died in 1902 and her father was to die in the spring after their return. Albert began farming at Stubble Hill near [Harrietsham](Q607701) [^ref17] and remained here until at least 1911. A Black man would have been conspicuous in a rural community. However, Albert's familiarity with British way of life aided his family's integration into Kent. Jo Beany recalled her Grandfather's account of working for the Makaula-Whites: "Granddad couldn't speak highly enough of the Makaula-Whites. Wonderful people, very considerate of their workforce. Always a good supply of tea and soft drinks, much appreciated on those hot summer days."[^ref18]
 
 Although committed to his new life of farming, Albert retained his links with the Methodist Community, giving talks about his life and the missionary work in South Africa. In 1912, he gave a talk at the Burbank Church of the West Hartlepool Circuit of the United Methodist Churches on the introduction of the gospel to the Amabaca, and sang a song in the Kaffir language.[^ref19] 
 
-{% include embed/image.html src="wc:Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" aspect="1.117" caption="Farming, 1906" %}{: .right}
+{% include embed/image.html src="wc:Theodoor_Verstraete_-_Farming_-_1906-T_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg" aspect="1.117" caption="Farming, 1906" %}
 
 By 1913, the Makaula-Whites were living at Rose Lawn, [Minster](Q9033431), [Ramsgate](Q736439), a semi-detached property with about two acres and an orchard.[^ref20] The main crops in this area were wheat, barley, oats, hops and potatoes, with some fruit growing for the London market. In 1913, Albert advertised in the _Kent Messenger_ for "40 bushels of soot".[^ref21] The soil around Minster was loam, so soot was used by farmers to darken the soil so that it absorbed more heat from the sun. As a result the higher temperature of the soil would help bring the season forward a little.
 
@@ -47,34 +48,34 @@ It was whilst he was living at Minster that Albert became a member of the Minste
 
 During 1916-17, Makaula White contributed entertainment to concerts raising money for wounded soldiers and allowed the wounded soldiers to use his tennis court.[^ref24] 
 
-{% include embed/map.html center="51.336565, 1.314824" zoom="15" markers="51.336565, 1.314824" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="51.336565, 1.314824" zoom="15" markers="51.336565, 1.314824" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 The post-war period was a difficult time for farmers. Canterbury cathedral's tithe agent, noting a problem with non-payment in the Minster area, wrote to farmers threatening to serve a county court notice on them.[^ref25]  An agricultural depression had seen wheat prices plummet and among non-conformist communities such as the Methodists, the payment of tithes to the Church of England seemed like an "unjust tax on agrictulture".[^ref26] It is not known how much these events affected Albert and his family but they reveal how difficult it was to be a farmer at this period.
 
 It was around this time that Albert joined the freemasons and is reputed to be Britain's first Black freemason [^ref27] as a member of Lewises Lodge, Ramsgate. In 1920, he gave a talk to the Ramsgate Brotherhood on the "Habits and Customs of his Tribe" at the Primitive Methodist Church on Queen Street, using tribal weapons and beads to illustrate his talk [^ref28] By 1921, he was living with his family at 61, Ellington Road, Ramsgate and his daughter Irene was running dance classes in the town.[^ref29] However, a robbery at their house, in which Irene was called as witness, as well as accusations of theft against Claude, who was working as an auctioneer's clerk, created difficulties for the family.[^ref30] Claude was sent to [Canterbury Gaol]({{ site.baseurl }}/20c/20c-prison-canterbury/) for 5 months.[^ref31] 
 
-{% include embed/image.html src="wc:%27Ramsgate%27_by_J._Buxton_Knight.jpg" aspect="1.455" caption="Ramsgate" %}{: .right}
+{% include embed/image.html src="wc:%27Ramsgate%27_by_J._Buxton_Knight.jpg" aspect="1.455" caption="Ramsgate" %}
 
-{% include embed/map.html center="Q67479626" zoom="12" markers="Q67479626" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="Q67479626" zoom="12" markers="Q67479626" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 By June 1923, the Makaula Whites were living at Beech Court, [Challock](Q5036128).[^ref32] It was whilst living here that Makaula White attended the Badlesmere Whist Drive and sang humourous songs, revealing his sociability and keeness to be part of community life.[^ref33] However, the sale by auction of live and dead farming stock and the effects of Beech Court Farm, Challock in October 1924 reveal that the family did not stay here long.[^ref34] Albert sold off 2 dairy cows, 2 cart horses, a young Welsh mare and foal, 85 pigs, 95 sheep, 200 poultry and nearly new agricultural implements. It must have been disappointing for him and his family.[^ref35]
 
-{% include embed/map.html center="Q5036128" zoom="12" markers="Q5036128" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="Q5036128" zoom="12" markers="Q5036128" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
-{% include embed/map.html zoom="12" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html zoom="12" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 During the period 1925-1928, Makaula-White and Sons ran Poverest Farm in St Mary Cray.[^ref36] The Farm consisted of 2 cottages and 153 acres.[^ref37] Life at St Mary Cray was not without its challenges. In December 1927, Albert was taken to court after a neighbour accused Albert of letting his pigs eat his garden plants. The reporting of the court case reveals racial tensions as the complainant suggested that the act was deliberate and Albert replied that he believed that he was a victim of "prejudice against colour".[^ref38]
 
 The winter of 1927 into 1928 was extremely cold and snowy.[^ref39] Many roads and paths had to be dug out so that people could access the outer world after being snowed in. The extreme weather would have a costly effect on Albert. In January 1928, the RSPCA took Albert to court for neglecting his pigs.[^ref40] Albert declared to the court that he sold all of the pigs in question to Commander Egleton around Christmas. The pair came to a gentleman's agreement that Albert would house the pigs until Egleton would collect them in January. In the meantime, Egleton's farm manager was to feed the pigs. However, he claimed there was a miscommunication, and he believed Albert was also meant to feed the pigs part of the time.[^ref41] Albert's defence lawyer argued that Makaula-White had been "subjected to a great deal of persecution by neighbours" on account of his colour and that many farm animals had frozen to death that winter and these cases had not been brought to prosecution.[^ref42] Both parties were fined. Albert was fined £10, approximately £460 (as of 2017).[^ref43] This gained unwanted public attention. 
 
-{% include embed/map.html center="51.390784, 0.093409" zoom="15" markers="51.390784, 0.093409" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="51.390784, 0.093409" zoom="15" markers="51.390784, 0.093409" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 The Makaula-Whites moved to Court Lodge in [Doddington](Q2357887) in 1929. At Court Lodge, they dealt only with wheat, barley, oats, and beans. Albert remained here until at least 1935 and gave talks at the Bethel Congregational Church, Queenborough on his life as a Christian worker.[^ref44]. His presence in these communities attracted interest and children asked for his autograph as the son of a "Zulu" Chief. His daughter, Irene also gained attention for her claims that she had healing powers.[^ref45]
 
 As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry but in 1933 wrote to a former acquaintance in South Africa asking for financial support.[^ref46] By the 1930s, the British Fascist movement were whipping up support among agricultural communities and political ideologies created tensions among farming communities. A Blackshirt Agricultural Tour in 1934 visited villages around Ashford, [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home/), New Romney, Chatham, Sandwich, Chiselhurst, Westerham, [Orpington](Q123977) and Sevenoaks.[^ref47] Life in rural communities would have felt uncomfortable for the family at this period.
 As Albert aged, his financial issues grew, and his mental health declined. He remained working in the agricultural industry but in 1933 wrote to a former acquaintance in South Africa asking for financial support.[^ref46] By the 1930s, the British Fascist movement were whipping up support among agricultural communities and political ideologies created tensions among farming communities. A Blackshirt Agricultural Tour in 1934 visited villages around Ashford, [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home/), New Romney, Chatham, Sandwich, Chiselhurst, Westerham, Orpington and Sevenoaks.[^ref47] Life in rural communities would have felt uncomfortable for the family at this period.
 
-{% include embed/map.html center="51.284429, 0.789154" zoom="15" markers="51.284429, 0.789154" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="51.284429, 0.789154" zoom="15" markers="51.284429, 0.789154" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 Albert died on 13th September 1937 at the The Haven, [Goudhurst](Q2019734) where he had been living for about three months. He was buried at [Lenham](Q3246334) where a wreath from the British Coloured People's League, founded by Dr Harold Moody, was laid at his funeral.[^ref48] After her husband's death, Eleanor lived with Claude in [Maidstone](Q213180) until she died in 1944, and was also buried at Lenham. 
 
@@ -82,9 +83,9 @@ Albert's children maintained their roots with Kent. Charles and Claude attended 
 
 Albert Makaula-White's life was a testament to resilience and determination. Despite his uncertain beginning, he rose above his challenges, whether in the scorching sun of South Africa or the snowy streets of Kent.  
 
-{% include embed/image.html src="wc:Churchyard%2C_St_Mary%2C_Lenham.jpg" aspect="1.342" caption="Churchyard, Lenham" %}{: .right}
+{% include embed/image.html src="wc:Churchyard%2C_St_Mary%2C_Lenham.jpg" aspect="1.342" caption="Churchyard, Lenham" %}
 
-{% include embed/map.html center="Q2019734" zoom="15" markers="Q2019734" allmaps="02beda348c553bd7~OS SE England & London 1933" %}{: .right}
+{% include embed/map.html center="Q2019734" zoom="15" markers="Q2019734" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 ### References
 

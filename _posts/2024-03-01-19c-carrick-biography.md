@@ -1,13 +1,14 @@
 ---
 title: "Charles Carrick"
-description: "This essay traces the life and work of Charles Carrick (1823–1890), a Canterbury writing master, private tutor, poet, and maker of intricate mosaic and marquetry pieces. It situates his teaching, artistic entrepreneurship, and social ambitions within Victorian Canterbury, using his publications, patrons, and press notices to assess his reputation and legacy."
+description: "This essay traces the life and work of Charles Carrick, a nineteenth-century Canterbury writing master, private tutor, poet, and mosaicist, from his early career to his death in 1890. It uses his publications, local newspaper notices, and surviving artworks to show how he sought status and income through teaching, craft, and literary patronage within Canterbury society."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
+tags: [ Authors & lives, Towns & cities, Culture & society, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-carrick-biography/
 published: true
 toc: false    
@@ -18,19 +19,19 @@ Writing master, private tutor, poet and mosaicist, Charles Carrick, was born in 
 
 From the late 1840s, at Kent House Academy, 23 Best Lane, Carrick offered day and evening classes to pupils in writing, history, geography, arithmetic, grammar and composition with his wife Christiana. Ladies were taught Square Hand and the Queen's Italian Running Hand, whilst gentlemen were instructed in 'a good bold mercantile hand'.[^ref1] Charles boasted that he could change 'the most cramped and illegible scrawl to a beautiful, free, flowing style of writing'.[^ref2]
 
-{% include embed/image.html src="wc:Canterbury_houses_%28306%29_%28geograph_7115318%29.jpg" aspect="1.333" caption="23, Best Lane, Canterbury" %}{: .right}
+{% include embed/image.html src="wc:Canterbury_houses_%28306%29_%28geograph_7115318%29.jpg" aspect="1.333" caption="23, Best Lane, Canterbury" %}
 
 A creative and enterprising man, Carrick mosaiced furniture such as chess and inlaid loo tables, created family crests and mottos in black, white, coloured, gold and silver inks and wrote poetry to impress the illustrious members of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) society. These activities were designed to supplement his teaching income and support his growing family. In 1851, he held an exhibition of his curiously inlaid loo tables, charging day visitors 6d.[^ref3] Two of these tables were displayed at the Great Exhibition.[^ref4] His clients included the Countess of Sefton, Sir William Somerville and Lady Cockburn.[^ref5]  He also listed several illustrious churchmen as patrons of his work including the late Archbishop of Canterbury [Archibald Campbell Tait]({{ site.baseurl }}/19c/19c-tait-biography).[^ref6] Two of his marquetry pieces are held in the Beaney Collection and another at the Victoria and Albert Museum.[^ref7] A scrapbook including some of his extraordinary designs  _Flights of Fancy or Imaginary Scraps_ is held at The [Fine Arts Museums of San Francisco](https://www.famsf.org/search?q=Charles+Carrick&type=artworks).[^ref8]
 
-{% include embed/image.html src="wc:Eug%C3%A8ne_Louis_Lami_-_Opening_of_the_Great_Exhibition%2C_1_May_1851_-_Google_Art_Project.jpg" aspect="0.788" caption="Opening of the Great Exhibition, 1 May 1851" %}{: .right}
+{% include embed/image.html src="wc:Eug%C3%A8ne_Louis_Lami_-_Opening_of_the_Great_Exhibition%2C_1_May_1851_-_Google_Art_Project.jpg" aspect="0.788" caption="Opening of the Great Exhibition, 1 May 1851" %}
 
 In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was published by Ginder of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) and dedicated to Lord Athlumney, who was the member of parliament for [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) between 1854-1865. The collection contained 342 poems of which several were calculated to flatter the subscribers of his volume of which there were 266, including fellow Canterbury writer [John Brent]({{ site.baseurl }}/19c/19c-brent-biography). He raised the salute of 'Long live the Dean' to Henry Alford, the Dean of Canterbury, and thanked God 'for such a friend' as the Bishop of [Dover]({{ site.baseurl }}/19c/19c-dover) in poems dedicated to these men. He also wrote a tribute to [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography) who had died earlier that year, in a show of erudition and good taste to his subscribers.[^ref9] 
 
-{% include embed/image.html src="wc:Charles_Dickens_circa_1860s.png" aspect="0.773" caption="Charles Dickens c. 1860s" %}{: .right}
+{% include embed/image.html src="wc:Charles_Dickens_circa_1860s.png" aspect="0.773" caption="Charles Dickens c. 1860s" %}
 
 Despite his enthusiastic dedication to poetry, Carrick's verses are fairly lack-lustre - carefully constructed with bland clichés and over-used abstractions, pontificating on 'glory', 'beauty' and 'delight'. His 'Reflections on the Glorious Monuments of Canterbury Cathedral' lacks specifics and could describe any cathedral setting as he hyperbolizes generalities of bravery and beauty. Yet despite the inauthenticity of his content, his choice of topics reveal the concerns of the day - 'The Widow and Orphans', 'Dignified Hypocrisy', 'The Impenitent Thief', 'Glorious Songsters', 'Bad Conduct in Church', 'Small Boys of the Period', 'Street Brawlers' and 'Drunkards'.[^ref10] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419" aspect="1.444" caption="The Nave, Canterbury Cathedral" attribution="Kent Maps Online Collection" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419" aspect="1.444" caption="The Nave, Canterbury Cathedral" attribution="Kent Maps Online Collection" %}
 
 In his 'Reflections in [Thanington](Q2317326) Churchyard' one can imagine the dreamy poet resting in the graveyard with his notebook after a walk out from the city centre.
 
@@ -53,11 +54,11 @@ December 14 1869
 
 It is possible that Carrick refers to himself when he speaks of 'a man of care' as educational reforms in the 1870s may have made his penmanship classes seem outmoded to his middle-class audience. 
 
-{% include embed/image.html src="wc:St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" aspect="1.575" caption="St Nicholas, Thanington Without" %}{: .right}
+{% include embed/image.html src="wc:St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" aspect="1.575" caption="St Nicholas, Thanington Without" %}
 
 In May 1890, Charles quit Kent Academy after forty years of teaching, promising to continue his private lessons in the homes of his pupils. He moved to 2, Summer Hill, Harbledown but died later that summer whilst undergoing an operation in a London hospital. He was remembered by the citizens of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) for his "serious reflections" on the death of many of its leading inhabitants.[^ref11] One wonders whether their relatives paid for them. He was buried on 21 August at Harbledown. 
 
-{% include embed/image.html src="wc:Harbledown%2C_St._Michael_and_All_Angels_Church%2C_Part_of_the_large_churchyard_-_geograph.org.uk_-_4831202.jpg" aspect="1.499" caption="St Michael and All Angels Church. Part of the Large Churchyard" %}{: .right}
+{% include embed/image.html src="wc:Harbledown%2C_St._Michael_and_All_Angels_Church%2C_Part_of_the_large_churchyard_-_geograph.org.uk_-_4831202.jpg" aspect="1.499" caption="St Michael and All Angels Church. Part of the Large Churchyard" %}
 
 ### References
 

@@ -1,13 +1,14 @@
 ---
 title: "Sarah Baker and her Kentish Theatres (1737-1816)"
-description: "This essay traces the life and career of Sarah Baker, an itinerant fairground performer who became a major theatre manager and builder in late eighteenth-century Kent. It follows her move from portable booths to purpose-built theatres in Canterbury, Rochester, Maidstone and Tunbridge Wells, and reflects on how her work shaped the cultural life of growing Kentish towns."
+description: "This essay traces the life and career of Sarah Baker, an itinerant fairground performer who became a successful theatre manager and builder in late eighteenth-century Kent. It follows her move from portable booths to purpose-built theatres in Canterbury, Rochester, Maidstone and Tunbridge Wells, highlighting how her work intersected with urban growth and social change."
 author: Jean Baker
 date: 2024-03-01
 categories: [ 18c ]
-tags: [ Authors & lives, Arts & performance, Towns & cities, Culture & society ]
+tags: [ Authors & lives, Arts & performance, Towns & cities, Time periods ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
 layout: post
+auto_float: true
 permalink: /18c/18c-baker-biography/
 published: true
 toc: false    
@@ -20,17 +21,17 @@ Sarah Baker was a fairground performer, a ‘strolling player’, who became one
 
 In the early 1770s Sarah, recently widowed and now with three young children to care for, took over from her mother as manager of the small family troupe. In the face of fierce competition from male rivals she began to concentrate her activities in Kent. Despite her growing popularity and success, a portable wooden booth and a motley collection of makeshift facilities such as warehouses, malthouses, stables, barns and innyards ‘fitted up’ for the purpose of entertainment would be her only ‘theatres’ for the next 20 years.
 
-{% include embed/image.html src="wc:Sarah_Baker_theatre_paybox.jpg" aspect="1.398" caption="Sarah Baker Theatre Pay Box, Rochester" %}{: .right}
+{% include embed/image.html src="wc:Sarah_Baker_theatre_paybox.jpg" aspect="1.398" caption="Sarah Baker Theatre Pay Box, Rochester" %}
 
 It was not until 1789 that Sarah – well into her fifties by then – opened in Canterbury the first of what she described as her ‘great grand’ Kentish theatres. She went on to build three more purpose-built theatres in the county at Rochester (1791), Maidstone (1798) and Tunbridge Wells (1802). 
 
 Some measure of Sarah’s financial success is that when she died at Rochester in February 1816, just months before her eightieth birthday, her estate was estimated by her grandson to be in excess of £20,000. It was an extraordinary achievement, even more remarkable in that she was ‘illiterate’ and, reputedly, never learned to write more than her name.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" aspect="1.286" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" aspect="1.286" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}
 
-{% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
+{% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="95a97f635eb83b37~Cary 1787" %}
 
-{% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
+{% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="95a97f635eb83b37~Cary 1787" %}
 
 Sarah was buried in the graveyard at St Nicholas Church, [Rochester](Q507517) on 28 February 1816. Tom Dibdin, an old friend who had performed with her company over many years composed the epitaph that was engraved upon her headstone. It was a fitting tribute to the ‘Governess-General’ of the Kentish Drama from an intelligent man who had great respect and affection for his old employer and who also knew her better than most:
 
@@ -49,9 +50,9 @@ Or draw her frailties from their dread abode;
 There they alike in trembling hope repose, -   
 The bosom of her Father, and her God.”   
 
-{% include embed/image.html src="wc:St_Nicholas_church%2C_Rochester-geograph.org.uk-1845253.jpg" aspect="1.488" caption="St Nicholas Church, Rochester" %}{: .right}
+{% include embed/image.html src="wc:St_Nicholas_church%2C_Rochester-geograph.org.uk-1845253.jpg" aspect="1.488" caption="St Nicholas Church, Rochester" %}
 
-{% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="95a97f635eb83b37~Cary 1787" %}{: .right}
+{% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="95a97f635eb83b37~Cary 1787" %}
 
 Sarah’s long life spanned a period of great turbulence and change in this country and the difficulties of those years are mirrored in every twist and turn of her career. Her pragmatic, opportunistic reaction to the many challenges she faced not only ensured her survival but also meant that she, herself, played a significant role - albeit inadvertently - in the political, social and cultural development of Kent’s rapidly growing towns at the end of the eighteenth century.
 
@@ -59,5 +60,5 @@ Dr Jean Baker’s book: _Sarah Baker and her Kentish Theatres 1737-1816: Challen
 
 This article was published: 30 January 2023.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" aspect="1.378" caption="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" aspect="1.378" caption="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs" %}
 

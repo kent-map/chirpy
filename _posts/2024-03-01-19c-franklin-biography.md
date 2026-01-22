@@ -1,13 +1,14 @@
 ---
 title: "Sir John Franklin (16 April 1786 – 11 June 1847)"
-description: "This essay traces Sir John Franklin’s final Arctic expedition as it departed from Greenhithe on the Thames in 1845, setting his national reputation and ambitions against the local riverfront setting. It follows the preparation and departure of HMS Erebus and HMS Terror, the later discovery of the expedition’s fate, and how Greenhithe commemorates Franklin through riverside places and institutions."
+description: "This essay traces Sir John Franklin’s 1845 departure from Greenhithe aboard HMS Erebus and HMS Terror and explains why the Thames-side village became the launch point for the celebrated Arctic expedition. It links Franklin’s biography and the expedition’s disappearance to local riverside history and later commemoration in Greenhithe."
 author: Jacquie Stamp
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Rivers & marshes, Travel & mobility, Heritage & memory ]
+tags: [ Authors & lives, Rivers & marshes, Conflict & war, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-franklin-biography/
 published: true
 toc: false    
@@ -18,7 +19,7 @@ toc: false
 “I wish you could see the ship now; she is almost as clean as she will be at sea, and quite ready for sailing. The officers and the crew all fine men and in excellent spirits. This day we had the happiness of joining together on board in Divine worship to praise God for past mercies and to implore His guiding and protecting providence. In this spirit we all hope to begin, continue and end our voyage.”   
 From _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:_   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/misc/Franklin.jpg" aspect="0.734" caption="Sir John Franklin" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/misc/Franklin.jpg" aspect="0.734" caption="Sir John Franklin" %}
 
 **DEPARTURE OF THE “EREBUS” AND “TERROR” ON THE ARCTIC EXPEDITION**
 
@@ -33,7 +34,7 @@ From _The Life, Diaries and Correspondence of Jane Lady Franklin 1792-1875:_
   And after years you have perchance to roam  
   That science crown’d you safely seek your home!   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Erebus.jpg" aspect="1.521" caption="Illustration of the ships Erebus and Terror leaving Greenhithe" attribution="Published in the Illustrated London News, 24th May 1845, p. 328." %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Erebus.jpg" aspect="1.521" caption="Illustration of the ships Erebus and Terror leaving Greenhithe" attribution="Published in the Illustrated London News, 24th May 1845, p. 328." %}
 
 On Monday [19 May 1845] H. M. sloops "Erebus" and "Terror" left Greenhithe, on their attempt “to penetrate the icy fastnesses of the north, and to circumnavigate America.
 
@@ -43,17 +44,17 @@ It may have been this fashionable status that caused Greenhithe to be selected, 
 
 Franklin’s reputation had suffered during his time as Governor of Van Diemen’s Land and he hoped to redeem it by discovering the North-West Passage. This long-elusive goal gave the expedition popular appeal, although “magnetic science dominated [its] genesis and direction”[^ref1].
 
-{% include embed/image.html src="wc:The_riverside_at_Greenhithe_-_geograph.org.uk_-_2532450.jpg" aspect="1.333" caption="The riverside at Greenhithe" %}{: .right}
+{% include embed/image.html src="wc:The_riverside_at_Greenhithe_-_geograph.org.uk_-_2532450.jpg" aspect="1.333" caption="The riverside at Greenhithe" %}
 
 Franklin’s ships, HMS “Erebus” and HMS “Terror”, were towed downstream from Woolwich – where they had undergone significant refurbishment and strengthening of the bows in preparation for their journey – on Monday 12 May 1845. Due to leave Greenhithe on 15 May, the expedition was delayed by “the late delivery of provisions … until the 19th”[^ref2], but then sailed first to Orkney, and thence toward the Arctic. Its crews exchanged greetings with a whaling fleet off the coast of Greenland on 12 July 1845 but were never seen or heard from again.
 
-{% include embed/image.html src="wc:Terror_%281813%29%3B_Erebus_%281826%29_RMG_J1412.png" aspect="0.671" caption="Terror" %}{: .right}
+{% include embed/image.html src="wc:Terror_%281813%29%3B_Erebus_%281826%29_RMG_J1412.png" aspect="0.671" caption="Terror" %}
 
 In 1859, after twelve years of searching, proof was found that everyone on the expedition had lost his life, and Franklin himself had died on 11 June 1847. [Dickens]({{ site.baseurl }}/dickens/dickens-biography) among others vehemently opposed any suggestion that Franklin's crew had resorted to cannibalism before they died. The ships were not found until 2014 and 2016 respectively, and explorations continue in hope of finally resolving the mystery of the lost Franklin expedition.
 
 In Greenhithe, Franklin is commemorated by a seventeenth-century pub re-named in his honour circa 2000; he would have known it as The White Hart. The village’s other pub, which Franklin would have known as The Admiral Keppell, became The Pier Hotel in 1847[^ref3]. Each of these establishments backs onto the river and each boasts a suitable wharf from which Erebus or Terror could have set sail. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Franklin_pub.jpg" aspect="0.682" caption="Franklin Pub" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Franklin_pub.jpg" aspect="0.682" caption="Franklin Pub" %}
 
 ### Bibliography 
 

@@ -1,13 +1,14 @@
 ---
 title: "F. F. Montrésor (1862-1934)"
-description: "This essay traces the life of romance novelist F. F. Montrésor (1862-1934), linking her Kent upbringing at Walmer to her literary career and later life. It closely reads her debut novel Into the Highways and Hedges alongside places around Dover and River to show how local landscapes and social worlds shaped key scenes and themes."
+description: "This essay profiles romance novelist F. F. Montrésor, tracing her Walmer upbringing, family networks, and later life, and linking these to her writing career. It closely reads scenes from Into the Highways and Hedges alongside Kent locations such as Dover and River to show how coastal landscapes, social life, and religious street preaching shaped the novels settings and themes."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places ]
+tags: [ Authors & lives, Texts & genres, Literary places, Coast & sea, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-montresor-biography/
 published: true
 toc: false    
@@ -23,69 +24,69 @@ toc: false
 
 Romance novelist Frances Frederica (Freda) Montrésor was born at [Walmer](Q2551894) on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem '[Dover](Q179224) Beach' was published in 1867. The Montrésors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" aspect="1.0" caption="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" aspect="1.0" caption="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s" %}
 
 Freda’s first novel _Into the Highways and Hedges_ was published in February 1895. It is set in the 1840s and is the story of Meg Deane, a rich heiress who lives at Ravenshill a large house near [Dover]({{ site.baseurl }}/19c/19c-dover), where the 'worthy descendants of the ruffled and powdered Deanes ... looked down on them from the walls'. It was possibly inspired by [Denne Hill](Q26621114) at Womenswold, which was owned by a cousin of her father. 
 
 In the novel, Meg’s widower father relies on his sister Aunt Russelthorpe, whose own marriage had not been blessed with children, to look after his nieces. The story has echoes of Freda’s mother’s life as Aunt Russelthorpe lives in Bryanston Square, London, where Emily Delafield also lived until the death of her father. 
 
-{% include embed/image.html src="https://www.gutenberg.org/cache/epub/40594/images/cover.jpg" aspect="0.65" caption="Into the Highways and Hedges" attribution="Project Gutenberg" %}{: .right}
+{% include embed/image.html src="https://www.gutenberg.org/cache/epub/40594/images/cover.jpg" aspect="0.65" caption="Into the Highways and Hedges" attribution="Project Gutenberg" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 The story begins when the Deane family come down from London to their home in Kent to begin preparations for Meg’s sisters Laura and Kate’s joint wedding. Meg is thrown more and more into the company of Aunt Russelthorpe, who is staying with them, and one day her aunt suggests that they call on a friend in [Dover]({{ site.baseurl }}/19c/19c-dover). The two women walk along the 'white Dover road'[^ref1] on a blazing hot July day, a journey which would take several hours from Denne Hill, but from the fictional Ravenshill is considerably closer. 
 
 When they arrive, Meg, who is offered red and white wine to revive herself after the long walk, begins to feel giddy. Her hostess, seeing her discomfort, suggests that she get some fresh air on the beach where: 'A fresh wind crisped the surface of the water, so that it was covered with curly white flecks, and it was hard to tell which was bluest, sea or sky. Meg's eyes ached with sunshine; but it refreshed and exhilarated her, and so did the salt breeze that tossed against her cheek.'[^ref2]
 
-{% include embed/image.html src="wc:The_Argosy_%281865%29_%2814777372625%29.jpg" aspect="1.398" caption="The Argosy, 1865" %}{: .right}
+{% include embed/image.html src="wc:The_Argosy_%281865%29_%2814777372625%29.jpg" aspect="1.398" caption="The Argosy, 1865" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 [Dover]({{ site.baseurl }}/19c/19c-dover) beach is portrayed as a place of adventure but also danger. It is crowded with nursery-maids and children, Punch and Judy shows, minstrels, men selling indigestible gooseberries, beggars and women with false lace. As Meg takes in her surroundings, her attention is drawn to a preacher who is holding a revival meeting on the beach and she finds herself interested in his words, but when Barnabas Thorpe speaks to her: 'The claptrappy tune, the overdone emphasis, the vulgar intonation distressed her; she was ashamed of the feeling, but could not help it; she turned to walk away.[^ref3] 
 
-{% include embed/image.html src="wc:David_Cox_-_Dover_-_Google_Art_Project.jpg" aspect="1.726" caption="Dover, 1832" %}{: .right}
+{% include embed/image.html src="wc:David_Cox_-_Dover_-_Google_Art_Project.jpg" aspect="1.726" caption="Dover, 1832" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Freda Montrésor was probably inspired by her childhood visits to [Dover]({{ site.baseurl }}/19c/19c-dover), where her mother’s aunt, Frances Rennell, who looked after Emily and her sisters after the death of her father, lived until her death in 1874. Mrs Rennell’s house at 17, East Cliff would have been a short distance to the beach. It is possible also that Freda would have listened to stories told by her mother and her great aunt about the beach preachers who frequented [Dover]({{ site.baseurl }}/19c/19c-dover), such as Charles Smith and Harrison Ord, who were arrested for standing on a chair outside 1, Waterloo Crescent and causing a nuisance in 1866. Ord was a Middlesbrough-born Brethren preacher who was led away from [Dover]({{ site.baseurl }}/19c/19c-dover) beach by police officers as 'the crowd numbering some 3,000 people commenced hooting and hurrahing in a disgraceful manner'.[^ref4] Ord sang all the way to the police station and made the work of the constable who was escorting him very difficult. Frances Rennell as the widow of the Dean of Winchester would no doubt have heard about the rumpus on the seafront from friends even if she did not witness it. Freda’s fictional Barnabas Thorpe is described as a 'narrowly strong preacher, with his northern burr, his gesticulations, his intense conviction'.[^ref5]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ad086f8b-71a6-4ead-bb12-0de1350c3050" aspect="0.753" caption="East Cliff, Dover" attribution="Ward Lock Dover and South East Kent c. 1920s" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/ad086f8b-71a6-4ead-bb12-0de1350c3050" aspect="0.753" caption="East Cliff, Dover" attribution="Ward Lock Dover and South East Kent c. 1920s" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Meg Deane finds that she cannot shake off the words of the preacher, and when she attends the ball at Ravenshill that evening in her gold and white dress and pearls, she feels uncomfortable: 'something had occurred to change the current of her thoughts, she might be arrayed in sackcloth now for all she cared'.[^ref6] Her aunt is less than impressed when she finds out about Meg’s adventures on the beach and complains that: 'She is unstable as water. One can never depend on her in the least. Where do you think I found her this afternoon? Just emerging from a vulgar crowd on Dover sands, where she had been staring at a singing minstrel or a play-actor or a buffoon of some kind! She came in with her head full of nothing else, and wanted to tease her father into going back with her to listen too.'[^ref7]
 
-{% include embed/image.html src="wc:After_the_Ball_MET_DT12025.jpg" aspect="0.716" caption="After the ball, 1874" %}{: .right}
+{% include embed/image.html src="wc:After_the_Ball_MET_DT12025.jpg" aspect="0.716" caption="After the ball, 1874" %}
 
 Meg’s next encounter with Barnabas takes place on her 21st birthday. Awaking early, she wanders outside in the garden, where she meets a dirty beggar woman standing by the gate who tells fortunes, and predicts that great change is coming soon. At that moment the 'preacher of the beach' appears and gives Meg a locket containing a picture of her mother which had been stolen by a maid at Ravenshill. Barnabas encourages her to come and visit the repentant maid, who is now dying in a cottage near [River](Q2784912):   
 
 'The sun was beginning to beat down on their heads, when they reached the little hamlet of River. It consisted of one chalk road, on either side of which were very white cottages, which had a deceptive air of comfort and prettiness. Pink china roses clustered against their walls, and low-thatched roofs shone gold in the morning light. The villagers were out in the fields: only one old man, and a baby with sore eyes and an eruption all over its face, stared open-mouthed at the oddly matched pair. Barnabas stooped to pass through the doorway of one of the cottages; and Meg following him would have tumbled down the one step into the room, if he had not held out his hand to save her.'[^ref8]
 
-{% include embed/image.html src="wc:Mill_cottages_on_Lower_Road%2C_Crabble_-_geograph.org.uk_-_2096851.jpg" aspect="1.333" caption="Mill cottages on Lower Road, Crabble, River" %}{: .right}
+{% include embed/image.html src="wc:Mill_cottages_on_Lower_Road%2C_Crabble_-_geograph.org.uk_-_2096851.jpg" aspect="1.333" caption="Mill cottages on Lower Road, Crabble, River" %}
 
 Meg unused to the labourers’ cottages: 'stood leaning against the door, watching the preacher; too shy to venture further. Her eyes dilated, and she turned whiter as she looked. The damp clay floor, the sickening odour, the room that was bedroom and sitting-room as well, horrified her.'[^ref9]
 
 Meg’s aunt is equally horrified when she hears of her niece’s adventures and decides that Meg must attend the next ball (presumably so she can find a husband).  However, Meg refuses to attend the ball at ‘The Heights’ and tongues wag that Miss Deane is 'in love with a canting tub-preacher!'[^ref10] Freda’s mother attended military balls at [Dover Castle](Q950970) with her aunt Mrs Rennell in the 1840s and it is here that she may have danced with her future husband.[^ref11] It is possible that Freda took inspiration from her mother's reminiscences of these earlier events, although the ball in the novel is held at the military barracks on the Western Heights. Mrs Rennell also held her own ball in 1845 with a supper supplied by A. Winter and Sons and it is possible that when Freda describes Aunt Russelthorpe as 'a brilliant talker, and her parties were the rage at one time, though she was a shade too fond of monopolising attention to be a perfect hostess' that we are getting a glimpse of Mrs Rennell.
 
-{% include embed/image.html src="wc:Dover_from_the_Heights_%28BM_1892%2C0714.8%29.jpg" aspect="1.4" caption="Dover from the Heights" %}{: .right}
+{% include embed/image.html src="wc:Dover_from_the_Heights_%28BM_1892%2C0714.8%29.jpg" aspect="1.4" caption="Dover from the Heights" %}
 
-{% include embed/image.html src="https://iiif.wellcomecollection.org/image/b16645674_0001.jp2/full/full/0/default.jpg" aspect="1.296" caption="A. Winter & Sons, confectioners & pastry cooks, &c. 177 Snargate Street, Dover, ball-suppers & routs attended & supplied, established 1795" attribution="Wellcome Collection" %}{: .right}
+{% include embed/image.html src="https://iiif.wellcomecollection.org/image/b16645674_0001.jp2/full/full/0/default.jpg" aspect="1.296" caption="A. Winter & Sons, confectioners & pastry cooks, &c. 177 Snargate Street, Dover, ball-suppers & routs attended & supplied, established 1795" attribution="Wellcome Collection" %}
 
 As her aunt leaves for the ball in her carriage, Meg sets off at 8 o’clock in the evening on a 'long lonely walk' to take a letter she has written to her father to the [Dover]({{ site.baseurl }}/19c/19c-dover) post office: 'The sky still glowed behind Dover Castle, though the sun had disappeared; there was hardly a breath of wind to stir the short crisp grass, the broad downs lay still and peaceful in the gathering dusk: Meg was the only human being to be seen, but the little brown rabbits scurried by, and peeped at her from a safe distance, making her smile in spite of her sadness. She was as easily moved to smiles as she was to sighs.'[^ref12] Her journey along the cliffs, with the sun setting behind the castle places Ravenshill on a path north-east of [Dover]({{ site.baseurl }}/19c/19c-dover), near Fox Hill Down, Langdon. 
 
-{% include embed/image.html src="wc:George_Chambers_%281803-40%29_-_A_View_of_Dover_-_RCIN_405276_-_Royal_Collection.jpg" aspect="1.428" caption="A view of Dover, 1832" %}{: .right}
+{% include embed/image.html src="wc:George_Chambers_%281803-40%29_-_A_View_of_Dover_-_RCIN_405276_-_Royal_Collection.jpg" aspect="1.428" caption="A view of Dover, 1832" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 The story continues: 'It had been a hot summer, and there were ominous cracks across the footway, which had been deserted of late. Meg, who was Kentish born, ought to have known what those fissures and gaps meant. Perhaps the rabbits would have warned her if they could; for one of them loosened a morsel of chalk as he leaped, which bounded and rebounded down the side of the cliff.'[^ref13] A thunderstorm earlier in the day had dislodged some of the chalk. Freda may have remembered similar cliff falls from her childhood such as the one at East Cliff on the 17 November 1872 when a large quantity of chalk fell after heavy rains almost burying two houses.[^ref14] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fcb72443-ea1e-4e50-a111-4fbb456a89f5" aspect="2.135" caption="Dover, 1844" attribution="Fullarton, by kind permission of Marrin Books" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/fcb72443-ea1e-4e50-a111-4fbb456a89f5" aspect="2.135" caption="Dover, 1844" attribution="Fullarton, by kind permission of Marrin Books" %}
 
 Unheeding the rabbit’s warnings, Meg continues along the cliff 'listening to the echo among the chalk caves below, —smuggling haunts, where many a keg of brandy had been hidden'[^ref15] (presumably the caves at East Cliff). Suddenly the cliff gives way and she falls a quarter of the way down the cliff onto a narrow ledge and has to cling fast to 'the friendly poppy root that was keeping her from death'.[^ref16]
 
 As she holds on in terror, 'She could hear the sea washing hungrily, with a sullen break, and a strong backward suck, many feet below; she shuddered, and then screamed with all her might, again and again, waking the echoes and the seagulls, who answered her derisively.'[^ref17]
 
-{% include embed/image.html src="https://iiif.wellcomecollection.org/image/V0022785ER/full/full/0/default.jpg" aspect="0.742" caption="A large seagull. Etching." attribution="Wellcome Collection" %}{: .right}
+{% include embed/image.html src="https://iiif.wellcomecollection.org/image/V0022785ER/full/full/0/default.jpg" aspect="0.742" caption="A large seagull. Etching." attribution="Wellcome Collection" %}
 
 Eventually salvation comes when Barnabas Thorpe, who is walking along the cliffs, hears her screams and fetches ropes from the coastguard station on the downs. After rescuing her he asks her to join him in his religious crusade crying: 'Come with me! Let us go out together and preach the Master in the Highways and Hedges. Your example shall be as a shining light to guide the feet of those who are snared by riches. Come!'[^ref18]
 
@@ -93,19 +94,19 @@ Turning her back on her family, Meg leaves [Dover]({{ site.baseurl }}/19c/19c-do
 
 After this the plot moves to the North, where Meg learns to live in poverty, discovers that boots wear out and feet get blistered, that in-laws can be difficult and sees her husband wrongly accused of theft. Unwavering in  her conviction, Meg stands by Barnabas whilst he waits trial and then eventually tracks down the diamonds he is accused of taking. In the final scenes, Barnabas recognises that his wife is more than just a convert, but a loyal and loving wife. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d" aspect="1.294" caption="Sheerness with the Fountain Inn, 1829" attribution="The Picturesque Beauties of Great Britain: Kent by Geroge Virtue" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/0d4f592c-8356-414b-b38d-d9187bfd720d" aspect="1.294" caption="Sheerness with the Fountain Inn, 1829" attribution="The Picturesque Beauties of Great Britain: Kent by Geroge Virtue" %}
 
 _Into the Highways and Hedges_ appeared at the top of Mudie’s list along with [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography)’s _The Heavenly Twins_.[^ref20] and ran into five editions in its first six months. Montréesor was compared to [George Eliot]({{ site.baseurl }}/19c/19c-eliot-george-biography) by literary critic Katherine Tynan[^ref21] and in 1896 joined the Committee of the Women Writer’s Club. When she attended the 1904 Women Writers dinner which was held at The Criterion restaurant, Kent writers [Netta Syrett]({{ site.baseurl }}/19c/19c-syrett-biography) and Mrs Croker, author of [_Miss Balmaine’s Past_]({{ site.baseurl }}/19c/19c-croker-missbalmaine) were also in attendance.[^ref22] 
 
 Montrésor wrote ten novels, featuring rebellious daughters and women who are at odds with their families, but none of her later novels received the acclaim of her first.  Nevertheless, reviewers respected her craft, with one writing: 'she is one of the few writers who remain unspoilt by popularity and have too much respect to perpetrate "potboilers"'.[^ref23] In 1899, her novel _The One who looked on_ was given away with The _Lady's Realm_. Her last novel _The Strictly Trained Mother_ (1913) focussed on a bullied mother and her assertive daughters.
 
-{% include embed/image.html src="wc:1869_Mudies_LondonSociety_v16_no95.png" aspect="0.711" caption="Mudies London Society, 1869" %}{: .right}
+{% include embed/image.html src="wc:1869_Mudies_LondonSociety_v16_no95.png" aspect="0.711" caption="Mudies London Society, 1869" %}
 
 After the death of her mother in 1913, Montrésor moved to 18, Cheyne Walk, formerly Don Saltero's Coffee House and Curiosity Museum.[^ref24] No more books appeared during the war years, but in 1920, Montrésor wrote her first play ‘Katherine the Quene’ based on the life of Katherine Parr which was performed at the Nottingham Repertory Theatre in March 1921. Montrésor died in Sheffield after being taken ill whilst on holiday in Matlock in 1934[^ref25] and left £75,908 in her will.[^ref26]
 
 This article was published: 31 December 2022.
 
-{% include embed/image.html src="wc:Don_Saltero%27s_Tavern.jpg" aspect="1.446" caption="Don Saltero's Tavern before 1864" %}{: .right}
+{% include embed/image.html src="wc:Don_Saltero%27s_Tavern.jpg" aspect="1.446" caption="Don Saltero's Tavern before 1864" %}
 
 ### Bibliography
 

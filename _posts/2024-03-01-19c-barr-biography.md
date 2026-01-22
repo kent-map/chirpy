@@ -4,10 +4,11 @@ description: "﻿Professor Carolyn Oulton documents humourist Robert Barr's visi
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Culture & society, Travel & mobility ]
+tags: [ Authors & lives, Towns & cities, Texts & genres, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-barr-biography/
 published: true
 toc: false    
@@ -18,7 +19,7 @@ toc: false
 
 <!-- Base map centered on Folkestone -->
 
-{% include embed/map.html center="Q375314" zoom="12" markers="Q375314" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="12" markers="Q375314" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 <!-- Historical map layers -->
 
@@ -26,11 +27,11 @@ In December 1889 the local journal _Folkestone Visitors’ List and Society Jour
 
 A year later Barr was on a steamer from [Folkestone](Q375314) to Boulogne with none other than [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography), who had just published _Three Men in a Boat_, and who was less impressed than his friend by the pretensions of the resort. But as a friend of editor and journalist ‘Hal Berte’ (whose real name of John Brown somehow sounds almost more fictional than the pseudonym), Barr was quickly contributing articles to the _Folkestone Visitor's List and Society Journal_. Gently mocking the aristocratic pretensions of a town where visitors not only expected to promenade on the Leas, but to do so in the right company, Barr breezily commented, ‘It is doubtless within the memory of the nobility and gentry of Folkestone, that I spent the summer there last year. I can prove this fact, because my name appeared in the _Visitors’ List_ at the time, and if you don’t believe me you can look up the back numbers of that journal.’[^ref2]  
 
-{% include embed/image.html src="wc:Robert_Barr_and_Arthur_Conan_Doyle.jpg" aspect="1.065" caption="Robert Barr, Miss Doyle, Conan Doyle, Mrs. Conan Doyle, Robert McClure" %}{: .right}
+{% include embed/image.html src="wc:Robert_Barr_and_Arthur_Conan_Doyle.jpg" aspect="1.065" caption="Robert Barr, Miss Doyle, Conan Doyle, Mrs. Conan Doyle, Robert McClure" %}
 
-{% include embed/image.html src="wc:View_along_Tontine_Street%2C_Folkestone_-_geograph.org.uk_-_1579075.jpg" aspect="1.333" caption="View along Tontine Street, Folkestone - geograph.org.uk - 1579075.jpg" %}{: .right}
+{% include embed/image.html src="wc:View_along_Tontine_Street%2C_Folkestone_-_geograph.org.uk_-_1579075.jpg" aspect="1.333" caption="View along Tontine Street, Folkestone - geograph.org.uk - 1579075.jpg" %}
 
-{% include embed/map.html center="Q106436094" zoom="12" markers="Q106436094" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q106436094" zoom="12" markers="Q106436094" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 [Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) would go on to co-edit Barr’s new publication _The Idler_ from 1892. While he later implied that they had had no previous relationship, he may have been remembering their earlier trip in his account of [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) in _Three Men on the Bummel_ (1900):
 
@@ -38,7 +39,7 @@ A year later Barr was on a steamer from [Folkestone](Q375314) to Boulogne with n
 
 While Barr fell out with Jerome and ultimately withdrew from his editorial role at _The Idler_, he would contribute occasional articles to the Folkestone _List_ until 1894.
 
-{% include embed/image.html src="wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" aspect="1.333" caption="The Leas, Folkestone" %}{: .right}
+{% include embed/image.html src="wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" aspect="1.333" caption="The Leas, Folkestone" %}
 
 ### Bibliography
 

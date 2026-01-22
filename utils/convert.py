@@ -757,7 +757,7 @@ def convert_params(md: str) -> str:
         if attribution and not looks_like_wikimedia:
             tag += f' attribution="{attribution}"'
         
-        tag += ' %}{: .right}\n'
+        tag += ' %}\n'
         
         return tag
     
@@ -781,7 +781,7 @@ def convert_params(md: str) -> str:
             tag += f'basemap="{basemap}" '
         if markers:
             tag += f'markers="{markers}" '
-        tag += f'{allmaps_fragment} %}}{{: .right}}\n'
+        tag += f'{allmaps_fragment} %}}\n'
         
         return tag
     
@@ -927,6 +927,7 @@ tags: [ {', '.join(kwargs.get('tags', []))} ]
 image: 
   path: "{config_attrs.get('banner', '')}"
 layout: post
+auto_float: true
 permalink: {kwargs.get('permalink', '')}
 published: true
 toc: false    

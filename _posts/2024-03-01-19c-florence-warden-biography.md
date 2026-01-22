@@ -4,10 +4,11 @@ description: "Michelle Crowther traces the influence of Kent on the work of long
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres ]
+tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-florence-warden-biography/
 published: true
 toc: false    
@@ -27,88 +28,88 @@ toc: false
 
 _Kitty’s Engagement_, 1895.   
 
-{% include embed/image.html src="wc:Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" aspect="1.333" caption="Hythe seafront" %}{: .right}
+{% include embed/image.html src="wc:Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" aspect="1.333" caption="Hythe seafront" %}
 
 <!-- Base map centred on Dover -->
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, [Ramsgate](Q736439) and later Beach House, [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 
-{% include embed/image.html src="wc:Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" aspect="0.727" caption="Portrait of Florence Warden" %}{: .right}
+{% include embed/image.html src="wc:Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" aspect="0.727" caption="Portrait of Florence Warden" %}
 
 <!-- Base map centred on Minster -->
 
-{% include embed/map.html center="Q9033431" zoom="11.5" markers="Q9033431" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q9033431" zoom="11.5" markers="Q9033431" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Both sisters obtained positions as governesses, and in her spare time Florence began writing short stories and novelettes, however Florence quickly tired of her life as a governess: 'it’s consistent dulness [sic], embittered by constant failure with my pen' [^ref2] and after two years, both she and her sister took up acting, against the advice of their friends.  Adopting the stage names Florence and Gertrude Warden, they worked at the Haymarket and Vaudeville theatres and also toured the provinces, living in digs together in Marylebone.
 
-{% include embed/image.html src="wc:TheGovernessRebeccaSolomon.jpg" aspect="1.29" caption="The Governess, Rebecca Solomon c.1851" %}{: .right}
+{% include embed/image.html src="wc:TheGovernessRebeccaSolomon.jpg" aspect="1.29" caption="The Governess, Rebecca Solomon c.1851" %}
 
 Florence continued to write short stories, and eventually _King’s Combe_ (1877) was published in _All the Year Round_.  Her early novels were not hugely successful, however, she made her name with her 1883 novel _The House on the Marsh_ which she rattled off in two months. This marked her out as a mystery writer, a genre from which she was never to escape; 'unless a dead body and some blood were found on the garden path in the first chapter' no publisher would accept the novel.[^ref3]   
 
-{% include embed/image.html src="wc:Dickensjunior-1874.jpg" aspect="0.717" caption="Charles Dickens Jnr, April 1873, editor of All The Year Round" %}{: .right}
+{% include embed/image.html src="wc:Dickensjunior-1874.jpg" aspect="0.717" caption="Charles Dickens Jnr, April 1873, editor of All The Year Round" %}
 
 Adapting _The House on the Marsh_ for the theatre, Florence then stage-managed and acted in her own production, providing roles for her sister and her soon to be husband, George Edward James. It was hugely successful and “to meet the requirements of managers and to preclude the representation of piratical versions” she arranged for three touring companies to take the play across the country in 1885.[^ref4] 
 
-{% include embed/image.html src="wc:G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg" aspect="0.757" caption="Saturday Night at the Victoria Theatre, wood-engraving, published in The Graphic, 26 October 1872" %}{: .right}
+{% include embed/image.html src="wc:G_Durand_Saturday_Night_at_the_Victoria_Theatre_BL.jpg" aspect="0.757" caption="Saturday Night at the Victoria Theatre, wood-engraving, published in The Graphic, 26 October 1872" %}
 
 Described as 'Petite and dark, with a bright humorous eye,'[^ref5]  she was a fun-loving but hardworking woman. However, although she and her sister Gertrude received warm reviews for their acting, one critic felt that the stage play of ‘The House on the Marsh’ 'bears evidence of an inexperienced hand, as the interest in the chief situations is marred by incidents of an unreal and improbable kind'.[^ref6]  Furthermore, George James came out badly. In a review of the play in _The Era_, a critic wrote: 'Mr G.R. James [sic] was hardly satisfactory as Lawrence, but we fancy nervousness had something to do with it, and that greater familiarity with the role will enable him to do it and himself more justice.'[^ref7]  After this, reviewers failed to mention him. James was not new to acting and had been treading the boards for some time, but mainly performing minor roles or comedy sketches in musical hall. He had toured with Mr Majilton’s Company in the early 1880s; one reviewer commented: 'The acting is not very remarkable, but a man must be very miserable indeed if he could not be coaxed into laughter by this merry company.'[^ref9] 
 
-{% include embed/image.html src="wc:Joseph_Clayton_Clark_AReader_of_The_Era.jpg" aspect="0.736" caption="A reader of The Era" %}{: .right}
+{% include embed/image.html src="wc:Joseph_Clayton_Clark_AReader_of_The_Era.jpg" aspect="0.736" caption="A reader of The Era" %}
 
 In 1887, Florence and George married at St Pancras. She had published at least six more novels by this time and decided to give up acting to concentrate on her writing.  In 1891, the couple with their two small children (George, now described as a comedian) moved from Addison Road, Kensington to St Mildred’s Road, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). 
 According to the _Thanet Advertiser_, Mr and Mrs James live 'very quietly at a Kentish watering-place, and seldom visit London'.[^ref9]  Given her family circumstance and her punishing novel writing schedule at this time, it is not surprising. She was not entirely cut off from literary circles and the _East Kent Times_ mentions 'other litterateurs' who made Ramsgate their dwelling place.[^ref10]   It is reported that she was friendly with [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) and [F.C. Burnand](19c-burnand-biography) of _Punch_ at this time.[^ref11] 
 
-{% include embed/image.html src="wc:Francis_Burnand.png" aspect="0.715" caption="Francis Burnand" %}{: .right}
+{% include embed/image.html src="wc:Francis_Burnand.png" aspect="0.715" caption="Francis Burnand" %}
 
 <!-- Base map centred on Minster -->
 
-{% include embed/map.html center="Q9033431" zoom="11.5" markers="Q9033431" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q9033431" zoom="11.5" markers="Q9033431" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 It is likely, however, that the Jameses did not spend all their time in Kent at this period, and instead divided their time between London and their seaside home. In 1895, Florence attended the New Vagabond Club Christmas dinner at Holborn restaurant, where Frances Hodgson Burnett was a guest. Fellow diners included [Sarah Grand](19c/19c-grand-biography), [John Strange Winter]({{ site.baseurl }}/19c/19c-vaughan-stannard), [Isaac Zangwill]({{ site.baseurl }}/19c/19c-zangwill-biography) and [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography).
 
-{% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome, c.1890s" %}{: .right}
+{% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome, c.1890s" %}
 
 Florence continued to churn out novels, writing over 150 'unquestionably sensational' [^ref12] novels and short stories during her lifetime. At least twenty were written during the period she lived in Kent.  Drawing inspiration from the Kent towns and villages, Florence playfully reinvented place names. Her short story 'Cliff’s End Farm' (1894) was probably based on [Cliffsend](Q2287962) farm, two miles from Ramsgate. She described it as a 'a solid flint building with small deeply embrasured windows, some of which had been walled up on account of the wind' situated near the fictitious Saltwood on Sea.[^ref13]  At times, Warden played hard and fast with reality; some of the geographical locations are nothing more than fictional markers, and her characters take impossible rides or walks across the county. 
 
-{% include embed/image.html src="wc:Cliffs_between_Cliffsend_and_Ramsgate.jpg" aspect="1.415" caption="Cliffs between Cliffsend and Ramsgate" %}{: .right}
+{% include embed/image.html src="wc:Cliffs_between_Cliffsend_and_Ramsgate.jpg" aspect="1.415" caption="Cliffs between Cliffsend and Ramsgate" %}
 
 The Kentish landscape provides a backdrop for romantic liaisons and sensational plot lines, but also the opportunity for transgressive behaviour. In _A Spoilt Girl_ (1895) which begins in 'a little way-side station in North Kent' Hubert Besils 'debated with himself whether he should accept her [Kathleen Griffith’s] implied invitation and follow her down to the sea at Sandhythe'; 'I’m going a long way today,' he heard her say, in a voice so low as to be almost a whisper. 'Right down to the sea by Sandhythe. I shall be all by myself unless…' (p.133)
 
-{% include embed/image.html src="wc:The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg" aspect="1.347" caption="The Promenade, Sandgate" %}{: .right}
+{% include embed/image.html src="wc:The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg" aspect="1.347" caption="The Promenade, Sandgate" %}
 
 Whilst in Ramsgate, Florence attended sittings at the local police court, 'whenever there was anything before the Bench likely to suggest matter for her stories.'[^ref14]  During one murder case, a seat was reserved for her with the press so that she did not miss a thing. It is most likely that this was the infamous [Ramsgate murder](https://theisleofthanetnews.com/2017/12/18/a-ramsgate-murder-from-1893-features-in-a-new-penny-dreadfuls-book/) of Mrs Sarah Dinah Noel who was found shot in her home on the 14th May 1893. The trial attracted a large crowd to the hearing at the Town Hall and gained notoriety in the national press. The question on everyone’s lips was did her husband kill her? One wit wrote to [A.C. Doyle]({{ site.baseurl }}/19c/19c-conan-doyle) inviting Sherlock Holmes to solve it. Doyle declined.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" aspect="1.146" caption="Ramsgate Commemorative Map 1884-1934" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" aspect="1.146" caption="Ramsgate Commemorative Map 1884-1934" %}
 
 Florence was not the only woman to attend the hearing, and 'Ladies it was remarked, were present in considerable force – much it must be said to their own inconvenience… At one point Inspector Ross found it necessary to engage the services of some of his subordinates in endeavouring to assist fair spectators in danger of suffocation to a place of greater safety.'[^ref15]  Florence didn’t waste the experience and in the following year the opening scene of her novel _A Sensational Case_ (1894) was set in a courtroom which: 'was crowded to suffocation, for a man was on trial for his life'. She continued 'every available corner was filled with ladies'.  Her literary output was phenomenal at this period, she wrote three more novels in this year, whilst also giving birth to her fourth child in six years.
 
-{% include embed/image.html src="wc:New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg" aspect="1.342" caption="New Road, Ramsgate" %}{: .right}
+{% include embed/image.html src="wc:New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg" aspect="1.342" caption="New Road, Ramsgate" %}
 
 She was described as a 'sprightly little lady, handsome and fluent in conversation' [^ref16] and Ramsgate mourned her departure when it was announced in the _East Kent Times and Mail_ in April 1898 that 'one of its literary celebrities' was moving to [Sandgate](Q1000312).[^ref17] However it is possible that Florence had already visited Sandgate before that period, as her novels, _Kitty’s Engagement_ (1895) and _A Spoilt Girl_ (1895), feature the fictional towns of Beachythe and Sandhythe. 
 
-{% include embed/image.html src="wc:General_view%2C_Sandgate%2C_England-LCCN2002708090.jpg" aspect="1.332" caption="View of Sandgate c.1890-1900" %}{: .right}
+{% include embed/image.html src="wc:General_view%2C_Sandgate%2C_England-LCCN2002708090.jpg" aspect="1.332" caption="View of Sandgate c.1890-1900" %}
 
-{% include embed/map.html center="Q1000312" zoom="12" markers="Q1000312" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q1000312" zoom="12" markers="Q1000312" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Florence's sister [Gertrude Warden]({{ site.baseurl }}/19c/19c-gertrude-warden-biography), had written _The Wooing of a Fairy_ in 1897 which was set in Lythinge (Lympne), suggesting that the sisters knew the area. Beach House, where Florence was later to live in 1898, would have provided the perfect location for the sisters to write.[^ref18]
 
-{% include embed/image.html src="wc:St_Stephen%2C_Lympne_1.JPG" aspect="1.333" caption="St Stephen, Lympne" %}{: .right}
+{% include embed/image.html src="wc:St_Stephen%2C_Lympne_1.JPG" aspect="1.333" caption="St Stephen, Lympne" %}
 
 In December 1898, the _Folkestone, Hythe, Sandgate & Cheriton Herald_ announced proudly that their latest resident Miss Florence Warden 'loves to gaze on the every-changing scenes of the English Channel from Beach Cottage' [^ref19] (Beach House, as it was actually called, was at 119, Sandgate High Street and is now Dareth House)  Hailed as the ‘author’s haven of repose’, Sandgate was also home to [Edith Katherine Spicer Jay]({{ site.baseurl }}/19c/19c-spicer-jay-biography), Bithia Croker, and [H.G. Wells]({{ site.baseurl }}/19c/19c-wellshg-biography) who stayed at 2 Beach Cottages in 1898. Adrian Ross (Adrian Reep Ropes), the lyricist and [William Pett Ridge]({{ site.baseurl }}/20c/20c-pett-ridge-biography), the novelist, were also among Florence’s acquaintances whilst she lived here. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c7f07717-8259-4ac5-ac27-4d758d4daf61" aspect="1.333" caption="Beach House (now Darenth House)" attribution="By kind permission of John Barrett, Sandgate Society" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c7f07717-8259-4ac5-ac27-4d758d4daf61" aspect="1.333" caption="Beach House (now Darenth House)" attribution="By kind permission of John Barrett, Sandgate Society" %}
 
 Florence was not entirely lost to [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). A year after her departure, it was reported that: 'Miss Warden lives at Ramsgate, finding the invigorating sea air absolutely essential to her health, as her somewhat sensational books demand a good deal of work and nerve strain.'[^ref20]  Whether this was true, or a sleepy news reporter had just not heard of her recent departure, it is difficult to tell.   
 
-{% include embed/image.html src="wc:%27Ramsgate%27_by_J._Buxton_Knight.jpg" aspect="1.455" caption="Ramsgate by J. Buxton Knight, 1908" %}{: .right}
+{% include embed/image.html src="wc:%27Ramsgate%27_by_J._Buxton_Knight.jpg" aspect="1.455" caption="Ramsgate by J. Buxton Knight, 1908" %}
 
 In 1901, the Jameses were back living at Addison Court Gardens although they kept their house at Sangate until at least 1909. Florence's 1906 novel _The Old House at the Corner_ was set in Kent . By 1909, the couple were facing bankruptcy and the luxury of a coastal retreat was beyond their budget.[^ref21] Florence died at Oakfield Lodge, Sydenham in 1929 at the age of 71.
 
 This article was published: 11 December 2021.
 
-{% include embed/image.html src="wc:The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" aspect="1.365" caption="The Sands, Ramsgate, Kent, 1899" %}{: .right}
+{% include embed/image.html src="wc:The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg" aspect="1.365" caption="The Sands, Ramsgate, Kent, 1899" %}
 
 ### Bibliography
 

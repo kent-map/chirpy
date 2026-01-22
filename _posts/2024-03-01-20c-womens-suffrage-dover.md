@@ -1,13 +1,14 @@
 ---
 title: "Women's Suffrage In Dover"
-description: "This essay traces the women’s suffrage campaign in Dover from nineteenth-century public lectures and meetings to early twentieth-century rallies and performances. It highlights key venues such as the Maison Dieu and Wellington Hall, local and visiting activists, and the political tensions surrounding women’s public participation and voting rights."
+description: "This essay traces key moments in the campaign for women’s suffrage in Dover from the 1870s to the early 20th century, from public meetings in local halls to rallies and theatre performances. It highlights how the Maison Dieu functioned as a hub for suffrage activism and remembrance, linking national figures and propaganda to local organisers and surviving material traces such as plaques and voting equipment."
 author: Madeleine Byatt, Anneliese Woodhouse and Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Politics & reform, Towns & cities, Buildings & architecture, Arts & performance ]
+tags: [ Politics & reform, Towns & cities, Buildings & architecture, Heritage & memory ]
 image: 
   path: "xxx"
 layout: post
+auto_float: true
 permalink: /20c/20c-womens-suffrage-dover/
 published: true
 toc: false    
@@ -43,7 +44,7 @@ The Maison Dieu was a hub for suffragette meetings at a time when the campaign f
 
 The Dover Maison Dieu has a Victorian polling booth and ballot boxes, which some of Dover district’s first women voters would have used, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow . Her letter, written with two other local suffragists, was published in the _Dover Express_ in 1909 arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/188d8a9b-7514-4dd2-99ce-040624cef0e6" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/188d8a9b-7514-4dd2-99ce-040624cef0e6" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
 
 As well as these connections, the Maison Dieu also accommodated many suffrage meetings with visitors such as Lady Frances Balfour, daughter of the Duke and Duchess of Argyll. Frances was at the forefront of women making changes to political roles within government. Her immense influence made her an important visitor to Dover as she resented her political exclusion within her own family.
 

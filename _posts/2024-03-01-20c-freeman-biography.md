@@ -4,10 +4,11 @@ description: "Prof. Carolyn Oulton introduces the life and work of Doctor and pi
 author: Carolyn Oulton
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Crime & punishment, Literary places, Towns & cities, Conflict & war ]
+tags: [ Authors & lives, Crime & punishment, Towns & cities, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maidstone%2C_1866.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-freeman-biography/
 published: true
 toc: false    
@@ -20,61 +21,61 @@ toc: false
 
 _‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’_ [‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)   
 
-{% include embed/image.html src="wc:Isle_of_Thanet_-_Rutupiae.jpg" aspect="1.493" caption="Isle of Thanet" %}{: .right}
+{% include embed/image.html src="wc:Isle_of_Thanet_-_Rutupiae.jpg" aspect="1.493" caption="Isle of Thanet" %}
 
-{% include embed/image.html src="wc:The_fort%2C_Margate%2C_England-LCCN2002697071.jpg" aspect="1.346" caption="The Fort, Margate" %}{: .right}
+{% include embed/image.html src="wc:The_fort%2C_Margate%2C_England-LCCN2002697071.jpg" aspect="1.346" caption="The Fort, Margate" %}
 
-{% include embed/image.html src="wc:Broadstairs.jpg" aspect="1.333" caption="Broadstairs Harbour" %}{: .right}
+{% include embed/image.html src="wc:Broadstairs.jpg" aspect="1.333" caption="Broadstairs Harbour" %}
 
-{% include embed/map.html center="Q590422" zoom="12" markers="Q590422" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q590422" zoom="12" markers="Q590422" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q618045" zoom="13" markers="Q618045" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q618045" zoom="13" markers="Q618045" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 Doctor and pioneering crime writer R. Austin Freeman is widely credited with the invention of the ‘inverted’ crime story (later popularised by tv detective Lieutenant Columbo). Born in London, he lived at a series of Kent addresses with his wife Annie and their two children after being invalided out of the Colonial Service in 1891.
 His first Kent address was in St Peter’s, just outside [Broadstairs](Q922739), from 1896. Around 1900 the family moved to 9 Vale Square, Ramsgate.
 
-{% include embed/map.html center="Q590422" zoom="12" markers="Q590422" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q590422" zoom="12" markers="Q590422" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q7595373" zoom="13" markers="Q7595373" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q7595373" zoom="13" markers="Q7595373" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q107339017" zoom="13" markers="Q107339017" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q107339017" zoom="13" markers="Q107339017" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 Freeman is rightly noted for his forensic attention to detail, leading [Julian Symons]({{ site.baseurl }}/20c/20c-symons-biography) to comment that ‘Reading a Freeman story is very much like chewing dry straw.’[^ref1] But he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
 _The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin._[^ref2] 
 
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations.
 
-{% include embed/image.html src="wc:Northfleet_Power_Station2.jpg" aspect="1.481" caption="The chimneys of Northfleet" %}{: .right}
+{% include embed/image.html src="wc:Northfleet_Power_Station2.jpg" aspect="1.481" caption="The chimneys of Northfleet" %}
 
-{% include embed/map.html center="Q676689" zoom="13" markers="Q676689" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q676689" zoom="13" markers="Q676689" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q2087380" zoom="13" markers="Q2087380" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q2087380" zoom="13" markers="Q2087380" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, [Gravesend](Q676689). It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_]({{ site.baseurl }}/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
 
-{% include embed/image.html src="wc:The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" aspect="1.309" caption="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" %}{: .right}
+{% include embed/image.html src="wc:The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" aspect="1.309" caption="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" %}
 
-{% include embed/image.html src="wc:Gravesend_Clock_Tower_postcard.jpg" aspect="1.555" caption="Gravesend Clock Tower Postcard, 7 August 1907" %}{: .right}
+{% include embed/image.html src="wc:Gravesend_Clock_Tower_postcard.jpg" aspect="1.555" caption="Gravesend Clock Tower Postcard, 7 August 1907" %}
 
-{% include embed/map.html center="Q507517" zoom="11" markers="Q507517" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q507517" zoom="11" markers="Q507517" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q213180" zoom="13" markers="Q213180" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q213180" zoom="13" markers="Q213180" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q107339038" zoom="13" markers="Q107339038" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q107339038" zoom="13" markers="Q107339038" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943. He was buried in Gravesend Cemetery, where a stone was erected by 'The friends of "Dr Thorndyke"' in 1979.
 
-{% include embed/map.html center="Q107339044" zoom="13" markers="Q107339044" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q107339044" zoom="13" markers="Q107339044" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q107339048" zoom="13" markers="Q107339048" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q107339048" zoom="13" markers="Q107339048" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q107339052" zoom="13" markers="Q107339052" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q107339052" zoom="13" markers="Q107339052" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 ### Bibliography
 

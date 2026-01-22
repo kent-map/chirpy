@@ -1,13 +1,14 @@
 ---
 title: "Israel Zangwill (21 January 1864 - 1 August 1926)"
-description: "This essay traces the 19th-century Jewish author Israel Zangwill’s encounters with the Kent coast, from youthful holidays in Thanet to later stays in Broadstairs and Dover. It reads his travel writing and commentary to show how seaside towns, leisure culture, and local incidents shaped his observations and public voice."
+description: "This essay traces Israel Zangwill’s visits to the Kent coast, showing how Ramsgate, Margate, Broadstairs, and Dover appear in his writing and public commentary. It combines biographical context with close attention to his published descriptions of seaside leisure, local incidents, and the literary culture of the late nineteenth and early twentieth centuries."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Culture & society ]
+tags: [ Authors & lives, Coast & sea, Texts & genres, Travel & mobility ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-zangwill-biography/
 published: true
 toc: false    
@@ -26,37 +27,37 @@ toc: false
 And as we marvelled at these jewels of the night, that shamed the absentee stars, the brake stood still with a jolt and a shock that threw our gay company into momentary alarm. But it was nothing. Only a horse fallen down dead! One of our overworked wheelers had suddenly sunk upon the earth, a carcase. Dust to dust! Who shall tell of the daylong agony of the dumb beast as he plodded pertinaciously through the heat, ministering to the pleasures of his masters?'    
 _‘Without Prejudice’_, 1893
 
-{% include embed/image.html src="wc:True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg" aspect="1.642" caption="True tales of travel and adventure, valour and virtue (1884)" %}{: .right}
+{% include embed/image.html src="wc:True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg" aspect="1.642" caption="True tales of travel and adventure, valour and virtue (1884)" %}
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
 
-{% include embed/image.html src="wc:Sands_Ramsgate_England.jpg" aspect="1.284" caption="The Sands at Ramsgate, c.1890-1900" %}{: .right}
+{% include embed/image.html src="wc:Sands_Ramsgate_England.jpg" aspect="1.284" caption="The Sands at Ramsgate, c.1890-1900" %}
 
-{% include embed/map.html center="Q2779399" zoom="12" markers="Q2779399" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q2779399" zoom="12" markers="Q2779399" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 As an adult Zangwill was less enraptured with the town; in ‘Without Prejudice’, his regular  column for the _Pall Mall Magazine_, he jocosely repeated a story going round the clubs in 1893 that an ill-starred [Henry James]({{ site.baseurl }}/19c/19c-jamesh-hever-castle) had gone there to find some ‘peace’.[^ref3]  He was still less impressed by neighbouring [Margate]({{ site.baseurl }}/19c/19c-margate):
 
 'Stand on [Margate]({{ site.baseurl }}/19c/19c-margate) Parade and look seaward, and the main impression is Beecham’s Pills. Sail towards Margate Pier and look landward, and the main impression is Jeyes’ Disinfectant Powder.'[^ref4]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/13b9cf96-8fcb-4df0-8491-9049ae7450fc" aspect="1.327" caption="Margate Parade c. 180" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/13b9cf96-8fcb-4df0-8491-9049ae7450fc" aspect="1.327" caption="Margate Parade c. 180" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
-{% include embed/map.html center="Q2779399" zoom="12" markers="Q2779399" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q2779399" zoom="12" markers="Q2779399" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Zangwill memorably observed that 'in [Margate]({{ site.baseurl }}/19c/19c-margate) and [Deal]({{ site.baseurl }}/seascape/deal) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs'. He was however taken with [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), ‘where [Dickens]({{ site.baseurl }}/dickens/dickens-biography) might still look from [Bleak House]({{ site.baseurl }}/dickens/dickens-fort-house) on as dainty a scene as in the days when he lounged on the dear old, black, weather-beaten pier.’[^ref5]  Zangwill was there in July 1893 when a mysterious delivery of dynamite to a summer visitor, one Mr Richards, caused the death of the man and injured the builder constructing his new house.[^ref6]  In true Dickensian style, Zangwill’s account of this incident positions the writer as honorary local (completely ignoring the fate of the hapless Mr Richards), ‘We were very proud of the Mystery, we of Broadstairs, and of the space we filled in the papers.’[^ref7] In [Folkestone]({{ site.baseurl }}/19c/19c-folkestone), which had proved too 'genteel' for [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) when he visited with [Robert Barr]({{ site.baseurl }}/19c/19c-barr-biography),‘the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes.’[^ref8]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e" aspect="1.503" caption="Beach and View showing Bleak House, Broadstairs" attribution="Kent Maps Online" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e" aspect="1.503" caption="Beach and View showing Bleak House, Broadstairs" attribution="Kent Maps Online" %}
 
 <!-- Map centered on Godmersham -->
 
-{% include embed/map.html center="Q632173" zoom="10" markers="Q632173" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q632173" zoom="10" markers="Q632173" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Zangwill stayed in [Dover]({{ site.baseurl }}/19c/19c-dover) (with no dynamite incidents) in July 1904, working on his play _Jinny the Carrier_.[^ref9] It was also from here that he wrote in November 1905 to thank the _Labour Leader_ for an article expressing ‘sympathy with me and my people’, which he had ‘received with sad pleasure’.[^ref10]  It is indeed not always easy to remember that, in Zangwill’s own words, ‘a serious man may be humorous, still less that a humorous man is always serious.’[^ref11] 
 
-{% include embed/image.html src="wc:Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" aspect="1.332" caption="Dover Seafront c. 1905" %}{: .right}
+{% include embed/image.html src="wc:Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" aspect="1.332" caption="Dover Seafront c. 1905" %}
 
 <!-- Map Centered on Dover -->
 
-{% include embed/map.html center="Q179224" zoom="13" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="13" markers="Q179224" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 ### Bibliography
 
@@ -69,7 +70,7 @@ Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachel
 --. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto & Windus, 1894. 163-79.   
 --. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
 
-{% include embed/image.html src="wc:Israel_Zangwill_1905.jpg" aspect="0.854" caption="Israel Zangwill, 1905" %}{: .right}
+{% include embed/image.html src="wc:Israel_Zangwill_1905.jpg" aspect="0.854" caption="Israel Zangwill, 1905" %}
 
 ### References
 

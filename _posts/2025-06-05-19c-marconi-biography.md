@@ -4,10 +4,11 @@ description: "This article discusses Guglielmo Marconi's links with Dover"
 author: Michelle Crowther
 date: 2025-06-05
 categories: [ 19c ]
-tags: [ Science & ideas, Coast & sea, Authors & lives, Travel & mobility ]
+tags: [ Authors & lives, Science & ideas, Coast & sea, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg/2560px-South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-marconi-biography/
 published: true
 toc: false    
@@ -17,29 +18,29 @@ Guglielmo Marconi, inventor of wireless telegraphy, arrived in Britain from Ital
 
 Physicist Sir Oliver Lodge had previously presented ideas on wireless telegraphy at the British Association for the Advancement of Science in Oxford in 1894, and bitterly complained that Marconi had “evidently got all his ideas” from a book that he had published after his lecture.[^ref1] However, Sungook Hong argues that Lodge’s lecture had nothing to do with telegraphy and that “the image of Lodge as the inventor of wireless telegraphy was deliberately constructed by his friends and by Lodge himself”[^ref2]. Marconi was granted the first British patent for wireless telegraphy on 2nd July 1896.[^ref3]
 
-{% include embed/image.html src="wc:Marconi_in_1896_Pocock_Garratt_1972_Page003.jpg" aspect="1.477" caption="Guglielmo Marconi, in Pocock R.F. and G.R.M. Garratt G.R.M., Public domain, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Marconi_in_1896_Pocock_Garratt_1972_Page003.jpg" aspect="1.477" caption="Guglielmo Marconi, in Pocock R.F. and G.R.M. Garratt G.R.M., Public domain, via Wikimedia Commons" %}
 
 Marconi gained support from William Preece, Chief Electrician at the Post Office, who was impressed with his ideas. At a meeting at the British Association for the Advancement of Science in September, Preece stated in his lecture that “an Italian had come here with a box giving a quite new system of space telegraphy”[^ref4] Members of the Association were indignant that Preece had overlooked British work and “taken up an Italian adventurer”[^ref5], particularly after Preece made the offer of financial support from the Post Office. 
 
 By March 1897, Marconi had succeeded in transmitting over a distance of 3 miles on Salisbury Plain, and then in May he sent his first wireless communication over water across the Bristol Channel.[^ref6] The scientific world longed to know what exactly Marconi’s “secret box” contained. Lodge bemoaned “the public has been educated by a secret box more than it would have been by many volumes of _Philosophical Transactions_ and _Physical Society Proceedings_”[^ref7]. Marconi formed his own private company, the Wireless Signal and Telegraph Company, on the 20 July 1897[^ref8]
 
-{% include embed/image.html src="wc:William_Henry_Preece_mca.jpg" aspect="0.664" caption="William Henry Preece" %}{: .right}
+{% include embed/image.html src="wc:William_Henry_Preece_mca.jpg" aspect="0.664" caption="William Henry Preece" %}
 
 In September 1897, a team of experts from the Post Office conducted wireless telegraphy experiments with the Royal Engineers at Fort Burgogyne, [Dover]({{ site.baseurl }}/19c/19c-dover), under the direction of William Preece and Mr Gavey, the Chief Technical Officer.[^ref9] The apparatus was placed on a horse-drawn trolley and stations were set up at [Swingate](Q603869) and St Margaret’s.[^ref10] Electrical power was taken from the local electricity works and the accumulators were sent down each night to the town to be changed.[^ref11] Marconi had planned to conduct similar experiments at Salisbury a week later but had been alerted by William Preece that the Post Office planned to conduct the experiments at [Dover](Q179224). He wrote to Preece:
 
 “In consequence to your letter, my experiments arranged to take place last week at Salisbury were postponed, you having suggested that I had better go to Dover. I now understand that the Post Office people have gone to Dover without me. Mr Gavey having told me in confidence that my presence cannot be permitted. At a board meeting of my company yesterday, much regret was expressed that the experiments at Dover are to be conducted in my absence with apparatus which may or may not be satisfactory.”[^ref12]
 
-{% include embed/map.html center="Q5470869" zoom="12" markers="Q5470869" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q5470869" zoom="12" markers="Q5470869" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Disappointed that he had been frozen out of the tests at [Dover]({{ site.baseurl }}/19c/19c-dover), Marconi, continued with his experiments, carrying out a series of tests at La Spezia for the Italian government, and some in Ireland. However, attempts to make contracts with the Royal Navy, Lloyds of London, and the Post Office initially foundered.[^ref13]
 
 On 30 January 1899, Marconi demonstrated his apparatus at the [South Foreland Lighthouse](Q386221), St Margaret's Bay, to public officials and the press.[^ref14] His apparatus consisted of a 120 ft pole with a wire which was insulated to prevent interference stretched from the top of the pole to a transmitter and receiver in the corner of a little room in the lightkeeper’s house. This relayed to apparatus which had been set up at the East Goodwin Lightship, twelve miles away, where an operator was waiting in the cabin of the vessel.[^ref15]  The event was arranged by Mr Hobbs of Ramsgate who had campaigned tirelessly for wireless communication between the lightships and the shore. [^ref16]
 
-{% include embed/image.html src="wc:South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg" aspect="1.333" caption="South Foreland Lighthouse" %}{: .right}
+{% include embed/image.html src="wc:South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg" aspect="1.333" caption="South Foreland Lighthouse" %}
 
 On the 17 March 1899, the East Goodwin Lightship sent its first wireless distress signal when _Elbe_, a merchant ship ran aground on the [Goodwin Sands]({{ site.baseurl }}/19c/19c-goodwin-sands).[^ref17] The South Goodwin light vessel had fired a distress signal after the vessel had run aground on the south end of the Goodwin Sands. On hearing the signal, the East Goodwin Lightship sent a message to the South Foreland Lighthouse which sent telegraphic messages to the Kingsdown and Ramsgate lifeboats.  The distress signal sent by the South Goodwin light vessel had already been heard by the [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) lifeboat which was on its way, but the Town Council agreed that had the wind been blowing in the opposite direction, the distress signal might not have been heard in Ramsgate and that the wireless distress signal would have proved useful.[^ref18]
 
-{% include embed/image.html src="wc:Admiralty_Chart_No_1431_Approaches_to_Dover_Strait%2C_Published_1915.jpg" aspect="0.644" caption="Admiralty Chart no. 1432 Approaches to Dover Strait, 1915" %}{: .right}
+{% include embed/image.html src="wc:Admiralty_Chart_No_1431_Approaches_to_Dover_Strait%2C_Published_1915.jpg" aspect="0.644" caption="Admiralty Chart no. 1432 Approaches to Dover Strait, 1915" %}
 
 Ten days later, with a thick haze enveloping the channel, morse code signals were sent from the engine house of the South Foreland Lighthouse to Chalet L'Artois, Wimereux, France, 50 km away.[^ref19] The newspapers reported that:
 
@@ -51,7 +52,7 @@ The demonstration was keenly observed by the Right Hon. C.T. Ritchie, President 
 
 The rate of transmission was about 15 words a minute.[^ref25] 
 
-{% include embed/image.html src="wc:Guglielmo_Marconi_1901_wireless_signal.jpg" aspect="1.622" caption="Guglielmo Marconi with the spark-gap transmitter (right) and coherer receiver (left) he used in some of his first long distance radiotelegraphy transmissions during the 1890s" %}{: .right}
+{% include embed/image.html src="wc:Guglielmo_Marconi_1901_wireless_signal.jpg" aspect="1.622" caption="Guglielmo Marconi with the spark-gap transmitter (right) and coherer receiver (left) he used in some of his first long distance radiotelegraphy transmissions during the 1890s" %}
 
 Afterwards, Marconi received letters of congratulations for his work. J.A. Fleming, Professor of Electrical Engineering at University College, London, visited the apparatus[^ref26] and wrote to _The Times_ calling for an end to the negativity that Marconi had received from the scientific community, arguing that:
 
@@ -59,7 +60,7 @@ Afterwards, Marconi received letters of congratulations for his work. J.A. Flemi
 
 However, at the beginning of April 1899, rumours began circulating that the electric waves between the South Foreland and Boulogne had interfered with the compasses of the _Stella_ which foundered on Les Casquets rocks near the Channel Islands. Marconi, who was staying at [Dover]({{ site.baseurl }}/19c/19c-dover), negated the idea, arguing that he had performed experiments on the Royal Yacht Osborne, when the Prince of Wales was on board, without the compasses being in any way affected.[^ref28] In fact, he believed that wireless telegraphy would become indispensable for all "men of war and mail steamers"[^ref29]
 
-{% include embed/image.html src="wc:SS_Stella.jpg" aspect="1.619" caption="Photograph of the London and South Western Railway steamship SS Stella, launched 1890, wrecked 1899." %}{: .right}
+{% include embed/image.html src="wc:SS_Stella.jpg" aspect="1.619" caption="Photograph of the London and South Western Railway steamship SS Stella, launched 1890, wrecked 1899." %}
 
 By now Marconi was receiving worldwide attention for his invention. On the 20 April 1899, he gave a demonstration of wireless telegraphy at the South Foreland Lighthouse to Cheng Yien Tao, the Naval Attache to the Chinese Legation in London, as the Chinese government were interested in adopting the system for the Chinese navy.[^ref30] Just under a month later, a commisssion from the Dutch government came to visit and expressed their interest in adopting the system along their coast for defensive purposes, as well as for communication between lightships and the shore.[^ref31] 
 
@@ -67,19 +68,19 @@ That autumn, the British Association for the Advancement of Science (BAAS) held 
 
 "The immense mass of chalk cliff lying between the Town Hall, Dover and the South Foreland, appears to offer not the slightest obstacle to the passage of the ether waves to or from the wire attached to the Town Hall flagstaff.[^ref35]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ac441809-6320-4bce-bf42-b16b949de7e7" aspect="0.61" caption="Marconi radio mast at the Maison Dieu" attribution="By kind permission of the Maison Dieu" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/ac441809-6320-4bce-bf42-b16b949de7e7" aspect="0.61" caption="Marconi radio mast at the Maison Dieu" attribution="By kind permission of the Maison Dieu" %}
 
 Ten days later, the newspapers reported that “Signor Marconi has just returned from the naval maneouvres, and is on the eve of leaving for America, but before he goes he is anxious to superintend all the necessary arrangements for his demonstrations at the meeting of the British Association during the week’s meeting.”
 
 At the meeting, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref36] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref37] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/8cc244cb-64a8-4f88-b507-49afb1eabe67" aspect="1.499" caption="Marconi radio equipment in Connaught Hall at Dover's Maison Dieu,1899" attribution="By kind permission of the Maison Dieu" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/8cc244cb-64a8-4f88-b507-49afb1eabe67" aspect="1.499" caption="Marconi radio equipment in Connaught Hall at Dover's Maison Dieu,1899" attribution="By kind permission of the Maison Dieu" %}
 
 In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref38] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref39] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref40]
 
 Marconi continued to experiment and in 1902, he sailed from Dover on board the Italian cruiser _Carlo Alberto_ which was bound for Kronstadt[^ref41]  in order to conduct experiments from the ship to his station in Essex, including testing prototypes of the magnetic detector.[^ref42] 
 
-{% include embed/image.html src="wc:Carlo_Alberto_-_Brassey%27s_naval_Annual_1898.png" aspect="1.61" caption="Italian cruiser Carlo Alberto appeared after page 36 in the 1898 edition of Brassey's Naval Annual" %}{: .right}
+{% include embed/image.html src="wc:Carlo_Alberto_-_Brassey%27s_naval_Annual_1898.png" aspect="1.61" caption="Italian cruiser Carlo Alberto appeared after page 36 in the 1898 edition of Brassey's Naval Annual" %}
 
 Marconi's wireless telegraphy continued to have an important role in Channel communication. By 1903, the Admiralty Marconi stations connected Dover and Dungeness Point[^ref43]. 
 
@@ -91,11 +92,11 @@ In 1909, messages recording Louis Bleriot’s flight across the channel were sen
 
 It was this year that Marconi won the Nobel Prize for Physics.[^ref45]
 
-{% include embed/image.html src="wc:M._Louis_Bleriot_Flies_by_Aeroplane_from_Calais_to_Dover.jpg" aspect="1.534" caption="Louis Bleriot flies by aeroplane from Calais to Dover" %}{: .right}
+{% include embed/image.html src="wc:M._Louis_Bleriot_Flies_by_Aeroplane_from_Calais_to_Dover.jpg" aspect="1.534" caption="Louis Bleriot flies by aeroplane from Calais to Dover" %}
 
 During the First World War, Marconi served in the Italian navy, developing short-wave beam to send secret messages.[^ref46] He returned to Dover in May and September 1925 in his yacht _Elettra_[^ref47],taking part in an experiment of coded signals which was conducted near the Goodwin Sands.[^ref48] Giorgio Dragoni wrote of his life "The entire world was his experimental laboratory, and he persevered with confidence in the experimental method, though he often struggled against the ‘official’ scientific opinion". He died in Rome in 1937. His experiments in Dover were only a small but important part of his legacy. 
 
-{% include embed/image.html src="wc:Elettra.jpg" aspect="1.333" caption="Elettra by Hadewich.lieckens, CC BY-SA 4.0 via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Elettra.jpg" aspect="1.333" caption="Elettra by Hadewich.lieckens, CC BY-SA 4.0 via Wikimedia Commons" %}
 
 ### References
 

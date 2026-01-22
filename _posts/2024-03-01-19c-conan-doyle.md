@@ -4,10 +4,11 @@ description: "Kent railway stations play crucial roles in several of Sir Arthur 
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Maps & place-making ]
+tags: [ Authors & lives, Literary places, Travel & mobility, Towns & cities, Maps & place-making ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-conan-doyle/
 published: true
 toc: false    
@@ -23,86 +24,86 @@ Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin]({{ s
 
 Like both [Dickens]({{ site.baseurl }}/dickens) and [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
 
-{% include embed/image.html src="wc:Portrait_of_Arthur_Conan_Doyle.jpg" aspect="0.768" caption="Portrait of Arthur Conan Doyle" %}{: .right}
+{% include embed/image.html src="wc:Portrait_of_Arthur_Conan_Doyle.jpg" aspect="0.768" caption="Portrait of Arthur Conan Doyle" %}
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [^ref2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of <span data-mouseover-image-zoomto="1426,962,728,534">Lewisham</span> and <span data-mouseover-image-zoomto="1740,814,737,541">Blackheath</span>, near London.
 
 Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to <span data-mouseover-image-zoomto="1313,1514,737,540">Beckenham</span>.
 
-{% include embed/image.html src="wc:The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg" aspect="1.544" caption="South Eastern Railways (1885)" %}{: .right}
+{% include embed/image.html src="wc:The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg" aspect="1.544" caption="South Eastern Railways (1885)" %}
 
 ‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to <span data-mouseover-image-zoomto="2895,3581,1474,1081">[Tonbridge](Q936183)</span> via <span data-mouseover-image-zoomto="8557,2693,1476,1082">[Canterbury](Q29303)</span> and <span data-mouseover-image-zoomto="7098,2866,2910,2133">Ashford</span>. 
 
 ‘The Abbey Grange’ (1904) is reached from <span data-mouseover-image-zoomto="2271,1536,728,534">Chiselhurst</span>. 
 
-{% include embed/image.html src="wc:%22The_Death_of_Sherlock_Holmes%22_%28frontispiece_from_The_Memoirs_of_Sherlock_Holmes%2C_1894%29.jpg" aspect="0.643" caption="The Death of Sherlock Holmes (1894)" %}{: .right}
+{% include embed/image.html src="wc:%22The_Death_of_Sherlock_Holmes%22_%28frontispiece_from_The_Memoirs_of_Sherlock_Holmes%2C_1894%29.jpg" aspect="0.643" caption="The Death of Sherlock Holmes (1894)" %}
 
 <!-- Basemap centred on Tonbridge -->
 
-{% include embed/map.html center="Q936183" zoom="13" markers="Q936183" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q936183" zoom="13" markers="Q936183" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="4382,1029,1455,1067">Higham</span>. 
 
 The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in 
 <span data-mouseover-image-zoomto="3301,4389,1455,1067">Tunbridge Wells</span>. 
 
-{% include embed/image.html src="wc:Parkstone_Down_empty_stock_between_Branksome_and_Parkstone_geograph-2680927-by-Ben-Brooksbank.jpg" aspect="1.501" caption="Late 19th Century Passenger Steam Engine" %}{: .right}
+{% include embed/image.html src="wc:Parkstone_Down_empty_stock_between_Branksome_and_Parkstone_geograph-2680927-by-Ben-Brooksbank.jpg" aspect="1.501" caption="Late 19th Century Passenger Steam Engine" %}
 
 <!-- Basemap centred on Tunbridge Wells -->
 
-{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 While his writing was lucrative enough for a growing family (at least once the definitely dead Sherlock Holmes had been revived for an Edwardian audience), other speculations were less than successful. Like the Micawbers in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk), Conan Doyle learned the hard way that the Kent coal trade ’may require talent, but that it certainly requires capital.’[^ref3]  He was sufficiently enthralled to have gone underground to see the mines for himself, and defended the Burr coal group against attacks in the press in 1913. But he later admitted the impossibility that what he had once termed ‘a stupendous movement which is destined to revolutionise the most historical corner of England’[^ref4]  could in practice be successful if it was ‘wildly financed and extravagantly handled’.[^ref5]  His study of prehistoric life proved equally unsuccessful – if less ruinous – when he failed to unearth dinosaur bones in the High Rocks area of Ashdown in 1909.[^ref6] 
 
-{% include embed/image.html src="wc:Conan_Doyle_LCCN2014714597.jpg" aspect="0.688" caption="Conan Doyle family 1900" %}{: .right}
+{% include embed/image.html src="wc:Conan_Doyle_LCCN2014714597.jpg" aspect="0.688" caption="Conan Doyle family 1900" %}
 
 He had a happier time exploring thousands of feet above the ground rather than below. In 1903 he told a journalist (the future author [P. G. Wodehouse]({{ site.baseurl }}/19c/19c-wodehouse-biography)) about his flight in a hot air balloon the year before. He vividly invoked the fear and excitement of this experience, ‘To see people running about, looking the size of dogs, and to feel that there was only a sort of strawberry-basket between me and _that_!’[^ref7]  Luckily the strawberry-basket landed safely somewhere in [Sevenoaks](Q939838). 
 
 Like Holmes, Conan Doyle clearly enjoyed risk, and in the absence of hot air balloons he made do with the motor car. Here too there was the potential for things to go wrong; after one encounter with an unimpressed official in 1905, the outraged author was fined for speeding when he was caught doing 26 miles per hour on the Cheriton Road in [Folkestone](Q375314).
 
-{% include embed/image.html src="wc:1905-04-04_front_Cat_car_crash.jpg" aspect="1.561" caption="Cat car crash" %}{: .right}
+{% include embed/image.html src="wc:1905-04-04_front_Cat_car_crash.jpg" aspect="1.561" caption="Cat car crash" %}
 
 <!---Basemap centered on Folkestone--->
 
-{% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 While he lived in Sussex after his marriage to Jean, Conan Doyle was close to the Kent border and was on good terms with the family of [Vita Sackville-West]({{ site.baseurl }}/20c/20c-sackville-west-biography), dining with Lord and Lady Sackville at [Knole](Q1285144) and inscribing a copy of the historical novel _Micah Clarke_ to Lady Sackville.[^ref8] But perhaps the most extraordinary circle in which Conan Doyle was moving during these years was an amateur cricket club, J. M. Barrie’s Allahakbarries. As one historian has noted, ‘if you were to draw a Venn diagram with each circle representing a well-known writer from the last years of the nineteenth century and the first years of the twentieth, the greatest area of convergence between them all would be the Allahakbarries’.[^ref9]  Other members included [P. G. Wodehouse]({{ site.baseurl }}/19c/19c-wodehouse-biography) (who played with Conan Doyle against the Royal Engineers in Chatham in 1903),[^ref10]  [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) and A. A. Milne.
 
-{% include embed/image.html src="wc:Sir_James_Matthew_Barrie_%281860-1937%29%2C_Author_%2838575923221%29.jpg" aspect="1.148" caption="J.M. Barrie" %}{: .right}
+{% include embed/image.html src="wc:Sir_James_Matthew_Barrie_%281860-1937%29%2C_Author_%2838575923221%29.jpg" aspect="1.148" caption="J.M. Barrie" %}
 
 <!---Basemap centered on Knole--->
 
-{% include embed/map.html center="Q1285144" zoom="13" markers="Q1285144" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q1285144" zoom="13" markers="Q1285144" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Conan Doyle himself regularly played hockey and cricket in Tunbridge Wells. He was therefore less than amused when the pavilion was burned down, apparently by suffragettes, in 1913. None of this can have helped his relationship with fellow author [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography). As president of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies, she and her colleagues were doubtless ‘tired of explaining that they were not suffragettes and did not approve of burning buildings’.[^ref11]  While Conan Doyle spoke at a meeting held to condemn the arson, he did make a point of distinguishing between the tactics of ‘the honest constitutional suffragist’ and the ‘malicious monkey tricks’ of the suffragettes.[^ref12]  Grand meanwhile arranged for a man with a sandwich board to carry posters round the town, denying that her own organisations had been involved, and sent a statement to the same effect to be read at the meeting.[^ref13]  
 
-{% include embed/image.html src="wc:National_Union_Women%27s_Suffrage_shop_on_18_Crescent_Road%2C_Tunbridge_Wells.jpg" aspect="1.592" caption="NUWSS shop on 18 Crescent Road, Tunbridge Wells" %}{: .right}
+{% include embed/image.html src="wc:National_Union_Women%27s_Suffrage_shop_on_18_Crescent_Road%2C_Tunbridge_Wells.jpg" aspect="1.592" caption="NUWSS shop on 18 Crescent Road, Tunbridge Wells" %}
 
 <!---Basemap centered on Tunbridge Wells--->
 
-{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 On the outbreak of war in 1914 both writers would support local initiatives, with Conan Doyle addressing at least one recruitment meeting in Tunbridge Wells in 1914 (he pointed out that a skilful cricketer should be good at artillery fire)[^ref14]  and giving lectures on major battles.[^ref15]  In 1919, with the suffrage problem resolved, [Grand]({{ site.baseurl }}/19c/19c-grand-biography) invited Lady Conan Doyle to join the committee of a new women’s club in Tunbridge Wells, which she hoped (with or without irony) would break up ‘mischievous cliques’ and encourage women to ‘do their duty as citizens.’[^ref16] 
 
-{% include embed/image.html src="wc:Sir_Arthur_and_Lady_Jean_Conan_Doyle%2C_c.1920._%287893553748%29.jpg" aspect="0.546" caption="Sir Arthur and Lady Jean Conan Doyle" %}{: .right}
+{% include embed/image.html src="wc:Sir_Arthur_and_Lady_Jean_Conan_Doyle%2C_c.1920._%287893553748%29.jpg" aspect="0.546" caption="Sir Arthur and Lady Jean Conan Doyle" %}
 
 <!---Basemap centered on Tunbridge Wells--->
 
-{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 But within a few years Conan Doyle would also fall out with his old friend [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography), who was deeply and publicly sceptical of Conan Doyle’s belief in spiritualism. [Groombridge Place](Q1547383) had already provided a mysterious setting for _The Valley of Fear_ in 1915. But in the later essay [‘The Edge of the Moat’](https://www.arthur-conan-doyle.com/index.php?title=The_Edge_of_the_Unknown#IV._The_Ghost_of_the_Moat)[^ref17]  he claimed to have witnessed psychic happenings connected with the house.
 
-{% include embed/image.html src="wc:In_English_Homes_Vol_1_Groombridge_Place_Kent_the_hall_chamber_31295001575223_0061.jpg" aspect="1.218" caption="Groombridge Place, Kent" %}{: .right}
+{% include embed/image.html src="wc:In_English_Homes_Vol_1_Groombridge_Place_Kent_the_hall_chamber_31295001575223_0061.jpg" aspect="1.218" caption="Groombridge Place, Kent" %}
 
 <!---Basemap centered on Groombridge Place--->
 
-{% include embed/map.html center="Q1547383" zoom="13" markers="Q1547383" allmaps="9537d136c6cd0dac~Kent Railway Map" %}{: .right}
+{% include embed/map.html center="Q1547383" zoom="13" markers="Q1547383" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 After [Jerome’s]({{ site.baseurl }}/19c/19c-jerome-biography) death in 1927, Conan Doyle would claim that his spirit had made contact to admit that he had been wrong in doubting psychic phenomena. For good measure he would also claim to have made contact with [Dickens]({{ site.baseurl }}/dickens) and [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography). But Conan Doyle was not to have the last word after all. Controversially he had also came out in support of the ‘Cottingley fairies’ supposedly seen by two children, Elsie Wright and her cousin Frances Griffiths, in 1917. Having seen the photographs in 1920, he was sufficiently convinced to publish them in _The Strand_ magazine, where the arch sceptic Holmes had made his first appearance. Frances later married and moved to [Ramsgate](Q736439), where she finally admitted in 1983 to having hoaxed the public for over half a century.
 
 This article was published: 31 December 2022.
 
-{% include embed/image.html src="wc:Frances1920.jpg" aspect="0.719" caption="Frances Griffiths, 1920" %}{: .right}
+{% include embed/image.html src="wc:Frances1920.jpg" aspect="0.719" caption="Frances Griffiths, 1920" %}
 
 ### Bibliography 
 

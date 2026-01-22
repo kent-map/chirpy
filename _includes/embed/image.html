@@ -1,6 +1,6 @@
 {%- comment -%} Convert src → full URL {%- endcomment -%}
 {%- capture src_final -%}
-{%- include url_from_src.html src=include.src mw_width=include.mw_width -%}
+{%- include url_from_src.html src=include.src mw_width=include.mw_width media_subpath=page.media_subpath -%}
 {%- endcapture -%}
 {%- assign src_final = src_final | strip -%}
 
@@ -31,15 +31,12 @@
 {%- assign qs = qs | append: "&rotate=" | append: include.rotate | uri_escape -%}
 {%- endif -%}
 
-<iframe
-  id="{{ include.id }}"
-  class="embed-image"
-  loading="lazy"
-  title="Juncture image viewer"
-  allow="clipboard-write"
-  {% if include.aspect %}
-    style="aspect-ratio: {{ include.aspect }};"
-  {% endif %}
-  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}"
-  allowfullscreen>
+{%- assign class = "embed-image" -%}
+{%- if include.class -%}
+{%- assign class = class | append: " " | append: include.class -%}
+{%- endif -%}
+
+<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="Juncture image viewer" allow="clipboard-write"
+  {% if include.aspect %} style="aspect-ratio: {{ include.aspect }};" {% endif %}
+  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen>
 </iframe>

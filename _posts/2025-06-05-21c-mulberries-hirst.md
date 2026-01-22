@@ -1,6 +1,6 @@
 ---
 title: "Mulberries at Finglesham"
-description: "A lyrical poem invites the reader into a garden at sunrise to taste mulberries and linger over the sensations of light, dew, leaves, and juice-stained hands. It uses the mulberry tree as a focal point for describing pleasure, intimacy, and the textures of the natural world in a specific Kent place."
+description: "A short lyric poem invites the reader into a garden at sunrise to eat mulberries, using sensory detail to evoke light, warmth, and taste. It frames the mulberry tree as a focal point for pleasure, intimacy, and attentive looking in a specific Kent place."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
@@ -8,6 +8,7 @@ tags: [ Texts & genres, Countryside & farming, Nature & environment, Representat
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
 layout: post
+auto_float: true
 permalink: /21c/21c-mulberries-hirst/
 published: true
 toc: false    
@@ -24,7 +25,7 @@ Look, love, over there are the leaves.
 Heart-shaped with all a heart’s plumpness   
 And pointed for all a heart grieves.  
 
-{% include embed/image.html src="wc:2024_Morus_at_Mottisfont_Abbey.jpg" aspect="0.75" caption="Mulberries with Heart-shaped Leaves" %}{: .right}
+{% include embed/image.html src="wc:2024_Morus_at_Mottisfont_Abbey.jpg" aspect="0.75" caption="Mulberries with Heart-shaped Leaves" %}
 
 From calm cool and darkness inside   
 We’ll cross into blazing gold light.   
@@ -36,7 +37,7 @@ Bare feet on dew-twinkling grass.
 Savour the smell of the morning,   
 With warmth it will dissipate fast.   
 
-{% include embed/image.html src="wc:The_Mulberry_Tree_by_Vincent_van_Gogh.jpg" aspect="1.21" caption="The Mulberry Tree by Vincent van Gogh" %}{: .right}
+{% include embed/image.html src="wc:The_Mulberry_Tree_by_Vincent_van_Gogh.jpg" aspect="1.21" caption="The Mulberry Tree by Vincent van Gogh" %}
 
 Overhead there’s a living mosaic   
 Of sunlight, green leaves, sky’s blue band.   

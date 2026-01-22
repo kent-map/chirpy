@@ -1,13 +1,14 @@
 ---
 title: "Dickens and Canterbury"
-description: "This essay traces how Charles Dickens’s David Copperfield maps onto the streets, inns, and institutions of Canterbury, weighing local traditions against details in the novel and later guidebooks. It also considers Dickens’s more ambivalent personal relationship with the city as seen through letters, tourism, and heritage claims tied to specific buildings and sites."
+description: "This essay traces how Canterbury appears in David Copperfield and how specific streets, inns, and school buildings have been identified with Dickens’s fictional locations. It compares literary description, local tradition, guidebook claims, and Dickens’s own letters to assess what can and cannot be securely mapped onto the modern city."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Towns & cities, Heritage & memory ]
+tags: [ Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /dickens/david-copperfield-canterbury/
 published: true
 toc: false    
@@ -17,7 +18,7 @@ toc: false
 ‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of [Canterbury](Q29303), dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’   
 _David Copperfield_
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/In_Dickens_Land._The_Little_Inn,_Canterbury.jpg" aspect="0.75" caption="Little Inn, Dickens Land" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/In_Dickens_Land._The_Little_Inn,_Canterbury.jpg" aspect="0.75" caption="Little Inn, Dickens Land" %}
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.[^ref1]
@@ -27,7 +28,7 @@ very old house bulging out over the road; a house with long low lattice-windows 
 It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
 a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" aspect="1.691" caption="Mint Yard 12079 Kings School" attribution=" By kind permission of Peter Henderson" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" aspect="1.691" caption="Mint Yard 12079 Kings School" attribution=" By kind permission of Peter Henderson" %}
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
 <param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury, 2021">
@@ -42,7 +43,7 @@ Dickens’ relationship with [Canterbury]({{ site.baseurl }}/19c/19c-canterbury)
 
 Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes]({{ site.baseurl }}/dickens/mobile-landscapes)) which may be the hotel Mr Dick stays in on his frequent visits to the city (Charles Harper claims the 'County Inn' as the original but confuses it with the nearby Fountain. The Fountain was subsequently destroyed in WW2, and the County Inn changed its name to the Abode). 
 
-{% include embed/image.html src="wc:Abode_Hotel_Canterbury.jpg" aspect="1.0" caption="Abode Hotel by DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Abode_Hotel_Canterbury.jpg" aspect="1.0" caption="Abode Hotel by DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons" %}
 
 ## Bibliography
 
@@ -54,7 +55,7 @@ Storey, Graham, ed. The Pilgrim Edition: _The Letters of Charles Dickens.'' Volu
 Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific and Natural History Society's 'Report and transactions for the year ending September 30th, 1907. Series II. Vol. VII'.   
 Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide for Pilgrims_. Canterbury: Canterbury & District Chamber of Trade, 1928.   
 
-{% include embed/image.html src="wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" aspect="0.693" caption="David reaches Canterbury" %}{: .right}
+{% include embed/image.html src="wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" aspect="0.693" caption="David reaches Canterbury" %}
 
 Research on Micawber's inn and Mr Dick's inn by Ken Moffat.
 

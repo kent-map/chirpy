@@ -1,13 +1,14 @@
 ---
 title: "Frances Hodgson Burnett (1849–1924)"
-description: "This essay traces the life of British-American writer Frances Hodgson Burnett with a focus on her years living at Great Maytham Hall near Rolvenden in Kent. It explores how the house and especially its restored walled garden shaped her writing, including links to The Secret Garden, while also situating her in local community life and wider transatlantic movement."
+description: "This essay traces Frances Hodgson Burnett’s years at Great Maytham Hall near Rolvenden, showing how the house and its restored walled garden shaped her daily life, philanthropy, and writing. It links the Kent setting to her major works, especially the garden imagery that informs The Secret Garden, while situating her residence within the disruptions of divorce, illness, and transatlantic travel."
 author: Elena Beighton-Delille
 date: 2024-07-29
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Nature & environment ]
+tags: [ Authors & lives, Literary places, Texts & genres, Buildings & architecture, Countryside & farming ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_the_prettiest_rose..._%2810383091124%29.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-hodgson-burnett-biography/
 published: true
 toc: false    
@@ -20,47 +21,47 @@ toc: false
 
 Frances Hodgson Burnett (1849–1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.
 
-{% include embed/image.html src="wc:Portrait_of_Frances_Hodgson_Burnett.jpg" aspect="0.713" caption="Frances Hodgson Burnett" %}{: .right}
+{% include embed/image.html src="wc:Portrait_of_Frances_Hodgson_Burnett.jpg" aspect="0.713" caption="Frances Hodgson Burnett" %}
 
 <!-- Base map centred on Rolvenden -->
 
-{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 Built in 1721, Great Maytham Hall had been damaged by fire in 1893.[^ref2] It was a spacious house, with ‘seventeen or eighteen bedrooms’ and ‘a charming place with a nicely finished park and a beautiful old walled kitchen garden’.[^ref3] This garden had been long neglected; she was involved in its restoration, by removing hedges and adding a rose walk to make it more open and welcoming.[^ref4] She had already written _Little Lord Fauntleroy_, but Great Maytham Hall was where she completed _The Shuttle_, _The Methods of Lady Walderhurst_, _A Little Princess_, and _The Dawn of a Tomorrow_.[^ref5] The environment of the rose garden also helped new ideas to emerge; it was where she first saw the robin that was the starting point of _The Secret Garden_, though the novel is set in Yorkshire. It contains allusions to _Wuthering Heights_, and may draw on a visit to the house of Lord Crewe in 1895.[^ref6]
 
-{% include embed/image.html src="wc:A_Little_Princess--pg1--cover.jpg" aspect="0.702" caption="Little Princess" %}{: .right}
+{% include embed/image.html src="wc:A_Little_Princess--pg1--cover.jpg" aspect="0.702" caption="Little Princess" %}
 
 <!-- Base map centred on Rolvenden -->
 
-{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 As well as helping to realise her creative ambitions, her position as lady of the manor helped further her charitable ones. Great Maytham Hall was the centre of the community and its significance in her life is shown by her beginning to regularly attend church there. She brought up two orphaned lambs on a bottle.[^ref7]. At Christmas she would visit the cottages with clothes for the village children, fill stockings with toys such as dolls, and participate in the dinner at the local inn, The Bull, that was provided by the gentry for the villagers. She also enjoyed the duties of hostess, often receiving visitors at Maytham Hall; guests included Henry James, who lived at Lamb House in Rye, though his comparative lack of success may have prevented a closer friendship between the two authors.[^ref8]
 
-{% include embed/image.html src="wc:HenryJamesPhotograph.png" aspect="0.763" caption="Henry James" %}{: .right}
+{% include embed/image.html src="wc:HenryJamesPhotograph.png" aspect="0.763" caption="Henry James" %}
 
 <!-- Base map centred on Rolvenden -->
 
-{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 Burnett’s failing health may have been aggravated by her turbulent second marriage; following a collapse in 1902 she entered a sanatorium at Fishkill-on-Hudson, New York, where she separated from Stephen Townesend.[^ref9] After spending time in New York, and travelling in Italy, she returned in June 1904 to Maytham Hall.[^ref10] It is possible that Maytham no longer felt as much like her home as it had during the first years of her residence there. Alongside the need for protection from her possibly mercenary husband, this may explain why she gained American citizenship in 1905.[^ref11] When the rent agreement expired in 1907, it was in New York that she decided to build her permanent home.[^ref12] This was in Plandome, Long Island, where she died in 1924.[^ref13]
 
-{% include embed/image.html src="wc:Stephen_Townesend_1899.png" aspect="0.671" caption="Stephen Townesend, 1899" %}{: .right}
+{% include embed/image.html src="wc:Stephen_Townesend_1899.png" aspect="0.671" caption="Stephen Townesend, 1899" %}
 
 <!-- Base map centred on Rolvenden -->
 
-{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q2313624" zoom="13" markers="Q2313624" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 Nevertheless her ties to Maytham Hall, especially its garden, can be seen in _The Secret Garden_ and in _My Robin_, written on her return to America.[^ref14] Although the gloomy, stony, wintry house in The Secret Garden seems less warm, bustling and welcoming than Maytham Hall, the way the eponymous garden is described conveys the author’s lasting appreciation of flowers at a time when daily immersion in her own rose garden had become a happy memory.[^ref15] It seems that both in the novel and in the author’s life, the garden is intrinsically English. Mary’s sallow complexion and sullenness are brought about by the emotional neglect of her life in India; her interaction with the magic of the English garden introduces her to kindness and friendship. In particular a similarity can be seen between the author’s rose garden and the novel, with emphasis on the life and movement of flowers in full bloom, mirroring themes of a return to childhood and health for Mary and Colin:
 
 ‘And the roses – the roses! Rising out of the grass, tangled round the sun-dial, wreathing the tree trunks and hanging from their branches, climbing up the walls and spreading over them with long garlands falling in cascades – they came alive day by day, hour by hour. Fresh fair leaves, and buds – and buds – tiny at first but swelling and working Magic until they burst and uncurled into cups of scent delicately spilling themselves over their brims and filling the garden air.’ (TSG, XXIII)[^ref16]
 
-{% include embed/image.html src="wc:Secret_Garden-Kirk-365.jpg" aspect="0.665" caption="Secret Garden, illus. Maria Louise Kirk" %}{: .right}
+{% include embed/image.html src="wc:Secret_Garden-Kirk-365.jpg" aspect="0.665" caption="Secret Garden, illus. Maria Louise Kirk" %}
 
-{% include embed/image.html src="wc:The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" aspect="0.67" caption="The Secret Garden" %}{: .right}
+{% include embed/image.html src="wc:The_Secret_Garden_book_cover_-_Project_Gutenberg_eText_17396.jpg" aspect="0.67" caption="The Secret Garden" %}
 
 The house at Great Maytham Hall was Georgian, but was rebuilt between 1909 and 1912.[^ref17] The garden is now private but can be visited on certain days with the national open garden scheme.[^ref18] 
 
-{% include embed/image.html src="wc:Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg" aspect="1.333" caption="Great Maytham Hall Garden" %}{: .right}
+{% include embed/image.html src="wc:Great_Maytham_Hall_Garden_-_geograph.org.uk_-_228928.jpg" aspect="1.333" caption="Great Maytham Hall Garden" %}
 
 ### References
 

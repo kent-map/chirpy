@@ -8,6 +8,7 @@ tags: [ Literary places, Texts & genres, Towns & cities, Travel & mobility, Heri
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-sherlock-holmes/
 published: true
 toc: false    

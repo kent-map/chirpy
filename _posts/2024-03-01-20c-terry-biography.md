@@ -1,13 +1,14 @@
 ---
 title: "Dame (Alice) Ellen Terry (27 February 1847 – 21 July 1928)"
-description: "This essay outlines the life and career of Victorian actress Dame Ellen Terry, from her early stage roles to her celebrated partnership with Henry Irving and her later Shakespeare lectures. It focuses on her retreat to Smallhythe Place near Tenterden in the Kent marshes and the close domestic and creative circle she shared there with her daughter Edith Craig and their companions."
+description: "This essay introduces the Victorian stage star Dame Ellen Terry and traces her career and cultural influence through performances, lectures, and correspondence. It focuses on her Kent retreat at Smallhythe Place near Tenterden, mapping the domestic and social networks that formed around the house and its legacy."
 author: Carla Danella
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Arts & performance, Literary places, Rivers & marshes ]
+tags: [ Authors & lives, Literary places, Buildings & architecture, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Ellen_Terry_%28%27Choosing%27%29_by_George_Frederic_Watts.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-terry-biography/
 published: true
 toc: false    
@@ -18,11 +19,11 @@ Ellen Terry was the superstar English actress of the Victorian period. Born to a
 
 She is also known for her series of highly-acclaimed lectures about Shakespeare’s women (and the book that resulted – _Four Lectures on Shakespeare_ – written by Ellen Terry and edited by her ‘literary henchman’ [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography).
 
-{% include embed/image.html src="wc:Ellen_Terry_as_Margaret.jpg" aspect="0.717" caption="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre" %}{: .right}
+{% include embed/image.html src="wc:Ellen_Terry_as_Margaret.jpg" aspect="0.717" caption="Photograph of Ellen Terry as Margaret in Faust, Lyceum Theatre" %}
 
-{% include embed/image.html src="wc:Ellen_Terry_3.jpg" aspect="0.753" caption="Ellen Terry as Mamillius" %}{: .right}
+{% include embed/image.html src="wc:Ellen_Terry_3.jpg" aspect="0.753" caption="Ellen Terry as Mamillius" %}
 
-{% include embed/image.html src="wc:Lyceum_Theatre%2C_Wellington_St%2C_London.jpg" aspect="1.333" caption="Lyceum Theatre, Wellington St, London" %}{: .right}
+{% include embed/image.html src="wc:Lyceum_Theatre%2C_Wellington_St%2C_London.jpg" aspect="1.333" caption="Lyceum Theatre, Wellington St, London" %}
 
 In 1900, she bought her last home, Smallhythe[^ref1] Place, a Tudor farmhouse in the Kent marshes outside [Tenterden](Q614560), as a retreat from her busy London theatrical life. Terry’s biographer, Nina Auerbach, called it ‘a pocket of eerie stillness in the Kentish countryside’. [^ref2]
 
@@ -30,39 +31,39 @@ Ellen Terry wrote of her new home:
 
 ‘It’s pretty rough at the Farmhouse! ‘The simple life’ indeed! But at least there’s a jolly big Bath there.’ [^ref3]  
 
-{% include embed/image.html src="wc:Smallhythe_Place%2C_Kent_1.jpg" aspect="1.333" caption="Smallhythe Place" %}{: .right}
+{% include embed/image.html src="wc:Smallhythe_Place%2C_Kent_1.jpg" aspect="1.333" caption="Smallhythe Place" %}
 
-{% include embed/image.html src="wc:The_Woolpack_Hotel%2C_Tenterden_-_geograph.org.uk_-_2123859.jpg" aspect="1.333" caption="Tenterden" %}{: .right}
+{% include embed/image.html src="wc:The_Woolpack_Hotel%2C_Tenterden_-_geograph.org.uk_-_2123859.jpg" aspect="1.333" caption="Tenterden" %}
 
-{% include embed/image.html src="wc:Wealden_countryside_3194.JPG" aspect="1.333" caption="Kentish countryside" %}{: .right}
+{% include embed/image.html src="wc:Wealden_countryside_3194.JPG" aspect="1.333" caption="Kentish countryside" %}
 
-{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
-{% include embed/map.html center="Q614560" zoom="15" markers="Q614560" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q614560" zoom="15" markers="Q614560" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 She gifted the adjacent ‘Priest’s House’ to her daughter, Edith [‘Edy’ Craig]({{ site.baseurl }}/20c/20c-craig-biography), who lived in it with her life partners – the writer [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography) (Christabel Marshall), and after 1916 with St John and the artist, Clare ‘Tony’ Atwood. 
 
-{% include embed/image.html src="wc:Priest%27s_House_Small_Hythe_Kent_Geograph-1641754-by-Robin-Webster.jpg" aspect="1.495" caption="Priest’s House" %}{: .right}
+{% include embed/image.html src="wc:Priest%27s_House_Small_Hythe_Kent_Geograph-1641754-by-Robin-Webster.jpg" aspect="1.495" caption="Priest’s House" %}
 
-{% include embed/map.html center="Q17556849" zoom="15" markers="Q17556849" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q17556849" zoom="15" markers="Q17556849" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 Ellen Terry wrote about life with Edy at [Smallhythe Place](Q7543679) (then called The Farm) in a letter to George Bernard Shaw (14 June 1904), 
 
 ‘Edy is here. Did I tell you she is my right hand, and still growing to be my left hand, and happy as a sandboy all the while? I fear to be too happy in her – I try to very quiet with it all. She has a cottage of her own here and we visit each other every day!’ [^ref4]
 
-{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography) characterised her early life with Ellen Terry and [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography) at Smallhythe as ‘a lovely pleasant carefree existence’. They created beautiful gardens, went on moonlight drives to [Bodiam Castle](Q639208), and took the occasional pleasure cruise across the English Channel to Bruges.
 
-{% include embed/image.html src="wc:Bodiam-castle-10My8-1185.jpg" aspect="1.504" caption="Bodiam Castle" %}{: .right}
+{% include embed/image.html src="wc:Bodiam-castle-10My8-1185.jpg" aspect="1.504" caption="Bodiam Castle" %}
 
-{% include embed/map.html center="Q7543679" zoom="10" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q7543679" zoom="10" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
-{% include embed/map.html center="Q639208" zoom="10" markers="Q639208" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q639208" zoom="10" markers="Q639208" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 [St John]({{ site.baseurl }}/20c/20c-st-john-biography) wrote that the many ‘monuments’ to Ellen Terry – her autobiography, letters, and lectures on Shakespeare ‘as well as her shrine at Smallhythe’ – were ‘something to inspire those who come after us with the same devotion to her memory.’[^ref5]
 
-{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}{: .right}
+{% include embed/map.html center="Q7543679" zoom="15" markers="Q7543679" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 ### Bibliography:
 

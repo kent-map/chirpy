@@ -1,13 +1,14 @@
 ---
 title: "Jane Austen, Ramsgate"
-description: "This visual essay explores Jane Austen’s connections to Ramsgate, tracing her visit in the early 1800s alongside the town’s rise as a Regency seaside resort and garrison. It links biographical evidence and family networks to Austen’s fictional references to Ramsgate in Pride and Prejudice and Mansfield Park, highlighting the town’s moral and social associations in her writing."
+description: "This essay traces Jane Austen’s personal connections to Ramsgate and how the town appears in Pride and Prejudice and Mansfield Park. Using a mapped, image-rich approach, it links Regency seaside culture, naval presence, and social reputation to Austen’s lived experience and literary portrayal of the port."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres ]
+tags: [ Authors & lives, Literary places, Coast & sea, Maps & place-making ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /austen/austen-ramsgate/
 published: true
 toc: false    
@@ -16,7 +17,7 @@ toc: false
 
 <!-- Base map centred on Pegwell -->
 
-{% include embed/map.html center="Q56648819" zoom="13.5" markers="Q56648819" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}{: .right}
+{% include embed/map.html center="Q56648819" zoom="13.5" markers="Q56648819" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
 
 <!-- Historical map layers -->
 
@@ -24,16 +25,16 @@ toc: false
 
 ‘My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself. About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/); and thither also went Mr. Wickham, undoubtedly by design; […] he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.’_Pride and Prejudice_ (1813)
 
-{% include embed/image.html src="wc:View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg" aspect="2.138" caption="View of Ramsgate Town and Harbour" %}{: .right}
+{% include embed/image.html src="wc:View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg" aspect="2.138" caption="View of Ramsgate Town and Harbour" %}
 
 During the Regency period, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) blossomed from a small watering hole into an important garrison town and social destination.  Edward Austen Knight is known to have gone there with his family, and on one such occasion at least, Jane Austen accompanied him.  She may have visited at other times as well.  A family acquaintance, Sir Egerton Brydges, recalls seeing Austen there at this time:    
 'When I knew Jane Austen I never suspected that she was an authoress.  But my eyes told me that she was fair and handsome, slight and elegant, with cheeks a little too full.  The last time, I think, I saw her was at [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) in 1803.'[^ref1]   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" aspect="1.369" caption="Marine Library, Ramsgate" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" aspect="1.369" caption="Marine Library, Ramsgate" %}
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
 
-{% include embed/image.html src="wc:P%26P41-Avec_Wickham_%28BrockNB%29.JPG" aspect="0.778" caption="Avec Wickham" %}{: .right}
+{% include embed/image.html src="wc:P%26P41-Avec_Wickham_%28BrockNB%29.JPG" aspect="0.778" caption="Avec Wickham" %}
 
 See they come, post haste from Thanet,   
    Lovely couple, side by side;   
@@ -56,17 +57,17 @@ To the house the chaise advances;
 How d'ye do, my Uncle Francis?   
    How does do your Lady dear?[^ref3]    
 
-{% include embed/image.html src="wc:Godmersham_%281779%29.jpg" aspect="1.515" caption="Godmersham, 1799" %}{: .right}
+{% include embed/image.html src="wc:Godmersham_%281779%29.jpg" aspect="1.515" caption="Godmersham, 1799" %}
 
 In Austen’s published work, [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate)  is associated with less reputable male characters.  In _Pride and Prejudice_, the ostensibly charming militia officer George Wickham connives to seduce and elope with the young, impressionable, and very wealthy Georgiana Darcy at [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate).  In _Mansfield Park_, [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate)  becomes a destination for the selfish and profligate Tom Bertram.  In her private life, Austen also casts aspersions on the port, commenting in a letter to her sister: “Ed. Hussey is warned out of Pett, and talks of fixing at [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate).  Bad taste!  He is very fond of the sea, however. Some taste in that, and some judgment, too, in fixing on [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate), as being by the sea”.[^ref4]   Austen seems to have harboured reservations about the opportunities for loose or immoral behaviour in [seaside towns]({{ site.baseurl }}/19c/19c-seaside) such as [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate). 
 
-{% include embed/image.html src="wc:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" aspect="0.595" caption="Pride and Prejudice" %}{: .right}
+{% include embed/image.html src="wc:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" aspect="0.595" caption="Pride and Prejudice" %}
 
 ### Bibliography 
 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
 
-{% include embed/image.html src="wc:Thomson-PP09.jpg" aspect="0.865" caption="The Officers of the shire" %}{: .right}
+{% include embed/image.html src="wc:Thomson-PP09.jpg" aspect="0.865" caption="The Officers of the shire" %}
 
 ### References
 

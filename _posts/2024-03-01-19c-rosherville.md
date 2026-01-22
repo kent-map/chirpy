@@ -1,13 +1,14 @@
 ---
 title: "Rosherville"
-description: "This essay traces the rise and decline of Rosherville Gardens, a nineteenth-century pleasure garden near Gravesend, and explains how shifts in transport and leisure culture contributed to its fading popularity. It reads F. Anstey’s novel The Tinted Venus as a literary afterimage of the site, using its eerie depiction to reflect broader late-Victorian changes in tourism and entertainment."
+description: "This essay explores the rise and decline of Rosherville Gardens, a nineteenth-century Kent pleasure garden shaped by changing tourist travel and leisure fashions. It reads the site through its fictional reinvention as Rosherwich in F. Anstey's The Tinted Venus, showing how literature registers the melancholy of a once-thriving attraction."
 author: Hayley Smith
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Literary places, Culture & society, Travel & mobility, Towns & cities ]
+tags: [ Culture & society, Towns & cities, Texts & genres, Travel & mobility ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-rosherville/
 published: true
 toc: false    
@@ -15,15 +16,15 @@ toc: false
 
 Rosherville Gardens, a long-forgotten pleasure garden built in an abandoned chalk pit in Kent in 1830, was a popular tourist attraction in the nineteenth century. Tactically positioned close to [Gravesend]({{ site.baseurl }}/19c/19c-gravesend), which contemporary Londoners could reach by travelling in a steamboat, Rosherville was – at first, at least – a triumph, with Robert Hiscock noting that, by 1857, the gardens were admitting approximately twenty thousand visitors every week.[^ref1]  It is perhaps not so surprising that Rosherville received such an immense amount of interest in the mid-Victorian era, given that the gardens seemed to include something for everyone; indeed, it featured terraces, Grecian statues and temples, an archery lawn, a Baronial Hall, a bear pit (which is, in fact, one of the only surviving structures from the gardens, now Grade-II listed), as well as places to eat, drink, and dance.[^ref2]  
 
-{% include embed/image.html src="wc:Rosherville_Gardens_in_Kent.jpg" aspect="1.432" caption="Rosherville Gardens in Kent" %}{: .right}
+{% include embed/image.html src="wc:Rosherville_Gardens_in_Kent.jpg" aspect="1.432" caption="Rosherville Gardens in Kent" %}
 
 As the advent of the railway allowed tourists to easily travel further afield and visit places like [Margate]({{ site.baseurl }}/19c/19c-margate) and Southend, the interest in Rosherville began to wane. The decline of Rosherville Gardens is picked up by Thomas Anstey Guthrie, writing under the pseudonym, “F. Anstey”, in his 1885 novel, _The Tinted Venus_. Renamed Rosherwich Gardens, the attraction features as the magical site within which the unfortunate protagonist, a hairdresser called Leander Tweddle, unwittingly animates a statue of the goddess Venus. In a comic adaptation of the story contained in Ovid’s _Metamorphoses_, within which the sculptor Pygmalion falls in love with a statue of Aphrodite, the statue of Venus in Guthrie’s narrative instead falls in love with Leander. Just as Victor Frankenstein is soon faced with the disastrous consequences of his monstrous creation in [Mary Shelley]({{ site.baseurl }}/19c/19c-shelleym-biography)’s well-known novel, Leander Tweddle similarly realises the error of his ways as the statue begins to wreak havoc upon his life and his romantic engagements.
 
-{% include embed/image.html src="wc:Ch%C3%A2teau_de_Versailles%2C_salon_des_nobles%2C_Pygmalion_priant_V%C3%A9nus_d%27animer_sa_statue%2C_Jean-Baptiste_Regnault.jpg" aspect="1.329" caption="Chateau de Versailles salon des nobles Pygmalion" %}{: .right}
+{% include embed/image.html src="wc:Ch%C3%A2teau_de_Versailles%2C_salon_des_nobles%2C_Pygmalion_priant_V%C3%A9nus_d%27animer_sa_statue%2C_Jean-Baptiste_Regnault.jpg" aspect="1.329" caption="Chateau de Versailles salon des nobles Pygmalion" %}
 
 It is Leander’s friend, Jauncy, who first suggests that the group visit Rosherwich. He paints a ‘glowing picture’ of the pleasure gardens, recalling the time he spent there the previous summer. ‘“[I]t was first-rate: open-air dancing, summer theatre, rope-walking, fireworks, and supper out under the trees”’, he says.[^ref3]  Such statements concur with the mid-Victorian image of this tourist destination, but by the time that the group arrives – late in the season (and late in the nineteenth century) – a ‘dead silence reigned everywhere, broken only by the wind as it rustled amongst the bare twigs, or the whistling of a flaring gas-torch protruding from some convenient tree’.[^ref4]  While this eerie representation of Rosherville now appears to be an appropriate site for a supernatural occurrence, it also points towards Guthrie’s understanding of the deterioration of Rosherville (and other contemporary pleasure gardens). Rosherwich/ville is no longer the image of life and vibrancy, instead recognised as a relic of the past. As the narrator nostalgically reflects, ‘[o]n a hot summer’s evening those grounds, brilliantly illuminated and crowded by holiday-makers, have been the delight of thousands of honest Londoners, and will be so again; but it was undeniable that on this particular occasion they were pervaded by a decent melancholy’.[^ref5]  Rosherwich is presented less so, then, as a ‘“place to spend a happy day”’ – as [E. Nesbit]({{ site.baseurl }}/nesbit) puts it in _The Story of an Amulet_ (1906) – and more so as a place where one might _have spent_ a happy day. Guthrie’s (perhaps naively) optimistic hope that the gardens will, once again, be the delight of thousands of holidaymakers strikingly shows him to be clinging on to the past, despite the fast-paced and drastic changes taking place during the latter decades of the nineteenth century. This is perhaps in keeping with his later admission that ‘it would be idle to deny my Victorianism’.[^ref6]  Ultimately, though, _The Tinted Venus_’s depiction of Rosherwich/ville serves – in part – to offer readers an example of Guthrie’s awareness of the transformation of the leisure industry in the late-nineteenth century. 
 
-{% include embed/image.html src="wc:NorthfleetRosherville8793.JPG" aspect="1.333" caption="Northfleet, Rosherville" %}{: .right}
+{% include embed/image.html src="wc:NorthfleetRosherville8793.JPG" aspect="1.333" caption="Northfleet, Rosherville" %}
 
 ### References
 

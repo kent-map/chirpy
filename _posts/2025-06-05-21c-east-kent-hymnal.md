@@ -1,13 +1,14 @@
 ---
 title: "Ham Brooks, Seen from the Main Road"
-description: "A lyric meditation on belonging and memory rooted in the landscape of Ham Brooks. Through images of chalk, harvest fields, marshes, and streams, the essay explores how place shapes the speaker’s sense of self and embodied connection to nature."
+description: "A lyric poem explores Ham Brooks as a formative landscape, where the speaker feels both physically rooted and paradoxically free to move through familiar paths and fields. Close attention to birds, plants, chalk and flint soil, and marsh water builds an intimate sense of place and belonging in East Kent."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Nature & environment, Countryside & farming, Representation & interpretation ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Identity & community ]
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
 layout: post
+auto_float: true
 permalink: /21c/21c-east-kent-hymnal/
 published: true
 toc: false    
@@ -21,7 +22,7 @@ Through flinty subsoil to bald chalk beneath.
 Here I draw sap, which feeds me its vitality,    
 Heals with its memories, allows me breath.   
 
-{% include embed/image.html src="wc:View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg" aspect="1.333" caption="View across Ham Brooks" %}{: .right}
+{% include embed/image.html src="wc:View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg" aspect="1.333" caption="View across Ham Brooks" %}
 
 If I am rooted, how is it I can walk   
 On roads and paths with their familiar dust?   

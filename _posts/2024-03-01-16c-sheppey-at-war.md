@@ -1,13 +1,14 @@
 ---
 title: "Sheppey at war in the 16th century"
-description: "This essay examines how fears of the Spanish Armada in the 1580s prompted new fortifications and militia preparedness on the Isle of Sheppey. It uses Edward Hoby’s report to show tensions between the Crown’s defensive priorities and the everyday hardships imposed on local inhabitants through requisitioning and military demands."
+description: "This essay explores how Sheppey prepared for the threat of the Spanish Armada in the late 16th century, focusing on fortifications, local armouries, and the training of island defenders. It uses Edward Hoby’s report to show tensions between Crown military priorities and the everyday hardships imposed on local households through requisitioning and supply pressures."
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 16c ]
-tags: [ Conflict & war, Coast & sea, Politics & reform, Representation & interpretation ]
+tags: [ Conflict & war, Coast & sea, Culture & society, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
 layout: post
+auto_float: true
 permalink: /16c/16c-sheppey-at-war/
 published: true
 toc: false    
@@ -20,7 +21,7 @@ The Anglo Dutch War was not the first time that [Sheppey](Q1500299) inhabitants 
 	and handling of their severall sortes of weapons, at suche times as we
 	 shalbe thereunto by then…’[^ref2]  
 
-{% include embed/image.html src="wc:Queenborough_Castle_1784.png" aspect="1.456" caption="Queenborough Castle, 1784" %}{: .right}
+{% include embed/image.html src="wc:Queenborough_Castle_1784.png" aspect="1.456" caption="Queenborough Castle, 1784" %}
 
 However, the second half of his report reveals concern for the inhabitants of the island and the impact the defensive programmes might be having on the wellbeing of everyday life on the island:
 
@@ -37,13 +38,13 @@ However, the second half of his report reveals concern for the inhabitants of th
 	any the said provisions, unless he occupy 300 acres of fresh land within the 
 	same at the least.’[^ref3]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" aspect="1.096" caption="Detail of Sheppey" attribution="John Speed map of Kent, 1611" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" aspect="1.096" caption="Detail of Sheppey" attribution="John Speed map of Kent, 1611" %}
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
 
 This article was published: 6 January 2022.
 
-{% include embed/image.html src="wc:Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" aspect="1.502" caption="Sheppey Cliff top" %}{: .right}
+{% include embed/image.html src="wc:Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg" aspect="1.502" caption="Sheppey Cliff top" %}
 
 ### References
 

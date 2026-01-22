@@ -1,13 +1,14 @@
 ---
 title: "John Ruskin"
-description: "This essay traces John Ruskin’s visits to Tunbridge Wells and his 1858 lecture on iron, showing how he connected local features such as the chalybeate spring and the built environment to wider ideas about art, labour, and social responsibility. It situates the lecture within the town’s mid-Victorian culture of self-improvement and the tensions of unemployment and exclusion in public space."
+description: "This essay explores John Ruskin’s 1858 visit to Tunbridge Wells, using his lecture on iron to connect art criticism with social and political commentary on labour, poverty, and respectability. It situates the talk in the town’s spaces and institutions, from the Pantiles and chalybeate spring to local debates about exclusion and unemployment, and traces how Ruskin’s later return reflected anxieties about mechanisation."
 author: Chris Jones
 date: 2024-12-16
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Culture & society ]
+tags: [ Authors & lives, Towns & cities, Politics & reform, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
 toc: false    
@@ -16,7 +17,7 @@ toc: false
 
 <!-- Base map centred on Tunbridge Wells -->
 
-{% include embed/map.html center="Q665489" zoom="15" markers="Q665489" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
+{% include embed/map.html center="Q665489" zoom="15" markers="Q665489" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 <!-- Historical map layers -->
 
@@ -26,37 +27,37 @@ Ruskin had grown up in Herne Hill South London a suburb that had much in common 
 
 Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known writer and commentator. The lecture was said to have been attended by 'perhaps the most fashionable audience' ever assembled there, though it was organised by the Useful Knowledge Institution, a sort of self-improvement group that had grown out of an earlier Mechanics Institution.
 
-{% include embed/image.html src="wc:John_Ruskin_self_portrait_1861.jpg" aspect="0.748" caption="John Ruskin" %}{: .right}
+{% include embed/image.html src="wc:John_Ruskin_self_portrait_1861.jpg" aspect="0.748" caption="John Ruskin" %}
 
 Three years earlier, Ruskin had come to Tunbridge Wells for his health and visited his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend, Pauline Trevelyan, considered it 'an odious place ... how can you go there?'
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" aspect="0.623" caption="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" aspect="0.623" caption="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells" %}
 
-{% include embed/map.html center="51.135441947633204, 0.2632497416948856" zoom="15" markers="51.135441947633204, 0.2632497416948856" allmaps="7c569bcd9d292a49~Bacon's Tunbridge Wells Map c.1870-1890" %}{: .right}
+{% include embed/map.html center="51.135441947633204, 0.2632497416948856" zoom="15" markers="51.135441947633204, 0.2632497416948856" allmaps="7c569bcd9d292a49~Bacon's Tunbridge Wells Map c.1870-1890" %}
 
 Richardson who lived on Mount Ephraim Rd, was a member of the Useful Knowledge Institution and had invited Ruskin to speak. Ruskin had been lecturing for some time at the workings men college in London and a commentator has suggested that he felt more at ease when addressing audiences of a lower social standing, young people, women and girls, and working-class men. The audience of 400 was larger than usual, and may have included some of the wealthier inhabitants yet Ruskin seems to have been determined to address social issues as much as art.
 
-{% include embed/map.html center="51.13483875552608, 0.2616101791371244" zoom="15" markers="51.13483875552608, 0.2616101791371244" allmaps="7c569bcd9d292a49~Bacon's Tunbridge Wells Map c.1870-1890" %}{: .right}
+{% include embed/map.html center="51.13483875552608, 0.2616101791371244" zoom="15" markers="51.13483875552608, 0.2616101791371244" allmaps="7c569bcd9d292a49~Bacon's Tunbridge Wells Map c.1870-1890" %}
 
 It was Ruskin’s style to challenge preconceptions about his subject. In the section 'Iron in Nature' he focused on iron in the form of rust, what he called its living state. He reminded the audience of the 'saffron stain' on the chalybeate spring that was so important to the town; and claimed that much of the beauty of the British landscape came from the rich rust colour of the bricks and tiles in country cottages. 
 
-{% include embed/image.html src="wc:The_Chalybeate_Spring_-_geograph.org.uk_-_3651499.jpg" aspect="0.672" caption="The Chalybeate Spring" %}{: .right}
+{% include embed/image.html src="wc:The_Chalybeate_Spring_-_geograph.org.uk_-_3651499.jpg" aspect="0.672" caption="The Chalybeate Spring" %}
 
 In ‘Iron in Art’, Ruskin presented two of his favourite ideas: that art must result from both feeling and labour, and that artists must utilise the particular qualities of their materials. Iron was workable, tenacious and ductile. It could be formed into natural shapes. This led to condemnation of iron fencing around houses which he considered exclusionary. It said to the passer-by 'you may be an honest person, - but, also, you may be a thief; honest or not, you should not get in here, for I am a respectable person, and much above you.' It was a bit contrived: a contemporary was equally critical of the high brick walls in Victoria Park, Manchester, which made it feel like a series of private madhouses and surely the thick double hedges in [Calverley Park](Q123301949) Gardens we're equally excluding. Indeed, in February 1858, proposals were made to exclude the public from Calverley Park.
 
-{% include embed/image.html src="wc:Calverley_Park_-_geograph.org.uk_-_3628251.jpg" aspect="1.488" caption="Calverley Park" %}{: .right}
+{% include embed/image.html src="wc:Calverley_Park_-_geograph.org.uk_-_3628251.jpg" aspect="1.488" caption="Calverley Park" %}
 
 The section on 'Iron in Policy' was even more political. It was built around 3 items: the plough, the fetter, and the sword. It was on the plough, though, and its female equivalent, the needle, that he really focused. They represented labour, and what he called a law of nature: that wealth and happiness were essentially connected to labour. It led to what was effectively a sermon on the 'oppression of the poor'. He suggested to his listeners that even they might be guilty of oppressing the poor - by looking to buy things cheaply, they were stealing from the creators: 'we gild our prayer-books with pilfered pence out of children's and sick men's wages'.
 
 To many in the audience it probably resonated uncomfortably with recent events in the town. It was a time of distress among the working population. Earlier that month there had been a demonstration of unemployed men outside the town hall seeking work. Triggered by this, Canon Hoare had called a meeting and a 'Labour Fund Committee' was formed to find useful ways of employing them. This caused some anguish to the editor of _The Gazette_. While approving of such schemes in general, he regretted that action had not been taken earlier - it would now look as though they were responding to threats.
 
-{% include embed/image.html src="wc:The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg" aspect="2.627" caption="The Book of the Farm, 1851" %}{: .right}
+{% include embed/image.html src="wc:The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg" aspect="2.627" caption="The Book of the Farm, 1851" %}
 
 Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve was overturned by the mechanisation of agriculture.
 
 This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate]({{ site.baseurl }}/placeskz/sandgate-overview/) in another Kent Maps article.
 
-{% include embed/image.html src="wc:Calverleyhotel.jpg" aspect="1.333" caption="Calverley Hotel, Tunbridge Wells, 1860" %}{: .right}
+{% include embed/image.html src="wc:Calverleyhotel.jpg" aspect="1.333" caption="Calverley Hotel, Tunbridge Wells, 1860" %}
 
 ### References
 

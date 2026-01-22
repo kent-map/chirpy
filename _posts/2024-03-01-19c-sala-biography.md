@@ -4,10 +4,11 @@ description: "A visual essay by Michelle Crowther introducing the life and work 
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Travel & mobility, Maps & place-making ]
+tags: [ Authors & lives, Coast & sea, Travel & mobility, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-sala-biography/
 published: true
 toc: false    
@@ -18,7 +19,7 @@ toc: false
 
 <!-- Basemap centred on Dover -->
 
-{% include embed/map.html center="Q179224" zoom="11.25" markers="Q179224" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="11.25" markers="Q179224" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
 <!-- Historical map layers --> 
 
@@ -32,11 +33,11 @@ George describes their arrival in England in the winter of 1840:
 
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy.” It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed having spent a considerable sum on the journey.[^ref4]
 
-{% include embed/image.html src="wc:Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" aspect="1.338" caption="Landing at Dover from the Steam Packet" %}{: .right}
+{% include embed/image.html src="wc:Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" aspect="1.338" caption="Landing at Dover from the Steam Packet" %}
 
 <!-- Basemap centred on Sandgate -->
 
-{% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
+{% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 On arriving in [Dover]({{ site.baseurl }}/19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover]({{ site.baseurl }}/19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover]({{ site.baseurl }}/19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 
@@ -44,11 +45,11 @@ The Salas received much support from friends at this time, including Lady Fitzro
 
 Sala also remembers meeting the Duke of Wellington, who was walking along Snargate Street, with Lord Fitzroy Somerset. The Duke patted him on the head and “hoped that I was good to my mother”.[^ref7] George was "immensely delighted" and set off to write a "compendious biography of the Duke of Wellington on a slate".[^ref8] 
 
-{% include embed/image.html src="wc:Arthur_Wellesley%2C_1st_Duke_of_Wellington_by_John_Jackson_cropped.jpg" aspect="0.827" caption="Arthur Wellesley, 1st Duke of Wellington" %}{: .right}
+{% include embed/image.html src="wc:Arthur_Wellesley%2C_1st_Duke_of_Wellington_by_John_Jackson_cropped.jpg" aspect="0.827" caption="Arthur Wellesley, 1st Duke of Wellington" %}
 
 The family moved into furnished first floor apartments at 64, Snargate Street, which Sala described as “opposite the Heights, the little summer-houses on the gentle slopes of which used to fill me with huge delight.”[^ref9] The land-lady gave the children "Fleet cakes" - "thin, brown, crisp parallelopipeds, into the composition of which hog's lard enters somewhat too largely".[^ref10] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" aspect="1.64" caption="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" aspect="1.64" caption="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd" %}
 
 In December, despite her failing eyesight, a consequence of suffering smallpox in 1838, Madame Sala “kindly consented” to act as Miss Wyndham in 'The Culprit' and as Mrs Gregory in 'The Two Gregories' and also performed arias at the Theatre Royal. The Theatre which was at 87, Snargate Street [^ref11] was being run by Miss Caroline Darling “a tall and attenuated young lady, who was supposed to excel in “pantaloon parts.” [^ref12] 
 
@@ -56,20 +57,20 @@ Sala’s older brother Charles who was “anxious to enact Hamlet the Dane ” p
 
 Early in 1841, Madame Sala along with Mrs Reignolds, hosted a grand ball at the Apollonion Hall, a newly built hall and tavern, on the corner of Snargate Street. Tickets were 6s for the gentlemen and 5 shillings for the ladies.[^ref16] and the entertainment included a quadrille band, refreshments and card room.  The ball proved to be very popular and Snargate Street was “blocked with travelling carriages and postchaises”[^ref17] It was attended by the officers of the garrison as well as the county families from [Folkestone]({{ site.baseurl }}/19c/19c-folkestone), [Hythe](Q967166) and [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview). 
 
-{% include embed/image.html src="wc:Madame_Sala.png" aspect="0.724" caption="Madame Sala, stage name of Henrietta Catharina Florentina (née Simon) Sala, British actress and singer fl 1827-1859 and mother of George Augustus Sala" %}{: .right}
+{% include embed/image.html src="wc:Madame_Sala.png" aspect="0.724" caption="Madame Sala, stage name of Henrietta Catharina Florentina (née Simon) Sala, British actress and singer fl 1827-1859 and mother of George Augustus Sala" %}
 
 The military would have been ever present during Sala's time at [Dover](19c/19c-dover), with the garrison stationed at the Western Heights on the cliffs above Snargate Street. Sala observed
 the funeral cortege of an twenty-six year old assistant surgeon from his drawing room window in Snargate Street: “the dead man’s cocked hat and sword lying on the Union Jack which was the pall of his coffin”. [^ref18] Dr Everard had been killed in a brawl outside the Grand Shaft and his funeral left a deep impression on the young Sala.[^ref19] 
 
 Describing Snargate Street years later, Sala wrote "when I saw the entrance to the shaft, and the red-jacketed soldiers lounging about - the officers wore blue frogged surtouts, and not scarlet shell-jackets in my time, - I felt reassured, and recognised in all their pristine freshness, the beloved scenes of my youth."[^ref20]
 
-{% include embed/image.html src="wc:Dover_2010_08_14_0074.jpg" aspect="1.494" caption="The Grand Shaft, Dover" %}{: .right}
+{% include embed/image.html src="wc:Dover_2010_08_14_0074.jpg" aspect="1.494" caption="The Grand Shaft, Dover" %}
 
 The proceeds from the ball at the Appolonian enabled Madame Sala to equip herself for the London season.[^ref21] Leaving [Dover](Q179224), for London,  Sala recalls “we were fain to be very frugal in our journey to the metropolis.” They travelled from [Dover](19c/19c-dover) to [Canterbury](19c/19c-canterbury) by stage-coach, after which, Madame Sala and Charles took a postchaise to [Herne Bay](Q929286); “and we children followed in an anomalous vehicle drawn by two horses which was half a coach and half a fly; the driver of the vehicle seeming himself somewhat diffident in defining its character. He spoke of it as “conveyance.””[^ref22] At Herne Bay steam packets sailed to London Bridge Wharf on Mondays, Wednesdays and Fridays for a fare of 5 or 6 shillings.[^ref23]
 
 Sala admits that he remembers nothing of Herne Bay “save a prodigiously protracted pier, very soon to be immortalised in the pages of the not yet nascent _Punch_.”[^ref24] 
 
-{% include embed/image.html src="wc:1st_Herne_Bay_Pier_1837.jpg" aspect="1.8" caption="Herne Bay Pier, 1837" %}{: .right}
+{% include embed/image.html src="wc:1st_Herne_Bay_Pier_1837.jpg" aspect="1.8" caption="Herne Bay Pier, 1837" %}
 
 During his time at Dover, the thirteen-year-old Sala wrote his first novel entitled “Jemmy Jenkins: or, the Adventures of a Sweep” which was subsequently lost, revealing his early ambitions as a writer.[^ref25] His mother's connections with the stage brought him into the company of men of letters and in 1851 he attracted the attention of [Charles Dickens](dickens/dickens-biography).
 
@@ -77,7 +78,7 @@ Sala began to write for _Household Words_ in 1851 and in 1856 travelled to Russi
 
 Returning from his visit to the continent, Sala read a review of his book at the Lord Warden Hotel, [Dover](19c/19c-dover), having decided to spend the day “at the venerable Kentish watering place” after a rather rough passage from Calais. The reviewer had described the book as “a bundle of impertinences” and insinuated that Sala was “an idiot, a libeller and a snob”. Sala “read and re-read it, quite forgetting my breakfast.”[^ref27] The review did not damage his reputation however, and a second edition was produced. 
 
-{% include embed/image.html src="wc:Charles_Dickens_circa_1860.jpg" aspect="0.687" caption="Charles Dickens, c.1860" %}{: .right}
+{% include embed/image.html src="wc:Charles_Dickens_circa_1860.jpg" aspect="0.687" caption="Charles Dickens, c.1860" %}
 
 Sala retained a fondness for [Dover]({{ site.baseurl }}/19c/19c-dover) and wrote about it in his article 'The Streets of the World' published in _Temple Bar_ in 1864, describing his mother's practice of reading liturgy to her children from "a little brown-covered, battered, yellow-stained, dog's-eared book" in the mornings and evenings in their home in Snargate Street.[^ref28] 
 
@@ -91,11 +92,11 @@ Sala also visited [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) and [Sandg
 
 This article was published: 13 November 2021.
 
-{% include embed/image.html src="wc:GeorgeAugustusSala1828-1895.jpg" aspect="0.656" caption="George Augustus Sala" %}{: .right}
+{% include embed/image.html src="wc:GeorgeAugustusSala1828-1895.jpg" aspect="0.656" caption="George Augustus Sala" %}
 
 <!-- Basemap centred on Folkstone -->
 
-{% include embed/map.html center="Q375314" zoom="11" markers="Q375314" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="11" markers="Q375314" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 ### Bibliography
 

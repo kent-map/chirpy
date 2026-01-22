@@ -9,6 +9,23 @@ script_includes:
 - comment
 ---
 
+<script>
+  let sidebar = document.querySelector('div.sidebar-bottom');
+  let modeToggle = document.createElement('a');
+  modeToggle.id = 'col-mode-toggle';
+  modeToggle.setAttribute('aria-label', 'Column Mode Toggle');
+  modeToggle.setAttribute('rel', 'noopener noreferrer');
+  modeToggle.style.cursor = 'pointer';
+  let icon = document.createElement('i');
+  icon.className = 'fa-solid fa-table-columns';
+  modeToggle.appendChild(icon);
+
+  const ghLink = sidebar.children[2];
+  if (ghLink) {
+    ghLink.replaceWith(modeToggle);
+  }
+</script>
+
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 {% include lang.html %}
@@ -38,82 +55,91 @@ script_includes:
       {% endif %}
 
       {% if page.image %}
-      {%- assign raw_src = page.image.path | default: page.image -%}
-      {%- assign transform = page.image.transform | default: "w_1200,h_630,c_fill" -%}
+      {% assign raw_src = page.image.path | default: page.image %}
 
-      {%- comment -%}
-      Rewrite src to:
-      http://iiif.juncture-digital.io/image/<src>/<transform>
+      {%- capture src -%}
+      {%- include url_from_src.html src=raw_src media_subpath=page.media_subpath mw_width=1200 -%}
+      {%- endcapture -%}
+      {%- assign src = src | strip -%}
 
-          Rules:
-          - Preserve slashes (service supports them)
-          - Replace spaces with %20 (Commons filenames, etc.)
-          - Clean up accidental double slashes
-          {%- endcomment -%}
+      {%- assign commons_thumb_prefix = "https://upload.wikimedia.org/wikipedia/commons/thumb" -%}
 
-          {%- assign base = "https://d1co2zgwaj21sl.cloudfront.net/image/" -%}
-          {%- assign src_safe = raw_src | strip | replace: ' ', '%20' -%}
-          {%- assign transform_safe = transform | strip | replace: ' ', '%20' -%}
-          {%- assign iiif_src = base | append: src_safe | append: '/' | append: transform_safe -%}
+      {%- assign do_resize = true -%}
 
-          {% capture src %}src="{{ iiif_src }}"{% endcapture %}
-          {% capture class %}class="preview-img{% if page.image.no_bg %} no-bg{% endif %}"{% endcapture %}
-          {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+      {%- if page.image.resize == false -%}
+      {%- assign do_resize = false -%}
+      {%- elsif src contains commons_thumb_prefix -%}
+      {%- assign do_resize = false -%}
+      {%- endif -%}
 
-          {% if page.image.lqip %}
-          {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+      {%- if do_resize -%}
+      {%- assign base = "https://res.cloudinary.com/dmceci9t1/image/fetch/" -%}
+      {%- assign transform_safe = "w_1200,h_630" -%}
+      {%- assign src_safe = src | url_encode -%}
+      {%- assign final_src = base | append: transform_safe | append: "/" | append: src_safe -%}
+      {%- else -%}
+      {%- assign final_src = src -%}
+      {%- endif -%}
+
+      {% capture src %}src="{{ final_src }}"{% endcapture %}
+
+      {% capture class %}class="preview-img{% if page.image.no_bg %} no-bg{% endif %}"{% endcapture %}
+      {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+
+      {% if page.image.lqip %}
+      {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+      {% endif %}
+
+      <div class="mt-3 mb-3">
+        <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
+        {%- if page.image.alt -%}
+        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+        {%- endif -%}
+      </div>
+      {% endif %}
+
+      <div class="d-flex justify-content-between">
+        <!-- author(s) -->
+        <span>
+          {% if page.author %}
+          {% assign authors = page.author %}
+          {% elsif page.authors %}
+          {% assign authors = page.authors %}
           {% endif %}
 
-          <div class="mt-3 mb-3">
-            <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
-            {%- if page.image.alt -%}
-            <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-            {%- endif -%}
-          </div>
+          {{ site.data.locales[lang].post.written_by }}
+
+          <em>
+            {% if authors %}
+            {% for author in authors %}
+            {% if site.data.authors[author].url -%}
+            <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+            {%- else -%}
+            {{ site.data.authors[author].name | default: author }}
+            {%- endif %}
+            {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
+            {% endfor %}
+            {% else %}
+            <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+            {% endif %}
+          </em>
+        </span>
+
+        <div>
+          <!-- pageviews -->
+          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+          <span>
+            <em id="pageviews">
+              <i class="fas fa-spinner fa-spin small"></i>
+            </em>
+            {{ site.data.locales[lang].post.pageview_measure }}
+          </span>
           {% endif %}
 
-          <div class="d-flex justify-content-between">
-            <!-- author(s) -->
-            <span>
-              {% if page.author %}
-              {% assign authors = page.author %}
-              {% elsif page.authors %}
-              {% assign authors = page.authors %}
-              {% endif %}
-
-              {{ site.data.locales[lang].post.written_by }}
-
-              <em>
-                {% if authors %}
-                {% for author in authors %}
-                {% if site.data.authors[author].url -%}
-                <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-                {%- else -%}
-                {{ site.data.authors[author].name | default: author }}
-                {%- endif %}
-                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
-                {% endfor %}
-                {% else %}
-                <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-                {% endif %}
-              </em>
-            </span>
-
-            <div>
-              <!-- pageviews -->
-              {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
-              <span>
-                <em id="pageviews">
-                  <i class="fas fa-spinner fa-spin small"></i>
-                </em>
-                {{ site.data.locales[lang].post.pageview_measure }}
-              </span>
-              {% endif %}
-
-              <!-- read time -->
-              {% include read-time.html content=content prompt=true lang=lang %}
-            </div>
-          </div>
+          <!-- read time -->
+          {% include read-time.html content=content prompt=true lang=lang %}
+        </div>
+      </div>
     </div>
   </header>
 
@@ -143,9 +169,10 @@ script_includes:
 
   <hr />
 
-  <div class="content">
-    {{ content }}
-  </div>
+  <main>
+    <div class="post-content">{{ content }}</div>
+    <div class="viewer"></div>
+  </main>
 
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
@@ -194,4 +221,27 @@ script_includes:
   <!-- div.post-tail-wrapper -->
 </article>
 
-<script src="{{ '/assets/js/main.js' | relative_url }}" type="module"></script>
+<script type="module">
+
+  import { isMobile, autoFloat, makeEntityPopups, wrapAdjacentEmbedsAsTabs, addActionLinks, init2col } from "{{ '/assets/js/main.js' | relative_url }}";
+
+  makeEntityPopups();
+  wrapAdjacentEmbedsAsTabs();
+  addActionLinks();
+
+  let doAutoFloat = '{{ page.auto_float | default: "false" }}'.toLowerCase() === 'true';
+  if (doAutoFloat && !isMobile) autoFloat();
+
+  let mainWrapper = document.getElementById('main-wrapper');
+  mainWrapper.classList.add('col1');
+  document.getElementById('col-mode-toggle')?.addEventListener('click', () => {
+    if (mainWrapper.classList.contains('col2')) {
+      mainWrapper.classList.remove('col2');
+      mainWrapper.classList.add('col1');
+    } else {
+      mainWrapper.classList.remove('col1');
+      mainWrapper.classList.add('col2');
+      init2col();
+    }
+  });
+</script>

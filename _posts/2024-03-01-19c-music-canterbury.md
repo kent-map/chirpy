@@ -1,13 +1,14 @@
 ---
 title: "Music in Canterbury"
-description: "This essay explores the lively musical culture of Canterbury in the late eighteenth and nineteenth centuries through newspapers, club records, and contemporary directories. It maps the social and economic networks of the city’s bourgeois musical clubs, showing how proximity, affluence, and travel links to London sustained regular concerts and convivial after-hours singing."
+description: "This essay explores musical life in Canterbury in the late eighteenth and nineteenth centuries, focusing on clubs, venues, and newspaper accounts of performances and sociability. It uses mapping and directory evidence to show how members lived and worked in close proximity, linking urban geography to networks of class, affluence, and cultural identity."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ Arts & performance, Towns & cities, Culture & society, Maps & place-making ]
+tags: [ Arts & performance, Towns & cities, Maps & place-making, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /music/19c-music-canterbury/
 published: true
 toc: false    
@@ -18,25 +19,25 @@ A glance through the pages of a local paper at any point in the eighteenth and n
 
 'On Wednesday evening the [Canterbury](Q29303) Catch Club concert, under the direction of Mr Thomas Goodban, was exceedingly entertaining. The overtures were performed with much spirit, and the glees and songs elicited unbounded applause, particularly the inspiring song of ‘Blue Bonnets over the Border’ by Mr Beckwith, which was encored. In the course of the evening Mr Longhurst introduced a new instrument of his invention, which is a species of organ, and is an admirable accompaniment to that instrument and the pianoforte, and from its soft and melodious tones, we doubt not will soon become indispensable in every music room. It is termed the ‘Flautocufolicon’, and can be made to any size at a very moderate expense. The room was crowded, and the evening passed off with great eclat.'[^ref1] 
 
-{% include embed/image.html src="https://deriv.nls.uk/dcn30/1050/0038/105000383.30.jpg" aspect="1.524" caption="Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &c." attribution="National Library of Scotland 	Glen.88(1) Attribution 4.0 International CC BY 4.0" %}{: .right}
+{% include embed/image.html src="https://deriv.nls.uk/dcn30/1050/0038/105000383.30.jpg" aspect="1.524" caption="Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &c." attribution="National Library of Scotland 	Glen.88(1) Attribution 4.0 International CC BY 4.0" %}
 
 Founded in 1779 – of which it was very proud – and very self-consciously modelled on the grandfather of all such clubs, the London Nobleman and Gentlemen’s Catch (founded 1661), the [Canterbury Catch Club]({{ site.baseurl }}/music/19c-catch-club) met every Wednesday evening throughout the winter season, from late September to March/April. In 1833, it seems, a friendly rival was set up: the Apollonian Glee Club met on Fridays. Which means that at this point in [Canterbury's]({{ site.baseurl }}/19c/19c-canterbury) cultural history, the city's bourgeoisie could enjoy two weekly concerts of vocal and instrumental music which catered to an eclectic taste, throughout the winter months: records survive, showing a full evening's programme consisting of solo songs, glees, and instrumental music: overtures from the very latest operas of the day or, later in the nineteenth century, dance forms such as quadrilles and polkas. This is a level of cultural production and consumption which would be far beyond the wildest dreams of present-day arts organisers.
 
-{% include embed/image.html src="wc:Glee_singers_%28BM_1878%2C1012.382%29.jpg" aspect="1.476" caption="Glee Singers" %}{: .right}
+{% include embed/image.html src="wc:Glee_singers_%28BM_1878%2C1012.382%29.jpg" aspect="1.476" caption="Glee Singers" %}
 
 It’s even more remarkable when the membership is put on a map. The Club’s records are full of the names of members, and they can be located by means of contemporary directories. A map of the city dating from 1807, reveals that about a dozen of them lived on the same street – the long central thoroughfare running diagonally north-west to south-east of the city, comprising St Peter’s Street, High Street, Parade, and St George’s Street. Several more lived and/or worked in St Margaret’s Street, which runs south-west from the centre of the city. Another dozen or so had their dwellings or premises within a few minutes’ walk of the cathedral. No-one within the city walls would have lived more than fifteen minutes’ walk from anyone else, and within those walls were to be found all the necessities of life: in the few hundred yards’ stretch labelled High Street, for example, according to Pigot, were to be found Pout the auctioneer, the bookseller George Wood, cabinet-maker William Arnold, two grocers, two hatters, an ironmonger, two linen drapers, a tailor, a chandler, a watch-maker, a pub (The Chequers), a carrier for goods to [Dover]({{ site.baseurl }}/dickens/19c-dover), and a coach to London. The geographical proximity tightens the economic relations binding this small community together. Cheek by jowl, they lived, worked, traded, socialised and celebrated with each other in a set of overlapping networks. The men in the [Canterbury Catch Club]({{ site.baseurl }}/music/19c-catch-club) knew each other well.
 
-{% include embed/image.html src="wc:Archaeologia_cantiana_%281883%29_%2814782593812%29.jpg" aspect="1.113" caption="Map of Canterbury, Archaeologia Cantiana, 1883" %}{: .right}
+{% include embed/image.html src="wc:Archaeologia_cantiana_%281883%29_%2814782593812%29.jpg" aspect="1.113" caption="Map of Canterbury, Archaeologia Cantiana, 1883" %}
 
-{% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="4478e36824ad9d1a~Greenwood 1829" %}{: .right}
+{% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
 That such a club could be sustained is testament to the city's relative affluence: a growing bourgeoisie was eager to support such institutions, since apart from offering a good evening's entertainment they provided important networking opportunities. This is captured neatly in a very self-congratulatory lithograph dated 1826, commissioned by one of the members, Henry Ward, a local newsagent. It claims to show likenesses of many members, and those named can be corroborated  by local records, but at this distance the more interesting features of the print relate to the conspicuous consumption – of alcohol, tobacco, and music – in a setting freighted with cultural signifiers. This is an explicit statement of aspirational socio-political identity. The features of the 25 musicians in the background are lost in the haze. But it is worth noting two things by way of context: the popularity of these clubs across the nation, and the fact that this respectable, posed informality fails to tell the whole story. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/Beaney.jpg" aspect="1.214" caption="Thomas Mann Baynes. The Canterbury Catch Club in full session in their room at the Prince of Wales - printed by Henry Ward, 1826" attribution="By permission of Canterbury Museums and Galleries" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/Beaney.jpg" aspect="1.214" caption="Thomas Mann Baynes. The Canterbury Catch Club in full session in their room at the Prince of Wales - printed by Henry Ward, 1826" attribution="By permission of Canterbury Museums and Galleries" %}
 
 The first point is simply stated: any sizeable town had a club such as this. Newspaper records testify to their existence in the nearby towns of Ashford (population in 1821, according to _Pigot's Directory of 1824_: 2,773), Deal (6,801), Dover (11,468), [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) (3,989), and Faversham (3,900). All are between 9 and 18 miles distant from [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) (population: 12,745), and it’s clear that this was a distance musicians were prepared to travel to ply their wares.
 
-{% include embed/image.html src="wc:Travelling_Musicians_page_25.png" aspect="1.366" caption="Travelling Musicians in the Battle of Life, Charles Dickens" %}{: .right}
+{% include embed/image.html src="wc:Travelling_Musicians_page_25.png" aspect="1.366" caption="Travelling Musicians in the Battle of Life, Charles Dickens" %}
 
 The second point relates to the first: these clubs' popularity may be due in no small part to the fact that when the formal concert was over, the fun was only just beginning. You don’t see this in the print. In fact, evidence is hard to find, but the diaries of men like [John Marsh]({{ site.baseurl }}/music/19c-john-marsh-biography) and the London-based R.J.S. Stevens (1757–1837) give quite detailed accounts of the conviviality which ensued, to the accompaniment of a great deal of alcohol. [Dickens]({{ site.baseurl }}/dickens/dickens-biography) describes a ‘Harmonic Meeting’ in one of the ‘Sketches by Boz’ (‘London by Night’) and, later in the nineteenth century, Thackeray paints a raucous picture of the whole of England ‘sounding with choruses, some ribald, some harmless, but all occasioning the consumption of a prodigious deal of fermented liquor.’ A more local account was rescued by the musicologist Percy Scholes just before the crucial witness died: this account by a Mr Mount can be only approximately dated, but it seems roughly contemporary with the print:   
 
@@ -44,7 +45,7 @@ The second point relates to the first: these clubs' popularity may be due in no 
 
 The ‘amateur free and easy singing’ of the ‘after evening’ Mr Mount describes probably included more comic songs from the leading lights of the club’s entertainment roster, but it is utterly beyond question that most of the music being enjoyed in these fiercely convivial evenings was the quintessentially participatory genre, the [catch](19c-catch-music). 
 
-{% include embed/image.html src="https://user-images.githubusercontent.com/64199349/128225474-c0f41403-0413-4549-8f2a-e765d8e2601a.png" aspect="0.835" caption="The Free and Easy by George Cruikshank, 8 February 1836" attribution="Scanned image by Paul Schlicke, and text by Philip V. Allingham" %}{: .right}
+{% include embed/image.html src="https://user-images.githubusercontent.com/64199349/128225474-c0f41403-0413-4549-8f2a-e765d8e2601a.png" aspect="0.835" caption="The Free and Easy by George Cruikshank, 8 February 1836" attribution="Scanned image by Paul Schlicke, and text by Philip V. Allingham" %}
 
 Notwithstanding all the comings and goings around the city in this period of about a century, the most important road for serious musicians was probably the one between [Canterbury and London]({{ site.baseurl }}/dickens/david-copperfield-dover-road). There are two main sources of evidence for this.
 The first is the enormous number of newspaper reports of convivial evenings which featured visiting performers from the capital. Indeed, this became a bone of contention for the [Canterbury Catch Club]({{ site.baseurl }}/music/19c-catch-club) in the latter part of the nineteenth century, as they committed hefty chunks of members’ subscriptions to this aspect of the Club’s evenings. The Minutes for 12 March 1860 record:
@@ -53,7 +54,7 @@ The first is the enormous number of newspaper reports of convivial evenings whic
 
 That would be about £500 in present-day value. It’s worth noting that the Mr. Macknay noted above had been paid the same amount in 1855. Given the Club’s declining membership, this was unsustainable. We have no way of knowing what most of the visitors charged for their appearances, but a safe bet is that one of the greatest musicians of the early nineteenth century would have charged a lot more for his appearance in 1834.
 
-{% include embed/image.html src="wc:Thomas_Rowlandson_-_The_Canterbury-Dover_Coach_Passing_Vanbrugh_Castle_-_Google_Art_Project.jpg" aspect="1.564" caption="The Canterbury-Dover Coach passing Vanbrugh Castle" %}{: .right}
+{% include embed/image.html src="wc:Thomas_Rowlandson_-_The_Canterbury-Dover_Coach_Passing_Vanbrugh_Castle_-_Google_Art_Project.jpg" aspect="1.564" caption="The Canterbury-Dover Coach passing Vanbrugh Castle" %}
 
 ### Bibliography
 

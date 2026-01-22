@@ -8,6 +8,7 @@ tags: [ Texts & genres, Countryside & farming, Nature & environment, Representat
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
 layout: post
+auto_float: true
 permalink: /21c/21c-back-path-hirst/
 published: true
 toc: false    

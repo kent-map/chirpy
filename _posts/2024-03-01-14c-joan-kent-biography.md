@@ -1,34 +1,36 @@
 ---
 title: "Joan of Kent (1328-1385): the first Princess of Wales "
-description: "This essay traces the life of Joan of Kent (1328–1385), highlighting her family background, contested reputation, and the political scandals surrounding her marriages. It connects her story to Kent sites including Canterbury Cathedral and Wickhambreaux, and to wider events such as the Peasants’ Revolt of 1381."
+description: "This essay reconstructs the life of Joan of Kent (c.1328–1385), tracing her lineage, contested marriages, and political influence as the first Princess of Wales and mother of Richard II. It connects her story to key Kent sites such as Canterbury Cathedral and considers how chroniclers and later sources shape what can be known about her."
 author: Madelaine Lennon and Dr Liz Askey
 date: 2024-03-01
 categories: [ medieval ]
-tags: [ Authors & lives, Buildings & architecture, Politics & reform, Heritage & memory ]
+tags: [ Authors & lives, Buildings & architecture, Representation & interpretation, Politics & reform ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral_07.JPG"
 layout: post
+auto_float: true
 permalink: /medieval/14c-joan-kent-biography/
 published: true
-toc: false    
+toc: false
+featured: true
 ---
 
 Joan of Kent – referred to posthumously as the ‘fair maid of Kent’ by chronicler Jean Froissart[^ref1]  – was an influential female figure in the history of Kent. Froissart is thought to be an unreliable narrator. Nonetheless, ‘according to the writer known as the Chandos Herald, Joan was "a lady of great worth … very beautiful, pleasing and wise"...Not everyone was so kind'[^ref2] primarily because of the scandal of her first two marriages. Joan’s life is not extensively recorded in history. Even the exact year of her birth is unknown, although 1328 seems most likely. However, Joan is thought to be depicted in two ceiling bosses in [Canterbury](Q29303) Cathedral. She is shown in both with a fashionable headdress which is either a goffered veil (also known as a nebule) or a caul.[^ref3]  Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother in 1352.
 
-{% include embed/image.html src="wc:Joan_of_Kent.jpg" aspect="0.729" caption="Joan of Kent" %}{: .right}
+{% include embed/image.html src="wc:Joan_of_Kent.jpg" aspect="0.729" caption="Joan of Kent" %}
 
 Joan was the daughter of Prince Edmund of Woodstock, the first Earl of Kent, and his wife Margaret Wake. Edmund was the sixth son of King Edward I of England. The world Joan was born into was one of scheming and changes in power and treachery. In 1327, Edward II was overthrown. Edmund, who had been an unreliable supporter of the deposition of his half-brother, Edward II, became a target of Edward’s widow, Queen Isabella, and her lover Roger Mortimer. Edmund was arrested for treason during the parliament held in Winchester, in March of 1330, and rapidly executed. After this, Froissart tells us that Joan was brought up in the royal nursery, alongside Edward the Black Prince and John of Gaunt, under the guidance of Queen Phillipa, wife of Edward III.[^ref4] 
 
-{% include embed/image.html src="wc:Edmund_of_Woodstock%2C_1st_Earl_of_Kent.png" aspect="0.828" caption="Edmund of Woodstock, 1st Earl of Kent" %}{: .right}
+{% include embed/image.html src="wc:Edmund_of_Woodstock%2C_1st_Earl_of_Kent.png" aspect="0.828" caption="Edmund of Woodstock, 1st Earl of Kent" %}
 
 Joan of Kent’s three marriages had one thing in common – scandal. In 1339-1340, when Joan was in her early teens, she married the knight Sir Thomas Holland. The couple were married privately, and without the blessing of the King, who, while Joan’s older brother John was a minor, had the right to arrange her marriage. Holland was not a bridegroom that Joan’s guardians would have selected themselves; he was landless, without political benefits, and unlikely to inherit any titles. In February 1341, when Holland was away on crusade, Joan was betrothed to William Montagu, the first earl of Salisbury, and they were married soon after. In 1347, Holland petitioned to the papal court, asking that the marriage between Joan and Montague be declared invalid, on the grounds that Holland and Joan had been lawfully married and had consummated the union. On the 13th of November, 1349 a papal bull was issued declaring the marriage between Joan and Montague null and void. 
 
-{% include embed/image.html src="wc:William_Montagu.jpg" aspect="0.691" caption="William Montagu, 1st Earl of Salisbury (1301-1344), detail from the Salisbury Roll, Copy A c.1483-5" %}{: .right}
+{% include embed/image.html src="wc:William_Montagu.jpg" aspect="0.691" caption="William Montagu, 1st Earl of Salisbury (1301-1344), detail from the Salisbury Roll, Copy A c.1483-5" %}
 
 Joan’s third marriage, after the death of Holland, was to Edward, the Black Prince. For a second time, Joan married privately and without the blessing of the king. By all accounts, this union was a love match, ‘she already had 5 children by Sir Thomas Holland, and her first husband, the Earl of Salisbury, was still alive’.[^ref5] Joan’s marriage to the Black Prince made her the first Princess of Wales and the Princess of Aquitaine. Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother. With Edward, Joan had two sons, one of whom would later become King Richard II of England. 
  The Black Prince died of dysentery in 1376 and is buried in Canterbury Cathedral. Consequently Joan’s son, Richard, became king at the passing of King Edward III in June 1377. Joan was known to visit her husband’s tomb with its elaborate tomb effigy every year on the anniversary of his death, probably staying in a manor she owned in [Wickhambreaux](Q3092462).
 
-{% include embed/image.html src="wc:Tomb_of_The_Black_Prince%2C_Canterbury_Cathedral_-_geograph.org.uk_-_2638379.jpg" aspect="1.508" caption="Tomb of the Black Prince, Canterbury Cathedral" %}{: .right}
+{% include embed/image.html src="wc:Tomb_of_The_Black_Prince%2C_Canterbury_Cathedral_-_geograph.org.uk_-_2638379.jpg" aspect="1.508" caption="Tomb of the Black Prince, Canterbury Cathedral" %}
 
 The _Anonimalle Chronicle_ is thought to be the most accurate source of the Peasants’ Revolt of 1381 and it documents that some of the rebels came face to face with Joan on her return journey from visiting her husband’s tomb in the first week of June.[^ref6]  Froissart ‘recounts that the Princess was startled and, although they did not harm her, they treated her rudely.’[^ref7]  On 14th June, Richard met with the leading rebels at Mile End. Richard rode in a great royal procession with Joan following in a whirligig.[^ref8]  But the crowd of rebels turned into a baying mob and Joan, in fear of her life, fled to the safety of the London Tower.[^ref9] 
 
@@ -36,7 +38,7 @@ Joan was known to have been a calming influence on Richard and a loyal ally to h
 
 This article was published: 6 January 2023.    
 
-{% include embed/image.html src="wc:Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg" aspect="1.037" caption="Richard II meeting with the rebels of the Peasants' Revolt of 1381" %}{: .right}
+{% include embed/image.html src="wc:Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg" aspect="1.037" caption="Richard II meeting with the rebels of the Peasants' Revolt of 1381" %}
 
 ### Bibliography
 

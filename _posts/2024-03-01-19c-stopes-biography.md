@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Brown Carmichael Stopes (1840-1929)"
-description: "This essay traces the life and work of Charlotte Brown Carmichael Stopes, from her early education in Edinburgh to her later years balancing London literary research with family life in Swanscombe, Kent. It highlights her Shakespeare scholarship, her role in suffrage arguments through British Freewomen, and her connections to local landscapes and scientific interests around Swanscombe and Greenhithe."
+description: "This essay traces the life and work of Charlotte Brown Carmichael Stopes, from her education in Edinburgh to her Shakespeare scholarship and role in the suffrage movement. It connects her intellectual and political activities to the Kent landscapes around Swanscombe and nearby places, where family life, fieldwork, and local industry intersected."
 author:  Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
@@ -8,6 +8,7 @@ tags: [ Authors & lives, Politics & reform, Towns & cities, Representation & int
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-stopes-biography/
 published: true
 toc: false    
@@ -15,39 +16,39 @@ toc: false
 
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles to _The Attempt_ magazine under the pen name “lutea reseda” (wild mignonette). When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
 
-{% include embed/image.html src="wc:Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" aspect="1.085" caption="Wild Mignonette, Reseda lutea" %}{: .right}
+{% include embed/image.html src="wc:Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" aspect="1.085" caption="Wild Mignonette, Reseda lutea" %}
 
 In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norwood, but bankruptcy in 1892 forced them to sell their home and she returned to Edinburgh in the hopes of attaining a masters. Her plans were thwarted by a timetable clash and she returned to London leaving her daughters, Marie and Winifred at school in Edinburgh whilst she pursued her passion for Shakespearean research. She had already refuted the claim that Francis Bacon was the author of Shakespeare’s plays in 1888 and she was to write at least a further nine publications on Shakespeare’s life and works.
 
-{% include embed/image.html src="wc:Somer_Francis_Bacon.jpg" aspect="0.815" caption="Francis Bacon" %}{: .right}
+{% include embed/image.html src="wc:Somer_Francis_Bacon.jpg" aspect="0.815" caption="Francis Bacon" %}
 
 Spending weekdays at her lodgings in Torrington Square, which was conveniently located near the British Museum, the weekends were spent at the Mansion House, [Swanscombe](Q1083051) “where with her two little girls she rusticates from Friday to Monday as a relief from the work of arduous literary research in London”.[^ref1]  The Mansion House was the Elizabethan Dower house belonging to the Manor of Swanscombe replete with oak panelling and provided a delightful bolt hole for the family who enjoyed “grubbing” around the potato fields and hop furrows for pre-historic flints".[^ref2]
 
-{% include embed/map.html center="Q1083051" zoom="15" markers="Q1083051" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}{: .right}
+{% include embed/map.html center="Q1083051" zoom="15" markers="Q1083051" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
-{% include embed/image.html src="wc:The_Quarterly_journal_of_the_Geological_Society_of_London_%2813937160882%29.jpg" aspect="0.554" caption="The Quarterly journal of the Geological Society of London" %}{: .right}
+{% include embed/image.html src="wc:The_Quarterly_journal_of_the_Geological_Society_of_London_%2813937160882%29.jpg" aspect="0.554" caption="The Quarterly journal of the Geological Society of London" %}
 
 Charlotte’s ground-breaking publication _British Freewomen: Their Historical Privilege_ published in 1894 outlined the historical right of women to vote, arguing that no law existed to prevent them and established her as a prominent, if now often underestimated, member of the suffrage movement.[^ref3] One wonders whether it was written during a frenetic week in London or drafted using a pen dipped into Sir Walter Scott’s 'grubby round inkstand' which she kept on her desk in Swanscombe.[^ref4] 
 
-{% include embed/image.html src="wc:CCStopesDedication.jpg" aspect="0.75" caption="Stopes Dedication" %}{: .right}
+{% include embed/image.html src="wc:CCStopesDedication.jpg" aspect="0.75" caption="Stopes Dedication" %}
 
 Sarah Tooley who interviewed Charlotte for the _Women’s Penny Paper_ in 1895 describes the idyllic landscape around Charlotte’s home as she and Charlotte walked through “woods bright with bluebells and jubilant with birds, climbing five-barred gates and floundering in cart ruts.”[^ref5] Charlotte, however, played down its charms describing it as an “abandoned spot” which was “inhabited chiefly by miners who work in the adjacent [chalk pits]({{ site.baseurl }}/landscape/chalk-pits-stig)”[^ref6] She said, “I call this house my husband’s hunting-box, as the district is so rich in flints.”[^ref7] She did however enthuse about Kent’s connections with Shakespeare and “delights to think that the great William ofttimes with his company trod the [Dover Road]({{ site.baseurl }}/dickens/dover-road) which runs East of her garden wall.” 
 
-{% include embed/image.html src="wc:Woodland_Path_at_Swanscombe_Heritage_Park.jpg" aspect="1.779" caption="Woodland Path at Swanscombe Heritage Park" %}{: .right}
+{% include embed/image.html src="wc:Woodland_Path_at_Swanscombe_Heritage_Park.jpg" aspect="1.779" caption="Woodland Path at Swanscombe Heritage Park" %}
 
 The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper_ may have belied the reality. Sarah Green believes that "while [Charlotte and Henry's] correspondence suggests that a lasting comradeship developed between them, each found domestic life constraining and sought to pursue their interests on their own terms, sometimes spending lengthy periods apart."[^ref8] Swanscombe was Henry's space, London was Charlotte's.  
 
 After the death of her husband in 1902 at Hillside, [Greenhithe](Q3028239), Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref9] 
 
-{% include embed/image.html src="wc:Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg" aspect="1.333" caption="Hand Axe Sculpture in Swanscombe Heritage Park" %}{: .right}
+{% include embed/image.html src="wc:Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg" aspect="1.333" caption="Hand Axe Sculpture in Swanscombe Heritage Park" %}
 
-{% include embed/map.html center="Q3028239" zoom="10" markers="Q3028239" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}{: .right}
+{% include embed/map.html center="Q3028239" zoom="10" markers="Q3028239" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
 Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library]({{ site.baseurl }}/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
 
 This article was published: 9 October 2021.
 
-{% include embed/image.html src="wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg" aspect="1.404" caption="Marie Stopes in her laboratory, 1904" %}{: .right}
+{% include embed/image.html src="wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg" aspect="1.404" caption="Marie Stopes in her laboratory, 1904" %}
 
 ### References
 

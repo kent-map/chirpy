@@ -8,6 +8,7 @@ tags: [ Work & industry, Travel & mobility, Towns & cities, Identity & community
 image: 
   path: "https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f"
 layout: post
+auto_float: true
 permalink: /20c/20c-a-boy-of-kent/
 published: true
 toc: false    
@@ -17,9 +18,9 @@ toc: false
 **Early years 1974 - 1982**   
 Although I was born in [Greenwich](Q179385) in 1971, my parents moved to [Strood](Q1808441) in the [Medway towns](Q112843312) in early 1972. This was for my father’s role as a signalman in one of the small boxes on the Medway valley line from Strood to Maidstone. In 1974, we moved to [Teynham](Q1865570), which I think was linked to my father moving into management. The first role he had of which I am fairly confident is assistant station manager at [Canterbury West]({{ site.baseurl }}/20c/20c-canterbury-railway/), c. 1974 to c. 1979. 
 
-{% include embed/image.html src="wc:Canterbury_West_Train_Station%2C_January_2025.jpg" aspect="1.333" caption="Canterbury West Station" %}{: .right}
+{% include embed/image.html src="wc:Canterbury_West_Train_Station%2C_January_2025.jpg" aspect="1.333" caption="Canterbury West Station" %}
 
-{% include embed/map.html center="Q671106" zoom="15" markers="Q671106" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}{: .right}
+{% include embed/map.html center="Q671106" zoom="15" markers="Q671106" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
 As a 7 or 8 year old child I was at school in the week, but at weekends my father used to take to me to work at [Canterbury](Q29303) West on a Saturday, presumably to give my mother time for other things. She had a horse, I think, at about this time, and would ride it on Saturday mornings, so some child-management was required.
 
@@ -29,37 +30,37 @@ The signal box itself has an unusual history, having previously been ‘the sign
 
 Health & Safety considerations may have prompted my father to find a rather more suitable lodging on a Saturday morning for his 7 or 8 year old child. I am fairly certain, although not absolutely so, that I was then baby-sat by a family who lived in a crossing-keeper's house for a manual crossing gate somewhere in Canterbury’s suburbs. Sadly, I have been unable to locate this crossing, but I have fond memories of the family who lived there – the crossing-keeper’s wife read me the Beatrix Potter books, and bought me a much-treasured _The Tale of Squirrel Nutkin_ as a present.
 
-{% include embed/image.html src="wc:Canterbury_West_signal_box_%28detail%29_-_geograph.org.uk_-_3276693.jpg" aspect="1.333" caption="Canterbury West Signal Box" %}{: .right}
+{% include embed/image.html src="wc:Canterbury_West_signal_box_%28detail%29_-_geograph.org.uk_-_3276693.jpg" aspect="1.333" caption="Canterbury West Signal Box" %}
 
-{% include embed/map.html center="Q671106" zoom="15" markers="Q671106" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}{: .right}
+{% include embed/map.html center="Q671106" zoom="15" markers="Q671106" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
 My father became assistant station manager at [Faversham](Q1000115) station in around 1979/1980, and with it came responsibility for our local station, Teynham. We lived opposite the station, so as a child I would be serenaded by the sound of Southern electric trains rumbling past us. When I lived there, [Teynham station](Q1865163) had a manual crossing for a minor road, so was manned 24 hours a day. It was only replaced by automatic gates in 2011. It also had a rather grand passenger bridge to take people platform to platform, and pedestrians from the main part of the village south of the railway to the lesser inhabited part north of the station. Built in around 1910, this lattice sided bridge was some 65 feet in length, and had 4 access stairways: two for the platforms and two for non-rail travelling pedestrians. It has been modernised now, and has lost its charm, although traces of its original look can still be spotted if you remember the bridge as was. 
 
-{% include embed/image.html src="wc:Closing_the_gate_-_geograph.org.uk_-_272596.jpg" aspect="1.333" caption="Closing the Gate, Having opened the crossing to allow a vehicle through to Railway Row, this railway employee recloses the gates at Teynham Station, 2006" %}{: .right}
+{% include embed/image.html src="wc:Closing_the_gate_-_geograph.org.uk_-_272596.jpg" aspect="1.333" caption="Closing the Gate, Having opened the crossing to allow a vehicle through to Railway Row, this railway employee recloses the gates at Teynham Station, 2006" %}
 
-{% include embed/map.html center="Q1865163" zoom="15" markers="Q1865163" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}{: .right}
+{% include embed/map.html center="Q1865163" zoom="15" markers="Q1865163" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
 My interaction with the railway continued through my younger years, as during school holidays I accompanied my mother on shopping trips. Teynham was fairly small, and had little in the way of shops to sustain a family. My mother, not being able to drive, would once a week take the train to either [Sittingbourne](Q1626044) or Faversham (she switched a few times, based presumably on a level of dissatisfaction with one or the other). My mother worked in the quality control laboratory at Redland Brickworks in [Conyer](Q5166773) at this stage, and during school holidays I would [sit](Q1919614) astride my her bicycle crossbar as we shook and rattled down the ash-laid path through the orchards, referred to as the tramlines. It had been the site of a narrow-gauge line which had connected the brickworks with the mainline up until around 1962.
 
-{% include embed/map.html center="Q5166773" zoom="15" markers="Q5166773" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}{: .right}
+{% include embed/map.html center="Q5166773" zoom="15" markers="Q5166773" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
-{% include embed/image.html src="wc:Old_building_base%2C_Conyer_Brickworks_-_geograph.org.uk_-_5428625.jpg" aspect="1.333" caption="Old building base, Conyer Brickworks" %}{: .right}
+{% include embed/image.html src="wc:Old_building_base%2C_Conyer_Brickworks_-_geograph.org.uk_-_5428625.jpg" aspect="1.333" caption="Old building base, Conyer Brickworks" %}
 
 **At school in Faversham 1982 - 1987**   
 When I turned 11 and left my local primary school to enter the terrifying world of the Big School, or secondary, the railways played a defining role in for the next five years of my life. My primary school was a feeder school for Sittingbourne’s secondary school, St. John’s, and all my schoolfellows and friends went there. But it was a long way from the train station to the school and would mean that I would have to take the bus. The bus would cost my parents money, whereas train travel for a child of a rail worker, for such a short distance, was very cheap – not quite free, but extremely low cost, just 25% of the child fare, I think. The Faversham County Secondary School for Boys was just a few minutes from the station, so, alone of all my friends, I was sent there in 1982. It closed at the end of that academic year and amalgamated with the girl’s school, Lady Capel, to become the unloved Abbey School from September 1983.
 
 My first day at Faversham County in September 1982 contains a tragi-comic highlight that has stayed with me. As part of welcoming new boys to the school a visual aid was created. It consisted of a large ship, called the ‘F.C.S.S.’, the initials of the school, and on it were cut out figures, one for every pupil from the second year (as it was called back then) and above up to the fifth year. Surrounding this ship where several smaller ships, all named after the schools that fed into the Faversham County that year, with cut outs of pupils on each boat, one figure for each new pupil. So, Davington primary school fed in maybe twelve pupils, Ospringe something similar. There were even five or six from [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), a 20 minute train trip away. And the good ship Teynham C of E contained just One. Me. It was the only ship on the display to have just one pupil. I saw this display and my heart sank.  I felt that my life was over – I had gone from a local primary, where you knew just about everyone, from a class of about fifteen pupils, to knowing no-one, no-one at all, and in a much larger school. I was also about 6 or 7 inches shorter than any other boy, having not grown, I am told, between the ages of 4 and 5. I was therefore a figure of amusement and ridicule. It did get better, and I did make friends at my new school, but those first days were hard.
 
-{% include embed/image.html src="wc:The_Abbey_School_-_geograph.org.uk_-_3911553.jpg" aspect="1.333" caption="The Abbey School, Faversham" %}{: .right}
+{% include embed/image.html src="wc:The_Abbey_School_-_geograph.org.uk_-_3911553.jpg" aspect="1.333" caption="The Abbey School, Faversham" %}
 
 **Working for the railways, 1987 - 1990**   
 I left school just before my 16th birthday, and entered upon a short and inglorious stint at Boots in Sittingbourne on the late 1980’s Youth Training Scheme, where you worked full time for £28.00 per week so as not to affect the unemployment figures. Dissatisfied with his son’s career prospects (nil), my father told me of a vacancy at [Canterbury East station](Q4381574), working in the Telephone Enquiry Bureau (TEB), answering train time and fare enquiries from across East Kent. The bureau is long gone, the internet having made it easy to find times yourself, but you can still see where we had our office – it was on the first floor at Canterbury East, above the ticket hall and booking office.
 
 During my time there I got quite adept at working out where in Kent a passenger had called from. Most people when they called asked something like, ‘When’s the next train from here to ...[enter station of choice]’ without indicating where ‘here’ was. I could generally pin it down just by their accent to within two or three stations: Thanet had a different accent to Medway, or Canterbury. Within Thanet, Margate people sounded different to Broadstairs, as did those from [Gillingham](Q610238) compared to Rochester residents in Medway. My accuracy was surprisingly high, as I was able to locate the caller in the right bit of Kent nine times out of ten. I couldn’t do it now, I have been away far too long.
 
-{% include embed/image.html src="wc:Canterbury_East_Station_-_geograph.org.uk_-_5837056.jpg" aspect="1.504" caption="Canterbury East Station" %}{: .right}
+{% include embed/image.html src="wc:Canterbury_East_Station_-_geograph.org.uk_-_5837056.jpg" aspect="1.504" caption="Canterbury East Station" %}
 
-{% include embed/map.html center="Q4381574" zoom="15" markers="Q4381574" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}{: .right}
+{% include embed/map.html center="Q4381574" zoom="15" markers="Q4381574" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
 I started at the Canterbury Telephone Enquiry Bureau on Monday the 12th October 1987, travelling by train from Teynham to Canterbury on a free pass as it was for work purposes. My timing was somewhat off, as on the night of Thursday 15th to Friday 16th October Kent was hit by the strongest winds in 200 years, the [Great Storm of 1987]({{ site.baseurl }}/20c/20c-hurricane). Having had a railway line rumbling and clanging past my house since I was 3, and being a somnolent teenager, I slept straight through it and got up at 6:30 to set off for my train at around 7. It did feel a bit blowy crossing to the station, but I didn’t think much of it. The on-duty booking clerk and crossing keeper looked at me astonished. 
 
@@ -73,7 +74,7 @@ Genuinely puzzled, I asked why. Even more incredulous, he asked,
 
 The line was cleared enough for me to go back to work, I think from the Monday or Tuesday the next week, but parts of the line remained blocked for a lot longer, if I remember correctly.
 
-{% include embed/image.html src="wc:Teynham_station_platforms_-_geograph.org.uk_-_5428980.jpg" aspect="1.333" caption="Teynham station platforms by Robin Webster, CC BY-SA 2.0, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Teynham_station_platforms_-_geograph.org.uk_-_5428980.jpg" aspect="1.333" caption="Teynham station platforms by Robin Webster, CC BY-SA 2.0, via Wikimedia Commons" %}
 
 After around 18 months at Canterbury East TEB, I applied for a transfer to Gillingham ticket office in the Medway towns. Starting around April 1989, I spent about a year here selling commuter tickets, season tickets and combined train ticket and entry to Bembom Brothers, Margate, the theme park now known again by its original name, Dreamland. 
 
@@ -83,7 +84,7 @@ Somehow Adrian and I grabbed the hoarding, brought it to a halt and hauled it ba
 
 Because the gale was in the daytime when people were around, it had a higher casualty rate than the more famous [1987 storm]({{ site.baseurl }}/20c/20c-hurricane), but I am pleased to say that in one small way, Adrian and I prevented at least some damage by our quick reactions.
 
-{% include embed/image.html src="wc:Gillingham_%28Kent%29_Station_geograph-3884414-by-Ben-Brooksbank.jpg" aspect="1.698" caption="Gillingham Station, Kent, exterior, 1995" %}{: .right}
+{% include embed/image.html src="wc:Gillingham_%28Kent%29_Station_geograph-3884414-by-Ben-Brooksbank.jpg" aspect="1.698" caption="Gillingham Station, Kent, exterior, 1995" %}
 
 After a year or so at Gillingham, I transferred to London’s Victoria station. I commuted, by train of course, from my home in Kent for a few months before branching out on my own and in 1991 buying a house in Colchester, almost due North of where I had grown up. I remained with British rail until 1997 when it was de-nationalised. Like may others, I took the offered redundancy package and headed to new pastures in retail, later insurance and currently back in the public sector with the NHS.
 
@@ -92,7 +93,7 @@ I have not returned to live in Kent since and have visited the area just 2 or 3 
 Banner Image: Orchard ©Lisa Hawkins   
 This article was written: August 2024
 
-{% include embed/image.html src="wc:Orchard_near_Conyer_-_geograph.org.uk_-_3033781.jpg" aspect="1.488" caption="Orchard near Conyer" %}{: .right}
+{% include embed/image.html src="wc:Orchard_near_Conyer_-_geograph.org.uk_-_3033781.jpg" aspect="1.488" caption="Orchard near Conyer" %}
 
 ### References
 

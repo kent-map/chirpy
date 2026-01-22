@@ -1,13 +1,14 @@
 ---
 title: "Impressions from a Bolthole Window"
-description: "A lyrical sequence of observations from a window overlooking Deal, tracing shifting tides, light, weather, and the movement of ships and seabirds along the Channel. The essay turns seafront details such as the pier, shingle, and distant lights into a meditation on perception, colour, and atmosphere across day and night."
+description: "A sequence of lyric impressions from a window overlooking Deal, following shifting tides, weather, light, and coastal traffic around the pier and Goodwin Sands. The essay treats the seafront as a changing visual field, drawing on artistic and musical analogies to interpret the town’s maritime edge."
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 21c ]
-tags: [ Coast & sea, Literary places, Nature & environment, Representation & interpretation ]
+tags: [ Texts & genres, Coast & sea, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
 layout: post
+auto_float: true
 permalink: /21c/21c-impressions-hirst/
 published: true
 toc: false    
@@ -47,9 +48,9 @@ the sea is silvered by a secret sun.
 A pregnant cloud droops luminosity,   
 suspending gloom, suspending rain.   
 
-{% include embed/image.html src="wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" aspect="1.778" caption="Coastline near Deal Castle" %}{: .right}
+{% include embed/image.html src="wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" aspect="1.778" caption="Coastline near Deal Castle" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
 
 Tonight the pier is gaudy.  Its orange sodium lights   
 are giddy in the off-shore breeze.  They look all set   
@@ -83,7 +84,7 @@ Above some shifting stars, an absent moon.
 Only Venus to the east seems constant.   
 Just for tonight?   
 
-{% include embed/image.html src="wc:Pier-of-Deal-07.jpg" aspect="1.333" caption="Pier of Deal" %}{: .right}
+{% include embed/image.html src="wc:Pier-of-Deal-07.jpg" aspect="1.333" caption="Pier of Deal" %}
 
 Even though the sun is warming up its pathway   
 the sea is shivering as it rolls to shore.   
@@ -107,7 +108,7 @@ which melts upwards into a sky
 whose blueness hardens into steel   
 as it stretches to its zenith.   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" aspect="2.113" caption="Sea-front at Deal" attribution="Elizabeth Waterman-Scrase" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" aspect="2.113" caption="Sea-front at Deal" attribution="Elizabeth Waterman-Scrase" %}
 
 Knobbled waves in rows   
 knit one, drop one, cast one on,   
@@ -125,7 +126,7 @@ cumulus clouds chug along importantly,
 itching to destroy this work   
 with tiny hail- and rain-seeds.   
 
-{% include embed/image.html src="wc:Waves_%281793045566%29.jpg" aspect="1.494" caption="Deal Beach" %}{: .right}
+{% include embed/image.html src="wc:Waves_%281793045566%29.jpg" aspect="1.494" caption="Deal Beach" %}
 
 The window frames are white   
 and form nine silent rectangles   
@@ -147,7 +148,7 @@ Apart from these small interruptions,
 the picture is Mark Rothko in Grey and Grey   
 viewed through nine silenced rectangles of double-glazing.   
 
-{% include embed/image.html src="wc:Rothko_Paper_Works.jpg" aspect="1.0" caption="Mark Rothko Paper Works" %}{: .right}
+{% include embed/image.html src="wc:Rothko_Paper_Works.jpg" aspect="1.0" caption="Mark Rothko Paper Works" %}
 
 The sea is hammered to a blue steel pan.   
 A scattering of snippets from the moon   
@@ -161,7 +162,7 @@ Its scales glitter out a warning
 to shipping lights on the horizon,   
 which slink away.   
 
-{% include embed/image.html src="wc:English_Channel_%2820562846383%29.jpg" aspect="1.5" caption="English Channel" %}{: .right}
+{% include embed/image.html src="wc:English_Channel_%2820562846383%29.jpg" aspect="1.5" caption="English Channel" %}
 
 Earlier this afternoon,    
 near the marshes lying outside town   
@@ -176,7 +177,7 @@ against the backcloth of a sky
 which drops, air-force blue,    
 to a sea of sheen like a magpie’s wing.   
 
-{% include embed/image.html src="wc:Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg" aspect="1.333" caption="Frozen Cabbage" %}{: .right}
+{% include embed/image.html src="wc:Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg" aspect="1.333" caption="Frozen Cabbage" %}
 
 A parabolic cloud conceals a focus   
 from which soft lines of light   
@@ -194,7 +195,7 @@ division line with sky the upper integer,
 and sea the lower one.   
 A sum to which there’s no solution.   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
 
 As the weight of the falling sun   
 plummets behind the day’s-end town,   
@@ -218,4 +219,4 @@ whisks at skirts, teases headgear,
 skids lolly litter into the gutter,   
 and sashays into the bar at the Royal Hotel.   
 
-{% include embed/image.html src="wc:Royal_Hotel_-_geograph.org.uk_-_2852587.jpg" aspect="1.333" caption="Royal Hotel by Oast House Archive via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Royal_Hotel_-_geograph.org.uk_-_2852587.jpg" aspect="1.333" caption="Royal Hotel by Oast House Archive via Wikimedia Commons" %}

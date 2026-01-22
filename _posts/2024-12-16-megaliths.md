@@ -1,13 +1,14 @@
 ---
 title: "Folklore and the Blue Bell Hill Megaliths"
-description: "This essay explores the Early Neolithic chambered long barrows and megaliths around Blue Bell Hill and the River Medway, including Kit’s Coty, the Coffin Stone, Little Kit’s Coty, and the White Horse Stone. It traces how archaeological interpretations and local folklore intersect, from legends of Hengist and Horsa to supernatural rites of circling stones and later cultural afterlives in theatre and children’s literature."
+description: "This essay explores the Early Neolithic chambered long barrows and standing stones on Blue Bell Hill and along the River Medway, focusing on sites such as Kit’s Coty, the Coffin Stone, Little Kit’s Coty, and the White Horse Stone. It traces how later histories and local folklore have reinterpreted these monuments through legends of Saxon warriors, fairies, witches, and counting or circling rituals, and notes their afterlives in theatre and children’s literature."
 author: Phillip Marsh
 date: 2024-12-16
 categories: [ built ]
-tags: [ Heritage & memory, Rivers & marshes, Representation & interpretation, Faith & belief ]
+tags: [ Heritage & memory, Rivers & marshes, Nature & environment, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%27s_Coty.jpg"
 layout: post
+auto_float: true
 permalink: /built/megaliths/
 published: true
 toc: false    
@@ -20,7 +21,7 @@ consist of earth tumuli (barrows) that cover a chamber constructed out of large 
 have been excavated by archaeologists, revealing human remains and suggesting their use as tombs.  However, other chambers, when excavated, have not. Because Kent has been and continues to be 
 the gateway to the continent, it is unsurprising to discover that these barrows are more closely connected to European megaliths than to their British counterparts.[^ref1]
 
-{% include embed/image.html src="wc:Coldrum_Long_Barrow_48.jpg" aspect="1.333" caption="Coldrum Long Barrow" %}{: .right}
+{% include embed/image.html src="wc:Coldrum_Long_Barrow_48.jpg" aspect="1.333" caption="Coldrum Long Barrow" %}
 
 **Kit’s Coty**   
 Above the village of [Aylesford](Q793057) lies Blue Bell Hill, which is on the North Downs. It makes up part of the 
@@ -38,7 +39,7 @@ mound was still visible during the 18th century. Alongside, the stones runs an a
 3), possibly a corpse road route and associated with the Pilgrims’ Way, now part of the North Downs 
 Way.[^ref3]
 
-{% include embed/image.html src="wc:William_Stukeley%27s_Illustration_of_Little_Kit%27s_Coty_and_Kit%27s_Coty.png" aspect="1.65" caption="Illustration of Little Kit's Coty" %}{: .right}
+{% include embed/image.html src="wc:William_Stukeley%27s_Illustration_of_Little_Kit%27s_Coty_and_Kit%27s_Coty.png" aspect="1.65" caption="Illustration of Little Kit's Coty" %}
 
 According to local folklore, the Saxon mercenaries [Hengist and Horsa]({{ site.baseurl }}/medieval/hengestandhorsa/) are said to be buried at the Kit’s Coty House and the close by [White Horse Stone](Q7994824). As with all things of this antiquity, accounts differ. 
 Although Gilda the Wise was the first to describe the arrival of Hengist and Horsa[^ref4]
@@ -55,7 +56,7 @@ There are various reasons that people give for the name. An endearing story is t
 shepherd called Kit used the stones as a shelter in hard weather, another that the name is derived 
 from the Celtic ked coerd which translates as “Tomb in the Forest”.[^ref10]
 
-{% include embed/image.html src="wc:thumbnail.jpg" aspect="1.49" caption="The graphic and historical illustrator; an original miscellany of literary, antiquarian, and topographical information, embellished with one hundred and fifty woodcuts, 1834" %}{: .right}
+{% include embed/image.html src="wc:thumbnail.jpg" aspect="1.49" caption="The graphic and historical illustrator; an original miscellany of literary, antiquarian, and topographical information, embellished with one hundred and fifty woodcuts, 1834" %}
 
 Evans[^ref2] suggests that medieval people saw megaliths as the work of fairies, giants or other 
 supernatural powers. According to local legend, if someone places a personal object on the capstone 
@@ -70,7 +71,7 @@ a white horse or a treasure seeking ghost. Variations of the circling theme exis
 of times the monument is circled, the direction clockwise or counterclockwise and whether the act is 
 undertaken clothed or naked.[^ref11],[^ref12]
 
-{% include embed/image.html src="wc:Woodland_fairies_in_the_moonlight.jpg" aspect="1.408" caption="Woodland Fairies in the moonlight" %}{: .right}
+{% include embed/image.html src="wc:Woodland_fairies_in_the_moonlight.jpg" aspect="1.408" caption="Woodland Fairies in the moonlight" %}
 
 There are other tales associated with Kit’s Coty. Evans and others noted that if a person climbs onto 
 the capstone (during a full moon) and places their hand inside the cavity of the stone, they will pull 
@@ -86,7 +87,7 @@ fairyland under Blue Bell Hill15 It is also worth emphasising that Blue Bell Hil
 supernatural events being the site of the Bluebell Hill Ghost, one of the better known “road ghost 
 stories”.[^ref3],[^ref14]
 
-{% include embed/image.html src="wc:Gezicht_op_Kit%27s_Coty_House%2C_te_Kent%2C_RP-P-2018-1949.jpg" aspect="1.459" caption="Kit's Coty House" %}{: .right}
+{% include embed/image.html src="wc:Gezicht_op_Kit%27s_Coty_House%2C_te_Kent%2C_RP-P-2018-1949.jpg" aspect="1.459" caption="Kit's Coty House" %}
 
 Kits Coty is believed to be the setting for the classic 1963 children’s book [_Stig of the Dump_]({{ site.baseurl }}/landscape/chalk-pits-stig/) by Clive 
 King. Clive King lived in Ash Kent and went to King’s school in Rochester. Barney, the protagonist in 
@@ -96,7 +97,7 @@ slip” on midsummer’s night and being transported back to Stig’s time. They
 people and help construct four giant stones. The book ends with the children back in present time 
 having a picnic with their parents on the North Downs, where the four stones stand. 
 
-{% include embed/image.html src="wc:Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg" aspect="1.501" caption="Alfred Gomersal Vickers, CC0, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Alfred_Gomersal_Vickers_-_Kits_Coty_House%2C_Near_Maidstone%2C_Kent_-_B1977.14.4214_-_Yale_Center_for_British_Art.jpg" aspect="1.501" caption="Alfred Gomersal Vickers, CC0, via Wikimedia Commons" %}
 
 Besides Neolithic man and witches, there is another explanation for the existence of Kit’s Coty. 
 Jerrold[^ref16] recounts a story of an encounter in 1837 between a friend and a lady “somewhat above 
@@ -112,7 +113,7 @@ ye diggers of visions of antiquity, – ye men of historical research. Listen to
 satisfactory explanation, and confess how vain are all your theories about Cromlechs and Druidical 
 altars, and resting places for the bones of Saxon Kings.”
 
-{% include embed/image.html src="https://stor.artstor.org/stor/df393ce0-2b77-4039-8f05-45ec854cde74" aspect="1.593" caption="Kit's Coty" attribution="Kent Maps Online Collection" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/df393ce0-2b77-4039-8f05-45ec854cde74" aspect="1.593" caption="Kit's Coty" attribution="Kent Maps Online Collection" %}
 
 **Coffin Stone**    
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 
@@ -120,7 +121,7 @@ Coffin Stone lying flat on the ground within the vineyard. Underneath the stone,
 were uncovered in 1836. These included 2 skulls and a sack full of bones. In 1980, a farmer added 
 another Sarson stone on the coffin stone.[^ref17]
 
-{% include embed/image.html src="wc:Coffin_Stone%2C_Blue_Bell_Hill%2C_Kent_01.jpg" aspect="1.333" caption="Coffin Stone, Blue Bell Hill" %}{: .right}
+{% include embed/image.html src="wc:Coffin_Stone%2C_Blue_Bell_Hill%2C_Kent_01.jpg" aspect="1.333" caption="Coffin Stone, Blue Bell Hill" %}
 
 **Countless stones**   
 Countless stones, also known as “Little Kit’s Coty”, comprise several fallen over sarsen stones. 
@@ -144,7 +145,7 @@ humans. According to the legend, these unfortunate people can be released from t
 by counting the correct number of stones.[^ref21] Stories from France suggest the stones can move at their 
 own will, making it challenging to count them.[^ref22]
 
-{% include embed/image.html src="wc:Stones_at_Little_Kit%27s_Coty.jpg" aspect="1.67" caption="Stones at Little's Kit Coty" %}{: .right}
+{% include embed/image.html src="wc:Stones_at_Little_Kit%27s_Coty.jpg" aspect="1.67" caption="Stones at Little's Kit Coty" %}
 
 **White Horse Stone**   
 Located higher up Blue Bell Hill above Kit’s Coty is the White Horse Stone. Although probably part of 
@@ -154,7 +155,7 @@ was referred to as the Kentish Standard Stone and believed to be the stone on wh
 banner fell when it’s bearer, Horsa, died.[^ref17] Unfortunately, this was destroyed at the end of the 
 nineteenth century and the present stone has inherited the name.
 
-{% include embed/image.html src="wc:The_White_Horse_Stone_from_4500_BC.jpg" aspect="1.5" caption="White Horse Stone" %}{: .right}
+{% include embed/image.html src="wc:The_White_Horse_Stone_from_4500_BC.jpg" aspect="1.5" caption="White Horse Stone" %}
 
 ### Bibliography
 

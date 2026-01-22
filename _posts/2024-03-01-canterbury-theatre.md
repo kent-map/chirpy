@@ -1,13 +1,14 @@
 ---
 title: "Theatrical Entertainment in Canterbury"
-description: "This essay traces the long history of theatrical entertainment in Canterbury from Roman-built theatres through medieval pageantry, early modern touring companies, and the rise of purpose-built venues. It links performances, censorship and licensing, and notable figures such as Christopher Marlowe, Aphra Behn, and Charles Dickens to changing urban sites including inns, guildhalls, music halls, cinemas, and the Marlowe Theatre."
+description: "This essay traces the long history of theatrical entertainment in Canterbury from Roman amphitheatres to the modern Marlowe Theatre. It follows changing performance cultures, venues, and regulation through pageants, touring players, music halls, early cinema, and repertory theatre, highlighting notable figures and moments connected to the city."
 author: Kate Rendall and Michelle Crowther
 date: 2024-03-01
 categories: [ theatre ]
-tags: [ Arts & performance, Towns & cities, Buildings & architecture, Authors & lives ]
+tags: [ Arts & performance, Towns & cities, Heritage & memory, Time periods ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /theatre/canterbury-theatre/
 published: true
 toc: false    
@@ -22,7 +23,7 @@ In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 66
 
 By the 13th and 14th centuries, players attached to the court began to visit the city. King Edward I’s players performed in 1277, the ‘Black Prince’s in 1339 and the entertainers of Queen Philippa, wife of Edward III in 1356.[^ref4]
 
-{% include embed/image.html src="wc:Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" aspect="0.725" caption="Sculpture next to the Marlowe Theatre" %}{: .right}
+{% include embed/image.html src="wc:Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" aspect="0.725" caption="Sculpture next to the Marlowe Theatre" %}
 
 By the sixteenth century, the good folk of Canterbury revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas which was mounted on a cart, was guaranteed to thrill its audience. Four boys, dressed as Reginald Fitzurse, Hugh de Morville, Richard Brito and William de Tracythe, the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref5]
 
@@ -36,13 +37,13 @@ In May 1560, it was rumoured that John Bale, who was living in the city, was sta
 
 The pageant of St Thomas returned in the reign of Mary I but disappeared once again in the reign of Elizabeth I. In 1589, Queen Elizabeth’s Men performed twice in Canterbury.[^ref9]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/0305cedf-03b9-479f-a356-e042ab8c57f3" aspect="1.333" caption="Canterbury Pageant" attribution="Michelle Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/0305cedf-03b9-479f-a356-e042ab8c57f3" aspect="1.333" caption="Canterbury Pageant" attribution="Michelle Crowther" %}
 
 Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578 before moving to Cambridge and later London. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall.[^ref10]
 
 Whilst staying in the city, Marlowe got into a fight with a tailor, William Corkine, at the Cheker of Hope Inn. The inn which also served as a theatre venue, had a galleried courtyard and could accommodate up to 100 pilgrims. It is mentioned in the fifeenth century ‘Tale of Beryn’ a Middle English addition to [Chaucer]({{ site.baseurl }}/medieval/14c-chaucer)'s Canterbury Tales. Corkine claimed that Marlowe had attacked him 'with staff and dagger' but Marlowe claimed that Corkine was the aggressor. In the end they seem to patch things up, as the case was dropped.[^ref11]
 
-{% include embed/image.html src="wc:Plaque_commemorating_the_baptism_of_Christopher_Marlowe_in_1564.jpg" aspect="1.333" caption="Plaque commemoraing the baptism of Christopher Marlowe" %}{: .right}
+{% include embed/image.html src="wc:Plaque_commemorating_the_baptism_of_Christopher_Marlowe_in_1564.jpg" aspect="1.333" caption="Plaque commemoraing the baptism of Christopher Marlowe" %}
 
 [John Lyly]({{ site.baseurl }}/16c/16c-lyly-biography/), novelist and playwright,  whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city c.1553. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson. 
 
@@ -52,19 +53,19 @@ Strolling players, who did not enjoy the patronage of nobility (or a King's scho
 
 During the English Civil War (1642 – 1646) theatre stopped all together and after the war, the Puritans banned theatre. It was not until the Restoration in 1660 that theatre was revived.
 
-{% include embed/image.html src="wc:StrollingActresses.jpg" aspect="1.291" caption="Strolling Actresses" %}{: .right}
+{% include embed/image.html src="wc:StrollingActresses.jpg" aspect="1.291" caption="Strolling Actresses" %}
 
 Restoration playwright and author, [Aphra Behn]({{ site.baseurl }}/17c/17c-behn-biography/), (or Eaffrey Johnson), who was born in Harbledown around 1640, wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, which was performed in London in 1670. The Duke’s Company was one of two theatre companies (the other, King’s) allowed to perform complete dramas after the Restoration.  Behn wrote more than twenty plays including ‘The Amorous Prince’ (1671) and ‘The Young King’ (1679). 
 
 A theatrical performance of her book _Oroonoko or the Royal Slave_, was adapted for the stage by Thomas Southerne and performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726, although no reference was made to its original author.[^ref13] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy 'The Rival Queens or the Death of Alexander the Great' (1677) at the same theatre. It was written by Nathaniel Lee, who had written a poem 'On the Death of Mrs. Behn' in 1689.[^ref14] 
 
-{% include embed/image.html src="wc:Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg" aspect="0.838" caption="Aphra Behn" %}{: .right}
+{% include embed/image.html src="wc:Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg" aspect="0.838" caption="Aphra Behn" %}
 
 Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref15] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. 
 
 The _Canterbury Guests_ which included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" aspect="1.296" caption="St George's Gate" attribution="Kent Maps Online Collection" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" aspect="1.296" caption="St George's Gate" attribution="Kent Maps Online Collection" %}
 
 Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street entertainment.[^ref16] 
 
@@ -74,7 +75,7 @@ In 1752, ‘Canterbury Smith', who had taken over Kentish theatres in 1751 from 
 
 Roger Kemble later married Sarah Ward, and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal [Margate](Q618045); John Philip Kemble who was considered England’s finest actor; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
 
-{% include embed/image.html src="wc:Mrs_Sarah_Siddons.jpg" aspect="0.841" caption="Sarah Siddons" %}{: .right}
+{% include embed/image.html src="wc:Mrs_Sarah_Siddons.jpg" aspect="0.841" caption="Sarah Siddons" %}
 
 In 1770, Mr Perry of Convent Garden Theatre was head of a summer company at Canterbury Theatre, a rickety wooden building in the Buttermarket outside Christchurch Gate. On 9 June 1773, in a new prologue, written for the opening of the season in Canterbury, Mr Perry said:
 
@@ -82,7 +83,7 @@ In 1770, Mr Perry of Convent Garden Theatre was head of a summer company at Cant
 
 Mr Perry speaks of the cruel blows he had received at the hands of "Dame Fortune" but hopes to revive his career on the stage that made him.[^ref20] This cruel blow was probably as the result of the bad press he received at Covent Garden when a disgruntled theatre-goer on asking who was on stage, exclaimed "Perry! By G__ I wish it was MUM."[^ref21]
 
-{% include embed/image.html src="wc:Canterbury%2C_Buttermarket_-_geograph.org.uk_-_3231159.jpg" aspect="1.333" caption="Canterbury Buttermarket" %}{: .right}
+{% include embed/image.html src="wc:Canterbury%2C_Buttermarket_-_geograph.org.uk_-_3231159.jpg" aspect="1.333" caption="Canterbury Buttermarket" %}
 
 In April 1780, ‘The Oaks or The Beauties of Canterbury’, written by Canterbury pastry cook and mantua maker, [Elizabeth Burgess]({{ site.baseurl }}/18c/18c-burgess-biography/) was performed at Canterbury’s Theatre. It was printed at her own expense and survives in full. The Buttermarket theatre was also used by [Sarah Baker]({{ site.baseurl }}/18c/18c-baker-biography/) who opened her own theatre in Orange Street in 1789, after the Pavement Commissioners tore down the old building.[^ref22]
 
@@ -90,7 +91,7 @@ Sarah Baker, who built four theatres in Kent, was able to entice new actors from
 
 Etiquette in the theatres was sometimes wanting and in 1807, "a wanton act of atrocity" occurred at Canterbury when a man threw a quart glass bottle into the pit hitting a servant of Lord Cranley. The audience beying for retribution shouted 'throw him over' but he was quickly arrested and put in the Westgate Gaol.[^ref25]
 
-{% include embed/image.html src="wc:William_Dowton_as_Sir_Anthony_Absolute_in_%22The_Rivals%22_-_DPLA_-_a80a55ea30ee668fdcdcb7323fcf185b.jpg" aspect="0.555" caption="William Dowton as Sir Anthony Absolute in the Rivals" %}{: .right}
+{% include embed/image.html src="wc:William_Dowton_as_Sir_Anthony_Absolute_in_%22The_Rivals%22_-_DPLA_-_a80a55ea30ee668fdcdcb7323fcf185b.jpg" aspect="0.555" caption="William Dowton as Sir Anthony Absolute in the Rivals" %}
 
 After the death of Sarah Baker in 1816, her son-in-law, William Dowton ran the theatre, attracting big names such as Joseph Grimaldi, the famous clown. On Tuesday, May 6th, 1817, Grimaldi, played ‘Bob Acres’ in Sheridan’s five part comedy, “The Rivals”.  Grimaldi sung one of his best loved songs; ‘Tipitywichet’, before playing ‘Scaramouch’ [sic][^ref26] in “DON JUAN or the Libertine Destroyed”. In his memoir, edited by [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography) it is noted that Grimaldi's 'gains' were larger and his effort less, when he performed in the provinces. [^ref27]
 
@@ -98,15 +99,15 @@ Dowton also allowed amateur performers to use the theatre for their own private 
 
 The theatre sets were painted by the young Thomas Sidney Cooper, before he began his formal training as an artist.[^ref29]
 
-{% include embed/image.html src="wc:Joseph_Grimaldi.jpg" aspect="0.841" caption="Joseph Grimaldi as Clown Joey" %}{: .right}
+{% include embed/image.html src="wc:Joseph_Grimaldi.jpg" aspect="0.841" caption="Joseph Grimaldi as Clown Joey" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" aspect="1.286" caption="Orange Street Theatre" attribution="Michelle Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" aspect="1.286" caption="Orange Street Theatre" attribution="Michelle Crowther" %}
 
 Thomas Sidney Cooper's love for the theatre continued and in the late 1850s, he paid for the refurbishment of the concert rooms in the Canterbury Guild Hall, which had been built around 1180, with pale blue paper decorated with gold stars, gilt mouldings and white pilasters.[^ref30] Two years later, he was persuaded by John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), of the Old Stagers, to build a new theatre in the city.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861.[^ref31] 
 
 On November 4th, 'For one night only' [Charles Dickens]({{ site.baseurl }}/dickens/dickens-canterbury) read six chapters of _David Copperfield_ at the Theatre Royal. The report of Dickens's visit in _The Canterbury Journal, Kentish Times and Farmers' Gazette_ was slightly ambivalent about the talents of the great man, as the journalist asked whether there were six chapters of _David Copperfield_  'worthy the elaborate reading bestowed on them by their author.'[^ref32] The reporter also observed that 'his box audience was very large, but the pit and gallery folk have yet to appreciate the great novelist.' The _Kentish Chronicle_ was less ascerbic, describing the house as 'fully and fashionably attended'.[^ref33] 
 
-{% include embed/image.html src="wc:Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" aspect="0.815" caption="Charles Dickens" %}{: .right}
+{% include embed/image.html src="wc:Charles_Dickens_by_Herbert_Watkins_29_April_1858_%28alternate%29.jpg" aspect="0.815" caption="Charles Dickens" %}
 
 Two years later in October 1863, Richard Thorne, Lessee of the Margate Theatre, booked the Canterbury Theatre Royal for his Powerful Dramatic Company.[^ref34] He was the father of Sarah Thorne, who later became the manager of the Theatre Royal in Margate and is best known for opening the first acting school in England, which later moved to Chatham.
 
@@ -116,13 +117,13 @@ In 1898, the ‘Sarah Thorne Dramatic Company’ presented Dion Boucicault’s �
 
 As well as visiting theatre companies, the theatre was used by amateur groups such as The Old Stagers and the Rifle Volunteers.
 
-{% include embed/image.html src="wc:Marlowe_Memorial_unveiling%2C_1891.jpg" aspect="0.715" caption="Marlowe Memorial unveiling 1891, Buttermarket, Canterbury" %}{: .right}
+{% include embed/image.html src="wc:Marlowe_Memorial_unveiling%2C_1891.jpg" aspect="0.715" caption="Marlowe Memorial unveiling 1891, Buttermarket, Canterbury" %}
 
 In 1913, the Theatre Royal was refurbished by Mr S. Lipman of the Empire Kinematograph Theatre.[^ref37] It eventually closed on 30th January, 1926 and was sold to the Lefevre brothers.[^ref38]
 
 Other theatre and entertainment venues operated during the Victorian era, for example the New Music Hall, located behind no.12 and no.13 on St Margaret’s Street which ran from 1854-1888. Music halls became particularly popular after the relaxation of the licensing laws in 1843. On May 8th, 1876, a Strange and Wilsons Aetherscope adaptation of a _Christmas Carol_ was performed at the hall. The aetherscope was a cabinet in which things and persons disappear: 'It is pretty certain that they do not leave the cabinet, yet when an individual is inside and the door is opened he is invisible and there is no sign of the space he is occupying.'[^ref39] The show then toured Sheerness and Dover, amazing audiences with its ghostly apparitions. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387" aspect="1.333" caption="Theatre Royal, Canterbury" attribution="Michelle Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/6b776164-7839-473f-aaf6-1f3065f06387" aspect="1.333" caption="Theatre Royal, Canterbury" attribution="Michelle Crowther" %}
 
 On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre at 49, St Peter's Street with its mosaic pavement and glass canopy lit with incandescent lights. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" or silent movies were here to stay. Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest.[^ref40]
 
@@ -130,13 +131,13 @@ In January 1916, under the management of Mr A. Dobson, four reels 'brimful of ex
 
 By August 1936, it was known as the Odeon Hall and run by Captain (Percy) Julian Bainbridge, as The Canterbury Repertory Theatre. Bainbridge promised plays by first-class authors including George Bernard Shaw, [Galsworthy]({{ site.baseurl }}/19c/19c-galsworthy-biography), Priestley and [Noel Coward]({{ site.baseurl }}/20c/20c-coward-biography/) etc.  Bainbridge had run theatres in Whitby and South Shields, as well as worked at the Leicester Square Theatre before taking a lease on the Royal Theatre, Margate in 1931. However he complained that "competition from the talking pictures and the fine weather of 1931-2" led to poor sales and he filed for bankruptcy in 1934.[^ref42] In February 1936, Bainbridge set up a Repertory Theatre in Tonbridge where he, his wife and daughter Hazel all performed in the productions. Hazel went on to have a screen career acting in Middlemarch (1968), Great Expectations (1967) and David Copperfield (1974). Bainbridge gave up the Tonbridge Reportory Theatre in 1938, but continued in Canterbury for a little longer before moving on to his next venture.  
 
-{% include embed/image.html src="wc:Charlie_Chaplin_reads_Film_Fun%2C_1915.jpg" aspect="0.792" caption="Charlie Chaplin reads Film Fun, 1915" %}{: .right}
+{% include embed/image.html src="wc:Charlie_Chaplin_reads_Film_Fun%2C_1915.jpg" aspect="0.792" caption="Charlie Chaplin reads Film Fun, 1915" %}
 
 In 1949, as the city recovered from devastation left by the bombing raids of the second world war, the Marlowe Theatre opened on St Margaret's Street, in an old cinema, near where the original Roman theatre had been. The stage was improved and soon the theatre was able to attract acts such as the Ballet Rambert.[^ref43] Sir Ernest Pooley who visited the theatre in 1950 said: 'It is most important if we are going to be a truly civilised and truly artistic nation that we learn by degrees to wean people back from the picture theatre to the living stage.'[^ref44] The theatre was subsequently demolished in 1981 and a second Marlowe Theatre opened at The Friars where it operated for 25 years. This was demolished in 2009 to make way for today’s Marlowe on the same site. 
 
-{% include embed/image.html src="wc:The_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_826186.jpg" aspect="0.669" caption="The second Marlowe Theatre" %}{: .right}
+{% include embed/image.html src="wc:The_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_826186.jpg" aspect="0.669" caption="The second Marlowe Theatre" %}
 
-{% include embed/image.html src="wc:Marlowe_Theatre%2C_Canterbury.jpg" aspect="1.39" caption="The third Marlowe Theatre, Canterbury" %}{: .right}
+{% include embed/image.html src="wc:Marlowe_Theatre%2C_Canterbury.jpg" aspect="1.39" caption="The third Marlowe Theatre, Canterbury" %}
 
 As well as the theatres, the city has also played host to other arts and culture venues. The Princess Alexandra Music Hall and Penny Theatre operated between 1750 and 1903 in a 17th century building with a minstrel's gallery at 30-31, Northgate. A plan to turn it into a museum of amusement machines was turned down by the council in 1982.[^ref45] Throughout the 1990s and early 2000s, it acted as a popular venue for jazz, folk, rock and blues bands. 
 
@@ -144,7 +145,7 @@ The city remains a vibrant centre for theatre with its annual Canterbury Festiva
 
 This article was published: 7 August 2023.
 
-{% include embed/image.html src="wc:The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" aspect="1.333" caption="The Penny Theatre, Canterbury" %}{: .right}
+{% include embed/image.html src="wc:The_Penny_Theatre%2C_Canterbury_-_geograph.org.uk_-_4051515.jpg" aspect="1.333" caption="The Penny Theatre, Canterbury" %}
 
 ### References
 

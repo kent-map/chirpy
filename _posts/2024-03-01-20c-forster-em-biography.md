@@ -1,13 +1,14 @@
 ---
 title: "E.M. Forster"
-description: "This essay traces how E.M. Forster’s experiences and friendships in Kent shaped his later life and writing, from his unhappy schooling in Tonbridge to visits on the North Downs. It links specific places and journeys in the county to themes in his novels and poetry, including The Longest Journey and Howards End."
+description: "This essay traces how E.M. Forster’s experiences in Kent, especially as a day boy at Tonbridge School and through later friendships, shaped his classical interests and writing. It links specific places in Tonbridge, Trottiscliffe on the North Downs, and the Weald to moments in his life, poetry, and novels including The Longest Journey and Howards End."
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Maps & place-making ]
+tags: [ Authors & lives, Literary places, Countryside & farming, Maps & place-making ]
 image: 
   path: "https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50"
 layout: post
+auto_float: true
 permalink: /20c/20c-forster-em-biography/
 published: true
 toc: false    
@@ -20,19 +21,19 @@ toc: false
 
 In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in _The Longest Journey_, on his Tonbridge experience.[^ref2]
 
-{% include embed/image.html src="wc:Tonbridge_School%2C_from_the_cricket_field.jpg" aspect="1.519" caption="Tonbridge School, 1903" %}{: .right}
+{% include embed/image.html src="wc:Tonbridge_School%2C_from_the_cricket_field.jpg" aspect="1.519" caption="Tonbridge School, 1903" %}
 
 <!-- Base map centred on Tonbridge -->
 
-{% include embed/map.html center="Q936183" zoom="13" markers="Q936183" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q936183" zoom="13" markers="Q936183" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 A few years later, through the Bloomsbury set, Forster met Sydney Waterlow.[^ref3] Waterlow’s family lived at Trosley Towers at Trottiscliffe on the chalk escarpment of the North Downs, with views over the Weald. [Chalk topography]({{ site.baseurl }}/landscape/kentish-chalk) plays an important role in Forster’s work, and he would have enjoyed his visits here, quite apart from his friendship with Sydney. Waterlow’s aunt was the [Countess von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography), the novelist then known as ‘Elizabeth of the German Garden’, and it was through Waterlow that Forster was offered the post of tutor to her daughters at Nassenheide in Pomerania, which he took up for the summer months of 1905.
 
-{% include embed/image.html src="wc:North_Downs_at_Trottiscliffe.jpg" aspect="1.333" caption="Trottiscliffe" %}{: .right}
+{% include embed/image.html src="wc:North_Downs_at_Trottiscliffe.jpg" aspect="1.333" caption="Trottiscliffe" %}
 
 <!-- Base map centred on Trottiscliffe -->
 
-{% include embed/map.html center="Q1920945" zoom="13" markers="Q1920945" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q1920945" zoom="13" markers="Q1920945" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 In August 1907, just after the publication of _The Longest Journey_, Forster joined [von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) and others of her former tutors, including [Hugh Walpole]({{ site.baseurl }}/19c/19c-walpole-biography), on the caravanning journey through the Weald during what was one of the wettest Augusts on record. [Von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) would immortalise the holiday in her 1909 novel _The Caravaners_, though it is not evident which, if any, of the young men is based on Forster.[^ref4] Forster joined the party in a field at Great Chart but left before the end, travelling from Borough Green station back to London. He found the city ‘hummed strangely’ for, in a rare moment of sunshine, he had ‘heard a new song’ in the Kent countryside which he recorded in this poem.   
 
@@ -49,11 +50,11 @@ However, two years later, in _Howards End_, Forster would ask ‘Why has not Eng
 
 Alas, our Kentish gods had failed to dominate the classical ones!
 
-{% include embed/image.html src="wc:Cricket_pitch%2C_Great_Chart_-_geograph.org.uk_-_2479477.jpg" aspect="1.488" caption="Cricket pitch, Great Chart" %}{: .right}
+{% include embed/image.html src="wc:Cricket_pitch%2C_Great_Chart_-_geograph.org.uk_-_2479477.jpg" aspect="1.488" caption="Cricket pitch, Great Chart" %}
 
 <!-- Base map centred on Marden -->
 
-{% include embed/map.html center="Q6758628" zoom="10" markers="Q6758628" allmaps="d549f0ddbeca485f~OS Kent 1899" %}{: .right}
+{% include embed/map.html center="Q6758628" zoom="10" markers="Q6758628" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 ## References
 

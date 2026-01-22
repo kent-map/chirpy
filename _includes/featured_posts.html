@@ -1,0 +1,15 @@
+{% assign featured = site.posts | where: 'featured', 'true' %}
+
+{%- if featured.size > 0 -%}
+
+<h1>Featured Essays</h1>
+
+<div id="featured-essays" class="post-index flex-grow-1 px-xl-1 view-list">
+  {% for post in featured %}
+  {% include post_index_item.html post=post %}
+  {% endfor %}
+</div>
+
+<h1>All Essays</h1>
+
+{%- endif -%}

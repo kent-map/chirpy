@@ -4,10 +4,11 @@ description: "Michelle Whitham traces British Prime Minister Winston Churchill's
 author: Michelle Whitham
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Buildings & architecture, Conflict & war, Heritage & memory ]
+tags: [ Authors & lives, Buildings & architecture, Heritage & memory, Conflict & war ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-churchill-chartwell/
 published: true
 toc: false    
@@ -18,57 +19,57 @@ toc: false
 
 <!-- Base map centred on Westerham -->
 
-{% include embed/map.html center="Q2321393" zoom="12.5" markers="Q2321393" allmaps="6810391d199af2d1~Kent Admin Boundaries 1967" %}{: .right}
+{% include embed/map.html center="Q2321393" zoom="12.5" markers="Q2321393" allmaps="6810391d199af2d1~Kent Admin Boundaries 1967" %}
 
 <!-- Historical map layers -->
 
 War-time Prime Minister Winston Churchill has several connections to Kent.  Most importantly he was a resident of Kent, living at [Chartwell](Q1067909), a country house near [Westerham](Q2321393).[^ref1]  He is reported to have said that he bought the estate for its view over the Weald of Kent and that "a day away from Chartwell is a day wasted".[^ref2]
 
-{% include embed/image.html src="wc:Churchill_waves_to_crowds.jpg" aspect="1.069" caption="Winston Churchill waving to crowds" %}{: .right}
+{% include embed/image.html src="wc:Churchill_waves_to_crowds.jpg" aspect="1.069" caption="Winston Churchill waving to crowds" %}
 
 Built upon as early as the 16th century,[^ref3] Churchill purchased the house in 1922, just after the birth of his youngest daughter, Mary. He originally purchased the estate for £5,000 but spent upwards of an additional £30,000 over the next 15 years on an extensive programme of rebuilding and improvements.[^ref4]
 
-{% include embed/image.html src="wc:Chartwell_House%2C_rear.JPG" aspect="1.546" caption="Rear of Chartwell" %}{: .right}
+{% include embed/image.html src="wc:Chartwell_House%2C_rear.JPG" aspect="1.546" caption="Rear of Chartwell" %}
 
 On top of his many talents, unknown to many, Churchill was also an avid painter, picking up his first brush at the age of 41. After discovering his new passion, he had a studio built at Chartwell in the 1930’s which became one of his favourite refuges.[^ref5]  He would go on to paint over 500 paintings, many of which would be painted at his Kent home.
 
-{% include embed/image.html src="wc:Entrance_to_Churchill%27s_Garden_Studio_at_Chartwell_-_geograph.org.uk_-_1421616.jpg" aspect="1.333" caption="Entrance to Churchill's studio at Chartwell" %}{: .right}
+{% include embed/image.html src="wc:Entrance_to_Churchill%27s_Garden_Studio_at_Chartwell_-_geograph.org.uk_-_1421616.jpg" aspect="1.333" caption="Entrance to Churchill's studio at Chartwell" %}
 
 Chartwell is now cared for by the National Trust who acquired the property 18 years before the death of Churchill. Due to the family finding the upkeep of the large estate expensive, in 1945 it was purchased by a group of wealthy friends for £50,000 to allow the family to remain living there.[^ref6]  The group then offered the estate to the National Trust in 1946/47 but with the proviso that Churchill and his wife could continue to reside there for as long as they wanted,[^ref7] paying a nominal rent of £350 per year.[^ref8]
 
-{% include embed/image.html src="wc:Plaque_on_wall_at_Chartwell_-_geograph.org.uk_-_1421613.jpg" aspect="1.333" caption="Plaque on wall at Chartwell" %}{: .right}
+{% include embed/image.html src="wc:Plaque_on_wall_at_Chartwell_-_geograph.org.uk_-_1421613.jpg" aspect="1.333" caption="Plaque on wall at Chartwell" %}
 
 Sadly in 1964 Churchill made the decision to leave Chartwell and move to his London flat in Hyde Park Gate, due to his poor health.  It was here that he celebrated his 90th birthday before passing away a few weeks later.  Lady Churchill finally left Chartwell in June 1965 following the death of her beloved Husband.[^ref9]  Chartwell is open for visitors today.
 
-{% include embed/image.html src="wc:Tea_at_Chartwell.jpg" aspect="1.696" caption="Tea at Chartwell" %}{: .right}
+{% include embed/image.html src="wc:Tea_at_Chartwell.jpg" aspect="1.696" caption="Tea at Chartwell" %}
 
 Churchill was also appointed Lord Warden and Admiral of the Cinque Ports (Dover, Sandwich, Hythe, New Romney and Hastings) in September 1941,[^ref10] which provided him with the right to live at Walmer Castle,[^ref11] the official residence of the Lord Warden.  He was elected as an Honorary Life Member of the Association of Men of Kent and Kentish Men in 1949.[^ref12]
 
-{% include embed/image.html src="wc:Standard_of_the_Lord_Warden_of_the_Cinque_Ports_RMG_L0123.tiff" aspect="1.435" caption="Standard of the Lord Warden of the Cinque Ports" %}{: .right}
+{% include embed/image.html src="wc:Standard_of_the_Lord_Warden_of_the_Cinque_Ports_RMG_L0123.tiff" aspect="1.435" caption="Standard of the Lord Warden of the Cinque Ports" %}
 
-{% include embed/map.html center="Q2543161" zoom="12" markers="Q2543161" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q2543161" zoom="12" markers="Q2543161" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 As well as residing in Kent, Churchill visited other areas of the county on numerous occasions. Most notably he spent time at Dover Castle, in the [Secret Wartime Tunnels]({{ site.baseurl }}/20c/20c-secret-tunnels) where a number of notable wartime operations were planned. He also had flying lessons at [Eastchurch]({{ site.baseurl }}/20c/20c-eastchurch-aviation) on the Isle of Sheppey. 
 
-{% include embed/image.html src="wc:Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" aspect="0.991" caption="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" %}{: .right}
+{% include embed/image.html src="wc:Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" aspect="0.991" caption="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" %}
 
-{% include embed/image.html src="wc:War_Office_Second_World_War_Official_Collection_H3509.jpg" aspect="1.004" caption="Winston Churchill at Dover Castle Secret Wartime Tunnels" %}{: .right}
+{% include embed/image.html src="wc:War_Office_Second_World_War_Official_Collection_H3509.jpg" aspect="1.004" caption="Winston Churchill at Dover Castle Secret Wartime Tunnels" %}
 
-{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 Churchill is remembered in Kent through three statues. One is located in Westerham on The Green,[^ref13], another at Chartwell and the third at St. Margaret’s Bay, [Dover](Q179224) looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" aspect="1.708" caption="Churchill Statue in Westerham" attribution="Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" aspect="1.708" caption="Churchill Statue in Westerham" attribution="Martin Crowther" %}
 
-{% include embed/image.html src="wc:Chartwell%2C_Churchills%27_statue.jpg" aspect="1.239" caption="Statue of Winston and Clementine Churchill at Chartwell" %}{: .right}
+{% include embed/image.html src="wc:Chartwell%2C_Churchills%27_statue.jpg" aspect="1.239" caption="Statue of Winston and Clementine Churchill at Chartwell" %}
 
-{% include embed/map.html center="Q24638363" zoom="12" markers="Q24638363" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q24638363" zoom="12" markers="Q24638363" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q2321393" zoom="12" markers="Q2321393" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q2321393" zoom="12" markers="Q2321393" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q1067909" zoom="12" markers="Q1067909" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q1067909" zoom="12" markers="Q1067909" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-{% include embed/map.html center="Q24638363" zoom="12" markers="Q24638363" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}{: .right}
+{% include embed/map.html center="Q24638363" zoom="12" markers="Q24638363" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
 ### References
 

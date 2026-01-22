@@ -1,6 +1,6 @@
 ---
 title: "Mrs Elizabeth Burgess (1737-1825)"
-description: "This essay reconstructs the life and work of Elizabeth Burgess of Canterbury, tracing her careers as dressmaker, pastry maker, and registry-office keeper alongside her writing for the local stage and print. It uses newspaper notices and surviving publications to place her comedy The Oaks and her biography of Betty Bolaine in the social world of late eighteenth- and early nineteenth-century Canterbury."
+description: "This essay reconstructs the life and work of Elizabeth Burgess (1737-1825), a Canterbury-based mantua maker, pastry seller, and author whose play The Oaks and later biography of Betty Bolaine drew on local people, places, and gossip. Using newspaper notices, surviving printed texts, and site-specific landmarks, it situates her writing within the commercial, theatrical, and civic culture of Georgian Canterbury."
 author: Stephen Williamson
 date: 2024-03-01
 categories: [ 18c ]
@@ -8,6 +8,7 @@ tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
 layout: post
+auto_float: true
 permalink: /18c/18c-burgess-biography/
 published: true
 toc: false    
@@ -16,7 +17,7 @@ toc: false
 
 <!-- Kent with map centered at Canterbury -->
 
-{% include embed/map.html center="Q29303" zoom="10" markers="Q29303" allmaps="4f72c8eb5fe1eba5~Mackenzie 1900" %}{: .right}
+{% include embed/map.html center="Q29303" zoom="10" markers="Q29303" allmaps="4f72c8eb5fe1eba5~Mackenzie 1900" %}
 
 <!-- Historical map layers -->
 
@@ -26,18 +27,18 @@ The exceptional Elizabeth Burgess was born in [Canterbury](Q29303) as Elizabeth 
 
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’
 
-{% include embed/image.html src="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" aspect="1.333" caption="Eight Bells" attribution="Edward Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" aspect="1.333" caption="Eight Bells" attribution="Edward Crowther" %}
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
 
-{% include embed/image.html src="wc:Canterbury_-_St_Alphege.jpg" aspect="1.511" caption="St Alphege" %}{: .right}
+{% include embed/image.html src="wc:Canterbury_-_St_Alphege.jpg" aspect="1.511" caption="St Alphege" %}
 
 In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette) as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
 
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br><br>
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" aspect="1.333" caption="43, King Street" attribution="Edward Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" aspect="1.333" caption="43, King Street" attribution="Edward Crowther" %}
 
 In 1772 [Kentish Gazette]({{ site.baseurl }}/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’ but probably from 1768 till about 1790 between the Corn Market (now Longmarket) and Butchery Lane), and in the same year the following appears:
 
@@ -47,7 +48,7 @@ In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<
 RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" aspect="1.333" caption="View from Whitefriars looking towards the St George's Clock tower" attribution="Edward Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" aspect="1.333" caption="View from Whitefriars looking towards the St George's Clock tower" attribution="Edward Crowther" %}
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
 
@@ -55,13 +56,13 @@ Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Au
 
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not survive: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
 
-{% include embed/image.html src="wc:Christ_Church_Gate_-Joseph_Mallord_William_Turner.png" aspect="0.976" caption="Christchurch Gate, 1792" %}{: .right}
+{% include embed/image.html src="wc:Christ_Church_Gate_-Joseph_Mallord_William_Turner.png" aspect="0.976" caption="Christchurch Gate, 1792" %}
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 
 The ‘Red Lion’ innkeeper’s overcharging of the Duke de Nivernois, the French Ambassador recently arrived at [Dover](Q179224), that caused the populace of Canterbury so much amusement in 1762 (and is mentioned with amusement in the letter of Madame de Pompadour to the Duke in the same year) is referred to, as is a more recent small fire that apparently caused a stampede in the Canterbury theatre when the famed Mr Palmer from the Drury Lane Theatre London was performing. These lines were no doubt well received by the Canterbury audiences. However one can but conclude that this is a competent rather than a brilliant piece of work.
 
-{% include embed/image.html src="wc:Louis-Jules_Mancini-Mazarini.jpg" aspect="0.75" caption="Louis-Jules Mancini-Mazarini, the Duc de Nivernois" %}{: .right}
+{% include embed/image.html src="wc:Louis-Jules_Mancini-Mazarini.jpg" aspect="0.75" caption="Louis-Jules Mancini-Mazarini, the Duc de Nivernois" %}
 
 For the next twenty years any further literary output is unknown. _The Thespian Dictionary_ in 1802 has an entry: BURGESS, (Mrs.) is author of a comedy, called “The Oaks; or, Beauties of Canterbury”, 1780, several times acted in that city, where she keeps a shop in St. George's Street. 
 
@@ -69,7 +70,7 @@ A family website, no longer live, advised that:
 
 ‘My great grandmother was privately a very charitable woman as far as her means would allow.  Among other cases I have heard, that she was so kind to the poor French prisoners of war, that when they were released by exchange, they desired to be marched past her house and cheered her calling out in both languages “God Bless Mrs. Burgess”.  I believe my father witnessed the above.  Being a good cook, she knew how to make French soups and also provided them with soup and the ingredients for them to make that and other French dishes.  She used to entertain some of the officers on parole at her house and kept good society.’
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" aspect="1.296" caption="St George's Gate" attribution="Canterbury in the Olden Time by John Brent, 1879" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" aspect="1.296" caption="St George's Gate" attribution="Canterbury in the Olden Time by John Brent, 1879" %}
 
 The same site advised that she was very tall (around 6ft) and lends credence to a pleasing self-mockery of her own ‘awkwardness’ in her Prologue to ‘The Oaks’:
 
@@ -83,13 +84,13 @@ To write a Play, she should be something clever,
 But she is such an awkward clumsy Woman,    
 Quite impolite – her education common.   
 
-{% include embed/image.html src="wc:Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg" aspect="0.569" caption="Old woman scouring a cooking pot" %}{: .right}
+{% include embed/image.html src="wc:Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg" aspect="0.569" caption="Old woman scouring a cooking pot" %}
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" aspect="1.333" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" aspect="1.333" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}
 
-{% include embed/map.html center="Q26534254" zoom="15" markers="Q26534254" allmaps="~Kent 1808" %}{: .right}
+{% include embed/map.html center="Q26534254" zoom="15" markers="Q26534254" allmaps="~Kent 1808" %}
 
 The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the following words:
 
@@ -97,7 +98,7 @@ The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the followi
 
 *The Maid of the Oaks was a different play; it should read The Oaks.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" aspect="0.549" caption="Woodcut illustrating St George's Church with St George's Gate in the distance" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" aspect="0.549" caption="Woodcut illustrating St George's Church with St George's Gate in the distance" %}
 
 ### Bibliography
 

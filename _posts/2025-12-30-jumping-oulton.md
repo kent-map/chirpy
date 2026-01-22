@@ -1,6 +1,6 @@
 ---
 title: "Jumping Downs"
-description: "This essay presents a poem by Carolyn Oulton that closely observes grasses, thistle, clover, and fleeting bodily sensations in a field setting, linking attention to landscape with the act of writing. It frames the countryside as both a lived environment and a source of literary texture, where small details carry memory and meaning."
+description: "This essay presents a close reading of a poem from Accidental Fruit that lingers on bodily sensation, small creatures, and field textures as sources of memory and playful writing. It links the poem’s imagery to rural Kent landscapes and the material details of plants and ground-level experience."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
@@ -8,13 +8,16 @@ tags: [ Texts & genres, Countryside & farming, Nature & environment, Representat
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg"
 layout: post
+auto_float: true
 permalink: /poetry/jumping-oulton/
 published: true
 toc: false    
 ---
 
 
-With my head in position that butterfly wing   
+{% include embed/image.html src="wc:Hyperchromic_Trifolium_pratense.jpg" aspect="1.505" caption="Hyperchromic Trifolium pratense by Nicolas Schwab, CC BY-SA 4.0, via Wikimedia Commons" %}{:.right}
+
+>With my head in position that butterfly wing   
 is the shadow of a line of grass -   
 just there the bone of a fallen thistle,   
 a boot hook. Coming up   
@@ -32,4 +35,3 @@ purple flowers as they tick tock tick.
 
 From _Accidental Fruit_, [Worple Press](https://worplepress.com/) (2016).
 
-{% include embed/image.html src="wc:Hyperchromic_Trifolium_pratense.jpg" aspect="1.505" caption="Hyperchromic Trifolium pratense by Nicolas Schwab, CC BY-SA 4.0, via Wikimedia Commons" %}{: .right}

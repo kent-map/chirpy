@@ -4,10 +4,11 @@ description: "Described in the 19th Century as the 'authors haven of repose, Mic
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Literary places, Coast & sea, Authors & lives, Heritage & memory ]
+tags: [ Literary places, Coast & sea, Authors & lives, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /placesrz/sandgate-overview/
 published: true
 toc: false    
@@ -16,17 +17,17 @@ toc: false
 
 <!-- Base map centred on Sandgate -->
 
-{% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}{: .right}
+{% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 <!-- Historical map layers -->
 
 Sandgate, a coastal village near the outskirts of [Folkestone](Q375314), has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" aspect="0.761" caption="English's Guide to Folkestone, Sandgate, Hythe" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" aspect="0.761" caption="English's Guide to Folkestone, Sandgate, Hythe" %}
 
 <!-- Base map centred on Sandgate -->
 
-{% include embed/map.html center="Q1000312" zoom="11.5" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}{: .right}
+{% include embed/map.html center="Q1000312" zoom="11.5" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter]({{ site.baseurl }}/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
 
@@ -36,23 +37,23 @@ Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the 
 
 [Mary Shelley](https://kent-maps.online/19c/19c-shelleym-biography/) came in 1832, writing: “I think this place the healthiest in the world (though a little windy and cold).”[^ref3] 
 
-{% include embed/image.html src="wc:Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg" aspect="0.821" caption="Fanny Burney" %}{: .right}
+{% include embed/image.html src="wc:Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg" aspect="0.821" caption="Fanny Burney" %}
 
 Anna Sewell, the author of _Black Beauty_ came on holiday to Sandgate as a child and visited neighbouring Folkestone where she saw the Blue Clay fossils.[^ref4]
 
 [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandgate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref5]
 
-{% include embed/image.html src="wc:Sarah_Grand_profile.jpg" aspect="0.658" caption="Sarah Grand by Hayman Seleg Mendelssohn" %}{: .right}
+{% include embed/image.html src="wc:Sarah_Grand_profile.jpg" aspect="0.658" caption="Sarah Grand by Hayman Seleg Mendelssohn" %}
 
 The journalist and author, [George Augustus Sala]({{ site.baseurl }}/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref6]  
 
-{% include embed/image.html src="wc:GeorgeAugustusSala1828-1895.jpg" aspect="0.656" caption="George Augustus Sala" %}{: .right}
+{% include embed/image.html src="wc:GeorgeAugustusSala1828-1895.jpg" aspect="0.656" caption="George Augustus Sala" %}
 
 The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref7]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited [Henrietta Vaughan Stannard]({{ site.baseurl }}/19c/19c-vaughan-stannard-biography) who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref8]. 
 
 In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is the dismallest day I've seen at Sandgate." He also said that he was working his way through the circulating library.[^ref9]
 
-{% include embed/image.html src="wc:John_Ruskin%2C_1882.jpg" aspect="0.707" caption="John Ruskin, 1882" %}{: .right}
+{% include embed/image.html src="wc:John_Ruskin%2C_1882.jpg" aspect="0.707" caption="John Ruskin, 1882" %}
 
 In 1888, Evelyn Underhill (1875-1941) was a pupil at Sandgate House boarding school. She would later write _Mysticism: a study in the Nature and Development of Man's Spiritual Consciousness_ (1911).
 
@@ -62,11 +63,11 @@ The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farlei
 
 [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" aspect="1.604" caption="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" aspect="1.604" caption="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection" %}
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref10]  His novel _The Sea Lady_ is set in Sandgate.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Spade_MJC.jpg" aspect="1.333" caption="Spade House" attribution="Photographed by Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Spade_MJC.jpg" aspect="1.333" caption="Spade House" attribution="Photographed by Martin Crowther" %}
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at [Hythe](Q967166) Town Hall in February 1900.[^ref11] 
 
@@ -74,7 +75,7 @@ Author [Jocelyn Brooke]({{ site.baseurl }}/20c/20c-brooke-biography) who was bor
 
 The Chaplain of Eversley School, Sandgate, [John Ferguson]({{ site.baseurl }}/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" aspect="1.333" caption="Home of Bithia Croker" attribution="Photographed by Martin Crowther" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" aspect="1.333" caption="Home of Bithia Croker" attribution="Photographed by Martin Crowther" %}
 
 ### References
 

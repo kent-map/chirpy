@@ -1,6 +1,6 @@
 ---
 title: "Whiteways"
-description: "A seasonal poem that follows the white chalk road of Whiteways from Saxon graves toward Northbourne, observing wildlife, farmland, and shifting weather. Through close attention to plants, birds, and skies, it reads the landscape around Updown and nearby marshes as a place shaped by long time and everyday rural life."
+description: "A seasonal lyric poem traces the Whiteways road near Northbourne and Updown, moving from bright summer verges to autumn fields and a snowbound winter afternoon. Close attention to plants, birds, weather, and chalky farmland turns this local route into a changing landscape of memory and mood."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
@@ -8,6 +8,7 @@ tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary pl
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
 layout: post
+auto_float: true
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false    
@@ -25,7 +26,7 @@ with the wheat’s sweet smell, sparrows bathe in silky dust.
 Above the slope to Updown in the blueboard sky    
 a silent plane chalks up a line, and the larks sing.    
 
-{% include embed/image.html src="wc:Vapour_trails_across_the_sky_-_geograph.org.uk_-_2698250.jpg" aspect="0.664" caption="Vapour Trails Across the Sky" %}{: .right}
+{% include embed/image.html src="wc:Vapour_trails_across_the_sky_-_geograph.org.uk_-_2698250.jpg" aspect="0.664" caption="Vapour Trails Across the Sky" %}
 
 Dead light blanks out time of day in dull October.    
 The tired dun soil, ploughed, harrowed, stretches out to rest   
@@ -38,7 +39,7 @@ The oaks look soft to stroke.  Who threw those rufous pelts
 over them so carelessly?  They can’t bring shelter   
 from the coming weather.   
 
-{% include embed/image.html src="wc:Ploughed_field_near_Updown_Farm_-_geograph.org.uk_-_5568958.jpg" aspect="1.333" caption="Ploughed field near Updown Farm" %}{: .right}
+{% include embed/image.html src="wc:Ploughed_field_near_Updown_Farm_-_geograph.org.uk_-_5568958.jpg" aspect="1.333" caption="Ploughed field near Updown Farm" %}
 
 A winter afternoon so cold it holds its breath    
 in air well laden with the sharp pure smell of snow.    
@@ -51,5 +52,5 @@ Only a skein of geese stitches its way neatly
 through the sky to Hacklinge Marsh, as the falling sun    
 lights its evening fire from the logs of stratus clouds.   
 
-{% include embed/image.html src="wc:Flight_of_Geese_-_geograph.org.uk_-_348831.jpg" aspect="1.667" caption="Flight of Geese" %}{: .right}
+{% include embed/image.html src="wc:Flight_of_Geese_-_geograph.org.uk_-_348831.jpg" aspect="1.667" caption="Flight of Geese" %}
 

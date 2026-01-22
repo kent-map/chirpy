@@ -151,7 +151,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 12
 
 # The base URL of your site
 baseurl: /chirpy
@@ -174,7 +174,7 @@ collections:
   tabs:
     output: true
     sort_by: order
-  admin:
+  docs:
     output: true
     sort_by: order
 

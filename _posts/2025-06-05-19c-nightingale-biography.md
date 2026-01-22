@@ -1,13 +1,14 @@
 ---
 title: "Florence Nightingale (1820 – 1910)"
-description: "This essay traces Florence Nightingale’s influence on military medical reform in Kent, focusing on her inspections and critiques of Chatham’s hospitals and her role in establishing the Army Medical Practical School at Fort Pitt. It also follows her later visit to Ramsgate for recuperation and briefly connects her pavilion-plan hospital ideas to Chatham’s First World War-era naval hospital."
+description: "This essay traces Florence Nightingale’s connections to Kent, focusing on her inspections of Chatham’s military and naval hospitals and her role in founding the Army Medical Practical School at Fort Pitt in 1860. It also follows her later convalescent stay in Ramsgate and links her hospital reforms to early twentieth-century medical infrastructure at Chatham."
 author: Michelle Crowther
 date: 2025-06-05
 categories: [ 19c ]
-tags: [ Authors & lives, Politics & reform, Towns & cities, Conflict & war ]
+tags: [ Authors & lives, Politics & reform, Buildings & architecture, Towns & cities, Coast & sea ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Crimean_War_1854-56_Q71593.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-nightingale-biography/
 published: true
 toc: false    
@@ -17,7 +18,7 @@ Social reformer and nursing campaigner, Florence Nightingale, who rose to fame a
 
 Three years earlier, Florence had been asked by Sir John Liddell, Director-General of the Navy Medical Department, to “introduce female nurses into naval hospitals.”[^ref1] She visited Chatham, which was a military, as well as naval, station with Sir John and her friend Miss Carter in March 1857.[^ref2] 
 
-{% include embed/image.html src="wc:%28Florence_Nightingale%29_%28LOC%29.jpg" aspect="0.628" caption="Florence Nightingale" %}{: .right}
+{% include embed/image.html src="wc:%28Florence_Nightingale%29_%28LOC%29.jpg" aspect="0.628" caption="Florence Nightingale" %}
 
 During the visit, they inspected the Garrison Hospital at Chatham Barracks, Melville Naval Hospital and the General Hospital at Fort Pitt. It was reported that she spent “nearly three hours at Melville, during which she inspected the dispensing rooms, washhouses, &c., the whole of which met with her warm approval”.[^ref3] However, after the visit, Florence wrote to Sir John McNeill, Scottish surgeon and diplomat: 
 
@@ -27,11 +28,11 @@ McNeill, who had been sent to investigate the conditions of the Crimean hospital
 
 It was not only the men at Chatham who received Florence's attention. While visiting the three hospitals she made enquiries about the Chatham Garrison Compassionate Institute, which provided “food, clothing and lodging” for the sick women and children of the garrison, afterwards giving the institute a donation of 50 guineas.[^ref7] 
 
-{% include embed/image.html src="wc:Invalided_soldiers_assembled_in_the_garden_of_Fort_Pitt_Hosp_Wellcome_V0015777.jpg" aspect="1.634" caption="Invalided soliders assembled in the garden of Fort Pitt Hospital" %}{: .right}
+{% include embed/image.html src="wc:Invalided_soldiers_assembled_in_the_garden_of_Fort_Pitt_Hosp_Wellcome_V0015777.jpg" aspect="1.634" caption="Invalided soliders assembled in the garden of Fort Pitt Hospital" %}
 
 [Queen Victoria]({{ site.baseurl }}/19c/19c-victoria-biography), who admired Florence Nightingale’s work in the Crimea, had written: 'I envy her being able to do so much good and look after the noble heroes whose behaviour is admirable'.[^ref8] The Queen and Prince Albert had visited wounded soldiers at the hospital at Fort Pitt three times in 1855. After the war, the Queen invited Florence to Balmoral, where Florence outlined the reforms that were needed in military hospitals.[^ref9] 
 
-{% include embed/image.html src="wc:Queen_Victoria_and_Prince_Albert_visiting_soldiers_wounded_i_Wellcome_V0015421.jpg" aspect="1.349" caption="Queen Victoria and Prince Albert visiting wounded soldiers, Chatham, 1855" %}{: .right}
+{% include embed/image.html src="wc:Queen_Victoria_and_Prince_Albert_visiting_soldiers_wounded_i_Wellcome_V0015421.jpg" aspect="1.349" caption="Queen Victoria and Prince Albert visiting wounded soldiers, Chatham, 1855" %}
 
 Fort Pitt was used to receive and assess soldiers invalided back to Britain after service abroad. However, as Florence observed: “young men were sent to attend sick and wounded soldiers, who perhaps had never dressed a serious wound, or never attended a bedside, except in the midst of a crowd of students, following in the wake of some eminent lecturer, who certainly had never been instructed in the most ordinary sanitary knowledge”[^ref10] 
 
@@ -41,11 +42,11 @@ At the opening of the Army Medical Practical School on the 2nd October 1860, Dep
 
 The first students who arrived found that the school was not properly equipped, and Florence had to intervene again to make sure it was fit for purpose. She also made recommendations for the nominations of professors of hygiene and pathology. [^ref12] 
 
-{% include embed/image.html src="wc:Crimea_block%2C_Fort_Pitt%2C_Chatham%2C_Kent.png" aspect="2.244" caption="Crimea Block, Fort Pitt, Chatham" %}{: .right}
+{% include embed/image.html src="wc:Crimea_block%2C_Fort_Pitt%2C_Chatham%2C_Kent.png" aspect="2.244" caption="Crimea Block, Fort Pitt, Chatham" %}
 
 In June 1862, Florence presented a paper at the Congres International de Bienfaisance on Army Sanitation Reform, in which she outlined the advantages of trained attendants at the Army Medical School at Chatham. She also took the opportunity to comment on the system of “regulation” of “camp vices” and the “open infamous trading in prostitution” that took place in the army, recommending that the men’s barracks should be made more like home with libraries, reading rooms and innocent games.[^ref13] However, despite her privately printed paper _Note on the Supposed Protection Afforded Against Venereal Diseases, by recognizing Prostitution and Putting It under Police Regulation_ in which she outlined statistics on hospital admissions for venereal disease, the [Contagious Diseases Prevention Act]({{ site.baseurl }}/19c/19c-contagious-diseases) was passed two years later and Chatham’s purpose built Lock hospital, to treat those arrested under the Act, was constructed in 1869. In 1870, the “The Ladies’ National Association for the Repeal of the Contagious Diseases Acts” was launched including Nightingale and [Josephine Butler]({{ site.baseurl }}/19c/19c-butler-biography), who travelled to Chatham and other Kent towns on a campaign to repeal the Act.
 
-{% include embed/image.html src="wc:Men_of_war_caricature_1791.jpg" aspect="0.736" caption="Men of War, Bound for the Port of Pleasure" %}{: .right}
+{% include embed/image.html src="wc:Men_of_war_caricature_1791.jpg" aspect="0.736" caption="Men of War, Bound for the Port of Pleasure" %}
 
 Twenty years after establishing the Army Medical School at Chatham, Florence returned to Kent; this time, for her own health.[^ref14] After the death of her mother on the 2nd of February 1880, Florence suffered a nervous collapse and was prescribed “sea air” by her doctors. Taking their advice, she visited [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/), which was billed as "the most bracing and invigorating seaside resort in England".[^ref16] She checked in to the Granville, a smart hotel on Victoria Parade designed by Edward Welby Pugin, the son of [Augustus Pugin](19c/19c-pugin-biography). As a spa hotel it was equipped with hydropathic, ozone, saline, plunge and [Turkish baths]({{ site.baseurl }}/19c/19c-turkish-baths) [^ref15], as well as trained assistants and medical men. It was described in the _Illustrated Sporting and Dramatic News_ as a perfect "pick up" during the "murkiest of the months" where "ladies who shrink from exposing their dainty forms in close-clinging dresses to the staring crowd on the sands, or dislike the clumsy, comfortless, old bathing machines may, on the days devoted to them, enjoy all the comforts and benefits of sea-water bathing with the privacy of home".[^ref17] Florence wrote to her friend, Miss Pringle:
 
@@ -53,13 +54,13 @@ Twenty years after establishing the Army Medical School at Chatham, Florence ret
 
 However, despite the sea air and its state of the art bathing facilities, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) failed to revive Florence and she left the "Hygeiopolis" after three weeks.[^ref19] The woman who achieved so much to improve the health of others, failed to improve her own. Nevertheless, indefatigible, she lived until the age of 90, dying in 1910.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" aspect="1.486" caption="Granville Hotel" attribution="By kind permission of Carolyn Oulton" %}{: .right}
+{% include embed/image.html src="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" aspect="1.486" caption="Granville Hotel" attribution="By kind permission of Carolyn Oulton" %}
 
 Four years later with the outbreak of the First World War, the Royal Naval Hospital, Chatham, erected in 1899-1905 to replace the Melville Hospital took on strategic importance as one of three principal naval hospitals in the UK. It was designed as a pavilion-plan hospital, a system which Florence had pioneered.[^ref20] 
 
 This article was written: 13 April 2025.
 
-{% include embed/image.html src="wc:The_Medical_Services_on_the_Home_Front%2C_1914-1918_Q18929.jpg" aspect="1.268" caption="The Medical Services on the Home Front, 1914-1918 Q18929" %}{: .right}
+{% include embed/image.html src="wc:The_Medical_Services_on_the_Home_Front%2C_1914-1918_Q18929.jpg" aspect="1.268" caption="The Medical Services on the Home Front, 1914-1918 Q18929" %}
 
 ### References
 

@@ -1,13 +1,14 @@
 ---
 title: "Jerome K. Jerome (1859-1927)"
-description: "This essay introduces Jerome K. Jerome and traces his comic relationship with Folkestone, from seaside observation to its appearance in Three Men on the Bummel. It uses scenes of respectability on the Leas and a disastrous bicycle repair to show how Jerome turns holiday leisure and modern transport into social satire."
+description: "This essay introduces Jerome K. Jerome through his connections to Folkestone and the comic seaside respectability satirised in Three Men on the Bummel. It situates Jerome in late Victorian leisure culture, using scenes on the Leas and a bicycle mishap to show how place shapes tone and character."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Culture & society ]
+tags: [ Authors & lives, Literary places, Coast & sea, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
 layout: post
+auto_float: true
 permalink: /19c/19c-jerome-biography/
 published: true
 toc: false    
@@ -33,23 +34,23 @@ toc: false
 
 _Three Men on the Bummel_   
 
-{% include embed/image.html src="wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" aspect="1.345" caption="Folkestone The Leas Promenade and Bandstand" %}{: .right}
+{% include embed/image.html src="wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" aspect="1.345" caption="Folkestone The Leas Promenade and Bandstand" %}
 
-{% include embed/image.html src="wc:The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" aspect="1.336" caption="The Bandstand, The Leas, Folkestone" %}{: .right}
+{% include embed/image.html src="wc:The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg" aspect="1.336" caption="The Bandstand, The Leas, Folkestone" %}
 
-{% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 Watching [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) from a steamer in the summer of 1891, the writer [Robert Barr]({{ site.baseurl }}/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’
 
-{% include embed/image.html src="wc:Photo_of_Robert_Barr.jpg" aspect="0.722" caption="Robert Barr" %}{: .right}
+{% include embed/image.html src="wc:Photo_of_Robert_Barr.jpg" aspect="0.722" caption="Robert Barr" %}
 
-{% include embed/map.html center="Q375314" zoom="14" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="14" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone]({{ site.baseurl }}/19c/19c-folkestone).
 
-{% include embed/image.html src="wc:Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" aspect="0.652" caption="Three Men in a Boat First edition" %}{: .right}
+{% include embed/image.html src="wc:Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg" aspect="0.652" caption="Three Men in a Boat First edition" %}
 
-{% include embed/map.html center="Q375314" zoom="14" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}{: .right}
+{% include embed/map.html center="Q375314" zoom="14" markers="Q375314" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.
 
@@ -69,11 +70,11 @@ He was quite excited about them. We grovelled round for half an hour, and found 
 
 Nothing daunted, J’s new acquaintance next proposes ‘that while he was about it he would see to the chain for me, and at once began taking off the gear-case.  I did try to persuade him from that.’    
 
-{% include embed/image.html src="wc:The_Lees_i.e._Leas_Folkestone_England.jpg" aspect="1.274" caption="Folkestone Leas" %}{: .right}
+{% include embed/image.html src="wc:The_Lees_i.e._Leas_Folkestone_England.jpg" aspect="1.274" caption="Folkestone Leas" %}
 
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
 
-{% include embed/image.html src="wc:Vintage_bicycle_illustration_%2846733122262%29.jpg" aspect="1.5" caption="Vintage bicycle illustration" %}{: .right}
+{% include embed/image.html src="wc:Vintage_bicycle_illustration_%2846733122262%29.jpg" aspect="1.5" caption="Vintage bicycle illustration" %}
 
 ### Bibliography
 
@@ -82,4 +83,4 @@ Sharp, Luke [Robert Barr]({{ site.baseurl }}/19c/19c-barr-biography). ‘A searc
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).    
 [Victorian Secrets: Jerome K. Jerome](https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/)   
 
-{% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome" %}{: .right}
+{% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome" %}

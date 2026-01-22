@@ -1,6 +1,6 @@
 ---
 title: "D.H. Lawrence (1885–1930)"
-description: "This essay traces D.H. Lawrence’s visits to Kent between 1911 and 1914, focusing on his stays at Edward Garnett’s home The Cearne near Edenbridge and his uneasy seaside holiday at Kingsgate and Margate. It uses letters and recollections to show how these places shaped Lawrence’s writing, moods, and relationships during a crucial period in his career."
+description: "This essay traces D.H. Lawrence’s visits to Kent from 1911 to 1914, focusing on his stays at Edward Garnett’s home The Cearne near Edenbridge and a later seaside holiday at Kingsgate and Margate. Drawing on Lawrence’s letters and contemporary recollections, it links specific Kent places to his relationships, moods, and the writing and revision of poems and short stories."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
@@ -8,6 +8,7 @@ tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrence_%26_Frieda_von_Richthofen_1914.jpg"
 layout: post
+auto_float: true
 permalink: /20c/20c-lawrence-biography/
 published: true
 toc: false    
@@ -19,7 +20,7 @@ _Letter to Katherine Clayton, 8 July 1913_[^ref1]
 
 David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. Depressed by his work as a teacher, he had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at [Crockham Hill](Q5187371), [Edenbridge](Q947442). Lawrence had a 'ripping time' with Garnett discussing literature in his ingle nook fireplace and was to return to the house several times.[^ref2]  It was here that he wrote three dialect ballads: 'The Collier’s Wife’, ‘Whether or Not’ and ‘The Drained Cup’.[^ref3] 
 
-{% include embed/image.html src="wc:The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg" aspect="1.5" caption="The Green at Crockham Hill" %}{: .right}
+{% include embed/image.html src="wc:The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg" aspect="1.5" caption="The Green at Crockham Hill" %}
 
 In 1912, Lawrence eloped  with Frieda, the wife of his modern language professor. He and Frieda stayed at Garnett's home en route to the continent and it was here that Lawrence wrote ‘At the Cearne’:
 
@@ -31,7 +32,7 @@ Glow like blossoms astart with gladness'.[^ref2]
 
 After their elopement, the couple spent several months in Germany and Italy, where Lawrence wrote _Sons and Lovers_, returning to England for a short visit in the summer of 1913. They stayed once again at Edenbridge with Garnett who was instrumental in the the publication of _Sons and Lovers_ . 
 
-{% include embed/image.html src="wc:Crockham_Hill_-_geograph.org.uk_-_4474809.jpg" aspect="1.5" caption="Crockham Hill" %}{: .right}
+{% include embed/image.html src="wc:Crockham_Hill_-_geograph.org.uk_-_4474809.jpg" aspect="1.5" caption="Crockham Hill" %}
 
 Although disappointed to be back in England, Lawrence thought The Cearne was beautiful, writing: 
 
@@ -41,7 +42,7 @@ However, soon the 'English dimness in the air' began to oppress him and he crave
 
 'The big bedroom has a balcony that looks across the fields at the sea. Then the house has a tent, and the way-down to the sea is just near, so one can bathe.'[^ref8]
 
-{% include embed/image.html src="wc:Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg" aspect="1.333" caption="Kingsgate Bay" %}{: .right}
+{% include embed/image.html src="wc:Kingsgate_Bay_-_geograph.org.uk_-_4014211.jpg" aspect="1.333" caption="Kingsgate Bay" %}
 
 Short of cash, Lawrence began to edit some of his short stories for a collection, but he did not enjoy the work, complaining:
 
@@ -61,7 +62,7 @@ He began to miss The Cearne saying:
 
 'It is the sort of place I fit into – something so solid and unmovable about it, something unexpected and individualized: that bare, workmanlike study, that farmhouse hall, that burst into country houseism and culture in the big room, with the lapse into disgraceful, almost brutal roughness – nearly like Squire Western – under the fire-place; the common place kitchen and the dejected scullery – oh Lord, I could live for ages at the Cearne and be happy'.[^ref15]
 
-{% include embed/image.html src="wc:Beach_and_ladies%27_bathing_place%2C_Margate%2C_England-LCCN2002697068.jpg" aspect="1.351" caption="Beach and ladies' bathing place, Margate .1890-1900" %}{: .right}
+{% include embed/image.html src="wc:Beach_and_ladies%27_bathing_place%2C_Margate%2C_England-LCCN2002697068.jpg" aspect="1.351" caption="Beach and ladies' bathing place, Margate .1890-1900" %}
 
 Whilst staying at Kingsgate, Lawrence and Frieda met Beb and Cynthia Asquith who were staying at Maryland close to [Botany Bay](Q14150839).[^ref16] Herbert was the son of the Prime Minister and later served in the Royal Artillery during World War One. He wrote poetry about his war experiences including 'The Volunteer' and 'The Fallen Subaltern'. 
 
@@ -71,7 +72,7 @@ Cynthia Asquith recalls of Lawrence:
 
 On one occasion he found a gull with a broken wing. Cynthia observed: 'While Lawrence looked at that bird, he _was_ that bird.'[^ref19]
 
-{% include embed/image.html src="wc:Maryland%2C_Botany_Rd_-_geograph.org.uk_-_1473937.jpg" aspect="1.68" caption="Maryland, Botany Bay Road" %}{: .right}
+{% include embed/image.html src="wc:Maryland%2C_Botany_Rd_-_geograph.org.uk_-_1473937.jpg" aspect="1.68" caption="Maryland, Botany Bay Road" %}
 
 By the 13th of July, Lawrence complained that the place bored him as he was 'drudging away revising the stories'[^ref20] and he made antisemitic remarks about some of the holidaymakers.[^ref21] Margate had a Jewish community and offered kosher hotels making it a popular destination for Jewish families from London.
 
@@ -81,7 +82,7 @@ Desiring the company of friends, Lawrence begged John Middleton Murry and the Ne
 
 John and Katherine were struggling financially, so Lawrence sent Katherine a sovereign to fund the journey. They arrived for the weekend and enjoyed bathing and eating beefsteak and tomatoes. [^ref23]
 
-{% include embed/image.html src="wc:Katherine_Mansfield_%28no_signature%29.jpg" aspect="0.625" caption="Original: Unknown Derivative work: Carnby, Public domain, via Wikimedia Commons" %}{: .right}
+{% include embed/image.html src="wc:Katherine_Mansfield_%28no_signature%29.jpg" aspect="0.625" caption="Original: Unknown Derivative work: Carnby, Public domain, via Wikimedia Commons" %}
 
 Lawrence and Frieda left Kingsgate at the end of July.  On 17 August, Lawrence wrote to Cynthia Asquith from Irschenhausen, Germany: 
 
@@ -91,7 +92,7 @@ Lawrence visted The Cearne again in July 1914, a week before he married Frieda.
 
 This article was published: 28 August 2023.
 
-{% include embed/image.html src="wc:Paper_Boat.jpg" aspect="0.716" caption="Paper Boat" %}{: .right}
+{% include embed/image.html src="wc:Paper_Boat.jpg" aspect="0.716" caption="Paper Boat" %}
 
 ### References
 
