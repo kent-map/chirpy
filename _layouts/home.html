@@ -95,28 +95,23 @@ layout: default
     });
 
     if (toggleIcon) {
-      // Your current mapping: grid => bars, list => grip
       toggleIcon.className = isGrid ? "fa-solid fa-bars" : "fa-solid fa-grip";
     }
 
     localStorage.setItem("postIndexView", view);
   }
 
-  // click handler
   toggleBtn?.addEventListener("click", () => {
     const isCurrentlyGrid = containers[0]?.classList.contains("view-grid");
     setView(isCurrentlyGrid ? "list" : "grid");
   });
 
-  // restore preference
   setView(localStorage.getItem("postIndexView") === "grid" ? "grid" : "list");
 
-  // More/Less excerpt toggle
   document.addEventListener("click", (e) => {
     const btn = e.target.closest(".post-excerpt-toggle");
     if (!btn) return;
 
-    // prevent navigation since button sits inside <a>
     e.preventDefault();
     e.stopPropagation();
 
