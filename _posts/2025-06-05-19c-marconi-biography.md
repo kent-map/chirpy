@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Science & ideas, Coast & sea, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg/2560px-South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-marconi-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Guglielmo Marconi, inventor of wireless telegraphy, arrived in Britain from Italy on the 2nd February 1896. Having failed to gain sponsorship from the Italian government to develop his ideas in wireless telegraphy, he had travelled to London to seek funds to convert his experiments into practical use. Marconi was not a stranger to Britain, as he had lived in Bedford with his Irish mother as a child and had British citizenship. 

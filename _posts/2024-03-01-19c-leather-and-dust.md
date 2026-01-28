@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Travel & mobility, Work & industry, Maps & place-making ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/19c-leather-and-dust/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

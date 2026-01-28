@@ -7,11 +7,14 @@ categories: [ built ]
 tags: [ Heritage & memory, Buildings & architecture, Science & ideas, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg"
-layout: post
-auto_float: true
 permalink: /built/lullingstone-roman-villa/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   

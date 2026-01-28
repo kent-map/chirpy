@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Literary places, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg"
-layout: post
-auto_float: true
 permalink: /20c/20c-maugham-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

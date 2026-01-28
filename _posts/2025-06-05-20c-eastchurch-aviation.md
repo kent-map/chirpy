@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Science & ideas, Coast & sea, Conflict & war, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/97/British_Aviation_Prior_To_the_First_World_War_Q67032.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-eastchurch-aviation/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

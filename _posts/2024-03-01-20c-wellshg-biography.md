@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-wellshg-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 

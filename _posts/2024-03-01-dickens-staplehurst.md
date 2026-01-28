@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Conflict & war, Travel & mobility, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-staplehurst/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

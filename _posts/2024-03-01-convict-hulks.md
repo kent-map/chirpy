@@ -7,11 +7,14 @@ categories: [ prisons ]
 tags: [ Crime & punishment, Coast & sea, Rivers & marshes, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/2/24/Walter_William_May_-_Prison_hulks_at_anchor_in_the_River_Medway.jpg"
-layout: post
-auto_float: true
 permalink: /prisons/convict-hulks/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

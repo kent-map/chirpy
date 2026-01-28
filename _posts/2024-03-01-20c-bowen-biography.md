@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Towns & cities, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-bowen-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

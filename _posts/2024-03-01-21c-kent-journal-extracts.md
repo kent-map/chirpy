@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Texts & genres, Towns & cities, Travel & mobility, Representation & interpretation, Time periods ]
 image: 
   path: "https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg"
-layout: post
-auto_float: true
 permalink: /21c/21c-kent-journal-extracts/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **2007**

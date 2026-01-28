@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Work & industry, Politics & reform, Identity & community, Maps & place-making, Heritage & memory ]
 image: 
   path: "https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d"
-layout: post
-auto_float: true
 permalink: /20c/20c-kent-miners/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

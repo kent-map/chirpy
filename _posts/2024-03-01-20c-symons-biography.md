@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Crime & punishment, Coast & sea, Travel & mobility ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.JPG"
-layout: post
-auto_float: true
 permalink: /20c/20c-symons-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

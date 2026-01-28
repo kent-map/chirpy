@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Travel & mobility, Maps & place-making, Countryside & farming ]
 image: 
   path: ""
-layout: post
-auto_float: true
 permalink: /dickens/david-copperfield-dover-road/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

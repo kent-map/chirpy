@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Countryside & farming, Coast & sea ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/8/81/St_Margaret%27s_Bay%2C_May_2021_02.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-coward-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -926,11 +926,14 @@ categories: [ {', '.join(kwargs.get('categories', []))} ]
 tags: [ {', '.join(kwargs.get('tags', []))} ]
 image: 
   path: "{config_attrs.get('banner', '')}"
-layout: post
-auto_float: true
 permalink: {kwargs.get('permalink', '')}
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 '''
         return fm_str

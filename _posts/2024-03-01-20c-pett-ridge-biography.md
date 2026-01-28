@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-pett-ridge-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

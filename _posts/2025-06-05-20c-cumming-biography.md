@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
 image: 
   path: "https://stor.artstor.org/stor/f99cba76-1d0b-4711-8b68-963a2f244076"
-layout: post
-auto_float: true
 permalink: /20c/20c-cumming-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

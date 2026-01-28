@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-collins-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

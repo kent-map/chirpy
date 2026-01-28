@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-carlyle-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

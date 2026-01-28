@@ -7,11 +7,14 @@ categories: [ medieval ]
 tags: [ Buildings & architecture, Towns & cities, Heritage & memory, Material culture ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg"
-layout: post
-auto_float: true
 permalink: /medieval/medieval-canterbury/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Canterbury has many fascinating medieval buildings. Among these are St Mildred’s church that contains great stones (see the south-west and south-east corners of the nave) which probably came from the Roman theatre, the church constructed in the early 11th century. Also cutting edge for its time (c. 1485) is the queen-strut roof with clasp-side purlins in the roof of the vestry. This can be viewed from outside the church (north-east corner) and looks somewhat like a set of football goalposts. 

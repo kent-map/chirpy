@@ -7,11 +7,14 @@ categories: [ landscape ]
 tags: [ Countryside & farming, Texts & genres, Identity & community, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b"
-layout: post
-auto_float: true
 permalink: /landscape/20c-encounters-with-others/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Encounters with ‘other’ – ‘crime’s dark crew’   

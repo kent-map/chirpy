@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Politics & reform, Towns & cities, Identity & community, Time periods ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Fraser_%281858-1927%29_-_Low_Tide%2C_Whitstable_Harbour%2C_Kent_-_CANWH-1989.2_-_Canterbury_Museums_and_Galleries.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-womens-suffrage-whitstable/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

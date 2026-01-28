@@ -7,11 +7,14 @@ categories: [ medieval ]
 tags: [ Heritage & memory, Buildings & architecture, Faith & belief, Representation & interpretation, Politics & reform ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg"
-layout: post
-auto_float: true
 permalink: /medieval/hengestandhorsa/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 “Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”[^ref1]

@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/great-expectations-guildhall/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Coast & sea, Arts & performance, Culture & society, Literary places ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Dickens-museum.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-waterer-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 ‘Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 

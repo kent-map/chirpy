@@ -7,11 +7,14 @@ categories: [ 16c ]
 tags: [ Authors & lives, Faith & belief, Politics & reform, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg"
-layout: post
-auto_float: true
 permalink: /16c/16c-barton-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Elizabeth Barton, 'The Holy Maid of Kent' was born in [Aldington](Q921173) in 1506 [^ref1]. She was employed as a servant to Thomas Cobb, steward of the Archbishop of [Canterbury](Q29303) in the 1520s,[^ref2] however, at the age of nineteen her health began to deteriorate, so much so that it was feared that she had been stricken with a mortal disease.[^ref3]  She was in ‘grievous paine, in-so-much as a man woulde have thought that shee had suffered the pangs of death intselfe, until the disease descended and dell down into the bodie againe.’[^ref4]  It was at this period that she began to experience "curious" visions [^ref5] and foresaw the death of Cobb’s child. She also began sharing the glories that she had seen of heaven and the agonies of hell with her neighbours and mistress[^ref6] and predicted that she would visit the chapel of Our Lady of Court-at-Street where she would be healed.[^ref7]  

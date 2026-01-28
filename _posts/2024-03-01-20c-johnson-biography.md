@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Towns & cities, Science & ideas ]
 image: 
   path: "https://stor.artstor.org/stor/9ac45485-b2cf-4065-90b5-f363a95788a8"
-layout: post
-auto_float: true
 permalink: /20c/20c-johnson-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

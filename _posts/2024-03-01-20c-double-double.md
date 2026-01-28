@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Texts & genres, Coast & sea, Culture & society, Travel & mobility ]
 image: 
   path: "https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
-layout: post
-auto_float: true
 permalink: /20c/20c-double-double/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…    

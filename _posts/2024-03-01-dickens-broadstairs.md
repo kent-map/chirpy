@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-broadstairs/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.   

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Towns & cities, Travel & mobility ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-victoria-albion-house/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Events:** 29 Sept 1835 – 11th Jan 1836.   

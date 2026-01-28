@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Politics & reform, Towns & cities, Identity & community ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-cuffay-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

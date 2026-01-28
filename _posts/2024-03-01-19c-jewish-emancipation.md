@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Politics & reform, Towns & cities, Identity & community, Conflict & war ]
 image: 
   path: "https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21"
-layout: post
-auto_float: true
 permalink: /19c/19c-jewish-emancipation/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 In 1829, the Roman Catholic Relief Act resulted in the emancipation of Roman Catholics and Protestant Dissenters. However, the hope that the act would also put an end to Jewish disabilities were dashed when the House of Lords introduced the words ‘On the true faith of a Christian’ into the oath as a prerequisite upon taking public office. The wording left Jews excluded from politics by their faith.[^ref1] A campaign for equal rights, which was to last for decades, began.

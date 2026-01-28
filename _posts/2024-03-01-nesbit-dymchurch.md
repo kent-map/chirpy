@@ -7,11 +7,14 @@ categories: [ nesbit ]
 tags: [ Authors & lives, Literary places, Coast & sea, Rivers & marshes, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /nesbit/nesbit-dymchurch/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Edith Nesbit loved the spectacular Kent coastline and celebrated it in her beautifully illustrated seafaring tale, _The Pilot_ (1893). In 1893, Nesbit chanced upon her favourite holiday destination, the coastal village of [Dymchurch](Q2796278) in Kent. She returned again and again, and she was there when she dedicated _The Phoenix and the Carpet_: “TO My Dear Godson HUBERT GRIFFITH and his sister MARGARET”.

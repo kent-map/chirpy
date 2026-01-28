@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Texts & genres, Travel & mobility, Literary places, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/4/45/Leeds_Castle_-_side_view.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-vonarnim-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

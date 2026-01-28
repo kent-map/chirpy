@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Maps & place-making ]
 image: 
   path: "https://stor.artstor.org/stor/695329b9-cc27-4fe0-8e52-ebb5f65fc00c"
-layout: post
-auto_float: true
 permalink: /19c/19c-pugin-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

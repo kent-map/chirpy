@@ -7,11 +7,14 @@ categories: [ poetry ]
 tags: [ Literary places, Texts & genres, Coast & sea, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/2/22/The_beach_at_Margate_-_geograph.org.uk_-_3278583.jpg"
-layout: post
-auto_float: true
 permalink: /poetry/margate-oulton/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 I was in a different shelter,   

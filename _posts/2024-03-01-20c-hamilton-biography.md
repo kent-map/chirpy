@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Politics & reform, Literary places, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-hamilton-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Place:** [Smallhythe Place](Q7543679)[^ref1]   

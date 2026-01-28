@@ -7,11 +7,14 @@ categories: [ built ]
 tags: [ Conflict & war, Coast & sea, Buildings & architecture, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Denge_Sound_Mirror.jpg"
-layout: post
-auto_float: true
 permalink: /built/sound-mirrors/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

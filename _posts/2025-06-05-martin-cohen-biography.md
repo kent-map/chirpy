@@ -7,11 +7,14 @@ categories: [ black-history ]
 tags: [ Authors & lives, Identity & community, Towns & cities, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/15/HMT_Empire_Windrush_FL9448.jpg"
-layout: post
-auto_float: true
 permalink: /black-history/martin-cohen-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Crime & punishment, Towns & cities, Culture & society, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Distant_View_of_Maidstone%2C_from_Lower_Bell_Inn%2C_Boxley_Hill_-_Google_Art_Project.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-convicts-maidstone/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 [Maidstone](Q213180) convict prison opened in 1909, built alongside the town’s nineteenth-century local jail. In an unusual arrangement, the two establishments shared a perimeter wall but were run entirely separately. At the jail, [prisoners]({{ site.baseurl }}/19c/19c-convicts-overview) served sentences of no more than two years, whereas the convict prison held men sentenced to penal servitude for a minimum term of three years, and often far longer. Over time, the convict prison encroached gradually on its neighbour, eventually occupying the entire site, including the older buildings, once the jail closed in 1930.

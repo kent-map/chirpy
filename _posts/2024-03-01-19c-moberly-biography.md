@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Texts & genres, Literary places, Coast & sea ]
 image: 
   path: "https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5"
-layout: post
-auto_float: true
 permalink: /19c/19c-moberly-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

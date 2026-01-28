@@ -7,11 +7,14 @@ categories: [ canterbury ]
 tags: [ Conflict & war, Towns & cities, Buildings & architecture, Arts & performance ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Canterbury_Orchards_1945_OS_Map_171_detail.jpg"
-layout: post
-auto_float: true
 permalink: /canterbury/20c-canterbury-ww2/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

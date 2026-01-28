@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Literary places, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-jamesmr-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

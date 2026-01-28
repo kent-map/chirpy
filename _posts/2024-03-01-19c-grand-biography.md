@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Politics & reform, Towns & cities, Conflict & war ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Common%2C_Tunbridge_Wells._%28NBY_438791%29.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-grand-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

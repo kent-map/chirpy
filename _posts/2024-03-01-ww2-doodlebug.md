@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Conflict & war, Coast & sea, Maps & place-making, Politics & reform ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG"
-layout: post
-auto_float: true
 permalink: /20c/ww2-doodlebug/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Buildings & architecture, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Ellen_Terry_%28%27Choosing%27%29_by_George_Frederic_Watts.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-terry-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

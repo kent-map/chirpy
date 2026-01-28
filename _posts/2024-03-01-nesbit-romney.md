@@ -7,11 +7,14 @@ categories: [ nesbit ]
 tags: [ Authors & lives, Rivers & marshes, Literary places, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /nesbit/nesbit-romney/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

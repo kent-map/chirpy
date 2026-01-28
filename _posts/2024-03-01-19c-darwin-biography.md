@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Science & ideas, Authors & lives, Buildings & architecture, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/19c/Down_House_banner.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-darwin-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

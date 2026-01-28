@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29_%2814773133082%29.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-syrett-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._   

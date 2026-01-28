@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

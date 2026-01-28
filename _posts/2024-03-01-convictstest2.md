@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Crime & punishment, Buildings & architecture, Rivers & marshes, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/convictstest2/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

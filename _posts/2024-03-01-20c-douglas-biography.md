@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Literary places, Texts & genres ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/8/83/Tilly-sur-Seulles_-_CWGC_8.JPG"
-layout: post
-auto_float: true
 permalink: /20c/20c-douglas-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

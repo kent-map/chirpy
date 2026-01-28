@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-chatham/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 John Dickens was based at [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard), working for the Naval Pay Office between 1816-1822.   

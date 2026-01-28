@@ -1,17 +1,20 @@
 ---
 title: "Invicta Park Barracks"
-description: "This essay traces how Invicta Park Barracks in Maidstone began as a Tudor-era estate and later became a War Office barracks, focusing on the Calder and Lushington families who owned Park House. It highlights the estates Victorian literary connections through the Lushingtons friendships with Alfred Tennyson and Edward Lear, alongside local commemorations in Boxley church."
+description: "This essay traces how Invicta Park Barracks in Maidstone began as a Tudor-era estate and later became a War Office barracks, focusing on the Calder and Lushington families who owned Park House. It highlights the estates Victorian literary connections through the Lushingtons friendships with Alfred Tennyson and Edward Lear, alongside local commemorations in Boxley church."
 author: Martin Stoneham
 date: 2024-03-01
 categories: [ built ]
 tags: [ Authors & lives, Literary places, Buildings & architecture, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /built/invicta-park-barracks/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Arts & performance ]
 image: 
   path: "https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88"
-layout: post
-auto_float: true
 permalink: /19c/19c-burges-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

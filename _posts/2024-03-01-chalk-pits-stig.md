@@ -7,11 +7,14 @@ categories: [ landscape ]
 tags: [ Texts & genres, Countryside & farming, Literary places, Nature & environment ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg"
-layout: post
-auto_float: true
 permalink: /landscape/chalk-pits-stig/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 The downland of Kent is pocked with small abandoned chalk pits. The chalk was converted to ‘lime’ and used to improve agricultural soils on clay. Lime burning was probably introduced during the Roman period, when lime was originally used in mortar and as a stabiliser for mud floors and render.

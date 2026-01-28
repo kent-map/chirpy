@@ -7,11 +7,14 @@ categories: [ 17c ]
 tags: [ Conflict & war, Towns & cities, Politics & reform, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
-layout: post
-auto_float: true
 permalink: /17c/17c-plum-pudding-riots/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Conflict formed between the people of [Canterbury](Q29303) and the Lord Mayor over new British Puritan rule on Christmas Day, 1647.

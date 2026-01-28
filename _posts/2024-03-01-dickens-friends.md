@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Culture & society, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-friends/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 The study at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) still features a wall of Dickens’s famous fake books. But his own visitors’ book would have included genuine contributions by some of the most famous figures of the nineteenth century.

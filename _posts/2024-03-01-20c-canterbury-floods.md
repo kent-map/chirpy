@@ -7,11 +7,14 @@ categories: [ canterbury ]
 tags: [ Nature & environment, Towns & cities, Rivers & marshes, Heritage & memory ]
 image: 
   path: "https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a"
-layout: post
-auto_float: true
 permalink: /canterbury/20c-canterbury-floods/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 16c ]
 tags: [ Conflict & war, Coast & sea, Travel & mobility, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg"
-layout: post
-auto_float: true
 permalink: /16c/16c-spanish-armada/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

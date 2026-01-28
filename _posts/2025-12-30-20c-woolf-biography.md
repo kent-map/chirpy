@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/8/85/Sissinghurst_Castle.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-woolf-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

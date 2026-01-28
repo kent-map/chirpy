@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Towns & cities, Literary places, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-salmon-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

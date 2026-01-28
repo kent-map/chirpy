@@ -7,11 +7,14 @@ categories: [ 18c ]
 tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
-layout: post
-auto_float: true
 permalink: /18c/18c-burgess-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

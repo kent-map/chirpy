@@ -7,17 +7,18 @@ categories: [ poetry ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg"
-layout: post
-auto_float: true
 permalink: /poetry/jumping-oulton/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 
-{% include embed/image.html src="wc:Hyperchromic_Trifolium_pratense.jpg" aspect="1.505" caption="Hyperchromic Trifolium pratense by Nicolas Schwab, CC BY-SA 4.0, via Wikimedia Commons" %}{:.right}
-
->With my head in position that butterfly wing   
+With my head in position that butterfly wing   
 is the shadow of a line of grass -   
 just there the bone of a fallen thistle,   
 a boot hook. Coming up   
@@ -35,3 +36,4 @@ purple flowers as they tick tock tick.
 
 From _Accidental Fruit_, [Worple Press](https://worplepress.com/) (2016).
 
+{% include embed/image.html src="wc:Hyperchromic_Trifolium_pratense.jpg" aspect="1.505" caption="Hyperchromic Trifolium pratense by Nicolas Schwab, CC BY-SA 4.0, via Wikimedia Commons" %}

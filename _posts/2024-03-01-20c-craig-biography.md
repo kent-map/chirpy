@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Arts & performance, Buildings & architecture, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-craig-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was a founder of the Pioneer Players, a theatrical group dedicated to creating and producing plays of ‘interest and ideas’ dealing with social, political and moral issues, and continued her theatrical work throughout her life. She was also committed to the fight for equality for women (and, as an extension of that, to the cause of women’s suffrage).

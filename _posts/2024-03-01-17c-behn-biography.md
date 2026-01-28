@@ -7,11 +7,14 @@ categories: [ 17c ]
 tags: [ Authors & lives, Literary places, Representation & interpretation, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
-layout: post
-auto_float: true
 permalink: /17c/17c-behn-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

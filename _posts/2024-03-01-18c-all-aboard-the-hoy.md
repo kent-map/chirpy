@@ -7,11 +7,14 @@ categories: [ 18c ]
 tags: [ Culture & society, Coast & sea, Travel & mobility, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
-layout: post
-auto_float: true
 permalink: /18c/18c-all-aboard-the-hoy/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

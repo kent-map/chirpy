@@ -7,11 +7,14 @@ categories: [ 17c ]
 tags: [ Conflict & war, Coast & sea, Maps & place-making, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
-layout: post
-auto_float: true
 permalink: /17c/17c-sheppey-at-war/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 The Island of [Sheppey](Q1500299) was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).  The <span data-mouseover-image-zoomto="2867,2126,1423,812">island</span> was in a vulnerable position at the entrance to both the Medway and Thames Rivers. 

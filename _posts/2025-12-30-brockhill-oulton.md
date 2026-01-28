@@ -7,11 +7,14 @@ categories: [ poetry ]
 tags: [ Texts & genres, Literary places, Nature & environment, Coast & sea ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/6/60/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825569.jpg"
-layout: post
-auto_float: true
 permalink: /poetry/brockhill-oulton/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 A few feet away, the child is waiting.   

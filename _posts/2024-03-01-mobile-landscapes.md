@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Travel & mobility, Maps & place-making, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay_Broadstairs.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/mobile-landscapes/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

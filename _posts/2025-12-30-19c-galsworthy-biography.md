@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-galsworthy-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 ‘that little, very old, very charming, if inconvenient farmhouse… It was a friendly dwelling where you had to mind your head in connection with beams; and from whose windows you watched ducks and cats and lambs in the meadows beyond.’[^ref1]   

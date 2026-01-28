@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Rivers & marshes, Maps & place-making ]
 image: 
   path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
-layout: post
-auto_float: true
 permalink: /20c/20c-fordmadoxford-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Conflict & war, Towns & cities, Identity & community, Culture & society ]
 image: 
   path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
-layout: post
-auto_float: true
 permalink: /20c/20c-belgian-refugees/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

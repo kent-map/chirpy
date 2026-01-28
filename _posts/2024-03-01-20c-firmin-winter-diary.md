@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Texts & genres, Countryside & farming, Maps & place-making, Literary places ]
 image: 
   path: "https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b"
-layout: post
-auto_float: true
 permalink: /20c/20c-firmin-winter-diary/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

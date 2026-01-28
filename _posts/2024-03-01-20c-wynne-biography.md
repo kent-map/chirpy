@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-wynne-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

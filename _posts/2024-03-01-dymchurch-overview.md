@@ -7,11 +7,14 @@ categories: [ placesad ]
 tags: [ Literary places, Coast & sea, Heritage & memory, Arts & performance ]
 image: 
   path: "https://commons.wikimedia.org/wiki/File:Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg"
-layout: post
-auto_float: true
 permalink: /placesad/dymchurch-overview/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

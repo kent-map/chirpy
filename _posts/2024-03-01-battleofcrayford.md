@@ -7,11 +7,14 @@ categories: [ medieval ]
 tags: [ Conflict & war, Towns & cities, Heritage & memory, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg"
-layout: post
-auto_float: true
 permalink: /medieval/battleofcrayford/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of [Crayford](Q146676) in the [London Borough of Bexley](Q207208):   

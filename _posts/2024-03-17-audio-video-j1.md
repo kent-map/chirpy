@@ -7,11 +7,14 @@ categories: [ audio-video ]
 tags: [ Methods & digital, Arts & performance, Material culture ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cin%C3%A9math%C3%A8que_333-6-002.jpg/640px-Cin%C3%A9math%C3%A8que_333-6-002.jpg"
-layout: post
-auto_float: true
 permalink: /audio-video/audio-video-j1/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ austen ]
 tags: [ Authors & lives, Towns & cities, Literary places, Culture & society ]
 image: 
   path: "https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc"
-layout: post
-auto_float: true
 permalink: /austen/austen-canterbury/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

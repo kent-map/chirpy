@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Texts & genres, Coast & sea, Work & industry, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Emily_Shore_journal_6_October_1936.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-shore-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

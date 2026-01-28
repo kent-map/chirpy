@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Conflict & war, Rivers & marshes, Coast & sea, Work & industry ]
 image: 
   path: "https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5"
-layout: post
-auto_float: true
 permalink: /20c/20c-romney-marsh-ww2/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

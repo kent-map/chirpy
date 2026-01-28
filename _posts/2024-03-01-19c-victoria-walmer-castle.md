@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Travel & mobility, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-victoria-walmer-castle/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Events with dates:** 10th Nov 1842 – 3rd Dec 1842   

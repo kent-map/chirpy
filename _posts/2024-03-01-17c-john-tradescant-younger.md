@@ -7,11 +7,14 @@ categories: [ 17c ]
 tags: [ Authors & lives, Science & ideas, Material culture, Travel & mobility, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
-layout: post
-auto_float: true
 permalink: /17c/17c-john-tradescant-younger/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

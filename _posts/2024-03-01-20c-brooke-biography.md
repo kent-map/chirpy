@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994"
-layout: post
-auto_float: true
 permalink: /20c/20c-brooke-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

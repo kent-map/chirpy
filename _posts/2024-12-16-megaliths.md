@@ -7,11 +7,14 @@ categories: [ built ]
 tags: [ Heritage & memory, Rivers & marshes, Nature & environment, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%27s_Coty.jpg"
-layout: post
-auto_float: true
 permalink: /built/megaliths/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Culture & society, Coast & sea, Buildings & architecture, Texts & genres, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-folkestone-free-library/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. [Canterbury Museum and Public Library]({{ site.baseurl }}/19c/19c-canterbury-free-library) (now The Beaney) opened its doors in 1858, making it the first free library in England.

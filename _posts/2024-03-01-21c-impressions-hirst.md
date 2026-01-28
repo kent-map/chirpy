@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Texts & genres, Coast & sea, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
-layout: post
-auto_float: true
 permalink: /21c/21c-impressions-hirst/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Low tide. Light breeze.   

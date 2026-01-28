@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Arts & performance, Towns & cities, Heritage & memory, Literary places, Nature & environment ]
 image: 
   path: "https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce"
-layout: post
-auto_float: true
 permalink: /21c/21c-travellers-joy/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

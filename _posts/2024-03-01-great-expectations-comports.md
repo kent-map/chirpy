@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Heritage & memory, Rivers & marshes ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/great-expectations-comports/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

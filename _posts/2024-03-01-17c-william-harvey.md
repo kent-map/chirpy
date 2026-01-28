@@ -7,11 +7,14 @@ categories: [ 17c ]
 tags: [ Authors & lives, Science & ideas, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593"
-layout: post
-auto_float: true
 permalink: /17c/17c-william-harvey/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Coast & sea, Culture & society, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/broadstairs-19th-century/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

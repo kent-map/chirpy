@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Heritage & memory, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/pickwick-papers-leather-bottle/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

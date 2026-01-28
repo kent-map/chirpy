@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Culture & society, Towns & cities, Literary places, Authors & lives ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/21c.jpg"
-layout: post
-auto_float: true
 permalink: /21c/21c-waterstones-canterbury/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Canterbury](Q29303) and talking in Waterstones. It’s one of many moments from the bookshop I have run in the city for 30 years, at 20-21 St Margaret’s Street, and since 2019 at 7-8 Rose Lane. I came here to open the shop because of the resonance ‘Canterbury’ has: of words, of pilgrimage, of longing and of some pan-European Boccaccian earthiness, a visionary mist my city of London had only in certain parts, on certain days.

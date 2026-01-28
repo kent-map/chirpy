@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Work & industry, Representation & interpretation ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-maxwelld-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

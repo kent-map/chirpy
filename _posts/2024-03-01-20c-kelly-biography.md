@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Crime & punishment, Coast & sea, Literary places ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/39/Conveyor%2C_Stone_Cement_Works_1974_-_geograph.org.uk_-_133793.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-kelly-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

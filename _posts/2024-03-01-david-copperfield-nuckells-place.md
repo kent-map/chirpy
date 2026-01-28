@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Buildings & architecture, Heritage & memory, Coast & sea ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copperfield_banner.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/david-copperfield-nuckells-place/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

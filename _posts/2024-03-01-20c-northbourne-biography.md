@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Countryside & farming, Nature & environment, Faith & belief ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-northbourne-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Walter James (1896-1982), the fourth Lord Northbourne, is credited with the creation of the term ‘organic farming’ in his seminal 1940 work _Look to the Land_.  Eighty years on, his ideas still have freshness and immediacy. Relevant sentences jump off almost every page – he is concerned with many things such as the effects of deforestation and flooding, the importance of renewing the land with organic matter, the danger of using chemicals, the challenge facing the farmer when he must choose between concentrating on marketing or on production, and the question of whether Britain could or ought to be self-supporting in food.

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Politics & reform, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

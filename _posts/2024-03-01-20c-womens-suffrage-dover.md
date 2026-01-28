@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Politics & reform, Towns & cities, Buildings & architecture, Heritage & memory ]
 image: 
   path: "xxx"
-layout: post
-auto_float: true
 permalink: /20c/20c-womens-suffrage-dover/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 On 21 February 1872, Mrs Jane Ronniger visited the Apollonian Hall, Snargate Street to lecture about women's suffrage.[^ref1] Ronniger had also spoken in Canterbury.

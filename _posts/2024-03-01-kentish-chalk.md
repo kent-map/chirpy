@@ -7,11 +7,14 @@ categories: [ landscape ]
 tags: [ Nature & environment, Coast & sea, Literary places, Science & ideas ]
 image: 
   path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
-layout: post
-auto_float: true
 permalink: /landscape/kentish-chalk/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

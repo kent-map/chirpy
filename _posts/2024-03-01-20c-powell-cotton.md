@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Arts & performance, Travel & mobility, Identity & community ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-powell-cotton/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Event:** Two intrepid women from Quex Park, Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1913-1997), travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers.

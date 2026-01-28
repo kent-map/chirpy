@@ -9,11 +9,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Travel & mobility, Literary places ]
 image: 
   path: "https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d"
-layout: post
-auto_float: true
 permalink: /19c/19c-eliot-george-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

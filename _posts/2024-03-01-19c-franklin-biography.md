@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Rivers & marshes, Conflict & war, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-franklin-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 ‘In the last letter written before he sailed, dated H.M.S. "Erebus", Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:

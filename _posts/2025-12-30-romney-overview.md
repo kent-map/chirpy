@@ -7,11 +7,14 @@ categories: [ placesrz ]
 tags: [ Rivers & marshes, Literary places, Countryside & farming, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /placesrz/romney-overview/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

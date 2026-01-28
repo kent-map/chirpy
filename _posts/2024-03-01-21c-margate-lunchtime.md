@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Texts & genres, Coast & sea, Towns & cities, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/21c/Eliot__5.JPG"
-layout: post
-auto_float: true
 permalink: /21c/21c-margate-lunchtime/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

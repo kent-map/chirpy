@@ -181,6 +181,7 @@ function addMessageHandler() {
         if (!isOriginAllowed(event.origin)) return;
 
         const data = event.data;
+        console.log(data)
 
         // Accept either raw objects OR JSON strings (some of your code uses JSON.stringify elsewhere)
         let msg = data;
@@ -214,6 +215,28 @@ function addMessageHandler() {
             window.open(url.toString(), msg.newtab ? "_blank" : "_self");
             return;
         }
+
+        if (msg.type === 'getId') {
+            // if (event.origin !== location.origin) return;
+            console.log(event.source)
+            const iframes = document.querySelectorAll('iframe');
+            for (const iframe of iframes) {
+                if (iframe.contentWindow === event.source) {
+                    let msg = { event: 'id', id: iframe.id || iframe.getAttribute('data-id') }
+                    event.source.postMessage(JSON.stringify(msg), '*')
+                    break;
+                }
+            }
+            return;
+        }
+
+        if (msg.type === 'getElementById') {
+            // if (event.origin !== location.origin) return;
+            let el = document.getElementById(event.data.id)
+            event.source.postMessage(JSON.stringify({ event: 'element', id: event.data.id, html: el?.outerHTML }), '*')
+            return;
+        }
+
     });
 }
 
@@ -247,6 +270,7 @@ function wrapAdjacentEmbedsAsTabs({
     const isEmbedItem = (n) =>
         n instanceof Element &&
         (n.tagName === "IFRAME" || n.tagName === "FIGURE" || (n.tagName === "P" && n.querySelector("img")));
+
 
     const nextNonIgnorableSibling = (node) => {
         let n = node.nextSibling;
@@ -337,12 +361,15 @@ function wrapAdjacentEmbedsAsTabs({
 
 function autoFloat({ root = document.body } = {}) {
     console.log('autoFloat');
-    const embeds = Array.from(root.querySelectorAll('iframe, sl-tab-group')).reverse();
+    const embeds = Array.from(root.querySelectorAll('iframe, sl-tab-group, figure.iframe-wrapper, p:has(>img), p:has(>a>img)')).reverse();
 
     embeds.forEach((embed) => {
         if (embed.classList.contains('full') || embed.classList.contains('right')) return;
 
         let previousSib = embed.previousElementSibling;
+        while (previousSib?.nodeName === 'P' && previousSib.id.indexOf('-csv') > 0) {
+            previousSib = previousSib.previousElementSibling;
+        }
         if (previousSib?.nodeName !== 'P') return;
 
         const parent = embed.parentNode;
@@ -440,7 +467,10 @@ function addActionLinks({ root = document.body } = {}) {
         if (!target || !action || !args?.length) continue;
 
         const iframe = iframeById.get(target);
-        if (!iframe) continue;
+        if (!iframe) {
+            a.classList.add("disabled");
+            continue;
+        }
 
         // If isStatic, disable link but keep it readable
         if (isStatic) {
@@ -763,7 +793,7 @@ const SELECTORS = {
     article: "article",
     header: "article > header",
     viewer: ".viewer",
-    step: ".col2 .post-content > p, .col2 .post-content > blockquote",
+    step: ".col2 .post-content > p:not(:has(>img)), .col2 .post-content > blockquote",
 };
 
 const scroller = scrollama();
@@ -802,26 +832,23 @@ function findViewerSource(stepEl) {
     let toMatch = ['IFRAME', 'SL-TAB-GROUP'];
 
     let node = stepEl?.previousElementSibling;
-    if (node?.classList.contains('right') || node?.classList.contains('left')) {
-        console.log('prior');
-        return node;
-    }
+    if (node?.classList.contains('right') || node?.classList.contains('left')) return node;
 
     node = stepEl?.nextElementSibling;
-    if (node?.nodeType === Node.ELEMENT_NODE && toMatch.includes(node?.nodeName)) {
-        console.log('next');
+    while (node?.nodeName === 'HR') node = node.nextElementSibling;
+    if (node?.nodeType === Node.ELEMENT_NODE && (toMatch.includes(node?.nodeName) || (node?.nodeName === 'P' && node.firstChild?.nodeName === 'IMG') || (node?.nodeName === 'P' && node.firstChild?.nodeName === 'A' && node.firstChild.firstChild?.nodeName === 'IMG'))) {
+        console.log(node)
         return node
     }
 
     node = stepEl?.previousElementSibling || null;
+    while (node?.nodeName === 'HR') node = node.previousElementSibling;
     while (node) {
-        if (node.nodeType === Node.ELEMENT_NODE && toMatch.includes(node.nodeName)) {
-            console.log('ancestor');
+        if (node.nodeType === Node.ELEMENT_NODE && (toMatch.includes(node?.nodeName) || (node?.nodeName === 'P' && node.firstChild?.nodeName === 'IMG') || (node?.nodeName === 'P' && node.firstChild?.nodeName === 'A' && node.firstChild.firstChild?.nodeName === 'IMG'))) {
             return node;
         }
         node = node.previousElementSibling;
     }
-    return found;
 }
 
 /**
@@ -877,7 +904,7 @@ function positionViewer() {
     const viewerW = articleRect.width / 2;
     const rightOffset = Math.max(0, window.innerWidth - articleRect.right);
 
-    els.viewer.style.height = `${availableH}px`;
+    // els.viewer.style.height = `${availableH}px`;
     els.viewer.style.width = `${viewerW}px`;
     els.viewer.style.right = `${rightOffset}px`;
 }
@@ -923,6 +950,9 @@ function init2col() {
 
     // Initial position (next frame is usually better than setTimeout)
     requestPositionUpdate();
+
+    setActive(document.querySelector(SELECTORS.step))
+    updateViewerForStep(document.querySelector(SELECTORS.step));
 
     scroller
         .setup({

@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Buildings & architecture, Towns & cities, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/edwin-drood-eastgate-house/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

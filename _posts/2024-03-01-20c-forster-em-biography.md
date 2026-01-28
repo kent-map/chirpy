@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Countryside & farming, Maps & place-making ]
 image: 
   path: "https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50"
-layout: post
-auto_float: true
 permalink: /20c/20c-forster-em-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

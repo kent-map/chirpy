@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Travel & mobility, Maps & place-making ]
 image: 
   path: ""
-layout: post
-auto_float: true
 permalink: /dickens/dickens-gads-hill/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

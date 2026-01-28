@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Coast & sea, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/06/Folkestone%2C_East_Pier_-_geograph.org.uk_-_3192400.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-owen-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 The sun is warm, the sky is clear, the waves are dancing fast and bright…

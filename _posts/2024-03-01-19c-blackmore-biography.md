@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Countryside & farming, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-blackmore-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Best known for _Lorna Doone_, novelist R. D. Blackmore (1825-1900) set part of his novel _Alice Lorraine_ (1874–75) in the Weald of Kent. It is on the fringes of [Wrotham](Q2740296) that, when the scene shifts from the Wen to the 'Weald', R. D. Blackmore’s novel _Alice Lorraine_ (1874–75) finds its earthly paradise. The novel’s second instalment, which appeared in _Blackwood’s Edinburgh Magazine_ in April 1874, sees the heroine’s brother Hilary Lorraine and a fellow London law student going to Covent Garden Market on a sunny Saturday in June 1811. They hitch a ride on one of the waggons, now cleared of its cargo of cherries and carrots and cauliflowers, as it wends its way homeward. The third instalment then opens on the audible expressions of delight with which Hilary “enjoyed his sudden delivery from London.” 

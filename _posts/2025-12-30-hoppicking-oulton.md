@@ -7,11 +7,14 @@ categories: [ poetry ]
 tags: [ Texts & genres, Countryside & farming, Representation & interpretation, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg"
-layout: post
-auto_float: true
 permalink: /poetry/hoppicking-oulton/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 [Dickens]({{ site.baseurl }}/dickens) sees bodies wet in the hedges,   

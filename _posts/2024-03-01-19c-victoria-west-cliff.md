@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Culture & society, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-victoria-west-cliff/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Events:** Princess Victoria visited 30th Sept 1836 – 29 Nov 1836   

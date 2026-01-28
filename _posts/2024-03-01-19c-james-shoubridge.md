@@ -7,11 +7,14 @@ categories: [ music ]
 tags: [ Authors & lives, Arts & performance, Towns & cities, Faith & belief ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /music/19c-james-shoubridge/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 James Shoubridge was the last name on the list of men who were Lay Clerks at [Canterbury Cathedral]({{ site.baseurl }}/music/19c-cathedral-singing) in 1825–6. Shoubridge was clearly a model Lay Clerk: in 1830, it was ‘Resolved that £10 a year each be given during pleasure to Shoubridge & Longhurst, Lay Clerks.’[^ref1]  There followed another gratuity in 1839: ‘James Shoubridge received a grant of £10 in addition to his stipend from July 6,’[^ref2]  again for no specified reason. In the event, he resigned the following year ‘upon obtaining an appointment at the Foundling [Hospital]’, as was recorded in the Precentor’s Book for the period.[^ref3]  He had a long and successful career from there: in 1857 he became a Vicar Choral at St Paul’s Cathedral and conductor of the Cecilian Society, London, in 1852. 

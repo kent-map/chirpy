@@ -7,11 +7,14 @@ categories: [ 16c ]
 tags: [ Authors & lives, Science & ideas, Politics & reform, Towns & cities ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
-layout: post
-auto_float: true
 permalink: /16c/16c-digges-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Leonard Digges**   

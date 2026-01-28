@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Arts & performance, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/15/Louis_Wain_The_bachelor_party.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-wain-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

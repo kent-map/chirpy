@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Texts & genres, Literary places, Travel & mobility, Maps & place-making ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copperfield_banner.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/david-copperfield-curated-walk/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

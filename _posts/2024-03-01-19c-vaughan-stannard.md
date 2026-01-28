@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Culture & society, Travel & mobility ]
 image: 
   path: "https://stor.artstor.org/stor/43be2313-69a2-4436-8db8-978f300d40bb"
-layout: post
-auto_float: true
 permalink: /19c/19c-vaughan-stannard/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 

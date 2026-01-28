@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places ]
 image: 
   path: "https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
-layout: post
-auto_float: true
 permalink: /20c/20c-eliot-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 'On [Margate](Q618045) Sands.   

@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Culture & society, Towns & cities, Identity & community, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
-layout: post
-auto_float: true
 permalink: /21c/21c-canterbury-covid/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

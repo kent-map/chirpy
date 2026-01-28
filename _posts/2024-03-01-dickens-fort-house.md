@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/dickens-fort-house/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Fort Road, Broadstairs**   

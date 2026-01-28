@@ -7,11 +7,14 @@ categories: [ music ]
 tags: [ Authors & lives, Arts & performance, Towns & cities, Material culture ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /music/19c-thomas-goodban-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Thomas Goodban (1784–1863), the long-standing conductor of the [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) Orchestra, was an entrepreneurial force in the club. In 1833, he advertised ‘Subscription Concerts’ – four per season, from December through to March, at a guinea for the lot (for which two tickets of admission per concert are purchased). The one in November 1834 is the most eye-catching, for it features Henry Rowley Bishop, one of the most significant musical personalities of the day – and his wife.

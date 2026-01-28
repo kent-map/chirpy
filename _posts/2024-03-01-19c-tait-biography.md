@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Faith & belief, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cliff_edge_near_North_Foreland_-_geograph.org.uk_-_3129897.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-tait-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

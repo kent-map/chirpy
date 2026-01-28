@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Conflict & war, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-orczy-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to [Thanet](Q590422) in 1908 with her husband, the illustrator, Montague Barstow. She had already published nine novels including three of the Pimpernel stories. 

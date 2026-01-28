@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Work & industry, Travel & mobility, Towns & cities, Identity & community ]
 image: 
   path: "https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f"
-layout: post
-auto_float: true
 permalink: /20c/20c-a-boy-of-kent/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

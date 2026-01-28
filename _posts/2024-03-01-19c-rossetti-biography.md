@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Heritage & memory ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-rossetti-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the [Pre-Raphaelite Brotherhood](Q184814) in 1848.   

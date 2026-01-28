@@ -7,11 +7,14 @@ categories: [ 18c ]
 tags: [ Texts & genres, Towns & cities, Politics & reform, Culture & society ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
-layout: post
-auto_float: true
 permalink: /18c/18c-kentish-gazette/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Place:** [Canterbury](Q29303)

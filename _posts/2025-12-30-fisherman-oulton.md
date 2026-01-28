@@ -7,11 +7,14 @@ categories: [ poetry ]
 tags: [ Texts & genres, Coast & sea, Material culture, Heritage & memory ]
 image: 
   path: "xxx"
+permalink: /poetry/fisherman-oulton/
+published: true
+toc: false  
+
 layout: post
 auto_float: true
-permalink: /poetry/fisherman-oulton/
-published: false
-toc: false    
+group_embeds: true
+col2: true  
 ---
 
 Polished light glances off the wood.   

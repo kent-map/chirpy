@@ -7,11 +7,14 @@ categories: [ crime ]
 tags: [ Texts & genres, Coast & sea, Travel & mobility, Rivers & marshes, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /crime/crime-overview/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

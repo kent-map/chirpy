@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Coast & sea, Arts & performance, Conflict & war, Nature & environment ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/8/87/Paul_Nash_-_The_Edge_of_a_Wood_-_1925_-_10341.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-nash-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Paul Nash was a war artist and photographer who became an important influence in British inter-war surrealism and Modern Art. Suffering post-traumatic stress disorder after World War One, Nash moved to [Dymchurch](Q2796278) where he recuperated whilst repeatedly painting seascapes in which the sea wall was a central motif. His three years in Dymchurch saw his style become increasingly abstract, and surreal in its imagery. After Dymchurch, Nash moved to Rye, and then later Swanage, dying in 1946 of a long-standing asthma problem.

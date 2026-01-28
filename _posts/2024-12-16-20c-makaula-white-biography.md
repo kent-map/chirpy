@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Identity & community, Countryside & farming, Towns & cities, Faith & belief ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NBY_419452%29.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-makaula-white-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Albert Makaula, the son of a Bhaca Chief, was born in the Eastern Cape in 1865.[^ref1] Although he started life in South Africa, he later settled in [Kent](Q67479626) where he became a farmer. 

@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Politics & reform, Conflict & war, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-northcliffe-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

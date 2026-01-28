@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Travel & mobility, Buildings & architecture ]
 image: 
   path: "https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20"
-layout: post
-auto_float: true
 permalink: /20c/20c-conrad-homes/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

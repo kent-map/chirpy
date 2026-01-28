@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Texts & genres, Faith & belief, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c"
-layout: post
-auto_float: true
 permalink: /21c/21c-sin-of-omission/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

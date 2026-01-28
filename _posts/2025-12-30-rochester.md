@@ -7,11 +7,14 @@ categories: [ placesrz ]
 tags: [ Towns & cities, Buildings & architecture, Heritage & memory, Culture & society ]
 image: 
   path: "https://stor.artstor.org/stor/dc323604-dfe3-4121-89de-3a84faccc9f1"
-layout: post
-auto_float: true
 permalink: /placesrz/rochester/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

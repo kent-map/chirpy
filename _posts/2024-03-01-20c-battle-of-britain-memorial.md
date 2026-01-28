@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Conflict & war, Coast & sea, Heritage & memory, Buildings & architecture ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/2/22/BBMF_spits_and_hurricane.JPG"
-layout: post
-auto_float: true
 permalink: /20c/20c-battle-of-britain-memorial/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at [Capel-le-Ferne](Q1006783), near [Folkestone](Q375314). Dedicated to [Churchill’s]({{ site.baseurl }}/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.

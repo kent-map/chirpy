@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Science & ideas, Towns & cities, Arts & performance ]
 image: 
   path: "https://stor.artstor.org/stor/ed545935-aca9-4569-9b43-54e1f11d3e99"
-layout: post
-auto_float: true
 permalink: /20c/20c-oram-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

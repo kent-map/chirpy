@@ -7,11 +7,14 @@ categories: [ landscape ]
 tags: [ Texts & genres, Rivers & marshes, Coast & sea, Authors & lives, Time periods ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg"
-layout: post
-auto_float: true
 permalink: /landscape/romney-writers/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 A number of writers of the Edwardian era and the years between the World Wars chose to depict [Romney Marsh](Q1506093) in their work. Not least among them was [Henry James]({{ site.baseurl }}/19c/19c-jamesh-hever-castle), who never featured the area in his novels but found the Marsh a very special place. The Marsh itself evokes a ‘small thrill’ when Henry James sees ‘little lonely farms, red and gray, little mouse-coloured churches; little villages that seem made only for long shadows and summer afternoons … when summer deepens, the shadows fall, … you find in the mild English marsh a recall of the Roman Compagna’.[^ref1]  

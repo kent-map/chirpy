@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Science & ideas, Towns & cities, Representation & interpretation ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-winbolt-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

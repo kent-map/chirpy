@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Maps & place-making, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundial_mosaics_-_geograph.org.uk_-_475598.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-burdett-coutts-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

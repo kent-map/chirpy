@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Coast & sea, Literary places ]
 image: 
   path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
-layout: post
-auto_float: true
 permalink: /20c/20c-ferguson-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Chaplain of Eversley School, [Sandgate](Q1000312) 1915 – 1935 (thereafter in Lymington).   

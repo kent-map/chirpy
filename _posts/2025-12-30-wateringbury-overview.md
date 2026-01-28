@@ -7,11 +7,14 @@ categories: [ placesrz ]
 tags: [ Towns & cities, Travel & mobility, Heritage & memory, Authors & lives, Science & ideas ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /placesrz/wateringbury-overview/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Wateringbury is an historic village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off. Hover over the highlighted text to take a tour of the village.

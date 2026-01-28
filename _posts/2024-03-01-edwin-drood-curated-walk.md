@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Towns & cities, Travel & mobility, Maps & place-making ]
 image: 
   path: ""
-layout: post
-auto_float: true
 permalink: /dickens/edwin-drood-curated-walk/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

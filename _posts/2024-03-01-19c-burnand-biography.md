@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-burnand-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

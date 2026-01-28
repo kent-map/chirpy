@@ -7,11 +7,14 @@ categories: [ landscape ]
 tags: [ Rivers & marshes, Towns & cities, Nature & environment, Heritage & memory ]
 image: 
   path: "https://stor.artstor.org/stor/b4fb174f-5884-4bfc-832a-20fc4b3683dc"
-layout: post
-auto_float: true
 permalink: /landscape/river-dour/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Approximately four miles long, the [River Dour](Q7337355) is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of [Dover](Q179224).

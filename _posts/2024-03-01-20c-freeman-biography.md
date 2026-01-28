@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Crime & punishment, Towns & cities, Maps & place-making ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maidstone%2C_1866.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-freeman-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

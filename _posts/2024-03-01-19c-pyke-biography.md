@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Culture & society, Faith & belief ]
 image: 
   path: "https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21"
-layout: post
-auto_float: true
 permalink: /19c/19c-pyke-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

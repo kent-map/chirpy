@@ -7,11 +7,14 @@ categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg"
-layout: post
-auto_float: true
 permalink: /19c/19c-hemery-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

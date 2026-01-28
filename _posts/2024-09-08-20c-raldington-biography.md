@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Conflict & war ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_The_South_Foreland_and_Shakespeare%27s_Cliff_%28one_of_five_drawings_on_one_mount%29_-_B1975.4.1593_-_Yale_Center_for_British_Art.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-raldington-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

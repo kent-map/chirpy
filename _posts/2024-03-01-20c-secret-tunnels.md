@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Conflict & war, Buildings & architecture, Coast & sea, Heritage & memory ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-secret-tunnels/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Coast & sea, Nature & environment, Literary places ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/20c/Jarman__2.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-jarman-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 **Places:** Lived in [Dungeness](Q911577) 1986-1994   

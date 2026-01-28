@@ -8,11 +8,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Countryside & farming, Texts & genres, Literary places ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG"
-layout: post
-auto_float: true
 permalink: /20c/20c-sassoon-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

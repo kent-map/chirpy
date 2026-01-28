@@ -7,11 +7,14 @@ categories: [ music ]
 tags: [ Arts & performance, Culture & society, Towns & cities, Time periods ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /music/19c-catch-music/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

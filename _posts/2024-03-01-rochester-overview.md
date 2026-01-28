@@ -7,11 +7,14 @@ categories: [ placeskz ]
 tags: [ Towns & cities, Literary places, Authors & lives, Culture & society ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg"
-layout: post
-auto_float: true
 permalink: /placeskz/rochester-overview/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

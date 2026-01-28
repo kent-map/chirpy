@@ -7,11 +7,14 @@ categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
 image: 
   path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
-layout: post
-auto_float: true
 permalink: /dickens/david-copperfield-goodwin-sands/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

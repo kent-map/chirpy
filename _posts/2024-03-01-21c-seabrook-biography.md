@@ -7,11 +7,14 @@ categories: [ 21c ]
 tags: [ Authors & lives, Coast & sea, Texts & genres, Literary places, Representation & interpretation ]
 image: 
   path: "https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d"
-layout: post
-auto_float: true
 permalink: /21c/21c-seabrook-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 ‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?

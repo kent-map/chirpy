@@ -7,11 +7,14 @@ categories: [ canterbury ]
 tags: [ Work & industry, Towns & cities, Travel & mobility, Buildings & architecture ]
 image: 
   path: "https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919"
-layout: post
-auto_float: true
 permalink: /canterbury/20c-canterbury-trading-estates/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

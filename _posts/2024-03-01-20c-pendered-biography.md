@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Politics & reform, Towns & cities, Texts & genres ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-pendered-biography/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in [Herne Bay](Q929286), where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  

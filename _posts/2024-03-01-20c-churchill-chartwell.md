@@ -7,11 +7,14 @@ categories: [ 20c ]
 tags: [ Authors & lives, Buildings & architecture, Heritage & memory, Conflict & war ]
 image: 
   path: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg"
-layout: post
-auto_float: true
 permalink: /20c/20c-churchill-chartwell/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 

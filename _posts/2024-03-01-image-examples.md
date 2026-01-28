@@ -7,11 +7,14 @@ categories: [ kent ]
 tags: [ Methods & digital, Material culture, Representation & interpretation ]
 image: 
   path: ""
-layout: post
-auto_float: true
 permalink: /kent/image-examples/
 published: true
-toc: false    
+toc: false  
+
+layout: post
+auto_float: true
+group_embeds: true
+col2: true  
 ---
 
 
