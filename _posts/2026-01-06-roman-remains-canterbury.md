@@ -6,7 +6,7 @@ date: 2026-01-06
 categories: [ built ]
 tags: [ Buildings & architecture, Towns & cities, Material culture, Time periods ]
 image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey%2C_Canterbury_%281%29_2024-12-29.jpg"
+  path: wc:Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey%2C_Canterbury_%281%29_2024-12-29.jpg
 permalink: /built/roman-remains-canterbury/
 published: true
 toc: false  
