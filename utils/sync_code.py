@@ -54,7 +54,13 @@ FILES_TO_SYNC = [
     "assets/components/vis-network.html",
     "assets/components/youtube.html",
     "assets/css/custom.css",
-    "assets/js/main.js"
+    "assets/js/main.js",
+    "assets/img/devices-mockup.png",
+    "assets/img/devtools-dark.png",
+    "assets/img/devtools-light.png",
+    "assets/img/mockup.png",
+    "assets/img/pages-source-dark.png",
+    "assets/img/pages-source-light.png"
 ]
 
 
