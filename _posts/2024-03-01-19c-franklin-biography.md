@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-franklin-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 ‘In the last letter written before he sailed, dated H.M.S. "Erebus", Greenhithe, 18th May, 1845, [Franklin] says to his father-in-law:

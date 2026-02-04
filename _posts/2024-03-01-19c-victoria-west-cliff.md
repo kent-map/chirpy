@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-victoria-west-cliff/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Events:** Princess Victoria visited 30th Sept 1836 – 29 Nov 1836   

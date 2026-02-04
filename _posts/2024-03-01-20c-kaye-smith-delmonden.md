@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-kaye-smith-delmonden/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Delmonden is a village in Kent that doesn’t actually exist except in _Shepherds In Sackcloth_ by Sheila Kaye-Smith. However, there is a real village in the location Kaye-Smith has chosen for her creation; should you wish to visit, it is called [Newenden](Q1889928) and it lies just across the county border, marked by the [River Rother](Q1506209), on the edge of Kent, close to Kaye-Smith’s home village of Northiam. Kaye-Smith was dubbed the ‘Sussex Hardy’ in the 1920s, but this in no way constrained her fluid use of geography when it came to locations for her novels. In a guide she wrote to the Weald of Kent and Sussex she stated that ‘the border between Kent and Sussex is purely artificial’. In her survey of Newenden she notes its ancient history – reputed to have been the site of a Carmelite Priory, a Summer Palace for Edward I and to have had a Castle on Castle Toll. By the 1950s it was ‘little more than a straggle of houses, an inn and a church’, and so it is today. 

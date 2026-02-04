@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-baron-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 [Dover]({{ site.baseurl }}/19c/19c-dover/) in the second half of the 19th century was a place of significant expansion. Fortified against the threat of French invasion, it saw a 600% population increase over the span of 100 years; industries grew and railroads were built. By 1835 a Jewish community resided in the area, necessitating the construction of a Synagogue in 1861.[^ref1] Coinciding with the expansion of the town, the Jewish community oversaw the founding of a number of Jewish educational institutions. Around the time of David Baron's conversion to Christianity, the Mildmay Mission to the Jews was expanding its activities in Kent.

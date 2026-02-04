@@ -10,11 +10,7 @@ image:
 permalink: /dickens/bleak-house-deal/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 ‘At last we came into the narrow streets of [Deal](Q1011096): and very gloomy they were, upon a raw misty morning. The long flat beach, with its little irregular houses, wooden and brick, and its litter of capstans, and great boats, and sheds, and bare upright poles with tackle and blocks, and loose gravelly waste places overgrown with grass and weeds, wore as dull an appearance as any place I ever saw. the sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage.’ _Bleak House_ (1852-53).

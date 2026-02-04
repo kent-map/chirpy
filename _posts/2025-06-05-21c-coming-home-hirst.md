@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Bruised clouds are looming above Thanet’s purple land.

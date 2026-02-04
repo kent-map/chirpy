@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-syrett-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._   

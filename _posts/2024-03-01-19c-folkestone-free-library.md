@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-folkestone-free-library/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. [Canterbury Museum and Public Library]({{ site.baseurl }}/19c/19c-canterbury-free-library) (now The Beaney) opened its doors in 1858, making it the first free library in England.

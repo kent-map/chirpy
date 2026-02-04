@@ -10,11 +10,7 @@ image:
 permalink: /dickens/dickens-broadstairs/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.   

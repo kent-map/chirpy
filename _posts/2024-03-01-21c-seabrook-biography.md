@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-seabrook-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 ‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?

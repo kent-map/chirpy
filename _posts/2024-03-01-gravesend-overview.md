@@ -10,11 +10,7 @@ image:
 permalink: /placesej/gravesend-overview/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 It would be wrong to assume that Gravesend’s national and international connections were only supplied by the town’s proximity to the River Thames and to London. Indeed, an airport built in 1932 experienced a transformation from a civilian airfield into a fighter station during the Second World War, leading to the town being heavily bombed by the German air force. In fact, the German war campaign executed during the last months of 1940 and the early months of 1941 – otherwise known as ‘The Blitz’ – saw Gravesend, amongst many other cities and towns, suffer through some of the worst bombing raids.  During this time, the railway line between Gravesend and Northfleet was bombed; the War Memorial at Windmill Gardens was damaged; and Gravesend’s airport was attacked in an air raid that killed two soldiers.[^ref1]   

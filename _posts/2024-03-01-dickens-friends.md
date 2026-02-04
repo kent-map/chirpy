@@ -10,11 +10,7 @@ image:
 permalink: /dickens/dickens-friends/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 The study at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) still features a wall of Dickens’s famous fake books. But his own visitors’ book would have included genuine contributions by some of the most famous figures of the nineteenth century.

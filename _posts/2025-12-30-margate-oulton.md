@@ -10,11 +10,7 @@ image:
 permalink: /poetry/margate-oulton/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 I was in a different shelter,   

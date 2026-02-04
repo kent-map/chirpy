@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-jerome-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 "You’ll find when you get home,” I said, “she has thought of one other thing.”   

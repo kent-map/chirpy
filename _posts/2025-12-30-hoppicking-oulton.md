@@ -10,11 +10,7 @@ image:
 permalink: /poetry/hoppicking-oulton/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 [Dickens]({{ site.baseurl }}/dickens) sees bodies wet in the hedges,   

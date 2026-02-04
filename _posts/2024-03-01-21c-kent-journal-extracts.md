@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-kent-journal-extracts/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **2007**

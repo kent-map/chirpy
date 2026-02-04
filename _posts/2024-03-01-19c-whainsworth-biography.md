@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-whainsworth-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.**      

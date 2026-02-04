@@ -10,11 +10,7 @@ image:
 permalink: /built/megaliths/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 

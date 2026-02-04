@@ -10,11 +10,7 @@ image:
 permalink: /built/lullingstone-roman-villa/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   

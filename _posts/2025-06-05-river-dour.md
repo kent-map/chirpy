@@ -10,11 +10,7 @@ image:
 permalink: /landscape/river-dour/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Approximately four miles long, the [River Dour](Q7337355) is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of [Dover](Q179224).

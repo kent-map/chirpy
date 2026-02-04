@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-battle-of-britain-memorial/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at [Capel-le-Ferne](Q1006783), near [Folkestone](Q375314). Dedicated to [Churchill’s]({{ site.baseurl }}/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.

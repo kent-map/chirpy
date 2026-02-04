@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-gertrude-warden-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 'The air was laden with the scent of hay after the recent heavy rain; down the grassy cliff-side fat Kentish sheep and lambs were contentedly munching the short herbage; all sights and scents, and even the rushing and rustling of the wind through the little trees that bordered the canal soothed my discontented spirit.” _The Wooing of a Fairy'_ [^ref1]

@@ -10,11 +10,7 @@ image:
 permalink: /dickens/edwin-drood-eastgate-house/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 

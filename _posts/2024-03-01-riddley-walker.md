@@ -10,11 +10,7 @@ image:
 permalink: /landscape/riddley-walker/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 For many authors, real places and placenames offer an opportunity for playful reworking. Hardy’s Wessex is famously full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’, in reality Great Fawley. The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in _Riddley Walker_ are deliberately evocative of a post-apocalyptic Kent in which people, landscapes and even place-names have been twisted:

@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-st-john-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Although Christopher St John (born Christabel Marshall) is today best known either as the one-time lover of author and gardener, [Vita Sackville-West]({{ site.baseurl }}/20c/20c-sackville-west-biography), or as a member of the “Smallhythe Trio” – her ménage à trois with the theatre director [Edith “Edy” Craig]({{ site.baseurl }}/20c/20c-craig-biography) and artist Claire “Tony” Atwood – she was a prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines, including _The Lady_ and _Time and Tide_ (then known as the “Sapphic Graphic”). Her writing spanned the late Victorian period through to the late 1950s and fits into the intersection of Victorian urban gothic fiction (with a particular focus on Oscar Wilde) and the introspection of modernist writers, such as Virginia Woolf.

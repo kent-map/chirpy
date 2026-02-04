@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-koettlitz-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover]({{ site.baseurl }}/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.[^ref1]  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on [Dover](Q179224)’s London Road, before being donated to the museum in the 1950s. 

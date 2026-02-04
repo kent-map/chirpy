@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-terry-funeral/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 In the days before the great Victorian actress Ellen Terry died on 21 July 1928, the nation had been on tenterhooks for news of her health. An efficient ‘news bureau’, staffed with her daughter [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography)’s friends, had been set up in her house at [Smallhythe Place](Q7543679) to field press inquiries, but reporters descended nonetheless. 

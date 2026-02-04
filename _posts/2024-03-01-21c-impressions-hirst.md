@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-impressions-hirst/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Low tide. Light breeze.   

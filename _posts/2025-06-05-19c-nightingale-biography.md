@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-nightingale-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Social reformer and nursing campaigner, Florence Nightingale, who rose to fame after her work in the Crimea, was instrumental in establishing an army medical school at [Fort Pitt](Q17664052), Chatham in 1860.

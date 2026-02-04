@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-frost-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 ‘Feversham Creek, the marshes between Reculver and Westgate, the gaps between [Margate]({{ site.baseurl }}/19c/19c-margate) and Kingsgate, and the “guts” of [Romney Marsh](Q1506093) were the landing-places most in use by the smugglers on the coast of Kent. The numerous green lanes and bridle-paths through the extensive woods stretching from Feversham to [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), and thence to the coast, the marshes bordering the Swale, and the broader tracts extending west and south from Shorncliff to the borders of Sussex, afforded ample facilities for unobserved inland conveyance.’ 18 _Reminiscences of a country journalist_. 1886.

@@ -10,11 +10,7 @@ image:
 permalink: /landscape/20c-encounters-with-others/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Encounters with ‘other’ – ‘crime’s dark crew’   

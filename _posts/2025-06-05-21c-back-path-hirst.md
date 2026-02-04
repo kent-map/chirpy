@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-back-path-hirst/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 I’ve known this cottage path for over half my life,    

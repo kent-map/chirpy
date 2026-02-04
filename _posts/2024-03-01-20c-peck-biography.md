@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-peck-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Designed maps of Kent and North East Kent, sold by Salmon Postcards from 1964-5.**   

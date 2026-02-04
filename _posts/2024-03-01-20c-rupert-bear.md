@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-rupert-bear/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the _Daily Express_ newspaper.  He was created by the [Canterbury](Q29303)-born illustrator [Mary Tourtel]({{ site.baseurl }}/20c/20c-tourtel-biography) and thus became firmly rooted within the public vision of the city’s literary heritage. Mary herself was strongly connected with Canterbury's heritage throughout her life. Her brother worked as a stained glass restorer for the Cathedral, she studied at the Sidney Cooper School of Art, and she lived in Canterbury towards the end of her life. The places of her stay in the city are marked by commemorating plaques.  

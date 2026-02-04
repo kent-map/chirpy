@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-pendered-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in [Herne Bay](Q929286), where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  

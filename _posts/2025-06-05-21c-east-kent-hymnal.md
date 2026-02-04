@@ -10,11 +10,7 @@ image:
 permalink: /21c/21c-east-kent-hymnal/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 This landscape has the contours of my youth.   

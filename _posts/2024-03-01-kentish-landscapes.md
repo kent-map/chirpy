@@ -10,11 +10,7 @@ image:
 permalink: /landscape/kentish-landscapes/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 ‘I went mooning, more and more moodily, about the looming landscape, with its creaking-cowled hop-kilns and whirring flocks of starlings and hop-poles piled in pyramids like soldiers’ tents.’

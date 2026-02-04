@@ -10,11 +10,7 @@ image:
 permalink: /landscape/chalk-pits-stig/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 The downland of Kent is pocked with small abandoned chalk pits. The chalk was converted to ‘lime’ and used to improve agricultural soils on clay. Lime burning was probably introduced during the Roman period, when lime was originally used in mortar and as a stabiliser for mud floors and render.

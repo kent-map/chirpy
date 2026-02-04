@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-hamilton-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Place:** [Smallhythe Place](Q7543679)[^ref1]   

@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-rosherville/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Rosherville Gardens, a long-forgotten pleasure garden built in an abandoned chalk pit in Kent in 1830, was a popular tourist attraction in the nineteenth century. Tactically positioned close to [Gravesend]({{ site.baseurl }}/19c/19c-gravesend), which contemporary Londoners could reach by travelling in a steamboat, Rosherville was – at first, at least – a triumph, with Robert Hiscock noting that, by 1857, the gardens were admitting approximately twenty thousand visitors every week.[^ref1]  It is perhaps not so surprising that Rosherville received such an immense amount of interest in the mid-Victorian era, given that the gardens seemed to include something for everyone; indeed, it featured terraces, Grecian statues and temples, an archery lawn, a Baronial Hall, a bear pit (which is, in fact, one of the only surviving structures from the gardens, now Grade-II listed), as well as places to eat, drink, and dance.[^ref2]  

@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-tull-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Daniel Tull, son of a formerly enslaved woman, Anna Tull, immigrated to [Folkestone](Q375314) from Barbados in 1876.[^ref1]   He married Alice Palmer in 1880. On 28th April 1888, Walter Daniel John Tull was born, the couple’s fifth child.[^ref2]  Walter was the third son of six children. 

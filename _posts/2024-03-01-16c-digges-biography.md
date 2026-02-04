@@ -10,11 +10,7 @@ image:
 permalink: /16c/16c-digges-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 **Leonard Digges**   

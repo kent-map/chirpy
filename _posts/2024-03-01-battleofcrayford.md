@@ -10,11 +10,7 @@ image:
 permalink: /medieval/battleofcrayford/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of [Crayford](Q146676) in the [London Borough of Bexley](Q207208):   

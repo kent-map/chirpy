@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-pett-ridge-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 

@@ -10,11 +10,7 @@ image:
 permalink: /poetry/brockhill-oulton/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 A few feet away, the child is waiting.   

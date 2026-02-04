@@ -10,11 +10,7 @@ image:
 permalink: /16c/16c-arden-faversham/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 On St. Valentine’s day 1551 a grizzly sight was found in the grounds of [Faversham](Q1000115) abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. 

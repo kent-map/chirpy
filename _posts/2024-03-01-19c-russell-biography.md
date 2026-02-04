@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-russell-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 A life on the ocean wave! A home on the rolling deep!   

@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-porter-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Bertha Porter, biographer, and Egyptologist was born in Bloomsbury on April 9th, 1852. Her father, a noted architect, designed the Union Bank of London on Chancery Lane in 1865, and Bertha spent a very privileged childhood living in Charlotte Street and later Russell Square, where she became acquainted with [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography), Thomas and Jane Carlyle, and Robert and Elizabeth Barrett Browning.[^ref1] 

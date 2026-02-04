@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-canterbury-free-library/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 The Free Library in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) dates back to 1858. It was the first in the country to be established under the 1850 Library Act, which enabled free public access to books and amenities, paid for out of a 1d levy on local rates. Maidstone was another early adopter of the new Act, setting up a Free Library in 1858. [Folkestone]({{ site.baseurl }}/19c/19c-folkestone-free-library) followed suit in 1879.[^ref1]

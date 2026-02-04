@@ -10,11 +10,7 @@ image:
 permalink: /20c/20c-canterbury-corrective-borstal/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 On the 19th December 1910, twenty-three young offenders were transferred from the [Borstal](Q4946691) Institution near [Rochester](Q507517) to the new ‘penal’ Borstal at [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home/). Housed in an adapted wing of the local prison there, this was the first institution of its kind in the country. Borstals kept certain habitual young offenders away from adult prisoners in institutions offering specific regimes designed to train them away from crime. Recommendations in the Gladstone Report of 1895 identified the need for ‘a half-way house between the prison and the reformatory’ school for offenders aged between 16 and 21.[^ref1]  Borstal convict prison was used for early experiments with this, and later provided a name for the whole system.  

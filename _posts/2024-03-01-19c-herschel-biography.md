@@ -10,11 +10,7 @@ image:
 permalink: /19c/19c-herschel-biography/
 published: true
 toc: false  
-
-layout: post
-auto_float: true
-group_embeds: true
-col2: true  
+layout: juncture  
 ---
 
 Mathematician, astronomer, chemist and polymath, Sir John Frederick William Herschel (1792-1871) moved to Collingwood House in [Hawkhurst, Kent](Q2744669) in 1840. Sir John was the son of Sir William Herschel (1738–1822), who discovered the planet Uranus in 1781.
