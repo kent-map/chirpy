@@ -1,12 +1,11 @@
 ---
 title: "Edwin Drood: a Curated Walk"
-description: "This essay offers a curated walk through Rochester as the real-world inspiration for Cloisterham in Charles Dickens’s unfinished novel The Mystery of Edwin Drood. It links key town sites such as the cathedral, gatehouse, Eastgate House, and the River Medway to scenes and characters, while reflecting on the limits of reading fictional clues into factual geography."
+description: "Rochester’s cathedral precinct, High Street, Eastgate House, and the River Medway anchor a literary walk that traces how Charles Dickens transformed local landmarks into Cloisterham in The Mystery of Edwin Drood. Close reading alongside on-the-ground geography shows where the novel shadows real streets and where invention and later heritage marketing reshape the imagined town."
 author: Peter Orford
 date: 2024-03-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Towns & cities, Travel & mobility, Maps & place-making ]
+tags: [ Literary places, Texts & genres, Travel & mobility, Maps & place-making ]
 image: 
-  path: ""
 permalink: /dickens/edwin-drood-curated-walk/
 published: true
 toc: false  

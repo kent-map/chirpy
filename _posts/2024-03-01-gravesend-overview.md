@@ -1,12 +1,11 @@
 ---
 title: "Gravesend"
-description: "This essay surveys Gravesend’s long history of strategic connections and wartime vulnerability, from First World War airship attacks to the Blitz and the militarisation of its 1932 airfield. It also traces how local landmarks such as Windmill Hill and Milton Chantry carry layered evidence of conflict, adaptation, and conservation within the town’s built environment."
+description: "Gravesend’s role as a connected Thames-side town emerges through wartime bombing, aviation infrastructure, and layers of defensive and commemorative landscape. Windmill Hill, the airfield, and Milton Chantry show how tourism sites and medieval buildings were repeatedly repurposed for military need, public health, and civic memory."
 author: Hayley Smith
 date: 2024-03-01
 categories: [ placesej ]
-tags: [ Conflict & war, Towns & cities, Buildings & architecture, Heritage & memory ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Towns & cities, Conflict & war, Buildings & architecture, Heritage & memory ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /placesej/gravesend-overview/
 published: true
 toc: false  

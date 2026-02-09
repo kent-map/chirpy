@@ -1,12 +1,11 @@
 ---
 title: "Sheppey at war in the 17th century"
-description: "This essay examines the Island of Sheppey’s strategic vulnerability during the Anglo-Dutch War, focusing on the 1667 Raid on the Medway and the fall of Sheerness. It compares a contemporary narrative map with other visual sources and Samuel Pepys’s diary to show how events were recorded, misdated, and understood by witnesses and later interpreters."
+description: "Sheppey’s exposed position at the mouth of the Medway and Thames shaped the Dutch Raid on the Medway in June 1667 and triggered flight from Sheerness and Gravesend. Narrative maps and Samuel Pepys’s diary reveal how inaccurate cartographic claims and weak Crown defenses, including the neglected fortifications at Sheerness and Queenborough, amplified the island’s wartime vulnerability."
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Conflict & war, Coast & sea, Maps & place-making, Representation & interpretation ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
+tags: [ Conflict & war, Coast & sea, Maps & place-making, Representation & interpretation, Time periods ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-sheppey-at-war/
 published: true
 toc: false  

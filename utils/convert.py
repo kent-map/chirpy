@@ -13,6 +13,7 @@ Main conversions:
 """
 
 import os
+import csv
 import json
 import argparse
 import pathlib
@@ -25,6 +26,8 @@ from datetime import datetime
 from typing import Dict, Any, Optional, List, Tuple
 from urllib.parse import unquote, quote
 from io import BytesIO
+from dateutil import parser as date_parser
+from datetime import date
 
 import requests
 import shelve
@@ -42,7 +45,7 @@ allmaps_fragment = ''
 # OpenAI client for metadata generation
 client = OpenAI()
 MODEL = "gpt-5.2"
-PROMPT_VERSION = "v3-controlled-vocab-labels"
+PROMPT_VERSION = "v4-controlled-vocab-labels"
 
 # Cache paths
 CACHE_PATH = Path('.image_aspect_cache')
@@ -242,7 +245,11 @@ def _call_openai(markdown_text: str, title: str) -> Dict[str, Any]:
     prompt = f"""Generate metadata for an essay.
 
 RULES (strict):
-- description: exactly 2 or 3 sentences, plain English, no quotes
+- description: exactly 2–3 sentences in plain English.
+  Do NOT begin with phrases such as “This essay…”, “This article…”, or similar meta references.
+  Start directly with the subject matter and key insight, using concrete nouns and active verbs.
+  The first sentence should stand on its own if truncated and convey the core topic and significance.
+  No quotes, no fluff, no self-referential language.
 - tags:
   - choose ONLY from the controlled vocabulary below
   - select {MIN_TAGS}–{MAX_TAGS} DISTINCT tags (no duplicates)
@@ -281,6 +288,166 @@ Essay (markdown):
         "tags": _normalize_and_convert_tags(raw["tags"]),
     }
 
+def read_tsv_to_dict(path, key_field):
+    """
+    Read a TSV file with a header row into a dictionary.
+
+    Args:
+        path (str): Path to the TSV file.
+        key_field (str): Field name to use as the dictionary key.
+
+    Returns:
+        dict: { key_field_value : {field: value, ...}, ... }
+    """
+    records = {}
+
+    with open(path, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f, delimiter='\t')
+
+        if key_field not in reader.fieldnames:
+            raise ValueError(f"Key field '{key_field}' not found in header")
+
+        for row in reader:
+            key = row[key_field].strip()
+            if key == "": 
+                continue  # Skip rows with empty key
+            key = '/'.join([key_part.strip() for key_part in key.split("/") if key_part.strip()][-2:])
+            if key in records:
+                print(f"Warning: Duplicate key '{key}' found in TSV. Overwriting previous record.")
+                # raise ValueError(f"Duplicate key value '{key}' in field '{key_field}'")
+            records[key] = row
+
+    return records
+
+MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4,
+    "may": 5, "jun": 6, "jul": 7, "aug": 8,
+    "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12
+}
+
+_DOT_DMY = re.compile(r"^\s*\d{1,2}\.\d{1,2}\.(\d{2}|\d{4})\s*$")
+
+import re
+from datetime import date
+from dateutil import parser
+
+MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4,
+    "may": 5, "jun": 6, "jul": 7, "aug": 8,
+    "sep": 9, "oct": 10, "nov": 11, "dec": 12
+}
+
+_DOT_DMY = re.compile(r"^\s*\d{1,2}\.\d{1,2}\.(\d{2}|\d{4})\s*$")
+
+def _month_num(month_text: str) -> int:
+    t = month_text.strip().lower()
+    # handle "sept" explicitly; first 3 chars covers "sep" and "september"
+    if t.startswith("sept"):
+        return 9
+    key = t[:3]
+    try:
+        return MONTHS[key]
+    except KeyError:
+        raise ValueError(f"Unrecognized month name: '{month_text}'")
+
+def normalize_date(date_str: str) -> str:
+    s = date_str.strip().replace('?', '')  # Remove question marks
+
+    # 1) Month range: "July / August 2021" -> first day of last month
+    m = re.match(r"(?i)^\s*([A-Za-z]+)\s*/\s*([A-Za-z]+)\s+(\d{4})\s*$", s)
+    if m:
+        end_month = _month_num(m.group(2))
+        year = int(m.group(3))
+        return date(year, end_month, 1).isoformat()
+
+    # 2) Month-year shorthand: "Aug-19", "March 2021" -> first day of month
+    m = re.match(r"(?i)^\s*([A-Za-z]+)[\s\-\/]+(\d{2,4})\s*$", s)
+    if m:
+        month = _month_num(m.group(1))
+        year = int(m.group(2))
+        if year < 100:
+            year += 2000 if year < 50 else 1900
+        return date(year, month, 1).isoformat()
+
+    # 3) UK dot-separated numeric dates => D.M.Y
+    if _DOT_DMY.match(s):
+        try:
+            return date_parser.parse(s, dayfirst=True, yearfirst=False, fuzzy=False).date().isoformat()
+        except ValueError:
+            raise ValueError(f"Unrecognized dot-separated date: '{date_str}'")
+
+    # 4) Fallback parse
+    try:
+        return date_parser.parse(s, dayfirst=False, yearfirst=False, fuzzy=False).date().isoformat()
+    except ValueError:
+        raise ValueError(f"Unrecognized or ambiguous date format: '{date_str}'")
+
+# Match a Jekyll/Liquid include tag (non-greedy) like: {% include ... %}
+INCLUDE_TAG_RE = re.compile(r"{%\s*include\s+.*?%}", re.DOTALL)
+
+# Parse: include path then attributes of the form key="value" or key='value'
+# - include path: first token after "include"
+# - attributes: key=value with quoted values (single or double)
+INCLUDE_PARSE_RE = re.compile(
+    r"""
+    ^{%\s*include\s+
+    (?P<include_path>[^\s%]+)                           # embed/image.html
+    (?P<attrs>(?:\s+[A-Za-z_][\w\-]*\s*=\s*(?:"[^"]*"|'[^']*'))*)   # key="v" ...
+    \s*%}$
+    """,
+    re.VERBOSE | re.DOTALL,
+)
+
+ATTR_RE = re.compile(
+    r"""
+    (?P<key>[A-Za-z_][\w\-]*)\s*=\s*
+    (?P<q>["'])(?P<val>.*?)(?P=q)
+    """,
+    re.VERBOSE | re.DOTALL,
+)
+
+
+def extract_liquid_includes(text: str, include_path_filter: Optional[str] = None) -> List[Dict[str, Any]]:
+    """
+    Extract Liquid/Jekyll include tags and return a list (in occurrence order) of dicts:
+      {
+        "include": "embed/image.html",
+        "src": "...",
+        "aspect": "...",
+        "caption": "..."
+      }
+
+    Args:
+        text: Input markdown text
+        include_path_filter: if provided, only return includes whose path equals this string
+                             (e.g., "embed/image.html")
+
+    Returns:
+        List of dictionaries, one per include tag, in occurrence order.
+    """
+    results: List[Dict[str, Any]] = []
+
+    for tag in INCLUDE_TAG_RE.findall(text):
+        m = INCLUDE_PARSE_RE.match(tag.strip())
+        if not m:
+            # If you prefer, you can raise here. I skip unmatched include-like tags.
+            continue
+
+        include_path = m.group("include_path")
+        if include_path_filter and include_path != include_path_filter:
+            continue
+
+        attrs_text = m.group("attrs") or ""
+        record: Dict[str, Any] = {"include": include_path}
+
+        for am in ATTR_RE.finditer(attrs_text):
+            key = am.group("key")
+            val = am.group("val")
+            record[key] = val
+
+        results.append(record)
+
+    return results
 
 def generate_description_and_tags(
     markdown_text: str,
@@ -759,6 +926,13 @@ def convert_params(md: str) -> str:
         
         tag += ' %}\n'
         
+        '''
+        alt = caption or src.split('/')[-1]
+        if attribution:
+            caption = (caption + ' - ' if caption else '') + attribution
+        tag = f'\n![{alt}]({src})' + (f'\n_{caption}_\n' if caption else '')
+        '''
+        
         return tag
     
     def transform_map(attrs: Dict[str, str]) -> str:
@@ -847,6 +1021,8 @@ def clean(text: str) -> str:
     Ensures:
     - Blank line after headings
     """
+    
+    text = re.sub(r'<!--[\s\S]*?-->', '', text) # Remove HTML comments
     text = RE_REMOVE.sub('', text)
     text = RE_COLLAPSE_BLANK_LINES.sub('\n\n', text)
     text = RE_ADD_BLANK_AFTER_HEADING.sub(r'\1\n\n', text)
@@ -878,6 +1054,32 @@ def get_thumbnails(path: str) -> Dict[str, str]:
     return thumbnails
 
 
+def get_config(md: str) -> Optional[Dict[str, str]]:
+    """
+    Extract ve-config attributes from markdown.
+    
+    Returns dict of attributes or None if no ve-config found.
+    """
+    regex = re.compile(r'^[ \t]*<param\s+ve-config\s+(.+?)>[ \t]*$', re.DOTALL | re.MULTILINE)
+    match = regex.search(md)
+
+    if match:
+        attr_text = match.group(1)
+        lexer = shlex.shlex(attr_text, posix=True)
+        lexer.whitespace_split = True
+        lexer.commenters = ''
+        tokens = list(lexer)
+        
+        config_attrs = {}
+        for token in tokens:
+            if '=' in token:
+                key, value = token.split('=', 1)
+                config_attrs[key] = value.strip('"\'')
+
+        return config_attrs
+    
+    return None
+
 def get_front_matter(src_path: str, md: str, **kwargs) -> Optional[str]:
     """
     Generate Jekyll front matter from ve-config params.
@@ -895,28 +1097,8 @@ def get_front_matter(src_path: str, md: str, **kwargs) -> Optional[str]:
     if os.path.exists(cat_index_path):
         thumbnails = get_thumbnails(cat_index_path)
     
-    # Extract ve-config attributes
-    config_attrs = {}
-    regex = re.compile(r'^[ \t]*<param\s+ve-config\s+(.+?)>[ \t]*$', re.DOTALL | re.MULTILINE)
-    match = regex.search(md)
-
-    if match:
-        attr_text = match.group(1)
-        lexer = shlex.shlex(attr_text, posix=True)
-        lexer.whitespace_split = True
-        lexer.commenters = ''
-        tokens = list(lexer)
-        
-        for token in tokens:
-            if '=' in token:
-                key, value = token.split('=', 1)
-                config_attrs[key] = value.strip('"\'')
-
-        # Skip index pages
-        if config_attrs.get('layout', '') == 'index':
-            return None
-
-        # Generate front matter
+    config_attrs = get_config(md)
+    if config_attrs:
         fm_str = f'''---
 title: "{config_attrs.get('title', '')}"
 description: "{config_attrs.get('description', '') or kwargs.get('description', '')}"
@@ -924,8 +1106,7 @@ author: {config_attrs.get('author', '')}
 date: {kwargs.get('date', '')}
 categories: [ {', '.join(kwargs.get('categories', []))} ]
 tags: [ {', '.join(kwargs.get('tags', []))} ]
-image: 
-  path: "{config_attrs.get('banner', '')}"
+image: {kwargs.get('image', '')}
 permalink: {kwargs.get('permalink', '')}
 published: true
 toc: false  
@@ -959,6 +1140,9 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
     all_tags = {}
     ctr = 0
     
+    articles = read_tsv_to_dict('articles.tsv', key_field='Location')
+    print(f"Loaded {len(articles)} article records from TSV.")
+    
     for root, dirs, files in os.walk(src):
         if 'README.md' not in files or dirs:
             continue
@@ -976,15 +1160,27 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
         #if base_fname.startswith(categories[0]):
         #    base_fname = base_fname[len(categories[0]) + 1:]
         
+        articles_key = '/'.join([categories[0], base_fname])
+        if articles_key in articles:
+            try:
+                pub_date = normalize_date(articles[articles_key]['Date published'])
+            except Exception:
+                print(f'Could not parse date for {articles_key} in TSV.')
+                pub_date = creation_date
+        else:
+            print(f'No article record for {articles_key} in TSV. Using file creation date {creation_date}.')
+            pub_date = creation_date
+        
         # Skip test files
         if base_fname.endswith('test'):
             print(f'Skipping test file: {root}')
             continue
 
-        dest_path = f'{dest}/{creation_date}-{base_fname}.md'
+        dest_path = f'{dest}/{pub_date}-{base_fname}.md'
         
         # Read and convert markdown
         md = pathlib.Path(f'{root}/README.md').read_text(encoding='utf-8')
+        config = get_config(md)
         
         try:
             md = convert_params(md)
@@ -1003,14 +1199,20 @@ def convert(src: str, dest: str, max: Optional[int] = None, **kwargs):
             traceback.print_exc()
             continue
 
+        banner = config.get('banner', '') if config else ''
+        if banner.startswith('banners/'):
+            images = extract_liquid_includes(md, include_path_filter='embed/image.html')
+            banner = images[0]['src'] if images else banner
+
         # Generate front matter
         fm = get_front_matter(
             root, md,
-            date=creation_date,
+            date=pub_date,
             categories=categories,
             permalink=f'/{categories[0]}/{base_fname}/',
             description=ai_metadata['description'],
-            tags=ai_metadata['tags']
+            tags=ai_metadata['tags'],
+            image=banner
         )
         
         # Clean markdown

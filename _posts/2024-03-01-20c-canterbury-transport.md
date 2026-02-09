@@ -1,12 +1,11 @@
 ---
 title: "20th-Century Canterbury: Transport"
-description: "This essay traces how 20th-century transport reshaped Canterbury, from A2 traffic through the High Street to ring roads, bypasses, park-and-ride schemes, and expanding car parking. It also considers rail electrification and high-speed services, the loss and repurposing of branch lines, and a cultural aside on the London–Canterbury 007 coach route linked to Ian Fleming."
+description: "Road and rail decisions reshaped Canterbury’s streets, shifting A2 traffic from the High Street to ring roads and bypasses while congestion persisted despite Park and Ride and new car parks. Electrification brought cleaner trains without faster journeys until the 2007 high-speed service, while branch-line closures, wartime railway use, and the 007 coach route link local mobility to wider national networks and popular culture."
 author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
-tags: [ Work & industry, Towns & cities, Travel & mobility, Time periods ]
-image: 
-  path: "https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919"
+tags: [ Travel & mobility, Towns & cities, Work & industry, Culture & society, Authors & lives ]
+image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
 permalink: /canterbury/20c-canterbury-transport/
 published: true
 toc: false  

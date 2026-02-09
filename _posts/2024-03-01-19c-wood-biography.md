@@ -1,12 +1,11 @@
 ---
 title: "Ellen Wood (1814-1887)"
-description: "This essay introduces the life of Ellen Wood (1814–1887) and situates her in the literary and social world of nineteenth-century Kent. It uses images and mapped views around Folkestone, Hawkinge, and Hougham to connect biography to place and landscape."
+description: "Ellen Wood’s career as a bestselling Victorian novelist links Kent’s coastal landscapes with popular print culture and domestic fiction. Folkestone, Hawkinge, and the cliffs around Hougham anchor a biographical reading of how place shaped her public reputation and literary imagination."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Maps & place-making ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-wood-biography/
 published: true
 toc: false  

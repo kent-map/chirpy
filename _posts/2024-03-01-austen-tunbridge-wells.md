@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen: Tunbridge Wells"
-description: "This essay explores how Tunbridge Wells appears across Jane Austen’s novels and what the fashionable spa town signified in her lifetime. It links specific textual references to the town’s social scene and tourist material culture, including the souvenir trade in Tunbridge ware."
+description: "Tunbridge Wells emerges in Jane Austen’s fiction as a marker of fashionable spa culture and London society’s leisure geography, shaping comparisons with Bath, the country, and the Sussex coast. References across Northanger Abbey, Mansfield Park, Persuasion, Sanditon, and Emma connect the town’s social scene to its souvenir trade, including Tunbridge ware as a comic prop that exposes romantic illusion and status anxiety."
 author: Dr Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Literary places, Authors & lives, Texts & genres, Towns & cities, Material culture ]
-image: 
-  path: "https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jpg"
+tags: [ Literary places, Texts & genres, Towns & cities, Culture & society ]
+image: https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jpg
 permalink: /austen/austen-tunbridge-wells/
 published: true
 toc: false  

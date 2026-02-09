@@ -4,22 +4,14 @@ description: "Carolyn Oulton follows the Kent exploits of George Grossmith, acto
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Texts & genres, Coast & sea, Travel & mobility ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-grossmith-biography/
 published: true
 toc: false  
 layout: juncture  
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
-
-<!-- Global Entities -->
-
-<!-- Basemap centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="10" -->
-
-<!-- Historical map layers -->
 
 AUGUST 20.— 'I am glad our last day at the seaside was fine, though clouded overhead. We went over to Cummings' (at [Margate](Q618045)) in the evening, and as it was cold, we stayed in and played games; Gowing, as usual, overstepping the mark. He suggested we should play "Cutlets," a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined.' _The Diary of a Nobody_ (1892).
 

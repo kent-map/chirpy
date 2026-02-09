@@ -1,12 +1,11 @@
 ---
 title: "Jacqueline Winspear (1955-  )"
-description: "This essay traces Jacqueline Winspear’s deep connections to Kent through her memoir and the Maisie Dobbs historical mystery series, showing how childhood landscapes and later returns shaped her writing. It links specific Kent places and rural traditions such as hop and fruit picking to settings, themes, and wartime memories in the novels."
+description: "Jacqueline Winspear’s Kent childhood in the Weald shapes the landscapes, work traditions, and sensory detail of the Maisie Dobbs historical mystery novels. Orchards, hop gardens, oast houses, and towns from Goudhurst and Cranbrook to Dover and Chatham link memoir, wartime flashbacks, and detective plots into a sustained love of place."
 author: Geri Giebel Chavis
 date: 2024-12-16
 categories: [ 21c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
-image: 
-  path: "https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee"
+image: https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee
 permalink: /21c/21c-winspear-biography/
 published: true
 toc: false  

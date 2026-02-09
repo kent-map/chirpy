@@ -1,12 +1,11 @@
 ---
 title: "John Galsworthy 14 August 1867–1933"
-description: "This essay sketches the life and literary reputation of novelist and playwright John Galsworthy and his links to Kent through friendships with Joseph Conrad and other writers. It focuses on Galsworthy’s visits to the Pent farmhouse near Hythe and notes the limited presence of Kent in his fiction, including a brief Broadstairs episode in The Forsyte Saga."
+description: "John Galsworthy’s connections to Kent emerge through visits to Conrad’s Pent Farm near Hythe and friendships with Joseph Conrad, Edward Garnett, H. G. Wells, and other literary figures. These episodes show how informal rural gatherings and coastal travel shaped literary networks even when Kent barely appears in Galsworthy’s fiction."
 author: Professor Carolyn Oulton
 date: 2025-12-30
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Representation & interpretation ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-galsworthy-biography/
 published: true
 toc: false  

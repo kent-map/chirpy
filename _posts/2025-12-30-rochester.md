@@ -1,12 +1,11 @@
 ---
 title: "21st Century Rochester "
-description: "This essay introduces 21st-century Rochester as a town shaped by visible medieval landmarks and an active heritage economy along the River Medway. It contrasts the preserved historic streetscape, castle and cathedral with modern redevelopment and infrastructure, and considers how festivals and tourism sustain local identity amid change."
+description: "Rochester’s riverside townscape layers medieval power and faith onto a living high street where tourism and modern infrastructure press against preserved heritage. Rochester Castle, Rochester Cathedral, and the Sweeps festival anchor local identity while the Medway setting frames ongoing questions about development and historical character."
 author: Keenan Chalmers
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Towns & cities, Buildings & architecture, Heritage & memory, Culture & society ]
-image: 
-  path: "https://stor.artstor.org/stor/dc323604-dfe3-4121-89de-3a84faccc9f1"
+tags: [ Towns & cities, Rivers & marshes, Buildings & architecture, Heritage & memory, Culture & society ]
+image: https://stor.artstor.org/stor/dc323604-dfe3-4121-89de-3a84faccc9f1
 permalink: /placesrz/rochester/
 published: true
 toc: false  

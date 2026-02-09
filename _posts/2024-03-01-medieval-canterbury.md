@@ -1,12 +1,11 @@
 ---
 title: "Medieval Canterbury"
-description: "This essay explores medieval Canterbury through surviving buildings, timber construction features, and everyday urban infrastructure such as smoke bays, roofs, and carpenters’ marks. It also traces the city’s hospital foundations from Lanfranc’s stone-built projects to later shifts in use, showing how medieval institutions and spaces have been adapted and remembered in the modern city."
+description: "Medieval Canterbury survives in timber-framed shops, parish churches, and hospital complexes whose fabric preserves Roman spolia, late medieval carpentry, and early sanitation. Details such as smoke bays, dragon beams, misericords, and Caen-stone construction reveal how craft practice, pilgrimage, and charitable care shaped the city’s streetscapes and institutional buildings over time."
 author: Dr Sheila Sweetinburgh
 date: 2024-03-01
 categories: [ medieval ]
-tags: [ Buildings & architecture, Towns & cities, Heritage & memory, Material culture ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg"
+tags: [ Buildings & architecture, Towns & cities, Culture & society, Heritage & memory ]
+image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg
 permalink: /medieval/medieval-canterbury/
 published: true
 toc: false  

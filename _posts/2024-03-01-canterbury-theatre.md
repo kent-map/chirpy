@@ -1,12 +1,11 @@
 ---
 title: "Theatrical Entertainment in Canterbury"
-description: "This essay traces the long history of theatrical entertainment in Canterbury from Roman amphitheatres to the modern Marlowe Theatre. It follows changing performance cultures, venues, and regulation through pageants, touring players, music halls, early cinema, and repertory theatre, highlighting notable figures and moments connected to the city."
+description: "Theatre and popular entertainment in Canterbury evolve from Roman amphitheatres to postwar venues, revealing how performance traditions persist through religious bans, civil war shutdowns, and changing licensing laws. Local inns, guildhalls, music halls, and purpose-built theatres anchor a civic culture that links touring companies with figures such as Marlowe, Aphra Behn, Dickens, and Ellen Terry."
 author: Kate Rendall and Michelle Crowther
 date: 2024-03-01
 categories: [ theatre ]
-tags: [ Arts & performance, Towns & cities, Heritage & memory, Time periods ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Arts & performance, Towns & cities, Buildings & architecture, Culture & society, Authors & lives ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /theatre/canterbury-theatre/
 published: true
 toc: false  

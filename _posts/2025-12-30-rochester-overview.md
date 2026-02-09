@@ -1,12 +1,11 @@
 ---
 title: "Rochester"
-description: "An overview of Rochester that links the town’s historic sites to writers, artists, and notable visitors from the early modern period through the twentieth century. Using literary quotations, brief biographies, and embedded maps and images, it shows how Rochester has been represented and remembered in text and place."
+description: "Rochester emerges as a Kentish crossroads of literature, performance, science, and politics anchored by the cathedral, castle, bridge, and inns along the Medway. Dickens’s transformation of the city into Cloisterham sits alongside visitor and birth-place anecdotes from figures such as Pepys, Henslow, Dadd, Ternan, and Bagnold, showing how urban places accumulate layered cultural memory across centuries."
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Authors & lives, Towns & cities, Literary places, Maps & place-making ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg"
+tags: [ Towns & cities, Literary places, Authors & lives, Heritage & memory ]
+image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg
 permalink: /placesrz/rochester-overview/
 published: true
 toc: false  
@@ -19,11 +18,7 @@ layout: juncture
 <param title="Rod Hull" eid="Q7356235">
 <param title="Satis House" eid="Q26377461">
 
-<!-- Kent with map centered at Rochester -->
-
 {% include embed/map.html center="Q1094104" zoom="10" markers="Q1094104" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
-
-<!-- Historical map layers -->
 
 'An ancient city, Cloisterham, and no meet dwelling-place for any one with hankerings after the noisy world. A monotonous, silent city, deriving an earthy flavour throughout from its Cathedral crypt, and so abounding in vestiges of monastic graves, that the Cloisterham children grow small salad in the dust of abbots and abbesses, and make dirt-pies of nuns and friars; while every ploughman in its outlying fields renders to once puissant Lord Treasurers, Archbishops, Bishops, and such-like, the attention which the Ogre in the story-book desired to render to his unbidden visitor, and grinds their bones to make his bread.'
 

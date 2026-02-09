@@ -1,12 +1,11 @@
 ---
 title: "Virginia Woolf (1882-1941)"
-description: "This essay examines Virginia Woolf’s connections to Kent through her friendships, letters, and key works that reference places including Sissinghurst, Knole, and Canterbury. It links Woolf’s modernist imagery and experiments in form to specific landscapes, houses, and social constraints around gender and inheritance."
+description: "Virginia Woolf’s connections to Kent cluster around Sissinghurst, Knole, and Canterbury, where houses, gardens, and city streets become prompts for modernist thinking about refuge, constraint, and change. Letters, diaries, and fiction link water imagery, inheritance law, and gendered belonging, showing how particular Kent places shaped Woolf’s themes and narrative experiments."
 author: Dr Victoria Callanan
 date: 2025-12-30
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/8/85/Sissinghurst_Castle.jpg"
+tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities ]
+image: https://upload.wikimedia.org/wikipedia/commons/8/85/Sissinghurst_Castle.jpg
 permalink: /20c/20c-woolf-biography/
 published: true
 toc: false  

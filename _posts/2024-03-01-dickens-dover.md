@@ -1,12 +1,11 @@
 ---
 title: "Dickens and Dover"
-description: "This essay traces Charles Dickens’s stays in Dover, especially his 1856 residence at the Ship Hotel while working on Little Dorrit, and uses his journalism and letters to show how the town shaped his mood and productivity. It connects Dover’s seaside culture, from bands to bathing machines, to Dickens’s fictional and travel-writing representations of the place."
+description: "Charles Dickens’s stays in Dover reveal how the town’s sea, bands, and genteel resort culture shaped his mood and writing habits during work on Little Dorrit. A close reading of his 1856 Household Words piece Out of the Season and related letters links writer’s block and seaside distraction to Dover’s role in David Copperfield and A Tale of Two Cities."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ dickens ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Literary places ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-dover/
 published: true
 toc: false  

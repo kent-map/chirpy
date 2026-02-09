@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen, Ramsgate"
-description: "This essay traces Jane Austen’s personal connections to Ramsgate and how the town appears in Pride and Prejudice and Mansfield Park. Using a mapped, image-rich approach, it links Regency seaside culture, naval presence, and social reputation to Austen’s lived experience and literary portrayal of the port."
+description: "Regency Ramsgate emerges as both a fashionable seaside destination and a morally suspect setting in Jane Austen’s life and fiction. Visits connected to the Austen family’s naval ties and local acquaintances sit alongside Ramsgate’s narrative role in Pride and Prejudice and Mansfield Park as a stage for seduction, excess, and dubious male behaviour."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Coast & sea, Maps & place-making ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /austen/austen-ramsgate/
 published: true
 toc: false  
@@ -14,11 +13,7 @@ layout: juncture
 ---
 
 
-<!-- Base map centred on Pegwell -->
-
 {% include embed/map.html center="Q56648819" zoom="13.5" markers="Q56648819" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
-<!-- Historical map layers -->
 
 **Publication(s)** _Pride and Prejudice_, _Mansfield Park_   
 

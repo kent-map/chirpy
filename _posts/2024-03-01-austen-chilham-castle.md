@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen: Chilham Castle"
-description: "This essay describes Jane Austen’s visits to Chilham Castle while staying in Kent with her brother Edward Austen Knight between 1796 and 1813. Using excerpts from Austen’s letters, it reconstructs the sociable world of dinners and balls at the castle and what these gatherings reveal about her relationships and observations."
+description: "Jane Austen’s visits to Chilham Castle reveal how dinner parties and balls shaped her social world in Kent between 1796 and 1813. Letters to Cassandra Austen turn the castle’s gatherings into lively commentary on friendship, flirtation, and the comforts of moving into a chaperone role."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Culture & society ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Buildings & architecture, Culture & society, Literary places ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /austen/austen-chilham-castle/
 published: true
 toc: false  

@@ -1,12 +1,11 @@
 ---
 title: "Keith Douglas, 1920-1944"
-description: "This essay offers a concise biography of Keith Douglas, a Tunbridge Wells-born soldier and poet, tracing his childhood, education, and literary output alongside his military career. It situates his life within the experience of the Second World War, ending with his death during the Normandy campaign in 1944."
+description: "Keith Douglas links Tunbridge Wells to the literary record of the Second World War through poems and the memoir Alamein to Zem Zem. His disrupted childhood, education at Christ's Hospital and Oxford, and rapid path into armoured warfare frame a short career cut off in Normandy in 1944."
 author: Ayushi Dig
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Conflict & war, Literary places, Texts & genres ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/8/83/Tilly-sur-Seulles_-_CWGC_8.JPG"
+tags: [ Authors & lives, Conflict & war, Texts & genres, Towns & cities ]
+image: https://upload.wikimedia.org/wikipedia/commons/8/83/Tilly-sur-Seulles_-_CWGC_8.JPG
 permalink: /20c/20c-douglas-biography/
 published: true
 toc: false  

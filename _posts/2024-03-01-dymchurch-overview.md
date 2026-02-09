@@ -1,12 +1,11 @@
 ---
 title: "Dymchurch"
-description: "This essay introduces Dymchurch through a set of writers and artists associated with the village, using images and heritage markers to sketch its cultural significance. It highlights how Dymchurch is remembered and presented today through a local heritage trail and visual representations."
+description: "Dymchurch on the Kent coast links seaside landscape to a cluster of writers and artists, including Paul Nash, Noel Coward, E. Nesbit, and Russell Thorndike. Heritage trail markers and artworks like Charles Sims’s The Sands at Dymchurch show how the beach and town became a source of inspiration and local cultural memory."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ placesad ]
-tags: [ Literary places, Coast & sea, Heritage & memory, Arts & performance ]
-image: 
-  path: "https://commons.wikimedia.org/wiki/File:Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg"
+tags: [ Coast & sea, Literary places, Authors & lives, Heritage & memory ]
+image: https://commons.wikimedia.org/wiki/File:Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg
 permalink: /placesad/dymchurch-overview/
 published: true
 toc: false  

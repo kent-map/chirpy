@@ -1,20 +1,16 @@
 ---
 title: "John Boys (1749-1824)"
-description: "This essay profiles John Boys (1749-1824), a Kent tenant farmer and agricultural writer best known for his county survey for the Board of Agriculture. It traces his work at Betteshanger and his detailed account of crops, livestock, tools, roads, and schemes for land improvement across Kent."
+description: "John Boys’s late eighteenth-century survey of Kent agriculture links soils, farm tenures, implements, and crop rotations to a county-scale programme of “improvement.” Places such as Betteshanger, Romney Marsh, Thanet, and the Stour drainage works show how drainage, roads, hops, orchards, and livestock were managed through local knowledge, experiment, and policy debates over tithes, commons, and enclosure."
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 18c ]
-tags: [ Authors & lives, Countryside & farming, Science & ideas, Maps & place-making ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
+tags: [ Authors & lives, Countryside & farming, Rivers & marshes, Science & ideas, Maps & place-making ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-boys-biography/
 published: true
 toc: false  
 layout: juncture  
 ---
-
-
-<!-- Historical map layers -->
 
 Kent, in the Commentaries Caesar writ,   
 

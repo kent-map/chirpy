@@ -1,12 +1,11 @@
 ---
 title: "Video Example"
-description: "This essay demonstrates how to embed and present video and audio media within a vertically laid out page using parameter-based configuration. It uses a sample museum tour video and an inline audio clip to show how rich media can support narrative content."
+description: "Embedded video and audio elements demonstrate how rich media can sit alongside narrative prose in a vertically laid-out page. A Dickens Museum tour clip and an inline audio sample show basic configuration options such as banners, titles, and external media sources."
 author: 
 date: 2024-03-17
 categories: [ audio-video ]
-tags: [ Methods & digital, Arts & performance, Material culture ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cin%C3%A9math%C3%A8que_333-6-002.jpg/640px-Cin%C3%A9math%C3%A8que_333-6-002.jpg"
+tags: [ Methods & digital, Material culture, Representation & interpretation ]
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cin%C3%A9math%C3%A8que_333-6-002.jpg/640px-Cin%C3%A9math%C3%A8que_333-6-002.jpg
 permalink: /audio-video/audio-video-j1/
 published: true
 toc: false  

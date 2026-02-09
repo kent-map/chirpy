@@ -1,12 +1,11 @@
 ---
 title: "Plum Pudding Riots"
-description: "This essay recounts the 1647 Christmas Day disturbances in Canterbury after Puritan authorities tried to suppress traditional festivities by forcing shopkeepers to keep trading. It links the street violence and protest to wider political tensions in Kent during the Civil War period, including later rebellion and the battle of Maidstone."
+description: "Street conflict in Canterbury on Christmas Day 1647 exposed sharp tensions between Puritan governance and popular festive custom. Shopkeepers and townspeople resisted Lord Mayor William Bridge’s enforcement of compulsory trading, and the riot’s aftermath fed wider Kentish protest that helped set conditions for the Battle of Maidstone."
 author: Hannah
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Conflict & war, Towns & cities, Politics & reform, Culture & society ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
+tags: [ Conflict & war, Towns & cities, Politics & reform, Time periods ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-plum-pudding-riots/
 published: true
 toc: false  

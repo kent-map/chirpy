@@ -1,12 +1,11 @@
 ---
 title: "Romney Marsh"
-description: "This essay introduces Romney Marsh through literary quotation and a mid-20th-century guidebook description, highlighting the area’s reputation for smuggling, sheep farming, and folklore. It frames the marsh as a distinctive watery landscape shaped by dykes and channels between Hythe and the Sussex border."
+description: "Romney Marsh emerges as a flat, dyke-crossed wetland landscape between Hythe and the Sussex border, shaped by drainage channels and coastal exposure. Literary and guidebook writing links the marsh to smuggling, sheep, and folklore, turning geography into a distinctive regional identity."
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Rivers & marshes, Literary places, Countryside & farming, Texts & genres ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Rivers & marshes, Literary places, Culture & society, Representation & interpretation ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /placesrz/romney-overview/
 published: true
 toc: false  

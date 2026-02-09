@@ -1,12 +1,11 @@
 ---
 title: "Elizabeth Elstob (1683–1756)"
-description: "This essay traces the life of the scholar Elizabeth Elstob from her upbringing in Canterbury to her later work as a teacher and governess. It shows how her study of Old English and her publications became part of a wider argument for women’s education, set against the limits placed on female learning in the early eighteenth century."
+description: "Elizabeth Elstob emerges from Canterbury’s late seventeenth-century schoolrooms as a pioneering scholar of Old English and a public advocate for women’s education. Family patronage and Oxford networks enabled her publications, but exclusion from formal institutions and the death of her brother forced a shift from scholarship to teaching and governess work. Her later commemoration, including a Canterbury blue plaque, links intellectual achievement to local memory and place."
 author: Professor Jackie Eales
 date: 2024-03-14
 categories: [ 18c ]
 tags: [ Authors & lives, Science & ideas, Politics & reform, Towns & cities ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-elstob-biography/
 published: true
 toc: false  

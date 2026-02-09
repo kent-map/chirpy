@@ -1,12 +1,11 @@
 ---
 title: "Sheppey at war in the 16th century"
-description: "This essay explores how Sheppey prepared for the threat of the Spanish Armada in the late 16th century, focusing on fortifications, local armouries, and the training of island defenders. It uses Edward Hoby’s report to show tensions between Crown military priorities and the everyday hardships imposed on local households through requisitioning and supply pressures."
+description: "Sheppey faced invasion fears in the 1580s as the Spanish Armada threat drove the Crown to strengthen defenses at Queenborough Castle and Minster and to stock local armouries. Edward Hoby’s report reveals a sharp trade-off between military readiness and island households losing food and livestock to official requisition, exposing how coastal defence policies strained everyday life in Eastchurch parish."
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 16c ]
 tags: [ Conflict & war, Coast & sea, Culture & society, Representation & interpretation ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-sheppey-at-war/
 published: true
 toc: false  

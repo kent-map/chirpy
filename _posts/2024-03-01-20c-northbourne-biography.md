@@ -1,12 +1,11 @@
 ---
 title: "Walter James, Fourth Lord Northbourne, ‘Inventor of Organic Farming’"
-description: "This essay profiles Walter James, Fourth Lord Northbourne, who coined the term organic farming and developed influential ideas in Look to the Land. It traces how his farming experiments and wartime responsibilities were rooted in the Betteshanger Estate and nearby East Kent institutions, linking his environmental concerns to local places and networks."
+description: "Walter James, Fourth Lord Northbourne, shaped twentieth-century agriculture by coining the term organic farming in Look to the Land (1940) and linking soil health to national resilience. Work at the Betteshanger estate near Deal, biodynamic networks, and wartime food policy in Kent reveal the tensions between ecological principles and pressure for maximum production."
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Countryside & farming, Nature & environment, Faith & belief ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg"
+tags: [ Authors & lives, Countryside & farming, Science & ideas, Politics & reform ]
+image: https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg
 permalink: /20c/20c-northbourne-biography/
 published: true
 toc: false  

@@ -1,12 +1,11 @@
 ---
 title: "Wateringbury"
-description: "This essay offers a guided walk through Wateringbury, introducing landmarks, streets, and village buildings alongside glimpses of orchards and surrounding countryside. It links local sites to wider histories through short biographies and episodes including a village lock-up, wartime relics, the railway, and notable residents connected to civic life, science, and the arts."
+description: "Wateringbury village history comes alive through a walking tour that links streets, cottages, and landmarks to local systems of authority, work, and memory. The lock-up and stocks, railway station, wartime defenses, orchards, and distinctive buildings frame biographies ranging from Matthias Prime Lucas and astronomer William Rutter Dawes to actress Ellen Terry and Lena Login, revealing how national stories intersect with a small Kent settlement."
 author: Natalie Pietersen
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Towns & cities, Travel & mobility, Heritage & memory, Authors & lives, Science & ideas ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Towns & cities, Buildings & architecture, Authors & lives, Conflict & war, Travel & mobility ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /placesrz/wateringbury-overview/
 published: true
 toc: false  

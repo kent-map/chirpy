@@ -1,12 +1,11 @@
 ---
 title: "20th-Century Canterbury: Museums, Visitor Experience and the Cathedral"
-description: "This essay explores how Canterbury reshaped its museums, visitor attractions, and historic buildings across the 20th century to meet growing expectations from mass tourism and international travel. It follows key sites including Westgate Towers, the Beaney, St Augustine’s Abbey, and Canterbury Cathedral to show how heritage interpretation, public access, and civic culture evolved over time."
+description: "Twentieth-century Canterbury rebuilt its visitor economy around museums, heritage attractions, and a modernised welcome at the Cathedral as mass tourism expanded and access improved after the Channel Tunnel. Westgate, Eastbridge, the Beaney, the Marlowe Theatre, and St Augustine’s Abbey show how historic buildings were repurposed, curated, and branded to meet changing expectations of education, entertainment, and world-heritage pilgrimage."
 author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
 tags: [ Heritage & memory, Towns & cities, Buildings & architecture, Travel & mobility, Time periods ]
-image: 
-  path: "https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919"
+image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
 permalink: /canterbury/20c-canterbury-heritage/
 published: true
 toc: false  

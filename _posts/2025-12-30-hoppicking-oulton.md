@@ -1,12 +1,11 @@
 ---
 title: "Hop Picking"
-description: "A short poem that traces how hop picking in Kent has been represented from Dickens and Eden Phillpotts to Orwell, shifting from pastoral brightness to harsh bodily labour. It ends with an oral-history-inflected glimpse of wartime Canterbury and the remembered holiday feel of being let out of school for the hop fields."
+description: "Hop picking in Kent emerges through shifting literary and personal images, from Dickens and Eden Phillpotts to Orwell and a wartime schoolgirl’s recollection. Seasonal labor becomes a lens on class, health beliefs, and the felt texture of place, where hop dust, injured fingers, and remembered streets bind countryside work to nearby Canterbury."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Texts & genres, Countryside & farming, Representation & interpretation, Culture & society ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg"
+tags: [ Countryside & farming, Texts & genres, Culture & society, Literary places ]
+image: https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg
 permalink: /poetry/hoppicking-oulton/
 published: true
 toc: false  

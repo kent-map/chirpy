@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen and Sevenoaks"
-description: "This essay traces Jane Austen’s 1788 visit to the Red House in Sevenoaks and the family connections that brought her there. It suggests how the experience may have informed a later dinner-party scene in Mansfield Park, linking local social life to literary creation."
+description: "Jane Austen’s 1788 visit to the Red House in Sevenoaks reveals how family patronage and elite sociability shaped her early encounters with wealth and status. The uneasy dinner she attended there echoes in Mansfield Park, where Fanny Price seeks refuge in silence amid demanding drawing-room interactions."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Literary places, Texts & genres, Culture & society ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /austen/austen-sevenoaks/
 published: true
 toc: false  

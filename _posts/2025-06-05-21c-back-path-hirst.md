@@ -1,12 +1,11 @@
 ---
 title: "The Back Path at Wingham"
-description: "A lyric poem traces a familiar garden path in Wingham across the seasons, moving from lush summer scents and flowers to winter frost and decay. The walk becomes a meditation on time, ageing, and absence as the speaker reaches a silent house at the end of the path."
+description: "A garden back path in Wingham anchors a poem that tracks seasonal abundance turning into frost, rot, and silence. Close attention to flowers, scent, and decaying leaves builds a meditation on aging and loss, ending with a shut door and unanswered knock."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
-image: 
-  path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
+image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-back-path-hirst/
 published: true
 toc: false  

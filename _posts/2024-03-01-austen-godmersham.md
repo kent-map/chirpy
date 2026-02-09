@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen: Godmersham"
-description: "This essay traces Jane Austen’s repeated stays at Godmersham Park with her brother Edward Austen Knight and how these visits reshaped her experience of wealth, sociability, and daily life in East Kent. It highlights her movements around the county and her deep engagement with the estate’s large library through evidence from her letters."
+description: "Jane Austen’s stays at Godmersham Park reveal how East Kent wealth, sociability, and a well-stocked country-house library shaped her daily life and writing routines. Letters from 1813 contrast freedom from household economies with intense reading and observational pleasure in the estate’s rooms and local visiting circuits."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Culture & society, Travel & mobility ]
-image: 
-  path: "https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc"
+tags: [ Authors & lives, Literary places, Culture & society, Buildings & architecture ]
+image: https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc
 permalink: /austen/austen-godmersham/
 published: true
 toc: false  

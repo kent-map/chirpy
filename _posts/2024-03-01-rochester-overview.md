@@ -1,12 +1,11 @@
 ---
 title: "Rochester"
-description: "This essay offers an overview of Rochester through literary quotations, historical visitors, and notable people connected to the city from the early modern period to the twentieth century. It links places such as the bridge, cathedral, castle, and Satis House to wider cultural and biographical histories of writers, artists, scientists, and performers."
+description: "Rochester’s streets, bridge, castle, and cathedral anchor a long literary and cultural history from Tudor royal visits to Dickens’s Cloisterham. A sequence of writers, actors, scientists, and local figures—from Samuel Pepys and Sarah Dixon to Henslow, Ellen Ternan, and Enid Bagnold—ties biography and text to specific buildings, inns, and map points across the city."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ placeskz ]
-tags: [ Towns & cities, Literary places, Authors & lives, Culture & society ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg"
+tags: [ Literary places, Authors & lives, Towns & cities, Travel & mobility, Maps & place-making ]
+image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_The_Bridge_and_Castle_at_Rochester_-_B1975.4.2000_-_Yale_Center_for_British_Art.jpg
 permalink: /placeskz/rochester-overview/
 published: true
 toc: false  
@@ -19,13 +18,7 @@ layout: juncture
 <param title="Rod Hull" eid="Q7356235">
 <param title="Satis House" eid="Q26377461">
 
-<!-- Kent with map centered at Rochester -->
-
 {% include embed/map.html center="Q507517" zoom="10" markers="Q507517" allmaps="3cec6f180298eeb9~Mudge 1801" %}
-
-<!-- Historical map layers -->
-
-<!-- <param mapwarper mapwarper-id="44832" title="Mackenzie 1900" ve-map-layer/> -->
 
 'An ancient city, Cloisterham, and no meet dwelling-place for any one with hankerings after the noisy world. A monotonous, silent city, deriving an earthy flavour throughout from its Cathedral crypt, and so abounding in vestiges of monastic graves, that the Cloisterham children grow small salad in the dust of abbots and abbesses, and make dirt-pies of nuns and friars; while every ploughman in its outlying fields renders to once puissant Lord Treasurers, Archbishops, Bishops, and such-like, the attention which the Ogre in the story-book desired to render to his unbidden visitor, and grinds their bones to make his bread.'
 

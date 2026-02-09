@@ -4,9 +4,8 @@ description: "Described in the 19th Century as the 'authors haven of repose, Mic
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Literary places, Coast & sea, Authors & lives, Texts & genres ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Literary places, Authors & lives, Coast & sea, Towns & cities, Representation & interpretation ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /placesrz/sandgate-overview/
 published: true
 toc: false  
@@ -14,17 +13,11 @@ layout: juncture
 ---
 
 
-<!-- Base map centred on Sandgate -->
-
 {% include embed/map.html center="Q1000312" zoom="11" markers="Q1000312" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
-<!-- Historical map layers -->
 
 Sandgate, a coastal village near the outskirts of [Folkestone](Q375314), has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" aspect="0.761" caption="English's Guide to Folkestone, Sandgate, Hythe" %}
-
-<!-- Base map centred on Sandgate -->
 
 {% include embed/map.html center="Q1000312" zoom="11.5" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 

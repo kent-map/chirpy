@@ -1,12 +1,11 @@
 ---
 title: "Queen Victoria and West Cliff House"
-description: "This essay draws on Princess Victoria’s 1836 diary entries to reconstruct her stay at West Cliff House in Ramsgate and contrast her impressions with contemporary newspaper reporting. It explores royal leisure, weather-disrupted seaside routines, and the shaping of local legend around the house and its grounds."
+description: "Princess Victoria’s 1836 stay at West Cliff House in Ramsgate exposes a gap between royal experience and public spin, as her diary calls the isolated seaside villa dull while newspapers promote it as an ideal royal residence. Bad weather, a reported shipwreck at the pier, churchgoing, music, reading, and walking shape the visit, alongside an unverified legend about her pet donkey’s death and burial in the grounds."
 author: Alyson Hunt
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Culture & society, Representation & interpretation ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Coast & sea, Buildings & architecture, Representation & interpretation ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-victoria-west-cliff/
 published: true
 toc: false  

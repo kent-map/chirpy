@@ -1,12 +1,11 @@
 ---
 title: "Jane Austen, Canterbury"
-description: "This essay traces Jane Austen’s repeated visits to Canterbury between 1794 and 1813, highlighting her social circle there and links to her writing, including possible models for characters in Emma. It also explores the city’s cultural life and notable sites she visited, from the Cathedral and Race Week entertainments to a tour of the new Canterbury gaol in 1813."
+description: "Jane Austen’s repeated visits to Canterbury reveal how family networks and urban sociability shaped her experiences and fed into her fiction. Cathedral precinct calls, shopping, concerts and race-week balls sit alongside the stark tour of Canterbury gaol in 1813, linking leisure, civic life, and carceral space to her letters and novels."
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Towns & cities, Literary places, Culture & society ]
-image: 
-  path: "https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc"
+tags: [ Authors & lives, Towns & cities, Literary places, Culture & society, Crime & punishment ]
+image: https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc
 permalink: /austen/austen-canterbury/
 published: true
 toc: false  

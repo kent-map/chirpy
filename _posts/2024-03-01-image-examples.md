@@ -1,12 +1,11 @@
 ---
 title: "Image usage examples"
-description: "This essay provides practical examples of embedding images using Juncture, including dynamically generating IIIF manifests from Wikimedia Commons and from images hosted on GitHub. It explains which image tag attributes to supply, how auto-generated metadata works, and how to use full or shorthand manifest URLs in an image viewer."
+description: "IIIF image manifests enable consistent viewing and reuse of images across web essays by standardizing labels, captions, attribution, and licensing. Wikimedia Commons and GitHub-hosted images can be referenced directly or via shorthand URLs to generate IIIF resources and embed them with configurable display settings."
 author: 
 date: 2024-03-01
 categories: [ kent ]
-tags: [ Methods & digital, Material culture, Representation & interpretation ]
+tags: [ Methods & digital, Material culture, Maps & place-making ]
 image: 
-  path: ""
 permalink: /kent/image-examples/
 published: true
 toc: false  

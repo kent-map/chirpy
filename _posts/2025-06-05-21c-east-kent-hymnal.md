@@ -1,12 +1,11 @@
 ---
 title: "Ham Brooks, Seen from the Main Road"
-description: "A lyric poem explores Ham Brooks as a formative landscape, where the speaker feels both physically rooted and paradoxically free to move through familiar paths and fields. Close attention to birds, plants, chalk and flint soil, and marsh water builds an intimate sense of place and belonging in East Kent."
+description: "Ham Brooks becomes a remembered home landscape where chalk, flint, harvest fields, and marsh water shape a speaker’s sense of belonging. Vivid images of larks, peewits, damselflies, and streams turn walking into a paradox of being both rooted and free, tying bodily identity to East Kent’s wetlands and farmland."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Identity & community ]
-image: 
-  path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
+tags: [ Texts & genres, Countryside & farming, Rivers & marshes, Nature & environment ]
+image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-east-kent-hymnal/
 published: true
 toc: false  

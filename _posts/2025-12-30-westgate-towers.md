@@ -1,12 +1,11 @@
 ---
 title: "Westgate Towers"
-description: "This essay introduces Westgate Towers in Canterbury as a medieval city gateway built during the Hundred Years War. It compares early 20th-century and 2025 views from St Peter's Street to show how the surrounding walls and urban fabric have changed since the 19th-century removal of the city walls."
+description: "Westgate Towers in Canterbury anchors the surviving medieval defences built during the Hundred Years War and later adapted to new civic needs. Side-by-side images trace how the gateway’s setting changed as nineteenth-century demolition removed the surrounding city walls and reshaped St Peter’s Street."
 author: Rosie Bond
 date: 2025-12-30
 categories: [ built ]
 tags: [ Buildings & architecture, Towns & cities, Conflict & war, Heritage & memory ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /built/westgate-towers/
 published: true
 toc: false  

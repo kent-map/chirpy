@@ -1,12 +1,11 @@
 ---
 title: "Jumping Downs"
-description: "This essay presents a close reading of a poem from Accidental Fruit that lingers on bodily sensation, small creatures, and field textures as sources of memory and playful writing. It links the poem’s imagery to rural Kent landscapes and the material details of plants and ground-level experience."
+description: "A lyric poem fixes attention on the Downs as a ground-level ecology of thistle bone, cobwebbed skin, spider touch, and clover ticking in time. Close observation turns fleeting bodily sensation and improvised writing into a record of place where small field details carry the weight of memory."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg
 permalink: /poetry/jumping-oulton/
 published: true
 toc: false  

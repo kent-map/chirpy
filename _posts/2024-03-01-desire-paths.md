@@ -5,8 +5,7 @@ author: Daisy Eleanor
 date: 2024-03-01
 categories: [ landscape ]
 tags: [ Travel & mobility, Towns & cities, Literary places, Representation & interpretation ]
-image: 
-  path: "https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c"
+image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /landscape/desire-paths/
 published: true
 toc: false  

@@ -1,12 +1,11 @@
 ---
 title: "Sir John Herschel (1792 –1871)"
-description: "This essay traces the life and work of Sir John Herschel after his move to Collingwood House in Hawkhurst, highlighting his astronomical observations, contributions to photography, and role in local intellectual life. It situates his scientific writing and networks in Kent, including his influence on Charles Darwin and the circumstances of his death and burial."
+description: "Sir John Herschel’s move to Collingwood House in Hawkhurst placed a leading Victorian astronomer and polymath in a landscape whose clear, smoke-free skies supported observations such as the Great Comet of 1843. Local lectures, scientific publications, and links to figures like Anna Atkins and Charles Darwin show how a Kent village connected to wider networks in astronomy, photography, and natural science."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Literary places ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Authors & lives, Science & ideas, Towns & cities, Time periods ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-herschel-biography/
 published: true
 toc: false  

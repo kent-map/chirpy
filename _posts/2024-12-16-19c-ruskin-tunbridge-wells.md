@@ -1,12 +1,11 @@
 ---
 title: "John Ruskin"
-description: "This essay explores John Ruskin’s 1858 visit to Tunbridge Wells, using his lecture on iron to connect art criticism with social and political commentary on labour, poverty, and respectability. It situates the talk in the town’s spaces and institutions, from the Pantiles and chalybeate spring to local debates about exclusion and unemployment, and traces how Ruskin’s later return reflected anxieties about mechanisation."
+description: "John Ruskin’s 1858 lecture in Tunbridge Wells links iron, labour, and moral responsibility to the town’s spa landscape and its sharply stratified society. Rust-stained springs, iron railings, and mechanised farming become prompts for critiquing exclusion, conspicuous respectability, and the oppression of the poor amid local unemployment and civic self-improvement schemes."
 author: Chris Jones
 date: 2024-12-16
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Maps & place-making ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg"
+tags: [ Authors & lives, Towns & cities, Politics & reform, Representation & interpretation ]
+image: https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
 toc: false  
@@ -14,11 +13,7 @@ layout: juncture
 ---
 
 
-<!-- Base map centred on Tunbridge Wells -->
-
 {% include embed/map.html center="Q665489" zoom="15" markers="Q665489" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
-
-<!-- Historical map layers -->
 
 John Ruskin, art critic, architectural theorist, social commentator and educationalist visited [Tunbridge Wells](Q665489) in February 1858 to lecture at the Sussex Hotel, [The Pantiles](Q7756008). At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
 

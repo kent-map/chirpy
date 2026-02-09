@@ -1,12 +1,11 @@
 ---
 title: "Admiral Sir Cloudesley Shovell (1650-1707)"
-description: "This essay traces the life and naval career of Admiral Sir Cloudesley Shovell and explains his lesser-known connections to Kent through estates, parliamentary service, and civic patronage. It links the 1707 shipwreck disaster to the later passage of the 1714 Longitude Act and the scientific search for a practical method to determine longitude at sea."
+description: "Admiral Sir Cloudesley Shovell links Kent’s naval and political world to the 1707 Scilly Isles disaster that drove Parliament to seek a solution to longitude at sea. His connections to Knowlton Court, Deal’s Downes anchorage, and Rochester civic life show how landownership, naval service, and Whig politics intersected in late Stuart Britain."
 author: Dr Diana Hirst
 date: 2024-03-01
 categories: [ 17c ]
 tags: [ Authors & lives, Coast & sea, Politics & reform, Science & ideas ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-shovell-biography/
 published: true
 toc: false  

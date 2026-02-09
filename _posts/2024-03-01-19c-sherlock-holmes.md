@@ -1,12 +1,11 @@
 ---
 title: "Sherlock Holmes and Canterbury"
-description: "This essay examines Arthur Conan Doyle’s use of Canterbury as a brief but telling setting in The Final Problem, framing the city as a strategic stop on the route from London to the Kent coast and continental Europe. It also considers how Sherlock Holmes has become a durable cultural figure whose popularity fuels heritage-making and literary tourism well beyond the original text."
+description: "Canterbury appears briefly in Conan Doyle’s The Final Problem as a tactical stop on Holmes and Watson’s rail route from London toward Dover and continental Europe, highlighting the city’s role as a transit hinge rather than a dramatic setting. The essay contrasts this minimal textual presence with Sherlock Holmes’s large afterlife in English popular culture and heritage tourism, where the detective’s perceived reality grows through tours, adaptations, and material icons."
 author: Miroslava
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Literary places, Texts & genres, Towns & cities, Travel & mobility, Heritage & memory ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Texts & genres, Literary places, Travel & mobility, Heritage & memory ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-sherlock-holmes/
 published: true
 toc: false  

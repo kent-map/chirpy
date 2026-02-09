@@ -1,12 +1,11 @@
 ---
 title: "Literary Encounters Along the River Stour"
-description: "This essay traces literary and historical encounters along Kent’s River Stour, moving from its sources near Ashford through Canterbury to Sandwich, Pegwell Bay, and the Goodwin Sands. It weaves together writers, texts, and local stories with the river’s shifting landscape, using mapped stopping points to connect places with the people and works associated with them."
+description: "The River Stour in Kent links a chain of writers, texts, and local histories from Little Chart and Wye to Canterbury, Sandwich, and Pegwell Bay. Encounters with H.E. Bates, Jane Austen, Chaucer, Belloc, Aphra Behn, Conrad, and others show how one river corridor carries layered narratives of pilgrimage, schooling, work, migration, and war into the coastal margins and the Goodwin Sands."
 author: Dr Diana Hirst
 date: 2024-03-01
 categories: [ landscape ]
-tags: [ Literary places, Rivers & marshes, Authors & lives, Travel & mobility, Maps & place-making ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg"
+tags: [ Rivers & marshes, Literary places, Authors & lives, Travel & mobility, Representation & interpretation ]
+image: https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%288270473878%29.jpg
 permalink: /landscape/literary-stour/
 published: true
 toc: false  

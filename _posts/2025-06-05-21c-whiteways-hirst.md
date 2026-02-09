@@ -1,12 +1,11 @@
 ---
 title: "Whiteways"
-description: "A seasonal lyric poem traces the Whiteways road near Northbourne and Updown, moving from bright summer verges to autumn fields and a snowbound winter afternoon. Close attention to plants, birds, weather, and chalky farmland turns this local route into a changing landscape of memory and mood."
+description: "Whiteways near Northbourne and Updown emerges as a chalk-bright track linking Saxon graves to working fields, where each season reshapes light, color, and sound. Bees over knapweed, storm-rusted woods, and geese heading for Hacklinge Marsh trace a lived ecology that folds deep time into ordinary rural motion."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places ]
-image: 
-  path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
+image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false  

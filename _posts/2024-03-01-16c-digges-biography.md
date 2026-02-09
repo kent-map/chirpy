@@ -1,12 +1,11 @@
 ---
 title: "Leonard and Thomas Digges"
-description: "This essay traces the lives and work of the Kent-based mathematicians Leonard Digges and his son Thomas Digges, linking their careers to local estates and public service. It connects their publications in surveying, almanacs, and astronomy to wider political and military pressures, including rebellion, harbour engineering, and invasion scares."
+description: "Leonard and Thomas Digges shaped Tudor Kent through practical mathematics, cartography, astronomy, and coastal engineering that linked estates around Canterbury to Dover Harbour and national defense planning. Family fortunes swung with the Wyatt rebellion and later political disputes, revealing how scientific work, landholding, and state service intertwined in the sixteenth century."
 author: Arnav and Michelle Crowther
 date: 2024-03-01
 categories: [ 16c ]
-tags: [ Authors & lives, Science & ideas, Politics & reform, Towns & cities ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg"
+tags: [ Authors & lives, Science & ideas, Towns & cities, Conflict & war ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-digges-biography/
 published: true
 toc: false  

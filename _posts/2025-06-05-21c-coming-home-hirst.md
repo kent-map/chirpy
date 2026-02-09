@@ -1,12 +1,11 @@
 ---
 title: "Coming Home from Eastry: Early January Afternoon"
-description: "A winter poem tracing a walk home from Eastry across the exposed high ground near Updown corner to the shelter of trees by West Street Farm. It evokes the landscape through snow, wind, marsh and farmland, mixing vivid natural observation with a sense of local familiarity and memory."
+description: "A winter walk home from Eastry across Thanet and Pegwell Bay turns snow, wind, and farmland into a vivid map of place and feeling. Marsh, lane, and sheltered trees shape how the storm moves, making local landmarks and remembered routes carry the weight of homecoming."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places ]
-image: 
-  path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Maps & place-making ]
+image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  

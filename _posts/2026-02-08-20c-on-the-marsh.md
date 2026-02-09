@@ -1,0 +1,42 @@
+---
+title: "On The Marsh"
+description: "Romney Marsh and New Romney shape a mood of watchfulness that suits mid-century literary crime, where flat land and a hidden sea amplify unease. Julian Symons’s The Paper Chase threads wartime gangster history through post-war planning changes, linking real streets, vanished hotels, and everyday coastal details to lingering ghosts in the landscape."
+author: Professor Carolyn Oulton
+date: 2026-02-08
+categories: [ 20c ]
+tags: [ Literary places, Texts & genres, Coast & sea, Rivers & marshes, Representation & interpretation ]
+image: https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg
+permalink: /20c/20c-on-the-marsh/
+published: true
+toc: false  
+layout: juncture  
+---
+
+
+Hero and ambiguous stranger have arranged to meet in the inevitable marine hotel. Which is how the London hero, already starting to breathe differently, comes to be trapped in a bus that shuffles more than drives through landscape shallow as a saucer – or perhaps the curve of an eye. He can’t yet locate the sea but he knows it’s out there, wet stitches stained and faded as an old map. He may or may not have made the right decision.
+
+[Romney Marsh]({{ site.baseurl }}/landscape/romney-writers/) prompts a particular kind of watchfulness, something close to unease. It is the perfect setting for [literary crime]({{ site.baseurl }}/crime/crime-overview/). I have taken a few liberties above with [Julian Symons]({{ site.baseurl }}/20c/20c-symons-biography/)’s 1956 novel _The Paper Chase_. But the novel does indeed send the protagonist over the marsh by bus to a mysterious assignation at a seaside hotel, and he is predictably dispirited by the flatness of his surroundings. The story itself revolves around the shady past of East End gangster Johnny Bogue in the years leading up to [World War 2]({{ site.baseurl }}/20c/20c-romney-marsh-ww2/), but it is steeped in a [landscape]({{ site.baseurl }}/landscape/) being slowly altered by post-war town planning. In a somewhat incongruous nod to [Dickens]({{ site.baseurl }}/dickens/), Symons sets part of the action in a small coastal town called Murdstone: actually [New Romney](Q181071). Which is why I’m here looking for ghosts, although I’m not sure whose.
+
+{% include embed/image.html src="wc:New_Romney%2C_High_Street_-_geograph.org.uk_-_2630499.jpg" aspect="1.333" caption="New Romney High Street  by Helmut Zozmann, CC BY-SA 2.0 via Wikimedia Commons" %}
+
+On the seashore stone turns to pebbles, pebbles turn to sand. Sand cannot turn to water, but on this particular day in August, New Romney is soggy enough to prompt the question. The sea lies as flat as the land, as if working its way in by stealth. A mile out of town a Victorian water tower (referenced in the book, which is how I know for certain I have the right place) has since been turned into a private residence.
+
+{% include embed/image.html src="wc:Converted_Water_Tower_-_geograph.org.uk_-_1997221.jpg" aspect="1.333" caption="Converted Water Tower" %}
+
+Families with snack boxes get off at the miniature railway station: sea to the left, town to the right. A nearby mobility shop has closed down and in the windows, newspaper words are climbing over each other. _Fresh blow to cit. A day wel. I’m almost an angel now_. A boy walks past with a dog, trusted out alone, not talking to strangers.
+
+{% include embed/image.html src="wc:New_Romney_-_2015_-_geograph.org.uk_-_4647739.jpg" aspect="1.333" caption="New Romney, 2015 by Raimund Zozmann via Wikimedia Commons" %}
+
+The High Street still has a post office, although the E11R letterbox is slowly losing its paint to the weather. In my photo the red is turning orange and yellow, standing on a base of unclean-looking treacle. Should never have been privatised, says someone on twitter when I share it later on. The SPAR building next door looks like an afterthought, with metal-framed windows; the charity shop might be Victorian. In the window above someone has left a rail of brightly-coloured shirts.
+
+{% include embed/image.html src="wc:Spar_and_post_office%2C_New_Romney_-_geograph.org.uk_-_5134108.jpg" aspect="1.502" caption="Spar and Post Office, New Romney by N Chadwick, CC BY-SA 2.0 via Wikimedia Commons" %}
+
+The local school was built after a woman called Mrs Children (what else could she do) gave the land for it in 1820. And the church is open. I pray as I walk round, and see for the first time what must be box pews, of the kind so useful to mischievous children trying to hide in nineteenth century novels. I’m grateful to the woman in the High Street who said I should ‘road on the left, go and see it’. Outside a man at the top of a telegraph pole seems to have caught his head in a web of electric wires.
+
+{% include embed/image.html src="wc:New_Romney_church_interior.jpg" aspect="1.333" caption="New Romney Church Interior by Michael Coppins, CC BY-SA 4.0 via Wikimedia Commons" %}
+
+I don’t find the hero’s Grand Marine Hotel, in fact I know not to look because what might have been the right place was burned down in 1983 and later replaced with flats. Instead I go to Deblyn’s teashop in the High Street, opposite the original town dungeon and proudly encouraging the rumours that it once had a brothel upstairs with a grille for voyeurs. They still only take cash. I have cappuccino and elderflower cake in the garden, where a determined sparrow projects itself onto the table and targets the crumbs. The wildflowers are already moving when the shadows hit them, instantly backing into the light. The kitchen door is in shade, no one seems to be standing there. And yet perhaps. Perhaps.
+
+Originally published in _The Totem:_ a singular newspaper event from [_Seaside Gothic](https://seasidegothic.com/shop/merchandise/the-totem/).
+
+{% include embed/image.html src="wc:Sergeant%27s_House_and_Gaol%2C_New_Romney_-_geograph.org.uk_-_2135655.jpg" aspect="0.75" caption="Sergeant's House and Gaol, New Romney by Nick Macneill" %}

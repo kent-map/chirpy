@@ -4,23 +4,17 @@ description: "Diana Hirst traces the life and work of the author, Richard Alding
 author: Dr Diana Hirst
 date: 2024-09-08
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Conflict & war ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_The_South_Foreland_and_Shakespeare%27s_Cliff_%28one_of_five_drawings_on_one_mount%29_-_B1975.4.1593_-_Yale_Center_for_British_Art.jpg"
+tags: [ Authors & lives, Literary places, Texts & genres, Nature & environment, Conflict & war ]
+image: https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_The_South_Foreland_and_Shakespeare%27s_Cliff_%28one_of_five_drawings_on_one_mount%29_-_B1975.4.1593_-_Yale_Center_for_British_Art.jpg
 permalink: /20c/20c-raldington-biography/
 published: true
 toc: false  
 layout: juncture  
 ---
 
-
-<!-- Historical map layers -->
-
 The poet and novelist Richard Aldington is largely forgotten today, except for his association with the Imagist movement, an important element of modernism in the early part of the twentieth century. He was brought up in East Kent, the eldest child of Albert and [May Aldington]({{ site.baseurl }}/19c/19c-aldington-biography). The family moved house frequently, from Dover, to Walmer, to St Margaret’s Bay and to Sandwich, before moving to London in 1909 (Harrow and Teddington). Aldington went to Mr Sweetman’s Seminary for Young Gentlemen in St Margaret’s Bay, and then to Dover College, an institution he disliked, and as a consequence made little effort at his studies, though he was fortunate in having access to his father’s library of around two thousand books. 
 
 {% include embed/image.html src="wc:Dover_College_postcard.jpg" aspect="1.547" caption="Dover College" %}
-
-<!-- Base map centered on Dover -->
 
 From what Michelle Crowther tells us about his [mother]({{ site.baseurl }}/19c/19c-aldington-biography), family life cannot have been easy, and ‘the bitterness/ the misery, the wretchedness of childhood’ are recorded in an early poem, [‘Childhood’](https://www.poetrysoup.com/famous/poem/childhood_1336
 ), published when he was 21.[^ref1]
@@ -37,13 +31,9 @@ Of the towns and villages, George Winterbourne, the eponymous Hero, likes ‘Ham
 
 {% include embed/image.html src="wc:Barfrestone_church%2C_the_south_doorway_-_geograph.org.uk_-_2166522.jpg" aspect="1.333" caption="Barfrestone Church the South Doorway" %}
 
-<!-- Base map centered on Sandwich -->
-
 He and his companion take lunch at a pub he thought was called ‘The Oak’. This must have been ‘The Yew Tree’ which was still a pub in the twenty-first century, only closing in 2010. And Aldington rejoices in the fact that that as a child he had glimpses of an England which had changed little since Shakespeare or [Chaucer]({{ site.baseurl }}/medieval/14c-chaucer), whose lanes were white instead of black with tarmac, and before smithies ‘ringing with the clink of hammers on anvils and full of the acrid smell of burning hoofs’ were replaced by garages with petrol pumps.
 
 {% include embed/image.html src="wc:The_Yew_Tree_at_Barfrestone._-_geograph.org.uk_-_315234.jpg" aspect="1.333" caption="The Yew Tree at Barfrestone" %}
-
-<!-- Base map centered on Barfrestone -->
 
 George Winterbourne aspires to be an artist. Like George, Aldington had initially aspired to be an artist, but it was a sneaky glance at an open copy of Oscar Wilde’s Intentions on his father’s desk which changed things. The paragraph he began reading was about [Keats]({{ site.baseurl }}/19c/19c-keats-margate) and this led him to take down from his father’s bookshelf a book of Keats’ poetry, and to read ‘Endymion’.[^ref2] Immediately the fifteen-year-old began reading poetry voraciously, fortunate that his father’s library had a fine selection. A few months later he was insect-hunting on the cliffs and, lying down after chasing a fritillary, a view of the Channel lit by the evening sun before him, found a line of iambic pentameter came to him spontaneously, followed by another which rhymed with the first. He used his field note-book to write these lines down. More lines ensued, and he realised that the experience of writing a poem far surpassed that of reading one. His career as a poet had begun. 
 

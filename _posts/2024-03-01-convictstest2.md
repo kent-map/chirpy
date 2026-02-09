@@ -4,9 +4,8 @@ description: "This picture essay by Dr Ben Bethall presents an overview of built
 author: Dr Ben Bethell
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Crime & punishment, Buildings & architecture, Rivers & marshes, Heritage & memory ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Crime & punishment, Rivers & marshes, Buildings & architecture, Work & industry, Maps & place-making ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/convictstest2/
 published: true
 toc: false  
@@ -14,11 +13,7 @@ layout: juncture
 ---
 
 
-<!-- Kent basemap starting position whole of county centred on Lenham -->
-
 {% include embed/map.html center="Q28339447" zoom="10" markers="Q28339447" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
-
-<!-- Historical map layers -->
 
 <!#>
 
@@ -26,15 +21,11 @@ Kentish prisons, like those in many English counties, include establishments tha
 
 {% include embed/image.html src="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" aspect="0.75" caption="Canterbury Prison" attribution="Michelle Crowther" %}
 
-<!---Basemap centered on Doddington--->
-
 {% include embed/map.html center="Q106156182" zoom="10" markers="Q106156182" allmaps="a5177d49ab3dbdde~Kent 1820" %}
 
 Prisoners sentenced to transportation went first to a [hulk]({{ site.baseurl }}/prisons/convict-hulks); those serving longer sentences and judged healthy enough to survive the voyage were then sent to penal settlements in Australia. The rest languished aboard the ships, which were notorious for disorder, vermin, and disease, employed by day in such heavy tasks as dredging, loading coal and hauling timber. There was also a hulk for boys aged 14 or under: the _Bellerophon_, moored at Sheerness, which had fought in the Battle of Trafalgar, replaced in 1825 by another Trafalgar veteran, the _Euryalus_, which was moored at Chatham until 1843. Aboard both ships, the children worked below decks as tailors and shoemakers in brutal, miserable conditions. 
 
 {% include embed/image.html src="wc:A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg" aspect="1.315" caption="A convicted thief sits in prison with his distraught sister" %}
-
-<!---Basemap centered on Upchurch--->
 
 {% include embed/map.html center="Q2483544" zoom="10" markers="Q2483544" allmaps="a5177d49ab3dbdde~Kent 1820" %}
 
@@ -42,23 +33,17 @@ The eventual closure of the [hulks]({{ site.baseurl }}/prisons/convict-hulks), t
 
 {% include embed/image.html src="wc:The_Devonshire_prison-ship%2C_at_Sheerness_ILN_1854-0923-0008.jpg" aspect="2.0" caption="The Devonshire prison ship at Sheerness, 1854" %}
 
-<!---Basemap centered on Chatham--->
-
 {% include embed/map.html center="Q729006" zoom="10" markers="Q729006" allmaps="a5177d49ab3dbdde~Kent 1820" %}
 
 The location of the new prisons was determined by the projects upon which convicts would be put to work. Their architect, Major-General Sir Joshua Jebb, formerly of the Royal Engineers, imagined a grand system of naval dockyards, harbours of refuge, and coastal defences extending downriver from London and along the South Coast, built entirely by convict labour. Accordingly, convicts began work on the colossal [breakwater]( https://www.portlandhistory.co.uk/portland-harbour.html) at Portland, while at Portsmouth and [Chatham]({{ site.baseurl }}/19c/19c-convicts-chatham) they extended [naval dockyards]({{ site.baseurl }}/19c/19c-chatham-dockyard). At [Chatham]({{ site.baseurl }}/19c/19c-convicts-chatham), this work continued for over a generation, the prison closing in 1892 upon its completion (Portsmouth shut two years later; as a Young Offenders' Institution, Portland is still in use today). 
 
 {% include embed/image.html src="wc:Joshua_Jebb.jpg" aspect="0.752" caption="Joshua Jebb" %}
 
-<!---Basemap centered on Upchurch--->
-
 {% include embed/map.html center="Q2483544" zoom="10" markers="Q2483544" allmaps="a5177d49ab3dbdde~Kent 1820" %}
 
 In the meantime, work began in 1874 on a much smaller convict prison at the village of [Borstal](Q4946691), near [Rochester](Q507517), where the War Department planned to construct hill fortifications. It was built entirely by convicts, who were marched there daily from [Chatham]({{ site.baseurl }}/19c/19c-convicts-chatham) until they had erected a block of forty cells, into which they then moved in order to build the rest of the prison. Today it remains in use as HMYOI Rochester. As Borstal Convict Prison, it became famous for a reformatory regime for youths aged between 16 and 21, developed there during the early years of the twentieth century, giving a generic name to a new institution – the borstal - to which this regime was extended after 1908. 
 
 {% include embed/image.html src="https://stor.artstor.org/stor/947750e4-99c1-4ab8-94a5-1cea68295001" aspect="0.651" caption="Report of the Directors of Convict Prisons on the Discipline and Management" attribution="No known copyright" %}
-
-<!---Basemap centered on Borstal--->
 
 {% include embed/map.html center="Q4946691" zoom="15" markers="Q4946691" allmaps="a5177d49ab3dbdde~Kent 1820" %}
 

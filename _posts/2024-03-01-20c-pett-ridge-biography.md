@@ -1,12 +1,11 @@
 ---
 title: "William Pett Ridge (1859-1930)"
-description: "This essay traces the life and career of William Pett Ridge, born in Chilham and shaped by childhood moves around Kent’s railway communities before making his name as a London novelist and periodical writer. It links his railway background, literary networks, and depictions of Kentish life in fiction to specific places across the county and beyond."
+description: "William Pett Ridge’s Kent childhood in Chilham, Marden, and Paddock Wood shaped a writer who later chronicled London cockney life while keeping rural railways, hop-picking, and cricket in view. Railway work, self-education, and literary networks linked him to figures such as Charles Dickens, H.G. Wells, and Jerome K. Jerome as he moved from periodical sketches to prolific novel-writing. Vignettes from novels like Erb and Table d’hote show how Kent’s transport and seasonal work became narrative material even as his reputation faded after his death in 1930."
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg"
+tags: [ Authors & lives, Texts & genres, Travel & mobility, Countryside & farming ]
+image: https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg
 permalink: /20c/20c-pett-ridge-biography/
 published: true
 toc: false  

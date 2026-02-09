@@ -1,12 +1,11 @@
 ---
 title: "Margate Beach"
-description: "A lyric poem set on Margate Beach that layers a present-day seaside moment with a 1930 fictional stabbing and the atmosphere of Dreamland. It explores how place holds traces of story and memory, with clues and sensations read from the shoreline itself."
+description: "Margate Beach becomes a layered scene where present-day shelter and strobing gull wings collide with a 1930 fictional stabbing and the lingering trace of clues on the sea. Dreamland’s changing identity and small observed details turn a seaside landmark into a site where memory, genre, and place rewrite each other."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Literary places, Texts & genres, Coast & sea, Heritage & memory ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/2/22/The_beach_at_Margate_-_geograph.org.uk_-_3278583.jpg"
+tags: [ Coast & sea, Literary places, Texts & genres, Representation & interpretation ]
+image: https://upload.wikimedia.org/wikipedia/commons/2/22/The_beach_at_Margate_-_geograph.org.uk_-_3278583.jpg
 permalink: /poetry/margate-oulton/
 published: true
 toc: false  

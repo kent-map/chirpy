@@ -1,12 +1,11 @@
 ---
 title: "Maidstone Convict Prison"
-description: "This essay traces the history and distinctive role of Maidstone Convict Prison from its opening in 1909 through the interwar years and the Second World War. It explains how the prison’s star class population, unusually light-touch regime, and specialist work such as printing shaped its reputation and later use."
+description: "Maidstone convict prison, opened in 1909 beside the town’s older jail, became a distinctive English penal site for first-offence star class prisoners serving long sentences. Its concentration of white-collar offenders, reprieved lifers, and sex offenders, alongside a comparatively relaxed regime and privileged work like printing, exposes how class and reputation shaped punishment from the interwar years through wartime evacuation and later rehabilitation experiments."
 author: Dr Ben Bethell
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Crime & punishment, Towns & cities, Culture & society, Representation & interpretation ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Distant_View_of_Maidstone%2C_from_Lower_Bell_Inn%2C_Boxley_Hill_-_Google_Art_Project.jpg"
+tags: [ Crime & punishment, Towns & cities, Culture & society, Time periods ]
+image: https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Distant_View_of_Maidstone%2C_from_Lower_Bell_Inn%2C_Boxley_Hill_-_Google_Art_Project.jpg
 permalink: /19c/19c-convicts-maidstone/
 published: true
 toc: false  

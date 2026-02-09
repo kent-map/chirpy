@@ -1,12 +1,11 @@
 ---
 title: "Mulberries at Finglesham"
-description: "A short lyric poem invites the reader into a garden at sunrise to eat mulberries, using sensory detail to evoke light, warmth, and taste. It frames the mulberry tree as a focal point for pleasure, intimacy, and attentive looking in a specific Kent place."
+description: "Mulberry trees in a Kent garden set a scene of dawn light, dew-wet grass, and fruit-stained hands, where sensual detail turns a simple breakfast into ritual. Heart-shaped leaves and ripening berries anchor a meditation on pleasure, touch, and the brief freshness of morning."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
-image: 
-  path: "https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6"
+image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-mulberries-hirst/
 published: true
 toc: false  

@@ -1,12 +1,11 @@
 ---
 title: "Pioneers of Flight: The Role of the Isle of Sheppey in the Birth of British Aviation"
-description: "This essay traces how the Isle of Sheppey, especially Shellness and Eastchurch, became a cradle of British aviation through early experiments, aircraft manufacture, and pioneering flights. It follows the shift from civilian innovation to military aviation in the First World War and beyond, and considers how the story is preserved through memorials and the Eastchurch Aviation Museum."
+description: "Early British aviation took shape on the Isle of Sheppey, where Shellness and Eastchurch provided the flat ground, facilities, and social networks needed to turn experimental flight into a working industry and a military capability. The essay traces the Wright Brothers’ influence, the Short Brothers’ factory and designs, and the Royal Aero Club’s role in moving from record flights to the Royal Naval Air Service and two world wars. Museums, memorials, and surviving hangars now preserve a landscape that shifted from pioneering airfield to contested heritage site beside modern prisons."
 author: Jane Delamaine
 date: 2025-06-05
 categories: [ 20c ]
-tags: [ Science & ideas, Coast & sea, Conflict & war, Heritage & memory ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/9/97/British_Aviation_Prior_To_the_First_World_War_Q67032.jpg"
+tags: [ Science & ideas, Coast & sea, Conflict & war, Heritage & memory, Buildings & architecture ]
+image: https://upload.wikimedia.org/wikipedia/commons/9/97/British_Aviation_Prior_To_the_First_World_War_Q67032.jpg
 permalink: /20c/20c-eastchurch-aviation/
 published: true
 toc: false  

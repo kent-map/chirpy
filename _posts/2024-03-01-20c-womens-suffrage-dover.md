@@ -1,12 +1,11 @@
 ---
 title: "Women's Suffrage In Dover"
-description: "This essay traces key moments in the campaign for women’s suffrage in Dover from the 1870s to the early 20th century, from public meetings in local halls to rallies and theatre performances. It highlights how the Maison Dieu functioned as a hub for suffrage activism and remembrance, linking national figures and propaganda to local organisers and surviving material traces such as plaques and voting equipment."
+description: "Women’s suffrage activism in Dover gathered momentum through public lectures, crowded meetings, and performances staged in venues such as the Apollonian Hall, Wellington Hall, and the Maison Dieu. Local campaigns and visiting speakers linked civic politics, policing, and popular theatre to a widening movement that culminated in women’s enfranchisement in 1918 and full equality in 1928."
 author: Madeleine Byatt, Anneliese Woodhouse and Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Politics & reform, Towns & cities, Buildings & architecture, Heritage & memory ]
-image: 
-  path: "xxx"
+tags: [ Politics & reform, Towns & cities, Arts & performance, Identity & community ]
+image: xxx
 permalink: /20c/20c-womens-suffrage-dover/
 published: true
 toc: false  

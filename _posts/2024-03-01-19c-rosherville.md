@@ -1,12 +1,11 @@
 ---
 title: "Rosherville"
-description: "This essay explores the rise and decline of Rosherville Gardens, a nineteenth-century Kent pleasure garden shaped by changing tourist travel and leisure fashions. It reads the site through its fictional reinvention as Rosherwich in F. Anstey's The Tinted Venus, showing how literature registers the melancholy of a once-thriving attraction."
+description: "Rosherville Gardens in a Northfleet chalk pit drew mass Victorian tourism by combining terraces, statues, performances, and spectacle with easy steamboat access from London. Rail travel later redirected leisure to larger seaside resorts, and late-century fiction like F. Anstey’s The Tinted Venus recasts the site as a melancholic relic that registers changing entertainment economies and tastes."
 author: Hayley Smith
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Culture & society, Towns & cities, Texts & genres, Travel & mobility ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Culture & society, Towns & cities, Travel & mobility, Texts & genres, Heritage & memory ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-rosherville/
 published: true
 toc: false  

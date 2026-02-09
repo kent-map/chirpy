@@ -1,20 +1,16 @@
 ---
 title: "Elizabeth Carter (1717–1806)"
-description: "This essay sketches the life and reputation of Elizabeth Carter, the Deal-born scholar, poet, and translator of Epictetus, highlighting the rigorous self-discipline that enabled her literary achievements. It situates her within Kent networks and later judgements about women’s education and intellectual authority, from Samuel Johnson to Virginia Woolf."
+description: "Elizabeth Carter’s long residence in Deal shaped a public image of austere discipline that enabled an extraordinary career as a poet and as the translator of Epictetus. Anecdotes of dawn alarms, Church loyalty, and skepticism toward Wollstonecraft sit alongside her advocacy of women’s education and later reassessments by figures such as Virginia Woolf, revealing how gendered expectations framed her reputation."
 author: Peter Merchant
 date: 2024-03-01
 categories: [ 18c ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Identity & community ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg"
+tags: [ Authors & lives, Coast & sea, Texts & genres, Representation & interpretation ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-carter-biography/
 published: true
 toc: false  
 layout: juncture  
 ---
-
-
-<!--  -->
 
 Long before [Victoria]({{ site.baseurl }}/19c/19c-victoria-biography) was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at [Deal](Q1011096), with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.” — "I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’[^ref1]
 

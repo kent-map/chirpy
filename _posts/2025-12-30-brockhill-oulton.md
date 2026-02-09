@@ -1,12 +1,11 @@
 ---
 title: "Brockhill Park, Sunday Afternoon"
-description: "A short lyric poem set in Brockhill Country Park, Hythe, captures a rainy Sunday afternoon through vivid sensory details and shifting time. The essay presents the poem as a place-based encounter with landscape, water, and the nearby sea, using embedded images to anchor the reader in the site."
+description: "Brockhill Park at Hythe frames a tense lyric encounter where rain, stream, and mudbank sharpen a sense of time slipping into tomorrow. Bodily movement through stones and water turns the landscape into a threshold between safety and secrecy, ending in a deliberate act of disappearance toward the sea."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Texts & genres, Literary places, Nature & environment, Coast & sea ]
-image: 
-  path: "https://upload.wikimedia.org/wikipedia/commons/6/60/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825569.jpg"
+tags: [ Texts & genres, Nature & environment, Coast & sea, Literary places ]
+image: https://upload.wikimedia.org/wikipedia/commons/6/60/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825569.jpg
 permalink: /poetry/brockhill-oulton/
 published: true
 toc: false  

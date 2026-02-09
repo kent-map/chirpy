@@ -1,12 +1,11 @@
 ---
 title: "Music in Canterbury"
-description: "This essay explores musical life in Canterbury in the late eighteenth and nineteenth centuries, focusing on clubs, venues, and newspaper accounts of performances and sociability. It uses mapping and directory evidence to show how members lived and worked in close proximity, linking urban geography to networks of class, affluence, and cultural identity."
+description: "Music clubs and concert life in late eighteenth- and nineteenth-century Canterbury reveal a dense bourgeois network that turned weekly performances into social capital. Newspaper reports, directories, and mapped member addresses show how proximity within the city walls, travel links to London, and after-hours conviviality sustained institutions such as the Canterbury Catch Club and its rivals."
 author: Dr Chris Price
 date: 2024-03-01
 categories: [ music ]
-tags: [ Arts & performance, Towns & cities, Maps & place-making, Culture & society ]
-image: 
-  path: "https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
+tags: [ Culture & society, Towns & cities, Travel & mobility, Maps & place-making ]
+image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /music/19c-music-canterbury/
 published: true
 toc: false  

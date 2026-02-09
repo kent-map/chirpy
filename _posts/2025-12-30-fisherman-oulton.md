@@ -1,12 +1,11 @@
 ---
 title: "The Fisherman's Bride"
-description: "A short poem reflects on an exhibit at Folkestone Museum, imagining a fisherman's bride amid salvaged shipwreck fragments and coastal weathering. It uses maritime objects and a museum setting to explore memory, material survival, and the textures of life by the sea."
+description: "A coastal museum exhibit in Folkestone reshapes shipwreck remnants and salvaged gear into a charged portrait of a fisherman’s bride. Salt, wind, and polished wood turn marriage and mourning into maritime material culture, where preservation and decay sit side by side."
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Texts & genres, Coast & sea, Material culture, Heritage & memory ]
-image: 
-  path: "xxx"
+tags: [ Coast & sea, Arts & performance, Material culture, Buildings & architecture ]
+image: xxx
 permalink: /poetry/fisherman-oulton/
 published: true
 toc: false  
