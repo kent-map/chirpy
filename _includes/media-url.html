@@ -1,9 +1,16 @@
 {%- comment -%}
-  media-url.html
-  (same header comment as before)
+  Generate media resource final URL based on `site.cdn`, `page.media_subpath`
+
+  Arguments:
+    src - required, basic media resources path
+    subpath - optional, relative path of media resources
+    absolute - optional, boolean, if true, generate absolute URL
+
+  Return:
+    media resources URL
 {%- endcomment -%}
 
-{%- assign url = include.src -%}
+{% assign url = include.src %}
 
 {%- if url -%}
   {%- assign url = url | strip -%}
@@ -15,7 +22,7 @@
   {%- endif -%}
 
   {%- if is_wc -%}
-    {%- assign mw_width = include.mw_width | default: 1200 -%}
+    {%- assign mw_width = include.width | default: 1200 -%}
 
     {%- assign mw_title = url
       | replace: 'wc:', ''
@@ -44,20 +51,27 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/{{ _md5 | slice: 0, 1 }}/{{
 
   {%- else -%}
 
-    {%- unless url contains ':' -%}
+    {% unless url contains ':' %}
+      {%- comment -%} Add media resources subpath prefix {%- endcomment -%}
+      {% assign url = include.subpath | default: '' | append: '/' | append: url %}
+        
+                {%- assign is_dev = false -%}
+        {%- if jekyll.environment == "development" -%}
+          {%- assign is_dev = true -%}
+        {%- endif -%}
 
-      {%- assign subpath = include.subpath | default: '' | strip -%}
-      {%- if subpath != '' -%}
-        {%- assign url = subpath | append: '/' | append: url -%}
-      {%- endif -%}
+        {%- if is_dev == false and site.cdn -%}
+          {%- if site.cdn contains 'res.cloudinary.com' -%}
+            {%- assign url = site.cdn | append: '/' | append: site.url | append: url -%}
+          {%- else -%}
+            {%- assign url = site.cdn | append: '/' | append: url -%}
+          {%- endif -%}
+        {%- endif -%}
 
-      {%- if site.cdn -%}
-        {%- assign url = site.cdn | append: '/' | append: url -%}
-      {%- endif -%}
+      {% assign url = url | replace: '///', '/' | replace: '//', '/' | replace: ':/', '://' %}
 
-      {%- assign url = url | replace: '///', '/' | replace: '//', '/' | replace: ':/', '://' -%}
+      {% unless url contains '://' %}
 
-      {%- unless url contains '://' -%}
         {%- assign base = site.baseurl | default: '' -%}
 
         {%- assign first_char = url | slice: 0, 1 -%}
@@ -79,32 +93,10 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/{{ _md5 | slice: 0, 1 }}/{{
             {%- assign url = site_url | append: url -%}
           {%- endif -%}
         {%- endif -%}
-      {%- endunless -%}
 
-    {%- endunless -%}
+      {% endunless %}
 
-    {%- comment -%} Cloudinary width-only resizing (production only, cloud name required) {%- endcomment -%}
-    {%- assign is_dev = (jekyll.environment == "development") -%}
-    {%- assign cl_cloud = site.cloudinary_cloud_name | default: '' -%}
-    {%- assign cl_enable = include.cl_enable | default: 'true' -%}
-
-    {%- if is_dev == false and cl_cloud != '' and cl_enable == 'true' -%}
-      {%- if url contains '://' -%}
-        {%- unless url contains 'res.cloudinary.com' and url contains '/image/fetch/' -%}
-          {%- assign cl_width = include.cl_width | default: include.mw_width | default: 1200 -%}
-          {%- assign transform = 'w_' | append: cl_width | append: ',c_limit' -%}
-          {%- assign src_safe = url | url_encode -%}
-          {%- assign url =
-            'https://res.cloudinary.com/'
-            | append: cl_cloud
-            | append: '/image/fetch/'
-            | append: transform
-            | append: '/'
-            | append: src_safe
-          -%}
-        {%- endunless -%}
-      {%- endif -%}
-    {%- endif -%}
+    {% endunless %}
 
   {%- endif -%}
 {%- endif -%}
