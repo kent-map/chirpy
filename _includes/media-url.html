@@ -55,18 +55,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/{{ _md5 | slice: 0, 1 }}/{{
       {%- comment -%} Add media resources subpath prefix {%- endcomment -%}
       {% assign url = include.subpath | default: '' | append: '/' | append: url %}
         
-                {%- assign is_dev = false -%}
-        {%- if jekyll.environment == "development" -%}
-          {%- assign is_dev = true -%}
+      {%- if site.cdn -%}
+        {%- if site.cdn contains 'res.cloudinary.com' -%}
+          {%- assign url = site.cdn | append: '/' | append: site.url | append: site.baseurl | append: url -%}
+        {%- else -%}
+          {%- assign url = site.cdn | append: '/' | append: url -%}
         {%- endif -%}
-
-        {%- if is_dev == false and site.cdn -%}
-          {%- if site.cdn contains 'res.cloudinary.com' -%}
-            {%- assign url = site.cdn | append: '/' | append: site.url | append: url -%}
-          {%- else -%}
-            {%- assign url = site.cdn | append: '/' | append: url -%}
-          {%- endif -%}
-        {%- endif -%}
+      {%- endif -%}
 
       {% assign url = url | replace: '///', '/' | replace: '//', '/' | replace: ':/', '://' %}
 
