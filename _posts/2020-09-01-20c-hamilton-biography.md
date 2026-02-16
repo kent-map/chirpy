@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_K
 permalink: /20c/20c-hamilton-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Place:** [Smallhythe Place](Q7543679)[^ref1]   

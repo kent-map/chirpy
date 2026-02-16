@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-wodehouse-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 P. G. Wodehouse only spent two years at Malvern House Prep School in the [Kearsney](Q6382264) area of Dover, between 1892 and 1894, and it may indeed have been ‘a very bad choice for a dreamy impractical boy who loved reading.’[^ref1] But the experience also inspired the early education of Bertie Wooster, and few of his fans would argue with that. 

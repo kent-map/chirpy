@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/19c/Down_House_ban
 permalink: /19c/19c-darwin-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/695329b9-cc27-4fe0-8e52-ebb5f65fc00c
 permalink: /19c/19c-pugin-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

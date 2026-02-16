@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5
 permalink: /19c/19c-moberly-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

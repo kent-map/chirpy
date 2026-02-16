@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-convicts-chatham/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Chatham convict prison opened in 1856. It was a ‘public works’ prison, built to accommodate convicts who would hitherto have been sentenced to transportation. Its architect, Major-General Sir Joshua Jebb, Surveyor-General of English prisons, planned to use convict labour to build a network of coastal defences extending downriver from London and along the South Coast. The <span data-mouseover-image-zoomto="3262,1287,728,534">prison</span> was therefore situated at the mouth of the River Medway’s estuary, facing a creek separating St Mary’s Island from the mainland, along which convicts excavated and built three colossal dockyard basins. This task took over twenty-five years to complete, quadrupling the size of [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard). Holding upwards of 1,600 men, the prison was initially constructed from prefabricated wood and corrugated iron sections - literally, a ‘flat pack’, designed to be dismantled and moved elsewhere once work at the site eventually finished.

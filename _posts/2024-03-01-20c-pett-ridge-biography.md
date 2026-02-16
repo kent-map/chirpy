@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s
 permalink: /20c/20c-pett-ridge-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

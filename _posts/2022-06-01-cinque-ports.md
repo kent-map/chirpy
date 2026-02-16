@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/6adc1223-2266-4fe5-8c65-d0924627f6c7
 permalink: /medieval/cinque-ports/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 For England, what might be considered a unique confederation of medium-sized and small port towns was initiated in Edward the Confessor’s reign and is still valued by these urban communities today. As the name indicates, there were five head ports which together were to provide ship service to the monarch and in return received certain rights and privileges. Four of these five ports were in Kent: [Sandwich](Q26163), [Dover](Q179224), [Hythe](Q967166) and Romney. Over time the burden of providing the king with fully manned ships annually became increasingly difficult and to help the head ports other towns became involved, either providing ships or money. Among these ‘limbs’ [Lydd](Q1639689) aided New Romney, while [Folkestone](Q375314) is a limb of Dover. Not all were coastal communities, such as [Fordwich](Q2177468) for Sandwich and [Bekesbourne](Q4881598) for Hastings (the only Sussex head port). 

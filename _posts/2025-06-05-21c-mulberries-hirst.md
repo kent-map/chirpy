@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-mulberries-hirst/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Come on, let’s go and eat mulberries.    

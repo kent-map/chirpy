@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-galsworthy-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘that little, very old, very charming, if inconvenient farmhouse… It was a friendly dwelling where you had to mind your head in connection with beams; and from whose windows you watched ducks and cats and lambs in the meadows beyond.’[^ref1]   

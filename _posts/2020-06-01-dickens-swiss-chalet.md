@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_Sc
 permalink: /dickens/dickens-swiss-chalet/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

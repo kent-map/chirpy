@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593
 permalink: /17c/17c-william-harvey/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Early Life and Education**   

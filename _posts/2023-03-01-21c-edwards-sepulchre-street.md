@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romne
 permalink: /21c/21c-edwards-sepulchre-street/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 [Romney Marsh](Q1506093) has come to fascinate me, yet five years ago I had never set foot there. The turning point came the first time I was invited to take part in the Rye Arts Festival, I spent a few days touring the area and discovered the Marsh. Its eerie quality made a great impression on me and a couple of years later I was invited back to the Festival, which gave me a chance to explore further. I was very taken by Rye itself and decided it should become a key setting for the fourth novel in my Rachel Savernake series, _Sepulchre Street_. It wasn’t long before I figured out how to weave Romney Marsh into the story as well.

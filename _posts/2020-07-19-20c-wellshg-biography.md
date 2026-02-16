@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-wellshg-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 

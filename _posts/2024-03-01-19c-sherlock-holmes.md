@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-sherlock-holmes/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The character of Sherlock Holmes created by [Sir Arthur Conan Doyle]({{ site.baseurl }}/19c/19c-conan-doyle-biography) is connected to [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) in one story only - 'The Final Problem', which was published as a book in _The Memoirs of Sherlock Holmes_. The city is a backdrop to one scene only. Sherlock needed to travel to Switzerland to hide from his archenemy Professor Moriarty. He and Dr. Watson decided to take a train to [Dover]({{ site.baseurl }}/19c/19c-dover), unfortunately, Moriarty was on the very same train and therefore they got off in [Canterbury](Q29303) to wait for another one.  The city does not seem to carry any significance in the story, but we can consider Doyle acknowledging Canterbury as the traditional link between London and the coast leading to the continental Europe.

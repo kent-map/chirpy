@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-storr-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Place**: [Brenchley](Q2197855), near Tunbridge Wells.       

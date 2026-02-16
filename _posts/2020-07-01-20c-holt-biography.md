@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /20c/20c-holt-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel The _Shivering Sands_ (1969), is set near the [Goodwin Sands](Q1494482). Holt stayed in [Deal](Q1011096) in the late 1960s and purchased and restored a house in [Sandwich](Q26163), known as The King’s Lodging, in the 1970s.  

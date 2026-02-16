@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a
 permalink: /canterbury/20c-canterbury-floods/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

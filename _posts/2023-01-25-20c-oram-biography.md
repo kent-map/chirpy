@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/ed545935-aca9-4569-9b43-54e1f11d3e99
 permalink: /20c/20c-oram-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

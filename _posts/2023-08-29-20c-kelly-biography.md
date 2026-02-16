@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/39/Conveyor%2C_Stone_Cem
 permalink: /20c/20c-kelly-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

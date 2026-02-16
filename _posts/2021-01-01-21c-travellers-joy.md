@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/fd719478-3910-46cb-bd69-61d1451904ce
 permalink: /21c/21c-travellers-joy/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

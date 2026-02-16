@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%
 permalink: /medieval/battleofcrayford/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 A short entry in the Anglo-Saxon Chronicle documents a little-known event which took place in the mid fifth century, on the slopes above the modern-day town of [Crayford](Q146676) in the [London Borough of Bexley](Q207208):   

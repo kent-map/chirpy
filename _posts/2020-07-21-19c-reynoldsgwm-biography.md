@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-reynoldsgwm-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Birth in [Sandwich](Q26163); schooling in [Ashford](Q725261); serialisation of Kent-based novel _Mary Price_, 1851–53; purchase of Gothic House in [Herne Bay](Q929286), 1854 (residence 1854–58).   Publications: _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.   

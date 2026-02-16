@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrenc
 permalink: /20c/20c-lawrence-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

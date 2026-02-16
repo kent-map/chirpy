@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%
 permalink: /built/megaliths/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 During the Early Neolithic period, around the 4th millennium BCE, dense woodland covered Southeast England. The Early Neolithic people lived a semi-nomadic lifestyle herding cattle. Although 

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Wall_of_St_Pancras_ch
 permalink: /built/roman-remains-canterbury/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

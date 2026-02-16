@@ -11,7 +11,7 @@ image: https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d
 permalink: /19c/19c-eliot-george-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

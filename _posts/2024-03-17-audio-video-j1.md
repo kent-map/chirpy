@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cin%C3%A9math%C
 permalink: /audio-video/audio-video-j1/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

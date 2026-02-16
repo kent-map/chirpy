@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-russell-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 A life on the ocean wave! A home on the rolling deep!   

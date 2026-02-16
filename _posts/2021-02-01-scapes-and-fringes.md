@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /landscape/scapes-and-fringes/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 It has become all too fashionable to coin yet another ‘-scape’ (_drosscape_, _playscape_, _smellscape_), however, the root-term ‘landscape’ and some of its derivatives do provide useful means of discussing human and environment interactions and their artistic representations. 

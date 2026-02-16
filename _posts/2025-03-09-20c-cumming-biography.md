@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f99cba76-1d0b-4711-8b68-963a2f244076
 permalink: /20c/20c-cumming-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).

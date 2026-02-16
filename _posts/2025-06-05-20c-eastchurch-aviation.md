@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/97/British_Aviation_Prio
 permalink: /20c/20c-eastchurch-aviation/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

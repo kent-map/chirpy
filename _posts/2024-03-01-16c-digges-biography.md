@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-digges-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Leonard Digges**   

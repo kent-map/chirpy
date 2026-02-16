@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-meredith-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 In a letter dated October 1884, the poet and novelist George Meredith tells Robert Louis Stevenson of his plan to visit [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate), ‘whither I go for bracing air, for half a week’.[^ref1]   As holiday reading Meredith intends to take with him the play _Beau Austin_ by W.E. Henley and Stevenson, which had been sent to Meredith by Stevenson.  Most of Meredith’s life was spent in the Surrey countryside which he loved, but visits to the coast were important to him for the health benefits of fresh sea air and bathing.  Salt-water he considered to be ‘the next best to mountain air’.[^ref2]   There is no record of Meredith’s impression of [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) and passing references only are made to [Tunbridge Wells](Q665489) and [Hawkhurst](Q2744669).  This reticence contrasts with his comments on bathing in the rival Sussex resort of Eastbourne, which is described with Meredith’s characteristic humour as being:

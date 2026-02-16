@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_de
 permalink: /19c/19c-bartlett-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 In 1875, Adelaide de la Tremoille de Thouars d’Escury became simply ‘Mrs Adelaide Bartlett’ - aka ‘Mrs Edwin Bartlett’ – but there was nothing straightforward about her life, the marriage, her husband’s demise. Edwin’s end came at 85 Claverton Street, Pimlico, London on 31 December 1885 or on New Year’s Day, 1886. His death was found to have been from a poison. Adelaide was tried at the Old Bailey in April 1886 – the first murder trial for the alleged misuse of the drug chloroform. The ingredients of the case caused a sensation inside the court, among the excited crowds on the streets and even around the world. Not least because it included a love triangle involving Adelaide and a young Methodist Reverend George Dyson, to whom Edwin had also grown close in 1885.  

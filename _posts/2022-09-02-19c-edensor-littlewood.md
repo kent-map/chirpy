@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-edensor-littlewood/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' - John Edensor Littlewood.

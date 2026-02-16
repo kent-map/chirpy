@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b91a767a-109e-4a7d-b7c6-980d0f8601a5
 permalink: /20c/20c-romney-marsh-ww2/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

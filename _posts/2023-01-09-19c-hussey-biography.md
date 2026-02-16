@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-hussey-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Writer, mycologist and botanical illustrator Anna Maria Hussey, née Reed was born in Leckhampstead, Buckinghamshire. In 1831, she married Rev. Dr Thomas John Hussey, rector of [Hayes](Q2690370), Kent. 

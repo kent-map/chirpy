@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/tale-two-cities/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 “It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)   

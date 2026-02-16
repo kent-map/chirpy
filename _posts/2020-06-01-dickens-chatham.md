@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-chatham/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 John Dickens was based at [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard), working for the Naval Pay Office between 1816-1822.   

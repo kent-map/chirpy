@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-jerrold-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Dramatist and writer, Douglas Jerrold was born on the 3rd January 1803 in Greek Street, Soho, the son of Samuel and Mary Anne Jerrold (nee Reid). His father was a strolling player and printer for the Dover Company of Players, and his mother was an actress.[^ref1] 

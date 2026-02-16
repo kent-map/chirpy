@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-braddon-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, actress and author [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.

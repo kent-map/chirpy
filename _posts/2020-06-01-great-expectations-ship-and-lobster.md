@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/great-expectations-ship-and-lobster/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-shadwell-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 "To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   

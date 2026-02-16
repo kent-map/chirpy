@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surroun
 permalink: /20c/20c-churchill-chartwell/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

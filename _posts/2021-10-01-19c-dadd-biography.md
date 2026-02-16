@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-dadd-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Born on 1 August 1817 in [Chatham](Q729006), Richard Dadd was one of chemist and druggist Robert Dadd’s seven children and would become one of the most famous inmates of Bethlem Hospital for the insane. During his time at King’s School in [Rochester](Q507517), Dadd showed a notable talent for art, which would prove an essential coping mechanism for him in the future. His early work was surrealist in style, including his famous paintings of fairies and the supernatural. At the age of 20, Dadd moved to London, where he attended the Royal Academy of Art. It was due to his meticulous attention to detail that explorer Sir Thomas Phillips sought Dadd’s companionship on a tour of Europe, Asia and Egypt in 1842-43. In the early years of photography, his brief was to create an accurate visual record of the trip. 

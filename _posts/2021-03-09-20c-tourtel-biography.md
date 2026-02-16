@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /20c/20c-tourtel-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Mary Tourtel (nee Caldwell) was the last child of Sarah and Samuel Caldwell. She was born in 1874 in 52 Palace Street in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), where she grew up. Her father and one brother were stonemasons and stained-glass designers at Canterbury Cathedral. Her eldest brother, Edmund, was also an artist with an interest in painting animals.

@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /21c/21c-canterbury-covid/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

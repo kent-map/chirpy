@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_
 permalink: /20c/20c-raldington-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The poet and novelist Richard Aldington is largely forgotten today, except for his association with the Imagist movement, an important element of modernism in the early part of the twentieth century. He was brought up in East Kent, the eldest child of Albert and [May Aldington]({{ site.baseurl }}/19c/19c-aldington-biography). The family moved house frequently, from Dover, to Walmer, to St Margaret’s Bay and to Sandwich, before moving to London in 1909 (Harrow and Teddington). Aldington went to Mr Sweetman’s Seminary for Young Gentlemen in St Margaret’s Bay, and then to Dover College, an institution he disliked, and as a consequence made little effort at his studies, though he was fortunate in having access to his father’s library of around two thousand books. 

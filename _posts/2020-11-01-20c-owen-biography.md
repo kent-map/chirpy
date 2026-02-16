@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/06/Folkestone%2C_East_Pi
 permalink: /20c/20c-owen-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The sun is warm, the sky is clear, the waves are dancing fast and bright…

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbrid
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

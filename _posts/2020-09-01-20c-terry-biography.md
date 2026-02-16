@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Elle
 permalink: /20c/20c-terry-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/14/152_kent_Hurst_Farm_%
 permalink: /landscape/literary-stour/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Before we start our literary exploration of Kent’s River Stour, here is some housekeeping. Since this is a virtual exploration, wellingtons and waders are not necessary, nor is a fly swat, umbrella or sunhat, and whether you pack your bag with haslet-filled huffkins along with your bottle of Bing or Fremlins Elephant Pale Ale, a bagful of Kentish Naps and a handful of Sharps toffees is up to you. One final point: you may pronounce it ‘Stoor’ or ‘Stower’, whichever you wish: it will answer to both! 

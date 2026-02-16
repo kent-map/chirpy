@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/45/Leeds_Castle_-_side_v
 permalink: /20c/20c-vonarnim-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Caravanning holiday in Sussex and Kent in the summer of 1907.

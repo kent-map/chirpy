@@ -9,7 +9,7 @@ image:
 permalink: /dickens/dickens-gads-hill/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

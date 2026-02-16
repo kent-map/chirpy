@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Dover-Castle.jpg
 permalink: /built/dover-castle/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

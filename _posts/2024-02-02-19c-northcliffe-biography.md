@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-northcliffe-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Alfred C. Harmsworth, later Lord Northcliffe, was born in Dublin on 15 July 1865. He attended Henley House School in London, where the headmaster was the father of A. A. Milne.  His most recent biographer notes that as a young man he was advised by [G. A. Sala]({{ site.baseurl }}/19c/19c-sala-biography) (one of Dickens’s ‘young men’) to abandon the idea of a writing career for something more lucrative. Instead he went on to become the most successful newspaper proprietor of his age, founding the _Daily Mail_ in 1896 and the _Daily Mirror in 1903_, before taking over _The Times_ in 1908. He was made Baronet of Elmwood in 1904 and Baron Northcliffe in 1905. At his death in 1922 his gross wealth was recorded as £3,250,000.

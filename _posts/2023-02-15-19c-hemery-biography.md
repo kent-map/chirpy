@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_
 permalink: /19c/19c-hemery-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

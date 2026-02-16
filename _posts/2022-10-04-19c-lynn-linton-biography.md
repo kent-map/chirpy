@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-lynn-linton-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Gad’s Hill Place in Higham is well-known for being the country home of [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography), but this is not its only literary connection. It had previously belonged to the family of Eliza Lynn Linton; one of the most prolific writers of her time, who is known for being the first female salaried journalist in Britain. The house was built in 1780 for a former Mayor of [Rochester](Q507517), Thomas Stephens, and it is said that it caught the eye of the young [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography), who fantasised about owning it one day while walking with his [father]({{ site.baseurl }}/dickens/dickens-chatham) from [Chatham](Q729006).[^ref1]

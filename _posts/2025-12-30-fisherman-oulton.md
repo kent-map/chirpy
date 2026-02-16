@@ -9,7 +9,7 @@ image: xxx
 permalink: /poetry/fisherman-oulton/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Polished light glances off the wood.   

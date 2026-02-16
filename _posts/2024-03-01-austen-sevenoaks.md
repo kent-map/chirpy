@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /austen/austen-sevenoaks/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Austen’s first trip into Kent took place in 1788, at the age of 12, when she travelled with her parents and sister to visit the Red House in Sevenoaks, the stately town house of her great uncle Francis.  A prosperous lawyer, Francis Austen was her father’s guardian and sometime benefactor:  he financed George Austen’s education and purchased the living of Deane for him, making him rector of Steventon and Deane.  Francis’s second wife, Jane (nee Chadwick) was one of Jane Austen’s godmothers.[^ref1]   In July of 1788 her great uncle hosted a sumptuous dinner, which Austen and her family attended, and at which she met the wealthiest branch of her family.  

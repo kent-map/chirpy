@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Bruised clouds are looming above Thanet’s purple land.

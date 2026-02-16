@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The bleached white road rises to the Saxon graves   

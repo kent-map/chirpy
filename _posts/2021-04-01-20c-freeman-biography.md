@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maids
 permalink: /20c/20c-freeman-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Places:** Visited or lived in Folkestone, Gravesend, Maidstone, Ramsgate, Rochester.

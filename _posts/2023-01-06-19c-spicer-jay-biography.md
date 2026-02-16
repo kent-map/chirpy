@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg
 permalink: /19c/19c-spicer-jay-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Edith Katherine Spicer Jay, a writer of popular military tales, lived in [Sandgate]({{ site.baseurl }}/placesrz/sandgate-overview) during the last ten years of her life.  Miss Jay, who wrote under the pseudonym E. Livingston Prescott was the daughter of a Scottish barrister and grew up in a large house in Norfolk Street, Park Lane, London. With five great uncles who had served in the military, and in her role as the Honourable Lady Superintendent of the London Soldiers’ Home and Guards’ Home, she was well placed to hear stories of military heroism and barrack-room life.[^ref1]  

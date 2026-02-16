@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg
 permalink: /20c/20c-maxwelld-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Enlisted in Royal Naval Volunteer Reserve and posted to North Sea Patrol at Sheerness during WW1. Post war, lived in Borstal, near Rochester.

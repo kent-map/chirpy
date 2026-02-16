@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-carter-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Long before [Victoria]({{ site.baseurl }}/19c/19c-victoria-biography) was allegedly not amused, Elizabeth Carter projected a similar frostiness in the face of frivolity. According to her nephew, ‘she went once to a puppet-show at [Deal](Q1011096), with some respectable friends, and Punch was uncommonly dull and serious, who was usually more jocose than delicate. “Why Punch,” says the showman, ‘what makes you so stupid.” — "I can’t talk my own talk,” answers Punch, “the famous Miss Carter is here.”’[^ref1]

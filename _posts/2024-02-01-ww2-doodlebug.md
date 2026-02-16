@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side
 permalink: /20c/ww2-doodlebug/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between [Hythe](Q967166) and [Dungeness](Q911577); their destination, London.[^ref1]

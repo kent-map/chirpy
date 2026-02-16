@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-browne-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Artist, etcher and illustrator Hablot K. Browne illustrated the work of a number of authors. His collaboration with [Dickens]({{ site.baseurl }}/dickens) began and ended with two novels connected to Kent, [The Pickwick Papers]({{ site.baseurl }}/dickens/pickwick-papers) and [A Tale of Two Cities]({{ site.baseurl }}/dickens/tale-two-cities) respectively.

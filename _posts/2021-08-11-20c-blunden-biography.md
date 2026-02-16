@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Co
 permalink: /20c/20c-blunden-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/43be2313-69a2-4436-8db8-978f300d40bb
 permalink: /19c/19c-vaughan-stannard/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 

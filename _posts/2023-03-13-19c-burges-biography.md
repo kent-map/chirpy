@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88
 permalink: /19c/19c-burges-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for [Maidstone](Q213180) to design a missionary monument at St Augustine’s College, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.

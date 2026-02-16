@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/pickwick-papers/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Published** in monthly instalments, March 1836-November 1837. Published in one volume, 1837.

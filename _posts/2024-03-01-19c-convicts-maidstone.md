@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Dista
 permalink: /19c/19c-convicts-maidstone/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 [Maidstone](Q213180) convict prison opened in 1909, built alongside the town’s nineteenth-century local jail. In an unusual arrangement, the two establishments shared a perimeter wall but were run entirely separately. At the jail, [prisoners]({{ site.baseurl }}/19c/19c-convicts-overview) served sentences of no more than two years, whereas the convict prison held men sentenced to penal servitude for a minimum term of three years, and often far longer. Over time, the convict prison encroached gradually on its neighbour, eventually occupying the entire site, including the older buildings, once the jail closed in 1930.

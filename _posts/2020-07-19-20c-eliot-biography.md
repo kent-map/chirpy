@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301
 permalink: /20c/20c-eliot-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 'On [Margate](Q618045) Sands.   

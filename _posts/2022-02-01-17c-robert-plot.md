@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-robert-plot/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Born in 1640 in [Borden, Kent](Q2437595) to Robert and Rebecca, née  Patenden, Robert Plot was educated at [Wye](Q590063) Free School and Magdalen Hall, University of Oxford, now Hertford College. Although he spent much of his career in Oxford, as a student, then an academic, Plot retired to Kent in 1690, where he lived with his wife and sons until his death in 1696.

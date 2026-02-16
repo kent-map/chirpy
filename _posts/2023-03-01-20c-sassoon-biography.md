@@ -10,7 +10,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfie
 permalink: /20c/20c-sassoon-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Siegfried Sassoon (1886-1967) is one of the most widely read poets of the First World War alongside his friend and protégé [Wilfred Owen]({{ site.baseurl }}/20c/20c-owen-biography). His best-known works are the punchy, satirical poems in which he delivers biting judgements about incompetent generals, hypocritical clerics, jingoistic journalists and uncaring civilians.[^ref1]  In all of those poems, he writes in the voice of a soldier speaking, as it were, from the front. However, his greatest war poem is set not in the trenches but at his home in the High Weald of Kent. The home is Weirleigh, a Victorian neo-Gothic mansion on the edge of the village of [Matfield](Q2183870). The poem is ‘Repression of War Experience’.

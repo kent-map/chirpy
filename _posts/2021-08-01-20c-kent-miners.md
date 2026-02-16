@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d
 permalink: /20c/20c-kent-miners/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **It’s not what you look at, it’s what you see**   

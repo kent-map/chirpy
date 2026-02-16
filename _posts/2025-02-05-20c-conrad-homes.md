@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20
 permalink: /20c/20c-conrad-homes/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_de
 permalink: /19c/19c-aldington-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ during their five years in Bermuda, which her mother read word for word.[^ref2]

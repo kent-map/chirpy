@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundia
 permalink: /19c/19c-burdett-coutts-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

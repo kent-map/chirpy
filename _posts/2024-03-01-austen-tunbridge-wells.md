@@ -9,7 +9,7 @@ image: https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jp
 permalink: /austen/austen-tunbridge-wells/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Tunbridge Wells features in several of Austen’s writings including _Emma_, _Northanger Abbey_, _Mansfield Park_, and the uncompleted _Sanditon_.  She may have visited in 1788.

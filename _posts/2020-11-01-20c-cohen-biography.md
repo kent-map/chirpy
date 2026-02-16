@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst_p
 permalink: /20c/20c-cohen-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Places:** [Goudhurst](Q2019734) 1963-70, Near [Benenden](Q2686542) 1970-74, [Iden Green](Q69992873) 1974-78   

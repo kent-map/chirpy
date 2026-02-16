@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/21c/Eliot__5.JPG
 permalink: /21c/21c-margate-lunchtime/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

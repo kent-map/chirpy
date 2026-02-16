@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%
 permalink: /medieval/hengestandhorsa/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 “Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”[^ref1]

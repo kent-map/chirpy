@@ -9,7 +9,7 @@ image:
 permalink: /dickens/edwin-drood-curated-walk/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

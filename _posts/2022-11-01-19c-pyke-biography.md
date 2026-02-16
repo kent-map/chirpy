@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21
 permalink: /19c/19c-pyke-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 [Chatham](Q729006), ‘the wickedest place in the world’, according to the reminiscences of Robert Hobbes, had numerous public houses frequented by soldiers and sailors. The very words, sailor and soldier, were identified with drunkenness and debauchery and as men had nowhere to go but to the canteen or a pub, street arguments and midnight brawls were a frequent occurrence.[^ref1] The need for healthy recreation in the town was evident. The Mechanics Institute in Chatham was established in the early 1850s, and furnished aspiring tradesmen with a possibility of social advancement through its lectures. The foundation and the initial maintenance of the institute were secured by Joseph Pyke, then in his twenties, and a member of the Chatham Jewish community. 

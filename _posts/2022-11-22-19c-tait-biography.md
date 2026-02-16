@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Cliff_edge_near_North
 permalink: /19c/19c-tait-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) on the advice of his doctor. Tait who had been chosen to succeed Dr Thomas Arnold as headmaster at Rugby six years earlier, was severely exhausted. On his appointment to the post, his friends 'scarcely knew whether to congratulate him or not upon the perilous inheritance'[^ref1] as the school was overcrowded, and underfunded. [^ref2] 

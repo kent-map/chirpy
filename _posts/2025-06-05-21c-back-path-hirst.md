@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
 permalink: /21c/21c-back-path-hirst/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 I’ve known this cottage path for over half my life,    

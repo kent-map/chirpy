@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-convicts-overview/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Kentish prisons, like those in many English counties, include establishments that date to the early nineteenth century. [Canterbury Prison]({{ site.baseurl }}/19c/19c-canterbury-gaol/) - recently redeveloped as part of [Canterbury Christ Church University’s](https://www.canterbury.ac.uk/) campus - opened in 1808, and [Maidstone Prison]({{ site.baseurl }}/19c/19c-convicts-maidstone) which remains in use today, a decade later, both replaced older jails. Another part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation. The origins of this system can be traced to the decommissioned warships known as [hulks]({{ site.baseurl }}/prisons/convict-hulks), which, moored on the Thames and along the South Coast, served as floating prisons from the Napoleonic era until the 1850s. There were hulks on the River Medway’s estuary at Sheerness, and at Chatham where, as a boy, [Charles Dickens]({{ site.baseurl }}/dickens/dickens-chatham) would have witnessed convicts working on the docks; in the famous encounter between Pip and the convict Abel Magwitch in _[Great Expectations]({{ site.baseurl }}/dickens/great-expectations-curated-walk)_ (set in 1812), the latter has escaped from a hulk moored on Kent’s coastal marshes. 

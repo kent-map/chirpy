@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281
 permalink: /19c/19c-cuffay-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

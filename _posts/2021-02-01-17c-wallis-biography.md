@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-wallis-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The mathematician, John Wallis, was born in Ashford on the 23rd of November 1616. His father, Reverend John Wallis (1567-1622) died a week after John’s sixth birthday so his mother, Joanna (nee Chapman) raised her 5 children alone.

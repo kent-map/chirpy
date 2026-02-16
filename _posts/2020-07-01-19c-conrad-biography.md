@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20
 permalink: /19c/19c-conrad-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in [Bishopsbourne](Q866348), a village about six miles south of [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home) in the Elham valley. Born in 1857 in Berdychiv, Ukraine, to Polish parents of noble birth who protested Russian rule of their homeland, Conrad had a disrupted childhood as his family was persecuted by the Russian authorities. Whilst this meant that he lost the opportunity of regular education, his father, Apollo, taught him at home and shared a love of literature with his son. Unfortunately, at the age of 11, Conrad lost his parents to tuberculosis and the orphan was sent to live with an uncle in Kracow, where he was schooled. 

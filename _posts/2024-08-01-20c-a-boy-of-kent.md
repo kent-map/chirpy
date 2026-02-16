@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f
 permalink: /20c/20c-a-boy-of-kent/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

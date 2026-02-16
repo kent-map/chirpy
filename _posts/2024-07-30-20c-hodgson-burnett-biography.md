@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_
 permalink: /20c/20c-hodgson-burnett-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Frances Hodgson Burnett (1849–1924) was a British-American author and playwright. She was born in Manchester and travelled between England and the USA, but lived at Great Maytham Hall, near Rolvenden, Kent, between 1898 and 1907.[^ref1] She moved there following her divorce from Swan Burnett; it might have been a refuge from some of the problems in her life, such as the press’s scrutiny of her divorce, and the lasting effect of the death of her younger son, Lionel, in 1890.

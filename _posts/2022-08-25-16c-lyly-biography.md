@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-lyly-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 'My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in [Rochester](Q507517)' - Vicinia in _Mother Bombie_ (1894)

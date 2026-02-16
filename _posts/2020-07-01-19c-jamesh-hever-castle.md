@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-J
 permalink: /19c/19c-jamesh-hever-castle/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

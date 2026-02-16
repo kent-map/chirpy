@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/19c-leather-and-dust/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 David Copperfield's [curated walk]({{ site.baseurl }}/dickens/david-copperfield-curated-walkk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end.

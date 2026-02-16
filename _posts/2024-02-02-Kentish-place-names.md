@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294
 permalink: /landscape/Kentish-place-names/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.[^ref1]  

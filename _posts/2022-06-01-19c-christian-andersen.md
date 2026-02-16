@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-christian-andersen/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Places:** [Gads Hill](Q104082075), [Rochester](Q507517). Knowle House, [Sevenoaks](Q939838). Chevening Church.

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Fraser_%281858-1
 permalink: /20c/20c-womens-suffrage-whitstable/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 On Friday 18 September, 1908, a green wooden caravan painted with the words ‘Votes for Women’ and ‘Women’s suffrage’ rumbled into Whitstable. The Women’s Freedom League (W.F.L) caravan stayed until the following Tuesday.[^ref1] This is the first recorded visit of a women’s suffrage group to the town.

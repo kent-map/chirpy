@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-
 permalink: /poetry/hoppicking-oulton/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 [Dickens]({{ site.baseurl }}/dickens) sees bodies wet in the hedges,   

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg
 permalink: /19c/19c-carlyle-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

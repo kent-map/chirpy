@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c
 permalink: /21c/21c-sin-of-omission/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

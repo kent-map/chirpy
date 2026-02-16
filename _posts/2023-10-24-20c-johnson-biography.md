@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/9ac45485-b2cf-4065-90b5-f363a95788a8
 permalink: /20c/20c-johnson-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

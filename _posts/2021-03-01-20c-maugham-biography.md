@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_s
 permalink: /20c/20c-maugham-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Playwright, novelist, and short story writer born in Paris, Somerset Maugham is seen as one of the most popular writers of the inter-war period.

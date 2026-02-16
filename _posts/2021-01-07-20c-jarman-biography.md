@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/20c/Jarman__2.jpg
 permalink: /20c/20c-jarman-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Places:** Lived in [Dungeness](Q911577) 1986-1994   

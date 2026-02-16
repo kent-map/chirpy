@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-butler-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act]({{ site.baseurl }}/19c/19c-contagious-diseases).

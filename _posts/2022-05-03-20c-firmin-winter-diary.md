@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b
 permalink: /20c/20c-firmin-winter-diary/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

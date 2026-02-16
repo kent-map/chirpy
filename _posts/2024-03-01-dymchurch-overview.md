@@ -9,7 +9,7 @@ image: https://commons.wikimedia.org/wiki/File:Charles_Sims--The_Sands_at_Dymchu
 permalink: /placesad/dymchurch-overview/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

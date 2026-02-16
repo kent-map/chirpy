@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.
 permalink: /20c/20c-symons-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘But to come back to [Folkestone](Q375314). I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 

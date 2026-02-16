@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-whainsworth-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.**      

@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-winbolt-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

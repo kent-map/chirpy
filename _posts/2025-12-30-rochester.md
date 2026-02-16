@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/dc323604-dfe3-4121-89de-3a84faccc9f1
 permalink: /placesrz/rochester/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

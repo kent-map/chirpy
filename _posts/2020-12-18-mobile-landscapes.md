@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay
 permalink: /dickens/mobile-landscapes/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

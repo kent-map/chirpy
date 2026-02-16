@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /landscape/kentish-chalk/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

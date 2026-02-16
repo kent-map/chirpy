@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
 permalink: /canterbury/20c-canterbury-education/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

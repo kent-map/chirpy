@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-shovell-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Admiral Sir Cloudesley Shovell (1650-1707), whose death was the catalyst for the introduction of the 1714 Longitude Act.

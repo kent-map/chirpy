@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/15/HMT_Empire_Windrush_F
 permalink: /black-history/martin-cohen-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /landscape/desire-paths/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Desire paths are, in the most literal terms, human-made trails created by erosion. You’ll most often notice them outlining the edges of fields or forming shortcuts across grassy corners. However, they can form on worn-down pavements, through fallen leaves, or even as trails through snow and ice. These visible paths are formed by desire lines: the route taken to travel from A to B. 

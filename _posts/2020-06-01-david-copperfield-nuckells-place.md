@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copp
 permalink: /dickens/david-copperfield-nuckells-place/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

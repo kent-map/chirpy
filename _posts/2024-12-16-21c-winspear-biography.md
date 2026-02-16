@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee
 permalink: /21c/21c-winspear-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Although Jacqueline Winspear moved to the U.S. at the age of thirty-five, Kent pervades her childhood, adolescence and early adulthood and provides prominent settings in her renowned and award-winning Maisie Dobbs series, a set of eighteen historical mystery-detective novels featuring a woman ahead of her time who is a psychologist-investigator. While these novels take place during a period from 1929 to 1945, they frequently gain depth and meaning through flashbacks to World War One experiences.

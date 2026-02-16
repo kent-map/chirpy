@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-harkness-darkest/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Although Margaret Harkness’s novel _In Darkest London_ (1889) primarily takes the reader through the most destitute slums of London, depicting the work of the Salvation Army with a focus on London’s East End, it also includes a “holiday” in Kent. As life and work amidst the squalor and sin in Whitechapel take a toll on Captain Lobe’s health, the protagonist eventually receives orders to accompany the London hop-pickers and recover in the Kentish countryside. The novel traces the hop-picking holiday, beginning with a four-hour journey that encompasses the train ride from London Bridge Station to a little village station in Kent followed by a five-mile walk to the hop gardens, and includes descriptions of the accommodation provided for the hop pickers, their workdays, and their pastimes. Unfortunately, no place names are mentioned in the novel, nor is anything known about Harkness’s connections to Kent.

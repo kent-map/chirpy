@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-broadstairs/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.   

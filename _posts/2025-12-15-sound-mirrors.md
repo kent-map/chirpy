@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/d/d5/Denge_Sound_Mirror.jp
 permalink: /built/sound-mirrors/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

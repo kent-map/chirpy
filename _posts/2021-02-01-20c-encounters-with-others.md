@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b
 permalink: /landscape/20c-encounters-with-others/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Encounters with ‘other’ – ‘crime’s dark crew’   

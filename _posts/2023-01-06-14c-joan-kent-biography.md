@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterb
 permalink: /medieval/14c-joan-kent-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Joan of Kent – referred to posthumously as the ‘fair maid of Kent’ by chronicler Jean Froissart[^ref1]  – was an influential female figure in the history of Kent. Froissart is thought to be an unreliable narrator. Nonetheless, ‘according to the writer known as the Chandos Herald, Joan was "a lady of great worth … very beautiful, pleasing and wise"...Not everyone was so kind'[^ref2] primarily because of the scandal of her first two marriages. Joan’s life is not extensively recorded in history. Even the exact year of her birth is unknown, although 1328 seems most likely. However, Joan is thought to be depicted in two ceiling bosses in [Canterbury](Q29303) Cathedral. She is shown in both with a fashionable headdress which is either a goffered veil (also known as a nebule) or a caul.[^ref3]  Joan inherited the titles of the fourth Countess of Kent and the fifth Baroness Wake of Liddell through her brother in 1352.

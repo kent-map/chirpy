@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-turkish-baths/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The early and mid-19th century outbreaks of cholera helped to concentrate the public mind on hygiene. The impact of the 1832 epidemic led an Irish physician, Dr Richard Barter, to become interested in the ‘water cure’ and open St Ann’s Hydropathic Establishment at Blarney, Co. Cork. 

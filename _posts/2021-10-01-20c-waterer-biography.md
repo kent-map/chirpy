@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a6/Dickens-museum.jpg
 permalink: /20c/20c-waterer-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘Who wants to know what everything means? Novels are not meant to be real life, only stories to amuse us. It is wrong to take such things seriously.” 

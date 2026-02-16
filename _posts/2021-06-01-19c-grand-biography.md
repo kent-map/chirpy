@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/34/The_Common%2C_Tunbrid
 permalink: /19c/19c-grand-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

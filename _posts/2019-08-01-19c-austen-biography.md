@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc
 permalink: /19c/19c-austen-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **16 December 1775 - 18 July 1817**    

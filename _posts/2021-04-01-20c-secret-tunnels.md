@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901
 permalink: /20c/20c-secret-tunnels/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

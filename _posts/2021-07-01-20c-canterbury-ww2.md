@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Canterbury_Orchards_1
 permalink: /canterbury/20c-canterbury-ww2/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

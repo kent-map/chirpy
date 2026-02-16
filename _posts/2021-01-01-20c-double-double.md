@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301
 permalink: /20c/20c-double-double/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…    

@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /20c/20c-ferguson-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Chaplain of Eversley School, [Sandgate](Q1000312) 1915 – 1935 (thereafter in Lymington).   

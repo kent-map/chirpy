@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
 permalink: /20c/20c-fanthorpe-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 “My father’s mother from Kent to be forgiven.   

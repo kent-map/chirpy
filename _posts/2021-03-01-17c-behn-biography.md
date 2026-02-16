@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-behn-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Behn’s life began in 1640. In a biography at the end of Behn’s play, _The Younger Brother_, it is recorded that depending on the ‘account you read- and there are many - Aphra was born in [Harbledown](Q5654535), near [Canterbury](Q29303)’. It is now known that she was indeed born in Harbledown. [^ref1] 

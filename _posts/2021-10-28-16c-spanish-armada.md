@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Graveli
 permalink: /16c/16c-spanish-armada/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

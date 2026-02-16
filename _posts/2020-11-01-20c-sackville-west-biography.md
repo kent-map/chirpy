@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2
 permalink: /20c/20c-sackville-west-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romne
 permalink: /20c/20c-on-the-marsh/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

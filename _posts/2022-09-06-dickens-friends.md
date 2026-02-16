@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_Sc
 permalink: /dickens/dickens-friends/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 The study at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) still features a wall of Dickens’s famous fake books. But his own visitors’ book would have included genuine contributions by some of the most famous figures of the nineteenth century.

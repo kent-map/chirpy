@@ -9,7 +9,7 @@ image: https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc
 permalink: /austen/austen-canterbury/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

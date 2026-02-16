@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg
 permalink: /20c/20c-bowen-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘Possibly it was England made me a novelist’

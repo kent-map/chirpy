@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/8/83/Tilly-sur-Seulles_-_C
 permalink: /20c/20c-douglas-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

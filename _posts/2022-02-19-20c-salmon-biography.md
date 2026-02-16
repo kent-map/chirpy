@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell
 permalink: /20c/20c-salmon-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-folkestone-ww1/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

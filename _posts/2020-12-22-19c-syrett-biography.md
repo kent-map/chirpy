@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29
 permalink: /19c/19c-syrett-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 **Publications:** best known for _Portrait of a Rebel_ (1929) which was made into the 1936 Katherine Hepburn film _A Woman Rebels._   

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/15/Louis_Wain_The_bachel
 permalink: /19c/19c-wain-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

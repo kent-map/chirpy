@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate
 permalink: /20c/20c-wynne-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 _‘[Margate](Q618045) is a place that grows on you. You arrive at it feeling vaguely contemptuous, and ready, if by any far distant chance you should meet anyone that you know, to explain that it is your first visit, and that you only came because your doctor so strongly recommended it. And then, after getting to feel steadily better and better, and more and more alive, and as if life still held something for you, you get to love it. Especially if you go there in May.’_

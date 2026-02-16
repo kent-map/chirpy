@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-baker-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Sarah Baker was a fairground performer, a ‘strolling player’, who became one of the most successful self-made women of the eighteenth century. She was born in 1737 and throughout her childhood and youth travelled the country with her mother Ann Wakelin and her younger sister Moll entertaining the crowds at country-fairs and race meetings. As itinerant performers, they were classified by law as ‘rogues and vagabonds’ with destitution and imprisonment an ever-present threat. 

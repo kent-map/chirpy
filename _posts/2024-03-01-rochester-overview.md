@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonathan_Skelton_-_Th
 permalink: /placeskz/rochester-overview/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

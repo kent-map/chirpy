@@ -9,7 +9,7 @@ image: https://i.imgur.com/T74Vdh9.jpg
 permalink: /19c/19c-dyce-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 

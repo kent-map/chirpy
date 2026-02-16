@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-thackeray-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 ‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’.[^ref1] - Thackeray on Southborough, near Tunbridge Wells.

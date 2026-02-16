@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-elstob-biography/
 published: true
 toc: false  
-layout: juncture  
+juncture: true
 ---
 
 Looking back at her education in [Canterbury](Q29303) in the 1690s, Elizabeth Elstob later remembered how she and her childhood friend Mary Randolph had spent many happy hours together ‘sighing out … our wishes’ for the freedom to study Greek and Latin. Elizabeth’s love of books had been encouraged by her mother, who was a great admirer of women’s education, but Elizabeth was only eight when her mother died and she was sent to live with her uncle, Charles Elstob, a prebendary at Canterbury Cathedral. She discovered that he was ‘no friend to women’s learning’ and Elizabeth only got his permission to learn French with great difficulty ‘being always put off, with that common and vulgar saying that one tongue is enough for a woman’. Elizabeth can, however, lay claim to be Canterbury’s first bluestocking or female scholar, because she mastered Anglo-Saxon studies. She later described herself as the first woman to understand Old English since it had last been spoken. She was also the first female English Historian and a passionate defender of women’s learning. In her publications Elizabeth made the case for women’s education, which was ‘too frequently almost generally deny’d them’. At the time only about 30% of women could both read and as a woman, Elizabeth was barred from being a pupil at the King’s School in Canterbury and she could not gain admittance to the two English Universities of Oxford and Cambridge. 
