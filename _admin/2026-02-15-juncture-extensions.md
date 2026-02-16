@@ -2,7 +2,7 @@
 title: Adding Zoomable Images with Juncture
 description: How to use the Juncture image viewer in your Markdown posts.
 permalink: /docs/juncture-image-viewer
-date: 2019-08-08
+date: 2026-02-15
 order: 4
 juncture:
     mode: 2col
@@ -26,9 +26,17 @@ juncture:
             grid-template-columns: 1fr 1fr;
         }
     }
-    pre .s2 {
+    iframe {
+        width: 100%;
+    }
+    pre .s2,
+    pre .sx {
         white-space: pre-wrap;
         word-break: break-word;
+    }
+    .attribute {
+        color: red;
+        font-weight: bold;
     }
 </style>
 
@@ -49,6 +57,7 @@ This creates an image that when clicked will open a dialog with an image at full
     src="wc:Monument_Valley,_Utah,_USA.jpg"
 %}
 ```
+{: .nolineno }
 {% endraw %}
 
 Click on the image to open the dialog.
@@ -58,6 +67,7 @@ Click on the image to open the dialog.
 <div>
 {% include embed/image.html
     src="wc:Monument_Valley,_Utah,_USA.jpg"
+    cover="true"
 %}
 </div>
 
@@ -65,55 +75,176 @@ Click on the image to open the dialog.
 
 ---
 
-# When Do You Need an `id`?
+# Example with a Custom Caption
 
-You only need to provide an `id` if you plan to create **interactive links** in your text that control the image (for example, zooming to a specific region).
+In this example a custom caption is defined
 
-If you are not using interactive links, you can safely omit `id`.
+<div class="example">
+
+<div markdown="1">
+{% raw %}
+```liquid
+{% include embed/image.html
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+    caption="A Custom Caption"
+%}
+```
+{: .nolineno }
+{% endraw %}
+
+</div>
+
+<div>
+{% include embed/image.html
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+    caption="A Custom Caption"
+%}
+</div>
+
+Note that when using Wikimedia Commons images, a generated attribution statement is applied to custom captions when needed.
+
+</div>
 
 ---
 
-# Example with an `id`
+# IIIF Examples
+
+In addition to displaying regular images, the image viewer can also display a IIIF image.  The IIIF image is referenced using a manifest URL.
 
 <div class="example">
 <div markdown="1">
 {% raw %}
 ```liquid
 {% include embed/image.html
-    id="image"
-    src="wc:Monument_Valley,_Utah,_USA.jpg"
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
 %}
 ```
+{: .nolineno }
 {% endraw %}
-
-When an image includes an `id` attribute it may be referenced in an action link.  An action link is a standard Markdown link where the URL is formatted with information needed trigger an action on the referenced item when clicked.  In tbe example below that `zoomto` action is triggered on the image with the `image` id.
-
-```markdown
-[zoomto example](image/zoomto/pct:45.45,39.44,13.25,18.56)
-```
-
-[zoomto example](image/zoomto/pct:45.45,39.44,13.25,18.56)
 
 </div>
 
 <div>
 {% include embed/image.html
-    id="image"
-    src="wc:Monument_Valley,_Utah,_USA.jpg"
-    caption="Monument Valley, UT"
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+%}
+</div>
+</div>
+
+
+By default, the first image in a manifest is displayed.  If multiple images are defined in a manifest others can be referenced using the `seq` attribute.  In this example the 2nd image in the manifest is displayed.
+
+<div class="example">
+<div markdown="1">
+{% raw %}
+```liquid
+{% include embed/image.html
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+    seq="2"
+%}
+```
+{: .nolineno }
+{% endraw %}
+
+</div>
+
+<div>
+{% include embed/image.html
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+    seq="2"
 %}
 </div>
 </div>
 
 ---
 
-# Required Setting
+# Action Link Example
 
-You must provide one of the following:
+When an image includes an `id` attribute it may be referenced in an action link.  An action link is a standard Markdown link where the URL is formatted with information needed trigger an action on the referenced item when clicked.  In tbe example below that `zoomto` action is triggered on the image with the `image` id.
 
-## `src`
+<div class="example">
+<div markdown="1">
+{% raw %}
+```liquid
+{% include embed/image.html
+    id="img1"
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+%}
+```
+{: .nolineno }
+{% endraw %}
 
-The image source.
+Note the addition of the `id` attribute with the value `img1`.
+
+```markdown
+[zoomto example](img1/zoomto/pct:45.45,39.44,13.25,18.56)
+```
+{: .nolineno }
+
+in this action link the first segment of the URL contains the `id` of the image to target in the action.  The second segment (`zoomto`) is the action to perform.  The third segment is action argument, in this case the image region to zoom into.  Click the link below to trigger the action.
+
+
+[zoomto example](img1/zoomto/pct:45.45,39.44,13.25,18.56)
+
+Note that in this example the label for the zoomed region is taken from the link text.
+
+</div>
+
+<div>
+{% include embed/image.html
+    id="img1"
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+%}
+</div>
+</div>
+
+# Action Link Example With Custom Label
+
+<div class="example">
+<div markdown="1">
+{% raw %}
+```liquid
+{% include embed/image.html
+    id="img2"
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+%}
+```
+{: .nolineno }
+{% endraw %}
+
+Note the addition of the `id` attribute with the value `img1`.
+
+```markdown
+[zoomto example](img2/zoomto/pct:45.45,39.44,13.25,18.56){: label="Custom Label"}
+```
+{: .nolineno }
+
+in this action link the first segment of the URL contains the `id` of the image to target in the action.  The second segment (`zoomto`) is the action to perform.  The third segment is action argument, in this case the image region to zoom into.  Click the link below to trigger the action.
+
+[zoomto example](img2/zoomto/pct:45.45,39.44,13.25,18.56){: label="Custom Label"}
+
+Note that in this example the label for the zoomed region is taken from the custom attributes appended to the link.
+
+</div>
+
+<div>
+{% include embed/image.html
+    id="img2"
+    src="wc:Monument_Valley,_Utah,_USA.jpg"
+%}
+</div>
+</div>
+
+---
+
+# Required Attribute
+
+You must provide either a **src** or **manifest** attribute to the image tag.
+
+## src
+{: .attribute }
+
+The for the image src attribute.
 
 You can use:
 
@@ -129,15 +260,43 @@ You can use:
 
     src="wc:File_Name.jpg"
 
+## manifest
+{: .attribute }
+
+The for the image manifest attribute a full URL to an IIIF manifest must b provided.
+
+For example, 
+
+<div class="example">
+<div markdown="1">
+{% raw %}
+```liquid
+{% include embed/image.html
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+%}
+```
+{: .nolineno }
+{% endraw %}
+
+</div>
+
+<div>
+{% include embed/image.html
+    manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+%}
+</div>
+</div>
+
 ---
 
-# Optional Settings
+# Optional Attributes
 
 These improve presentation but are not required.
 
 ---
 
-## `caption`
+## caption
+{: .attribute }
 
 Text displayed below the image.
 
@@ -148,6 +307,7 @@ Keep captions short and descriptive.
 ---
 
 ## `cover="true"`
+{: .attribute }
 
 Makes the image fill its space more dramatically, similar to a cover photo.
 
