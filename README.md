@@ -1,43 +1,121 @@
-# Chirpy Starter
+# Chirpy Juncture Starter
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This repository powers a Jekyll site built on the **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)** theme, extended with a set of Juncture components for creating rich, interactive content.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+At its core, this is a standard Chirpy-based site. If you are already familiar with Chirpy, most of the structure will look familiar. What makes this repository different is the addition of reusable viewer components and supporting scripts that allow content authors to build more visual, interactive essays without writing custom HTML or JavaScript.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## What This Repository Contains
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### 1. The Chirpy Foundation
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+The site follows the normal Chirpy conventions for:
 
-## Usage
+* Posts in `_posts`
+* Configuration in `_config.yml`
+* Data files in `_data`
+* Static assets in `assets/`
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+If you are new to Chirpy, review:
 
-## Contributing
+* **Getting Started** 
+* **Writing a New Post** 
+* **Text and Typography** 
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+Those documents describe the baseline structure and expectations for posts.
 
-## License
+---
 
-This work is published under [MIT][mit] License.
+### 2. Juncture Extensions
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+On top of Chirpy, this repository adds:
+
+* Single-page iframe viewer components (image viewers, comparisons, etc.)
+* Liquid include wrappers that simplify usage
+* Supporting JavaScript for:
+
+  * DOM restructuring where needed
+  * Communication between the parent page and iframe components
+  * Action links that trigger component behavior
+
+The design goal is separation of concerns:
+
+* Content authors work in Markdown.
+* Viewer logic lives in self-contained iframe pages.
+* Liquid includes bridge the two.
+
+Authors should not need to understand how the components are implemented — only how to invoke them.
+
+---
+
+## Who This Repository Is For
+
+There are two primary audiences:
+
+### Content Authors
+
+You primarily need to:
+
+* Create Markdown posts
+* Use front matter correctly
+* Insert Juncture components using documented include syntax
+
+You do **not** need to modify theme files or JavaScript.
+
+---
+
+### Maintainers / Developers
+
+If you are extending or modifying the Juncture components, you will be working with:
+
+* Liquid include files
+* Single-page viewer HTML/CSS/JS
+* Parent/iframe messaging logic
+* Site-wide configuration and layout files
+
+Changes to these areas affect how all content renders.
+
+---
+
+## Authoring Workflow (Typical)
+
+1. Create a new post in `_posts`.
+2. Add required front matter.
+3. Write content in Markdown.
+4. Insert Juncture components using documented include tags.
+5. Preview locally with `bundle exec jekyll serve`.
+6. Commit and deploy.
+
+The structure is intentionally simple. Complexity is pushed into reusable components so that posts remain readable and maintainable.
+
+---
+
+## Design Principles
+
+This repository follows a few clear principles:
+
+* **Keep posts readable.** Markdown should remain the primary authoring format.
+* **Encapsulate complexity.** Interactive behavior lives in isolated components.
+* **Favor reuse over duplication.** Liquid includes act as stable interfaces.
+* **Minimize coupling to theme internals.** Juncture additions extend Chirpy rather than rewriting it.
+
+---
+
+## Important Notes
+
+* Some features depend on specific front matter variables.
+* File paths must be accurate — most issues stem from incorrect paths.
+* If action links are used, components may require an `id` attribute.
+* The admin documentation section explains usage in detail.
+
+---
+
+## Summary
+
+This is a Chirpy-based publishing platform with enhanced capabilities for interactive storytelling.
+
+If you are writing content, focus on the documentation and examples.
+If you are extending the system, treat the viewer components and include files as the primary integration layer.
+
+The goal is straightforward: make it easy to create visually rich content without making authors learn the underlying implementation.
