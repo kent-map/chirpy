@@ -2,6 +2,7 @@
 layout: admin
 title: Admin
 permalink: /admin/
+toc: true
 order: 0
 ---
 

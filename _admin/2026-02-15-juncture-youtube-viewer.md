@@ -4,6 +4,7 @@ description: How to use the Juncture YouTube viewer in your Markdown posts.
 permalink: /admin/juncture-youtube-viewer
 date: 2026-02-22
 media_subpath: /assets/posts/juncture
+toc: true
 order: 12
 juncture:
     mode: flat

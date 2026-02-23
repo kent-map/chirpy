@@ -6,6 +6,7 @@ date: 2026-02-15
 media_subpath: /assets/posts/juncture
 # image: image.png
 # show_header_image: false
+toc: true
 order: 11
 juncture:
     mode: flat

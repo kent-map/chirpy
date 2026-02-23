@@ -3,6 +3,7 @@ title: "Juncture: Preview Bookmarklet Setup"
 description: A one-page guide for installing the preview bookmarklet and GitHub token, enabling one-click live preview of any post directly from GitHub's file browser.
 permalink: /admin/preview-bookmarklet
 date: 2026-02-15
+toc: true
 order: 21
 ---
 
