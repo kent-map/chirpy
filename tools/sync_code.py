@@ -25,11 +25,18 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 # Files to sync (relative paths)
 # ----------------------------
 FILES_TO_SYNC = [
+    "_admin/index.md",
     "_admin/2019-08-08-text-and-typography.md",
     "_admin/2019-08-08-write-a-new-post.md",
     "_admin/2019-08-09-getting-started.md",
     "_admin/2019-08-11-customize-the-favicon.md",
-    "_admin/2026-02-15-juncture-extensions.md",
+    "_admin/2026-02-15-juncture-overview.md",
+    "_admin/2026-02-15-juncture-image-viewer.md",
+    "_admin/2026-02-15-juncture-image-compare-viewer.md",
+    "_admin/2026-02-15-juncture-map-viewer.md",
+    "_admin/2026-02-15-juncture-youtube-viewer.md",
+    "_admin/2026-02-15-juncture-authoring-workflow.md",
+    "_admin/2026-02-15-juncture-add-preview-bookmarklet.md",
     "_includes/embed/iframe.html",
     "_includes/embed/image-compare.html",
     "_includes/embed/image.html",
@@ -62,6 +69,10 @@ FILES_TO_SYNC = [
     "assets/img/mockup.png",
     "assets/img/pages-source-dark.png",
     "assets/img/pages-source-light.png",
+    "assets/posts/juncture/image.png",
+    "assets/posts/juncture/map.png",
+    "assets/posts/image-compare/Westgate_Towers_c1905.jpg",
+    "assets/posts/image-compare/Westgate_Towers_2021.jpg",
     "tools/sync_code.py",
 ]
 
