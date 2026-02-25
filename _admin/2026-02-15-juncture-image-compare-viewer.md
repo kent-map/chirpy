@@ -5,7 +5,7 @@ permalink: /admin/juncture-image-compare-viewer
 date: 2026-02-22
 media_subpath: /assets/posts/image-compare
 toc: true
-order: 13
+order: 23
 juncture:
     mode: flat
     toolbar: false

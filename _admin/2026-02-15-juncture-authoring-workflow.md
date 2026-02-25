@@ -4,6 +4,7 @@ description: A step-by-step guide for writing and previewing Chirpy blog posts u
 permalink: /admin/juncture-authoring-workflow
 date: 2026-02-15
 toc: true
+published: false
 order: 20
 ---
 

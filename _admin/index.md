@@ -15,6 +15,8 @@ This area brings together two things:
 
 If you are creating or editing content for this site, this is where you should start.
 
+If you're a content author and want to just dive in, refer to the **[Authors Guide](juncture-authors-guide)**
+
 ## What This Covers
 
 Chirpy provides the foundation: how to create posts, manage front matter, insert images, embed media, configure previews, and control layout. If you are new to the theme, begin with:

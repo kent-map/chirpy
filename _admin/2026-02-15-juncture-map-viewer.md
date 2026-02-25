@@ -7,7 +7,7 @@ media_subpath: /assets/posts/juncture
 # image: map.png
 # show_header_image: false
 toc: true
-order: 12
+order: 24
 juncture:
     mode: 2col
     toolbar: false

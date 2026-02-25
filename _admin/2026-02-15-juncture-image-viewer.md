@@ -7,7 +7,7 @@ media_subpath: /assets/posts/juncture
 # image: image.png
 # show_header_image: false
 toc: true
-order: 11
+order: 22
 juncture:
     mode: flat
     toolbar: false

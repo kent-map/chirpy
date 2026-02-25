@@ -5,7 +5,7 @@ permalink: /admin/juncture-youtube-viewer
 date: 2026-02-22
 media_subpath: /assets/posts/juncture
 toc: true
-order: 12
+order: 25
 juncture:
     mode: flat
     toolbar: false
