@@ -18,7 +18,7 @@ Rupert Bear is a children’s comic strip character first published on the 8th N
 
 Rupert Bear captured the heart of the nation and continued to feature in the _Daily Express_ throughout the 20th century and beyond. John Beck believes that Rupert Bear became a form of British citizenship training to the young audience (predominantly in the Rupert Annuals by Alfred Bestall), shaping a conception of Englishness, that positions individuals as loyal subjects within a socially integrated but monarchical society.  This adds another dimension to Rupert Bear in the context of heritage studies and it is worth exploring further. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/66c4b3c1-6392-4deb-ac01-541afe9e3855.jpg" aspect="0.75" caption="Rupert Bear by Gloria Treseder" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/66c4b3c1-6392-4deb-ac01-541afe9e3855.jpg" aspect="0.75" caption="Rupert Bear by Gloria Treseder" %}
 
 The “Rupert Little Bear” outlived his creator in the form of books, television series, merchandise and collectors memorabilia, and has accumulated a cult following of children as well as adults.  He had a permanent exhibition in Canterbury, Paul McCartney wrote a song about him, and this year marks a hundred years since his first publication, to which a celebratory 50p coin was issued. His legacy is remembered in Canterbury in the [Traveller's Joy]({{ site.baseurl }}/21c/21c-travellers-joy) mural painted by [Gloria Treseder](https://www.gtreseder.com/).
 

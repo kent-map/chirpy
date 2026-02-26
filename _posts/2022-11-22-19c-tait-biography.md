@@ -26,7 +26,7 @@ Although Tait described his time at the school as 'a very happy and a very brigh
 
 [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) at this period was gaining a reputation as a health resort among those seeking a more restful experience than could be had at the busy sea-bathing towns of [Margate]({{ site.baseurl }}/19c/19c-margate) and [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). It was described as a place where 'a thoroughly respectable family can, without the risk of being styled vulgar, retire for a month's genteel repose.'[^ref6] However, attitudes to mixed bathing in the town had raised the eyebrows of some visitors who complained about the 'scanty coverings'[^ref7] of the female bathers and the scandalous proximity of the men's and women's bathing machines.[^ref8] Tait took Babington’s advice and 'the remaining weeks of the holidays were spent there with the two little ones, in a small but not very comfortable lodging.  But what were inconveniences in comparison with the glad feeling of returning health'.[^ref9] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Broadstairs c. 1870" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Broadstairs c. 1870" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
 
 {% include embed/map.html center="Q26386990" zoom="12" markers="Q26386990" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
@@ -50,7 +50,7 @@ What followed was an exhausting round of engagements as Tait’s diary testifies
 
 Although Tait was enthusiastically committed to the role of Archbishop, his health remained fragile and he was prone to bouts of exhaustion.  Lady Wake wrote: 'The interest of his new duties as Archbishop carried him on far beyond his strength'[^ref18] and Tait admitted: 'the change to [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) had certainly brought no relaxation of work.  The Confirmations were pressing. All seemed to go on prosperously, and my strength to be equal to my  duties. But the bow, it would seem, had been overstrung.'[^ref19] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fe4a9962-d0fd-4116-9f01-a05b7425fbfa.jpg" aspect="1.346" caption="Canterbury Cathedral from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fe4a9962-d0fd-4116-9f01-a05b7425fbfa.jpg" aspect="1.346" caption="Canterbury Cathedral from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825" %}
 
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 

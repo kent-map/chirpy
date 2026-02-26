@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Work & industry, Towns & cities, Buildings & architecture, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-industrial/
 published: true
 toc: false  
@@ -33,9 +33,9 @@ The motor car industry became a strong market for Canterbury leather, particular
 
 The sculptured figure of a cow standing alongside the ring road on the Tannery Field is a sadly symbolic reminder of the tannery. It is constructed of steel rails excavated from the tannery railway which before the war had transported waste to be disposed of in the field.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c2a24edf-49f6-48fd-9c29-11731fb15d16.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c2a24edf-49f6-48fd-9c29-11731fb15d16.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/40ca319d-06b9-453b-8435-5cb7cf2a7946.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/40ca319d-06b9-453b-8435-5cb7cf2a7946.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
 
 ***
 

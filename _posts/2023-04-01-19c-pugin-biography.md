@@ -5,7 +5,7 @@ author: Cat Blaker
 date: 2023-04-01
 categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Faith & belief ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/695329b9-cc27-4fe0-8e52-ebb5f65fc00c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/695329b9-cc27-4fe0-8e52-ebb5f65fc00c.jpg
 permalink: /19c/19c-pugin-biography/
 published: true
 toc: false  
@@ -21,7 +21,7 @@ Augustus Welby Pugin, the charismatic leader and promoter of the Gothic Revival,
 
 Surely no-one left has his mark on East Kent, specifically at [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) in the Isle of Thanet, so tangibly as Pugin. He revelled in the ancient Christian history of the Island, and in the fact that it was close to [Ramsgate](Q736439), at [Ebbsfleet](Q5331558), that St Augustine had landed in 597. Hence he wished to build a church there, driven by his Catholicism (he converted in 1835) and entirely at his own expense, for the use of Catholic parishioners, and to dedicate it to St Augustine. To accommodate his family of six children, and eventually his third wife and a further two children, he first had to design a house - The Grange, very close to the church. The house, innovatory in plan and appearance and setting a new template for domestic architecture, together with the church, and its exquisite detailing, make an unforgettable statement of his vision and beliefs. In the sitting room at The Grange he set in stained glass a replica of a celebrated map of the Isle of Thanet by William Elmham, dating from the very early fifteenth century. He also added a quotation, which ran round the map, in Latin, and which was quaintly translated as ‘Tenet’s round Ifle, compafs’d with water round/Fruitful and neat, the like’s not to be found’ [sic].[^ref1] In his church, described by him as ‘my own child’,[^ref2] he designed a window showing King Ethelbert and Queen Bertha of Kent, and after his death a magnificent window, depicting St Augustine’s mission in England, was installed above his tomb.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298.jpg" aspect="1.079" caption="The Drawing Room, The Grange, Ramsgate" attribution="Cat Blaker" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fe3e0abd-0d14-4bff-ac3d-a6a600a6c298.jpg" aspect="1.079" caption="The Drawing Room, The Grange, Ramsgate" attribution="Cat Blaker" %}
 
 Not only was St Augustine a central figure to Pugin, but also he relished being near the sea, and bought a substantial [Deal]({{ site.baseurl }}/19c/19c-deal) lugger, Caroline - ‘she is just six inches longer than my studio’[^ref3] - to earn some extra income and to help save mariners and cargo from the perils of the nearby [Goodwin Sands]({{ site.baseurl }}/dickens/david-copperfield-goodwin-sands). Nautical life had always meant a great [deal](Q1011096) to him. He identified strongly and enthusiastically with the area, collecting histories of East Kent sites, and recording scenes in pencil and watercolour locally. His wife Jane reported in 1849, ‘Augustus went sketching the Kentish churches almost all this summer, many days walking 18 or 20 miles besides taking 5 or 6 coloured sketches.’[sic][^ref4]
 
@@ -29,7 +29,7 @@ Pugin was aged only forty when he died at home in [Ramsgate]({{ site.baseurl }}/
 
 This article was published: 9 April 2023.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/475435c7-c741-48cb-b1d9-9aa71a748568.jpg" aspect="1.333" caption="The tomb of Augustus Welby Pugin" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/475435c7-c741-48cb-b1d9-9aa71a748568.jpg" aspect="1.333" caption="The tomb of Augustus Welby Pugin" attribution="Michelle Crowther" %}
 
 ### Bibliography
 

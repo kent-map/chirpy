@@ -47,13 +47,13 @@ On her return to Margate a year later, Dora continued to attract the crowds over
 
 In September 1804, Dora was back performing in Margate. The town had been quiet over the summer due to fears of invasion, but as the threat had subsided 'bathing rooms, promenades and masquerades are as well attended, as if neither Bonaparte nor his flotilla were in existence'.[^ref15] The theatre seats were full and the audience rapturously applauded as she performed the Widow Belmour in _The Way to Keep Him_ an 'elegant and pleasant work of the venerable dramatist, Arthur Murphy'.[^ref16] Mrs Jordan was a crowd-pleaser and the theatre managers had been astute in inviting her back after the quiet summer. Dora’s fans hung around her lodgings waiting for a glimpse of the famous actress and she was often forced to slip around the back to avoid them.[^ref17] The theatre prints trade must have been doing a roaring business. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ebe26fbc-fe4d-43f4-90d3-fea24a3e68fa.jpg" aspect="1.519" caption="Bettison's Library, Hawley Square, Margate, 1820" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ebe26fbc-fe4d-43f4-90d3-fea24a3e68fa.jpg" aspect="1.519" caption="Bettison's Library, Hawley Square, Margate, 1820" attribution="Kent Maps Online" %}
 
 {% include embed/map.html center="Q618045" zoom="14" markers="Q618045" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 In 1811, the Duke, now under pressure from the royal family to marry, separated from Mrs Jordan but agreed to pay her a stipend on condition that she gave up performing on stage to raise their children. However, three years later she broke this agreement with the Duke when her son in law, Thomas Alsop, ran up debts and Dora felt compelled to help her daughter.[^ref18] In August, she toured Margate and [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate), 'charming all around' with her performances of Widow Cheerly in _The Soldier’s Daughter_ and Violante in _The Wonder_.[^ref19] She was clearly a determined woman. On one of her visits to Margate, her coach was held up by highwaymen near Sittingbourne and her manservant was knocked off his horse, but this did not deter her.[^ref20]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/452ceef2-a5a2-4f9c-8c30-55127330f75c.jpg" aspect="0.653" caption="A theatre print of Mrs Jordan" attribution="© Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/452ceef2-a5a2-4f9c-8c30-55127330f75c.jpg" aspect="0.653" caption="A theatre print of Mrs Jordan" attribution="© Martin Crowther" %}
 
 {% include embed/map.html center="Q736439" zoom="13" markers="Q736439" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 

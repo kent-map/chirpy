@@ -28,7 +28,7 @@ The Baroness quickly became involved in the life of the county, opening fetes, a
 
 It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Acol in 1657.    
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/7d4c5d4c-62c0-40e9-a900-3b7400521033.jpg" aspect="1.146" caption="Ramsgate Commemorative Map 1884-1934" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/7d4c5d4c-62c0-40e9-a900-3b7400521033.jpg" aspect="1.146" caption="Ramsgate Commemorative Map 1884-1934" %}
 
 When the lease was up on Cleave Court, the couple decided to move to [Bearsted](Q2065577), near [Maidstone](Q213180) buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 
@@ -66,7 +66,7 @@ In November 1914, the Baroness was invited to distribute prizes at Maidstone Gir
 
 In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.' [^ref16] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3e492cf1-989d-4c1d-9cda-e61b89ed1677.jpg" aspect="1.499" caption="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3e492cf1-989d-4c1d-9cda-e61b89ed1677.jpg" aspect="1.499" caption="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls" %}
 
 The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
 

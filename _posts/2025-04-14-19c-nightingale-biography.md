@@ -52,7 +52,7 @@ Twenty years after establishing the Army Medical School at Chatham, Florence ret
 
 However, despite the sea air and its state of the art bathing facilities, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) failed to revive Florence and she left the "Hygeiopolis" after three weeks.[^ref19] The woman who achieved so much to improve the health of others, failed to improve her own. Nevertheless, indefatigible, she lived until the age of 90, dying in 1910.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c588a4b8-e77a-4b52-bf74-c1dc705350b8.jpg" aspect="1.486" caption="Granville Hotel" attribution="By kind permission of Carolyn Oulton" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c588a4b8-e77a-4b52-bf74-c1dc705350b8.jpg" aspect="1.486" caption="Granville Hotel" attribution="By kind permission of Carolyn Oulton" %}
 
 Four years later with the outbreak of the First World War, the Royal Naval Hospital, Chatham, erected in 1899-1905 to replace the Melville Hospital took on strategic importance as one of three principal naval hospitals in the UK. It was designed as a pavilion-plan hospital, a system which Florence had pioneered.[^ref20] 
 

@@ -30,7 +30,7 @@ This curated walk is also available as a [video](https://www.youtube.com/watch?v
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the [Hulks]({{ site.baseurl }}/prisons/convict-hulks)’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f2afe648-fc79-434a-acab-40d16335c345.jpg" aspect="1.333" caption="The Marshes" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f2afe648-fc79-434a-acab-40d16335c345.jpg" aspect="1.333" caption="The Marshes" %}
 
 <param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
@@ -38,7 +38,7 @@ The landscape Pip describes seems to alter as he moves across it. In his nightma
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and [Rochester](Q507517) confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes]({{ site.baseurl }}/dickens/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/e0659eea-10b4-4682-b094-0fcc08b714c2.jpg" aspect="1.376" caption="West View of the City of Rochester" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/e0659eea-10b4-4682-b094-0fcc08b714c2.jpg" aspect="1.376" caption="West View of the City of Rochester" %}
 
 {% include embed/map.html center="Q5132825" zoom="13" markers="Q5132825" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -48,7 +48,7 @@ Philip Pirrip tells us in his very name that he is trapped in language. Hardly s
 
 But the novel insists that Pip does have choices. He keeps his encounter with Magwitch a secret. He accepts the offer of a mysterious benefactor to transform him into a gentleman, largely in hopes of winning Estella. He puts up at the Blue Boar on his return from [London](Q84) rather than staying with Joe at the forge. The starkness of these choices is symbolised by the accusatory finger post at the end of the village. Pointing both towards town and in the opposite direction towards the marshes and the church, this signpost offers two mutually exclusive paths for Pip to take whenever he leaves the village. This road does not exist on maps of the time, or at least there is no road that obviously leads in both directions in the direct way that Pip suggests. The moral imperatives, which he will increasingly ignore, are symbolically mapped by the guilty character himself. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a62bdcf4-00b5-4d66-b1cf-cc9f6d2520fd.jpg" aspect="0.687" caption="Pip at the finger post" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a62bdcf4-00b5-4d66-b1cf-cc9f6d2520fd.jpg" aspect="0.687" caption="Pip at the finger post" %}
 
 {% include embed/map.html center="Q5132825" zoom="13" markers="Q5132825" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -73,7 +73,7 @@ Little wonder that the route into Rochester seems more appealing. But here too t
 At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretensions are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0d85c39c-dfad-4981-b570-dca84de881e8.jpg" aspect="1.416" caption="Restoration House" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d85c39c-dfad-4981-b570-dca84de881e8.jpg" aspect="1.416" caption="Restoration House" %}
 
 {% include embed/map.html center="Q26377461" zoom="13" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -89,7 +89,7 @@ Pip himself seems about to come full circle in returning to the [marshes]({{ sit
 
 Magwitch is tried under the [Bloody Code]({{ site.baseurl }}/18c/18c-bloody-code)
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/960a6b98-33e1-4471-9c09-71186a39a6d1.jpg" aspect="1.333" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/960a6b98-33e1-4471-9c09-71186a39a6d1.jpg" aspect="1.333" %}
 
 {% include embed/map.html center="Q5132825" zoom="13" markers="Q5132825" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 

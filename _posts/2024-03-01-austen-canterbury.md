@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
 tags: [ Authors & lives, Towns & cities, Literary places, Culture & society, Crime & punishment ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/a8bc686a-046f-4df8-8946-dd34baf364cc.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a8bc686a-046f-4df8-8946-dd34baf364cc.jpg
 permalink: /austen/austen-canterbury/
 published: true
 toc: false  
@@ -23,14 +23,14 @@ Austen and her family also made the most of the other attractions [Canterbury]({
 
 The [Canterbury gaol]({{ site.baseurl }}/19c/19c-canterbury-gaol/) also numbers among Canterbury places that Austen went to see.  Escorted by her brother Edward, who was inspecting it in his capacity as a visiting magistrate, Austen toured the Canterbury gaol in 1813, five years after it opened in 1808.  She alludes to the unspeakable experience in a letter to her sister, remarking that she “went through all the feelings which people must go through, I think, in visiting such a building”.[^ref3]  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/04b07dbb-e3b2-43d8-b9b3-265e9cff8737.jpg" aspect="0.75" caption="Canterbury Gaol" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/04b07dbb-e3b2-43d8-b9b3-265e9cff8737.jpg" aspect="0.75" caption="Canterbury Gaol" attribution="Michelle Crowther" %}
 
 ### Bibliography
 
 Harris, Jocelyn, “Jane Austen and the Subscription List to Camilla (1796).” _Persuasions Online_ 35:1 Winter 2014.
 Selwyn, David.  _Jane Austen and Leisure_. London: Hambledon Press, 1999.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d1a32d46-90e4-4b12-81b5-c66c2c27322b.jpg" aspect="1.333" caption="Bridge leading to Godmersham Park" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d1a32d46-90e4-4b12-81b5-c66c2c27322b.jpg" aspect="1.333" caption="Bridge leading to Godmersham Park" attribution="Martin Crowther" %}
 
 ### References
 

@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-03-09
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Countryside & farming, Conflict & war, Literary places ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/f99cba76-1d0b-4711-8b68-963a2f244076.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f99cba76-1d0b-4711-8b68-963a2f244076.jpg
 permalink: /20c/20c-cumming-biography/
 published: true
 toc: false  
@@ -30,7 +30,7 @@ Cumming’s first book _Doney_ was published when she was 17 and is about a hors
 
 so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6ec0b85d-688d-4221-9302-eb4cfac662e5.jpg" aspect="1.605" caption="Marshal Foch ridden by Miss Vera Goodchild, West Kent Stables" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6ec0b85d-688d-4221-9302-eb4cfac662e5.jpg" aspect="1.605" caption="Marshal Foch ridden by Miss Vera Goodchild, West Kent Stables" attribution="Michelle Crowther" %}
 
 Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]
 
@@ -42,7 +42,7 @@ In 1938, Cumming’s father died. It was during this year that her book _The Sil
 
 Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f46a4ed2-2281-41ef-b467-b51c70ac8e14.jpg" aspect="1.656" caption="West Kent Stables 1926" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f46a4ed2-2281-41ef-b467-b51c70ac8e14.jpg" aspect="1.656" caption="West Kent Stables 1926" attribution="Michelle Crowther" %}
 
 In the Spring of 1939, her novel _Rachel of Romney_ was published. It was about a lamb who was found on the marshes by David and Alice Warren, the children of an unsuccessful chicken farmer. With the help of the lamb, the children find Roman treasure which helps to save the family’s fortunes. Cumming’s inspiration may have come from her own failed attempts to keep chickens at the age of 12.[^ref8]
 

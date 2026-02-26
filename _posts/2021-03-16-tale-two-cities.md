@@ -16,7 +16,7 @@ juncture: true
 
 The opening of [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet]({{ site.baseurl }}/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5c3cfffa-911e-44cf-ab35-28b94bf80418.jpg" aspect="1.5" caption="Gads Hill" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/5c3cfffa-911e-44cf-ab35-28b94bf80418.jpg" aspect="1.5" caption="Gads Hill" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -33,7 +33,7 @@ He walked uphill in the mire by the side of the mail […] because the hill, and
 
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref5] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref6]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3804b801-3aa0-4e06-97fa-d8793febc878.jpg" aspect="1.333" caption="Millenium Mural, Canterbury" attribution="Painted by Elisa Hudson" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3804b801-3aa0-4e06-97fa-d8793febc878.jpg" aspect="1.333" caption="Millenium Mural, Canterbury" attribution="Painted by Elisa Hudson" %}
 
 {% include embed/map.html center="Q1000115" zoom="10" markers="Q1000115" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -46,7 +46,7 @@ It is a beautiful, hopeful description of the county that Dickens had made his h
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover]({{ site.baseurl }}/dickens/dickens-dover):   
 "The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… "[^ref9]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate St, Dover, 1830" attribution="Drawn by G.Shepherd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate St, Dover, 1830" attribution="Drawn by G.Shepherd" %}
 
 {% include embed/map.html center="Q179224" zoom="13" markers="Q179224" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 

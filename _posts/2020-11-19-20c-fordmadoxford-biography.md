@@ -5,7 +5,7 @@ author: Professor Max Saunders
 date: 2020-11-19
 categories: [ 20c ]
 tags: [ Authors & lives, Rivers & marshes, Literary places, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-fordmadoxford-biography/
 published: true
 toc: false  

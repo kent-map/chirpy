@@ -14,7 +14,7 @@ juncture: true
 
 The early and mid-19th century outbreaks of cholera helped to concentrate the public mind on hygiene. The impact of the 1832 epidemic led an Irish physician, Dr Richard Barter, to become interested in the ‘water cure’ and open St Ann’s Hydropathic Establishment at Blarney, Co. Cork. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d.jpg" aspect="0.745" caption="Dr Richard Barter" attribution="By kind permission of M.R. Shifrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d.jpg" aspect="0.745" caption="Dr Richard Barter" attribution="By kind permission of M.R. Shifrin" %}
 
 Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel book called _The Pillars of Hercules_ by the Scottish politician and former diplomat David Urquhart. Barter immediately recognised the therapeutic potential of these baths, and invited Urquhart to St Ann’s to help him build one. Barter also realised that hot dry air would be more therapeutically beneficial, especially in cases of complaints such as rheumatism and gout, than the steamy vapour of the hammam, and went back to the ancient Roman baths for inspiration. 
 
@@ -30,7 +30,7 @@ This is the bath which became known as the Victorian Turkish Bath. By 1860 —a 
 
 While simpler versions were soon to be found in the country and town houses of the wealthy, larger commercial ones were opened by companies, family businesses and individual proprietors. The 1846 Baths and Washhouses Act had allowed local authorities to build hot and cold slipper baths and uncovered swimming pools; several of these later had Turkish baths added. During the following 150 years many hundreds of Victorian, or Victorian style Turkish baths were opened in the British Isles, but in 2021 only twelve of these remain open.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/470cd2c9-931b-4036-9a67-66079d3f8925.jpg" aspect="1.478" caption="Biggin Hall, site of the former Turkish baths, Dover" attribution="M.R. Shifrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/470cd2c9-931b-4036-9a67-66079d3f8925.jpg" aspect="1.478" caption="Biggin Hall, site of the former Turkish baths, Dover" attribution="M.R. Shifrin" %}
 
 While [Kent](Q23298) had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
 [F C Burnand]({{ site.baseurl }}/19c/19c-burnand-biography/), [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography/), and [Edward Linley Sambourne]({{ site.baseurl }}/19c/19c-sambourne-biography/), while [George Grossmith]({{ site.baseurl }}/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
@@ -49,7 +49,7 @@ More hopefully, in 1877, the [Dover]({{ site.baseurl }}/19c/19c-dover) Harbour B
 
 The first Victorian Turkish bath in Kent successfully to open to the public was part of the Saline Spa designed by Edward Pugin, son of the more famous [Augustus Welby Pugin]({{ site.baseurl }}/19c/19c-pugin-biography), as part of the Granville Hotel in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate).[^ref8]  This opened on 24 September 1870, was still open in 1938, and possibly even later.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3c62d8de-ea92-4d3e-abcc-efc9d1b39728.jpg" aspect="2.155" caption="Advertisement in The Globe for the Granville Hotel" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3c62d8de-ea92-4d3e-abcc-efc9d1b39728.jpg" aspect="2.155" caption="Advertisement in The Globe for the Granville Hotel" %}
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
@@ -60,7 +60,7 @@ All Kent’s Victorian and Victorian style Turkish baths had closed before the b
 
 Such baths rapidly became fashionable and popular because 19th century medicine was unable to cure or even alleviate the pain of many complaints, and at a time when few homes had even basic washing facilities. That has increasingly changed as the century changed. And in the case of the more expensive establishments, there were fewer patrons with time to spare after the major social changes brought about by the 1914-18 War. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/73026e16-50c4-4401-94c3-8980a2eb39b1.jpg" aspect="1.634" caption="Victorian Turkish baths" attribution="By kind permission of M.R.Shifrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/73026e16-50c4-4401-94c3-8980a2eb39b1.jpg" aspect="1.634" caption="Victorian Turkish baths" attribution="By kind permission of M.R.Shifrin" %}
 
 {% include embed/map.html center="Q665489" zoom="12" markers="Q665489" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 

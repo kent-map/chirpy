@@ -5,7 +5,7 @@ author: Simone Blandford
 date: 2021-07-01
 categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Conflict & war ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-fanthorpe-biography/
 published: true
 toc: false  

@@ -5,7 +5,7 @@ author: Lucy Slack
 date: 2025-06-07
 categories: [ 20c ]
 tags: [ Conflict & war, Rivers & marshes, Coast & sea, Work & industry ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/b91a767a-109e-4a7d-b7c6-980d0f8601a5.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b91a767a-109e-4a7d-b7c6-980d0f8601a5.jpg
 permalink: /20c/20c-romney-marsh-ww2/
 published: true
 toc: false  

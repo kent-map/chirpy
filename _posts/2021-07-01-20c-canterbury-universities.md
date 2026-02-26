@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Culture & society, Towns & cities, Buildings & architecture, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-universities/
 published: true
 toc: false  
@@ -49,17 +49,17 @@ By the early-21st century the University of Kent had established superb faciliti
 
 Canterbury Christ Church College of Education was founded by the Church of England and opened its doors to 70 students and 9 teachers in 1962 for teacher training. In 1964 the college took over the purpose-built North Holmes Road site, built on part of St Augustine’s Abbey which had remained an open space and orchard. The roof to the chapel of Christ in Majesty, formed of four heavenwards pointing triangles in glass, is a distinctive landmark. A generally impressive ensemble of low-rise buildings (excusing Fisher Tower) are open to green spaces including an orchard and herbal garden. Although infilling has reduced the lawns, the sound of mowing still resonates outside seminars and lectures in the warmer months.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ada7827f-a5e3-4daa-a6d2-8bf65efd1113.jpg" aspect="1.59" caption="1960s campus at CCCU" attribution="© Canterbury Christ Church University, used with kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ada7827f-a5e3-4daa-a6d2-8bf65efd1113.jpg" aspect="1.59" caption="1960s campus at CCCU" attribution="© Canterbury Christ Church University, used with kind permission" %}
 
 In 1976 the first non-teaching degrees were launched. Enlarged by the addition of health-related professional courses by 1988 the college had 1500 students. In 1995, awarded the power to award degrees for teaching its own courses, the name changed to Canterbury Christ Church University College. Full university status followed in 2005 in a ceremony at Canterbury Cathedral and the installation of Archbishop Rowan Williams as chancellor.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fa0a8eed-c703-49da-8fc5-ab5e9f9b58f2.jpg" aspect="1.51" caption="History class in the early 1980s" attribution="© Canterbury Christ Church University, used with kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fa0a8eed-c703-49da-8fc5-ab5e9f9b58f2.jpg" aspect="1.51" caption="History class in the early 1980s" attribution="© Canterbury Christ Church University, used with kind permission" %}
 
 CCCU has grown exponentially in numbers as more accommodation has been built and other sites occupied around the city. The former church of St Gregory’s (North Holmes road) is a centre for music, the Sidney Cooper Gallery (close to the Westgate Towers) was CCCU’s arts school until 2020, Halls Place (Harbledown) was the university’s Enterprise  Centre. A  multi-million sports centre opened in 2009, the Daphne Oram Arts building opened in 2019, followed by a new Science and Technology building in 2021. Student accommodation flanks the ring road from Canterbury East station towards the [Old Dover Road]({{ site.baseurl }}/dickens/david-copperfield-dover-road), where [Augustine House] (2009) is an award winning library and student services centre. CCCU spread its wings to take over the Salomons Centre (Psychology) in Tunbridge Wells (1996) and to establish the Broadstairs campus (2000) and Medway Campus (2005).
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/9e1ce94c-02c1-4e20-841d-2a5996d2e8d2.jpg" aspect="1.778" caption="Drone view of prison backlands and site for Building 2 at CCCU" attribution="© DDS Demolition, 2018, used with kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9e1ce94c-02c1-4e20-841d-2a5996d2e8d2.jpg" aspect="1.778" caption="Drone view of prison backlands and site for Building 2 at CCCU" attribution="© DDS Demolition, 2018, used with kind permission" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/86d7445f-2196-48b6-a135-182c7865c7a3.jpg" aspect="1.501" caption="View across the Quad to Hepworth at CCCU" attribution="© Canterbury Christ Church University, used with kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/86d7445f-2196-48b6-a135-182c7865c7a3.jpg" aspect="1.501" caption="View across the Quad to Hepworth at CCCU" attribution="© Canterbury Christ Church University, used with kind permission" %}
 
 The motto of Canterbury Christ Church University, *Veritas Liberabit Vos* (The truth shall set you free), acquired additional significance on taking over the adjacent [Canterbury Prison and Law Court]() in 2014. The campus can now be accessed by the former Sessions Court House with the emblems of ‘Justice’ and ‘Mercy’ over the entrance. With 15,000 students (75% full-time and 25% part-time) enlisted in all locations, CCCU has become a leading provider of higher education and is firmly committed to ‘the power of higher education to enrich individuals and to active engagement within the wider community’.
 

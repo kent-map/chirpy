@@ -19,7 +19,7 @@ It is probably no coincidence that the 1920s and ‘30s, celebrated as the Golde
 
 By the twentieth century the sensation novel was starting to splinter into two distinct genres associated with beach reading to this day: romance and crime. Denizens of the former included authors such as [Pamela Wynne]({{ site.baseurl }}/20c/20c-wynne-biography). Crime writers were quick to see the appeal of murder mysteries with holiday settings. J. S. Fletcher’s _The Passenger to Folkestone_ (1927), John Rowland’s 1930 _Calamity in Kent_ (set in what is so obviously Broadstairs there seems little point in calling it Broadgate), and Freeman Wills Crofts’s _Mystery in the Channel_ (1931) directly reference real holiday locations, while Milward Kennedy’s 1930 _Death in a Deck-Chair_ is set in a lightly fictionalised Margate. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4f0a08c9-36df-443c-93b1-ebf66c77bb6a.jpg" aspect="0.695" caption="Calamity in Kent" attribution="By permission of the British Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4f0a08c9-36df-443c-93b1-ebf66c77bb6a.jpg" aspect="0.695" caption="Calamity in Kent" attribution="By permission of the British Library" %}
 
 The potential of the Romney Marsh, exploited by Russell Thorndike and his smuggling vicar Dr Syn, was also to catch the attention of later writers including [Julian Symons]({{ site.baseurl }}/20c/20c-symons-biography) and most recently [Martin Edwards]({{ site.baseurl }}/21c/21c-edwards-sepulchre-street).
 
@@ -29,7 +29,7 @@ Straying from the coast, [R. Austin Freeman]({{ site.baseurl }}/20c/20c-freeman-
 
 The [British Library Crime Classics series](https://shop.bl.uk/collections/crime-classics) is now recovering many of these titles for a new generation of readers. It turns out Kent may just be a more dangerous place than you realised.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/13096035-9b0f-47f3-9eff-1f7a3a52c2be.jpg" aspect="0.685" caption="Suddenly at his Residence" attribution="By permission of the British Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/13096035-9b0f-47f3-9eff-1f7a3a52c2be.jpg" aspect="0.685" caption="Suddenly at his Residence" attribution="By permission of the British Library" %}
 
 ### Bibliography
 
@@ -37,4 +37,4 @@ Edwards, Martin. _The Golden Age of Murder: The Mystery of the Writers Who Inven
 Oulton, Carolyn W. de la L. _Down From London: Seaside Reading in the Railway Age._ Liverpool: Liverpool University Press, 2022.   
 [‘Down From London? Looking for Literary Trouble at the British Seaside.’](https://liverpooluniversitypress.blog/2022/04/20/down-from-london-looking-for-literary-trouble-at-the-british-seaside/). April 2022.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/9cf10dc0-83c2-4c23-95de-69cfe86bfde1.jpg" aspect="0.684" caption="Mystery in the the Channel" attribution="By permission of the British Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9cf10dc0-83c2-4c23-95de-69cfe86bfde1.jpg" aspect="0.684" caption="Mystery in the the Channel" attribution="By permission of the British Library" %}

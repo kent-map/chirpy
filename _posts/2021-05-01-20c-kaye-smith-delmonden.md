@@ -5,7 +5,7 @@ author: Dr Pat Argar
 date: 2021-05-01
 categories: [ 20c ]
 tags: [ Literary places, Authors & lives, Representation & interpretation, Rivers & marshes ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-kaye-smith-delmonden/
 published: true
 toc: false  

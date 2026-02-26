@@ -35,7 +35,7 @@ In May 1560, it was rumoured that John Bale, who was living in the city, was sta
 
 The pageant of St Thomas returned in the reign of Mary I but disappeared once again in the reign of Elizabeth I. In 1589, Queen Elizabeth’s Men performed twice in Canterbury.[^ref9]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0305cedf-03b9-479f-a356-e042ab8c57f3.jpg" aspect="1.333" caption="Canterbury Pageant" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0305cedf-03b9-479f-a356-e042ab8c57f3.jpg" aspect="1.333" caption="Canterbury Pageant" attribution="Michelle Crowther" %}
 
 Christopher Marlowe, spy and playwright, was born at 57, St George's Street in 1564 and attended the King's school from 1578 before moving to Cambridge and later London. In 1592, he visited Canterbury to see his play 'The Jew of Malta' performed at the Guildhall.[^ref10]
 
@@ -45,7 +45,7 @@ Whilst staying in the city, Marlowe got into a fight with a tailor, William Cork
 
 [John Lyly]({{ site.baseurl }}/16c/16c-lyly-biography/), novelist and playwright,  whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city c.1553. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson. 
 
-Gosson was christened in St.George’s parish and educated at the King's School, where Lyly may also have attended. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579 which he addressed to courtier and poet, "Master Philip Sidney, Esq". In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.[^ref12] <param ve-image url="https://raw.githubusercontent.com/kent-map/forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" label="The Mint Yard, The King's School, Canterbury" attribution="By kind permission of King's School, Canterbury">
+Gosson was christened in St.George’s parish and educated at the King's School, where Lyly may also have attended. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579 which he addressed to courtier and poet, "Master Philip Sidney, Esq". In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.[^ref12] <param ve-image url="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" label="The Mint Yard, The King's School, Canterbury" attribution="By kind permission of King's School, Canterbury">
 
 Strolling players, who did not enjoy the patronage of nobility (or a King's school education), toured fairs performing acrobatics, songs and juggling. They were classed as ‘vagabonds’ and subject to the laws of each town. When the Plague struck in London in 1603, the London theatres closed and actors fled to the towns of Kent bringing their plays (and their plague with them). 
 
@@ -63,7 +63,7 @@ Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury 
 
 The _Canterbury Guests_ which included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c8270a90-11bb-4a80-aa86-c01accee9063.jpg" aspect="1.296" caption="St George's Gate" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c8270a90-11bb-4a80-aa86-c01accee9063.jpg" aspect="1.296" caption="St George's Gate" attribution="Kent Maps Online Collection" %}
 
 Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street entertainment.[^ref16] 
 
@@ -99,7 +99,7 @@ The theatre sets were painted by the young Thomas Sidney Cooper, before he began
 
 {% include embed/image.html src="wc:Joseph_Grimaldi.jpg" aspect="0.841" caption="Joseph Grimaldi as Clown Joey" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/36430364-5e5f-41c5-a111-211dda4fff3e.jpg" aspect="1.286" caption="Orange Street Theatre" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/36430364-5e5f-41c5-a111-211dda4fff3e.jpg" aspect="1.286" caption="Orange Street Theatre" attribution="Michelle Crowther" %}
 
 Thomas Sidney Cooper's love for the theatre continued and in the late 1850s, he paid for the refurbishment of the concert rooms in the Canterbury Guild Hall, which had been built around 1180, with pale blue paper decorated with gold stars, gilt mouldings and white pilasters.[^ref30] Two years later, he was persuaded by John Baker and Sir Frederick Ponsoby Fane (later Earl of Bessborough), of the Old Stagers, to build a new theatre in the city.  The Theatre Royal, under the management of W.E. Mills, opened in September 1861.[^ref31] 
 
@@ -121,7 +121,7 @@ In 1913, the Theatre Royal was refurbished by Mr S. Lipman of the Empire Kinemat
 
 Other theatre and entertainment venues operated during the Victorian era, for example the New Music Hall, located behind no.12 and no.13 on St Margaret’s Street which ran from 1854-1888. Music halls became particularly popular after the relaxation of the licensing laws in 1843. On May 8th, 1876, a Strange and Wilsons Aetherscope adaptation of a _Christmas Carol_ was performed at the hall. The aetherscope was a cabinet in which things and persons disappear: 'It is pretty certain that they do not leave the cabinet, yet when an individual is inside and the door is opened he is invisible and there is no sign of the space he is occupying.'[^ref39] The show then toured Sheerness and Dover, amazing audiences with its ghostly apparitions. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6b776164-7839-473f-aaf6-1f3065f06387.jpg" aspect="1.333" caption="Theatre Royal, Canterbury" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6b776164-7839-473f-aaf6-1f3065f06387.jpg" aspect="1.333" caption="Theatre Royal, Canterbury" attribution="Michelle Crowther" %}
 
 On 8 June 1911, Mayor Francis Goldney Bennett opened the Electric Theatre at 49, St Peter's Street with its mosaic pavement and glass canopy lit with incandescent lights. As he heralded in a new age of theatre, Goldney praised the exterior which was in keeping with "the old architecture of the city" with its Tudor oak panels but also spoke of the importance of keeping pace with the times, predicting that "picture shows" or silent movies were here to stay. Thanking the theatre owners, Goldney owned that although he did not wish to be thought as a "kill joy", he was grateful that they had promised the City Council not to put on performances on Sunday, as everyone needed at least one day of rest.[^ref40]
 

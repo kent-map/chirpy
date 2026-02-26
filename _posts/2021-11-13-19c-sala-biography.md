@@ -39,7 +39,7 @@ Sala also remembers meeting the Duke of Wellington, who was walking along Snarga
 
 The family moved into furnished first floor apartments at 64, Snargate Street, which Sala described as “opposite the Heights, the little summer-houses on the gentle slopes of which used to fill me with huge delight.”[^ref9] The land-lady gave the children "Fleet cakes" - "thin, brown, crisp parallelopipeds, into the composition of which hog's lard enters somewhat too largely".[^ref10] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate Street, Dover c.1830." attribution="Drawn by G.Shepherd" %}
 
 In December, despite her failing eyesight, a consequence of suffering smallpox in 1838, Madame Sala “kindly consented” to act as Miss Wyndham in 'The Culprit' and as Mrs Gregory in 'The Two Gregories' and also performed arias at the Theatre Royal. The Theatre which was at 87, Snargate Street [^ref11] was being run by Miss Caroline Darling “a tall and attenuated young lady, who was supposed to excel in “pantaloon parts.” [^ref12] 
 

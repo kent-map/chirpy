@@ -5,7 +5,7 @@ author: Professor Emeritus Linden West
 date: 2021-08-01
 categories: [ 20c ]
 tags: [ Work & industry, Politics & reform, Maps & place-making, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/6e4cd3c3-771e-43b2-a9e8-90384590672d.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6e4cd3c3-771e-43b2-a9e8-90384590672d.jpg
 permalink: /20c/20c-kent-miners/
 published: true
 toc: false  
@@ -16,7 +16,7 @@ juncture: true
 
 On April 2nd, 2022, a new museum opened on the site of what was once [Betteshanger](Q4898591) Colliery in the Kent coalfield. The Kent Mining Museum draws on collections built up over the years by the East Kent coalfield communities. Coal was first discovered in East Kent in 1890, while Betteshanger was the last pit to close in the Coalfield in 1989. The in-between history is important, complex and contested. When we observe this landscape, and visit the Museum, we still risk doing an injustice to local working class history set within a complex terrain. Mapping any terrain has to be multi-layered and multi-dimensional. It must include the people who lived and worked there. There needs to be aesthetically satisfying representations of the whole  – geological, ecological, historical, socio-cultural, political as well as human; women alongside men.  It must include fulsome illumination of a vibrant, troubled, resilient, questioning, collectivist culture, and how people experienced and made sense of their work, lives, economic and political change, as well as Kent and a wider world. There will be gaps in the portraiture, but we do have various individual stories to help us enrich the picture. Here lie many layers of struggle, harsh labour, death, suffering, solidarities, conflict, heroism, courage, loss, political and educational commitment. We can learn to see, imaginatively, through the eyes of some of those most intimately involved in mining in Kent and in the making of their working class culture. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8cc5eb9c-60be-4b8d-8408-cea130517fd6.jpg" aspect="1.0" caption="The Waiting Miner" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8cc5eb9c-60be-4b8d-8408-cea130517fd6.jpg" aspect="1.0" caption="The Waiting Miner" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q7548600" zoom="11" markers="Q7548600" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
@@ -35,7 +35,7 @@ One of only two miners’ strikes in the 2nd World War took place at Betteshange
 **Workers education**   
 From early on the Kent miners had a reputation for militancy. A number of them who moved to Kent had been blackballed in other parts of the country. Some walked the whole way from places like South Wales because of poverty and joblessness. Many, it seems, brought with them strong, militant feelings towards owners alongside a wider questioning of the structures of ownership in mining, and indeed the nature of capitalism as a whole. Workers’ education developed apace after World War One as adult education more generally gained ground following the 1919 Report of the Ministry of National Reconstruction which proclaimed adult education to be a vital and permanent national necessity. An infrastructure involving various agencies was strengthened. The Workers Educational Association and Oxford Delegacy for Extramural Studies had a prime role in Kent (and more widely in industrial communities as well as some rural areas). Strange, maybe, to associate Oxford University with miners and militancy, except there was a strong Socialist commitment, and even Communist affiliation, among some of the tutors who worked in Extramural Studies. There was one tutor named A.T. D’Eye, who became an Oxford Extramural Resident Tutor in Kent. For a while, he was Secretary to the Red Dean at [Canterbury](Q29303) Cathedral, Hewlett Johnson. D’Eye was his lifelong companion and mentor on socialism. D’Eye taught in the Kent coalfield and one of his most successful classes - on International Relations - began in the 1930s. There are suggestions that this particular class had a role among miners’ leaders in pursuing the 1942 strike, in wrestling with the issues it raised, and in representing the strike to the wider world. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8e43ec4c-6f32-4cc3-a630-51348ef92b9e.jpg" aspect="1.333" caption="Miners houses at Betteshanger" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8e43ec4c-6f32-4cc3-a630-51348ef92b9e.jpg" aspect="1.333" caption="Miners houses at Betteshanger" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="11" markers="Q29303" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
@@ -51,7 +51,7 @@ Jack described Betteshanger as a ‘much better pit than Snowdown’, but there 
 **Power, community and cultivating self-expression**   
 Jack described union meetings at Betteshanger. ‘A whole maelstrom of factors created the atmosphere’: the Catholic Church, the WEA branch, and there were ‘politics for breakfast, tea and dinner’. Jack became Chair of the WEA Branch for many years. This work focused on ‘understanding power, community, and cultivating the ability to express yourself.’ ‘We never considered ourselves inferior to anyone’. ’We wanted’, he said, ‘union members to be technically educated too’, to be able to negotiate with the bosses from a position of strength. They would attend [Canterbury Technical College](https://kent-maps.online/canterbury/20c-canterbury-education) while 10-14 students would go abroad, every year, say to France to further their political education. There were day  and weekend schools at Ruskin and Baliol Colleges, Oxford. There were links with the miners in Nord Pas de Calais, Sweden, Denmark as well as in every Eastern European country. We can observe in these human, educational and cultural narratives an internationalist educational spirit now largely dissipated in a ‘post-industrial’ world. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/66a7078a-86c2-4c13-ae8a-13ba53f64a66.jpg" aspect="0.75" caption="Kent Coalfied 1905-1989" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/66a7078a-86c2-4c13-ae8a-13ba53f64a66.jpg" aspect="0.75" caption="Kent Coalfied 1905-1989" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="11" markers="Q29303" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
@@ -60,14 +60,14 @@ Arthur Clay belonged to the generation that followed Jack. He was born in Yorksh
 
 Arthur got a job at Betteshanger aged seventeen. ‘I looked up to the Jack Dunns of this world,’ he said. ‘The Mill Hill course was funded by the Miners’ Welfare; there were miners who were extremely well read, and they were always the most significant people in the pit’. Jack Dunn would, in the canteen, ‘often lead the discussion’, Arthur said: ‘information and ideas on politics would be flung around and debated’ (no doubt references to Dante too). But this  was no exercise in ideological propaganda, more a matter of debate, enquiry and a quest for knowledge. There was even an odd royalist in the group, but dialogue continued. Arthur subsequently participated in many educational courses, later becoming a Youth Worker, then an Education Officer for Community Education in Thameside. He returned to Kent on retirement, re-joining the self-same Industrial Relations Class. We glimpse in such stories the search for enlightenment, individually and collectively; alongside turmoil in the 1940s, 60s and 80s. In the 60s the Vietnam War was one preoccupation, with large miner-led demonstrations in Dover, with representatives of the VietCong participating. We get glimpses of the women, too, and changing gender roles. Many mining women were politicised in the 1984 Strike, the feminist resonance of which resounds to this day.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/837bda95-d400-4e3b-913b-b70829ae8967.jpg" aspect="1.333" caption="Betteshanger Colliery" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/837bda95-d400-4e3b-913b-b70829ae8967.jpg" aspect="1.333" caption="Betteshanger Colliery" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q7548600" zoom="11" markers="Q7548600" allmaps="e2c6c2d2160a2c8b~Kent Road Map" %}
 
 **Back to the future**   
 A good place to start to learn more of the history and landscape of Kent mining and miners is to visit the Museum. There are countless artefacts and talking images of some of the men and women of the Kent Coalfield. They talk about pits, lives, struggles, conflict and the  determination to create a better social order. There are books and other references to engage with – see below – helping create a complex portraiture of these communities and their values, over time. But there is a danger and potential sadness too. The pits have closed, and the surviving men and women who helped shape a rich consciousness of life and learning grow old. We can easily fall into enormous condescension from our post-industrial, more individualistic, ecologically troubled perspectives. We should pause for a moment. Echoing the words of the great Labour historian, E.P.Thompson, men and women like these lived through times of change and social as well as economic struggle. In some of their causes we might find insights into social evils which we have yet to cure. And in their determined creation of democratic, economic, cultural and educational institutions that we have largely lost, and need to reinvigorate. To learn from the struggles and resilience of the men and women of the Coalfield can be inspirational in our own struggles for a more sustainable, and democratised world.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b3049a2f-0ece-44cb-a9f6-7d64c533597d.jpg" aspect="1.333" caption="Entrance Gates to the Mining Museum" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b3049a2f-0ece-44cb-a9f6-7d64c533597d.jpg" aspect="1.333" caption="Entrance Gates to the Mining Museum" attribution="Martin Crowther" %}
 
 ### References and further reading
 
@@ -81,5 +81,5 @@ Thompson. E.P. (1963/1991). _The Making of the English Working Class._  Penguin.
 Tyndall, A. (2001) 'Patriotism and Principles. Order 1305 and the Betteshanger Strike.' _Historical Studies in Industrial Relations._ 12, Autumn, 109-30.   
 West, L. (2017) 'Resisting the enormous condescension of posterity: Richard Henry Tawney, Raymond Williams and the long struggle for a democratic education.' _International Journal of Lifelong Education_. 36, 1-2, 12, 129-144.   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/792d1b6f-16d4-47c3-8e1d-8a86b5469678.jpg" aspect="0.75" caption="Miners Statue near the roundabout on the A258" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/792d1b6f-16d4-47c3-8e1d-8a86b5469678.jpg" aspect="0.75" caption="Miners Statue near the roundabout on the A258" attribution="Martin Crowther" %}
 

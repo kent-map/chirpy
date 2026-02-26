@@ -19,12 +19,12 @@ juncture: true
 
 As with [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) in [Broadstairs](dickens-broadstairs) , Dickens's fiction bleeds across the real buildings of Rochester to create new associations. Satis House in Rochester both is and is not an ‘original’ for Miss Havisham’s forbidding domicile in _Great Expectations_, – because there really is a house by this name in the town, but it is not the Satis House of the novel. That distinction belongs to [Restoration House](https://www.restorationhouse.co.uk/the-house) in Crow Lane, just outside the city wall. Dickens’s appropriation of ‘Satis’ (enough) for the scene of Miss Havisham’s immolation, is deeply ironic. But certainly there is no promise of ‘restoration’ and indeed the house is last seen on the eve of its final demolition.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3c4c6ac1-83f5-4506-b071-fa8fb35f90bc.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3c4c6ac1-83f5-4506-b071-fa8fb35f90bc.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
 
 Pip only sees the interior of the house by candlelight, where the wax of the white candles and the flickering light produced by their narrow flames subtly accentuate the faded whiteness of Miss Havisham’s bridal accoutrements. As his eyes adjust to the darkness Pip sees that:
 everything within my view which ought to be white, had been white long ago, and had lost its lustre, and was faded and yellow. I saw that the bride within the bridal dress had withered like the dress, and like the flowers, and had no brightness left but the brightness of her sunken eyes. (Chapter 8)
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/9951b7cc-f35d-493e-ad88-077859ca1919.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9951b7cc-f35d-493e-ad88-077859ca1919.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
 
 Opposite the house is a small park, where today there is a convenient bench with a view of the house. Reading Pip’s account from this vantage point – especially on a fine day – creates a powerful sense of the contrast between light and dark that runs throughout the Satis House scenes. Outside there are grass, a well-kept path and trees, where just a few feet away the narrow windows of Restoration House seem somehow to be looking inwards rather than out into the sunlight.
 
@@ -34,7 +34,7 @@ See also [Mobile Landscapes](dickens/mobile-landscapes)
 
 Looking for somewhere atmospheric to read the novel? Try [The Vines Gardens](https://explorekent.org/activities/the-vines-gardens/)
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/08a01877-5172-46fe-ba14-108ac56bf37b.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/08a01877-5172-46fe-ba14-108ac56bf37b.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
 
 ### Bibliography
 

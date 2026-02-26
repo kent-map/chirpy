@@ -50,7 +50,7 @@ By this time Symons and his family had moved back to London, but they came back 
 
 His own literary interests can glimpsed in the nod to [Dickens]({{ site.baseurl }}/dickens). [David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk) of course makes his way to [Dover]({{ site.baseurl }}/19c/19c-dover/) a few miles along the coast, where he will successfully plead with his aunt to rescue him from the guardianship of Mr Murdstone. Symons had published a book on [Dickens]({{ site.baseurl }}/dickens) in 1951; as a guest on Desert Island Discs many years later he opted for [_Bleak House_]({{ site.baseurl }}/dickens/bleak-house-deal) as his island book.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745.jpg" aspect="0.989" caption="Julian with his family at Barling House" attribution="By kind permission of Christine Symons" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745.jpg" aspect="0.989" caption="Julian with his family at Barling House" attribution="By kind permission of Christine Symons" %}
 
 {% include embed/map.html center="Q1506093" zoom="13" markers="Q1506093" allmaps="6810391d199af2d1~Kent Admin Boundaries 1967" %}
 
@@ -60,7 +60,7 @@ _The Belting Inheritance_ (1965) also speaks to the complexities of the past. Th
 
 Symons once said that ‘My object in writing detective stories is to free myself from the rigours of an ordinary office job’.[^ref16]  They continue to fulfil this role. But like the best of [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), these acutely perceptive novels also have the power to destabilise the reader, jolting us out of our complacency in unexpected ways.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/e90594b9-625d-405a-b920-59069f230d90.jpg" aspect="0.959" caption="Julian at Barling House" attribution="By kind permission of Christine Symons" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/e90594b9-625d-405a-b920-59069f230d90.jpg" aspect="0.959" caption="Julian at Barling House" attribution="By kind permission of Christine Symons" %}
 
 {% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="6810391d199af2d1~Kent Admin Boundaries 1967" %}
 

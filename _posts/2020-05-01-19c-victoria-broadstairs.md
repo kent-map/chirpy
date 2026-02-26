@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Towns & cities, Culture & society ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg
 permalink: /19c/19c-victoria-broadstairs/
 published: true
 toc: false  
@@ -22,11 +22,11 @@ In 1829, The Duchess of Kent rented Pierremont House in [Broadstairs]({{ site.ba
 
 [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) was quieter than the neighbouring towns of [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) and [Margate]({{ site.baseurl }}/19c/19c-margate). It was described in _The house book or, family chronicle of useful knowledge, and cottage physician_ as a resort for "respectable families" who preferred "retirement to the gaiety and bustle of a public place".[^ref4]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/077213e1-ee34-4966-a7eb-64fb7cf89d8d.jpg" aspect="1.4" caption="Map of Broadstairs, 1824" attribution="by kind permission of Broadstairs Dickens Museum" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/077213e1-ee34-4966-a7eb-64fb7cf89d8d.jpg" aspect="1.4" caption="Map of Broadstairs, 1824" attribution="by kind permission of Broadstairs Dickens Museum" %}
 
 The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her young daughter Princess Victoria and the royal entourage. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref5]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3.jpg" aspect="1.383" caption="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin." %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3.jpg" aspect="1.383" caption="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
 The royal presence caused an "unusual demand for houses" in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) that autumn.[^ref6] On 17 August, the residents of Broadstairs celebrated the Duchess of Kent's birthday with triumphal arches and illuminations. His Royal Highness, Prince Leopold visited his sister, the Duchess, and the royal party honoured the town with a visit. Three miles away in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) there were still houses to be let, although there were aristocratic visitors and the Misses Burdett.[^ref7] W.H. Harrison in his book _The Humourist_ (1831) describes the popularity of the seaside towns at this time: "...to go to Brighton, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate), [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), or to any other place whither the industrious bees of the metropolis are wont to swarm, would be to encounter the same eternal round of faces with which I had become sufficiently familiar in London".[^ref8]
 
@@ -34,7 +34,7 @@ The royal presence caused an "unusual demand for houses" in [Broadstairs]({{ sit
 
 Later, Queen Victoria wrote of her childhood: "I was brought up very simply — never had a room to myself till I was nearly grown up — always slept in my Mother's room till I came to the Throne. At Claremont, and in the small houses at the bathing-places, I sat and took my lessons in my Governess's bedroom. I was not fond of learning as a little child — and baffled every attempt to teach me my letters up to 5 years old — when I consented to learn them by their being written down before me."[^ref9] Baroness Lehzen who was her governess, encouraged the young princess to distrust her mother and depend solely on her.[^ref10]. At Pierremont, Princess Victoria had piano lessons in the music room which was detached from the main house and also enjoyed walking along the pier or parade.[^ref11]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2a68391b-9297-4e72-9a29-4c897cdda117.jpg" aspect="1.266" caption="The Pier at Broadstairs" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2a68391b-9297-4e72-9a29-4c897cdda117.jpg" aspect="1.266" caption="The Pier at Broadstairs" attribution="Kent Maps Online" %}
 
 On the 3 November 1829, Victoria and her mother left [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), after a three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy. They travelled to [Eastwell Park](Q2540442), near Ashford, the home of the Earl of Winchelsea.[^ref12]
 
@@ -42,7 +42,7 @@ On the 3 November 1829, Victoria and her mother left [Broadstairs]({{ site.baseu
 
 Four years later, Princess Victoria's aunt, H.R.H. Princess Sophia Matilda of Gloucester rented Pierremont house for the summer. At this period, it was owned by a Scottish gentleman called Edward Fletcher, but by his death in 1846, the house was auctioned off and parts of the estate sold to build new housing.  Princess Sophia rented it again in 1835 and 1838, after the coronation of her niece.[^ref13]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg" aspect="2.222" caption="Pierremont House" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg" aspect="2.222" caption="Pierremont House" attribution="Martin Crowther" %}
 
 In 1835, the Duchess of Kent took Princess Victoria to [Ramsgate]({{ site.baseurl }}/19c/19c-victoria-albion-house) for the season, and the fashionable members of society followed them. _Bell's New Weekly Messenger_ mocked the disappointed Broad-starers who stared at all newcomers "to little or no purpose" and advised them to be "content, for they have the Princess Sophia of Gloucester among them, and the Earls Aylesford and Dartmouth, and several other Midland Lords and Ladies who, wherever they are, always make point of existing unmixed with baser matter."[^ref14] This was a stinging remark aimed at [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), but more specifically at Princess Sophia, whose mother's illegitimacy had created difficulties for her in early life.
 
@@ -52,7 +52,7 @@ Victoria visited Princess Sophia at [Broadstairs]({{ site.baseurl }}/dickens/bro
 
 A year later, she visited her aunt again: 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century)s & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8538611a-a4ed-4003-a5d6-fd5168d378cf.jpg" aspect="1.771" caption="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8538611a-a4ed-4003-a5d6-fd5168d378cf.jpg" aspect="1.771" caption="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther" %}
 
 ### Bibliography
 

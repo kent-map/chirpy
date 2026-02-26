@@ -14,7 +14,7 @@ juncture: true
 
 From the late eighteenth to mid-nineteenth century, prison hulks – ships repurposed as floating jails – were used by the British government over an 80-year period as a cost-saving means to detain convicts awaiting transportation. Thanks to the memorable opening scenes of [Charles Dickens]({{ site.baseurl }}/dickens)’s [_Great Expectations_]({{ site.baseurl }}/dickens/great-expectations-curated-walk) (1861), with the thrilling escape and recapture of convict Abel Magwitch from the misty marshes near [Rochester](Q507517), the reputation of prison hulks as floating hells was set in stone, an image etched on public memory. Narrator Pip, transfixed with horror when he encountered the ghostly ships, remarked: ‘By the light of the torches, we saw the black Hulk lying out a little way from the mud of the shore, like a wicked Noah’s ark.’[^ref1] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6de122bc-82a4-438d-9e33-72f809fe8e5e.jpg" aspect="0.684" caption="Magwitch meets Pip in Cooling Churchyard" attribution="Great Expectations illustration" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6de122bc-82a4-438d-9e33-72f809fe8e5e.jpg" aspect="0.684" caption="Magwitch meets Pip in Cooling Churchyard" attribution="Great Expectations illustration" %}
 
 {% include embed/map.html center="Q507517" zoom="12" markers="Q507517" allmaps="9a62ace9300b7b2e~Kent Ordnance Survey 1822" %}
 

@@ -62,7 +62,7 @@ She is equally conscientious about recording the flowers she finds, remarking so
 
 Mrs Shore appears not to have shared this fascination with the natural features of [Thanet](Q1752642), her only recorded comment on [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) being that ‘it has not enough company to make it lively, but it has too much to make it retired.’[^ref5] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c5128fb0-fda9-44dc-adda-4573ed973526.jpg" aspect="1.339" caption="Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c5128fb0-fda9-44dc-adda-4573ed973526.jpg" aspect="1.339" caption="Broadstairs" %}
 
 {% include embed/map.html center="Q1752642" zoom="12" markers="Q1752642" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
@@ -70,7 +70,7 @@ Mrs Shore appears not to have shared this fascination with the natural features 
 
 She may have preferred [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate), described by Emily as ‘a large and rather handsome town, with a noble harbour and a great deal of shipping’[^ref6]  and where they went to see the printing going on at Burgess’s Library. Again Emily gives a long and detailed description of the process, from the wooden compartments containing letters, which she notes ‘are not arranged alphabetically, but according as they are most wanted, to the ‘roller, composed of glue, isinglass, and some other elastic materials’ used to ink the types which are then pressed on to the paper.[^ref7] On her return home Emily expended time and money on pasteboard and paints to make a model of the [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) steam-packet, which she furnished and painted in punctilious detail. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c7983b3e-e756-442c-81ad-5a75c9941c5f.jpg" aspect="1.448" caption="Ramsgate, 1830" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c7983b3e-e756-442c-81ad-5a75c9941c5f.jpg" aspect="1.448" caption="Ramsgate, 1830" %}
 
 {% include embed/map.html center="Q1752642" zoom="12" markers="Q1752642" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
@@ -80,7 +80,7 @@ She may have preferred [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate), desc
 
 It comes as no surprise to find her back in Kent in 1835, eagerly following the work going on in [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard), from the hammering of the fluke of an anchor to the steam-engine in the suffocatingly hot saw-room. She comments too on a visit to Cobham Hall and the sentimental story of the widowed heron who ‘used to walk for hours before the windows of the orange-house, looking at itself in the glass.’[^ref9]  But it is the machinery rather than the tame bird that has captured her imagination, and the dockyard that features as ‘perhaps the most interesting and wonderful place I have seen since I left Woodbury’.[^ref9]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f04e222b-2912-487e-8194-b1a6e24c51c1.jpg" aspect="1.526" caption="Chatham Dockyard" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f04e222b-2912-487e-8194-b1a6e24c51c1.jpg" aspect="1.526" caption="Chatham Dockyard" %}
 
 {% include embed/map.html center="Q1068204" zoom="12" markers="Q1068204" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 

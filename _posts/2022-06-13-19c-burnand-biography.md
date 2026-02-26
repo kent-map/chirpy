@@ -14,7 +14,7 @@ juncture: true
 
 Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ during their five years in Bermuda, which her mother read word for word.[^ref2]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/921dbaac-faac-4fcc-bb1f-4da1329f58cf.jpg" aspect="1.385" caption="Hythe School of Musketry" attribution="Invicta Album of Hythe" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/921dbaac-faac-4fcc-bb1f-4da1329f58cf.jpg" aspect="1.385" caption="Hythe School of Musketry" attribution="Invicta Album of Hythe" %}
 
 {% include embed/map.html center="Q3487141" zoom="10.5" markers="Q3487141" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
@@ -26,7 +26,7 @@ By 1881, the family had settled in [Dover]({{ site.baseurl }}/19c/19c-dover/) at
 
 When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover]({{ site.baseurl }}/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/be2d7a73-d2b3-4188-8d40-1a76523fa117.jpg" aspect="0.75" caption="Ward Lock Dover" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/be2d7a73-d2b3-4188-8d40-1a76523fa117.jpg" aspect="0.75" caption="Ward Lock Dover" %}
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
@@ -78,7 +78,7 @@ After the war, Albert took on clerical work in Malcolm Hilbery’s Chambers in H
 
 In the later years of her life, May was often strapped for cash and begged Richard for money. In 1938, she reported a theft of a mink coat, fox furs, squirrel coats and a diamond and platinum bracelet from her car[^ref30] and in 1939 she made an application to the Literary Fund for money.[^ref31] In 1946 Richard wrote to his brother Tony: 'I have had a hideous grouse from Mother on the usual trouble. Netta who is probably sound, says she is just trying to get some dibs out of me to go pub-crawling behind your back. Well, old boy, I leave it to you. Take any money of mine you need to make the old girl comfortable, but protect yourself from the horrid results of her convivial habits.'[^ref32] She died on the 20th March, 1954. Her address was the Watchbell House, [Rye](Q1020800), Sussex, temporarily of the Temperance Hotel, [Tenterden](Q614560). Kent.[^ref33]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/73d992a1-2758-4f9d-903a-bd75d7768f9b.jpg" aspect="1.586" caption="Temperance Hotel, Tenterden by kind permission of Tenterden Museum" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/73d992a1-2758-4f9d-903a-bd75d7768f9b.jpg" aspect="1.586" caption="Temperance Hotel, Tenterden by kind permission of Tenterden Museum" %}
 
 ### References
 

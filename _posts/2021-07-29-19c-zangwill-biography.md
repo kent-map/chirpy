@@ -32,13 +32,13 @@ As an adult Zangwill was less enraptured with the town; in ‘Without Prejudice�
 
 'Stand on [Margate]({{ site.baseurl }}/19c/19c-margate) Parade and look seaward, and the main impression is Beecham’s Pills. Sail towards Margate Pier and look landward, and the main impression is Jeyes’ Disinfectant Powder.'[^ref4]  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/13b9cf96-8fcb-4df0-8491-9049ae7450fc.jpg" aspect="1.327" caption="Margate Parade c. 180" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/13b9cf96-8fcb-4df0-8491-9049ae7450fc.jpg" aspect="1.327" caption="Margate Parade c. 180" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
 {% include embed/map.html center="Q2779399" zoom="12" markers="Q2779399" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Zangwill memorably observed that 'in [Margate]({{ site.baseurl }}/19c/19c-margate) and [Deal]({{ site.baseurl }}/seascape/deal) the machines are of either sex, and the gentlemen are clad in coloured pocket-handkerchiefs'. He was however taken with [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), ‘where [Dickens]({{ site.baseurl }}/dickens/dickens-biography) might still look from [Bleak House]({{ site.baseurl }}/dickens/dickens-fort-house) on as dainty a scene as in the days when he lounged on the dear old, black, weather-beaten pier.’[^ref5]  Zangwill was there in July 1893 when a mysterious delivery of dynamite to a summer visitor, one Mr Richards, caused the death of the man and injured the builder constructing his new house.[^ref6]  In true Dickensian style, Zangwill’s account of this incident positions the writer as honorary local (completely ignoring the fate of the hapless Mr Richards), ‘We were very proud of the Mystery, we of Broadstairs, and of the space we filled in the papers.’[^ref7] In [Folkestone]({{ site.baseurl }}/19c/19c-folkestone), which had proved too 'genteel' for [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) when he visited with [Robert Barr]({{ site.baseurl }}/19c/19c-barr-biography),‘the machine-people are dreadfully set against ladies and gentlemen using the same water, promiscuous bathing flourishes more nakedly than anywhere on the Continent; and the gentlemen have neither tents nor costumes.’[^ref8]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/09e1b362-e980-44dd-947b-801070eb499e.jpg" aspect="1.503" caption="Beach and View showing Bleak House, Broadstairs" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/09e1b362-e980-44dd-947b-801070eb499e.jpg" aspect="1.503" caption="Beach and View showing Bleak House, Broadstairs" attribution="Kent Maps Online" %}
 
 {% include embed/map.html center="Q632173" zoom="10" markers="Q632173" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 

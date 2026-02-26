@@ -26,7 +26,7 @@ Baron's conversion to Protestant Christianity occurred under the guidance of the
 After his non-conformist ordination in 1855 and years of work across England, Wilkinson resigned his membership of the Society in 1876 and founded the Mildmay Mission to the Jews.[^ref4]
 Through this endeavour, which spanned the length and breadth of Britain, he would meet Baron, introduced by a mutual acquaintance.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
 
 {% include embed/map.html center="Q179224" zoom="15" markers="Q179224" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
@@ -58,6 +58,6 @@ By 1891 Baron had begun to spend more time abroad on long missionary journeys ac
 [^ref8]: The Dover Chronicle (1884) ‘The Lord In Waiting’, 12 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004083/18840712/056/0005    
 [^ref9]: [Isle of Thanet](Q590422) Gazette (1888) ‘Keble’s Gazette’, 21 July. Available at: https://www.britishnewspaperarchive.co.uk/viewer/bl/0004717/18880721/005/0005   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
 
 {% include embed/map.html center="Q179224" zoom="15" markers="Q179224" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}

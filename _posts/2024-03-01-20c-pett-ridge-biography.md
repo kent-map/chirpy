@@ -55,7 +55,7 @@ His novels include small vignettes of Kentish life which reflect his knowledge o
 
 'It is the ingenious habit of Kentish railways directly that [hop-picking]({{ site.baseurl }}/landscape//landscape/20c-encounters-with-others/) is over and pay-day is done, to advertise excursions to London at a fare so cheap that not to take advantage of it were to discourage Providence in its attempts to make the world pleasant.  Country folk, who make but one visit a year to town, seize this September opportunity; some avail themselves not only of this but of the Cattle Show trip later on; a few also take the pantomime excursion in February, and these are counted in quiet villages as being, by frequent contact with town, blades of the finest temper, to whom (if they would but be candid) no mysteries of the great town are unknown'.[^ref14]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/335d901a-8416-4356-8a12-1607c997a9a2.jpg" aspect="1.586" caption="Hop-picking" attribution="C. Essenhigh Corke, 1906, J. Salmon, Sevenoaks" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/335d901a-8416-4356-8a12-1607c997a9a2.jpg" aspect="1.586" caption="Hop-picking" attribution="C. Essenhigh Corke, 1906, J. Salmon, Sevenoaks" %}
 
 In another novel, _Table d’hote_ (1910), a coach driver is described trying to convince one of his passengers to take an inside seat, by recounting a tale of a gentleman who had frozen stiff whilst sitting on the outside box-seat. When the coach driver claims that hop driers tried to revive the frozen man in an oast house oven, the passenger exclaims disbelievingly 'Hops in December?'[^ref15]
 

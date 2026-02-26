@@ -17,7 +17,7 @@ juncture: true
 
 Sandgate, a coastal village near the outskirts of [Folkestone](Q375314), has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/04780929-4966-4142-b325-12a69d7ab094.jpg" aspect="0.761" caption="English's Guide to Folkestone, Sandgate, Hythe" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/04780929-4966-4142-b325-12a69d7ab094.jpg" aspect="0.761" caption="English's Guide to Folkestone, Sandgate, Hythe" %}
 
 {% include embed/map.html center="Q1000312" zoom="11.5" markers="Q1000312" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
@@ -55,7 +55,7 @@ The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farlei
 
 [Florence Warden]( https://kent-maps.online/19c/19c-florence-warden-biography/) former actress turned writer spent some time here at the same period.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/071a49ae-7ac8-4b59-94ba-d7fdce39f57c.jpg" aspect="1.604" caption="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/071a49ae-7ac8-4b59-94ba-d7fdce39f57c.jpg" aspect="1.604" caption="1st Royal Scots Regt. at the Shorncliffe Barracks" attribution="Kent Maps Online Postcard Collection" %}
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref10]  His novel _The Sea Lady_ is set in Sandgate.
 
@@ -67,7 +67,7 @@ Author [Jocelyn Brooke]({{ site.baseurl }}/20c/20c-brooke-biography) who was bor
 
 The Chaplain of Eversley School, Sandgate, [John Ferguson]({{ site.baseurl }}/20c/20c-ferguson-biography/) wrote _Campbell of Kilmhor_ (1915), _Stealthy Terror_ (1918), _The King of Morven_ (1922), _The Secret Road_ (1925), _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930) whilst working at the school.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4cee51d5-7884-4217-9dda-d92840561842.jpg" aspect="1.333" caption="Home of Bithia Croker" attribution="Photographed by Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4cee51d5-7884-4217-9dda-d92840561842.jpg" aspect="1.333" caption="Home of Bithia Croker" attribution="Photographed by Martin Crowther" %}
 
 ### References
 

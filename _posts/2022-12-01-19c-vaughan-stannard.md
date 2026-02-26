@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2022-12-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Culture & society, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/43be2313-69a2-4436-8db8-978f300d40bb.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/43be2313-69a2-4436-8db8-978f300d40bb.jpg
 permalink: /19c/19c-vaughan-stannard/
 published: true
 toc: false  
@@ -15,11 +15,11 @@ juncture: true
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d950857f-269b-47fe-b42a-cc488f3eccd7.jpg" aspect="0.633" caption="John Strange Winter" attribution="Photo London Stereo" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d950857f-269b-47fe-b42a-cc488f3eccd7.jpg" aspect="0.633" caption="John Strange Winter" attribution="Photo London Stereo" %}
 
 Like [Edith Katherine Spicer Jay]({{ site.baseurl }}/19c/19c-spicer-jay-biography/), Stannard wrote tales of cavalry life under a male pseudonym. Her publisher had advised her that if her collection of stories about cavalry life was known to be the work of a woman, it would 'prejudice its success'.[^ref1]  However, when she was invited to a fish dinner in Greenwich by the editor of the _Cornhill Magazine_, she revealed her gender by saying that as 'J.S.Winter' was of the sex requiring chaperones, she must decline the invitation.[^ref2] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d81bfebe-fff3-4d22-bbbf-580b351260ea.jpg" aspect="0.666" caption="Army Society" attribution="Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d81bfebe-fff3-4d22-bbbf-580b351260ea.jpg" aspect="0.666" caption="Army Society" attribution="Augustine House Library, Canterbury Christ Church University" %}
 
 After the success of her first novel, Henrietta continued to write military tales, including the popular novel _Bootles Baby_ (1885) which sold two million copies within the first ten years of its publication and was adapted for stage. It was at around this time that she attracted the admiration of the writer and art critic, John Ruskin. Henrietta had written to Ruskin thanking him for a lecture which he had given which had inspired a 'thoroughness' in her writing. (She had rewritten _Bootles Baby_ nine times before she was satisfied with it).[^ref3]  On reading the letter, Ruskin invited Henrietta with her husband Arthur, to visit him in [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview) where he was staying in 1887. 
 
@@ -33,35 +33,35 @@ During the Stannards' visit, Ruskin, who was suffering from depression, became a
 
 It was at this period that Stannard conceived the idea of editing her own journal and in 1891, she embarked on the 'treacherous and adventuresome' enterprise of establishing _Golden Gates_ a penny weekly magazine. Its name was later changed to _Winter's Weekly_ as some felt the former name too religious in tone.[^ref7] The magazine proved to be a financial burden on the family. Her husband Arthur said: 'we lost heavily over the weekly magazine which we started in 1891. We kept it going for four years, and it was just beginning to turn the corner and pay us when in 1895 my health broke down.'[^ref8] However, it was not only Arthur who was suffering from ill-health;  in January 1893, Stannard revealed to her readers that she had rheumatic pains in her knees in an advertisement for an 'electropoise'.[^ref9] She wrote: 'since June I have suffered agony steadily getting worse and worse, so that I have to slide out of a carriage or railway compartment.'[^ref10]  The “electropoise” also helped her 4 year old daughter Violet who: 'did not recover very well after diphtheria, and was nervous, irritable and fretful.'[^ref11] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0e2b3f56-5520-4a26-8802-57d5b0c0f890.jpg" aspect="0.759" caption="Golden Gates" attribution="Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0e2b3f56-5520-4a26-8802-57d5b0c0f890.jpg" aspect="0.759" caption="Golden Gates" attribution="Augustine House Library, Canterbury Christ Church University" %}
 
 It is not certain whether her interest in product endorsement was financial or reflected her anxieties about her own health and that of her family. In March 1893, Stannard renewed her endorsement of the 'electropoise' telling her readers that her words were not an 'advertisement puff' as she would not promote any product in which she did not believe. She argued: 'A moment’s thought should convince anyone that it would be simply ruin to my reputation if any advertiser could truthfully say that my good word had been purchased! I am not yet a “John Strange How- Much!"[^ref12]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b8aab819-9eb5-46bf-bcdc-e0aa9d757404.jpg" aspect="0.746" caption="John Strange Winter" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b8aab819-9eb5-46bf-bcdc-e0aa9d757404.jpg" aspect="0.746" caption="John Strange Winter" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University" %}
 
 Nevertheless, family finances were unravelling at this period. Up until 1892, the Stannards had spent their summers at The White House, Wix, Manningtree, Essex, a sizable house with three sitting rooms, nine bedrooms, conservatory, garden, stabling and 200 acres of shooting. On March 7th 1893, Stannard wrote to Leonard Phillips telling him that 'she was very far from well' adding that she was 'not sure the future may see me worse before better' and saying that she was going to 'spend the summer by the sea in comparative idleness'.[^ref13] The place that the couple chose was Montague House, [Birchington](Q865021) on Sea, a much smaller house (an advertisement for the house in 1888 describes it as having six bedrooms, three reception rooms and a bathroom and 'the usual domestic offices.')[^ref14]  It is possible that the Stannards had to cut their cloth to suit their means and could no longer afford to lease the house at Wix due to the losses they incurred on _Golden Gates_. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0ab7bc90-bb7a-4722-9357-bd608020dbd4.jpg" aspect="0.812" caption="Letter to Mr Phillips, 7 March 1893" attribution="Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0ab7bc90-bb7a-4722-9357-bd608020dbd4.jpg" aspect="0.812" caption="Letter to Mr Phillips, 7 March 1893" attribution="Augustine House Library, Canterbury Christ Church University" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 The Stannards may also have been avoiding Essex for other reasons. Henrietta had been sued by an Ipswich tailor for £11 11s 'being £5 5s for a superfine grey montana jacket with silk sleeves, trimmed a la militaire and £6 6s for a superfine grey montana costume complete, braided in black'[^ref15] which she had refused to pay for. She claimed that the clothes did not fit, but the judge ruled that she should have given the tailor the opportunity to make alterations.  The report of the court case which appeared in the _East Anglian Daily Times_ in February 1892, ran to three and a half columns and portrayed Henrietta as bad-tempered and difficult.[^ref16] Although the family still visited in the summer of 1892, this was possibly their last visit. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/677f33d5-f0b4-4da5-a73e-a1c4c44f7853.jpg" aspect="0.78" caption="Winter's Weekly" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/677f33d5-f0b4-4da5-a73e-a1c4c44f7853.jpg" aspect="0.78" caption="Winter's Weekly" attribution="Golden Gates, Augustine House Library, Canterbury Christ Church University" %}
 
 Mrs Charlotte Talbot Coke, a fellow Yorkshire woman, an army wife, and contributor to _Winter’s Weekly_  may have recommended Birchington-on-Sea to Henrietta. Talbot Coke had visited Birchington in 1891[^ref17] and this had inspired her to think about buying a seaside cottage where she might entertain guests and give 'change and rest (rent free) to friends unable to afford seaside jaunts'.[^ref18]  Whether she did or not is uncertain, but she returns to this theme in later articles as she describes ideas for decorating a seaside home. What is known is that Stannard and Coke were working together on _Hearth and Home_ magazine, which was launched in May 1891. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/15f9c416-969a-4d55-bf7a-bdea6a14b886.jpg" aspect="1.597" caption="Birchington on Sea, The Square" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/15f9c416-969a-4d55-bf7a-bdea6a14b886.jpg" aspect="1.597" caption="Birchington on Sea, The Square" %}
 
 Expressing the hope that the bracing air would improve the health of her husband Arthur and eldest daughter Audrey (known as Beaufie), Stannard took her family to Birchington in the summer of 1893.   The air at 'Bungalow Birchington' as it was nicknamed was said to be beneficial for those suffering with 'exhausted nerves' as it was more sheltered than places like [Margate]({{ site.baseurl }}/19c/19c-margate) and [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) which were 'charged with the southerly breezes that sweep round the head of Thanet.'[^ref19]  The air was certainly bracing, but the stench of the seaweed 'was an objectionable drawback' which poisoned the air 'with a potency suggestive of typhoid fever or other miasma'[^ref20]. [Dante Gabriel Rossetti]({{ site.baseurl }}/19c/19c-rossetti-biography) had stayed for a few months at Westcliff Bungalow in 1882 to convalesce, after a seizure, but had died whilst staying there.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/09022d7a-17ba-48e8-8429-10f7fcbb6a46.jpg" aspect="1.621" caption="The Cliffs and Bungalows, Birchington-on-sea" attribution="T. Pointer, Stationer, Birchington on Sea c.1909" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/09022d7a-17ba-48e8-8429-10f7fcbb6a46.jpg" aspect="1.621" caption="The Cliffs and Bungalows, Birchington-on-sea" attribution="T. Pointer, Stationer, Birchington on Sea c.1909" %}
 
 {% include embed/map.html center="Q5458845" zoom="12" markers="Q5458845" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 It is possible that it was Henrietta whose nerves were frayed, rather than those of her family, as her relentless campaigns to attract new readers to _Winter's Weekly_ were failing. In July 1893 she had offered to post out the magazine free of charge for three months for anyone who could attract two new subscribers.[^ref21] During that summer, Henrietta took a break from editing _Winter’s Weekly_, resuming the editorship in August. Later that year, she endorsed Bromo-Phosph, the new brain food. She reveals 'Had I been in town I should have gone to Dr Maitland King, who did so marvellously for my nerves a few months ago, but I was simply unable to spare the necessary time, being very much pressed with work'.[^ref22]  She also fed it to her family, who 'felt better for it'.[^ref23]  Mrs [Dr] Maitland King who later wrote _The Hygeine of Womanhood_ was a specialist in obesity and nervous depression, using electricity, baths and diet in her treatment. She advocated that 'rest is most essential in middle life'.[^ref24] As the main bread-winner of the family (Arthur had given up engineering to manage his wife's literary career), Henrietta may have felt the additional burden of the failure of _Winter's Weekly_. The sea air of Birchington may have been the panacea she needed.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/90dec603-da6e-4bfb-af83-aad7f0d6e85d.jpg" aspect="2.219" caption="Birchington showing Montague House" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/90dec603-da6e-4bfb-af83-aad7f0d6e85d.jpg" aspect="2.219" caption="Birchington showing Montague House" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
@@ -71,19 +71,19 @@ The stay in Birchington stretched into the autumn. In late September 1893, Henri
 
 She employed two governesses to help with the children.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1488a0b4-bf41-44dd-8938-d70ecfd17ea4.jpg" aspect="0.563" caption="Montague House, Birchington" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1488a0b4-bf41-44dd-8938-d70ecfd17ea4.jpg" aspect="0.563" caption="Montague House, Birchington" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Summers in Birchington enabled Stannard to take advantage of the regular train service to London, in order to keep up her social engagements. In May 1894, she chaired a meeting to discuss establishing a Women's Educational and Industrial Union in London and attended a house warming at the Pioneer Club.[^ref28] The following month, she was described as 'looking extremely well' at the Author's Club house warming. She also met Frances Hodgson Burnett at the invitation of Mrs Douglas Sladen[^ref29] accompanied by the American novelist William Nathaniel Harben and her husband Arthur.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/53a636b7-822e-4430-bb05-b26f9936675a.jpg" aspect="1.599" caption="Birchington Promenade" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/53a636b7-822e-4430-bb05-b26f9936675a.jpg" aspect="1.599" caption="Birchington Promenade" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 By September 1894, Stannard had written a farewell to her _Winter Weekly_ readers, pleading ill health and the editorship was handed over to Florence White. Nevertheless, despite her continuing health problems, Henrietta was still able to keep her name in the public eye during the winter of 1894 and gave an interview to reporters in Pwllheli promoting her latest book. In a newspaper article in October 1894 she is described as 'John Strange Winter only from the commencement of the day until three o’clock in the afternoon: the rest of her time is given to husband, children and friends. This rule has few exceptions, for she carries it out most faithfully throughout the entire summer in her country house at Wix, the cosiest little village in Essex.'[^ref30] Interestingly,  Wix and not Birchington is described as her summer retreat - a journalistic error perhaps or maybe Stannard wanted to gloss over her slightly unfashionable seaside retreat.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5ad48cf0-6ebb-4318-826d-d1528d989ced.jpg" aspect="1.776" caption="Birchington-on-Sea" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/5ad48cf0-6ebb-4318-826d-d1528d989ced.jpg" aspect="1.776" caption="Birchington-on-Sea" attribution="Michelle Crowther" %}
 
 In February 1895, Stannard was on top form, enjoying her life in London. She was described as an 'entertaining raconteuse” at a charity event at the Mansion House. 'For about twenty minutes she kept her hearers in continuous laughter'.[^ref31] Two months later, however it is reported in the newspapers that:
 
@@ -95,7 +95,7 @@ In _The Queen_ in November 1895, a reviewer praised Stannard for her novel _I ma
 
 'I am told that this is the first work she did at Birchington this year, when she was full of exhilaration and buoyancy at the thought that she had seen the last of depressing and much hated Merton'[^ref34]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a78455f0-f0a9-4503-9462-be94921420fa.jpg" aspect="1.776" caption="View from Montague House" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a78455f0-f0a9-4503-9462-be94921420fa.jpg" aspect="1.776" caption="View from Montague House" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
@@ -105,7 +105,7 @@ The journalist and social reformer, Florence Fenwick Miller describes meeting St
 
 After the birth of Olive Nancy On the 22 September 1895, Stannard was keen to return to London.  She had just completed _The Strange Story of My Life_ which she had dedicated to Nancy "who was born on the day on which this story was finished".[^ref36] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/baec0d65-caac-4d4b-a012-21cca9635219.jpg" aspect="2.219" caption="Montague House, Birchington" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/baec0d65-caac-4d4b-a012-21cca9635219.jpg" aspect="2.219" caption="Montague House, Birchington" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q865021" zoom="12" markers="Q865021" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 

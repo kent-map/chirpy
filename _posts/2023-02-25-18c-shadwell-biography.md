@@ -16,7 +16,7 @@ juncture: true
 
 GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality" - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ff1d90fe-ce99-46f4-af0a-657279e644f4.jpg" aspect="1.333" caption="Deal" attribution="18th century map of Kent, Augustine House Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ff1d90fe-ce99-46f4-af0a-657279e644f4.jpg" aspect="1.333" caption="Deal" attribution="18th century map of Kent, Augustine House Library" %}
 
 Little is known about Charles Shadwell’s birth or childhood, but it is most likely that he was born at Chelsea, the son of Thomas Shadwell (c.1640–1692), playwright, poet laureate and historiographer and the celebrated Restoration actor Anne Gibbs.  Thomas and Anne married sometime between 1663 and 1664 and had at least 4 children between 1671 and 1686 so Charles’s birth dates to this period. Some scholars have disputed Charles's parentage, believing him to be Thomas Shadwell's nephew, but the prologue to Charles's play _The Fair Quaker of Deal_ states: 'From a famed stock our tender scyon grows, and may be laureate too himself, who knows?' suggesting otherwise.[^ref2]
 
@@ -40,7 +40,7 @@ It is uncertain where Charles received his education but his father, Thomas was 
 
 By 1710, Charles had become the supervisor of the excise in Kent. It is not certain how long he was in the county but a Charles Shadwell married Amy Power at Dover St James the Apostle on 20 August 1704, which was the church used by the army at this period.[^ref12] As French and Spanish prisoners from the War of the Spanish Succession were imprisoned at Dover castle, it is possible that Charles could have been stationed here with his regiment.  It was during this time (c.1707) that he wrote his first play _The Fair Quaker of Deal_ which he dedicated to his friends of Kent.[^ref13]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/61b0ad16-e1c3-4ca6-a46b-7a19100e9ede.jpg" aspect="1.362" caption="The principal gate or entrance of Dover Castle" attribution="By kind permission of Marrin Books" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/61b0ad16-e1c3-4ca6-a46b-7a19100e9ede.jpg" aspect="1.362" caption="The principal gate or entrance of Dover Castle" attribution="By kind permission of Marrin Books" %}
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}
 

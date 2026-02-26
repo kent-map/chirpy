@@ -26,13 +26,13 @@ In 1834, the same singers joined the Ashford Catch and Glee Club in a meeting at
 
 They returned to Ashford — with more of the Canterbury men — in April to round off their season. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8e56adef-dbd6-4bcb-96f7-2ffa0587b398.jpg" aspect="1.468" caption="Ashford Market Day, High Street 1830" attribution="George Shepherd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8e56adef-dbd6-4bcb-96f7-2ffa0587b398.jpg" aspect="1.468" caption="Ashford Market Day, High Street 1830" attribution="George Shepherd" %}
 
 {% include embed/map.html center="Q725261" zoom="13" markers="Q725261" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
 The [Catch Club](https://www.youtube.com/watch?reload=9&v=dbKAb18w72c&t=11s) was not the only purveyor of convivial music at this time, and the musicians showed no favouritism when their talents were sought: familiar names crop up, for example, in a report of an Apollonian Catch Club meeting in April 1834. It is the only reference to identify Dobson as a bass, and it is also noteworthy for the piano and harp duet performed by the young Masters Longhurst and Mount: ‘a surprisingly clever performance for so young hands.’ This prompted the unexpected celebrity visitor, ‘Mr Hart, the celebrated quadrille composer,’ (Joseph Binns Hart, 1794-1844) to congratulate the company. According to the report he ‘concluded thus: ‘Proud am I to say, that while juvenile talent is so fostered as it appears to be here, Englishmen will never have cause to fear the invasion of any foreigners.’ He then delighted the company by performing ‘God Save the King,’ with variations, on the pianoforte, and amused a numerous company to a very late hour.’  The conviction that invasion by a foreign foe may be deterred with a piano and harp duet probably owes more to the convivial temper of the evening than any historical evidence, but the alacrity with which a provincial musical club may prompt an evocation of national moral fibre is interesting, as is the fact that the traffic of musical personalities was not all one-way: Canterbury attracted musicians from outside the city besides sharing its own with the locality.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fb97b8a2-50de-4cae-b35b-7aedb06de42b.jpg" aspect="1.667" caption="Canterbury street, from A Walk In and About the City of Canterbury, 1825" attribution="William Gostling" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fb97b8a2-50de-4cae-b35b-7aedb06de42b.jpg" aspect="1.667" caption="Canterbury street, from A Walk In and About the City of Canterbury, 1825" attribution="William Gostling" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 

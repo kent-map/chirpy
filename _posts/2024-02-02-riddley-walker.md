@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2024-02-02
 categories: [ landscape ]
 tags: [ Literary places, Texts & genres, Maps & place-making, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/722ee74c-ffcd-41f4-b25d-668fed8be471.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/722ee74c-ffcd-41f4-b25d-668fed8be471.jpg
 permalink: /landscape/riddley-walker/
 published: true
 toc: false  
@@ -24,7 +24,7 @@ Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his 
 
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]” 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/dd5d9724-2e6a-4d52-9f74-d5d29db02db6.jpg" aspect="1.286" caption="A post-apocalyptic landscape with just blackened trees, rocks and scorched earth" attribution="Firefly AI" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/dd5d9724-2e6a-4d52-9f74-d5d29db02db6.jpg" aspect="1.286" caption="A post-apocalyptic landscape with just blackened trees, rocks and scorched earth" attribution="Firefly AI" %}
 
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is now a tidal estuary as far inland as ‘Cambry’ ([Canterbury](Q29303)), the [Isle of Thanet](Q590422) is once again a real island (named the ‘The Ram’ after the town of Ramsgate), and the far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century position and outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras. 
 

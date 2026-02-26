@@ -14,7 +14,7 @@ juncture: true
 
 Kentish prisons, like those in many English counties, include establishments that date to the early nineteenth century. [Canterbury Prison]({{ site.baseurl }}/19c/19c-canterbury-gaol/) - recently redeveloped as part of [Canterbury Christ Church University’s](https://www.canterbury.ac.uk/) campus - opened in 1808, and [Maidstone Prison]({{ site.baseurl }}/19c/19c-convicts-maidstone) which remains in use today, a decade later, both replaced older jails. Another part of Kent’s penal legacy is its role in the domestic convict system that replaced transportation. The origins of this system can be traced to the decommissioned warships known as [hulks]({{ site.baseurl }}/prisons/convict-hulks), which, moored on the Thames and along the South Coast, served as floating prisons from the Napoleonic era until the 1850s. There were hulks on the River Medway’s estuary at Sheerness, and at Chatham where, as a boy, [Charles Dickens]({{ site.baseurl }}/dickens/dickens-chatham) would have witnessed convicts working on the docks; in the famous encounter between Pip and the convict Abel Magwitch in _[Great Expectations]({{ site.baseurl }}/dickens/great-expectations-curated-walk)_ (set in 1812), the latter has escaped from a hulk moored on Kent’s coastal marshes. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/04b07dbb-e3b2-43d8-b9b3-265e9cff8737.jpg" aspect="0.75" caption="Canterbury Prison" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/04b07dbb-e3b2-43d8-b9b3-265e9cff8737.jpg" aspect="0.75" caption="Canterbury Prison" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q2691555" zoom="10" markers="Q2691555" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
@@ -38,7 +38,7 @@ The location of the new prisons was determined by the projects upon which convic
 
 In the meantime, work began in 1874 on a much smaller convict prison at the village of Borstal, near Rochester, where the War Department planned to construct hill fortifications. It was built entirely by convicts, who were marched there daily from [Chatham]({{ site.baseurl }}/19c/19c-convicts-chatham) until they had erected a block of forty cells, into which they then moved in order to build the rest of the prison. Today it remains in use as HMYOI Rochester. As Borstal Convict Prison, it became famous for a reformatory regime for youths aged between 16 and 21, developed there during the early years of the twentieth century, giving a generic name to a new institution – the borstal - to which this regime was extended after 1908. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/947750e4-99c1-4ab8-94a5-1cea68295001.jpg" aspect="0.651" caption="Report of the Directors of Convict Prisons on the Discipline and Management" attribution="No known copyright" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/947750e4-99c1-4ab8-94a5-1cea68295001.jpg" aspect="0.651" caption="Report of the Directors of Convict Prisons on the Discipline and Management" attribution="No known copyright" %}
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 

@@ -17,7 +17,7 @@ juncture: true
 
 English writer Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent in South East England. In childhood and adolescence, she spent formative years in the village of [Halstead]({{ site.baseurl }}/nesbit/nesbit-halstead), in the [Sevenoaks](Q939838) District of Kent. It was there that she began writing poetry, and she was living there when her work was published for the first time. Several of her best-loved stories for children, including _The Wouldbegoods_ and _The Phoenix and the Carpet_, include descriptions of her childhood home. Although she left in her late teens, she never lost her love of the village and its beautiful surroundings, and she returned there to take woodland walks year after year.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f3df3254-575f-4f32-ae8b-198c806e9d50.jpg" aspect="1.54" caption="Kent" attribution="John Salmon Postcards" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3df3254-575f-4f32-ae8b-198c806e9d50.jpg" aspect="1.54" caption="Kent" attribution="John Salmon Postcards" %}
 
 {% include embed/map.html center="Q2035885" zoom="13" markers="Q2035885" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 

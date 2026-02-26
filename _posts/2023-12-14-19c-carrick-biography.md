@@ -29,7 +29,7 @@ In 1870, his poetry anthology _Poems: serious, humorous, and satirical_ was publ
 
 Despite his enthusiastic dedication to poetry, Carrick's verses are fairly lack-lustre - carefully constructed with bland clichés and over-used abstractions, pontificating on 'glory', 'beauty' and 'delight'. His 'Reflections on the Glorious Monuments of Canterbury Cathedral' lacks specifics and could describe any cathedral setting as he hyperbolizes generalities of bravery and beauty. Yet despite the inauthenticity of his content, his choice of topics reveal the concerns of the day - 'The Widow and Orphans', 'Dignified Hypocrisy', 'The Impenitent Thief', 'Glorious Songsters', 'Bad Conduct in Church', 'Small Boys of the Period', 'Street Brawlers' and 'Drunkards'.[^ref10] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419.jpg" aspect="1.444" caption="The Nave, Canterbury Cathedral" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fcfcc4e8-e753-4294-9ec1-bf5ee7e56419.jpg" aspect="1.444" caption="The Nave, Canterbury Cathedral" attribution="Kent Maps Online Collection" %}
 
 In his 'Reflections in [Thanington](Q2317326) Churchyard' one can imagine the dreamy poet resting in the graveyard with his notebook after a walk out from the city centre.
 

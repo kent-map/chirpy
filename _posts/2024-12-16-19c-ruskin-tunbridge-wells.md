@@ -25,7 +25,7 @@ Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known write
 
 Three years earlier, Ruskin had come to Tunbridge Wells for his health and visited his cousin, William Richardson, a doctor at the General Hospital on Grosvenor Rd. Thomas Carlyle had recommended Tunbridge Wells as a 'place of airy expanses ... where the wind blows free about one'; though another friend, Pauline Trevelyan, considered it 'an odious place ... how can you go there?'
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ce0b8389-e980-4597-8f6c-630eaba57b53.jpg" aspect="0.623" caption="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ce0b8389-e980-4597-8f6c-630eaba57b53.jpg" aspect="0.623" caption="Taking the waters - the Original Spring, The Pantiles, Tunbridge Wells" %}
 
 {% include embed/map.html center="51.135441947633204, 0.2632497416948856" zoom="15" markers="51.135441947633204, 0.2632497416948856" allmaps="7c569bcd9d292a49~Bacon's Tunbridge Wells Map c.1870-1890" %}
 

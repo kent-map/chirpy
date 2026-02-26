@@ -25,7 +25,7 @@ The friendship had its ups and downs. Sir Sydney Cockerill (director of the Fitz
 
 By the mid-1880s, the High School was struggling to recruit pupils and in 1886 the Robinsons sold it to William Leach-Lewis who renamed it Margate College. [Nelly]({{ site.baseurl }}/19c/19c-ternan-biography/) and George, with their two children, moved back to London. George sought various means of earning a living from trying to set up another school, attempting to become a School Inspector and running a market garden, but all failed and they descended into near poverty. Money became even tighter when George died, aged 60. Despite [Dickens]({{ site.baseurl }}/Dickens)’s legacies to both women, Georgina also had difficulty in making ends meet. Nelly died in 1913 looked after by Jane (Wheeler) Brown who had been employed by Dickens during the years she lived in Slough, and who had then been cook to Georgina for 20 years, before returning to Nelly’s service. Georgina died four years later in 1917.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6f6a960c-4f03-403c-b853-92cfc822098a.jpg" aspect="0.707" caption="Margate High School" attribution="By permission of Margate Civic Society" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6f6a960c-4f03-403c-b853-92cfc822098a.jpg" aspect="0.707" caption="Margate High School" attribution="By permission of Margate Civic Society" %}
 
 ### Bibliography
 

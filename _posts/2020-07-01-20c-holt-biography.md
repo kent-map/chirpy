@@ -14,7 +14,7 @@ juncture: true
 
 Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel The _Shivering Sands_ (1969), is set near the [Goodwin Sands](Q1494482). Holt stayed in [Deal](Q1011096) in the late 1960s and purchased and restored a house in [Sandwich](Q26163), known as The King’s Lodging, in the 1970s.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f.jpg" aspect="1.417" caption="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f.jpg" aspect="1.417" caption="“The Goodwin Sands” image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904" %}
 
 {% include embed/map.html center="Q1011096" zoom="13" markers="Q1011096" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 

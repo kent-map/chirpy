@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2021-12-01
 categories: [ 20c ]
 tags: [ Authors & lives, Coast & sea, Conflict & war, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-ferguson-biography/
 published: true
 toc: false  
@@ -24,9 +24,9 @@ Scottish by birth, novelist and dramatist John Ferguson became chaplain of Evers
 
 His spy novel _Stealthy Terror_ was published in 1918, but captures the mood of 1914, just before the outbreak of [WW1]({{ site.baseurl }}/20c/20c-folkestone-ww1). In a memorable scene in Folkestone, the narrator watches human ‘butterflies’ on the [Leas](https://www.visitfolkestoneandhythe.co.uk/media/1843/folkestone-historical-walks-promenading-on-the-leas.pdf), as they gather round a military band. The bandstand had been erected in 1893, when Folkestone ranked as one of the more fashionable [Victorian resorts]({{ site.baseurl }}/19c/19c-folkestone). But as Ferguson’s readers would have been well aware, the Leas promenade gives on to what would later be designated The Road of Remembrance, along which thousands of soldiers had passed on their way to the trenches. Henry Williamson (best remembered as the author of _Tarka the Otter_), would call it ‘the English Via Dolorosa’ in his post-war novel _The Dream of Fair Women_ (1924).
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/553e2b21-40cd-4e41-b5b0-b3226e668e7d.jpg" aspect="0.618" caption="Stealthy Terror" attribution="Front cover of the Penguin edition" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/553e2b21-40cd-4e41-b5b0-b3226e668e7d.jpg" aspect="0.618" caption="Stealthy Terror" attribution="Front cover of the Penguin edition" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c4709d92-4e55-4e57-8e13-8ebd8e7187ed.jpg" aspect="1.333" caption="Road of Remembrance" attribution="© Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c4709d92-4e55-4e57-8e13-8ebd8e7187ed.jpg" aspect="1.333" caption="Road of Remembrance" attribution="© Michelle Crowther" %}
 
 Ferguson was present at the presentation of a bouquet of rosebuds to the retiring headmistress, Miss White, in 1933.[^ref3] When the school moved to Lymington in 1935 (conflicting reports cite either increased development around the Kent location or financial loss as the reason), [^ref4] he relocated and remained its chaplain. In 1948 the school was purchased by Middlesex County Council, to house a school for children classified as ‘delicate’. In 1949 it changed its name to Elmer’s Court and continued to operate until the late 1970s.[^ref5].
 

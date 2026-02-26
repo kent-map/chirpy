@@ -24,7 +24,7 @@ juncture: true
 During the Regency period, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) blossomed from a small watering hole into an important garrison town and social destination.  Edward Austen Knight is known to have gone there with his family, and on one such occasion at least, Jane Austen accompanied him.  She may have visited at other times as well.  A family acquaintance, Sir Egerton Brydges, recalls seeing Austen there at this time:    
 'When I knew Jane Austen I never suspected that she was an authoress.  But my eyes told me that she was fair and handsome, slight and elegant, with cheeks a little too full.  The last time, I think, I saw her was at [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) in 1803.'[^ref1]   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/20f1480d-349c-4c15-b57e-86a67db8eed2.jpg" aspect="1.369" caption="Marine Library, Ramsgate" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/20f1480d-349c-4c15-b57e-86a67db8eed2.jpg" aspect="1.369" caption="Marine Library, Ramsgate" %}
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
 

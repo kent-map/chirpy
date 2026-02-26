@@ -68,13 +68,13 @@ The next stopping place is [Wye](Q590063), which used to be home to an agricultu
 
 A little further on and we come to [Godmersham Park](Q17529295), a Grade I listed house, set on the slope which rises above the river. [Jane Austen]({{ site.baseurl }}/19c/19c-austen-biography) visited her brother, Edward Austen Knight, who lived here, six times between 1798 and 1813. The house is depicted behind her portrait on the Bank of England £10 note issued in 2017. Writing in _The Times_ in 1983 Geraldine Norman identifies Godmersham Park as the model for _Mansfield Park_.[^ref2]  Certainly some of the topography of Mansfield Park is reminiscent of that of Godmersham: ‘by walking fifty yards from the hall door, [Fanny Price can] look down on the park and command a view of the parsonage and all its demesnes, gently rising beyond the village road’. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/53bfab26-7b85-492e-bd79-ed01cd4f8020.jpg" aspect="1.333" caption="The Stour at Godmersham" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/53bfab26-7b85-492e-bd79-ed01cd4f8020.jpg" aspect="1.333" caption="The Stour at Godmersham" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q17529295" zoom="15" markers="Q17529295" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 And now to Canterbury we wend, passing by the villages of [Chilham](Q1004824) and [Chartham](Q2743911). The city of Canterbury is forever associated with [Geoffrey Chaucer]({{ site.baseurl }}/medieval/14c-chaucer) and his Pilgrims. Canterbury was their intended destination though they would not have come along the Stour and indeed they never reach Canterbury. Under [Chaucer’s]({{ site.baseurl }}/medieval/14c-chaucer) pen they travel from Southwark via Rochester along Watling Street, which is roughly along the route of today’s A2 but they only reach Harbledown, on a chalk hill above the city: for some reason Chaucer never finished the poem.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ef31ef12-11c7-42bf-9db8-a2239051278e.jpg" aspect="0.75" caption="The End of the Pilgrim's Way" attribution="Photographed by Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ef31ef12-11c7-42bf-9db8-a2239051278e.jpg" aspect="0.75" caption="The End of the Pilgrim's Way" attribution="Photographed by Martin Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -98,7 +98,7 @@ The major reason for pilgrimage to [Canterbury]({{ site.baseurl }}/canterbury/20
 
 There was a huge influx of French Huguenot weavers after the revocation of the Edict of Nantes in 1680 – 200,000 arrived at that time. These were both worsted weavers and very skilled silk weavers – in the 1700s the latter group moved mainly to Spitalfields and with some then moving on to Sudbury on the Suffolk Stour. (In Canterbury we have another connection with Sudbury: Simon of Sudbury was Archbishop from 1375 and Lord Chancellor of England from 1380 until his assassination in 1381 during the Peasants’ Revolt.) From the fourteenth century Walloon weavers had established themselves working on broadcloth further to the west in the Weald. One of the most photographed historic buildings in Canterbury, the [Old Weavers House](https://dofe.kent-maps.online/pages/the-old-weavers-house-now-and-then) is a gorgeous half-timbered building on the River Stour. Elizabeth I granted the Flemish weavers the right to establish their businesses in Canterbury, and they are known to have used this and other similar buildings nearby. There was already a French Church in Canterbury, and there continues to be one within the Cathedral where Protestant services are still conducted.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4ac299fa-2448-4626-84e8-02cfd39df863.jpg" aspect="1.331" caption="The Weavers" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4ac299fa-2448-4626-84e8-02cfd39df863.jpg" aspect="1.331" caption="The Weavers" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -132,7 +132,7 @@ He moved forward a few steps: the house was so dark behind him, the world so dim
 
 That is the section the optometrist knows off by heart: it is as far as most people get.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/eff29696-dbaa-473f-b1c7-2287a6add0e7.jpg" aspect="1.61" caption="Canterbury Cathedral" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/eff29696-dbaa-473f-b1c7-2287a6add0e7.jpg" aspect="1.61" caption="Canterbury Cathedral" attribution="Kent Maps Online" %}
 
 The travel writer Patrick Leigh Fermor was expelled from King’s for holding hands with a greengrocer’s daughter, after which, in December 1933, he set out on his long journey across Europe to Constantinople. He later recollected his time at the school: 
 
@@ -142,13 +142,13 @@ I liked nearly everybody, from the headmaster and my housemaster down, and prosp
 
 She was twenty-four, a ravishing and sonnet-begetting beauty and I can see her now and still hear that melting and deep Kent accent. . . . I knew that such an association [broke taboos, but] nevertheless I headed for the shop the moment I could escape. But the black clothes we wore, those stiff wing-collars and the wide and speckled straw boaters with their blue and white silk ribands were as conspicuous as broad-arrows. I was caught red-handed . . . and my schooldays were over.[^ref5] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/67a31a8c-c065-4747-a259-131c9d72eddc.jpg" aspect="1.653" caption="South Prospect, King's School, Canterbury, 1936-8" attribution="By permission of King's School, Canterbury. Permission given by Peter Henderson" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/67a31a8c-c065-4747-a259-131c9d72eddc.jpg" aspect="1.653" caption="South Prospect, King's School, Canterbury, 1936-8" attribution="By permission of King's School, Canterbury. Permission given by Peter Henderson" %}
 
 {% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 The film producer Michael Powell was the son of a hop-farmer at nearby [Bekesbourne](Q4881598), on the Nailbourne – of which more later. His 1944 black-and-white film [_A Canterbury Tale_]({{ site.baseurl }}/canterbury/20c-canterbury-tales-film) (which obviously takes its title from [Chaucer]({{ site.baseurl }}/medieval/14c-chaucer)), was the first of two collaborations with Emeric Pressburger. Set during the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2), three modern-day incarnations of [Chaucer’s]({{ site.baseurl }}/medieval/14c-chaucer) pilgrims—a melancholy Land Girl, a plainspoken American GI, and a resourceful British sergeant—are waylaid in the English countryside en route to [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) and forced to solve a bizarre village crime: the action was filmed in and around Bekesbourne. Another film producer Carol Reed (_The Third Man_, etc.) was at King’s, and even Judy Garland passed by in 1962 when she made a film with Dirk Bogarde. In _I Could Go on Singing_ she visits her son at his school: while Canon Shirley, the formidable headmaster at the time, forbade filming on the school grounds, it took place around the Cathedral. During filming Garland sat demurely on a chair – somehow not in the lively character as we know her - outside the Choir School, but intently watching the filming which she would presumably later join. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" aspect="1.691" caption="Mint Yard, Kings School, Canterbury, 1976" attribution="By permission of King's School, Canterbury. Permission given by Peter Henderson" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" aspect="1.691" caption="Mint Yard, Kings School, Canterbury, 1976" attribution="By permission of King's School, Canterbury. Permission given by Peter Henderson" %}
 
 {% include embed/map.html center="Q4881598" zoom="15" markers="Q4881598" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -188,15 +188,15 @@ The novelist [Elizabeth Bowen]({{ site.baseurl }}/20c/20c-bowen-biography) lived
 
 [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography) also lived in Bishopsbourne towards the end of his life and according to one biographer showed no desire to involve himself in the life of the village. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f117483d-65cb-464e-828a-486c8a83ac53.jpg" aspect="1.333" caption="Joseph Conrad, Bishopsbourne Village Hall" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f117483d-65cb-464e-828a-486c8a83ac53.jpg" aspect="1.333" caption="Joseph Conrad, Bishopsbourne Village Hall" attribution="Martin Crowther" %}
 
 The village river, the Nailbourne, however, was rather too eager to become involved with him: Most dramatic of all was the occasion when Conrad one day stamped his foot in temper in the front hall and went straight through the rotting floorboards. Further investigation showed that the Nailbourne, which back in the eighteenth century had been diverted to a north-easterly path round the house, had still retained part of its original flow under Conrad’s front door. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/80704dae-34f6-4afe-bbfe-f1890b4a0994.jpg" aspect="2.219" caption="The Nailbourne at Bishopsbourne" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/80704dae-34f6-4afe-bbfe-f1890b4a0994.jpg" aspect="2.219" caption="The Nailbourne at Bishopsbourne" attribution="Martin Crowther" %}
 
 So we move on from Plucks Gutter where the river turns southwards to the once-thriving port of Sandwich, after which it loops back on itself to the north before entering the sea at Pegwell Bay. The Stonar Cut at the beginning of the loop obviates the need for seagoing craft to take the longer route around the loop at Sandwich. The place-name 'Sandwich' is first found in the Anglo-Saxon Chronicle, where it appears as Sondwic in 851 and Sandwic in 993. In the Domesday Book of 1086 it appears as Sandwice. The suffix -wich comes from the Anglo Saxon, meaning a dwelling or fortified place where trade takes place and the name means ‘market town on sandy soil’. In 2014 an original copy of Magna Carta, issued in 1300, was found in its Guildhall archives, together with a copy of the Charter of the Forest. It was only the second time in history that the two documents have been found together. They are now displayed alongside other historical artefacts in the Sandwich Guildhall Museum. The Charter of the Forest of 1217 re-established for free men rights of access to the royal forest that had been eroded by King William the Conqueror and his heirs, redressing some applications of the Anglo-Norman Forest Law that had been extended and abused by King William Rufus. Many of its provisions were in force for centuries afterwards. It was originally sealed in England by the young King Henry III, acting under the regency of William Marshal, 1st Earl of Pembroke. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/413e5e4b-9511-4c7b-8dfa-37473005be2b.jpg" aspect="1.508" caption="A map of the Rutupian Ports, the ancient course of the Wantsum and the present course of the Stour" attribution="By kind permission of Marrin Books" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/413e5e4b-9511-4c7b-8dfa-37473005be2b.jpg" aspect="1.508" caption="A map of the Rutupian Ports, the ancient course of the Wantsum and the present course of the Stour" attribution="By kind permission of Marrin Books" %}
 
 {% include embed/map.html center="Q3392603" zoom="15" markers="Q3392603" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -244,7 +244,7 @@ And now we move on to the elastic-sided gumboots and ear trumpet of Jennings and
 
 The Stour discharges into the sea in Pegwell Bay. In nearby [Ebbsfleet](Q5331558) is the site of the landing of the first Christian mission to southern England, by St Augustine, in 597 AD, commemorated by St Augustine's Cross where St Augustine is said to have met the Saxon King Ethelbert and Queen Bertha. Bertha was already a Christian, which may well have accounted for the welcome afforded St Augustine, who was given freedom to preach and invited to establish himself and his monks at Canterbury. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/93ad4ce5-0d2e-419a-a805-d69365f9c2bc.jpg" aspect="0.563" caption="St Augustine Cross at Ebbsfleet" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/93ad4ce5-0d2e-419a-a805-d69365f9c2bc.jpg" aspect="0.563" caption="St Augustine Cross at Ebbsfleet" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q3425604" zoom="15" markers="Q3425604" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -256,7 +256,7 @@ Pegwell Bay has unstable areas at low tide amongst the otherwise firm sands, and
 
 'the sand moves as you watch and forms itself into strange shapes, like monsters some of them . . . with claws . . . waiting to catch anyone who wandered there and pull them down. There were gulls circling overhead. Their cries were so mournful, Mrs Verlaine. Oh, it was frightening, so lonely, so desolate. They say the sands are haunted. I’ve talked to one of the men from the North Goodwins Lightship and he says that when he’s on watch he sometimes hears wild heart-rending cries from the sands. They used to say it was the gulls, but he wasn’t so sure. Terrible things have happened there.' 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f.jpg" aspect="1.417" caption="Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f.jpg" aspect="1.417" caption="Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904" %}
 
 And we end with a summing up of those terrible things, alluded to by the German poet and novelist Theodor Fontane in this 1857 poem.
 

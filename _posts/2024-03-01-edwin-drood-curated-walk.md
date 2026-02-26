@@ -15,7 +15,7 @@ juncture: true
 
 [Rochester]({{ site.baseurl }}/dickens/dickens-medway) is proud to celebrate its Dickensian connections, and the most fascinating and intriguing connection is its inspiration for the fictional town of Cloisterham, backdrop to Dickens’s final novel _The Mystery of Edwin Drood._ The unfinished state of this last novel has, if anything, generated even more interest in the real-life location for the story’s diabolical events, as amateur detectives and scholars alike have tried to assess whether any clues for Edwin’s fictional whereabouts may be gleaned from examination of the factual geography. The most prominent feature in both Cloisterham and [Rochester](Q507517) is, of course, the cathedral. Dickens open the novel with talk of ‘An ancient English Cathedral town’, centring the building at the heart of the town’s identity. The Cathedral still stands today, and inside it we can imagine hearing the choir led by John Jasper.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/44be2f2c-2f9a-48a2-8cc2-e009206ac344.jpg" aspect="1.5" caption="Rochester Cathedral" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/44be2f2c-2f9a-48a2-8cc2-e009206ac344.jpg" aspect="1.5" caption="Rochester Cathedral" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -29,23 +29,23 @@ Alas, it is rather difficult for the modern visitor to quite capture the same gl
 
 Outside the cathedral, but not too far, the next prominent building is the cathedral’s gatehouse. This is where Jasper lives as tenant to the Topes, and where in turn Dick Datchery will also rent a room.  Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper’s (hence Mrs. Tope’s attendance on that gentleman), was of very modest proportions, and partook of the character of a cool dungeon…These two chambers, close as to their atmosphere, and swarthy as to their illumination by natural light, were the apartments which Mrs. Tope had so long offered to an unappreciative city.  Mr. Datchery, however, was more appreciative.  He found that if he sat with the main door open he would enjoy the passing society of all comers to and fro by the gateway, and would have light enough.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4eeec435-8628-4798-b754-cdfb0f2a094e.jpg" aspect="1.5" caption="The Gatehouse" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4eeec435-8628-4798-b754-cdfb0f2a094e.jpg" aspect="1.5" caption="The Gatehouse" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
 Dickens tells us a of a door from which Datchery sits watching the world go by – sadly this door does not exist, with just one door in the gatehouse rather than one each for Jasper and Datchery’s homes. Dickens may well have been inspired by reality, but he was not beholden to it. Still, modern visitors may be cheered to know that the building next to the gatehouse, where the Topes live, is now a ‘Topes sweetshop’, commemorated by a plaque above the door advertising its fictional residents. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/bf19e774-7bbc-468e-b913-61257c0eb034.jpg" aspect="1.5" caption="College Gate" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/bf19e774-7bbc-468e-b913-61257c0eb034.jpg" aspect="1.5" caption="College Gate" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
 Further down the high street is [Eastgate house]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house). Its most prominent Dickensian feature is the [chalet]({{ site.baseurl }}/dickens/dickens-swiss-chalett) in the back-garden; originally located at [Gads Hill]({{ site.baseurl }}/dickens/dickens-gads-hill), it was in this chalet that Dickens wrote the last surviving pages of Drood on 8 June 1870, the day before he died. But [Eastgate house](Q16834512) is also immortalised as the location of the [Nun’s house]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house), the school which Rosa Bud attended under the tuition of Miss Twinkleton: 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/11fbd10c-4977-45e6-8713-df4c593a5574.jpg" aspect="1.5" caption="Chalet" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/11fbd10c-4977-45e6-8713-df4c593a5574.jpg" aspect="1.5" caption="Chalet" attribution="Benjamin Mortley" %}
 
 _In the midst of Cloisterham stands the Nun's House: a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses.  On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: ‘Seminary for Young Ladies.  Miss Twinkleton.’  The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye._
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4bcb5ff3-1a7b-4d15-943d-36c283e418e0.jpg" aspect="1.5" caption="Eastgate House" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4bcb5ff3-1a7b-4d15-943d-36c283e418e0.jpg" aspect="1.5" caption="Eastgate House" attribution="Benjamin Mortley" %}
 
 Again, [Rochester]({{ site.baseurl }}/dickens/dickens-medway) has celebrated the link with a teashop on the grounds called Miss Twinkleton’s Fine Coffee House. There is a nice example of circular influence here. [Eastgate house]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house) inspired Drood, Drood inspired my own website The Drood Inquiry, including new illustrations of characters, the one of Twinkleton in turn being used subsequently as the logo for Twinkleton’s café at [Eastgate House]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house).
 
@@ -56,7 +56,7 @@ Again, [Rochester]({{ site.baseurl }}/dickens/dickens-medway) has celebrated the
 Across the road from the [Nun’s house](dickens/edwin-drood-eastgate-house), Dickens tells us, is Mr Sapsea’s home: ‘Mr. Sapsea’s premises are in the High-street, over against the [Nun’s house]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house).  They are of about the period of the [Nun’s house](dickens/edwin-drood-eastgate-house), irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague.  Over the doorway is a wooden effigy, about half life-size, representing Mr. Sapsea’s father, in a curly wig and toga, in the act of selling.  The chastity of the idea, and the natural appearance of the little finger, hammer, and pulpit, have been much admired.’   
 Not far from here, so far as we can tell, is where would have stood  The Traveller’s Twopenny – ‘a house all warped and distorted, like the morals of the travellers, with scant remains of a lattice-work porch over the door, and also of a rustic fence before its stamped-out garden’. The inn has not survived today.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2cfcb41f-c781-4914-96e3-48310cb5c5c4.jpg" aspect="1.5" caption="Rochester High Street" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2cfcb41f-c781-4914-96e3-48310cb5c5c4.jpg" aspect="1.5" caption="Rochester High Street" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -80,7 +80,7 @@ For those searching for Edwin beyond the coffeeshop/crypt, the next stop would b
 Inspired to go looking for the missing Edwin? You may enjoy this [Rochester walk]( https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)   
 See also [Mobile Landscapes]( https://kent-maps.online/dickens/mobile-landscapes)
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/cc1b9669-0996-475c-bba2-692467a50043.jpg" aspect="1.455" caption="Dickens' Rochester/Chatham" attribution="By kind permission of David Perdue" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/cc1b9669-0996-475c-bba2-692467a50043.jpg" aspect="1.455" caption="Dickens' Rochester/Chatham" attribution="By kind permission of David Perdue" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 

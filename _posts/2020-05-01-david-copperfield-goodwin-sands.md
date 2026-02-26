@@ -24,7 +24,7 @@ While staying in [Fort House](dickens-fort-house), [Broadstairs](broadstairs) in
 
 The last chapters of _David Copperfield_ had been written in [Fort House](dickens-fort-house)  the year before, and it is tempting to think that the Yarmouth storm in which Ham and Steerforth both drown may have been inspired by Dickens’s observation of the Goodwins in tempestuous weather. David himself avers that ‘I have started up so vividly impressed by it, that its fury has yet seemed raging in my quiet room, in the still night. … I have an association between it and a stormy wind, or the lightest mention of a seashore, as strong as any of which my mind is conscious.’[^ref3]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d301f78e-3342-4822-82ad-c1d5b428d6db.jpg" aspect="1.333" caption="Bleak House -Fort House - as Dickens would have known it" attribution="©Elgate Postcards, Margate" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d301f78e-3342-4822-82ad-c1d5b428d6db.jpg" aspect="1.333" caption="Bleak House -Fort House - as Dickens would have known it" attribution="©Elgate Postcards, Margate" %}
 
 ### Bibliography
 

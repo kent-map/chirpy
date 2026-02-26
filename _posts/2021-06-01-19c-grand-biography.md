@@ -35,7 +35,7 @@ By 1888 the marriage was breaking down, and in 1890 Grand moved to London to pur
 
 But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside]({{ site.baseurl }}/19c/19c-seaside) resorts). Sarah Grand, authoress is listed at Grey House, Speldhurst in the 1901 census, later moving to Eardley House in Sevenoaks and again to 10 Grove Hill in Tunbridge Wells. Here too she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ce0b8389-e980-4597-8f6c-630eaba57b53.jpg" aspect="0.623" caption="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ce0b8389-e980-4597-8f6c-630eaba57b53.jpg" aspect="0.623" caption="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells" %}
 
 {% include embed/map.html center="Q894097" zoom="13" markers="Q894097" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
@@ -76,7 +76,7 @@ Sutton-Ramspeck, _Beth. Raising the Dust: The Literary Housekeeping of Mary Ward
 
 [Sarah Grand Archive](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/icvww-research-projects-and-events/sarah-grand-collection.aspx). International Centre for Victorian Women Writers, Canterbury Christ Church University.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f37d719d-5638-49d9-973f-bcfc0995e197.jpg" aspect="1.62" caption="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f37d719d-5638-49d9-973f-bcfc0995e197.jpg" aspect="1.62" caption="Queen's Grove, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells" %}
 
 ### References
 

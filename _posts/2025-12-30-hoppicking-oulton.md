@@ -20,7 +20,7 @@ starts with sunshine and deft fingered girls.
 By the 1930s and Orwell it’s blood   
 all over the fingers and chaff in the throat.   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/22b087f4-554d-47c2-8131-3582d178ad1f.jpg" aspect="1.834" caption="Hop-pickers by T.C. Dugdale, 1937 by kind permission of Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/22b087f4-554d-47c2-8131-3582d178ad1f.jpg" aspect="1.834" caption="Hop-pickers by T.C. Dugdale, 1937 by kind permission of Martin Crowther" %}
 
 But for Eileen one January morning, hops   
 nailed to the ceiling brittle as dust,   

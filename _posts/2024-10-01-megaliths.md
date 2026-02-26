@@ -111,7 +111,7 @@ ye diggers of visions of antiquity, – ye men of historical research. Listen to
 satisfactory explanation, and confess how vain are all your theories about Cromlechs and Druidical 
 altars, and resting places for the bones of Saxon Kings.”
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/df393ce0-2b77-4039-8f05-45ec854cde74.jpg" aspect="1.593" caption="Kit's Coty" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/df393ce0-2b77-4039-8f05-45ec854cde74.jpg" aspect="1.593" caption="Kit's Coty" attribution="Kent Maps Online Collection" %}
 
 **Coffin Stone**    
 Further down Blue Bell Hill towards the village of Aylesford, there is a large monolith called The 

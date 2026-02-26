@@ -66,13 +66,13 @@ That autumn, the British Association for the Advancement of Science (BAAS) held 
 
 "The immense mass of chalk cliff lying between the Town Hall, Dover and the South Foreland, appears to offer not the slightest obstacle to the passage of the ether waves to or from the wire attached to the Town Hall flagstaff.[^ref35]  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ac441809-6320-4bce-bf42-b16b949de7e7.jpg" aspect="0.61" caption="Marconi radio mast at the Maison Dieu" attribution="By kind permission of the Maison Dieu" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ac441809-6320-4bce-bf42-b16b949de7e7.jpg" aspect="0.61" caption="Marconi radio mast at the Maison Dieu" attribution="By kind permission of the Maison Dieu" %}
 
 Ten days later, the newspapers reported that “Signor Marconi has just returned from the naval maneouvres, and is on the eve of leaving for America, but before he goes he is anxious to superintend all the necessary arrangements for his demonstrations at the meeting of the British Association during the week’s meeting.”
 
 At the meeting, English and French scientists were treated to a demonstration of wireless communication between Dover and Wimereux from an aerial on the top of the Maison Dieu.[^ref36] Across the channel, in France, the French Society for the Advancement of Science were meeting at Boulogne, and both societies co-operated together and exchanged courtesies.[^ref37] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8cc244cb-64a8-4f88-b507-49afb1eabe67.jpg" aspect="1.499" caption="Marconi radio equipment in Connaught Hall at Dover's Maison Dieu,1899" attribution="By kind permission of the Maison Dieu" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8cc244cb-64a8-4f88-b507-49afb1eabe67.jpg" aspect="1.499" caption="Marconi radio equipment in Connaught Hall at Dover's Maison Dieu,1899" attribution="By kind permission of the Maison Dieu" %}
 
 In 1900, Marconi formed Marconi's Wireless Telegraph Ltd.[^ref38] The following year, the Royal Navy and Lloyds of London agreed contracts[^ref39] and by December, 36 battleships carried the apparatus. The system was also adopted by the Italian, German and French navies.[^ref40]
 

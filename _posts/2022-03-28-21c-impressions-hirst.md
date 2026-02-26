@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2022-03-28
 categories: [ 21c ]
 tags: [ Coast & sea, Literary places, Nature & environment, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
 permalink: /21c/21c-impressions-hirst/
 published: true
 toc: false  
@@ -48,7 +48,7 @@ suspending gloom, suspending rain.
 
 {% include embed/image.html src="wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg" aspect="1.778" caption="Coastline near Deal Castle" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/731e64ad-bad5-4db7-998a-84087304e97d.jpg" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/731e64ad-bad5-4db7-998a-84087304e97d.jpg" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
 
 Tonight the pier is gaudy.  Its orange sodium lights   
 are giddy in the off-shore breeze.  They look all set   
@@ -106,7 +106,7 @@ which melts upwards into a sky
 whose blueness hardens into steel   
 as it stretches to its zenith.   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d1087754-5201-4025-a7c8-2c8fec21d2f9.jpg" aspect="2.113" caption="Sea-front at Deal" attribution="Elizabeth Waterman-Scrase" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d1087754-5201-4025-a7c8-2c8fec21d2f9.jpg" aspect="2.113" caption="Sea-front at Deal" attribution="Elizabeth Waterman-Scrase" %}
 
 Knobbled waves in rows   
 knit one, drop one, cast one on,   
@@ -193,7 +193,7 @@ division line with sky the upper integer,
 and sea the lower one.   
 A sum to which there’s no solution.   
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg" aspect="1.333" caption="Deal Pier" attribution="Martin Crowther" %}
 
 As the weight of the falling sun   
 plummets behind the day’s-end town,   

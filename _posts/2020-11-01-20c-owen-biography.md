@@ -24,7 +24,7 @@ Wilfred Owen was born at Plas Wilmot, Oswestry in 1893 and spent much of his chi
 
 Owen twice passed through [Folkestone]({{ site.baseurl }}/20c/20c-folkestone-ww1) on his way to the Western Front. On 29 December 1916, he wrote to his mother from the <span data-mouseover-image-zoomto="129,611,463,298">Metropole Hotel</span> on the Leas, having arrived there after a protracted journey by train from Charing Cross: ‘At Folkestone here I met a Canadian Doctor who seems to be the only other on the train reporting tomorrow. He took me to the best Hotel, where we are sharing a magnificent room.’ On 4 January 1917, now in France, he wrote again: ‘I have joined the Regiment, who are just at the end of six weeks’ rest. I will not describe the awful vicissitudes of the journey here. I arrived at Folkestone, and put up at the best hotel. It was a place of luxury – inconceivable now – carpets as deep as the mud here – golden flunkeys; pages who must have been melted into their clothes and expanded since; even the porters had clean hands. Even the dogs that licked up the crumbs had clean teeth’. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/99b7d20b-3896-4a2a-9f34-251e5ee6afb3.jpg" aspect="1.408" caption="Folkestone Map in Ward and Lock Illustrated Guide Book, 1928" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/99b7d20b-3896-4a2a-9f34-251e5ee6afb3.jpg" aspect="1.408" caption="Folkestone Map in Ward and Lock Illustrated Guide Book, 1928" attribution="Kent Maps Online" %}
 
 Owen made his brief return to [Folkestone]({{ site.baseurl }}/20c/20c-folkestone-ww1) in August 1918. On the day of his departure for the Front, he wrote to his mother: ‘My last hours in England were brightened by a bathe in the fair green Channel, in company of the best piece of Nation left in England – a Harrow boy, of superb intellect and refinement because of the way he spoke of my going away; and the way he spoke of the Sun; and of the Sea, and the Air; and everything. In fact the way he spoke.’ The next day, 1 September 1918, he would write to Sassoon from Base Camp, Etaples, addressing him as ‘Dearest of all Friends’ and revisiting his experience in the sea off Folkestone: ‘Serenity Shelley never dreamed of crowns me. Will it last when I shall have gone into Caverns & Abysmals such as he never reserved for his worst daemons? Yesterday I went down to Folkestone Beach and into the sea, thinking to go through those stanzas and emotions of Shelley’s to the full. But I was too happy, or the Sun was too supreme.’
 
@@ -34,7 +34,7 @@ On 4 November, a week before the Armistice was signed, he met his death near Ors
 
 On Remembrance Day 2018, his [portrait](https://www.sandinyoureye.co.uk/pages-of-the-sea) was raked into the sand on the beach at Folkestone as part of Danny Boyle’s [Pages of the Sea](https://youtu.be/aMgUE2Lg79E) project. Crowds gathered to watch as it was washed away by the tide.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/df3b9666-7ba5-4197-9ab8-a0223a7cb5aa.jpg" aspect="1.331" caption="Road of Remembrance, Folkestone" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/df3b9666-7ba5-4197-9ab8-a0223a7cb5aa.jpg" aspect="1.331" caption="Road of Remembrance, Folkestone" attribution="Michelle Crowther" %}
 
 ### Bibliography
 

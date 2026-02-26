@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places ]
-image: https://raw.githubusercontent.com/kent-map/forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false  

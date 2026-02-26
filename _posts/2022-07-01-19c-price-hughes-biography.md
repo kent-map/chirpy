@@ -17,7 +17,7 @@ juncture: true
 
 Windswept [Dover](Q179224), sheltering beneath the beetling crag on which the castle stands, is more like a grey town in the canny north than a southern watering-place. Like Ithaca of old it was framed in its ruggedness to be an excellent nurse to the youthful soul, and the ruggedness lay not so much in the environment of nature as in those sharp problems of everyday life with which he found it to abound. – _The Life of Hugh Price Hughes_, 1904
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1cb66dda-70f7-465c-8a67-b61a92931e9b.jpg" aspect="1.362" caption="Dover Castle" attribution="By kind permission of Marrin Books" %}
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man  was to become a key figure in the [Dover]({{ site.baseurl }}/19c/19c-dover) temperance movement.[^ref1]
 
@@ -25,19 +25,19 @@ Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appoin
 
 On arrival in [Dover]({{ site.baseurl }}/19c/19c-dover), Hughes took up lodgings at 1, [Buckland](Q4983275) Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”.[^ref3] The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/806a5042-aa22-4c78-a1dc-f70ad0798ec2.jpg" aspect="2.222" caption="Buckland Chapel" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/806a5042-aa22-4c78-a1dc-f70ad0798ec2.jpg" aspect="2.222" caption="Buckland Chapel" attribution="Martin Crowther" %}
 
 Hughes preached his first sermon at the Snargate Street Chapel, which had been opened in 1834. The congregation were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f3afaf5c-646f-47c9-8c92-4ce0e72c8170.jpg" aspect="1.333" caption="Snargate Street Chapel" attribution="Souvenir Programme of Centenary Celebrations" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3afaf5c-646f-47c9-8c92-4ce0e72c8170.jpg" aspect="1.333" caption="Snargate Street Chapel" attribution="Souvenir Programme of Centenary Celebrations" %}
 
 Snargate Street was at the heart of the commercial and dockland centre of the town. A description from Robert Folkestone Williams novel _Jack Scudamore's Daughter_ (1865)  gives us a sense of the area: 'from the busy ship-chandlers on the quays to the fashionable drapery establishments in Snargate Street, there flowed along the pavement like a tide a fast-increasing throng of soldiers, sailors, officers of the army and navy, captains and mates of merchantmen, porters, tradesmen, ladies, hawkers, mechanics, and all the other ingredients of a seaport population.'[^ref5] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate Street c. 1830s" attribution="Drawn by G. Shepherd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate Street c. 1830s" attribution="Drawn by G. Shepherd" %}
 
 The Chapel was next to the Grand Shaft, a triple spiral staircase, which led to the barracks on the Western Heights. Hughes estimates that there were 5 or 6,000 troops at Dover at this time, comprising infantry, engineers and artillery and as a Wesleyan minister he had access to all the barracks.[^ref6] The Franco-Prussian War which began in 1870 may have accounted for this, as although Britain remained neutral, a position of "armed neutrality"[^ref7] was vital. A new coastal defence battery with three guns was constructed at the Western Heights between 1871-4 and the population of [Dover]({{ site.baseurl }}/19c/19c-dover) grew by 5,663 between 1861 and 1871. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/50147d2d-d96b-4f66-96e0-27378459552c.jpg" aspect="1.536" caption="Grand Shaft Barracks and Granville Dock" attribution="Invicta Album of Dover and District" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/50147d2d-d96b-4f66-96e0-27378459552c.jpg" aspect="1.536" caption="Grand Shaft Barracks and Granville Dock" attribution="Invicta Album of Dover and District" %}
 
 Recognising the impact that drinking was having on the life of the community (there were over 220 pubs)[^ref8], Hughes advocated total abstinence at a lecture at the Young Men’s Christian Association in October 1869.  However, transforming the drinking habits of a port, would be a challenge: 'For ordinary men to give up drinking intoxicants for Christ-like or patriotic reasons was, he knew, an innovation. He might as well have expected some of them to give up eating beef.'[^ref9] 
 
@@ -45,7 +45,7 @@ Recognising the impact that drinking was having on the life of the community (th
 
 On 4th January 1870 Hughes lectured again on 'Total Abstinence in its social, medical and religious aspects'. His opponents argued that prohibition would deprive publicans of their livelihood.  On the 7th February 1870 the Snargate Street Wesleyan Band of Hope, a temperance society, was founded and Hughes name stood first upon the roll. Later that year, Hughes was involved in the founding of a Dover Methodist Band of Hope & Temperance Society, with 50 people signing the pledge at the inaugural meeting. The Society spread the message of teetotalism to both adults and children with lantern lectures, picnics, parades, and concerts.  
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2a4299f6-d952-4311-8ca5-503daf1d0667.jpg" aspect="0.687" caption="Poster of the Snargate Street Wesleyan Band of Hope, 1874" attribution="Dover Wesleyan Methodist Scrapbook" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2a4299f6-d952-4311-8ca5-503daf1d0667.jpg" aspect="0.687" caption="Poster of the Snargate Street Wesleyan Band of Hope, 1874" attribution="Dover Wesleyan Methodist Scrapbook" %}
 
 Touched by the plight of ordinary people, Hughes also campaigned with Rowland Rees an architect, alderman and 'red-hot radical'[^ref10] against the [Contagious Diseases Act]({{ site.baseurl }}/19c/19c-contagious-diseases) which had been introduced in 1866. The Act which was designed to regulate the 'common prostitute'[^ref11]  and prevent the spread of sexually transmitted diseases among soldiers and sailors had been introduced rapidly with little consultation.  
 
@@ -63,7 +63,7 @@ In the Spring of 1870 Hughes and Rees invited speakers from London to a public m
 
 At a Dover council meeting in April 1870, Councillor Robinson asked the town surveyor, Mr Hanvey, whether rumours were true that a lock hospital was being built at [Dover]({{ site.baseurl }}/19c/19c-dover). Mr Hanvey denied it, saying that a 'convalescent hospital' had been established. Robinson replied that 'he supposed that 'Convalescent' and 'Lock' were synonymous terms'.[^ref16] The convalescent home was in the former Ship Hotel, on Custom House Quay which was managed by Mrs Rusher.[^ref17] In 1871, the Dover Infectious Diseases Hospital was established.[^ref18]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3f578cef-f942-4995-8fb2-d38024a29221.jpg" aspect="1.618" caption="Council Chambers, Dover" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3f578cef-f942-4995-8fb2-d38024a29221.jpg" aspect="1.618" caption="Council Chambers, Dover" attribution="Kent Maps Online" %}
 
 Hughes was known for his sharp wit and was not afraid of speaking up. When an older member of the YMCA rebuked him for his opinions, crying: “Young man, I was putting resolutions when you were in swaddling clothes”, he replied “I am aware that there is childhood at both ends of life"[^ref19]. He viewed the YMCA as “too much given to the singing of hymns and too little to the good of this present world” and when the association banned the publication _Punch_ from its reading room for its increasingly contemptuous regard for religious matters in 1871, he defended the publication and its contributors such as Mark Lemon and [W.M. Thackeray]({{ site.baseurl }}/19c/19c-thackeray) arguing that the prophets and even Christ indulged in satire.[^ref20] He also campaigned for more varied reading in the reading room, to include Shakespeare and Milton. 
 
@@ -73,7 +73,7 @@ In August 1871, Hughes was ordained. A year later, he moved to Brighton to the d
 
 This article was published: 6 August 2022.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/912348f7-294e-40f1-a5d8-f6510448e2b8.jpg" aspect="0.756" caption="Hymns to be sung at the farewell service of Hugh Price Hughes" attribution="Dover Wesleyan Methodist Scrapbook" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/912348f7-294e-40f1-a5d8-f6510448e2b8.jpg" aspect="0.756" caption="Hymns to be sung at the farewell service of Hugh Price Hughes" attribution="Dover Wesleyan Methodist Scrapbook" %}
 
 ### References
 
