@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2023-12-27
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Countryside & farming, Coast & sea, Literary places ]
-image: https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/00a0bf98-14e0-4ad0-b658-61e9d07f609f.jpg
 permalink: /20c/20c-bates-biography/
 published: true
 toc: false  
@@ -24,7 +24,7 @@ Bates had moved to The Granary, [Little Chart](Q2470003) near Pluckley with his 
 
 A prolific writer, publishing over 300 short stories as well as numerous novels and essays, Bates was to incorporate his love for Kent in his writing over the next forty years. His collection of four novellas _An Aspidistra in Babylon_ published in 1960 exemplifies this, and although he does not explicitly name places, his well-observed descriptions of both towns and countryside illustrate his knowledge of the county. The titular story is set in a small English garrison town with a castle which 'looks like an enormous bastion of pumice-coloured flint' on top of chalk cliffs.[^ref3] The town had earned the nickname of Babylon due to the antisocial behaviour of visiting soldiers: 'the rankers come into town to drink beer, eat fish and chips and get off with girls… get very drunk and rowdy and fight among themselves..'[^ref4] The _Tonbridge Free Press_ wrote, it 'immediately conjures up visions of Dover'[^ref5] continuing  'Babylon the town is nicknamed, but where else but Dover will one find, on very hot days, that the chalk of the cliffs looks more naked than usual, and that the yellow chimney-pots on which the gulls sit look like organ pipes?'[^ref6] The channel steamer which comes in stern first across the harbour and the views of the French cliffs unmistakably situates the story in Dover.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5681241b-c069-45f0-8da5-fecdb173465a" aspect="1.568" caption="Dover Castle" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5681241b-c069-45f0-8da5-fecdb173465a.jpg" aspect="1.568" caption="Dover Castle" attribution="Kent Maps Online" %}
 
 {% include embed/map.html center="Q179224" zoom="12" markers="Q179224" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
@@ -38,7 +38,7 @@ Reflecting on the events (which took place before the war) – before the 'bombs
 
 In another of the novellas, ‘A prospect of orchards’ set in the Kent countryside, Bates continues the theme of unhappy relationships. The narrator of the story meets an old friend, Arthur Templeton, as he travels home ‘on a cold April evening in a train that entered a tunnel and then emerged some minutes later, into a bright stretch of downland dried stark white by the long drought of Spring.’[^ref13] He learns that Templeton, who he used to play chess and box with, is a fruit grower, on which he comments 'In a fruit growing district there is hardly anything less exciting than meeting with yet another man who grows apples.'[^ref14] When Templeton tells him that he is cultivating a new kind of apple, the narrator observes with boredom, 'As I grow older I grow more and more convinced that there are two things the world does not need and can long do without. One is a blue rose; the other is an entirely new kind of apple.'[^ref15] The narrator reflects on his former relationship with Templeton who was terrible at boxing and 'whose pink hairless jaw I sent so many unresisted straight lefts that it became intolerably embarrassing.’[^ref16] As the train rushes through the Kent countryside, it passes an orchard 'the white smoke whirling and ducking among the black, pink-knotted arms of blossom’.[^ref17]. Templeton, pointing to the orchard, explains with embarrassing earnestness that he is not going to produce 'that muck' but an apple that tastes like a pear. As Templeton gets off the train, he entreats the narrator to visit his farm which he does after Templeton’s wife, Valerie calls up with an invitation for dinner two nights later.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f" aspect="1.325" caption="Orchard by Lisa Hawkins" attribution="Lisa Hawkins" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/00a0bf98-14e0-4ad0-b658-61e9d07f609f.jpg" aspect="1.325" caption="Orchard by Lisa Hawkins" attribution="Lisa Hawkins" %}
 
 Bates describes the Kent countryside vividly: ‘It was very warm for April and under a white-blue sky blackbirds were singing with choking, thrilling richness among miles of pink and snowy boughs. There are springs of accidental perfection when, for a few days, all the blossom of all the orchards meets, cherry and apple and plum and pear, like a great lacy gathering of cloud; and this was one of them.’[^ref18]
 

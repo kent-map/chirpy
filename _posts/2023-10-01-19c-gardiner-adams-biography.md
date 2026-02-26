@@ -25,7 +25,7 @@ H. G. Adams. Sonnet to Tennyson
 
 Henry Gardiner Adams was born in [Deal]({{ site.baseurl }}/seascape/deal) and must have left school by 1826, when he was apprenticed to a [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) firm of chemists at the age of 14. He appears as a stationer in local directories in 1832 [^ref1] (not necessarily an unusual combination at the time) and married in 1842. An ambitious, self-made man, his literary work includes _The Ocean Queen, and Other Poems_ (1836) and the 1854 _God’s Image in Ebony_, an edited anthology which ‘aims at disabusing a certain portion of the public mind of what we conceive to be a pernicious error, by shewing that the Negro is morally and intellectually, as well as physically, the equal of the white man.’ [^ref2] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" aspect="1.581" caption="Canterbury High Street" attribution="Kent Maps Online Postcard Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/be26a7b9-01e8-423d-9934-50efe93590d3.jpg" aspect="1.581" caption="Canterbury High Street" attribution="Kent Maps Online Postcard Collection" %}
 
 {% include embed/map.html center="Q765835" zoom="11" markers="Q765835" allmaps="4478e36824ad9d1a~Lewis Kent 1844" %}
 

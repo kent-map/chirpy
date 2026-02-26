@@ -21,7 +21,7 @@ Jessie Challacombe née Worsfold, children’s author, was born in [Dover]({{ si
 
 By 1891, the Worsfolds had moved to 1, Christ Church Villa, St Martin’s Hill (Folkestone Road) opposite Christ Church. Christ Church was one of the newer churches in [Dover]({{ site.baseurl }}/19c/19c-dover), having been consecrated in 1844. The condition of its establishment had been that it should include seating reserved for about 160 soldiers and that its incumbents should be low church.[^ref2]  It rapidly attracted a large congregation and within seven years of its opening, two additional galleries were added. Jessie’s father became churchwarden and a parishioner recalls that he used to '...give account of the financial state of the parish and he generally wound by saying: "I want two or three good door mats,"' and generally asked in such way that one felt ashamed to go to Church next Sunday unless they were forthcoming'.[^ref3] Jessie's mother was involved in the charitable work of the town including raising funds for the Dover orphan home. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5db33e54-3dee-44c0-b6ec-eea3b3013422" aspect="0.723" caption="Ward Lock's Dover and the South East" attribution="Ward Lock" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5db33e54-3dee-44c0-b6ec-eea3b3013422.jpg" aspect="0.723" caption="Ward Lock's Dover and the South East" attribution="Ward Lock" %}
 
 Jessie and her siblings received a good education. Her sister Lucy studied at Bedford College in 1886 and applied to become a lady computer at the Royal Observatory in the summer of 1890, although she was rejected on the grounds that the Astronomer Royal, had already appointed four women and felt that if he appointed any more, they would need to be recognised by the Civil Service Commissioners and paid more.[^ref4] Lucy went on to attain an MA in mathematics from the University of London in 1891. Jessie’s youngest sister Constance obtained a position at St Leonard’s School St Andrews before later becoming headteacher of St Margaret’s School, Polmont, Stirlingshire. 
 
@@ -37,7 +37,7 @@ On 30 July 1891, Jessie married Reverend William Challacombe, a curate at Christ
 
 After the ceremony, the wedding breakfast was served at Chaldercot, Leyburn-road, the residence of the bride's aunt, followed by an "At Home." In the evening the poor of the parish were entertained at the Mission Hall on the Folkestone Road. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c565d372-ac5a-45a0-8643-b87759b40e24" aspect="0.702" caption="The Village Church" attribution="Arthur Dixon" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c565d372-ac5a-45a0-8643-b87759b40e24.jpg" aspect="0.702" caption="The Village Church" attribution="Arthur Dixon" %}
 
 Two years after their marriage, the Challacombes moved to New Malden, where they lived and worked for the next 28 years. Jessie began writing stories for children which were published by the Society for the Promotion of Christian Knowledge (SPCK). Her first book _The Brother’s Promise_ was published in 1897 followed by _Little Christopher’s Cross_ a year later, about a small boy named Christopher, no doubt inspired by her own son Christopher who had been born in 1893. Each chapter was prefaced by words from hymns by the former Dean of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury), Henry Alford. 
 
@@ -47,7 +47,7 @@ Jessie wrote at least 12 novels and many short stories, drawing on her knowledge
 
 This type of muscular Christianity in which athleticism was highly valued was very popular up until the First World War. Jessie’s son Christopher was in his early twenties when the war broke out. He joined the 1st Battalion of the East Surrey Regiment and it is likely saw action at the Somme and Ypres. He suffered shell shock as a result of his wartime experiences.[^ref10]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/b03486f1-7d66-491a-9ed1-7ede07f75a60" aspect="0.645" caption="Wait and Win by Jessie Challacombe" attribution="By kind permission of Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b03486f1-7d66-491a-9ed1-7ede07f75a60.jpg" aspect="0.645" caption="Wait and Win by Jessie Challacombe" attribution="By kind permission of Michelle Crowther" %}
 
 Jessie was not the only Kent writer producing stories and novels to promote Christian values at this period. Baptist writers [Bessie Marchant]({{ site.baseurl }}/19c/19c-marchantb-biography) and Grace Pettman both wrote popular evangelical stories for girls and boys, as did O.F. Walton and Edith Farmiloe.
 
@@ -57,7 +57,7 @@ To find out more, watch this video about [Little Christopher’s Cross](https://
 
 This article was published: 11 February 2023.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f8d57b51-10f1-41e5-9539-a129affb57c5" aspect="0.75" caption="Christie's Old Organ by O.F. Walton" attribution="By kind permission of Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f8d57b51-10f1-41e5-9539-a129affb57c5.jpg" aspect="0.75" caption="Christie's Old Organ by O.F. Walton" attribution="By kind permission of Michelle Crowther" %}
 
 ### References
 

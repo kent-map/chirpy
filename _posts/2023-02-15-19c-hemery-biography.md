@@ -15,7 +15,7 @@ juncture: true
 
 Francis Hobart Hemery, poet, was born at sea on the 22nd March 1847, the son of John and Anna Hemery (nee Beatty). He was baptised in Jersey on the 12 May. His father was a successful merchant who became manager of the London and County bank. The family later moved to [Canterbury]({{ site.baseurl }}/19c/19c-canterbury).
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4299961a-be83-4924-adc5-ffdf01917220" aspect="1.338" caption="London and County Bank, 11, The Parade, Canterbury" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4299961a-be83-4924-adc5-ffdf01917220.jpg" aspect="1.338" caption="London and County Bank, 11, The Parade, Canterbury" attribution="Michelle Crowther" %}
 
 Francis joined the navy as a cadet and was appointed sub lieutenant on 11 September 1860.[^ref1] He was assigned to _H.M.S Achilles_, a broadside ironclad frigate which defended the waters of the English Channel as part of the Channel Fleet, as a sub-lieutenant on the 5 June 1867.  
 
@@ -48,7 +48,7 @@ In 1875, Hemery joined the Canterbury-based Persistent Scribblers Society and co
 
 In the following year, Hemery published his poem 'The Snow Angels' in the [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette).  From 1877-9, he achieved some success in the popular periodicals: _The New Monthly Magazine_, _Chamber’s Edinburgh Journal_, _St James’ Magazine_, _Tinsley’s Magazine_, _Mirth_ and _Bow Bells_ publishing at least 25 poems. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/3cb447d3-c9cf-47a9-aac5-f019f2f745aa" aspect="1.585" caption="Dane John Gardens, Canterbury" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3cb447d3-c9cf-47a9-aac5-f019f2f745aa.jpg" aspect="1.585" caption="Dane John Gardens, Canterbury" attribution="Kent Maps Online" %}
 
 Hemery's poetry was fairly standard sentimental fare and it is possible his desire to be a poet created tensions at home. His father John, who was a bank manager wrote to the navy in 1875, 1876 and 1878 requesting that Francis not be allowed to commute his pension. Whether this was because he desired his son to become a successful man of business, or whether he recognised that he could not be trusted with money is uncertain.
 

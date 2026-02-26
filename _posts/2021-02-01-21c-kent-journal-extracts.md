@@ -45,7 +45,7 @@ juncture: true
 
 **30/11/2009** - The backyard soil hasn’t dried out for weeks – it’s all sodden, though the primulas and various other plants seem to like it. The Xmas lights are on. The town adolescents are slightly mad. I actually welcome the darkness, the season. It makes sense of everything else.   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/cca915c2-7ffb-4f33-9ab7-e74553085aa4" aspect="1.5" caption="Oare Marshes © Astrid Stilma" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/cca915c2-7ffb-4f33-9ab7-e74553085aa4.jpg" aspect="1.5" caption="Oare Marshes © Astrid Stilma" %}
 
 {% include embed/map.html center="Q7074367" zoom="10" markers="Q7074367" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 

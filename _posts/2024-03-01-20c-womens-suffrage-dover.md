@@ -42,7 +42,7 @@ The Maison Dieu was a hub for suffragette meetings at a time when the campaign f
 
 The Dover Maison Dieu has a Victorian polling booth and ballot boxes, which some of Dover district’s first women voters would have used, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow . Her letter, written with two other local suffragists, was published in the _Dover Express_ in 1909 arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/188d8a9b-7514-4dd2-99ce-040624cef0e6" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/188d8a9b-7514-4dd2-99ce-040624cef0e6.jpg" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
 
 As well as these connections, the Maison Dieu also accommodated many suffrage meetings with visitors such as Lady Frances Balfour, daughter of the Duke and Duchess of Argyll. Frances was at the forefront of women making changes to political roles within government. Her immense influence made her an important visitor to Dover as she resented her political exclusion within her own family.
 

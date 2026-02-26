@@ -26,7 +26,7 @@ _Often, when we approached Rochester, the upper parts of the wide-stretching tow
 
 Andersen visited [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography) at his [Gads Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) home in 1857, extending his intended fortnight stay to five weeks and famously outstaying his welcome. Andersen appears to have enjoyed his stay in Kent immensely and is beguiled by the “hedges of wild-rose and honeysuckle in full bloom” and the “neat and clean and comfortable” abodes he sees on his walk from the railway station to Dickens’s home. Gads Hill is equally charming to Andersen, “a model of comfort and holiday brightness” set in glorious countryside. Andersen wastes no time in leading the Dickens’ family out on walks, the family having been resident in Gads Hill only two weeks before Andersen arrives, and his descriptions of the pastoral bliss are overshadowed only by his obvious adoration of Dickens.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" aspect="1.5" caption="Gad's Hill" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5c3cfffa-911e-44cf-ab35-28b94bf80418.jpg" aspect="1.5" caption="Gad's Hill" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q104082075" zoom="13" markers="Q104082075" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 

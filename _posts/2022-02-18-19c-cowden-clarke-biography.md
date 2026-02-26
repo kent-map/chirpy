@@ -44,7 +44,7 @@ However, not all Mary’s recollections of Kent are tinged by transport delays a
 
 Mary married childhood friend Charles Cowden Clarke, who was also a Shakespearian scholar. Charles, whose father had taught [John Keats]({{ site.baseurl }}/19c-keats-margate/), spent some of his youth in Kent after his father's retirement. Charles recalled bumping into Samuel Taylor Coleridge on the East Cliff at [Ramsgate](https://kent-maps.online/19c/19c-ramsgate/), who for an hour and a half 'gave utterance to some of the grandest thoughts [Clarke] ever heard from the mouth of man'.[^ref5] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" aspect="1.539" caption="Ramsgate, East Cliff Promenade" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/47ed345c-3d26-4e7f-a46e-3bdc267e68f4.jpg" aspect="1.539" caption="Ramsgate, East Cliff Promenade" attribution="Kent Maps Online Collection" %}
 
 {% include embed/map.html center="Q736439" zoom="13" markers="Q736439" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 

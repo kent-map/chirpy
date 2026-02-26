@@ -31,7 +31,7 @@ One of these works was _The Garden That I Love_ (1894), in which he describes th
 
 Fellow gardening enthusiast [Elizabeth von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) was so taken with the book that she wrote a fan letter (which she was too embarrassed to send).[^ref5]  She later described the garden as the loveliest she had ever seen.[^ref6]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc" aspect="1.56" caption="Swinford Manor" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/92a76fb8-2dd9-4c8f-9ab4-875516a84afc.jpg" aspect="1.56" caption="Swinford Manor" attribution="Kent Maps Online" %}
 
 Austin and his wife had lived here since their marriage in 1867, entertaining guests including John Everett Millais and Wilfred Scawen Blunt as well as sustaining friendships with local Tories such as Aretas Akers-Douglas, later 1st Viscount Chilston. But not everyone was delighted by the poet’s presence among them or by his political stance. The _Thanet Advertiser_ took him to task for his description of Gladstone as a ‘verbose poltroon’ at a local meeting, predicting that the minister would be revered by thousands who failed to remember ‘the wild poet’.[^ref7]  
 

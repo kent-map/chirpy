@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2023-03-13
 categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Heritage & memory ]
-image: https://stor.artstor.org/stor/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88.jpg
 permalink: /19c/19c-burges-biography/
 published: true
 toc: false  
@@ -14,7 +14,7 @@ juncture: true
 
 In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for [Maidstone](Q213180) to design a missionary monument at St Augustine’s College, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88" aspect="1.254" caption="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88.jpg" aspect="1.254" caption="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury" %}
 
 {% include embed/map.html center="Q213180" zoom="12" markers="Q213180" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
@@ -40,7 +40,7 @@ In 1856, Burges set up his own architectural practice and entered several compet
 
 It was at this period that Burges, joined the Foreign Architectural Book Society (FABS), an elite group of architects who swapped books on architecture and visited sites of architectural importance. In 1865, FABS visited [Knole](Q1285144) near [Sevenoaks](Q939838) to admire the Jacobean staircase and in the following year, [Canterbury](Q29303), where they saw the cathedral. Burges described [Canterbury Cathedral](https://dofe.kent-maps.online/pages/canterbury-cathedral-now-and-then) as 'the best of our cathedrals, always excluding the perpendicular parts'.[^ref1] In 1867, the society visited [Penshurst](Q1227477), [Chiddingstone](Q578209) and [Hever](Q954918), returning to the county some years later to visit Maidstone and [Leeds](Q2460124) Castle.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/2c31e2ed-8f07-4a4e-b1a8-deaeab5b045d" aspect="1.321" caption="Canterbury Cathedral, 1844" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2c31e2ed-8f07-4a4e-b1a8-deaeab5b045d.jpg" aspect="1.321" caption="Canterbury Cathedral, 1844" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
 
 {% include embed/map.html center="Q26536206" zoom="11.5" markers="Q26536206" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
@@ -66,9 +66,9 @@ Burges was not only a talented architect, but also a designer. In 1867 he was co
 
 In 1880, the Mayor of [Dover]({{ site.baseurl }}/19c/19c-dover) decided that the town needed an assembly hall and civic rooms. Burges was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/d5b27092-f8fb-411c-9d48-dd2224622676" aspect="1.333" caption="Ceiling in the Mayor's Parlour" attribution="William Burges. Photogaph by Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d5b27092-f8fb-411c-9d48-dd2224622676.jpg" aspect="1.333" caption="Ceiling in the Mayor's Parlour" attribution="William Burges. Photogaph by Michelle Crowther" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/feed4654-a3ac-41ce-b021-49d5ec0313b6" aspect="0.75" caption="Fireplace in the Mayor's Parlour" attribution="William Burges. Photograph by Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/feed4654-a3ac-41ce-b021-49d5ec0313b6.jpg" aspect="0.75" caption="Fireplace in the Mayor's Parlour" attribution="William Burges. Photograph by Michelle Crowther" %}
 
 {% include embed/map.html center="Q179224" zoom="11.5" markers="Q179224" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
@@ -78,9 +78,9 @@ This article was published: 11 March 2023.
 
 {% include embed/image.html src="wc:DoverRathaus.JPG" aspect="1.333" caption="Dover, Maison Dieu" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f5be1a6b-3ae1-4689-aa3e-128ce0fced21" aspect="1.333" caption="Stone Hall, Maison Dieu" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f5be1a6b-3ae1-4689-aa3e-128ce0fced21.jpg" aspect="1.333" caption="Stone Hall, Maison Dieu" attribution="Martin Crowther" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/a8d2851f-3fb0-4314-b8c4-8fde9baf5892" aspect="1.333" caption="Stone Hall, Maison Dieu" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a8d2851f-3fb0-4314-b8c4-8fde9baf5892.jpg" aspect="1.333" caption="Stone Hall, Maison Dieu" attribution="Martin Crowther" %}
 
 ### Bibliography
 

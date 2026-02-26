@@ -32,7 +32,7 @@ The 1939 census places Gladys back at 35 Northdown Avenue, presumably helping to
 
 While her name appears only sporadically in newspapers and most often in connection with [Dickens]({{ site.baseurl }}/dickens/dickens-biography), Waterer was herself the author of at least two novels, _The Third Chance_ (1912) and _The Lady in Mauve_ (1931). 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/982eba99-332b-4bcd-8cbe-a328476822ca" aspect="0.656" caption="Gladys Waterer" attribution="By kind permission of Broadstairs Museum" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/982eba99-332b-4bcd-8cbe-a328476822ca.jpg" aspect="0.656" caption="Gladys Waterer" attribution="By kind permission of Broadstairs Museum" %}
 
 _The Third Chance_ reflects her own interest in the politics of local amateur dramatic productions. Much of the tension devolves from the heroine Ethel’s triumphantly redemptive love for an alcoholic actor who once saved her from a teenage seduction and who is drafted in to make up the numbers in a provincial performance. Less than subtly disguised as Seagate, Eastgate and Haregate, the neighbouring towns of Margate, [Ramsgate](Q736439) and [Broadstairs](Q922739) provide an idyllic coastal setting, inflected with a keen and often witty observation of local culture. 
 

@@ -30,7 +30,7 @@ The Leas summed up [Folkestone](Q375314) for her:
 
 'Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.'[^ref2]   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" aspect="0.967" caption="Folkestone" attribution="Diana Hirst" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/217498b0-8935-4fb8-b565-6eb02161a180.jpg" aspect="0.967" caption="Folkestone" attribution="Diana Hirst" %}
 
 {% include embed/map.html center="Q375314" zoom="12.75" markers="Q375314" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 

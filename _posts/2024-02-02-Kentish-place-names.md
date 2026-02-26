@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2024-02-02
 categories: [ landscape ]
 tags: [ Literary places, Maps & place-making, Texts & genres, Rivers & marshes, Representation & interpretation ]
-image: https://stor.artstor.org/stor/0604f63f-eada-4bc5-b5a9-b73a3bb72294
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/0604f63f-eada-4bc5-b5a9-b73a3bb72294.jpg
 permalink: /landscape/Kentish-place-names/
 published: true
 toc: false  
@@ -14,7 +14,7 @@ juncture: true
 
 Place-names (toponyms), whether of towns, villages, individual farms and fields, or of physical features, such as rivers and hills, are imbued with meaning, even when the strict sense (the name’s etymology) might be lost or only partially understood. Names often have regional significance, and even a fictional name, using elements of historic place-names, can conjure a strong sense of place or landscape. As Allen Walker Reedi notes; “[o]ne of the devices used by regional writers is to incorporate into their work the place names that evoke the spirit of their region”.[^ref1]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/7e218701-0f35-4843-86f1-a3965d107e82" aspect="1.527" caption="St Nicholas at Wade, on the path from Potton Street towards Minnis through the Wantsum" attribution="Lisa Hawkins" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/7e218701-0f35-4843-86f1-a3965d107e82.jpg" aspect="1.527" caption="St Nicholas at Wade, on the path from Potton Street towards Minnis through the Wantsum" attribution="Lisa Hawkins" %}
 
 Ordnance Survey Maps provide a wonderful resource with which to explore [Kent](Q67479626)’s place-names and their imaginative potential, or as a means to explore the literary landscapes created by novelists and poets. Trace, for example, the railway along the River Stour that has carved a gap through the chalk downs, and recall the announcement as your train pulls out of [Ashford](Q725261) - “Calling at [Wye](Q590063), [Chilham](Q1004824), [Chartham](Q2743911), and [Canterbury](Q29303) West” - rhyme and alliteration create a wonderful poesy of place. Or follow Chaucer’s pilgrims’ passage through Kent, ‘Rouchestre’, ‘Boghtoun under Blee’, ‘Bobbe-up-and-doun Under the Blee’ ([Harbledown](Q5654535)?), and so to ‘Caunterbury’. 
 

@@ -22,7 +22,7 @@ It was not until 1789 that Sarah – well into her fifties by then – opened in
 
 Some measure of Sarah’s financial success is that when she died at Rochester in February 1816, just months before her eightieth birthday, her estate was estimated by her grandson to be in excess of £20,000. It was an extraordinary achievement, even more remarkable in that she was ‘illiterate’ and, reputedly, never learned to write more than her name.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/36430364-5e5f-41c5-a111-211dda4fff3e" aspect="1.286" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/36430364-5e5f-41c5-a111-211dda4fff3e.jpg" aspect="1.286" caption="Site of Mrs Baker's Canterbury Theatre" attribution="© Martin Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="95a97f635eb83b37~Cary 1787" %}
 
@@ -55,5 +55,5 @@ Dr Jean Baker’s book: _Sarah Baker and her Kentish Theatres 1737-1816: Challen
 
 This article was published: 30 January 2023.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" aspect="1.378" caption="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4b1bcc91-3a8d-416b-a3bc-522c47582a6d.jpg" aspect="1.378" caption="Theatre Royal, Rochester" attribution="By kind permission of Dickens House Museum, Broadstairs" %}
 

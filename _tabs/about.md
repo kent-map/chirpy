@@ -47,7 +47,7 @@ Dr Michelle Crowther is an Academic Librarian at Canterbury Christ Church Univer
 
 ## Claire Bartram
 
-![Claire Bartram](https://stor.artstor.org/stor/1da3cc93-932d-4422-b389-9af7e562dd10){: .right}
+![Claire Bartram](https://raw.githubusercontent.com/kent-map/forum-images/main/1da3cc93-932d-4422-b389-9af7e562dd10.jpg){: .right}
 
 Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
@@ -70,21 +70,21 @@ Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020
 
 ## Brooke Altringham
 
-![Brooke Altringham](https://stor.artstor.org/stor/acf6f2e4-49ee-4f4a-a658-4c9a030016a6){: .right}
+![Brooke Altringham](https://raw.githubusercontent.com/kent-map/forum-images/main/acf6f2e4-49ee-4f4a-a658-4c9a030016a6.jpg){: .right}
 
 Brooke Altringham is a history student with a passion for twentieth century history.
 
 
 ## Pat Argar
 
-![Pat Argar](https://stor.artstor.org/stor/05320be6-9e97-4649-b095-d150533ae47a){: .right}
+![Pat Argar](https://raw.githubusercontent.com/kent-map/forum-images/main/05320be6-9e97-4649-b095-d150533ae47a.jpg){: .right}
 
 Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Blog: [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
 
 ## Liz Askey
 
-![Liz Askey](https://stor.artstor.org/stor/cea2880e-59a3-443e-bad3-8d789d02acfc){: .right}
+![Liz Askey](https://raw.githubusercontent.com/kent-map/forum-images/main/cea2880e-59a3-443e-bad3-8d789d02acfc.jpg){: .right}
 
 Dr Liz Askey has a PhD from the University of Kent and is currently working as a freelance online English Tutor. Having previously worked in scientific research (she was a member of the original Viagra project team at Pfizer Ltd), her research interests are interdisciplinary including early modern women's poetry and 19th century women botanists.
 
@@ -105,14 +105,14 @@ Alexa Barrett is an undergraduate English Literature and Creative and Profession
 
 ## Ben Bethell
 
-![Ben Bethell](https://stor.artstor.org/stor/5cb012a6-5dba-4f24-8426-cc9f43863441){: .right}
+![Ben Bethell](https://raw.githubusercontent.com/kent-map/forum-images/main/5cb012a6-5dba-4f24-8426-cc9f43863441.jpg){: .right}
 
 Ben Bethell received a PhD in history from the University of London in 2020. He is Lecturer in Cultural Histories at Central Saint Martins, University of the Arts London. His first book, _‘Star Men’ in English Convict Prisons, 1879-1948_, published in 2022, examines prison history through converging lenses of class, sexuality, and labour.
 
 
 ## Catriona Blaker
 
-![Catriona Blaker](https://stor.artstor.org/stor/697b4f13-3150-42c1-8cf6-12aee6ddb3a7){: .right}
+![Catriona Blaker](https://raw.githubusercontent.com/kent-map/forum-images/main/697b4f13-3150-42c1-8cf6-12aee6ddb3a7.jpg){: .right}
 
 Catriona Blaker studied Modern History, at Edinburgh University. She is a founder member and trustee of the Pugin Society, and a past editor and contributor to its journal _True Principles_. Her interest in Pugin and the nineteenth century led to an MA, ‘Aspects of English Nineteenth-Century Life and Thought’, at Canterbury Christ Church University. She is the author of publications relating to the Pugins, such as _Edward Pugin and Kent_, and for some time worked as a guide at Pugin’s house, The Grange, Ramsgate.
 
@@ -126,14 +126,14 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 
 ## Bethia Carter
 
-![Bethia Carter](https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f){: .right}
+![Bethia Carter](https://raw.githubusercontent.com/kent-map/forum-images/main/e4b386b3-b426-4a1a-ba34-d96729dc8b0f.jpg){: .right}
 
 Bethia Carter studied a BA in English Language and Communication and French at Canterbury Christ Church University. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
 
 ## Carina Chan
 
-![Carina Cha](https://stor.artstor.org/stor/f10f06ec-cf28-4dc0-ad80-797fcaa60c0c){: .right}
+![Carina Cha](https://raw.githubusercontent.com/kent-map/forum-images/main/f10f06ec-cf28-4dc0-ad80-797fcaa60c0c.jpg){: .right}
 
 Carina is a 2nd year undergraduate Civil Engineering student at the University of Sheffield. She aspires to share her engineering skillset throughout other countries to improve other peoples’ quality of life and to create a sustainable future, believing that learning from history is vital to unlocking this theoretical utopia. Her inspirations are derived from historical figures and past events, as tragic as they can be, there are great lessons to be learnt from them. 
 
@@ -147,7 +147,7 @@ Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church Un
 
 ## Liam Cohen
 
-![Liam Cohen](https://stor.artstor.org/stor/f0634362-1833-4d30-9dd3-08c3a5e8a2f1){: .right}
+![Liam Cohen](https://raw.githubusercontent.com/kent-map/forum-images/main/f0634362-1833-4d30-9dd3-08c3a5e8a2f1.jpg){: .right}
 
 Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He started writing poetry at fifteen years old. Since then, his passion for writing has blossomed and now writes all forms. Liam focuses on life-like narratives to resonate with his readers. Liam lives in the seaside town of Deal with his wife and dogs. His adopted hometown has been the inspiration for many of his works and he has recently had an article published on the town’s military history which was well received by the community. Besides writing, his interests include playing basketball, enjoying the beach and being a good husband.
 
@@ -161,14 +161,14 @@ Carla Danella has a BA from Wellesley College and recently completed her MA in E
 
 ## Lizzie Duffield-Fuller
 
-![Lizzie Duffield-Fuller](https://stor.artstor.org/stor/4580c75b-6633-4745-b9f9-76067bf3d5bb){: .right}
+![Lizzie Duffield-Fuller](https://raw.githubusercontent.com/kent-map/forum-images/main/4580c75b-6633-4745-b9f9-76067bf3d5bb.jpg){: .right}
 
 Elizabeth Duffield-Fuller lives, works and studies at Aberystwyth with her husband and three young sons. She is currently pursuing her PhD on representations of place, politics and domesticity in Dinah Craik’s works. 
 
 
 ## Joe Dragovich
 
-![Joe Dragovich](https://stor.artstor.org/stor/433ce286-4051-415d-9146-dfe4ddfab886){: .right}
+![Joe Dragovich](https://raw.githubusercontent.com/kent-map/forum-images/main/433ce286-4051-415d-9146-dfe4ddfab886.jpg){: .right}
 
 Originally from Central Pennsylvania but now living in South Wales, Joseph Dragovich writes narrative history, primarily about eighteenth-century crime.
 
@@ -182,28 +182,28 @@ Laurie Duggan was born in Melbourne and was involved in the poetry worlds of tha
 
 ## Martin Easdown
 
-![Martin Easdown](https://stor.artstor.org/stor/a7cb2a51-0f04-4108-9e6a-faaf8dc54114){: .right}
+![Martin Easdown](https://raw.githubusercontent.com/kent-map/forum-images/main/a7cb2a51-0f04-4108-9e6a-faaf8dc54114.jpg){: .right}
 
 Martin Easdown is a well-respected Kent historian who has been researching and publishing books on Folkestone, Hythe, and other areas of Kent since 1996, when his first book _A Grand Old Lady_ appeared. His great interest however is seaside pleasure piers and other coastal leisure architecture, and he has extensively researched their development and history. He has held the post of Archivist for the National Piers Society for thirty years and is the leading authority on the history of the seaside pleasure pier.
 
 
 ## Martin Edwards
 
-![Martin Edwards](https://stor.artstor.org/stor/55c37261-02ab-4949-81eb-9db6a6e08547){: .right}
+![Martin Edwards](https://raw.githubusercontent.com/kent-map/forum-images/main/55c37261-02ab-4949-81eb-9db6a6e08547.jpg){: .right}
 
 Martin Edwards’ 21 novels include the Lake District Mysteries and the Rachel Savernake books, most recently Sepulchre Street, as well as an acclaimed history of crime fiction, The Life of Crime. He received the CWA Diamond Dagger for the sustained excellence of his work. He has also won the Edgar, Agatha, CrimeFest H.R.F. Keating and Macavity awards, the Short Story Dagger and Dagger in the Library, plus the Poirot award for his outstanding contribution to the genre.
 
 
 ## Daisy Eleanor
 
-![Daisy Eleanor](https://stor.artstor.org/stor/59313b15-fb2f-4250-aca5-8a434593ad44){: .right}
+![Daisy Eleanor](https://raw.githubusercontent.com/kent-map/forum-images/main/59313b15-fb2f-4250-aca5-8a434593ad44.jpg){: .right}
 
 Daisy Eleanor is an aspiring poet and editor from the Southeast who has recently completed her Creative Writing/English Literature BA at Canterbury Christchurch University. She is looking to further her studies with an MA, but in the meantime can usually be found sitting in parks and writing too many poems about trees. 
 
 
 ## Nick Evans
 
-![Nick Evans](https://stor.artstor.org/stor/13729e93-a1e8-40aa-a707-31aa49bbb69d){: .right}
+![Nick Evans](https://raw.githubusercontent.com/kent-map/forum-images/main/13729e93-a1e8-40aa-a707-31aa49bbb69d.jpg){: .right}
 
 Nick Evans has been a career journalist for more than 45 years, working mainly in the specialist arenas of public relations and internal communications.
 He grew up in Birchington during the 1960s and 1970s.  His first foray into journalism came in 1977 when he left school, aged 17, to become a trainee reporter with the Isle of Thanet Gazette in Margate.
@@ -234,14 +234,14 @@ Lisa Hawkins has a first-class degree and an MA in Fine Art, her main subject is
 
 ## Ruth Heholt
 
-![Ruth Heholt](https://stor.artstor.org/stor/ddaa4a5b-eda8-4651-9fa8-8e3aa81be708){: .right}
+![Ruth Heholt](https://raw.githubusercontent.com/kent-map/forum-images/main/ddaa4a5b-eda8-4651-9fa8-8e3aa81be708.jpg){: .right}
 
 Ruth Heholt is Associate Professor of Dark Economies and Gothic Literature at Falmouth University. She is author of Catherine Crowe: Gender, Genre, and Radical Politics (Routledge, 2020) and co-editor of several collections: Gothic Animals (2018), Gothic Britain: Dark Places in the Provinces and Margins of the British Isles (2018), The Victorian Male Body (2018), and Haunted Landscapes (2017). She has organised several conferences including Folk Horror in the Twentieth Century (Falmouth and Lehigh Universities 2019) and is editor of the peer reviewed journal Revenant: Critical and Creative Studies of the Supernatural. 
 
 
 ## Debbie Hickman
 
-![Debbie Hickman](https://stor.artstor.org/stor/afd98a40-01d8-49ec-a67e-1fa264d8d5ff){: .right}
+![Debbie Hickman](https://raw.githubusercontent.com/kent-map/forum-images/main/afd98a40-01d8-49ec-a67e-1fa264d8d5ff.jpg){: .right}
 
 Debbie Hickman spent four years as Operations Manager for the Brogdale Horticultural Trust, before setting up and running her own businesses at Brogdale for twelve years. She embarked on a degree in Creative and Professional Writing at Canterbury Christ Church University at the grand old age of 58, and now divides her time between various writing projects and working for a national charity. She lives in Whitstable.
 
@@ -262,14 +262,14 @@ Dr Katie Holdway is a Research Fellow in the Department of English at the Univer
 
 ## Phil Hubbard
 
-![Phil Hubbard](https://stor.artstor.org/stor/5f1913f8-1060-4587-b31d-aedaa3f90007){: .right}
+![Phil Hubbard](https://raw.githubusercontent.com/kent-map/forum-images/main/5f1913f8-1060-4587-b31d-aedaa3f90007.jpg){: .right}
 
 Phil Hubbard is Professor of Urban Studies and leader of the Urban Futures group at King’s College London. His work bridges sociology, geography and legal studies, and has focused on issues of urban social change, with a recent focus on the Kent coast. _Borderland: identity and belonging at the edge of England_ was published in June 2022 by Manchester University Press, with his royalty going to the Kent Refugee Action Network.
 
 
 ## Alyson Hunt
 
-![Alyson Hunt](https://stor.artstor.org/stor/43418490-dbc9-4018-aa51-9b11c4b623ad){: .right}
+![Alyson Hunt](https://raw.githubusercontent.com/kent-map/forum-images/main/43418490-dbc9-4018-aa51-9b11c4b623ad.jpg){: .right}
 
 Dr Alyson Hunt is a recent PhD survivor and long-time research associate of the International Centre for Victorian Women Writers at Canterbury Christ Church University. Her research interests include Victorian crime fiction and denigrating Dickens in favour of his [*contentious point*] much more interesting contemporary, Wilkie Collins.
 
@@ -283,7 +283,7 @@ Dr Mandy Jones has completed a PhD at CCCU entitled _Unjustly neglected: reclaim
 
 ## Miroslava Karaskova
 
-![Miroslava Karaskova](https://stor.artstor.org/stor/addee311-f0b8-4c15-abf2-88546226a7df){: .right}
+![Miroslava Karaskova](https://raw.githubusercontent.com/kent-map/forum-images/main/addee311-f0b8-4c15-abf2-88546226a7df.jpg){: .right}
 
 Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio &amp; Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
 
@@ -297,12 +297,12 @@ Dr Helena Kelly holds a doctorate from the University of Oxford but is currently
 
 ## Martin Latham
 
-![Martin Latham](https://stor.artstor.org/stor/b8a2fa4f-75f3-4a94-ad46-79dec2ef7e06){: .right}
+![Martin Latham](https://raw.githubusercontent.com/kent-map/forum-images/main/b8a2fa4f-75f3-4a94-ad46-79dec2ef7e06.jpg){: .right}
 
 
 ## Madelaine Lennon
 
-![Madelaine Lennon](https://stor.artstor.org/stor/e9c63d94-5139-425b-a6f3-7d1245d68ba8){: .right}
+![Madelaine Lennon](https://raw.githubusercontent.com/kent-map/forum-images/main/e9c63d94-5139-425b-a6f3-7d1245d68ba8.jpg){: .right}
 
 Madeleine Lennon is currently an A-Level student with an interest in early medieval history. 
 
@@ -316,7 +316,7 @@ Richard Maltby, retired head of history at The King’s School in Canterbury and
 
 ## Fred Marsh
 
-![Fred Marsh](https://stor.artstor.org/stor/6611c800-48cf-4104-a1fb-1fb1a278d363){: .right}
+![Fred Marsh](https://raw.githubusercontent.com/kent-map/forum-images/main/6611c800-48cf-4104-a1fb-1fb1a278d363.jpg){: .right}
 
 Fred is a retired civil servant and lives in Norfolk with his wife and their small terrier.
     
@@ -351,14 +351,14 @@ Jeremy Page has published several collections of poems, among them In and Out of
 
 ## Andrew Palmer
 
-![Andrew Palmer](https://stor.artstor.org/stor/d470332f-24a9-4c57-9288-3a4950f70659){: .right}
+![Andrew Palmer](https://raw.githubusercontent.com/kent-map/forum-images/main/d470332f-24a9-4c57-9288-3a4950f70659.jpg){: .right}
 
 Dr Andrew Palmer is Principal Lecturer in Modern Literature at Canterbury Christ Church University. With Dr Sally Minogue, he is the co-author of The Remembered Dead: Poetry, Memory and the First World War (Cambridge UP, 2018), the chapter on 'Modernism and First World War Poetry' in A History of Modernist Poetry (Cambridge UP, 2015) and several other papers on modern literature in journals such as English, Word and Image and The Journal of Modern Literature. He has also published articles on Edward Thomas, Virginia Woolf, George Orwell, Ray Davies and Bruce Chatwin.
 
 
 ## Christiana Payne
 
-![Christiana Payne](https://stor.artstor.org/stor/e32c870d-1da9-4d80-bbc5-ca4faabb1e58){: .right}
+![Christiana Payne](https://raw.githubusercontent.com/kent-map/forum-images/main/e32c870d-1da9-4d80-bbc5-ca4faabb1e58.jpg){: .right}
 
 Christiana Payne is Professor Emerita of History of Art at Oxford Brookes University. Exhibitions that she has curated or co-curated include A Walk in the Woods: A Celebration of Trees in British Art (Higgins Art Gallery and Museum, Bedford, 2017-18) and Pre-Raphaelites: Drawings and Watercolours (Ashmolean Museum, Oxford, 2021). She is currently working on an exhibition on the theme of Earth, to be held at the Royal West of England Academy, Bristol, in 2022.
 Publications: Where the Sea meets the Land: Artists on the Coast in Nineteenth-century Britain (Sansom and Company, 2007), Silent Witnesses: Trees in British Art, 1760-1870 (Sansom and Company, 2017).
@@ -373,21 +373,21 @@ Madeleine Pettit is a History student at the University of Leeds. While in the s
 
 ## Natalie Pietersen
 
-![Natalie Pietersen](https://stor.artstor.org/stor/bfe3a043-646e-4c72-97ec-8683a5b1713a){: .right}
+![Natalie Pietersen](https://raw.githubusercontent.com/kent-map/forum-images/main/bfe3a043-646e-4c72-97ec-8683a5b1713a.jpg){: .right}
 
 Natalie Pietersen is a creative writing student at Canterbury Christ Church University with a talent for illustration.
 
 
 ## Shaun Regan
 
-![Shaun Regan](https://stor.artstor.org/stor/2c4b956c-2420-4a4d-8503-addcd4273bf8){: .right}
+![Shaun Regan](https://raw.githubusercontent.com/kent-map/forum-images/main/2c4b956c-2420-4a4d-8503-addcd4273bf8.jpg){: .right}
 
 Dr Shaun Regan is Senior Lecturer in Eighteenth-Century and Romantic Literature at Queen’s University Belfast. He is co-author and editor of Making the Novel (Palgrave, 2006), Reading 1759 (Bucknell, 2013), and The Culture of the Seven Years’ War (Toronto, 2014). His recent publications include essays on Christopher Anstey’s The New Bath Guide (1766) in relation to satire, leisure, and textual afterlives.
 
 
 ## Andrew Sargent
 
-![Andrew Sargent](https://stor.artstor.org/stor/e0ada393-075f-448d-9299-fc137df0f7ae){: .right}
+![Andrew Sargent](https://raw.githubusercontent.com/kent-map/forum-images/main/e0ada393-075f-448d-9299-fc137df0f7ae.jpg){: .right}
 
 Andrew Sargent has written about Deal for many years. He is the author of "Drinking in Deal: Beer, Pubs and Temperance in an East Kent Town 1830 - 1914". Profits from his latest book ("From the Rink to the Regent: Seafront Entertainment in Deal since the 1870s", with Colin Varrall) are being donated to the Deal Museum and the Timeball Tower Museum. Andrew is also a regular contributor to the "Mercury Memories" page of the East Kent Mercury.
 
@@ -415,7 +415,7 @@ Malcolm Shifrin, after ten years as a school librarian, moved in 1970 to be Depu
 
 ## Hayley Smith
 
-![Hayley Smith](https://stor.artstor.org/stor/c961a36c-9e4d-49e6-92aa-f422faeef95a){: .right}
+![Hayley Smith](https://raw.githubusercontent.com/kent-map/forum-images/main/c961a36c-9e4d-49e6-92aa-f422faeef95a.jpg){: .right}
 
 Hayley Smith is a PhD student at Canterbury Christ Church University. Her research seeks to recover and re-examine the life and literary career of a neglected Victorian author, Thomas Anstey Guthrie (1856-1934), who wrote under the pen name “F. Anstey”. Her research interests include Victorian popular fiction, nineteenth-century children’s literature, the Gothic, and contemporary horror films. Twitter: @HayleySmith001
 
@@ -436,21 +436,21 @@ Marnie Stanley is a student at Canterbury Christ Church University.
 
 ## Carolin Sternberg
 
-![Carolin Sternberg](https://stor.artstor.org/stor/55d0dee7-3d6b-4713-a042-7a87a4acf73e){: .right}
+![Carolin Sternberg](https://raw.githubusercontent.com/kent-map/forum-images/main/55d0dee7-3d6b-4713-a042-7a87a4acf73e.jpg){: .right}
 
 Carolin Sternberg is a PhD student at the University of Vechta, Germany. Her current research focuses on the representation of criminal characters in penny bloods and penny dreadfuls. Her other research interests include London’s East End, the Victorian working class, and children’s literature.
 
 
 ## Rose Storkey
 
-![Rose Storkey](https://stor.artstor.org/stor/daae31e7-c7ac-4f8a-8f79-540f7deb2320){: .right}
+![Rose Storkey](https://raw.githubusercontent.com/kent-map/forum-images/main/daae31e7-c7ac-4f8a-8f79-540f7deb2320.jpg){: .right}
 
 Rose Storkey grew up with murder in the blood - or rather, on the dining room table. Her father, an amateur criminologist, piled his books high and introduced poisonings - and deaths - into conversations. Rose has never grown out of her penchant for mysteries and 'Oh damn the chloroform': Adelaide Bartlett's Family of Secrets and the Pimlico Mystery (Brown Dog Books, 2022) is her first book.
 
 
 ## Sheila Sweetinburgh
 
-![Sheila Sweetinburgh](https://stor.artstor.org/stor/10374744-325d-4b60-993e-8f4a083ade67){: .right}
+![Sheila Sweetinburgh](https://raw.githubusercontent.com/kent-map/forum-images/main/10374744-325d-4b60-993e-8f4a083ade67.jpg){: .right}
 
 Dr Sheila Sweetinburgh’s book on English medieval hospitals looks especially at the hospitals of Sandwich, Dover, and Canterbury. She has also edited four books and written numerous articles on a wide variety of medieval and early modern social history topics that use case studies from Kent, ranging from late medieval rebellion to immigration in fifteenth-century Kent. She is particularly interested in medieval towns and their townspeople, and she uses such studies in her postgraduate teaching at Canterbury Christ Church University and at the University of Kent.
 
@@ -464,7 +464,7 @@ Dr Christian Taylor is Head of English at the Langton Grammar School for Boys, C
 
 ## Daniel Vince
 
-![Daniel Vince](https://stor.artstor.org/stor/b1ad2662-db10-4aa7-abc2-eb895852e5e4){: .right}
+![Daniel Vince](https://raw.githubusercontent.com/kent-map/forum-images/main/b1ad2662-db10-4aa7-abc2-eb895852e5e4.jpg){: .right}
 
 Daniel Vince is currently in the second year of his PhD at Canterbury Christ Church University and was awarded the School of Humanities and Education Studies scholarship. He is writing a thesis entitled The New University in Post-War British Literature, which is subject to change. He has previously completed an MRes at the University of York, and a BA (Hons) from Canterbury Christ Church University. At the time of writing, Daniel is a Visiting Fellow of the Bodleian, University of Oxford, where he has been researching the bibliography of Laurence Binyon. He has also received numerous small grants from The Bibliographical Society for this purpose. He is a trustee of The Philip Larkin Society, but when he is not researching the post-war university, or Laurence Binyon, Daniel is running his own rare book business – Daniel Vince Rare Book
 
@@ -485,7 +485,7 @@ Elizabeth Waterman-Scrase is a writer, historian, and experimental surrealist. S
 
 ## Martin Watts
 
-![Martin Watts](https://stor.artstor.org/stor/b84e8e80-b9c9-42c1-9d0c-c215df81f997){: .right}
+![Martin Watts](https://raw.githubusercontent.com/kent-map/forum-images/main/b84e8e80-b9c9-42c1-9d0c-c215df81f997.jpg){: .right}
 
 Dr Martin Watts is Senior Lecturer and Principal Research Fellow in Modern History at Canterbury Christ Church University. His research interests include the industrial revolution, welfare and the state, the two world wars and naval history. Martin has written courses covering the effect of the industrial revolution and the world wars upon society in Kent, with an emphasis on the strategic importance of the county to the defence of the United Kingdom.
 
@@ -499,7 +499,7 @@ Dr Beth Whalley received a PhD from King’s College London in 2020, and has rec
 
 ## Simon Wilson
 
-![Simon Wilson](https://stor.artstor.org/stor/6336dfc2-5df4-4b6d-af0f-4fb4f23bf9c7){: .right}
+![Simon Wilson](https://raw.githubusercontent.com/kent-map/forum-images/main/6336dfc2-5df4-4b6d-af0f-4fb4f23bf9c7.jpg){: .right}
 
 Dr Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Education at Canterbury Christ Church University, and an elected member of the Institute for Orthodox Christian Studies in Cambridge. He has a special interest in landscape, co-creation, love of learning, and the theology of the Orthodox Church. His latest publication is “The Fierce Urgency of Now and Forever and unto Ages of Ages: Study and the Restoration of Paradise on Earth”, International Journal of Sustainability in Higher Education, vol. 23 no. 1 (2022), pp. 29-40. 
 
@@ -516,7 +516,7 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 
 ## Claire Boardman
 
-![Claire Boardman](https://stor.artstor.org/stor/88924a4b-6e73-4ddf-93b0-816f8e66c094){: .right}
+![Claire Boardman](https://raw.githubusercontent.com/kent-map/forum-images/main/88924a4b-6e73-4ddf-93b0-816f8e66c094.jpg){: .right}
 
 Claire Boardman is a PhD Candidate in Applied Digital Humanities at the University of York, Digital Creativity Labs. Supported by the Engineering and Physical Research Council, she is currently researching digital heritage content co-curation and re-use within the context of connection and cohesion in inner urban neighbourhoods. Her research is practice-orientated and diverse but generally concerned with human-environment relationships with a current focus on heritage-led, participatory approaches to climate change and sustainability.
 
@@ -530,28 +530,28 @@ Kaitlyn Cowling is a recent BA Creative and Professional Writing graduate from C
 
 ## Pasindu Diwalapa Hewage
 
-![Pasindu Diwalapa Hewage](https://stor.artstor.org/stor/3bb79a28-619b-4ee2-9fa7-27de1cf6b62a){: .right}
+![Pasindu Diwalapa Hewage](https://raw.githubusercontent.com/kent-map/forum-images/main/3bb79a28-619b-4ee2-9fa7-27de1cf6b62a.jpg){: .right}
 
 Pasindu Jayalal is a Computer Science student set to graduate in June 2024. During his internship as a web developer at Kent Map Online, Pasindu coverted dynamic thumbnails to static images to enhance website performance and created Python scripts to detect duplicate images and references.
 
 
 ## Dominique Gracia
 
-![Dominique Gracia](https://stor.artstor.org/stor/ac5eca54-0b25-4120-b9fb-4dd9258afc7b){: .right}
+![Dominique Gracia](https://raw.githubusercontent.com/kent-map/forum-images/main/ac5eca54-0b25-4120-b9fb-4dd9258afc7b.jpg){: .right}
 
 Dr Dominique Gracia is a Project Manager with the Oxford Faculty of English and UK Administrative Director of the Collaborative Organization for Virtual Education. Her research focuses on Victorian poetry and short fiction, ekphrasis and the relationships between media, and the reuse and recurrence of the Victorian in twenty-first-century television.
 
 
 ## Angela Iredia
 
-![Angela Iredia](https://stor.artstor.org/stor/e445639c-c64e-4b76-9ff7-03123109d289){: .right}
+![Angela Iredia](https://raw.githubusercontent.com/kent-map/forum-images/main/e445639c-c64e-4b76-9ff7-03123109d289.jpg){: .right}
 
 Angela Iredia is a 2nd year Digital Media Computing student at Birmingham City University. She has different interests, from history and art to computing and media. She has lived in Italy for many years before moving to the UK.
 
 
 ## Logan Miller
 
-![Logan Miller](https://stor.artstor.org/stor/691ce515-ef4d-4b7b-a8b8-5fff79894a1e){: .right}
+![Logan Miller](https://raw.githubusercontent.com/kent-map/forum-images/main/691ce515-ef4d-4b7b-a8b8-5fff79894a1e.jpg){: .right}
 
 Logan Miller is 3rd year Computer Science BSc student at the University of Sheffield who has a keen interest in Software Development.
 

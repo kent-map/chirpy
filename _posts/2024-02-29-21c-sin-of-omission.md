@@ -5,7 +5,7 @@ author: Liam Cohen
 date: 2024-02-29
 categories: [ 21c ]
 tags: [ Faith & belief, Towns & cities, Texts & genres, Identity & community, Buildings & architecture ]
-image: https://stor.artstor.org/stor/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c.jpg
 permalink: /21c/21c-sin-of-omission/
 published: true
 toc: false  
@@ -15,11 +15,11 @@ juncture: true
 
 In her 2021 novel _[A Sin of Omission]( https://www.envelopebooks.co.uk/a-sin-of-omission)_, Marguerite Poland highlights the work carried out by Anglican missionaries in 19th century South Africa. During this time, many young men travelled from all over the world to study at Saint Augustine’s Missionary College in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). After their studies, students were sent on Holy missions across the world. In the novel, Poland follows a young Ngqika man, Stephen Mzamane, who is based on a former student of the college, Reverend Stephen Mtutuko Mnyakama. In our discussion on the Writing Comes Alive Podcast, Poland informed me that her great-grandfather Alfred William Brereton was also a student at the college, and loosely influenced another character in the novel, Reverend Turvey.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4cd4b6d3-4f35-4412-9634-7b08e7f93583" aspect="1.506" caption="Louis Laurent Razé’s 1848 view of the quadrangle by kind permission of Peter Henderson" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4cd4b6d3-4f35-4412-9634-7b08e7f93583.jpg" aspect="1.506" caption="Louis Laurent Razé’s 1848 view of the quadrangle by kind permission of Peter Henderson" %}
 
 In 1844, Alexander Beresford Hope, a proud churchman and Member of Parliament for Maidstone, bought the buildings of Saint Augustine’s; at the time, it was ‘Old Palace Pub’ and a brewery.[^ref1]  Beresford Hope paid £2,020, approximately £122,042 as of 2017.[^ref2]  In partnership with his friend, Edward Coleridge, Beresford Hope was eager to make better use of the buildings. Hence, the Missionary College. Beresford Hope appointed a young but well-sought-after architect, William Butterfield, to design the College. Then, in 1848, St. Augustine’s Missionary College welcomed students for the first time. The college aimed to educate and facilitate Clergymen for the Colonies. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/d3503019-fb04-4277-b4e6-f0d8df49d802" aspect="1.543" caption="The College gate" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/d3503019-fb04-4277-b4e6-f0d8df49d802.jpg" aspect="1.543" caption="The College gate" %}
 
 {% include embed/image.html src="wc:Alexander_Beresford_Hope.jpg" aspect="0.618" caption="Alexander Beresford Hope, London Stereoscopic & Photographic Company, Public domain, via Wikimedia Commons" %}
 
@@ -37,7 +37,7 @@ Saint Augustine’s Missionary College had a fantastic academic reputation, riva
 
 'Of the value to me of the college course I cannot speak too highly; for I feel that if I am of any use in the Church of Christ, it is entirely owing to the knowledge, habits, and opinions, which I acquired and formed under its influence. -   I may say that it was of the very highest value to me in forming regular habits, in acquiring maturity of thought and opinions, in softening little peculiarities of temper and manner, which, if not corrected, might have been a bar to my usefulness.’[^ref13]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fcfa1100-99e8-46d5-a8f9-4be99acd1050" aspect="0.834" caption="The portrait in the Refectory of Henry Bailey by Sydney Hodges, 1878 by kind permission of Peter Henderson" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fcfa1100-99e8-46d5-a8f9-4be99acd1050.jpg" aspect="0.834" caption="The portrait in the Refectory of Henry Bailey by Sydney Hodges, 1878 by kind permission of Peter Henderson" %}
 
 To prepare its students further, the college offered a variety of subjects. From religious based studies, language, the foundation subjects to practical skills.[^ref14] This setup students well for various roles they maybe expected to fulfil on mission, such as Teacher, Clergyman or Medical professional. For example Brereton’s career trajectory went from headmaster at a Cathedral grammar school – Staff Master at St Matthew’s – Registrar of Rhodes University. Brereton also specialised in managing speech defects, teaching language and public speaking.
 
@@ -61,13 +61,13 @@ Once students graduated, they did not always receive the required support. This 
 
 Nevertheless, it has been documented that many students still had a strong affiliation with the college, often writing letters to fellow students and professors. This was mostly done through the Occasional papers. The idea came from Bailey, who was enthusiastic about growing the college’s influence. The first Occasional papers were published, on 31st May 1853 and continued for the remainder of the college’s years. There were three main reasons for the publication: first, to keep in touch with former students. Second, to read and share with current students. The final reason was to promote the college to the wider area.[^ref21]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/6dbab552-24f7-4374-94c8-3bfeb96b1587" aspect="1.526" caption="St Augustine's College" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6dbab552-24f7-4374-94c8-3bfeb96b1587.jpg" aspect="1.526" caption="St Augustine's College" %}
 
 St. Augustine’s Missionary College was pivotal in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury)’s history at a time of extraordinary growth, both theologically and locally within the city. During its 96 years, the College sent out just under 1000 missionaries across the globe. Unfortunately, in 1942, the college was severely damaged by a German air raid and could no longer operate.  Thankfully, the lower chapel still holds a piece of the college’s history. In our discussion, Poland informed me of her experience visiting the lower chapel:
 
 There were the names of all the alumni of the college carved on the wall. (She and her husband went on to find Mnyakama’s and her Great-Grandfather’s name.) – In a strange way, I suppose that was the only place where Stephen’s name was inscribed in stone, and to see that for me was very moving.[^ref22] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/770b9bfa-b8c3-438f-900f-ec47836f9583" aspect="0.662" caption="St Augustine's College" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/770b9bfa-b8c3-438f-900f-ec47836f9583.jpg" aspect="0.662" caption="St Augustine's College" %}
 
 In 1952, the college re-opened as the Central College of the Anglican Communion, although many buildings were still damaged from the war. In 1967, the training of students was relocated to London (St. Augustine’s College).[^ref23] The King’s School has used the site (excluding St. Augustine’s Abbey, which is now a National Heritage site) since 1976, when they leased the property. Eventually, in 1993, they purchased the site. 
 

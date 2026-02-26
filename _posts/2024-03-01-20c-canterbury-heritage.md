@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
 tags: [ Heritage & memory, Towns & cities, Buildings & architecture, Travel & mobility, Time periods ]
-image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-heritage/
 published: true
 toc: false  
@@ -73,7 +73,7 @@ For a family seeking an experience trip, the Canterbury Tales Centre, establishe
 
 Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/115f208d-182b-44f6-bf4d-8f481eea236d" aspect="1.0" caption="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/115f208d-182b-44f6-bf4d-8f481eea236d.jpg" aspect="1.0" caption="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther" %}
 
 **St Augustine’s Abbey**
 

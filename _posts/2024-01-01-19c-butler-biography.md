@@ -46,7 +46,7 @@ Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the
 
 Butler continued to campaign until the Act was finally repealed in 1886. However, as the practice of forced examinations continued in India Butler renewed her campaign, determined that no woman should suffer. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c87a31b4-b490-41f8-930c-97b5b9e7a5b0" aspect="1.567" caption="Maidstone" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c87a31b4-b490-41f8-930c-97b5b9e7a5b0.jpg" aspect="1.567" caption="Maidstone" %}
 
 {% include embed/map.html center="Q213180" zoom="13" markers="Q213180" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 

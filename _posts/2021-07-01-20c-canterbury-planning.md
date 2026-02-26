@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Towns & cities, Buildings & architecture, Politics & reform, Conflict & war ]
-image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-planning/
 published: true
 toc: false  
@@ -19,17 +19,17 @@ After the [war]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) fierce controv
 
 {% include embed/image.html src="wc:Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" aspect="0.681" caption="Charles Holden, 1946" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f7e87e07-6521-4ea5-99e3-6f2f6594b92b" aspect="1.503" caption="Dane John Gardens, pre-1918" attribution="Postcard, Valentine's series, no known copyright" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f7e87e07-6521-4ea5-99e3-6f2f6594b92b.jpg" aspect="1.503" caption="Dane John Gardens, pre-1918" attribution="Postcard, Valentine's series, no known copyright" %}
 
 However, this meant clearing more old buildings, widening narrow streets and reorganising public spaces, with the general application of reinforced concrete. Holden’s scheme was opposed by an alliance of residents and business owners who formed the Canterbury Citizens' Defence Association (CCDA). Victory for the CCDA anti-planners in the municipal elections of November 1945 meant that no coherent scheme was carried through.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a" aspect="0.954" caption="The Holden Plan" attribution="Paul Crampton, by permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a.jpg" aspect="0.954" caption="The Holden Plan" attribution="Paul Crampton, by permission" %}
 
 A compromise plan of 1948 removed the ring road to outside the city walls, where later as a dual carriageway it was built but never completed as a full circuit. Some parts of the Holden plan which were realised can be seen, for instance in the transformation of Rose lane from a narrow lane to a broad boulevard which Holden intended to be the central section of his “Civic Way”. As no plan was fully implemented, Canterbury has been left as it is found today, a mix of partially implemented plans. Since local government reorganisation in 1974, greater sensitivity has been shown, one excellent result being the pedestrianisation of the city centre.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/707a3d41-f05c-49d5-add1-dbc573efec4a" aspect="1.495" caption="Canterbury High Street" attribution="Postcard, pre-1920" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/707a3d41-f05c-49d5-add1-dbc573efec4a.jpg" aspect="1.495" caption="Canterbury High Street" attribution="Postcard, pre-1920" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" aspect="1.499" caption="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4492394e-fa2c-454b-99a9-0520c088b76d.jpg" aspect="1.499" caption="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
 
@@ -53,7 +53,7 @@ The Whitefriars, formerly the site of an Augustinian friary and later the Simon 
 
 {% include embed/image.html src="wc:Austin_Friars_in_Whitefriars%2C_Canterbury.jpg" aspect="1.333" caption="Austin Friars in Whitefriars, Canterbury" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" aspect="1.58" caption="Simon Langton Schools, Whitefriars" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c1364803-83ff-4c91-ad94-2c3903d4b135.jpg" aspect="1.58" caption="Simon Langton Schools, Whitefriars" %}
 
 {% include embed/image.html src="wc:Bus_Station_-_geograph.org.uk_-_746935.jpg" aspect="1.249" caption="Bus station, Canterbury" %}
 

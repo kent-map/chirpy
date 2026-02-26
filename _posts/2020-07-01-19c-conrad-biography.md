@@ -5,7 +5,7 @@ author: Martin Watts
 date: 2020-07-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Heritage & memory ]
-image: https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/977ef46e-5678-49cc-ba76-03b5e75bed20.jpg
 permalink: /19c/19c-conrad-biography/
 published: true
 toc: false  
@@ -38,7 +38,7 @@ Conrad’s legacy lies in his storytelling and his capture of the human interest
 
 You can also find out more about [Conrad's homes in Kent]({{ site.baseurl }}/20c/20c-conrad-homes)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fdcf1896-22cd-41c2-917a-cd07a8621a22" aspect="0.752" caption="Joseph Conrad's grave" attribution="© Kate Davies" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fdcf1896-22cd-41c2-917a-cd07a8621a22.jpg" aspect="0.752" caption="Joseph Conrad's grave" attribution="© Kate Davies" %}
 
 {% include embed/map.html center="Q866348" zoom="13" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 

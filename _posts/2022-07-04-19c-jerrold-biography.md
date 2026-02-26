@@ -34,7 +34,7 @@ By January 27th 1807, Samuel Jerrold had left Wilsley for good as competition am
 
 Jerrold’s parents were busy running their theatres, and so he was raised by his grandmother, Mrs Reid, and “no speck was ever seen upon his collar”[^ref8]. He was educated by one of the actors, Mr Wilkinson, who taught him to read and write at the age of 6.  As a young boy, he was often locked in his room “like a pet bird” and left to read whilst his grandmother collected the takings at the theatre. He would look out of the window with envy as his friends played in the streets below.[^ref9] After Mr Wilkinson left the company, Jerrold was sent to Mr Herbert’s School in [Sheerness](Q1003196) which had a hundred pupils. Herbert taught the boys “to turn noughts into nines.”[^ref10] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/e5edb1c7-9b9f-427e-8057-e5df4793b6d4" aspect="1.317" caption="George Vertue, The Picturesque Beauties of Great Britain: Kent.  Dock Yard, Sheerness, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/e5edb1c7-9b9f-427e-8057-e5df4793b6d4.jpg" aspect="1.317" caption="George Vertue, The Picturesque Beauties of Great Britain: Kent.  Dock Yard, Sheerness, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" %}
 
 {% include embed/map.html center="Q1003196" zoom="13" markers="Q1003196" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 

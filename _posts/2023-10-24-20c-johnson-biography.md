@@ -5,7 +5,7 @@ author: Jane Delamaine
 date: 2023-10-24
 categories: [ 20c ]
 tags: [ Authors & lives, Conflict & war, Rivers & marshes, Heritage & memory ]
-image: https://stor.artstor.org/stor/9ac45485-b2cf-4065-90b5-f363a95788a8
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/9ac45485-b2cf-4065-90b5-f363a95788a8.jpg
 permalink: /20c/20c-johnson-biography/
 published: true
 toc: false  
@@ -67,4 +67,4 @@ The circumstances surrounding Amy’s death remain a mystery to this day. Variou
 
 Amy Johnson was one of the world’s greatest female pilots. Her Australia flight remains one of the most outstanding solo achievements of all time and she helped pave the way for women in aviation and engineering worldwide.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/be27c5c0-67ad-4984-a151-09f2b60d59e0" aspect="1.291" caption="The Amy Johnson Project" attribution="Jane Delamaine" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/be27c5c0-67ad-4984-a151-09f2b60d59e0.jpg" aspect="1.291" caption="The Amy Johnson Project" attribution="Jane Delamaine" %}

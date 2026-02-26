@@ -50,9 +50,9 @@ On arrival at the railway station in Cranling (a hybrid of Cranbrook and Sandlin
 
 According to the landlady at the Rose and Crown, where Hervey stays, 'Life at Lythinge was ‘so dull’ she complained, and her former existence in a tiny marsh hamlet was one of wild dissipation and delight by comparison, barring the ague.' [^ref13].  The hotel is not all it was cracked up to be and the landlady stood in dread of the “occasional soldiers who came over from Sandhythe” These would have been the soldiers at the School of Musketry in [Hythe](Q967166).
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4ef7a1d3-e56d-464b-a53e-af0841504286" aspect="1.553" caption="School of Musketry, Hythe" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4ef7a1d3-e56d-464b-a53e-af0841504286.jpg" aspect="1.553" caption="School of Musketry, Hythe" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/99116851-20a9-4b76-8cb3-7ddce7a43d3b" aspect="1.737" caption="Hythe Military Canal" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/99116851-20a9-4b76-8cb3-7ddce7a43d3b.jpg" aspect="1.737" caption="Hythe Military Canal" attribution="Michelle Crowther" %}
 
 {% include embed/map.html center="Q967166" zoom="15" markers="Q967166" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -69,7 +69,7 @@ As Hervey walks, we can imagine Gertrude’s daily outings as she comes to terms
 
 In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who 'appeared at first more like a fairylike emanation of the sunset than a living and breathing creature.'[^ref17] He marries her but she deserts him, after spending all his money. Escaping London and its gossips, he moves into the old French House, Lythinge (Based on the French House, Lympne which was later owned by Sir Philip Sassoon). At the end of the book, Hervey, now a broken man, ponders upon the fifteen months he 'watched the changing seasons over the marshes, hugging my sorrow and living upon memories.' [^ref18]. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" aspect="1.722" caption="Illustration on the front cover of The Wooing of a Fairy" attribution="British library, public domain" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e.jpg" aspect="1.722" caption="Illustration on the front cover of The Wooing of a Fairy" attribution="British library, public domain" %}
 
 {% include embed/map.html center="Q2056118" zoom="15" markers="Q2056118" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 

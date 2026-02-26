@@ -26,7 +26,7 @@ In an interview for _The Guardian_, King states 'Ash was a boring place. It need
 
 ‘He’s a sort of boy, … He just wears rabbit-skins and lives in a cave. He gets his water through a vacuum cleaner and puts chalk in the bath. He’s my friend.’
 
-{% include embed/image.html src="https://stor.artstor.org/stor/862d778e-6ca0-46d3-976d-14bf7d4ff67d" aspect="1.0" caption="Stig of the Dump" attribution="Illustration by Heather Murdoch, designed for Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/862d778e-6ca0-46d3-976d-14bf7d4ff67d.jpg" aspect="1.0" caption="Stig of the Dump" attribution="Illustration by Heather Murdoch, designed for Kent Maps Online" %}
 
 The book has had an enduring appeal and sold over two million copies, despite first being rejected by twelve publishers. King told _The Guardian_ his depiction of free-range children was ‘frowned upon’, even then… ‘It was beginning to be rather improper to let a child run wild like that’. 
 

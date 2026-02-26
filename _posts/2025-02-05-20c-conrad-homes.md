@@ -5,7 +5,7 @@ author: Daniel Vince
 date: 2025-02-05
 categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Buildings & architecture, Travel & mobility ]
-image: https://stor.artstor.org/stor/977ef46e-5678-49cc-ba76-03b5e75bed20
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/977ef46e-5678-49cc-ba76-03b5e75bed20.jpg
 permalink: /20c/20c-conrad-homes/
 published: true
 toc: false  
@@ -14,7 +14,7 @@ juncture: true
 
 This article draws on a pamphlet entitled _Coach Tour of Joseph Conrad’s Homes in Kent_ by Borys Conrad. Written by [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography)’s eldest son, the pamphlet was issued in 1974, just four years before its author’s death. It is a charming production, comprised of only eight leaves, in light blue paper wraps with the Nałęcz coat of arms to the front panel, and contains six photographic plates – five being of Conrad’s homes, and another of the man himself. It is interesting to read the pamphlet in Borys’s voice, being so accustomed to the narrative voices of his father – it becomes detached, but remains intimate, and makes for fine reading. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c3205484-9714-451c-97d2-2112d1e56793" aspect="0.669" caption="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c3205484-9714-451c-97d2-2112d1e56793.jpg" aspect="0.669" caption="Coach Tour of Joseph Conrad's Homes in Kent" attribution="Borys Conrad" %}
 
 **Pent Farm, Postling**
 
@@ -59,7 +59,7 @@ The building, according to Borys Conrad, was “far bigger than […] needed”,
 
 It was also here that the family acquired their “first really high performance car”, a “four-cylinder 30-horse-power Cadillac”.[^ref12]  It was very roomy, and to be a sure companion in the move from Spring Grove to Joseph Conrad’s final home, Oswalds, which “actually took place during an industrial strike”, causing the family “great difficulty in organising” the move.[^ref13] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/91091fac-a648-45cd-907b-28de593b3ee6" aspect="1.5" caption="Spring Grove School" attribution="By kind permission of Nicky Lee-Browne, Spring Grove School" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/91091fac-a648-45cd-907b-28de593b3ee6.jpg" aspect="1.5" caption="Spring Grove School" attribution="By kind permission of Nicky Lee-Browne, Spring Grove School" %}
 
 {% include embed/map.html center="Q590063" zoom="12" markers="Q590063" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 

@@ -5,7 +5,7 @@ author: Daisy Eleanor
 date: 2024-03-01
 categories: [ landscape ]
 tags: [ Travel & mobility, Towns & cities, Literary places, Representation & interpretation ]
-image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /landscape/desire-paths/
 published: true
 toc: false  
@@ -16,7 +16,7 @@ Desire paths are, in the most literal terms, human-made trails created by erosio
 
 The first roads were desire lines, connecting towns and villages to one another. These lines are not always straight but are most often shortcuts. It is human nature to follow them: whether to rebel, save time and energy or in the pursuit of change. It is along these new routes and their newer perspectives that we can find inspiration to write: if you know where to look for it.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/a1030442-f940-4024-b047-7790ada36d4c" aspect="0.75" caption="Desire path" attribution="Daisy Butcher" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a1030442-f940-4024-b047-7790ada36d4c.jpg" aspect="0.75" caption="Desire path" attribution="Daisy Butcher" %}
 
 **A Local History of Desire Paths**   
 Canterbury has a rich history of pilgrimage that can help us understand the connectivity of paths through and around the city. Canterbury has been a site of Pilgrimage, 'A journey made to a sacred place as an act of religious devotion',[^ref1] since the early twelfth century. Pilgrims would have followed the ‘Pilgrims’ Way’ route, a 153-mile journey from Winchester to the tomb of the [medieval]({{ site.baseurl }}/medieval/medieval-canterbury) Archbishop, Thomas Becket, in Canterbury Cathedral. 
@@ -27,7 +27,7 @@ This historic pathway still exists today, and there are similarly connected rout
 
 Rebecca Solnit’s _Wanderlust: A History of Walking_ provides interesting perspectives on this concept of wandering, from what it means to be a walker across the eras, to the art of landscape and the importance of walking for spiritual connection. Solnit describes walking across desire paths as 'a mode of making the world as well as being in it'.[^ref2] Hence, the desire lines that we follow are the living history of those who have meandered before us, and Solnit writes of these as continual journeys through time or like the passing of a torch. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/41eafcdb-aeb1-4406-8269-3ef56a2b1e05" aspect="0.75" caption="Desire path" attribution="Daisy Eleanor" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/41eafcdb-aeb1-4406-8269-3ef56a2b1e05.jpg" aspect="0.75" caption="Desire path" attribution="Daisy Eleanor" %}
 
 **The Written History of Desire Paths**    
 Unforgettably, Canterbury was the home of England’s first known female professional writer, [Aphra Behn]({{ site.baseurl }}/17c/17c-behn-biography) (1640-1689). The city has seen a plethora of writers walk its streets, including the prolific playwright Christopher Marlowe (1564-1593), who also lived and wrote in Canterbury. 
@@ -41,13 +41,13 @@ Thoreau was an example of 'the wanderer, the stroller, the flâneur'[^ref3]  tha
 **Creating Your Own Desire Path Walk**   
 Of course, you don’t have to be a writer to engage with the landscape creatively. You could take a walk to photograph the world around you, collect items from it such as leaves for collages, or use the real-world landscape to draw an imaginary one on a site such as [Inkarnate]( https://inkarnate.com/). 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f3b14ae4-f42e-4faf-aaea-1da8b379b2de" aspect="0.75" caption="Walking through leaves" attribution="Daisy Eleanor" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f3b14ae4-f42e-4faf-aaea-1da8b379b2de.jpg" aspect="0.75" caption="Walking through leaves" attribution="Daisy Eleanor" %}
 
 Desire paths are a tool to help you notice the inherent history of places; where people have walked and the directions that they went. They’re a way of walking across the margins of places, even within the heart of a city such as Canterbury. It’s not often that we pay more attention to the journey than the destination, but creating your own walk across desire paths is a fun way to re-engage with the world around you. 
 
 University students, in particular, will take far more desire paths than they might realise. Often times when rushing to class, you’ll cut through alleyways or across roads that form these paths. For example, just outside of the [CCCU](https://www.canterbury.ac.uk) campus is a desire path that was most likely made by students.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ba540d55-be26-475d-8b1b-6f91e43f1bed" aspect="0.747" caption="Monastery Street" attribution="Daisy Eleanor" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ba540d55-be26-475d-8b1b-6f91e43f1bed.jpg" aspect="0.747" caption="Monastery Street" attribution="Daisy Eleanor" %}
 
 To create your own desire path walk, you can find one local to you or start here on Monastery St. (From here, the best direction to walk is towards the High Street, passing St Paul’s Church). Wherever you are, search for places of interest like street signs, benches, or even monuments. You can choose your own direction or flip a coin and follow left or right for ‘heads’ or ‘tails’. Most importantly, desire paths border all parts of urban and rural landscapes, though searching for parks and grassy areas will be your best shot. 
 

@@ -5,7 +5,7 @@ author: Geri Giebel Chavis
 date: 2024-12-16
 categories: [ 21c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
-image: https://stor.artstor.org/stor/99c782eb-98cd-4f5d-9cd0-d6f854c413ee
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/99c782eb-98cd-4f5d-9cd0-d6f854c413ee.jpg
 permalink: /21c/21c-winspear-biography/
 published: true
 toc: false  
@@ -16,11 +16,11 @@ Although Jacqueline Winspear moved to the U.S. at the age of thirty-five, Kent p
 
 Even after re-locating to California, Winspear returned many times to beloved sites of her past, and in her 2019 book _What Would Maisie Do?_, she devotes a chapter to Kent. In this section, she includes the following quote from one of her friends who has just finished reading _An Incomplete Revenge_, the fifth one in her series: “This book is your love letter to Kent.” Agreeing with this opinion, Winspear adds that “the county of Kent appears in each of the novels”.[^ref1] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" aspect="1.54" caption="Map of Kent" attribution="By kind permission of J. Salmon" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f3df3254-575f-4f32-ae8b-198c806e9d50.jpg" aspect="1.54" caption="Map of Kent" attribution="By kind permission of J. Salmon" %}
 
 Winspear’s memoir entitled _This Time Next Year We’ll Be Laughing_, published in 2020, captures her deep, abiding connection to Kent in these words: “The land where I grew tall is filled with meaning for me—it’s the land of hop gardens and apple orchards, of farms and fields, of trees to climb and streams flanked by pungent wild garlic and golden sun-reflecting celandines. This deep love of place is part of my family mythology, a delicate web across my heart. . . . I live some six thousand miles away from the land of my growing, and even from such a distance I can feel my roots in that soil. Take me there blindfolded and I would know I had come home. The air’s texture and fragrance, the sounds, the sense of light even though my eyes are closed—I would know I was where I belonged, once. And perhaps it’s truly where I belong now.”[^ref2]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f" aspect="1.325" caption="Orchards" attribution="© Lisa Hawkins" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/00a0bf98-14e0-4ad0-b658-61e9d07f609f.jpg" aspect="1.325" caption="Orchards" attribution="© Lisa Hawkins" %}
 
 In this memoir, Winspear presents detailed accounts of growing up in Kent. She was born in [Goudhurst](Q2019734) in the rural Weald of Kent where her parents lived in a small 13th century home called Black Bush Cottage “in the midst of the Bedgebury Forest”.[^ref3] After a brief sojourn in London, when the author was about two years old, her parents returned to the same area, moving into the 16th century Brown House Cottage which she describes as “magical”[^ref4] and which was a 2-mile walk into Goodhurst. As a little girl, Winspear loved the surrounding natural world and was particularly fond of the russets and Cox’s Orange Pippins she picked in the nearby apple orchards. 
 
@@ -40,13 +40,13 @@ Winspear recounts how her paternal grandfather’s family and her own father “
 
 The outdoor Museum of Kent Life in Cobtree, located at [Sandling](Q7416406) on River Medway near Maidstone, re-creates the world that Winspear and her forebears encountered in the hops industry’s heyday. The Museum’s volunteer docents show you what the hops look and smell like, how they are grown and twirled onto poles, and how they are dried in the oast houses there. On its grounds, the museum also includes several “hopper huts” a few of which are furnished with the workers’ domestic goods. These huts provide a vivid picture of the ways the hop-picking families lived during their Kent sojourn. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ee98d44a-638a-4293-ae37-f5704d3828df" aspect="1.333" caption="Hop Pickers Furnished Hut" attribution="© Geri Chavis" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ee98d44a-638a-4293-ae37-f5704d3828df.jpg" aspect="1.333" caption="Hop Pickers Furnished Hut" attribution="© Geri Chavis" %}
 
 {% include embed/map.html center="Q7416406" zoom="12" markers="Q7416406" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 The Kent hops-picking tradition constitutes a major setting in Winspear’s _An Incomplete Revenge_, and a visit to the Kent-Life Museum amplifies the readers’ experience of this fictional work. In today’s Kent, visitors can see how many homes which were originally oast houses still retain what Winspear calls “cone-shaped” roofs and a “white cowl resembling a witch’s hat”.[^ref11] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/99a47c03-32d2-482f-8741-887a01ba74ad" aspect="0.75" caption="Oast House at the Museum of Kent Life" attribution="© Geri Chavis" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/99a47c03-32d2-482f-8741-887a01ba74ad.jpg" aspect="0.75" caption="Oast House at the Museum of Kent Life" attribution="© Geri Chavis" %}
 
 {% include embed/map.html center="Q7416406" zoom="12" markers="Q7416406" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 

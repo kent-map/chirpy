@@ -14,7 +14,7 @@ juncture: true
 
 Birth in [Sandwich](Q26163); schooling in [Ashford](Q725261); serialisation of Kent-based novel _Mary Price_, 1851–53; purchase of Gothic House in [Herne Bay](Q929286), 1854 (residence 1854–58).   Publications: _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.   
 
-{% include embed/image.html src="https://stor.artstor.org/stor/3087858b-da37-4628-9bf4-b8ea685e6b71" aspect="1.328" caption="Sandwich" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3087858b-da37-4628-9bf4-b8ea685e6b71.jpg" aspect="1.328" caption="Sandwich" %}
 
 {% include embed/image.html src="wc:G_W_M_Reynolds_Author.jpg" aspect="0.813" caption="G. W. M. Reynolds" %}
 
@@ -38,7 +38,7 @@ Reynolds’s novel _Mary Price_ (1851–53) is a tale of two cities which takes 
 
 While in [Dover]({{ site.baseurl }}/dickens/19c-dover), the heroine works in Snargate Street, subsequently the subject of an essay by [G. A. Sala]({{ site.baseurl }}/19c/19c-sala-biography) entitled [_The Streets of the World_](https://search.proquest.com/britishperiodicals/docview/6520718/fulltextPDF/88A85DA9A4A94A39PQ/3?accountid=9869) The action extends to [Walmer](Q2551894) and to Herne Bay, where Reynolds was soon to settle. At [Hampton-on-Sea](Q5646148) it takes in 'a singular little colony of fishing people … [who] intermarry amongst themselves, and thus exist in a state of complete isolation, and almost inaccessible to every civilizing influence.'  Between Sandwich and [Deal](Q1011096), Mary Price passes with a shudder a stone marking the spot where on 25th August 1782 “Mary Rix, spinster, Aged 23 years, was murdered by Martin Lash, a foreigner, Who was executed for the same.” Through Price's grim observation, Reynold is reminding us of Baker Peter Smith’s[^ref1] and that the Kent of Mary Price is not the Kent of _The Pickwick Papers_, a place for cricket and Christmas; it is equally a place for cruelty and crime. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" aspect="1.64" caption="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1f7f1801-76e2-4b52-8fa1-996e0d735573.jpg" aspect="1.64" caption="Snargate Street Dover, 1830" attribution="Drawn by G. Shepherd" %}
 
 {% include embed/map.html center="Q179224" zoom="13" markers="Q179224" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 

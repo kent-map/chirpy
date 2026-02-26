@@ -28,7 +28,7 @@ Initially the family lived at 2 Ordnance Terrace, on the hills above the estuary
 
 In 1821 continued money difficulties forced a move to 18 St Mary’s Place, closer to the dockyard, and in the same year John Dickens covered a major fire in Chatham for _The Times_. His concern for the residents most deeply affected by this catastrophe is easily lost in the feeling of déjà vu for anyone who remembers Mr Micawber in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk). The rhetorical flourish and the preoccupation with financial ruin are both familiar from the novel, in lines such as ‘several houses, and those, we understand, principally belonging to persons whose ruin must be the consequence, were wholly unensured [sic]’.[^ref2] In danger of financial ruin himself, by 1822 John Dickens had left his post at the Naval Pay Office and moved the family to London.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" aspect="1.526" caption="Chatham Dockyard" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f04e222b-2912-487e-8194-b1a6e24c51c1.jpg" aspect="1.526" caption="Chatham Dockyard" %}
 
 ### Bibliography
 

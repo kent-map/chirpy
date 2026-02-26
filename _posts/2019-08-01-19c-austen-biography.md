@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2019-08-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility, Heritage & memory ]
-image: https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/a8bc686a-046f-4df8-8946-dd34baf364cc.jpg
 permalink: /19c/19c-austen-biography/
 published: true
 toc: false  
@@ -24,7 +24,7 @@ _Pride and Prejudice_
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly to see her brother, Edward Austen Knight, who lived first at [Rowling House](Q26324024), near Goodnestone, where Austen stayed in 1794 and 1796, and later at the magnificent [Godmersham Park]({{ site.baseurl }}/austen/austen-godmersham), where Austen visited six times between 1798 and 1813.  During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as _Pride and Prejudice_ in 1813.  The novel may reflect, in the figure of Lady Catherine De Bourgh, for example, some of the class snobbery Austen witnessed in mixing with what she termed “East Kent wealth”. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c" aspect="1.333" caption="Back view of Godmersham Park" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/16f50fe5-af80-4d10-a5f4-9820d3e7c63c.jpg" aspect="1.333" caption="Back view of Godmersham Park" attribution="Martin Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="11" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -43,7 +43,7 @@ Kent locations feature in several of Austen’s novels, and have been used as th
 Butler, Marilyn.  [Austen, Jane.](https://doi.org/10.1093/ref:odnb/904) [_Oxford Dictionary of National Biography._](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-904)   
 Le Faye, Deirdre, Ed. _Jane Austen’s Letters._ Oxford: OUP, 2014
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c86080d7-264e-47fd-b156-9033306d9c0e" aspect="1.333" caption="Steps in the grounds of Godmersham Park" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c86080d7-264e-47fd-b156-9033306d9c0e.jpg" aspect="1.333" caption="Steps in the grounds of Godmersham Park" attribution="Martin Crowther" %}
 
 ### References
 

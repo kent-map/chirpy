@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-02-08
 categories: [ landscape ]
 tags: [ Rivers & marshes, Towns & cities, Nature & environment, Work & industry, Representation & interpretation ]
-image: https://stor.artstor.org/stor/b4fb174f-5884-4bfc-832a-20fc4b3683dc
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/b4fb174f-5884-4bfc-832a-20fc4b3683dc.jpg
 permalink: /landscape/river-dour/
 published: true
 toc: false  

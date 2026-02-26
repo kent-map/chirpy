@@ -49,7 +49,7 @@ Neither David nor Pip ever quite gets the hang of making journeys without being 
 
 [_Great Expectations_]({{ site.baseurl }}/dickens/great-expectations-curated-walk)_ would not be written until 1861, but it is set at around the same period as _David Copperfield_, roughly the time of Dickens’s own move from [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) to London. The reader is therefore free to imagine David crossing the path taken by both Pip and Dickens, as he leaves Salem House behind him and walks another twenty three miles, ‘coming over the bridge at [Rochester]({{ site.baseurl }}/dickens/dickens-medway), footsore and tired, and eating bread that I had bought for supper.’ With a few pence left and in fear of the tramps he has met on the road (possibly discharged veterans of the Napoleonic Wars), he decides not to risk the cheap lodging houses, but instead elects to sleep rough, ‘toiling into [Chatham]({{ site.baseurl }}/dickens/dickens-chatham), - which, in that night's aspect, is a mere dream of chalk, and drawbridges, and mastless ships in a muddy river, roofed like Noah's arks’, and lying down near a cannon in the vicinity of an oblivious sentry.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" aspect="1.367" caption="Bridge at Rochester" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b20551a2-aa18-453c-b464-69a72531d6ac.jpg" aspect="1.367" caption="Bridge at Rochester" %}
 
 {% include embed/map.html center="Q729006" zoom="13" markers="Q729006" allmaps="~Dover Road" %}
 
@@ -59,7 +59,7 @@ It is in a [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) slop shop that 
 
 After further delays as he hides from ‘any of these people’ coming towards him, David’s first sight of [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) with its ‘sunny street’ and ‘stately, grey Cathedral shows a city that is at once peaceful and notably at odds with his own state. Where the city is ‘dozing’ in the heat, David himself is both dusty and quite possibly dehydrated. He cannot stay here – or not yet – and makes his way through the main street and down the [Dover Road]({{ site.baseurl }}/dickens/david-copperfield-dover-road) (now the Old Dover Road) that leads directly on for another eighteen miles.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" aspect="1.499" caption="The Micawbers at Canterbury" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/360206a8-3604-42df-806f-0059dbbf2b85.jpg" aspect="1.499" caption="The Micawbers at Canterbury" %}
 
 {% include embed/map.html center="Q4949442" zoom="10" markers="Q4949442" allmaps="~Dover Road" %}
 

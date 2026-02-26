@@ -14,7 +14,7 @@ juncture: true
 
 Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover]({{ site.baseurl }}/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.[^ref1]  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on [Dover](Q179224)’s London Road, before being donated to the museum in the 1950s. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/6c9c8e14-a294-48f8-84e8-fca3236b6ad8" aspect="0.751" caption="Polar Bear, Dover Museum" attribution="Jacquie Stamp" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6c9c8e14-a294-48f8-84e8-fca3236b6ad8.jpg" aspect="0.751" caption="Polar Bear, Dover Museum" attribution="Jacquie Stamp" %}
 
 Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz[^ref2]  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]({{ site.baseurl }}/19c/19c-dover/) within a few weeks of Reginald’s birth.
 
@@ -36,7 +36,7 @@ Returning to [Dover]({{ site.baseurl }}/19c/19c-dover/) in 1897, Koettlitz submi
 
 The warmer climes of this expedition must have been a welcome change from his experience in the Arctic, yet within months of returning again to [Dover]({{ site.baseurl }}/19c/19c-dover/), Koettlitz agreed to join another polar expedition - this time to the southern hemisphere of the globe and the continent of Antarctica. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/41de8bed-ae21-4c40-889e-ebd9585a4b31" aspect="0.781" caption="The Discovery" attribution="The Daily Chronicle, 17 June 1901" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/41de8bed-ae21-4c40-889e-ebd9585a4b31.jpg" aspect="0.781" caption="The Discovery" attribution="The Daily Chronicle, 17 June 1901" %}
 
 _The Discovery_ expedition was commanded by Robert Falcon Scott, who would later find fame as Scott of the Antarctic. Koettlitz was appointed Chief of Scientific Staff. At 40 years of age, he was the oldest member of the expedition, and was affectionately known as Cutlets. Also present was Ernest Henry Shackleton, who would later ‘become Scott’s greatest personal rival in Antarctic exploration’,[^ref8]  and whose expertise in ‘handling sails, [was] … essential in Antarctic conditions’.[^ref9]  In his spare time, Shackleton edited the ship’s newspaper, _The South Polar Times_, in which, in 1903 he published a poem by Sub Lieutenant Michael Barne entitled ‘Illustrated Interviews de Reginald Koettlitz’.[^ref10]  In it, Barne mocks Koettlitz for ‘his pedantry and obscurism’,[^ref11]  implying that no one back home in the UK would be interested in his minute scientific observations, but nevertheless acknowledging his conscientious commitment to his work. 
 

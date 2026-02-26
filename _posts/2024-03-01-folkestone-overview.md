@@ -19,7 +19,7 @@ juncture: true
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/forum-images/main/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84.jpg)
 
 Text here.
 
@@ -35,7 +35,7 @@ Text here.
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/forum-images/main/35bc9f9f-8fd4-4164-8042-c0ddbae953b1.jpg)
 
 Text here.
 
@@ -43,7 +43,7 @@ Text here.
 
 - author: Carolyn Oulton
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/forum-images/main/d306de51-dc71-4369-9416-2306342424d1.jpg)
 
 Text here.
 
@@ -99,7 +99,7 @@ Text here.
 
 - author: Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3c5e3b72-effe-4a59-ab8b-09e045451505)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/forum-images/main/3c5e3b72-effe-4a59-ab8b-09e045451505.jpg)
 
 Text here.
 

@@ -27,7 +27,7 @@ She wrote a detailed diary throughout her life of which 141 volumes survive, num
 
 As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour.  Twelve years later, she stayed at [Albion House]({{ site.baseurl }}/19c/19c-victoria-albion-house) with her mother and visited [Broadstairs]({{ site.baseurl }}/19c/19c-victoria-broadstairs), [Margate]({{ site.baseurl }}/dickens/19c-margate/) and [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/). She returned in the autumn of that year, staying at [West Cliff House]({{ site.baseurl }}/19c/19c-victoria-west-cliff) on this occasion and had an overnight stay at an inn in Rochester.  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/8538611a-a4ed-4003-a5d6-fd5168d378cf" aspect="1.771" caption="Pierremont House, Broadstairs" attribution="Photographed by Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/8538611a-a4ed-4003-a5d6-fd5168d378cf.jpg" aspect="1.771" caption="Pierremont House, Broadstairs" attribution="Photographed by Martin Crowther" %}
 
 {% include embed/map.html center="Q26386990" zoom="12" markers="Q26386990" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 

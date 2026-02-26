@@ -5,7 +5,7 @@ author: Irina Fridman
 date: 2022-11-03
 categories: [ 19c ]
 tags: [ Politics & reform, Towns & cities, Identity & community, Representation & interpretation ]
-image: https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/9b234825-18ea-401c-9c71-868cdfc3eb21.jpg
 permalink: /19c/19c-jewish-emancipation/
 published: true
 toc: false  

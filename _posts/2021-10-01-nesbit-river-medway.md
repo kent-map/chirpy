@@ -30,7 +30,7 @@ KENT, March 1896.
 
 All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" aspect="1.53" caption="Estuary of the Thames and the Medway by A. Fullarton & Co." attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/3077e656-5d0a-4310-b7ca-c69a16417e07.jpg" aspect="1.53" caption="Estuary of the Thames and the Medway by A. Fullarton & Co." attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
 {% include embed/map.html center="Q936183" zoom="8" markers="Q936183" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}
 
@@ -103,7 +103,7 @@ The Kentish fields and flowers,
 We waste no dreams on other streams 
 Who call the Medway ours. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" aspect="1.538" caption="The Medway at Tonbridge" attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ae0662fc-e1a2-43a1-8382-71def7414a5c.jpg" aspect="1.538" caption="The Medway at Tonbridge" attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905" %}
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 

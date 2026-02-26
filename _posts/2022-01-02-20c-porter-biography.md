@@ -20,7 +20,7 @@ In the 1870s, Bertha’s parents, Frederick and Sarah Porter (nee Moyle), bought
 
 In December 1877, influenced by her cousin Frances Moberly, Bertha joined the Persistent Scribblers Society, a creative writing group for aspiring writers. Her name features in the subscription list with her father, mother and sister, Ethel,   however she did not contribute any pieces. It is possible that Bertha felt the society was not suited to her aspirations, as she disappears from the subscription list after only one notebook.[^ref3] 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f" aspect="1.59" caption="The Parade, Hythe with Moyle Tower" attribution="The Photochrom Co. Ltd" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/573d7807-f4c0-40b9-ad07-e65b737daf4f.jpg" aspect="1.59" caption="The Parade, Hythe with Moyle Tower" attribution="The Photochrom Co. Ltd" %}
 
 Developing an interest in psychical research, Bertha became friendly with Edmund Gurney and F.W.H. Myers, and became their 'valued helper'[^ref4]. Edmund Gurney was drawn to psychical research after three of his sisters tragically drowned when their boat capsized on the Nile during their 1875 tour of Egypt.[^ref5]  We do not know if Bertha knew them. In his book _Human Personality and its survival of bodily death_, Myers notes that experiments with the planchette were conducted at Tynwald, Hythe in 1884 by Bertha’s cousin Frances Moberly. There were two other women present, and it is very likely that one of these was Bertha. Frances wrote:
 
@@ -46,7 +46,7 @@ With the death of her mother in 1912, Bertha’s connections with Hythe ended. I
 
 This article was published: 2 January 2022.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" aspect="1.553" caption="Marine Parade, Hythe with Moyle Tower c.1914" attribution="Kent Maps Online Postcard Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8.jpg" aspect="1.553" caption="Marine Parade, Hythe with Moyle Tower c.1914" attribution="Kent Maps Online Postcard Collection" %}
 
 ### References
 

@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Travel & mobility, Towns & cities, Heritage & memory, Buildings & architecture ]
-image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-railway/
 published: true
 toc: false  

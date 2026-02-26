@@ -20,7 +20,7 @@ juncture: true
 
 These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731) represent the earliest surviving reference to the legendary brothers, Hengest (sometimes spelled Hengist) and Horsa. According to Bede, they led the so-called ‘adventus Saxonum’, when the first wave of Germanic settlers, invited by the British king Vortigern, arrived in Kent in the year 449 to help fight against the Picts. Most historians agree that his account is a simplified version of a complex period of movement and migration, designed to provide an origin story for the English people as Bede wanted to define them.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e" aspect="0.75" caption="The Hugin, replica Viking longship, Pegwell Bay" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e.jpg" aspect="0.75" caption="The Hugin, replica Viking longship, Pegwell Bay" attribution="Michelle Crowther" %}
 
 {% include embed/map.html zoom="15" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
@@ -56,7 +56,7 @@ These myths can inspire communities to think more deeply about local histories, 
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of the area and are established characters in local and national stories of the past. There is even a replica ‘Viking’ ship on display in Pegwell Bay, the Hugin, which was installed to commemorate the 1500th anniversary of the landing of Hengest and Horsa. Remarkably, the [Encylopaedia Britannica](https://www.britannica.com/topic/Hengist) categorises the names under ‘Philosophy and Religion’ and ‘Ancient Religions and Mythology’, which goes to demonstrate how lines between truth and fiction, historical events and imagined, symbolic realities become blurred [^ref8].
 
-{% include embed/image.html src="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a" aspect="1.333" caption="The Hugin, Pegwell Bay" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/05d3fd9a-d78d-45b0-9baa-4eadde612f7a.jpg" aspect="1.333" caption="The Hugin, Pegwell Bay" attribution="Michelle Crowther" %}
 
 ### Works cited
 

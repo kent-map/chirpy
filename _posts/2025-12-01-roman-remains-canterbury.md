@@ -24,7 +24,7 @@ The clearest way in which to see these reused materials is with the many pre-Con
 
 St Martin's was originally a Roman site, the period of which is debate,[^ref6] that was then gifted to Queen Bertha by her husband, at which point it was renovated into their personal chapel.[^ref7] The Roman materials present can be found both in the Anglo-Saxon Chancel and to a lesser extent the Nave. The lowest layers of the walls of the Chancel of St Martin’s clearly show dressed green sandstone blocks which are likely to have been from the original Roman site.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fb3f75e0-144d-4c2f-9ca1-0432d108e853" aspect="1.333" caption="St Martins Church 2022 South wall 2" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fb3f75e0-144d-4c2f-9ca1-0432d108e853.jpg" aspect="1.333" caption="St Martins Church 2022 South wall 2" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
 
 When looking at the Nave, both the interior and exterior have reused Roman clay bricks dotted throughout the walls. Interestingly, the mortar used in the construction of the earliest parts of the church contain crushed-up Roman brick and stone,[^ref8] which was a building method mostly found in France at this time, which implies that Queen Bertha likely brought over stone masons from her homeland in order to construct her chapel.[^ref9]
 
@@ -40,7 +40,7 @@ A much larger site that contains reused Roman is St Augustine’s Abbey, which w
 
 The walls which surround the city of Canterbury contain reused Roman materials in some of it earliest medieval sections. Canterbury has had walls surrounding it since the Roman city was built,[^ref14] yet the walls which can be seen today are primarily the remains of the later medieval walls.[^ref15] The easiest section at which to find reused materials can be found as Queningate where the remnants of an archway constructed from Roman materials is visible.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/76321b82-4f3e-4ca8-99c7-149e1a8877ca" aspect="0.75" caption="Roman materials used in Queningate a part of the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/76321b82-4f3e-4ca8-99c7-149e1a8877ca.jpg" aspect="0.75" caption="Roman materials used in Queningate a part of the East side of Canterbury city wall" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
 
 There is a clear mix of dressed sandstone as well as red brick present in this archway, and there is more red brick used further along the wall from Queningate.
 
@@ -60,7 +60,7 @@ Lastly, the most used yet least visible reuse of Roman infrastructure is the Rom
 
 To bring this all to a close, the Anglo-Saxons commonly used the ruins of Roman Canterbury as their builders' yard, taking valuable materials which they were unable to reproduce to the same quality, and using them to construct new buildings. This has been highlighted with the widespread reuse of Roman red bricks across the city, mainly in churchs and the city walls, as well as the less obvious reusage of Roman dressed green sandstone. There is also clear reuse of Roman infrastructure as seen in the continued use of the Roman roads as well as the settlements which they led to.         
 
-{% include embed/image.html src="https://stor.artstor.org/stor/32679105-93c3-49e0-a480-2f59b746b2ba" aspect="0.75" caption="Church of St Pancras 2025" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/32679105-93c3-49e0-a480-2f59b746b2ba.jpg" aspect="0.75" caption="Church of St Pancras 2025" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
 
 ### Bibliography
 

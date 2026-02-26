@@ -26,5 +26,5 @@ The Romney Marsh has long been associated with smuggling and sheep. In his guide
 [^ref1]: Barham, Richard. _The Ingoldsby Legends_
 [^ref2]: Thorne, John. _Kent_ London: W & R Chambers Ltd., 1968.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/91ccdada-33fe-417f-b7cd-5f2a3e0c610f" aspect="0.643" caption="Kent by John Thorne" attribution="Kent Maps Online" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/91ccdada-33fe-417f-b7cd-5f2a3e0c610f.jpg" aspect="0.643" caption="Kent by John Thorne" attribution="Kent Maps Online" %}
 

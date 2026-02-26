@@ -36,7 +36,7 @@ However, the second half of his report reveals concern for the inhabitants of th
 	any the said provisions, unless he occupy 300 acres of fresh land within the 
 	same at the least.’[^ref3]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" aspect="1.096" caption="Detail of Sheppey" attribution="John Speed map of Kent, 1611" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2c221d42-8be8-432e-80c5-a1c13e87ea9d.jpg" aspect="1.096" caption="Detail of Sheppey" attribution="John Speed map of Kent, 1611" %}
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
 

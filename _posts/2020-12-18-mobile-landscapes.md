@@ -40,26 +40,26 @@ juncture: true
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/06cc864a-9a22-4049-b398-1a743cf03a51" aspect="0.75" caption="A selection of books about Dickens and place" attribution="©Carolyn Oulton" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/06cc864a-9a22-4049-b398-1a743cf03a51.jpg" aspect="0.75" caption="A selection of books about Dickens and place" attribution="©Carolyn Oulton" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Of course, at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At [Gravesend]({{ site.baseurl }}/19c/19c-gravesend) we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the [sea]({{ site.baseurl }}/seascape)? [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) or [Dover]({{ site.baseurl }}/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" aspect="1.25" caption="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/267a9b45-9c4f-4db0-843a-67931fc83467.jpg" aspect="1.25" caption="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 **The adventure begins**   
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet]({{ site.baseurl }}/dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" aspect="1.5" caption="Swiss Chalet" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/11fbd10c-4977-45e6-8713-df4c593a5574.jpg" aspect="1.5" caption="Swiss Chalet" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
-{% include embed/image.html src="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" aspect="1.5" caption="Rochester High Street" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2cfcb41f-c781-4914-96e3-48310cb5c5c4.jpg" aspect="1.5" caption="Rochester High Street" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -74,21 +74,21 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
-{% include embed/image.html src="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" aspect="0.667" caption="Benjamin High Street" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/04e9631a-5523-4e71-95cf-41e21e51b8c4.jpg" aspect="0.667" caption="Benjamin High Street" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 **David Copperfield**   
 What we are calling [David Copperfield: a curated walk]({{ site.baseurl }}/dickens/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs).
 
-{% include embed/image.html src="https://stor.artstor.org/stor/94f8fef7-7b3a-4c4c-a262-fda43bba696a" aspect="1.477" caption="Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/94f8fef7-7b3a-4c4c-a262-fda43bba696a.jpg" aspect="1.477" caption="Broadstairs" %}
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 **Broadstairs**   
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) ), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place)  (it’s meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" aspect="2.222" caption="Dickens Museum" attribution="©Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/e8ea25b0-76d8-4eac-93e6-d1c2838da651.jpg" aspect="2.222" caption="Dickens Museum" attribution="©Martin Crowther" %}
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -106,13 +106,13 @@ The museum parlour is a complete reconstruction of the room where David is rando
 
 It is a far cry from the grandeur of [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" aspect="0.75" caption="Cream tea" attribution="©Carolyn Oulton" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/a44f44d7-8226-47fe-9762-90595ead4cf4.jpg" aspect="0.75" caption="Cream tea" attribution="©Carolyn Oulton" %}
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/079a54df-5a5a-484f-9ebe-3bc9fa0f031b" aspect="1.333" caption="Albion Hotel, Broadstairs" attribution="©Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/079a54df-5a5a-484f-9ebe-3bc9fa0f031b.jpg" aspect="1.333" caption="Albion Hotel, Broadstairs" attribution="©Michelle Crowther" %}
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -128,19 +128,19 @@ At this point the narrative is interrupted while a brief debate ensues:
 
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" aspect="1.333" caption="Augustine House Library" attribution="©Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61.jpg" aspect="1.333" caption="Augustine House Library" attribution="©Michelle Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" aspect="1.333" caption="Augustine House interior" attribution="©Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/48b30422-8835-4e77-892d-50a1a82b35c2.jpg" aspect="1.333" caption="Augustine House interior" attribution="©Michelle Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" aspect="1.5" caption="Lady Wootton's Green, Canterbury, 2021" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d.jpg" aspect="1.5" caption="Lady Wootton's Green, Canterbury, 2021" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -148,7 +148,7 @@ With hindsight, a recurring feature of these expeditions was our enthusiasm for 
 
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" aspect="1.418" caption="The House of Agnes" attribution="Nat Lowden and Sara Gelencer" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/aaceb5d3-7946-4843-8443-d6663752501a.jpg" aspect="1.418" caption="The House of Agnes" attribution="Nat Lowden and Sara Gelencer" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -167,14 +167,14 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 
 Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover]({{ site.baseurl }}/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" aspect="1.326" caption="3, Albion Villas, Folkestone" attribution="©Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/976ac6dd-9111-43f0-8d31-ddc807990e24.jpg" aspect="1.326" caption="3, Albion Villas, Folkestone" attribution="©Martin Crowther" %}
 
 {% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 **Chalk**   
 In [Broadstairs]({{ site.baseurl }}/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" aspect="2.222" caption="Victoria Parade, Broadstairs" attribution="©Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/1807d34b-a40f-4979-95a8-fee341c98aa5.jpg" aspect="2.222" caption="Victoria Parade, Broadstairs" attribution="©Martin Crowther" %}
 
 {% include embed/map.html center="Q5068781" zoom="13" markers="Q5068781" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -186,14 +186,14 @@ The day we went to find Pip Pirrip nothing was initially visible from anywhere. 
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/268e63f4-837e-405b-aae4-cf63b8288c18" aspect="1.333" caption="Forge Cottage, Chalk" attribution="©Ken Moffat" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/268e63f4-837e-405b-aae4-cf63b8288c18.jpg" aspect="1.333" caption="Forge Cottage, Chalk" attribution="©Ken Moffat" %}
 
 {% include embed/map.html center="Q5068781" zoom="13" markers="Q5068781" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 **Cooling**   
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church]({{ site.baseurl }}/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/efdfe6c0-6b85-41ec-b620-b04bfc7432f2" aspect="0.75" caption="Cooling Churchyard" attribution="©Carolyn Oulton" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/efdfe6c0-6b85-41ec-b620-b04bfc7432f2.jpg" aspect="0.75" caption="Cooling Churchyard" attribution="©Carolyn Oulton" %}
 
 {% include embed/map.html center="Q2649453" zoom="13" markers="Q2649453" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -209,7 +209,7 @@ It was just as well we had refreshed ourselves, because what happened next could
 
  _Hurrah, a fjord – I love fjords!_  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" aspect="1.333" caption="Pies" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/bfce798e-18d9-4e1b-bd73-b375747cb320.jpg" aspect="1.333" caption="Pies" attribution="Michelle Crowther" %}
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
 
@@ -226,7 +226,7 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 
 The temporal gap between lunch at the [Ship and Lobster]({{ site.baseurl }}/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" aspect="1.5" caption="Cobham, Kent: The Leather Bottle" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5aae08bd-3755-49e9-b144-25809d990abe.jpg" aspect="1.5" caption="Cobham, Kent: The Leather Bottle" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q949561" zoom="13" markers="Q949561" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -236,7 +236,7 @@ So for our next foray we carefully avoided the river and set off in search of Es
 
 Whenever he leaves the forge Pip is confronted with a choice between the [marshy expanse]({{ site.baseurl }}/landscape/kentish-landscapes) of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House]({{ site.baseurl }}/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" aspect="1.5" caption="Bull Hotel" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/71d79942-8b89-4986-93c1-26ac1891d108.jpg" aspect="1.5" caption="Bull Hotel" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -244,7 +244,7 @@ We were forced to question his decision when – having assumed we would find th
 
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House]({{ site.baseurl }}/dickens/great-expectations-restoration-house). 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/08a01877-5172-46fe-ba14-108ac56bf37b.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
@@ -341,7 +341,7 @@ Dickens is prone to moving places around; as a successful London author David te
 
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" aspect="1.333" caption="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" attribution="©Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/61b0b13d-f9de-432b-a628-1706a79d3cf4.jpg" aspect="1.333" caption="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" attribution="©Martin Crowther" %}
 
 **Bibliography**   
 Allbutt, R. (1886) _Rambles in Dickens land_   

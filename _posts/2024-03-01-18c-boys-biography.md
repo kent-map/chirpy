@@ -21,7 +21,7 @@ The people liberal, valiant, active, wealthy.
 
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/0a089144-1037-4a97-999f-28208ceaef93" aspect="0.595" caption="A General View of the Agriculture of the County of Kent" attribution="John Boys" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0a089144-1037-4a97-999f-28208ceaef93.jpg" aspect="0.595" caption="A General View of the Agriculture of the County of Kent" attribution="John Boys" %}
 
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="95a97f635eb83b37~Cary 1787" %}
 
@@ -41,19 +41,19 @@ The Morrice family sold the [Betteshanger](Q4898591) estate in 1850 to Sir Walte
 **A General view of the agriculture of the county of Kent**   
 Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography]({{ site.baseurl }}/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" aspect="1.172" caption="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/28f41aa7-4b9e-481f-a997-c8d43f536e94.jpg" aspect="1.172" caption="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
 
 {% include embed/map.html center="Q28339447" zoom="9.5" markers="Q28339447" allmaps="95a97f635eb83b37~Cary 1787" %}
 
 **Implements**   
 Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]F
 
-{% include embed/image.html src="https://stor.artstor.org/stor/55ae7c09-a2ba-4608-ad55-46178e7328f8" aspect="1.779" caption="Hay Cart and Farm 19th Century England" attribution="Unknown" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/55ae7c09-a2ba-4608-ad55-46178e7328f8.jpg" aspect="1.779" caption="Hay Cart and Farm 19th Century England" attribution="Unknown" %}
 
 **Crops: rotation and fallowing**   
 Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" aspect="0.75" caption="Crop Rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/439a71e9-2c05-4dcf-b3f6-9a5448eed90d.jpg" aspect="0.75" caption="Crop Rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
 
 Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in [Thanet](Q1752642), writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
 
@@ -68,7 +68,7 @@ Hay is usually set up in stacks, either in the marshes near a foddering lodge, o
 **Woodlands, hops and orchards**   
 Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe" aspect="1.588" caption="Hop picking in the early 19th century" attribution="Copyright Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c7b86f66-bc0f-474f-9257-c9a742e4c6fe.jpg" aspect="1.588" caption="Hop picking in the early 19th century" attribution="Copyright Martin Crowther" %}
 
 {% include embed/map.html center="Q2005288" zoom="12" markers="Q2005288" allmaps="95a97f635eb83b37~Cary 1787" %}
 
@@ -101,7 +101,7 @@ Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no
 
 While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/88d2f112-4ba0-4117-a87a-238e090cd846" aspect="1.502" caption="A small south downs ram belonging to Mr Boys" attribution="H.Boys fecit © Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/88d2f112-4ba0-4117-a87a-238e090cd846.jpg" aspect="1.502" caption="A small south downs ram belonging to Mr Boys" attribution="H.Boys fecit © Augustine House Library, Canterbury Christ Church University" %}
 
 {% include embed/map.html center="Q936183" zoom="10" markers="Q936183" allmaps="95a97f635eb83b37~Cary 1787" %}
 
@@ -118,7 +118,7 @@ His other sections include paring and burning, and manuring: as well as dung he 
 
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" aspect="0.863" caption="Survey of Woods by John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8.jpg" aspect="0.863" caption="Survey of Woods by John Boys" attribution="© Augustine House Library, Canterbury Christ Church University" %}
 
 **Highways**   
 Boys considers the highways, and observes that while the principal road in the county, from London to [Canterbury](Q29303), is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’[^ref21]  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in [the Weald](Q2298322) which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.[^ref22]  
@@ -140,7 +140,7 @@ At times Boys quotes extensively from Edward Hasted’s _History and Topographic
 
 Boys and his wife later moved from Betteshanger to Each End, between [Ash](Q4804328) and [Wingham](Q2632094). He is buried at St Mary the Virgin, Wingham, where there is a memorial to him.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" aspect="1.334" caption="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/6b64c68c-189f-4cdf-af16-519319fcf8a1.jpg" aspect="1.334" caption="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath" %}
 
 {% include embed/map.html center="Q2632094" zoom="13" markers="Q2632094" allmaps="95a97f635eb83b37~Cary 1787" %}
 

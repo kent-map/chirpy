@@ -20,7 +20,7 @@ _‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls�
 
 Alfred Jingle describes Rochester Bridge and Rochester Cathedral. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" aspect="1.367" caption="Rochester Bridge" attribution="1828 Adlard" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b20551a2-aa18-453c-b464-69a72531d6ac.jpg" aspect="1.367" caption="Rochester Bridge" attribution="1828 Adlard" %}
 
 Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Strood, Rochester, [Chatham]({{ site.baseurl }}/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
 
@@ -38,13 +38,13 @@ Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied wit
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place]({{ site.baseurl }}/dickens/dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" aspect="1.5" caption="Gad's Hill" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5c3cfffa-911e-44cf-ab35-28b94bf80418.jpg" aspect="1.5" caption="Gad's Hill" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
 The first mention of Kent appears in Chapter 2, as the Pickwickians approach [Rochester](Q507517) Bridge. Alfred Jingle, the narrative’s profligate wanderer, delivers a potted history of the bridge and other nearby landmarks (quoted above) in fragmented adjective phrases which rain upon the reader like cannon fire. Jingle’s description conjures an image of Kentish architecture as a palimpsest, with its feudal echoes continuing to shape and resonate in the nineteenth-century landscape. This depiction is later supplemented with a flatteringly vivid description of Rochester Castle, and the cornfields, pastures and windmills situated on the banks of the Medway, with its ‘picturesque boats’.  Tracey Tupman will briefly take refuge in [The Leather Bottle]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle) in Cobham after being jilted by Rachel Wardle.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" aspect="1.5" caption="Leather Bottle" attribution="Benjamin Mortley" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5aae08bd-3755-49e9-b144-25809d990abe.jpg" aspect="1.5" caption="Leather Bottle" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
@@ -60,7 +60,7 @@ Perhaps most scathing of all is [Dickens’s]({{ site.baseurl }}/dickens/dickens
 
 The scathing caricature of the military and residents of Kent contrasts sharply with [Dickens’s]({{ site.baseurl }}/dickens/dickens-biography) descriptions of its scenery, which is perhaps why some local newspapers focussed on the latter when reviewing or reprinting extracts from the serial. For example, in 1836, the [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette) delightedly writes that: ‘[t]o our general readers the Pickwick papers will be doubly acceptable, from the scenes being laid in Kent, where, intermingled with narrations of laughable adventures, are beautiful graphic descriptions of some of the magnificent remains of the feudal grandeur of the county’.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/9892bd49-0ecf-4513-a85d-00fc939769da" aspect="1.334" caption="Redcoats by the coast" attribution="By kind permission of Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/9892bd49-0ecf-4513-a85d-00fc939769da.jpg" aspect="1.334" caption="Redcoats by the coast" attribution="By kind permission of Martin Crowther" %}
 
 ### Bibliography: 
 

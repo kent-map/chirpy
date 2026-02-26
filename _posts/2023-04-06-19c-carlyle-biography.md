@@ -35,7 +35,7 @@ Commenting on her hosts, who were 'civil and honest-looking and slow',[^ref4] Ja
 
 However, in a letter, written two days later, her disenchantment with Ramsgate becomes apparent. Although she admired the East Cliff which was 'clean and genteel and airy',[^ref5] she was less impressed with the rest of the town with its 'narrow, steep, confused streets like the worst parts of Brighton. The shops look nasty, the people nasty, the smells are nasty! (spoiled shrimps complicated with cesspool!)'[^ref6]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" aspect="1.539" caption="East Cliff Promenade" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/47ed345c-3d26-4e7f-a46e-3bdc267e68f4.jpg" aspect="1.539" caption="East Cliff Promenade" attribution="Kent Maps Online Collection" %}
 
 In addition to the odours, the cacophony of street sounds, drove Jane to distraction: 
 
@@ -43,7 +43,7 @@ In addition to the odours, the cacophony of street sounds, drove Jane to distrac
 
 In an attempt to escape the rowdiness of Ramsgate, the two women drove to [Broadstairs]({{ site.baseurl }}/19c/19c-broadstair), where [Dickens]({{ site.baseurl }}/dickens/dickens-broadstairs) who had commissioned 17 stories from Jewsbury[^ref8], had holidayed two years earlier, but they were unable to find new lodgings. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" aspect="1.366" caption="Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Photographic Views of Margate and Neighbourhood: Bleak House, Broadstairs" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
 Jane could not rest, complaining that she was unable to write with the incessant sound of carpet-beating, passing carts and piano playing. Geraldine, on the other hand, impervious to the noise, added to Jane’s mounting irritation as she wrote with her 'rapid, continuous scrape, scraping' of her pen.[^ref9] 
 
@@ -55,7 +55,7 @@ Jane died in 1966. After her death, Geraldine moved from London to [Sevenoaks](Q
 
 This article was published: 6 April 2023.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/b0104c29-f227-4e1e-b231-3eba2e3ea4dd" aspect="1.224" caption="Sevenoaks High Street" attribution="Kent Maps Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/b0104c29-f227-4e1e-b231-3eba2e3ea4dd.jpg" aspect="1.224" caption="Sevenoaks High Street" attribution="Kent Maps Collection" %}
 
 ### References
 

@@ -35,11 +35,11 @@ Like other East Kent resorts, the town had developed from its origins as a fishi
 
 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" aspect="1.366" caption="Bleak House, Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Bleak House, Broadstairs" %}
 
 He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. The final pages of [_Pickwick_]({{ site.baseurl }}/dickens/pickwick-papers) [1837], as well as parts of _Oliver Twist_, _Nicholas Nickleby_ , _Barnaby Rudge_, _The Old Curiosity Shop_ and _American Notes_ were also written during visits to the town. Parts of _[David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk)_ (1848-50) were written in [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" aspect="1.333" caption="Dickens' House, Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/14998065-2aae-464e-9015-45036a05a19b.jpg" aspect="1.333" caption="Dickens' House, Broadstairs" %}
 
 A boy employed at Ballard’s later remembered surreptitiously entering the pantry and consuming a plate of leftover chicken, only to hear the landlord telling Dickens that he could give him ‘a nice portion of cold chicken’ for his lunch. The boy was greatly relieved when Dickens looked at him and said laughingly, ‘there have been more mysterious disappearances. Somebody has doubtless enjoyed it.’[^ref3]. Assuming this story to be true, it is tempting to link it to Magwitch’s ‘I’m sorry to say, I’ve eat your pie’ in _[Great Expectations]({{ site.baseurl }}/dickens/great-expectations-curated-walk)._
 
@@ -50,7 +50,7 @@ By the late nineteenth century Dickens’s association with the town was being h
 
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0badef45-31a2-4639-9599-ec3aa2bd4d42.jpg" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
 
 ### Bibliography
 

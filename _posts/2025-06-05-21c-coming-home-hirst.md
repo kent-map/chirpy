@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Maps & place-making ]
-image: https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  

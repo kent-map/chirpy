@@ -21,7 +21,7 @@ I wandered up through Penshurst churchyard, and through a little wicket-gate int
 
 "I will be good," I said; " oh, I will indeed! " And as long as I stayed among the golden buttercups and silver may-bushes, I believe I was moderately good. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fa7281ea-765d-4ca1-afc9-2723f4ef7ff2" aspect="1.594" caption="Penshurst" attribution="Kent Maps Online Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fa7281ea-765d-4ca1-afc9-2723f4ef7ff2.jpg" aspect="1.594" caption="Penshurst" attribution="Kent Maps Online Collection" %}
 
 {% include embed/map.html center="51.2342802052878, 0.1940171847982023" zoom="12" markers="51.2342802052878, 0.1940171847982023" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}
 

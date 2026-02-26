@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Towns & cities, Conflict & war, Work & industry, Maps & place-making, Time periods ]
-image: https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-overview/
 published: true
 toc: false  
@@ -31,7 +31,7 @@ Between the 1950s and ‘70s housing, private and public, took over the fields f
 
 {% include embed/image.html src="https://d1nvj7b44vmgv4.cloudfront.net/w800/bra/SA_BRA_7_C_6_10hr.jpg" aspect="1.242" caption="Design for the award-winning Sainsbury's Canterbury branch" attribution="Sainsbury Archive, open access" %}
 
-{% include embed/image.html src="https://stor.artstor.org/stor/71e99860-a9d4-4204-a59e-ddb2c508ef98" aspect="1.333" caption="Sturry Retail Park" attribution="Michelle Crowther, by permission" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/71e99860-a9d4-4204-a59e-ddb2c508ef98.jpg" aspect="1.333" caption="Sturry Retail Park" attribution="Michelle Crowther, by permission" %}
 
 {% include embed/map.html center="Q8023755" zoom="15" markers="Q8023755" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
 

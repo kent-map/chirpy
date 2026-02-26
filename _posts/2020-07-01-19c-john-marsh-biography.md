@@ -19,7 +19,7 @@ According to the extensive journal of John Marsh, gentleman, barrister, and tale
 
 'As the moon was now in its last quarter and the evening turned out to be very dark, we all found it expedient to stay till 11 o’clock, by which time the moon became of sufficient height to enlighten us on our road home. On this account, after Michaelmas it was usual for all dinner and evening engagements to be fixed for the moonlight nights, in consequence of which our engagements came so thick during the second and third quarters of the moon that we were always rather glad than otherwise when the dark nights came that we might have a few evenings to ourselves. On this account also it was usual for families settling and arranging their engagements etc., at this time of year to ask how they stood engaged during the present or the next moon.'
 
-{% include embed/image.html src="https://stor.artstor.org/stor/244f4d71-a16f-4dc8-b220-994b63422a06" aspect="1.471" caption="18th century map showing Nethersole House" attribution="Augustine House Library, Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/244f4d71-a16f-4dc8-b220-994b63422a06.jpg" aspect="1.471" caption="18th century map showing Nethersole House" attribution="Augustine House Library, Canterbury Christ Church University" %}
 
 {% include embed/map.html center="Q26372738" zoom="10" markers="Q26372738"  %}
 
@@ -57,7 +57,7 @@ The improvement in travelling comfort in the first three or four decades of the 
 
 For much more prosaic reasons, [Canterbury's musicians]({{ site.baseurl }}/music) would certainly have appreciated the improvement in travelling conditions.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4b1bcc91-3a8d-416b-a3bc-522c47582a6d" aspect="1.378" caption="The Old Theatre Royal, Rochester" attribution="By kind permission of the Dickens Museum, Broadstairs" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4b1bcc91-3a8d-416b-a3bc-522c47582a6d.jpg" aspect="1.378" caption="The Old Theatre Royal, Rochester" attribution="By kind permission of the Dickens Museum, Broadstairs" %}
 
 {% include embed/map.html center="Q29303" zoom="10" markers="Q29303"  %}
 

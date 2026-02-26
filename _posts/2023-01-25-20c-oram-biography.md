@@ -5,7 +5,7 @@ author: Emma Latham
 date: 2023-01-25
 categories: [ 20c ]
 tags: [ Authors & lives, Science & ideas, Towns & cities, Arts & performance ]
-image: https://stor.artstor.org/stor/ed545935-aca9-4569-9b43-54e1f11d3e99
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/ed545935-aca9-4569-9b43-54e1f11d3e99.jpg
 permalink: /20c/20c-oram-biography/
 published: true
 toc: false  
@@ -29,7 +29,7 @@ Upon leaving the BBC, Oram set up her own studio at Tower Folly, Fairseat: 'a fr
 
 In addition to lecturing on electronic music and studio techniques at Canterbury Christ Church, Oram continued her work as a commercial composer to fund the development of Oramics, using her system to make a wide range of music and sounds for radio, television, theatre, film and exhibitions. She received two grants from the Gulbenkian Foundation and was able to produce ‘Contrasts Essonic’ in 1963, the first entirely sound-drawn piece using the machine. Oram’s research evolved to look at the behaviour of the ear and perception of the brain’s interpretation of the world, studying vibrational phenomena and describing Oramics as 'the study of sound and its relationship to life.'
 
-{% include embed/image.html src="https://stor.artstor.org/stor/0502153c-0020-4151-9caf-479dede7c6cf" aspect="1.543" caption="Canterbury Christ Church College" attribution="Augustine House Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/0502153c-0020-4151-9caf-479dede7c6cf.jpg" aspect="1.543" caption="Canterbury Christ Church College" attribution="Augustine House Library" %}
 
 A series of strokes sadly forced Oram to stop working and she died in 2003 but there is no doubt that her methods, techniques, and explorations of sound theory and music philosophy have been hugely influential through the decades since the creation of the Radiophonic Workshop and the Oramics machine, and that her work has paved the way for contemporary music production. Oram’s insight allowed her to see the future impact of her work, knowing that she was laying a foundation that could be built upon as technology advanced. Indeed, Oram saw electronic music as a field in which women could thrive and was excited at the prospect of her work planting seeds that would blossom in time:
 
@@ -47,7 +47,7 @@ You can find out more about Daphne Oram [here](https://youtu.be/RTHXwgTpy90).
 
 This article was published: 23 January 2023.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/5c0f95b3-e762-4282-926b-abbe671a1ae4" aspect="1.499" caption="Daphne Oram Building" attribution="Canterbury Christ Church University" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/5c0f95b3-e762-4282-926b-abbe671a1ae4.jpg" aspect="1.499" caption="Daphne Oram Building" attribution="Canterbury Christ Church University" %}
 
 ### References
 

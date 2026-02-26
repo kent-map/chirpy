@@ -40,7 +40,7 @@ In its heyday, the glee was a rather more demanding genre requiring a level of v
 
 You can watch this video to find out more [Chris Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
 
-{% include embed/image.html src="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" aspect="1.346" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions." %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/fe4a9962-d0fd-4116-9f01-a05b7425fbfa.jpg" aspect="1.346" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions." %}
 
 ### Bibliography
 

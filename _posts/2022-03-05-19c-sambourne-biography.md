@@ -60,7 +60,7 @@ In the winter of 1910, Sambourne, who was suffering from ill health, stayed at t
 
 This article was published: 5 March 2022.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" aspect="1.486" caption="Granville Hotel, Ramsgate" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/c588a4b8-e77a-4b52-bf74-c1dc705350b8.jpg" aspect="1.486" caption="Granville Hotel, Ramsgate" %}
 
 {% include embed/map.html center="Q736439" zoom="13" markers="Q736439" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 

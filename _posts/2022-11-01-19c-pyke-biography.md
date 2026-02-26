@@ -5,7 +5,7 @@ author: Irina Fridman
 date: 2022-11-01
 categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Culture & society, Faith & belief ]
-image: https://stor.artstor.org/stor/9b234825-18ea-401c-9c71-868cdfc3eb21
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/9b234825-18ea-401c-9c71-868cdfc3eb21.jpg
 permalink: /19c/19c-pyke-biography/
 published: true
 toc: false  
@@ -28,11 +28,11 @@ In 1849, Joseph, then 25, moved to Chatham to marry his cousin Sara Magnus, one 
 
 As Pyke recalled later, the idea of establishing an institute started during one morning visit of some ‘respectable men’ to his house on Chatham Hill. The men requested Pyke’s help in obtaining books for their Philosophical Institution, which they circulated between themselves, and for assistance in running the institution, which was in financial trouble. Instead, Pyke suggested that the men paid off the debt to the landowner and establish a Mechanics Institution. The same morning, Pyke obtained the money to pay off the debt of about £90. He then bought the lease of a disused market-place and building, not far from the dockyard. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/cc1b9669-0996-475c-bba2-692467a50043" aspect="1.455" caption="Dickens's Rochester and Chatham" attribution="David Perdue" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/cc1b9669-0996-475c-bba2-692467a50043.jpg" aspect="1.455" caption="Dickens's Rochester and Chatham" attribution="David Perdue" %}
 
 After that, Pyke secured a meeting with [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography) at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill), with the intention of asking the author to become the president of the institution. According to Pyke’s recollections, ‘He was seated in his morning room… After the animated conversation about what can be done for the workers, in which he was most interested, I proposed to him he should become President of the Rochester and Chatham Mechanics’ Institution, and after much persuasion, he said “Well, Mr Pyke, I become president on one understanding, and that is that you are vice-president, and do all the work.” To this I willingly acceded. Then with characteristic courage I asked him if he could do anything for the opening day, and he said, “No, I don’t think I can.” I said, “Cannot you give us a reading from one of your famous books?” and to the best of my recollection, he said, “I do not think I am capable of doing what you ask.” After much pressing, and my telling him he could be sure to have a sympathetic audience, he said, ”Very well, I will try.” This he did gratuitously, which brought in a very large sum of money on the opening night.’ He read _A Christmas Carol_. It was a huge success, scarcely a dry eye in the house when he described <span data-mouseover-image-zoomto="1,0,672,459">Tiny Tim</span> on his father’s shoulder.[^ref4] It was Dickens’s first public reading.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/12803b3b-5aae-457e-bfba-f36f5f17d146" aspect="0.673" caption="Tiny Tim" attribution="Children's stories from Dickens retold by his granddaughters, 1893, Augustine House Library" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/12803b3b-5aae-457e-bfba-f36f5f17d146.jpg" aspect="0.673" caption="Tiny Tim" attribution="Children's stories from Dickens retold by his granddaughters, 1893, Augustine House Library" %}
 
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 

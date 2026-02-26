@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2020-12-01
 categories: [ landscape ]
 tags: [ Literary places, Nature & environment, Maps & place-making, Rivers & marshes, Texts & genres ]
-image: https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /landscape/kentish-landscapes/
 published: true
 toc: false  
@@ -32,7 +32,7 @@ Kent is a county of diverse landscapes - inspiring evocations of both rural idyl
 
 The grain is provided by the varied geology that Everitt’s transect crosses, from the relatively young Tertiary deposits at the coast to the Cretaceous Hastings beds of the High Weald  – a journey of a few dozen miles into ‘deep time’ representing some hundred and thirty-six million years! Kent’s topography reflects the fact that the geological strata of its sedimentary rocks have been uplifted to form a dome (anticline) of which the older geology has been exposed rather like the layers of an onion as the centre of the dome has eroded. This has resulted in alternating upland of more resistant rock ([chalk]({{ site.baseurl }}/landscape/kentish-chalk), sandstone) and low-lying vales of clay. The south facing edges of the more resistant formations give the characteristic scarp of the Downs and high Wealden ridge.
 
-{% include embed/image.html src="https://stor.artstor.org/stor/f8cec39e-e9b1-4882-87d7-4107a00019b1" aspect="1.333" caption="Geology of Kent" attribution="Kent Past and Present by George Bosworth, 1901" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/f8cec39e-e9b1-4882-87d7-4107a00019b1.jpg" aspect="1.333" caption="Geology of Kent" attribution="Kent Past and Present by George Bosworth, 1901" %}
 
 {% include embed/map.html center="Q67479626" zoom="9" markers="Q67479626" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 

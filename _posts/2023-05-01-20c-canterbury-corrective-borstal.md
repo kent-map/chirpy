@@ -5,7 +5,7 @@ author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 20c ]
 tags: [ Crime & punishment, Politics & reform, Buildings & architecture, Towns & cities ]
-image: https://stor.artstor.org/stor/3fadae4a-6076-4ed2-8b19-620a22b35993
+image: https://raw.githubusercontent.com/kent-map/forum-images/main/3fadae4a-6076-4ed2-8b19-620a22b35993.jpg
 permalink: /20c/20c-canterbury-corrective-borstal/
 published: true
 toc: false  
@@ -20,19 +20,19 @@ Sentences of ‘detention under penal discipline in a Borstal Institution’ wer
 
 Within two years unanticipated problems had begun to develop. Certain inmates were considered unsuitable for ordinary borstals, but the Prison Commissioners were reluctant to send them to adult prisons. To avoid this, they recommended a special kind of borstal that would offer a ‘penal’ or ‘corrective’ regime.  The search for a suitable site began, and eventually B wing at Canterbury prison was chosen. Canterbury’s corrective borstal was seen as offering a solution to ‘more than one formidable problem’ within the new system.[^ref3]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/4db4ad8c-0688-43f9-aa73-bcf493f4b208" aspect="1.416" caption="B Wing, Canterbury Prison, Site of the Borstal" attribution="Maryse Tennant" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/4db4ad8c-0688-43f9-aa73-bcf493f4b208.jpg" aspect="1.416" caption="B Wing, Canterbury Prison, Site of the Borstal" attribution="Maryse Tennant" %}
 
 All borstals were intended to have penal and coercive sides, as well as offering sound education, moral guidance and training.  Finding the appropriate balance between coercion and encouragement, or punishment and reformation, however, was a key challenge during early implementation. Canterbury’s borstal played a specific role in this, in essence providing for inmates considered ‘institutional failures’, either because they had not responded well to training, or had failed to conform after release on licence.
 
 Canterbury Borstal took two main groups of inmates. First were the ‘incorrigibles’, or boys who had ‘failed to respond adequately to reformative treatment’ because they frequently misbehaved, refused to work or were disobedient while in a regular borstal.  These were considered to exert a bad influence on other boys who were responding well to training. The second group were ‘recalls’, or licence revokees, sent back to borstal following misconduct while under supervision after early release. This included those who committed fresh offences, evaded supervision, or were non-compliant with the Borstal Association, who supervised them in the community.  Returning such inmates to normal institutions was considered to generate ‘trouble’ and take up resources which could ‘be more profitably bestowed on others’.[^ref4]  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/90484ba5-fe87-455b-9a2f-375e87aeefd5" aspect="1.333" caption="Reduce re-offending" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/90484ba5-fe87-455b-9a2f-375e87aeefd5.jpg" aspect="1.333" caption="Reduce re-offending" attribution="Michelle Crowther" %}
 
 Although located within a prison, unlike other borstals, Canterbury’s corrective centre was run separately. Adaptations were made to prevent contamination through young inmates mixing with adult prisoners, including the construction of internal stairways to isolate the borstal from the other wings.  Partitions were also erected in workshops and the chapel. Core elements of the borstal system were retained, such as the provision of industrial work, education and physical drill. Inmates were also allowed association periods and improvements were made to the lighting to enable them to read in their cells. 
 
 The need for correction meant that discipline was strict, though, and staff were required to have experience working in convict prisons. Facilities for hard manual labour were also a necessity to ensure work was considered penal. Concerns emerged that the regime was not punitive enough, and in May 1913, steps were taken to make ‘conditions at Canterbury harder’.[^ref5]  Education time was decreased to enable longer working hours. Glove making, which was considered ‘nice work’, was restricted to evenings, with day-time activities focused on hard manual labour digging or skin scraping. The latter was considered particularly ‘hard and unpleasant’.[^ref6]  Finally, a third period of drill was introduced so that Canterbury inmates performed an extra hour of this compared to other borstals. 
 
-{% include embed/image.html src="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" aspect="0.75" caption="Entrance to Canterbury Prison" attribution="Michelle Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/04b07dbb-e3b2-43d8-b9b3-265e9cff8737.jpg" aspect="0.75" caption="Entrance to Canterbury Prison" attribution="Michelle Crowther" %}
 
 The mixture of inmates sent to Canterbury caused management issues for the borstal’s Governor. He considered incorrigibles and recalls presented different problems, with those transferred for misconduct the ‘most cunning and troublesome’, while licence-revokees usually caused no trouble at all.[^ref7]  Some attempt, therefore, was made to allow differential treatment within one institution. In 1914, and again in 1920, a small party of selected inmates were permitted to work outside the prison on labour that had an educational element and was considered less penal.  This involved them assisting St Augustine’s College with their excavations of the historic abbey on whose land Canterbury prison had been built. Sixteen boys were engaged in this way in 1921, when they were awarded a slight increase to their diet following complaints of hunger and concern about their weight. 
 
@@ -40,7 +40,7 @@ The mixture of inmates sent to Canterbury caused management issues for the borst
 
 Locating the penal borstal within part of an operational prison was not considered a ‘satisfactory permanent arrangement’ by the Prison Commissioners.[^ref8]  In 1921 a new borstal opened at Portland which was intended to take over Canterbury’s role. All inmates were due to be transferred on the 1st September 1921. A small contingent remained at Canterbury, however, to enable the excavations at St Augustine’s Abbey to continue.  Numbers of borstal inmates after this were very small, with just seven remaining by January 1922, several of whom were due to be released shortly.[^ref9]  Three months later the entire prison at Canterbury was closed, bringing an end to the country’s first corrective borstal. Portland performed Canterbury’s role for only a short while before the penal borstal was once again moved, this time back into an adult prison at Wormwood Scrubs in London.  
 
-{% include embed/image.html src="https://stor.artstor.org/stor/84614730-c780-4d90-9c1f-e9e439e8632a" aspect="0.998" caption="Cell Door" attribution="Maryse Tennant" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/84614730-c780-4d90-9c1f-e9e439e8632a.jpg" aspect="0.998" caption="Cell Door" attribution="Maryse Tennant" %}
 
 ### Bibliography
 

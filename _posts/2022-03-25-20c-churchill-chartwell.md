@@ -51,7 +51,7 @@ As well as residing in Kent, Churchill visited other areas of the county on nume
 
 Churchill is remembered in Kent through three statues. One is located in Westerham on The Green,[^ref13], another at Chartwell and the third at St. Margaret’s Bay, [Dover](Q179224) looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
 
-{% include embed/image.html src="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" aspect="1.708" caption="Churchill Statue in Westerham" attribution="Martin Crowther" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/forum-images/main/9120880e-e4bc-4374-9a8e-a552e6f8d549.jpg" aspect="1.708" caption="Churchill Statue in Westerham" attribution="Martin Crowther" %}
 
 {% include embed/image.html src="wc:Chartwell%2C_Churchills%27_statue.jpg" aspect="1.239" caption="Statue of Winston and Clementine Churchill at Chartwell" %}
 
