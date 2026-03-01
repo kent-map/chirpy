@@ -28,7 +28,7 @@
 
     /* Figure wrapper (viewer + caption) */
     #wrap {
-      height: 98%;
+      height: 100%;
       display: grid;
       grid-template-rows: 1fr auto;
       position: relative;
@@ -42,6 +42,7 @@
       /* shown only if caption exists */
       position: relative;
       margin-top: 0.25rem;
+      margin-bottom: 0.25rem;
       padding: 0 36px;
       /* reserve space so the right icon doesn't overlap text */
       font-size: 1em;
@@ -259,7 +260,6 @@
   <script type="module">
     import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js';
 
-    console.log(location);
 
     // =========================================================================
     // DOM
@@ -302,8 +302,6 @@
       showMsg(`Missing <code>?src=</code> or <code>?manifest=</code> parameter.`);
       throw new Error("Missing src or manifest");
     }
-
-    setContainerHeight();
 
     // =========================================================================
     // IIIF Manifest Support
@@ -701,8 +699,6 @@
       const iframe = window.frameElement;
       const caption = document.getElementById('caption')
       let width = document.getElementById('osd').clientWidth;
-      console.log(`Setting container height: imageAspectRatio=${imageAspectRatio}, width=${width}`);
-      console.log(iframe);
       if (width) {
         if (!imageAspectRatio) {
           const raw = iframe?.style.getPropertyValue("aspect-ratio");
@@ -710,9 +706,8 @@
         }
         if (imageAspectRatio) {
           let captionHeight = caption.clientHeight || parseInt(caption?.style.height?.slice(0, -2)) || 24
-          let containerHeight = width / imageAspectRatio + captionHeight
-          console.log(`imageAspectRatio=${imageAspectRatio} width=${width} captionHeight=${captionHeight} computedHeight=${containerHeight}`)
-          if (iframe) iframe.style.height = `${containerHeight}px`
+          let containerHeight = width / imageAspectRatio + captionHeight + 20;
+          if (iframe) iframe.style.height = `${containerHeight}px`;
         }
       }
     }
@@ -975,7 +970,6 @@
     }
 
     function zoomto(regionStr, caption) {
-      console.log('Zoomto region:', regionStr, 'caption:', caption);
       viewer.clearOverlays();
 
       if (zoomedToRegion === regionStr) {
@@ -1007,6 +1001,15 @@
         }
       }, 60);
     }
+
+    new ResizeObserver(entries => {
+      const image = viewer?.world.getItemAt(0);
+      if (!image) return;
+      const imageSize = image.getContentSize();
+      const imageAspectRatio = imageSize.x / imageSize.y;
+      setContainerHeight(imageAspectRatio);
+      setTimeout(() => viewer.viewport.goHome(true), 0);
+    }).observe(window.frameElement);
 
     window.addEventListener('message', (event) => {
       const data = safeParseMessageData(event.data);
