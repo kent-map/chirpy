@@ -671,6 +671,12 @@ iframe[src^="https://cdn.knightlab.com/"] {
         width: 50% !important;
         page-break-inside: avoid !important;
     }
+    .right {
+        float: right !important;
+    }
+    h1 {
+        page-break-after: avoid;
+    }
 }
 
 /* Default: posters hidden on screen */
