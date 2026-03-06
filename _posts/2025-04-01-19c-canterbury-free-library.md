@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2025-04-01
 categories: [ 19c ]
 tags: [ Culture & society, Towns & cities, Politics & reform, Texts & genres, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/90/James_George_Beaney_memorial_02.JPG
 permalink: /19c/19c-canterbury-free-library/
 published: true
 toc: false  
@@ -40,10 +40,6 @@ The continued use of an ‘indicator’ in 1915 suggests the control still being
 {% include embed/image.html src="wc:Beaney_Institute_1899-1918_002.jpg" aspect="0.715" caption="Beaney Institute" %}
 
 But strict interpretation  of the rules continued to cause problems well into the twentieth century. In 1938 the novelist [Nora Salmon]({{ site.baseurl }}/20c/20c-salmon-biography/) found herself unable to borrow books because she had a Harbledown address. She was rescued by the intervention of Councillor Stone and Canterbury’s first female mayor Catherine Williamson, who agreed that it was ‘nice to have a lady of considerable literary distinction in their midst’.
-
-This article was published 20 April 2025.
-
-{% include embed/image.html src="wc:James_George_Beaney_memorial_02.JPG" aspect="1.333" caption="James George Beaney Memorial" %}
 
 ### Bibliography 
 
