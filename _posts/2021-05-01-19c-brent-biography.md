@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2021-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Politics & reform, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Don_John_Grove%2C_with_John_Brent%27s_house.jpg
 permalink: /19c/19c-brent-biography/
 published: true
 toc: false  
@@ -43,11 +43,8 @@ Once sweetest music – now is stilled and cold]( https://books.google.co.uk/boo
 Still, it must be confessed that many readers of [Edwin Drood]({{ site.baseurl }}/edwin-drood-curated-walk) would sympathise with Brent’s mixed frustration and awe, at:
 [A Mystery Death forbade thee to unfold /
 – Yet Death’s own secret is now solved by thee]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
-Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
-
+Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.   
 This article was published: 1 June 2021.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/000006fe-369e-488c-909b-955d19db4123.jpg" aspect="1.333" caption="Don John Grove, with Brent's house on the far left" attribution="Martin Crowther" %}
 
 ### Bibliography
 
