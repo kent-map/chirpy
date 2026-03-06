@@ -5,7 +5,7 @@ author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
 tags: [ Coast & sea, Arts & performance, Material culture, Buildings & architecture ]
-image: xxx
+image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Constable_-_Folkestone_Harbour%2C_with_a_rainbow%2C_1888%2C0215.37.jpg
 permalink: /poetry/fisherman-oulton/
 published: true
 toc: false  
