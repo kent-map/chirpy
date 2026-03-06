@@ -5,20 +5,16 @@ author: Chris Jones
 date: 2024-12-16
 categories: [ 19c ]
 tags: [ Authors & lives, Towns & cities, Politics & reform, Representation & interpretation ]
-image: https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg/1024px-The_Common%2C_Tunbridge_Wells_%28NBY_438539%29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
 toc: false  
 juncture: true
 ---
 
-
-{% include embed/map.html center="Q665489" zoom="15" markers="Q665489" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
-
 John Ruskin, art critic, architectural theorist, social commentator and educationalist visited [Tunbridge Wells](Q665489) in February 1858 to lecture at the Sussex Hotel, [The Pantiles](Q7756008). At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]
 
 Ruskin had grown up in Herne Hill South London a suburb that had much in common with Tunbridge Wells a picturesque setting and a population of wealthy commercial incomers. His father was a successful wine merchant but was dogged by social insecurity. As a wine merchant he felt superior to the linen drapers and cheesemongers who lived around him though he was very aware that many were wealthier than him yet from a wider perspective, others would consider that he too was in trade.
-
 Ruskin was 39 when he came to Tunbridge Wells. He was by then a well-known writer and commentator. The lecture was said to have been attended by 'perhaps the most fashionable audience' ever assembled there, though it was organised by the Useful Knowledge Institution, a sort of self-improvement group that had grown out of an earlier Mechanics Institution.
 
 {% include embed/image.html src="wc:John_Ruskin_self_portrait_1861.jpg" aspect="0.748" caption="John Ruskin" %}
