@@ -41,10 +41,8 @@ The section on 'Iron in Policy' was even more political. It was built around 3 i
 
 To many in the audience it probably resonated uncomfortably with recent events in the town. It was a time of distress among the working population. Earlier that month there had been a demonstration of unemployed men outside the town hall seeking work. Triggered by this, Canon Hoare had called a meeting and a 'Labour Fund Committee' was formed to find useful ways of employing them. This caused some anguish to the editor of _The Gazette_. While approving of such schemes in general, he regretted that action had not been taken earlier - it would now look as though they were responding to threats.
 
-{% include embed/image.html src="wc:The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg" aspect="2.627" caption="The Book of the Farm, 1851" %}
-
 Ruskin visited Tunbridge Wells again in August 1860, staying at Calverley Hotel, and complained of being disturbed by seeing "a steam engine devouring a wheat stack at Tunbridge Wells and hearing it growling over its prey a mile and a quarter down the valley"[^ref2] Thus, the law of nature that he sought to preserve was overturned by the mechanisation of agriculture.
-
+<br>
 This article is adapted from "The Work of Iron, in Nature, Art, and Policy" by Chris Jones, published by the Tunbridge Wells Civic Society. You can also read about Ruskin's associations with [Sandgate]({{ site.baseurl }}/placeskz/sandgate-overview/) in another Kent Maps article.
 
 {% include embed/image.html src="wc:Calverleyhotel.jpg" aspect="1.333" caption="Calverley Hotel, Tunbridge Wells, 1860" %}
