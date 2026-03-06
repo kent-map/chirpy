@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2025-12-30
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/eb/Broadstairs_Jetty.jpg
 permalink: /19c/19c-galsworthy-biography/
 published: true
 toc: false  
