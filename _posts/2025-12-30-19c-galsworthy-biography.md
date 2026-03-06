@@ -2,7 +2,7 @@
 title: "John Galsworthy 14 August 1867–1933"
 description: "John Galsworthy’s connections to Kent emerge through visits to Conrad’s Pent Farm near Hythe and friendships with Joseph Conrad, Edward Garnett, H. G. Wells, and other literary figures. These episodes show how informal rural gatherings and coastal travel shaped literary networks even when Kent barely appears in Galsworthy’s fiction."
 author: Professor Carolyn Oulton
-date: 2025-12-30
+date: 2025-08-29
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/eb/Broadstairs_Jetty.jpg
@@ -31,10 +31,6 @@ Between 1898 and 1905, when [Conrad]({{ site.baseurl }}/19c/19c-conrad-biography
 [H. G. Wells](20c/20c-wellshg-biography/) would also provide a sustaining literary friendship over the years. M. V. Marrot’s _The Life and Letters of John Galdsworthy_ includes a photograph ‘taken by H. G. Wells in Hythe in 1898’.
 Galsworthy’s most famous work,  _The Forsyte Saga_, is disappointingly bare of references to Kent. That is, unless we count the brief interlude when June Forsyte is taken to Broadstairs to recover from her broken engagement to Phil Bosinney. This well-intentioned scheme has no effect whatsoever, and a heartbroken June soon makes an excuse to get back to London.
 Galsworthy himself died at his home in Hampstead on 31 January 1933.
-
-This article was published 29 August 2025.
-
-{% include embed/image.html src="wc:Broadstairs_Jetty.jpg" aspect="1.65" caption="Broadstairs Jetty c.1912" %}
 
 ### Bibliography 
 
