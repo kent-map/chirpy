@@ -12,20 +12,14 @@ toc: false
 juncture: true
 ---
 
-Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in [Herne Bay](Q929286), where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  
-
-The daughter of a Northamptonshire auctioneer, Mary was an energetic and politically active campaigner for women’s rights. Described as tall, with blue eyes, brown hair and the sort who could “handle a racquet and a pair of reins better than most women”[^ref2], she moved from her home town of Wellingborough to London in 1892 to become a journalist.[^ref3]  She had already been dabbling with journalism, writing amusing poetry and stories in _The Magazine of music: For the student and the million._ This reflected her fun-loving nature as she loved performing and writing comic sketches and songs. She played both the piano and the banjo.
+Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in [Herne Bay](Q929286), where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  The daughter of a Northamptonshire auctioneer, Mary was an energetic and politically active campaigner for women’s rights. Described as tall, with blue eyes, brown hair and the sort who could “handle a racquet and a pair of reins better than most women”[^ref2], she moved from her home town of Wellingborough to London in 1892 to become a journalist.[^ref3]  She had already been dabbling with journalism, writing amusing poetry and stories in _The Magazine of music: For the student and the million._ This reflected her fun-loving nature as she loved performing and writing comic sketches and songs. She played both the piano and the banjo.
 
 {% include embed/image.html src="wc:Herne_Bay_College%2C_Herne_Bay_Kent.jpg" aspect="1.589" caption="Herne Bay, 1914" %}
 
 {% include embed/map.html center="Q929286" zoom="15" markers="Q929286" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
-According to Mary, her parents opposed her decision to become a journalist and her father refused to support her. For a year she “battled for a place in the literary scheme of things in London, undaunted by the starvation wage of £1 a week”[^ref4]  working for _Life_ magazine, where she “did everything except sweep out the office’.[^ref5]  After this, she secured a position with the London edition of the _Detroit Free Press_ where she met Hall Caine and George Bernard Shaw and became “well-known to the denizens of Bohemia”.[^ref6]  She also joined the Fabian socialists. 
-
-{% include embed/image.html src="wc:Picture_of_Hall_Caine.jpg" aspect="0.741" caption="Hall Caine" %}
-
-{% include embed/image.html src="wc:George_Bernard_Shaw.jpg" aspect="0.718" caption="George Bernard Shaw" %}
-
+According to Mary, her parents opposed her decision to become a journalist and her father refused to support her. For a year she “battled for a place in the literary scheme of things in London, undaunted by the starvation wage of £1 a week”[^ref4]  working for _Life_ magazine, where she “did everything except sweep out the office’.[^ref5]  After this, she secured a position with the London edition of the _Detroit Free Press_ where she met Hall Caine and George Bernard Shaw and became “well-known to the denizens of Bohemia”.[^ref6]  She also joined the Fabian socialists.
+<br>
 Her first novel [_Dust and Laurels: a study in nineteenth century womenhood_](https://www.loc.gov/item/07036374/) was published in 1893 whilst she was working in London and is dedicated to “that hybrid complication, the woman of to-day, whose food is fruit of the tree of knowledge of good and evil, and whose drink is the intoxicating ether of freedom and independence.”[^ref7]  It must have been exhausting writing her first novel, often in the late hours, whilst simultaneously being on the staff of “more than one London paper and acting editress of a popular weekly.”[^ref8]   The newspapers described it as “one of the most adventurous books of the season."[^ref9]  
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.[^ref10]   In her 1895 novel, _A Pastoral Played out_, touted as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage.[^ref11] 
 
