@@ -5,7 +5,7 @@ author: Harvey Wallace
 date: 2025-12-01
 categories: [ built ]
 tags: [ Buildings & architecture, Towns & cities, Material culture, Travel & mobility ]
-image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Wall_of_St_Pancras_church_-_St_Augustine%27s_Abbey%2C_Canterbury_%281%29_2024-12-29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg
 permalink: /built/roman-remains-canterbury/
 published: true
 toc: false  
