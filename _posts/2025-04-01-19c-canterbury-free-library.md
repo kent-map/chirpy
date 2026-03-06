@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2025-04-01
 categories: [ 19c ]
 tags: [ Culture & society, Towns & cities, Politics & reform, Texts & genres, Buildings & architecture ]
-image: https://upload.wikimedia.org/wikipedia/commons/9/90/James_George_Beaney_memorial_02.JPG
+image: https://upload.wikimedia.org/wikipedia/commons/e/ec/Windows_in_Canterbury_01.JPG
 permalink: /19c/19c-canterbury-free-library/
 published: true
 toc: false  
