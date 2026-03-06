@@ -38,12 +38,6 @@ Remnants of the Marsh's wartime adaptions still dot the landscape, serving as ta
 
 {% include embed/image.html src="wc:Three_Ages_of_Defence_-_From_%22The_Roughs%22_above_Romney_Marsh_-_geograph.org.uk_-_729865.jpg" aspect="1.524" caption="Three Ages of Defence - The Roughs about Romney Marsh" %}
 
-### References
-
-[^ref1]: Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” [MailOnline](https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html), 18 Sep 2015.   
-[^ref2]: "Romney Marsh Sheep." _Faversham News_, Friday 06 November 1942.
-[^ref3]: "Guest of Honour." _Kentish Express_, Friday 28 March 1947.
-
 ### Bibliography
 
 Harvey, Ian. “German Maps Reveal Interesting Facts About Operation ‘Sealion’.” [War History Online](https://www.warhistoryonline.com/war-articles/german-maps-reveal-interesting-facts-operationsealion.html), 26 Dec 2015.  
@@ -54,3 +48,9 @@ Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what t
 “Wartime Romney Marsh.” [Wartime Folkestone](https://www.wartimefolkestone.co.uk/location-category/wartime-romney-marsh/)   
 “Exploring Kent’s Past.” [Kent County Council](https://webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE13567).  
 Geekie, Peter. “Romney, Hythe & Dymchurch Railway. The only public miniature railway that went to war.” HubPages, 27 Sep 2016.
+
+### References
+
+[^ref1]: Krantz, Dave. “The art of war: German WWII officer's map doodles reveal what the rank and file thought of Hitler's plans to invade Britain.” [MailOnline](https://www.dailymail.co.uk/news/article-3239777/The-art-war-German-WWII-officer-s-map-doodles-reveal-rank-file-thought-Hitler-s-plans-invade-Britain.html), 18 Sep 2015.   
+[^ref2]: "Romney Marsh Sheep." _Faversham News_, Friday 06 November 1942.
+[^ref3]: "Guest of Honour." _Kentish Express_, Friday 28 March 1947.
