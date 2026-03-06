@@ -5,7 +5,7 @@ author: Lucy Slack
 date: 2025-06-07
 categories: [ 20c ]
 tags: [ Conflict & war, Rivers & marshes, Coast & sea, Work & industry ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b91a767a-109e-4a7d-b7c6-980d0f8601a5.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/7f/Hay_bales%2C_Romney_Marsh.jpg
 permalink: /20c/20c-romney-marsh-ww2/
 published: true
 toc: false  
@@ -19,7 +19,7 @@ In July 1940, following Britain’s rejection of a proposed peace settlement, Ad
 
 Due to its strategic location, the Romney Hythe and Dymchurch Railway (RHDR) was requisitioned by the War Department to transport troops, ammunition, and equipment along the coastline. The railway which had been opened in 1927, was a 15-inch gauge steam railway, one-third the size of a standard line. It originally ran eight miles from Hythe to New Romney but in 1928 the line had been extended southward through Greatstone to Dungeness. The railway became home to the world’s only miniature armoured train. This train was manned by a driver and six gunners who were armed with Lewis machine guns and Boys anti-tank rifles. It is reputed to have shot down three German aircraft.
 
-{% include embed/image.html src="wc:Romney%2C_Hythe_%26_Dymchurch_Railway_-_6109966657.jpg" aspect="1.774" caption="A nasty surprise for Nazi invaders" %}
+{% include embed/image.html src="wc:Romney_Hythe_Dymchurch_Railway_%281476990%29.jpg" aspect="1.541" %}
 
 To prepare for a possible invasion, thousands of pillboxes were constructed across the Marsh and coastline. These defences were manned by the Local Defence Volunteers – later renamed the Home Guard – composed of civilians trained to defend their local communities against the German forces. Rows of concrete anti-tank blocks, commonly known as “dragon’s teeth,” were installed to slow down the movement of tanks and vehicles, as vehicles cannot drive through them and therefore had to take alternate routes. Additionally, barbed wire and landmines were laid both across and behind the beaches. Over 100,000 Romney Marsh sheep were evacuated in double-decker trucks over a nineteen day period as it was feared they would be a "valuable booty" for the enemy.[^ref2]  There were also contingency plans to flood parts of the Marsh to stop troops and equipment from landing there and advancing further inland. 
 
@@ -33,12 +33,7 @@ After this, the Romney, Hythe and Dymchurch railway continued to play a vital mi
 
 The demands of the war took a toll on the railway’s infrastructure. To expedite the PLUTO construction, long sections of pipeline were dragged directly along the railway track bed by bulldozers, causing extensive damage. As a result, the Dungeness extension was reduced to a single track in 1947 – a post-war compromise reflecting the urgency and strain of wartime use.
 
-A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby [Sound Mirrors]({{ site.baseurl }}/built/sound-mirrors) – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951.
-
-After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity.[^ref3] 
-
-{% include embed/image.html src="wc:Romney_Hythe_Dymchurch_Railway_%281476990%29.jpg" aspect="1.541" %}
-
+A lesser-known but equally significant aspect of the RHDR’s wartime function was the War Department Branch Line, a spur line constructed to transport men and materials to the nearby [Sound Mirrors]({{ site.baseurl }}/built/sound-mirrors) – early warning devices built to detect incoming enemy aircraft. The branch line was closed in 1951. After the war finished, the RHDR was returned to civilian use. In 1947 it was ceremonially reopened by the famous Laurel and Hardy, however it took several more years for the full line to be restored to pre-war capacity.[^ref3] 
 Remnants of the Marsh's wartime adaptions still dot the landscape, serving as tangible reminders of the Marsh’s military significance during the Second World War. From pillboxes to the innovative use of the Romney, Hythe and Dymchurch Railway, the Marsh is an example of how rural landscapes were transformed by the pressures of the war and national fears of invasion. 
 
 {% include embed/image.html src="wc:Three_Ages_of_Defence_-_From_%22The_Roughs%22_above_Romney_Marsh_-_geograph.org.uk_-_729865.jpg" aspect="1.524" caption="Three Ages of Defence - The Roughs about Romney Marsh" %}
