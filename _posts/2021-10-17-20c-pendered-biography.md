@@ -14,13 +14,11 @@ juncture: true
 
 Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in [Herne Bay](Q929286), where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  
 
+The daughter of a Northamptonshire auctioneer, Mary was an energetic and politically active campaigner for women’s rights. Described as tall, with blue eyes, brown hair and the sort who could “handle a racquet and a pair of reins better than most women”[^ref2], she moved from her home town of Wellingborough to London in 1892 to become a journalist.[^ref3]  She had already been dabbling with journalism, writing amusing poetry and stories in _The Magazine of music: For the student and the million._ This reflected her fun-loving nature as she loved performing and writing comic sketches and songs. She played both the piano and the banjo.
+
 {% include embed/image.html src="wc:Herne_Bay_College%2C_Herne_Bay_Kent.jpg" aspect="1.589" caption="Herne Bay, 1914" %}
 
 {% include embed/map.html center="Q929286" zoom="15" markers="Q929286" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
-
-The daughter of a Northamptonshire auctioneer, Mary was an energetic and politically active campaigner for women’s rights. Described as tall, with blue eyes, brown hair and the sort who could “handle a racquet and a pair of reins better than most women”[^ref2], she moved from her home town of Wellingborough to London in 1892 to become a journalist.[^ref3]  She had already been dabbling with journalism, writing amusing poetry and stories in _The Magazine of music: For the student and the million._ This reflected her fun-loving nature as she loved performing and writing comic sketches and songs. She played both the piano and the banjo.
-
-{% include embed/image.html src="wc:Pracisting_the_Piano_%28Millais%29.png" aspect="0.871" caption="Engraving of a teenage girl playing the piano. Published in the magazine Once a Week as a poem illustration" %}
 
 According to Mary, her parents opposed her decision to become a journalist and her father refused to support her. For a year she “battled for a place in the literary scheme of things in London, undaunted by the starvation wage of £1 a week”[^ref4]  working for _Life_ magazine, where she “did everything except sweep out the office’.[^ref5]  After this, she secured a position with the London edition of the _Detroit Free Press_ where she met Hall Caine and George Bernard Shaw and became “well-known to the denizens of Bohemia”.[^ref6]  She also joined the Fabian socialists. 
 
@@ -33,10 +31,7 @@ Her writing at this time could be described as part of the ‘New Woman’ movem
 
 {% include embed/image.html src="wc:Fig29NewWoman.png" aspect="0.545" caption="The New Woman c.1896" %}
 
-From at least 1895 she was writing stories for [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon]({{ site.baseurl }}/19c/19c-braddon-biography), Sarah [Grand]({{ site.baseurl }}/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
-
-{% include embed/image.html src="wc:Jerome_K._Jerome_%287893553318%29.jpg" aspect="0.714" caption="Jerome K. Jerome" %}
-
+From at least 1895 she was writing stories for [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon]({{ site.baseurl }}/19c/19c-braddon-biography), Sarah [Grand]({{ site.baseurl }}/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.   
 In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgivable sin.”[^ref12]   
 Her 1905 publication, _The Truth about Man_ published anonymously ‘by a spinster’ was a little spicier, and was one of those books which simultaneously shocked but also appealed to those who denounced it; and its notoriety may have encouraged sales.  In it, Mary claimed to draw from her personal experience, writing “I have been loved by three Americans, two Frenchmen, one German, one Irishman, one Swiss, three Scotsmen, and two or three Colonials, who do not count as they are so nearly English.”[^ref13]   The premise of the book was that women who have “a safe income, good friends, enough amusement and variety” do not need husbands. A reviewer from Yorkshire declared her a minx.[^ref14]
 
