@@ -5,7 +5,7 @@ author: Natalie Pietersen
 date: 2025-12-30
 categories: [ placesrz ]
 tags: [ Towns & cities, Buildings & architecture, Authors & lives, Conflict & war, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg
 permalink: /placesrz/wateringbury-overview/
 published: true
 toc: false  
@@ -21,22 +21,14 @@ Previously known as the village cage and <span data-mouseover-image-zoomto="1739
 
 Later in the 1850’s, the Lock Up is recorded to have been used to house a hand cart used by the person who was to look after the streetlights and keep the village tidy. 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg" aspect="1.426" %}
-
 **Library phone box**   
 Here you will find a <span data-mouseover-image-zoomto="1828,777,1194,798">British red phone box</span>, although inside you will find no phone, just shelves of books. Like the Tardis, there is no telling where it may sweep you off to. Chose a book and allow yourself to be taken elsewhere. Why not take one and wander into the countryside to sit and read, or head off to the café close by and read while you sip your tea. To return, just drop your book in the ‘returns bin’ provided to the left.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg" aspect="1.426" %}
 
 **Café**   
 On the cross roads you will find a charming <span data-mouseover-image-zoomto="1693,292,1381,924">café</span> called ‘Where Memories Meet.’ It houses a tea room and an antiques/vintage centre. Inside this quaint tea shop you can sit for hours, soaking up the ambience. The vintage style of items scattered around add to the ancient aroma. No less charming than the rest of the village, just with a delicious menu for added dimension.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg" aspect="1.426" %}
-
 **War time relics**   
 A pipeline, a relic of <span data-mouseover-image-zoomto="1681,384,859,575">wartime</span> Britain, is buried underground, but it pulls you deeper into history. Whilst the Pillbox, which on first glance looks like an old wall, its entrance now overgrown, holds the memories of the soldiers inside it, guns ready, watching over the crossroads. Imagine, if you will, a convoy of tanks rumbling by.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg" aspect="1.426" %}
 
 **Footpath**
 Up this track there is a footpath which takes you along a narrow track, through fruit orchards. If you have a sharp eye, you might glimpse some beehives. As you walk gently uphill you can look back over the valley. You will come to a footpath crossing. 
@@ -70,8 +62,6 @@ Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wa
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
 
 As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Love Lane</span> and continue past the place where it meets with <span data-mouseover-image-zoomto="1173,741,642,430">Mill Lane</span>, you will find a footpath leading off into the country.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg" aspect="1.426" %}
 
 **The Thatched house**   
 At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login. Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.   
