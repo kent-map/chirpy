@@ -39,6 +39,8 @@ Sarah Dixon who wrote _Poems on Several Occasions_ was baptised in Rochester, in
 
 Chemist, Dr [Robert Plot]({{ site.baseurl }}/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
 
+{% include embed/image.html src="wc:Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" aspect="0.746" caption="Sybil Thorndike, 1932" %}
+
 Friend and mentor of [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography), John Stevens Henslow, botanist and geologist was born in Rochester in 1796.
 
 Artist, [Richard Dadd]({{ site.baseurl }}/19c/19c-dadd-biography) was educated at the King's School.
@@ -50,8 +52,6 @@ Thomas Aveling, iron founder and agricultural engineer was mayor of the city and
 Phyllis Bottome, novelist and short story writer was born in Rochester and inspired James Bond author [Ian Fleming]({{ site.baseurl }}/20c/20c-fleming-biography).
 
 Sybil Thorndike, actor, moved to Rochester at the age two. Her brother Russell, actor and novelist known for his _Dr Syn_ stories set in [Romney Marsh]({{ site.baseurl }}/landscape/romney-writers), was born in the city in 1885. 
-
-{% include embed/image.html src="wc:Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" aspect="0.746" caption="Sybil Thorndike, 1932" %}
 
 Mathematician, [John Edensor Littlewood]({{ site.baseurl }}/19c/19c-edensor-littlewood-biography) whose father taught at the King's School, was also born in this year, but later moved to Dover. 
 
