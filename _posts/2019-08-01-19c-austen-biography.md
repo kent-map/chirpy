@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2019-08-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a8bc686a-046f-4df8-8946-dd34baf364cc.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg
 permalink: /19c/19c-austen-biography/
 published: true
 toc: false  
