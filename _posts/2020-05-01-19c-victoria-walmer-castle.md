@@ -51,10 +51,6 @@ During their visit, the royal party visited [Dover]({{ site.baseurl }}/19c/19c-d
 
 Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
 
-This article was published: 10 July 2021.
-
-{% include embed/image.html src="wc:Walmer_Castle_-_central_corridor.jpg" aspect="0.75" caption="Walmer Castle central corridor" %}
-
 **Bibliography**  
 From the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg
 
