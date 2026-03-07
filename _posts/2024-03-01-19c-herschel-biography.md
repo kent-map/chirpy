@@ -40,10 +40,6 @@ He was an inspiration to [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biog
 
 Sir John died at Collingwood on 11 May 1871. His body was conveyed by train From Hawkhurst to Charing Cross station where it was taken by hearse to Westminster Abbey. Sir John was buried near the tomb of Sir Isaac Newton. [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography) was in the congregation[^ref8] and on his death was buried next to Herschel.
 
-This article was published 17 December 2023.
-
-{% include embed/image.html src="wc:Herschel%26darwin.jpg" aspect="1.372" caption="Herschel and Darwin" %}
-
 ### References
 
 [^ref1]: Written March 31 to the editor of the _Kentish Gazette_. 
