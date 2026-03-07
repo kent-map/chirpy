@@ -32,8 +32,6 @@ Dickens, Charles. _David Copperfield_ Oxford: Oxford World’s Classics, 1998.
 House, Madeline, Graham Storey and Kathleen Tillotson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 3: 1842-1843_. Oxford: Clarendon Press, 1974.   
 Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
 
-{% include embed/image.html src="wc:A_thick_night_off_the_Goodwins_RMG_PX9959.jpg" aspect="1.353" caption="A thick night off the Goodwin Sands,  the subject suggested by an article in _Household Words_" %}
-
 ### References
 
 [^ref1]: To C. C. Felton, 1 September 1843. Pilgrim 3. 547-51.   
