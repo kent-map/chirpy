@@ -83,10 +83,6 @@ Deception and dishonour also take place at night. In the ballad, _Ned of Dover_ 
 
 Over a hundred and fifty years later, in [H.E. Bates]({{ site.baseurl }}/20c/20c-bates-biography) short story _An Aspidistra in Babylon_ published in 1960, Dover is depicted as a 'robust male Babylon' where soldiers 'come into town to drink beer, eat fish and chips and get off with girls'. Christine, who becomes involved with Captain Blaine, experiences first love 'on white afternoons along the cliffs, through diamond dancing mornings by the sea and through breathless evenings in the forest or the car'. When she discovers that Blaine is seeing other women, including her mother's maid, Ruby, her romantic dreams come crashing down and in the cold light of day 'from the parapets of the castle and the high white cliffs of chalk down to the smallest glistening crests of the sheltered waves in the harbour and the blue plump feathers of the screeching gulls sitting on those impossible yellow chimney pots every detail shows up with unmistakable reality.'[^ref11]
 
-This article was published: 22 March 2024. You can find articles about other Dover authors such as [Jessie Challacombe]({{ site.baseurl }}/19c/19c-challacombe-biography/) and [May Aldington]({{ site.baseurl }}/19c/19c-aldington-biography) on the [Kent Maps Online](https://www.kent-maps.online/) site.
-
-{% include embed/image.html src="wc:Modern_fish_and_chips_%288368723726%29.jpg" aspect="1.49" caption="Modern fish and chips" %}
-
 ### References
 
 [^ref1]: _Ways and Means; or a Trip to Dover: A Comedy in Three Acts_, 1788.
