@@ -5,7 +5,7 @@ author: Miroslava Karaskova
 date: 2024-03-01
 categories: [ 19c ]
 tags: [ Texts & genres, Literary places, Travel & mobility, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fae476ff-29d2-4cf1-aa56-9bc77eebb358.jpg
 permalink: /19c/19c-sherlock-holmes/
 published: true
 toc: false  
