@@ -1,7 +1,7 @@
 ---
 title: "Sherlock Holmes and Canterbury"
-description: "Canterbury appears briefly in Conan Doyle’s The Final Problem as a tactical stop on Holmes and Watson’s rail route from London toward Dover and continental Europe, highlighting the city’s role as a transit hinge rather than a dramatic setting. The essay contrasts this minimal textual presence with Sherlock Holmes’s large afterlife in English popular culture and heritage tourism, where the detective’s perceived reality grows through tours, adaptations, and material icons."
-author: Miroslava
+description: "Canterbury appears briefly in Conan Doyle’s _The Final Problem_ as a tactical stop on Holmes and Watson’s rail route from London toward Dover and continental Europe, highlighting the city’s role as a transit hinge rather than a dramatic setting. The essay contrasts this minimal textual presence with Sherlock Holmes’s large afterlife in English popular culture and heritage tourism, where the detective’s perceived reality grows through tours, adaptations, and material icons."
+author: Miroslava Karaskova
 date: 2024-03-01
 categories: [ 19c ]
 tags: [ Texts & genres, Literary places, Travel & mobility, Heritage & memory ]
