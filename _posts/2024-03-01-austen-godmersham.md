@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
 tags: [ Authors & lives, Literary places, Culture & society, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a8bc686a-046f-4df8-8946-dd34baf364cc.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/40/Godmersham_Park.jpg
 permalink: /austen/austen-godmersham/
 published: true
 toc: false  
