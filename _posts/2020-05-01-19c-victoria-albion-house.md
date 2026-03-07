@@ -5,7 +5,7 @@ author: Dr Alyson Hunt
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Towns & cities, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_the_bathing_sands_1809.jpg
 permalink: /19c/19c-victoria-albion-house/
 published: true
 toc: false  
