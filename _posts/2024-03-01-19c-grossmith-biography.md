@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
 tags: [ Authors & lives, Texts & genres, Coast & sea, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg
 permalink: /19c/19c-grossmith-biography/
 published: true
 toc: false  
