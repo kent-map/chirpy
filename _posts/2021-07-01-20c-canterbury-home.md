@@ -17,8 +17,6 @@ juncture: true
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
-{% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
 You might like to start with the [overview of 20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-overview). You can explore Canterbury's economic growth, through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce), its [industry]({{ site.baseurl }}/canterbury/20c-canterbury-industrial) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city).
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/St_Georges_Clock_Tower_2_MJC.jpg" aspect="0.75" caption="St George's Clock Tower" attribution="Martin Crowther" %}
