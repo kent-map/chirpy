@@ -20,17 +20,17 @@ As well as naming seven moons of Saturn and four of the moons of Uranus, Sir Joh
 
 Collingwood gave Herschel the skies he needed for his observations. He wrote:
 
-'I must now observe, that on Friday, the 17th, and every evening since that time when I observed the comet, the zodaical light has also been displayed in the most striking and perfectly characteristic manner and, indeed with a brilliancy, which I should certainly be disposed to regard as a proof of the opinion generally entertained of its varying from season to season in its intensity, were it not for the habitual and exceeding purity of the atmosphere in this favoured corner of our island, which is altogether free from smoke, and most commonly so from haze, and (in the absence of actual cloud) quite upon a par (so far as three year’s residence will enable me to judge) with that of any region I have visited.'[^ref1] 
-
+'I must now observe, that on Friday, the 17th, and every evening since that time when I observed the comet, the zodaical light has also been displayed in the most striking and perfectly characteristic manner and, indeed with a brilliancy, which I should certainly be disposed to regard as a proof of the opinion generally entertained of its varying from season to season in its intensity, were it not for the habitual and exceeding purity of the atmosphere in this favoured corner of our island, which is altogether free from smoke, and most commonly so from haze, and (in the absence of actual cloud) quite upon a par (so far as three year’s residence will enable me to judge) with that of any region I have visited.'[^ref1]
+<br>
 This was the Great Comet of 1843. Two nights later he observed that: 'The tail of the comet, for such it must assuredly be, is again visible, through much obscured by haze and holding very nearly the same position.'[^ref2]
-
-{% include embed/image.html src="wc:Plaque_on_the_entrance_to_Collingwood_House_-_geograph.org.uk_-_1855675.jpg" aspect="1.333" caption="Plaque on the entrance to Collingwood House" %}
-
-{% include embed/map.html center="Q2744669" zoom="12" markers="Q2744669" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 Sir John contributed to the life of the village and in November 1857, read a lecture at the National School Room on the Arctic regions which had been 'written by a lady in the neighbourhood, who had thus employed herself to beguile the tedious hours of sickness'.[^ref3] Herschel was himself plagued by gout and rheumatism at this period and sometimes needed to use a wheelchair.[^ref4] Five months later, he gave a lecture on earthquakes and volcanoes which was reported in the _Maidstone Journal and Kentish Advertiser_:
 
 'Comment or praise would be mere waste of type; it will be sufficient to observe that the room was filled by an attentive and very respectable audience, amongst whom was a tolerable number of mechanics and other persons, who are generally supposed to take but little notice of such matters. It is some gratification to know that the humbler classes appreciate these lectures, and that a small payment at the doors of the lecture room does not prevent their attendance'.[^ref5]
+
+{% include embed/image.html src="wc:Plaque_on_the_entrance_to_Collingwood_House_-_geograph.org.uk_-_1855675.jpg" aspect="1.333" caption="Plaque on the entrance to Collingwood House" %}
+
+{% include embed/map.html center="Q2744669" zoom="12" markers="Q2744669" allmaps="bd3bb7d13a5d0a88~Moule 1850" %}
 
 Despite his failing health, Herschel continued to write and correspond with the scientific community, publishing books on astronomy and translating the _Iliad_. He also wrote articles for the _Edinburgh Encyclopedia_ on mathematics and isoperimetrical problems and ones on meteorology, physical geography and the telescope for _Encylopedia Britannica_ .[^ref6]
 
