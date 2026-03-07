@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2020-05-01
 categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the_Goodwins_RMG_PX9959.jpg
 permalink: /dickens/david-copperfield-goodwin-sands/
 published: true
 toc: false  
