@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Travel & mobility, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmer_Castle_Postcard.jpg
 permalink: /19c/19c-victoria-walmer-castle/
 published: true
 toc: false  
