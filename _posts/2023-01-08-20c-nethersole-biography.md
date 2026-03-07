@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2023-01-08
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Countryside & farming, Literary places, Culture & society ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/78/Sheep_in_a_Landscape_by_Thomas_Sidney_Cooper_1844.jpg
 permalink: /20c/20c-nethersole-biography/
 published: true
 toc: false  
@@ -15,8 +15,6 @@ juncture: true
 ‘Yonder a meadow down whose length a flock of sheep were folded on successive days; against the horizon line stretched the free downs, owned by none, belonging to all; here sheep might feed, cattle might browse, but no man must fence them in, or if he did the poorest wayfarer might break it down.’ – _Wilsam_, 1913.[^ref1]
 
 Susie Colyer Nethersole, author of rural fiction, was born on the 14 May 1869 at [Goodnestone](Q2195317). She was the eldest daughter of Michael and Susannah Nethersole née Colyer and lived at [Rowling Court](Q26608214) where her father farmed 220 acres.[^ref2]  This area was known for its good sheep-grazing.  Hasted wrote: “In the easternmost parts of Kent, and on the high chalk cliffs and hills on the coast, there are, however, several tracts of downs, viz. from Barham-down to [Deal]({{ site.baseurl }}/seascape/deal/), and from thence to [Dover](Q179224), and so on to Folkestone and Hith, and in some other places on the summit of these hills; but they are in general well covered with grass, and afford good pasture for sheep, &c.”[^ref3] In 1871, one of her father’s shepherds won a prize of 15 shillings at the Nonington, Wingham, Ash and Eastry Agricultural Association show for breeding 127 lambs from 102 ewes.[^ref4]
-
-{% include embed/image.html src="wc:Sheep_in_a_Landscape_by_Thomas_Sidney_Cooper_1844.jpg" aspect="1.394" caption="Sheep in a landscape by Thomas Sidney Cooper" %}
 
 {% include embed/map.html center="Q5330905" zoom="12" markers="Q5330905" allmaps="5aa3ce47b380271b~Kent Road Map" %}
 
@@ -39,11 +37,6 @@ When Mercy is sent to school in Sibert’s Wood (Sibertswold also known as Sheph
 'Just then life stretched before me as one day I had watched the sea when the rain fell slantingly on it, and all the sky was purple-gray and all the sea was green-gray, and sulky and sullen, with never a smile on the waves, never a light in the clouds. I looked at the gray of it then, I lived in the gray of it now.'[^ref8] 
 
 Although Sibertswold had a national school, it is more likely that Nethersole (unlike her character Mercy) attended the national school at Staple, which had 90 pupils on is registers in 1882.[^ref9]
-
-{% include embed/image.html src="wc:The_Old_School_on_the_corner_of_Mill_Lane_-_geograph.org.uk_-_1587155.jpg" aspect="1.596" caption="The Old School on Mill Lane, Shepherdswell" %}
-
-{% include embed/map.html center="Q2232081" zoom="13" markers="Q2232081" allmaps="5aa3ce47b380271b~Kent Road Map" %}
-
 It is uncertain when Nethersole began writing, but in 1897 she entered the _Hearth and Home_ Literary Guild competition to write a story suitable for factory girls. The secretary Frances H. Low was disappointed with the contributions, a good half of which 'dealt with the hackneyed motive of a girl of the humbler classes jilting an honest lover in favour of a worthless one' and she did not award a prize that month, but gave a certificate to Nethersole and one other girl as encouragement.[^ref10]  However, it was not until 1909 that Nethersole’s first book _Mary up at Gaffries and Letitia her Friend_, was published by the recently established fiction publisher Mills and Boon, who keen to make their name, had commissioned 123 novels in their first year.[^ref11] 
 
 {% include embed/image.html src="wc:Poul_Friis_Nybo_-_Interi%C3%B8r_med_en_l%C3%A6sende_kvinde_ved_en_skrivepult.png" aspect="0.943" caption="Interior with a woman reading at a desk, between 1887 and 1929" %}
@@ -86,11 +79,7 @@ Like her contemporary, Petham author [Bessie Marchant]({{ site.baseurl }}/19c/19
 
 The old Fleur-de-lis at Seatown boasted an upper chamber whose walls were panelled with black and shining wood, whose boarded floor was also black and shining, whose round table was mahogany and shone with much polishing. Here once a fortnight gathered the members of the Birthday club, an institution dating three generations back and respected by reason of its age. Clay churchwarden pipes were laid in a cluster on the shining tabletop; chairs with old respectable backs ranged round it ; spittoons beneath were of Wedgwood and as yet unseen by fanciers of old earthenware; candles lighted the room ; spirits and liqueurs could be found by the initiated somewhere behind the black panelling — duty-paid now, but if cupboards had wooden tongues, great tales they could have told of smuggling days, when scarce a family in Kent but connived secretly or openly at defrauding their majesties, the former Georges, of their dues.[^ref32]
 
-Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 register,[^ref33] but by the 1950s she had moved to Whitstable, and was living at Iden Green, 79, Old Bridge Road. She died on 21 May 1956 at 1, Gloucester Road, Whitstable.[^ref34] 
-
-Her sister Florence married John Lade Worsfold of Sandwich, cousin of [Jessie Challacombe]({{ site.baseurl }}/19c/19c-challacombe-biography), the Dover born author of children’s fiction.
-
-This article was published: 8 January 2023.
+Nethersole was living at The Long House, 62, Strand St, Sandwich on the 1939 register,[^ref33] but by the 1950s she had moved to Whitstable, and was living at Iden Green, 79, Old Bridge Road. She died on 21 May 1956 at 1, Gloucester Road, Whitstable.[^ref34] Her sister Florence married John Lade Worsfold of Sandwich, cousin of [Jessie Challacombe]({{ site.baseurl }}/19c/19c-challacombe-biography), the Dover born author of children’s fiction.
 
 {% include embed/image.html src="wc:The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg" aspect="1.137" caption="The Fleur de Lys, Sandwich" %}
 
