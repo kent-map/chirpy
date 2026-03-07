@@ -25,10 +25,7 @@ Built in 1791, Albion House was owned by Mary Townley, one of Britain’s first 
 {% include embed/image.html src="wc:Albion_House%2C_Ramsgate%2C_Kent-geograph-4572188.jpg" aspect="0.723" caption="Albion House, Ramsgate" %}
 
 During her stay at Albion House Victoria was taken ill and is unable to write in her journal for most of October. Her recovery is slow and her journal entries for the following month mostly chart her diet and the occasional walk around the rooms of Albion House. Resuming her daily walks along the pier in December, Victoria comments on the amusing dress and mannerisms of the foreign fishermen she sees at work, often stopping to talk to sailors in their native tongues. These daily walks proved her principle source of enjoyment in the dull winter monotony of a British [seaside]({{ site.baseurl }}/19/19c-seaside) resort. She writes: “I was rather sorry in leaving [Ramsgate](Q736439). I have a very pleasing recollection of our Séjour there, in spite of my illness & various other reasons of dullness; Uncle's & Aunt's visit being one of the principal causes. Our house, though small & very cold, was cheerful, snug, and even comfortable. My little room also small, was a dear cheerful little room. It had 3 windows, all having a fine view of the sea, & a very good view of the harbour & pier.”
-
 Princess Victoria was to return to Ramsgate later in the year, staying this time at [West Cliff House]({{ site.baseurl }}/19/19c-victoria-west-cliff)
-
-{% include embed/image.html src="wc:Ramsgate_pier_from_the_bathing_sands_1809.jpg" aspect="1.848" caption="Ramsgate Sands from the Bathing sands, 1809" %}
 
 ### Bibliography
 
