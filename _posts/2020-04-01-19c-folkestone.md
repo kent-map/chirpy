@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2020-04-01
 categories: [ 19c ]
 tags: [ Coast & sea, Towns & cities, Culture & society, Travel & mobility, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg
 permalink: /19c/19c-folkestone/
 published: true
 toc: false  
@@ -23,8 +23,6 @@ As one 19th century wag observed, [Folkestone](Q375314) is a near anagram of ‘
 An 1888 story satirising Mona Caird and the _Daily Telegraph’s_ ‘Is marriage a failure?’ debate, sends the newly married Rawsons for a holiday in Folkestone, where:   
 _Everything that was to be seen, they had seen, and everything that was to be done, they had done. They had stood in the pale moonlight, descanting [sic] on the beauties of nature, the shimmering sea, and all the rest of it. They had been delightfully free and easy on the beach in the morning, and severely aristocratic on the Lees [sic] at night. At first, they had gone up and down the “Lift” like a couple of children, for the fun of the thing, and afterwards because they found it vastly convenient. They promenaded on the new Pier, and shrieked in delirious joy on the switchback railway. In sort, they had enjoyed themselves very much after the fashion of newly-married young people.’_[^ref4]
 
-{% include embed/image.html src="wc:West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.tif" aspect="1.273" caption="West Cliff, Folkestone" %}
-
 But 'entertainments and distractions that might have attracted day trippers and holidaymakers were resisted’.[^ref5] Ultimately the 4th Earl of Radnor (1869-1889) elected to keep undesirable visitors off the Leas through the offices of a policeman. He might not have been too pleased to learn that this was a favourite spot for young women to read fashionable but not always edifying novels from the circulating libraries. ‘Some of the fair transgressors are very artful and seek to hide the tell-tale wrappers by brown paper covers; others artless do not. This is how we happen to know all about it.’[^ref6]
 
 {% include embed/image.html src="wc:Portrait_of_Rt._Honble._Earl_of_Radnor_%284671277%29.jpg" aspect="0.675" caption="Portrait of Rt Hon. Earl of Radnor" %}
@@ -32,13 +30,6 @@ But 'entertainments and distractions that might have attracted day trippers and 
 With characteristic irreverence, [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography) portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
 
 {% include embed/image.html src="wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg" aspect="1.345" caption="The Leas Promenade and Bandstand, c.1890-1900" %}
-
-[^ref1]: Clunn 303.   
-[^ref2]: Grandfield 67.   
-[^ref3]: Arnold 72.   
-[^ref4]: ‘A Domestic Experiment’ 17.   
-[^ref5]: Arnold 72.   
-[^ref6]: ‘The Kaleidoscope’. 15 August 1888.
 
 ### Bibliography
 
@@ -49,4 +40,11 @@ _The Kaleidoscope_.  15 August 1888. _Holbein Visitors’ List and Folkestone Jo
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.   
 Rever, J. C. ‘A domestic experiment’. 19 September 1888. _Holbein Visitors’ List and Folkestone Journal._ 17-18.   
 
-{% include embed/image.html src="wc:The_beach_and_pier%2C_Folkestone%2C_England-LCCN2002696745.jpg" aspect="1.34" caption="The Beach and Pier, Folkestone c.1890-1900" %}
+### References
+
+[^ref1]: Clunn 303.   
+[^ref2]: Grandfield 67.   
+[^ref3]: Arnold 72.   
+[^ref4]: ‘A Domestic Experiment’ 17.   
+[^ref5]: Arnold 72.   
+[^ref6]: ‘The Kaleidoscope’. 15 August 1888.
