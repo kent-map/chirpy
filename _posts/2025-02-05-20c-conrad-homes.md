@@ -5,7 +5,7 @@ author: Daniel Vince
 date: 2025-02-05
 categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Buildings & architecture, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/977ef46e-5678-49cc-ba76-03b5e75bed20.jpg
+image: https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg
 permalink: /20c/20c-conrad-homes/
 published: true
 toc: false  
