@@ -5,7 +5,7 @@ author: Hayley Smith
 date: 2024-03-01
 categories: [ 19c ]
 tags: [ Culture & society, Towns & cities, Travel & mobility, Texts & genres, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Rosherville_Gardens%2C_Kent.jpg
 permalink: /19c/19c-rosherville/
 published: true
 toc: false  
