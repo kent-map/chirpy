@@ -79,10 +79,6 @@ The family lived at Oswalds for five happy years, but on August 3rd, 1924, their
 
 the Borys Conrad family and John Conrad arrived for a Bank Holiday visit which had already been arranged. Conrad had a bad night, but seemed a little better in the early morning, and Jessie, who was in the next room, remembered him having called out to her at about six: 'You Jess, I am better this morning. I can always get a rise out of you.' At eight-thirty he was dead.[^ref17] 
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" aspect="1.333" caption="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther" %}
-
-{% include embed/map.html center="Q866348" zoom="12" markers="Q866348" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
-
 ### References
 
 [^ref1]: Conrad, Borys, _Coach Tour of Joseph Conrad’s Homes in Kent_, 1st edn., (Farnham: The Farnham Printing Co. Ltd, 1974), 1.
