@@ -1,6 +1,6 @@
 ---
 title: "S.C. Nethersole (1869-1956)"
-description: "This visual essay by Michelle Crowther documents the life and work of the Kent rural fiction author Susie Colyer Nethersole."
+description: "Michelle Crowther documents the life and work of the Kent rural fiction author Susie Colyer Nethersole."
 author: Michelle Crowther
 date: 2023-01-08
 categories: [ 20c ]
