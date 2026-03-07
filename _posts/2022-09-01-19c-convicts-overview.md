@@ -1,11 +1,11 @@
 ---
 title: "Convicts in Kent"
-description: "This picture essay by Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948."
+description: "Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948."
 author: Dr Ben Bethell
 date: 2022-09-01
 categories: [ 19c ]
 tags: [ Crime & punishment, Coast & sea, Work & industry, Maps & place-making ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Devonshire_prison-ship%2C_at_Sheerness_ILN_1854-0923-0008.jpg
 permalink: /19c/19c-convicts-overview/
 published: true
 toc: false  
@@ -45,10 +45,6 @@ In the meantime, work began in 1874 on a much smaller convict prison at the vill
 England’s last public works prison was built at [Dover]( https://www.nationaltrust.org.uk/the-white-cliffs-of-dover/features/langdon-convict-prison), on the clifftop east of [Dover Castle]({{ site.baseurl }}/20c/20c-secret-tunnels), where a National Trust visitor centre now stands. The first block was built by civilian contractors and the rest by convicts themselves, who began arriving there in 1885. It was designed to hold a thousand convicts, who would be put to work building a new harbour of refuge. This scheme remained on hold, however, due to a steep and unanticipated drop in England’s prison population during the 1880s, and the new prison was neither completed nor fully occupied. It was finally abandoned in 1895, work on the harbour having by then commenced without convict labour. In 1909, a new convict prison for first offenders opened at [Maidstone]({{ site.baseurl }}/19c/19c-convicts-maidstone), built alongside the town’s older local jail. By 1930, it occupied the entire site of what is now HMP [Maidstone](Q213180), remaining a convict establishment until the outbreak of the Second World War. 
 
 Penal servitude was abolished in 1948, bringing to an end England’s domestic convict system.
-
-{% include embed/image.html src="wc:Dover_Langdon_Cliffs_0326.JPG" aspect="1.333" caption="Dover Langdon Cliffs" %}
-
-{% include embed/map.html center="Q1000115" zoom="10" markers="Q1000115" allmaps="4478e36824ad9d1a~Greenwood 1829" %}
 
 ### Bibliography
 
