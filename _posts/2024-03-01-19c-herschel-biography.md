@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2024-03-01
 categories: [ 19c ]
 tags: [ Authors & lives, Science & ideas, Towns & cities, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/ed/Saturn_Triple_Crescent.jpg
 permalink: /19c/19c-herschel-biography/
 published: true
 toc: false  
