@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2022-03-05
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Travel & mobility, Arts & performance ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/4f/William_Powell_Frith_Life_At_The_Seaside%2C_Ramsgate_Sands.jpg
 permalink: /19c/19c-sambourne-biography/
 published: true
 toc: false  
@@ -13,8 +13,7 @@ juncture: true
 ---
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-_‘Where’s [Ramsgate](Q736439)/ Where I’ve often seen   
-
+‘Where’s [Ramsgate](Q736439)/ Where I’ve often seen   
 Both S-MB-RNE and DU M-R-ER,   
 When I have gone by 3.15   
 Granville Express, Victorier’_[^ref1]    
@@ -52,13 +51,9 @@ To create his black and white cartoons, Sambourne purchased studio portraits and
 
 Sambourne also visited [Folkestone]({{ site.baseurl }}/19c/19c-folkestone). In 1882 he made 'a sort of Jules Verne journey into the bowels of the earth' to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of pressmen. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens]({{ site.baseurl }}/dickens/dickens-folkestone) had been a frequent visitor. He records: 'Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.' He met the suffragette Fanny Streatfield and her friend Woodruff walking along the Lees. His candid shots of day-trippers included young women on the beach and twenty-one people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
 
-{% include embed/image.html src="wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" aspect="1.345" caption="Promenade and Bandstand, Folkestone, c.1890-1900" %}
-
 {% include embed/map.html center="Q4690189" zoom="12" markers="Q4690189" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 In the winter of 1910, Sambourne, who was suffering from ill health, stayed at the Granville Hotel, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) to convalesce. He enjoyed good salt baths, breakfasts and sun, but was having trouble breathing and sleeping and used a bath chair to go to the West Cliff and the marina. He felt ‘wretched and depressed’[^ref12]  taking days out in the motor. Sambourne died on the 3rd August 1910 and his ashes were interred at St Peter’s Churchyard, Thanet.[^ref13]
-
-This article was published: 5 March 2022.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c588a4b8-e77a-4b52-bf74-c1dc705350b8.jpg" aspect="1.486" caption="Granville Hotel, Ramsgate" %}
 
