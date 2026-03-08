@@ -5,7 +5,7 @@ author: Carolin Sternberg
 date: 2024-08-01
 categories: [ 19c ]
 tags: [ Texts & genres, Countryside & farming, Culture & society, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Humulus_lupulus_at_Julita_5.jpg
 permalink: /19c/19c-harkness-darkest/
 published: true
 toc: false  
@@ -26,11 +26,7 @@ The sense that the seasonal workers do not belong there is reinforced by the beh
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/22b087f4-554d-47c2-8131-3582d178ad1f.jpg" aspect="1.834" caption="Hop pickers" attribution="Private Collection" %}
 
-In addition to the generally rather negative perception of the Londoners by both the villagers and the Salvation Army Captain, the imagery Harkness uses to describe the hop-pickers in this context is also striking. Repeatedly referring to them as a “herd” of people and comparing them to livestock, the narrator places the London hop-pickers both literally and figuratively in an agricultural, rural environment and further accentuates the slum dwellers’ social devaluation. As the hop-pickers board the train from London to Kent, the narrator notes: “They are, in fact, cheaper to carry about than dumb beasts, for they can be packed closer together, and if one or two are suffocated on the journey no one claims damages. 
-
-{% include embed/image.html src="wc:Hop-pickers_%28gypsies_and_greyhounds%29%29.jpg" aspect="1.0" caption="Hop pickers - gypsies and greyhounds" %}
-
-The loss of a sheep is serious; but the death of a hop-picker matters to no one” (153). Building on the analogy between a herd of sheep and the group of hop-pickers as a seemingly indistinguishable mass without any individuality or agency, the narrator ultimately conveys social criticism of the treatment of the urban working class. Overall, the brief change of scenery from London’s East End to Kent’s countryside in Harkness’s _In Darkest London_ further emphasises the social stigmatisation of the urban working class by contrasting the beauty and purity of nature with the perceived sinfulness of the city.
+In addition to the generally rather negative perception of the Londoners by both the villagers and the Salvation Army Captain, the imagery Harkness uses to describe the hop-pickers in this context is also striking. Repeatedly referring to them as a “herd” of people and comparing them to livestock, the narrator places the London hop-pickers both literally and figuratively in an agricultural, rural environment and further accentuates the slum dwellers’ social devaluation. As the hop-pickers board the train from London to Kent, the narrator notes: “They are, in fact, cheaper to carry about than dumb beasts, for they can be packed closer together, and if one or two are suffocated on the journey no one claims damages. The loss of a sheep is serious; but the death of a hop-picker matters to no one” (153). Building on the analogy between a herd of sheep and the group of hop-pickers as a seemingly indistinguishable mass without any individuality or agency, the narrator ultimately conveys social criticism of the treatment of the urban working class. Overall, the brief change of scenery from London’s East End to Kent’s countryside in Harkness’s _In Darkest London_ further emphasises the social stigmatisation of the urban working class by contrasting the beauty and purity of nature with the perceived sinfulness of the city.
 
 {% include embed/image.html src="wc:Alexander_Mann_-_Hop_Pickers_Returning_1883.jpg" aspect="0.742" caption="Hop Pickers Returning, 1883" %}
 
