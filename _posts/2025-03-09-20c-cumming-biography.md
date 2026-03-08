@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-03-09
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Countryside & farming, Conflict & war, Literary places ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f99cba76-1d0b-4711-8b68-963a2f244076.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/cf/Bruno_Liljefors_-_Fox_hunted_by_dogs_1905.jpg
 permalink: /20c/20c-cumming-biography/
 published: true
 toc: false  
@@ -36,11 +36,7 @@ Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American p
 
 Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds.[^ref6] In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.”[^ref7] 
 
-{% include embed/image.html src="wc:Bruno_Liljefors_-_Fox_hunted_by_dogs_1905.jpg" aspect="1.44" caption="Fox hunted by dogs, 1905" %}
-
-In 1938, Cumming’s father died. It was during this year that her book _The Silver Eagle Riding School_ was published. In the story three sisters open a riding school after the death of their father in order to support themselves and to prevent the sale of their horses. 
-
-Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
+In 1938, Cumming’s father died. It was during this year that her book _The Silver Eagle Riding School_ was published. In the story three sisters open a riding school after the death of their father in order to support themselves and to prevent the sale of their horses. Primrose and her sister Violet continued to live with their widowed mother at Wynberg on Back Road, Sandhurst.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f46a4ed2-2281-41ef-b467-b51c70ac8e14.jpg" aspect="1.656" caption="West Kent Stables 1926" attribution="Michelle Crowther" %}
 
@@ -80,7 +76,7 @@ Primrose Cumming died in 2004. Her funeral took place at St. Nicholas Church, Sa
 
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 
-This article was published: 9 March 2025. Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
+Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
 
 {% include embed/image.html src="wc:St_Nicholas%27_Church%2C_Sandhurst%2C_Kent_%28Geograph_Image_2615565_f85a473f%29.jpg" aspect="1.508" caption="Church of St Nicholas, Sandhurst" %}
 
