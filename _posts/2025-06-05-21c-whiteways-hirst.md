@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places ]
-image: https://upload.wikimedia.org/wikipedia/commons/d/da/Drawing%2C_Wild_Goose_in_Flight%2C_1896%E2%80%9397_%28CH_18175163%29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Geese_-_DPLA_-_08f41c453e99642cde60adde17173820.jpg
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false  
