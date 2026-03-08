@@ -5,7 +5,7 @@ author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/8a/From_the_gardens%2C_Broadstairs%2C_England.jpg
 permalink: /dickens/dickens-broadstairs/
 published: true
 toc: false  
@@ -23,17 +23,13 @@ juncture: true
 
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
 
-{% include embed/image.html src="wc:From_the_gardens%2C_Broadstairs%2C_England.jpg" aspect="1.344" caption="From the gardens, Broadstairs" %}
-
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 
 The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography). 
 
 {% include embed/image.html src="wc:Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" aspect="0.66" caption="Wilkie Collins, Harvard Theatre Collection" %}
 
-Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was:
-
-'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
+Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was: 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Bleak House, Broadstairs" %}
 
