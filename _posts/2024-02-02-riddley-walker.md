@@ -40,8 +40,6 @@ An interesting passage in Hoban’s book exposes any idea that renaming places i
 
 Those of us familiar with the story and immersed in Riddley’s landscape may find themselves thinking in ‘Riddley speak’ for many localities (I do); some places do lend themselves to his tone and meaning, but not all. As a onetime resident of the Parish of [Wye](Q19695) and [Hinxhill](Q3135780), I do not think of Hinxhill as ‘Hagmans Il’, but rather as the evocative ‘Hengist Hill’, its purported origin being the Old English ‘Haenostesyle’ – ‘hill of the stallion or man named Hengist’ (OE hengest + hyll). Place-names are the markers on the map that tether your biography to the biography of the landscape. 
 
-Banner image: ©Lisa Hawkins
-
 {% include embed/map.html center="Q3135780" zoom="15" markers="Q3135780" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 ### Bibliography
