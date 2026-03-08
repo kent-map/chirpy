@@ -5,7 +5,7 @@ author: Carolin Sternberg
 date: 2024-08-01
 categories: [ 19c ]
 tags: [ Texts & genres, Countryside & farming, Culture & society, Travel & mobility ]
-image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Humulus_lupulus_at_Julita_5.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/3b/Thales_Fielding_-_Hop_Picking_-_B1977.14.4159_-_Yale_Center_for_British_Art.jpg
 permalink: /19c/19c-harkness-darkest/
 published: true
 toc: false  
