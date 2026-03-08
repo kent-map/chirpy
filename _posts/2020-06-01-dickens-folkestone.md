@@ -5,7 +5,7 @@ author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg
 permalink: /dickens/dickens-folkestone/
 published: true
 toc: false  
@@ -53,11 +53,9 @@ Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1998.
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Harper, Charles G. _The Kentish Coast_. [London: Chapman & Hall, 1914]. Classic Reprints, no details.   
 Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
-Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
+Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988. 
 Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 7: 1853-1855_. Oxford: Clarendon Press, 1993.   
 Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List and Folkestone Journal._   29 April 1891. 13, 15.albio.   
-
-{% include embed/image.html src="wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" aspect="1.333" caption="The Leas, Folkestone" %}
 
 ### References
 
