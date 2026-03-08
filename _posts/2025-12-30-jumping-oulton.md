@@ -12,7 +12,6 @@ toc: false
 juncture: true
 ---
 
-
 With my head in position that butterfly wing   
 is the shadow of a line of grass -   
 just there the bone of a fallen thistle,   
@@ -29,6 +28,6 @@ the red-tinged clover,
 spilled tea shadows,   
 purple flowers as they tick tock tick.
 
-From _Accidental Fruit_, [Worple Press](https://worplepress.com/) (2016).
-
 {% include embed/image.html src="wc:Hyperchromic_Trifolium_pratense.jpg" aspect="1.505" caption="Hyperchromic Trifolium pratense by Nicolas Schwab, CC BY-SA 4.0, via Wikimedia Commons" %}
+
+From _Accidental Fruit_, [Worple Press](https://worplepress.com/) (2016).
