@@ -27,7 +27,7 @@ By the late nineteenth century Dickens’s association with the town was being h
 
 The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography). 
 
-{% include embed/image.html src="wc:Harvard_Theatre_Collection_-_Wilkie_Collins_TCS_1.5553.jpg" aspect="0.66" caption="Wilkie Collins, Harvard Theatre Collection" %}
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0badef45-31a2-4639-9599-ec3aa2bd4d42.jpg" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
 
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was: 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
@@ -45,8 +45,6 @@ While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0badef45-31a2-4639-9599-ec3aa2bd4d42.jpg" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
 
 ### Bibliography
 
