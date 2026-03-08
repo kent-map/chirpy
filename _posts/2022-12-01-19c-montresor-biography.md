@@ -95,10 +95,6 @@ Montrésor wrote ten novels, featuring rebellious daughters and women who are at
 
 After the death of her mother in 1913, Montrésor moved to 18, Cheyne Walk, formerly Don Saltero's Coffee House and Curiosity Museum.[^ref24] No more books appeared during the war years, but in 1920, Montrésor wrote her first play ‘Katherine the Quene’ based on the life of Katherine Parr which was performed at the Nottingham Repertory Theatre in March 1921. Montrésor died in Sheffield after being taken ill whilst on holiday in Matlock in 1934[^ref25] and left £75,908 in her will.[^ref26]
 
-This article was published: 31 December 2022.
-
-{% include embed/image.html src="wc:Don_Saltero%27s_Tavern.jpg" aspect="1.446" caption="Don Saltero's Tavern before 1864" %}
-
 ### Bibliography
 
 Kemp, S., Mitchell, C., and Trotter, D. (1997) _The Oxford Companion to Edwardian Fiction_ Oxford: Oxford University Press.   
