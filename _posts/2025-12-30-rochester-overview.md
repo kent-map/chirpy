@@ -35,7 +35,7 @@ James Temple who was convicted of the regicide of Charles I was born in Rocheste
 
 Sarah Dixon who wrote _Poems on Several Occasions_ was baptised in Rochester, in 1671. [Elizabeth Carter]({{ site.baseurl }}/18c/18c-carter-biography) was one of the subscribers to her collection.
 
-Chemist, Dr [Robert Plot]({{ site.baseurl }}/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref4] 
+Chemist, Dr [Robert Plot]({{ site.baseurl }}/17c/17c-robert-plot) wrote to Dr Charlett from Rochester in 1693 to tell him: "the greatest rarity I have met with has been here, viz. a medicine for the bite of a mad dog". The medicine consisted of being dipped in the salt water below the bridge "without fig-leaves" by two lewd fellows.[^ref1] 
 
 {% include embed/image.html src="wc:Sybil_Thorndike%2C_English_actress%2C_1932_-_The_Falk_Studios_%286480135843%29.jpg" aspect="0.746" caption="Sybil Thorndike, 1932" %}
 
@@ -57,7 +57,4 @@ Enid Bagnold, author of _National Velvet_ was born in Rochester in 1889, althoug
 
 ### References
 
-[^ref1]: Pepys, Samuel. https://www.pepysdiary.com/diary/1661/04/10/
-[^ref2]: Pepys, Samuel. https://www.pepysdiary.com/diary/1665/10/02/
-[^ref3]: Pepys, Samuel. https://www.pepysdiary.com/diary/1667/06/30/
-[^ref4]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813.
+[^ref1]: Aubrey, John 'Letters written by eminent persons in the 17th and 18th centuries : to which are added, Hearne's Journeys to Reading, and to Whaddon Hall, the seat of Browne Willis, Esq., and Lives of eminent men.' London: Longman, Hurst, Rees, Orme, And Brown, 1813.
