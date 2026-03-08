@@ -5,14 +5,14 @@ author: Alyson Hunt
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Travel & mobility, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/17/Pierremont_Hall%2C_Broadstairs.jpg
 permalink: /19c/19c-victoria-biography/
 published: true
 toc: false  
 juncture: true
 ---
 
-As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour.  Twelve years later, she stayed at [Albion House]({{ site.baseurl }}/19c/19c-victoria-albion-house) from 29 Sept 1835 – 11th Jan 1836 with her mother and visited [Broadstairs]({{ site.baseurl }}/19c/19c-victoria-broadstairs), [Margate]({{ site.baseurl }}/dickens/19c-margate/) and [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/). She returned in the autumn of that year, staying at [West Cliff House]({{ site.baseurl }}/19c/19c-victoria-west-cliff) from 30th Sept 1836 – 29 Nov 1836 and had an overnight stay at an inn in Rochester.  
+As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour. In 1829, she and her mother spent the autumn at Pierremont House, Broadstairs. Six years later, she stayed at [Albion House]({{ site.baseurl }}/19c/19c-victoria-albion-house) from 29 Sept 1835 – 11th Jan 1836 with her mother and visited [Broadstairs]({{ site.baseurl }}/19c/19c-victoria-broadstairs), [Margate]({{ site.baseurl }}/dickens/19c-margate/) and [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/). She returned in the autumn of that year, staying at [West Cliff House]({{ site.baseurl }}/19c/19c-victoria-west-cliff) from 30th Sept 1836 – 29 Nov 1836 and had an overnight stay at an inn in Rochester.  
 
 As Queen Victoria, she and Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle]({{ site.baseurl }}/19c/19c-victoria-walmer-castle) from 10th Nov 1842 – 3rd Dec 1842. The couple also visited wounded military personnel at the Military Hospital in [Chatham](Q729006) in 1855 and 1856. She wrote a detailed diary throughout her life of which 141 volumes survive, numbering 43,765 pages.  
 
