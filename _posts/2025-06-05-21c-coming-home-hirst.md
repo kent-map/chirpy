@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Nature & environment, Maps & place-making ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Drifting_snow%2C_B6371_-_geograph.org.uk_-_5697550.jpg/640px-Drifting_snow%2C_B6371_-_geograph.org.uk_-_5697550.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Byway_to_Eastry_%282%29_-_geograph.org.uk_-_2203645.jpg
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  
@@ -38,3 +38,5 @@ We walk more quickly here and pass the silent yard
 whose puddles are iced mud. Snow has wiped the signpost   
 but to us it doesn’t matter. We know our way    
 and turn left down the hill. Beyond the woods is home.   
+
+Image credit: Byway to Eastry (2) by David Anstiss, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
