@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-04-23
 categories: [ 19c ]
 tags: [ Science & ideas, Coast & sea, Towns & cities, Travel & mobility, Representation & interpretation ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg/2560px-South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f8/Marconi_and_his_wireless_apparatus_1897.jpg
 permalink: /19c/19c-marconi-biography/
 published: true
 toc: false  
