@@ -34,10 +34,7 @@ It is difficult to overstate the popularity of the English glee in the late eigh
 
 In the end, none of this could ensure the survival of the glee beyond the end of the nineteenth century, though echoes can be heard in some Gilbert and Sullivan choruses and there is one report of a Glee Club behind the lines in World War 1. By then, though, the repertoire is indistinguishable from the choruses and part songs which had become popularised in the volumes of music aimed at the enthusiastic amateur, middle-class, domestic music-making which had grown up alongside the advent of readily available pianos for the home.
 
-{% include embed/image.html src="wc:New_%26_Popular_Song_%26_Dance_Compositions._%28BM_1922%2C0710.660%29.jpg" aspect="0.726" caption="New and Popular Song and Dance Compositions, between 1859 and 1886" %}
-
 In its heyday, the glee was a rather more demanding genre requiring a level of vocal dexterity and musical training not normally associated with amateur music-making. The men who sang the glees at a Catch Club evening were more likely to be professional singers. Fortunately for [Canterbury]({{ site.baseurl }}/music/19c-music-canterbury) – and for every other cathedral city throughout the land, and for the nearby towns who may also have and a Catch or Glee Club to which these musicians could travel along the rapidly-improving roads of the nineteenth century – there was a ready supply of such talent in the local [cathedral choir]({{ site.baseurl }}/music/19c-cathedral-singing). 
-
 You can watch this video to find out more [Chris Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fe4a9962-d0fd-4116-9f01-a05b7425fbfa.jpg" aspect="1.346" caption="Canterbury Cathedral, from A Walk In and About the City of Canterbury" attribution="by William Gostling, 1825. no known copyright restrictions." %}
