@@ -30,11 +30,3 @@ The Cathedral was the Luftwaffe’s target, the Cathedral Library received a dir
 
 The [Regal Cinema](Q40472386), now the Odeon (by the St George’s roundabout), was also fortunate. A high explosive bomb destroyed the side of the building. Rather than rebuild, the debris was cleared to widen the public footway and a new wall to the reduced building rendered up. This accounts for the cinema’s unsymmetrical appearance to this day. No-one was in the building at the time but that was the end of the film then showing, *Gone with the Wind*.
 
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral by Hans Musil, CC BY-SA 4.0" %}
-
-{% include embed/map.html center="Q40472386" zoom="15" markers="Q40472386" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), and [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions.
-
