@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Culture & society, Towns & cities, Buildings & architecture, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Verena_Holmes_Building_2-JPeilow-1.jpg
 permalink: /canterbury/20c-canterbury-universities/
 published: true
 toc: false  
@@ -16,8 +16,6 @@ juncture: true
 ### Universities
 
 By the end of the 20th century [Canterbury](Q29303) was home to three universities, the University for the Creative Arts (founded as the Canterbury School of Art and Architecture 1948), [Canterbury Christ Church University](https://www.canterbury.ac.uk) (formerly College of Education founded 1962) and the largest and first to be a university, the [University of Kent](https://www.kent.ac.uk) (founded 1965). 
-
-{% include embed/map.html center="Q1516684" zoom="15" markers="Q1516684" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
 
 #### [The University of Kent](Q1516684)
 
@@ -87,8 +85,4 @@ Formerly a College of Technology, Canterbury College for students aged 16+ has g
 
 Most of the original and 1960s buildings have been demolished in an impressive redevelopment programme, which has won building excellence awards. The smoking area which was a common sight on the adjacent New Dover Road has been relocated to the back of the college.
 
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [schools]({{ site.baseurl }}/canterbury/20c-canterbury-education), and how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods]({{ site.baseurl }}/canterbury/20c-canterbury-floods).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
+Banner Image Credit: CanterburyChristChurchUniversity, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
