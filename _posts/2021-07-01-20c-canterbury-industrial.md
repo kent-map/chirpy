@@ -36,9 +36,3 @@ The sculptured figure of a cow standing alongside the ring road on the Tannery F
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c2a24edf-49f6-48fd-9c29-11731fb15d16.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/40ca319d-06b9-453b-8435-5cb7cf2a7946.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
-
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
