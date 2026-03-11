@@ -21,9 +21,3 @@ Directors [Michael Powell](Q55234) and [Emeric Pressburger](Q55230) pay homage t
 
 Oulton, Carolyn. ["L is for Literature."](https://medium.com/the-christ-church-heritage-a-to-z/l-is-for-literature-1509ef2da5ec) *The Christ Church Heritage A to Z.* Medium.com. 2019. Online.   
 Zemgulys, Andrea. *Modernism and the Locations of Literary Heritage.* Cambridge: Cambridge University Press, 2008. Print.
-
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [school system]({{ site.baseurl }}/canterbury/20c-canterbury-education) and [universities]({{ site.baseurl }}/canterbury/20c-canterbury-universities), and how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods]({{ site.baseurl }}/canterbury/20c-canterbury-floods).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
