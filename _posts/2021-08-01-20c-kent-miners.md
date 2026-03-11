@@ -5,7 +5,7 @@ author: Professor Emeritus Linden West
 date: 2021-08-01
 categories: [ 20c ]
 tags: [ Work & industry, Politics & reform, Maps & place-making, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6e4cd3c3-771e-43b2-a9e8-90384590672d.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/05/KentNUMStrikeBadge.JPG
 permalink: /20c/20c-kent-miners/
 published: true
 toc: false  
