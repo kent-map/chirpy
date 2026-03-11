@@ -5,7 +5,7 @@ author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 19c ]
 tags: [ Crime & punishment, Towns & cities, Buildings & architecture, Politics & reform ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/d7/Former_gaol%2C_Canterbury_-_geograph.org.uk_-_4225814.jpg
 permalink: /19c/19c-canterbury-gaol/
 published: true
 toc: false  
@@ -38,7 +38,7 @@ Later the ‘separate’ system of prison discipline was preferred, and this req
 
 The new A block contained ‘special cells’ for punishing inmates who broke prison rules.[^ref17]  These dark cells had no windows and prisoners could be placed in them for up to three days. In 1884, 21-year-old James Ells took his own life after spending 24 hours in the dark cells.[^ref18]  He had been at Canterbury just two days on remand for theft. Flogging was another punishment, and this led to a Home Office Inquiry in 1888 following the death of Philip Jewiss.[^ref19]  Philip collapsed in his cell 16 days after being whipped. He suffered 13 fits and died of apoplexy the following day. The inquiry absolved the prison authorities of wrongdoing, although it did criticise the inquest process for lacking transparency. Dark cells were no longer used after 1895, although ‘refractory’ prisoners continued to be placed in special cells.[^ref20]  Flogging of prisoners was not abolished until 1967.  
 
-This article was published: 8 May 2023.
+Banner image credit: Former gaol, Canterbury by Stephen Craven, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="wc:page21-1050px-Prison_rules_%28convict_prisons%29_-_draft_of_rules_proposed_to_be_made_under_the_Prison_Act%2C_1898_%28IA_b22333770%29.pdf.jpg" aspect="0.594" caption="Prison rules (convict prisons) - draft of rules proposed to be made under the Prison Act, 1898" %}
 
