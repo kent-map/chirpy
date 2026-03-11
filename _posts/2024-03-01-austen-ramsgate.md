@@ -19,8 +19,6 @@ juncture: true
 
 ‘My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself. About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/); and thither also went Mr. Wickham, undoubtedly by design; […] he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.’_Pride and Prejudice_ (1813)
 
-{% include embed/image.html src="wc:View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg" aspect="2.138" caption="View of Ramsgate Town and Harbour" %}
-
 During the Regency period, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) blossomed from a small watering hole into an important garrison town and social destination.  Edward Austen Knight is known to have gone there with his family, and on one such occasion at least, Jane Austen accompanied him.  She may have visited at other times as well.  A family acquaintance, Sir Egerton Brydges, recalls seeing Austen there at this time:    
 'When I knew Jane Austen I never suspected that she was an authoress.  But my eyes told me that she was fair and handsome, slight and elegant, with cheeks a little too full.  The last time, I think, I saw her was at [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) in 1803.'[^ref1]   
 
