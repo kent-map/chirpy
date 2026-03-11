@@ -146,8 +146,6 @@ Apart from these small interruptions,
 the picture is Mark Rothko in Grey and Grey   
 viewed through nine silenced rectangles of double-glazing.   
 
-{% include embed/image.html src="wc:Rothko_Paper_Works.jpg" aspect="1.0" caption="Mark Rothko Paper Works" %}
-
 The sea is hammered to a blue steel pan.   
 A scattering of snippets from the moon   
 slither on its shiny metal surface,   
