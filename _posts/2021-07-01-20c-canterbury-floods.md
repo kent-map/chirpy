@@ -29,14 +29,6 @@ The rains finally came to an end on Friday 5 November or ‘Bonfire Night’, an
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/521f0909-d812-46b8-84f5-49c0328aba76.jpg" aspect="1.545" caption="Causeway" attribution="Horace Spence Collection" %}
 
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) and [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [universities]({{ site.baseurl }}/canterbury/20c-canterbury-universities) and its [education]({{ site.baseurl }}/canterbury/20c-canterbury-education) system, and Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods]({{ site.baseurl }}/canterbury/20c-canterbury-floods).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
-
-***
-
 ### Bibliography
 
 _The Cantuarian_. November 1909. 458. With thanks to Peter Henderson.
