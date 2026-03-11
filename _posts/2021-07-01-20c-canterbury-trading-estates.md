@@ -39,8 +39,6 @@ To the NE of the city centre, the first landmark is the main Sainsbury’s super
 
 {% include embed/image.html src="wc:Sainsbury%27s_Supermarket%2C_Canterbury_-_geograph.org.uk_-_1332508.jpg" aspect="1.333" caption="Sainsbury's Canterbury Branch" %}
 
-{% include embed/map.html center="Q106653436" zoom="15" markers="Q106653436" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
 Across the road from Sainsbury’s and contiguous with the Sturry Road (A28), the city’s first large development of the 21st century is going up, the Riverside Centre. The centre will combine leisure facilities, including a multiplex cinema, with residential accommodation and promises high quality and specialist retailers, cafés and restaurants. If the Riverside successfully appeals to resident and visitor markets, will it release pressure on the commercial centre or hasten its end?
 
 {% include embed/map.html center="51.2847334655167, 1.0856330040435993" zoom="15" markers="51.2847334655167, 1.0856330040435993" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
@@ -62,9 +60,3 @@ The 1970s Vauxhall Road Industrial Estate includes [ParkerSteel]({{ site.baseurl
 Both the Sturry Road and Wincheap trading estates have the benefit of Park and Ride sites and the development of out-of-centre shopping works well for people coming in to town from the surrounding rural areas. However, a lethal combination of traffic tailback pollution and vibration causes unrelenting damage to the pre-existing housing and older buildings along this ancient thoroughfare. Within living memory Wincheap residents recall the bellowing of cows from Chartham driven along the street to market (and not in motorised vehicles) – twice a week.
 
 {% include embed/map.html center="51.29388599827786, 1.1088229722985128" zoom="15" markers="51.29388599827786, 1.1088229722985128" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [retail industry]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), as well as [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, and the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
