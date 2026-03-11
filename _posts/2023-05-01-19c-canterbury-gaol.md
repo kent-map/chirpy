@@ -40,8 +40,6 @@ The new A block contained ‘special cells’ for punishing inmates who broke pr
 
 Banner image credit: Former gaol, Canterbury by Stephen Craven, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
-{% include embed/image.html src="wc:page21-1050px-Prison_rules_%28convict_prisons%29_-_draft_of_rules_proposed_to_be_made_under_the_Prison_Act%2C_1898_%28IA_b22333770%29.pdf.jpg" aspect="0.594" caption="Prison rules (convict prisons) - draft of rules proposed to be made under the Prison Act, 1898" %}
-
 ### Bibliography
 
 Crone, R. _Guide to the Criminal Prisons of 19th Century England,_ (London, 2018).   
