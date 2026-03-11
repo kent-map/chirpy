@@ -28,7 +28,6 @@ During the Regency period, [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/) blos
 
 Jane Austen and her siblings may have been particularly keen to visit around this time because their brother Francis was a Royal Navy officer and commanded the North Foreland Sea Fencibles here in 1803-4.  While stationed in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate/), Francis met a local woman, Mary Gibson, whom he married in 1806.[^ref2]   Jane Austen celebrated their nuptials in an unpublished poem written for her niece, Fanny Knight:
 
-{% include embed/image.html src="wc:P%26P41-Avec_Wickham_%28BrockNB%29.JPG" aspect="0.778" caption="Avec Wickham" %}
 
 See they come, post haste from Thanet,   
    Lovely couple, side by side;   
@@ -60,8 +59,6 @@ In Austen’s published work, [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate
 ### Bibliography 
 
 Selwyn, David, ed. _The Poetry of Jane Austen and the Austen Family_. Iowa City: University of Iowa Press, 1997.   
-
-{% include embed/image.html src="wc:Thomson-PP09.jpg" aspect="0.865" caption="The Officers of the shire" %}
 
 ### References
 
