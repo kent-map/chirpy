@@ -5,7 +5,7 @@ author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Authors & lives, Literary places, Towns & cities, Work & industry ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/88/Elevation_and_Plan_of_Chatham_Dockyard%2C_Thomas_Milton%2C_1755.jpg
 permalink: /dickens/dickens-chatham/
 published: true
 toc: false  
@@ -26,7 +26,7 @@ Initially the family lived at 2 Ordnance Terrace, on the hills above the estuary
 
 {% include embed/image.html src="wc:Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg" aspect="2.03" caption="Joseph Farington (1747-1821) - Chatham Dockyard - BHC1782 - Royal Museums Greenwich" %}
 
-In 1821 continued money difficulties forced a move to 18 St Mary’s Place, closer to the dockyard, and in the same year John Dickens covered a major fire in Chatham for _The Times_. His concern for the residents most deeply affected by this catastrophe is easily lost in the feeling of déjà vu for anyone who remembers Mr Micawber in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk). The rhetorical flourish and the preoccupation with financial ruin are both familiar from the novel, in lines such as ‘several houses, and those, we understand, principally belonging to persons whose ruin must be the consequence, were wholly unensured [sic]’.[^ref2] In danger of financial ruin himself, by 1822 John Dickens had left his post at the Naval Pay Office and moved the family to London.
+In 1821 continued money difficulties forced a move to 18 St Mary’s Place, closer to the dockyard, and in the same year John Dickens covered a major fire in Chatham for _The Times_. His concern for the residents most deeply affected by this catastrophe is easily lost in the feeling of déjà vu for anyone who remembers Mr Micawber in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk). The rhetorical flourish and the preoccupation with financial ruin are both familiar from the novel, in lines such as ‘several houses, and those, we understand, principally belonging to persons whose ruin must be the consequence, were wholly unensured [sic]’.[^ref2] In danger of financial ruin himself, by 1822 John Dickens had left his post at the Naval Pay Office and moved the family to London.   Banner image credit: British Library, No restrictions, via Wikimedia Commons
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f04e222b-2912-487e-8194-b1a6e24c51c1.jpg" aspect="1.526" caption="Chatham Dockyard" %}
 
