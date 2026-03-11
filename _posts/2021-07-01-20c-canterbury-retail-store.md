@@ -60,9 +60,3 @@ Does internet shopping and the closures accelerated by coronavirus signal the en
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Delapidated_Nasons.jpg" aspect="1.333" caption="Nason's" attribution="Martin Crowther, by kind permission" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Abandoned_Burtons.jpg" aspect="1.333" caption="Burtons" attribution="Martin Crowther, by kind permission" %}
-
-***
-
-Return to the homepage for [20th-century Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) and [industrial heritage]({{ site.baseurl }}/canterbury/20c-canterbury-industrial), its [trading estates]({{ site.baseurl }}/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city]({{ site.baseurl }}/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) infrastructure and the [railway]({{ site.baseurl }}/canterbury/20c-canterbury-railway), [planning]({{ site.baseurl }}/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
-
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg" aspect="1.3" caption="Canterbury Cathedral" %}
