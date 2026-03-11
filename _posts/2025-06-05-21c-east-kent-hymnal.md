@@ -5,7 +5,7 @@ author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
 tags: [ Texts & genres, Countryside & farming, Rivers & marshes, Nature & environment ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b0/View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg
 permalink: /21c/21c-east-kent-hymnal/
 published: true
 toc: false  
@@ -19,8 +19,6 @@ Here I thrive, my stout roots tapering
 Through flinty subsoil to bald chalk beneath.   
 Here I draw sap, which feeds me its vitality,    
 Heals with its memories, allows me breath.   
-
-{% include embed/image.html src="wc:View_across_Ham_Brooks_-_geograph.org.uk_-_944615.jpg" aspect="1.333" caption="View across Ham Brooks" %}
 
 If I am rooted, how is it I can walk   
 On roads and paths with their familiar dust?   
@@ -42,3 +40,5 @@ This landscape has the contours of my youth.
 I can lie upon its ploughed and grassy surfaces,   
 Take comfort from its folds, sink back my roots.   
 It is my bedrock and my bed.
+
+Banner Image Credit: Nick Smith / View across Ham Brooks, Wikimedia Commons.
