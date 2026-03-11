@@ -5,7 +5,7 @@ author: Hayley Smith
 date: 2024-03-01
 categories: [ placesej ]
 tags: [ Towns & cities, Conflict & war, Buildings & architecture, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/59/Gravesend_Clock_Tower_postcard.jpg
 permalink: /placesej/gravesend-overview/
 published: true
 toc: false  
