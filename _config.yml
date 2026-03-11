@@ -26,7 +26,8 @@ description: >- # used by seo meta and the atom feed
 url: https://kent-maps.online # the base hostname & protocol for your site
 
 github:
-  username: # change to your GitHub username
+  username: kent-map # change to your GitHub username
+  repository: chirpy
 
 twitter:
   username:  # change to your Twitter username
@@ -55,9 +56,6 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-
-plugins:
-  - jekyll-github-metadata
 
 # Web Analytics Settings
 analytics:
