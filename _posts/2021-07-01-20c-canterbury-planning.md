@@ -33,8 +33,6 @@ A compromise plan of 1948 removed the ring road to outside the city walls, where
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
 
-{% include embed/map.html center="51.2775389648421, 1.0804745626367283" zoom="15" markers="51.2775389648421, 1.0804745626367283" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
 #### The building and rebuilding of the bombed city centre
 
 The structures built in the 1950s and 1960s were at best mediocre and at worst a disgrace. The Burgate, the first street to be rebuilt, was an exception successfully retaining its historical character and interest. The poor post-war developments, particularly in the Longmarket, St George’s Tower area and Whitefriars were demolished and rebuilt in the 1990s.
@@ -47,8 +45,6 @@ Butchery Lane is now a wonderful example of how well the heritage of the past an
 
 The new Longmarket, comprising shops and a first-floor terrace courtyard, successfully combines traditional and modern features. The plan was criticised as a bad case of film-set phoney medieval-looking facades, but the outcome, with the provision of the underground [Roman Museum](https://canterburymuseums.co.uk/romanmuseum) is more successful than was feared. The Longmarket terrace affords views of the Cathedral and the attractive plaza area meets a need for public space, affording a view of the full length of the historic thoroughfare through the Parade, High Street and St Peter’s street to the Westgate Towers and the distant hill top vista beyond.
 
-{% include embed/map.html center="Q104815065" zoom="15" markers="Q104815065" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
 The Whitefriars, formerly the site of an Augustinian friary and later the Simon Langton Grammar Schools, though criticised for being oversized, is a model commercial centre of its kind. The bus and coach hub serves well where it was built on the only site in the city centre immediately adjacent to the primary retail development. A well concealed multi-storey car park replaced the 1960s monstrosity, built in the aptly named “brutalist” style. The Whitefriars incorporates residential apartments and has successfully created a new public square where the outline of archaeological excavations is etched into the paving.
 
 {% include embed/image.html src="wc:Austin_Friars_in_Whitefriars%2C_Canterbury.jpg" aspect="1.333" caption="Austin Friars in Whitefriars, Canterbury" %}
@@ -57,12 +53,8 @@ The Whitefriars, formerly the site of an Augustinian friary and later the Simon 
 
 {% include embed/image.html src="wc:Bus_Station_-_geograph.org.uk_-_746935.jpg" aspect="1.249" caption="Bus station, Canterbury" %}
 
-{% include embed/map.html center="Q17064998" zoom="15" markers="Q17064998" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
 #### Smaller scale developments in former bomb sites.
 
 The 1980s Regency development in Castle Way, the Templars in St Dunstan’s and the former Wool Store and attractive riverside restaurant, built in flint, stone, brick and weatherboarding adjacent to the Sudbury Tower, are successful rebuilds.
-
-{% include embed/map.html center="51.28220414452846, 1.076991336935663" zoom="15" markers="51.28220414452846, 1.076991336935663" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
 
 St Dunstan’s Street is one of the finest streets in Canterbury. For centuries the principal entrance to the city by the West Gate Towers which stand at the southern end, many of the buildings are of historic and architectural interest. The [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) however left bomb sites to either side of the railway crossing which bisects the street. At the junction of St Dunstan’s Street and Station Road West a corner had been a museum and swimming bath in a timber framed building. A local builder, Walter Cozens, had dismantled and moved the entire structure from Upper Bridge Street to St Dunstan’s in 1908. Destroyed in the bombing raids the site was filled by a petrol filling station and motor bike shop. On demolition of the garage a new Sainsbury’s Local, wrapped around by student residential accommodation, now rounds off the corner. At the junction with Roper Road a National Tyre Depot was built in the 1960s where before the war a terrace of four houses and an individual villa had stood. This site is now retirement housing known as Abbots Lodge. Both redevelopments have replaced negative post war features with buildings in style and character with the historic mix of residential buildings, shops and businesses of the street.
