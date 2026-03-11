@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f0782a67
 permalink: /20c/20c-firmin-winter-diary/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

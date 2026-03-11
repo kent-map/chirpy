@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-
 permalink: /20c/20c-hop-picking/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 TEST XXXXX

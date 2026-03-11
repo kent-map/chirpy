@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b91a767a
 permalink: /19c/19c-moberly-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

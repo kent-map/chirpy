@@ -1,5 +1,7 @@
 # The Site Configuration
 
+repository: kent-map/chirpy
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -55,6 +57,9 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+
+plugins:
+  - jekyll-github-metadata
 
 # Web Analytics Settings
 analytics:
@@ -233,8 +238,8 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# The options for the Juncture layout, which provides enhanced features for content presentation and interaction.
-juncture:
+# The options for the StoryKit layout, which provides enhanced features for content presentation and interaction.
+storykit:
   mode: flat                  # default layout style: flat or 2col
   mode_toggle: false          # Enable the toggle button to switch between 2col and flat styles
   auto_float: true            # auto float embeds

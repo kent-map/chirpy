@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Geese_-_DPLA_-_08f41c
 permalink: /21c/21c-whiteways-hirst/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 The bleached white road rises to the Saxon graves   

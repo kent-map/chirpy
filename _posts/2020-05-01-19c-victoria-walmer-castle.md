@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmer_Castle_Postcar
 permalink: /19c/19c-victoria-walmer-castle/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 **Events with dates:** 10th Nov 1842 – 3rd Dec 1842   

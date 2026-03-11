@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Constable_-_Folkeston
 permalink: /poetry/fisherman-oulton/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Polished light glances off the wood.   

@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b0/View_across_Ham_Brook
 permalink: /21c/21c-east-kent-hymnal/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 This landscape has the contours of my youth.   

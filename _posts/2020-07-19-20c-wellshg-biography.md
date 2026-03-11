@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-wellshg-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 {% include embed/map.html center="Q1000312" zoom="12.5" markers="Q1000312" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 

@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /nesbit/nesbit-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 **Places:** [Halstead](Q2035885), [Penshurst](Q1227477), [Medway](Q797782), [Dymchurch](Q2796278), St Mary’s Bay 
 

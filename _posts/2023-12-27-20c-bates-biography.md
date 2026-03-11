@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/00a0bf98
 permalink: /20c/20c-bates-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel _Darling Buds of May_, which centred around the Larkin family and their adventures in rural Kent. The book and its sequels were later turned into a popular television series, starring David Jason and Catherine Zeta-Jones. 

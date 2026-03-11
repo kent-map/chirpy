@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fafede9a
 permalink: /17c/17c-william-harvey/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 **Early Life and Education**   

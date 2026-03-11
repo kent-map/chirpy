@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /landscape/scapes-and-fringes/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 It has become all too fashionable to coin yet another ‘-scape’ (_drosscape_, _playscape_, _smellscape_), however, the root-term ‘landscape’ and some of its derivatives do provide useful means of discussing human and environment interactions and their artistic representations. 

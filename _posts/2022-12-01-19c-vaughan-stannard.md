@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/43be2313
 permalink: /19c/19c-vaughan-stannard/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 

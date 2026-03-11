@@ -9,9 +9,9 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/4f/William_Powell_Frith_
 permalink: /19c/19c-sambourne-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 ‘Where’s [Ramsgate](Q736439)/ Where I’ve often seen   
 Both S-MB-RNE and DU M-R-ER,   

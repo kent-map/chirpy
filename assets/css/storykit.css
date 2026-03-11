@@ -215,10 +215,11 @@ figure.iframe-wrapper figcaption {
 
 .col2 .viewer figure {
     width: 100%;
+    background: var(--main-bg);
 }
 
 .col1 .viewer {
-    display: none;;
+    display: none;
 }
 
 .preview .container,
@@ -300,12 +301,13 @@ figure.iframe-wrapper figcaption {
 
 .col2 .viewer {
     position: sticky;
-    top: 92px;
+    top: 50px;
     right: 0;
     width: calc(50% - 8em);
     height: 50dvh;
     /* padding-top: 1em; */
     align-items: start;
+    background: var(--main-bg);
 }
 
 .col2 .active {
@@ -314,6 +316,12 @@ figure.iframe-wrapper figcaption {
     border-color: #9e9e9e;
     margin: 0 -0.5em 1em -0.5em;
     padding: 0 0.5em;
+}
+
+[data-mode="dark"] .col2 .active {
+    background: var(--main-bg);
+    border: 1px solid #777;
+    border-radius: 6px;
 }
 
 .trigger {
@@ -354,6 +362,10 @@ figure.iframe-wrapper figcaption {
     padding: 0 0.5em;
 }
 
+[data-mode="dark"] .col2 .post-content {
+    background: var(--main-bg);
+}
+
 .col2 .right {
     margin: 0;
 }
@@ -361,6 +373,7 @@ figure.iframe-wrapper figcaption {
 .viewer>iframe,
 .viewer>sl-tab-group {
     width: 100%;
+    background: var(--main-bg);
 }
 
 .post-index {
@@ -660,7 +673,8 @@ iframe[src^="https://cdn.knightlab.com/"] {
         grid-column: 2;
     }
 
-    .trigger, .entity-popup span {
+    .trigger,
+    .entity-popup span {
         text-decoration: none !important;
         border-bottom: 0 !important;
     }
@@ -676,9 +690,11 @@ iframe[src^="https://cdn.knightlab.com/"] {
     article {
         /* border: 1px solid red; */
     }
+
     article header h1 {
         margin-top: -0;
     }
+
     div.content {
         width: 1066px !important;
     }
@@ -687,25 +703,28 @@ iframe[src^="https://cdn.knightlab.com/"] {
         width: 50% !important;
         page-break-inside: avoid !important;
     }
+
     .right {
         float: right !important;
     }
+
     h1 {
         page-break-after: avoid;
     }
 }
 
 /* Default: posters hidden on screen */
-    .yt-print-poster {
-        display: none;
-        width: 100%;
-        height: auto;
-        aspect-ratio: 16 / 9;
-        object-fit: cover;
-    }
+.yt-print-poster {
+    display: none;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
 
-    /* Print: hide the iframe and show the poster */
-    @media print {
+/* Print: hide the iframe and show the poster */
+@media print {
+
     iframe[src*="youtube.com/embed/"],
     iframe[src*="youtube-nocookie.com/embed/"] {
         display: none !important;
@@ -725,8 +744,8 @@ iframe[src^="https://cdn.knightlab.com/"] {
 }
 
 .float-pair {
-  display: block;
-  margin: 0;
-  padding: 0;
-  border: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }

@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2251af4a
 permalink: /21c/21c-seabrook-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 ‘But what’s wrong with this city? Why the long face on the cathedral clock? Whose shadow darkens the sundial?

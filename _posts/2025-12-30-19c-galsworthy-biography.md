@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/e/eb/Broadstairs_Jetty.jpg
 permalink: /19c/19c-galsworthy-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 ‘that little, very old, very charming, if inconvenient farmhouse… It was a friendly dwelling where you had to mind your head in connection with beams; and from whose windows you watched ducks and cats and lambs in the meadows beyond.’[^ref1]   

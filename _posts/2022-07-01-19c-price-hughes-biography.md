@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-price-hughes-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 {% include embed/map.html center="Q179224" zoom="13" markers="Q179224" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 

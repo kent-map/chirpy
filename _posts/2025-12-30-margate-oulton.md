@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/22/The_beach_at_Margate_
 permalink: /poetry/margate-oulton/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 I was in a different shelter,   

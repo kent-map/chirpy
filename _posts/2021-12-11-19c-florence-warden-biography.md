@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-florence-warden-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 'Beachythe!' he repeated, 'Beachythe! I hope I am not betraying a very shocking ignorance of English geography, but I’m afraid I can’t remember for the moment, ever having heard the name before.'
 

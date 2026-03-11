@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83
 permalink: /canterbury/20c-canterbury-commerce/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

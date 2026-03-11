@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4fb174f
 permalink: /landscape/river-dour/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Approximately four miles long, the [River Dour](Q7337355) is a small chalk stream which passes unobtusively through the urban landscape, its pre-industrial and industrial glories almost silenced as it gurgles under culverts and along footpaths to the Port of [Dover](Q179224).

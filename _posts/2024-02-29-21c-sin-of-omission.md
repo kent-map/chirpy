@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/65bfd4f5
 permalink: /21c/21c-sin-of-omission/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

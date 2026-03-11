@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3fadae4a
 permalink: /20c/20c-prison-canterbury/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Canterbury Gaol remained a local prison in the twentieth century, continuing its varied role holding remand prisoners prior to trial, convicted prisoners awaiting transfer elsewhere and those serving short sentences. It closed between 1922 and 1946, although served as a Naval Detention Quarters to punish sailors during the Second World War.[^ref1]  On reopening, it continued as Kent’s local prison, enabling [Maidstone](Q213180) to concentrate fully on its new role as a training prison. In 2003, Canterbury itself became a training prison, holding inmates serving longer sentences.[^ref2]  From 2006 until its closure in 2013, it was a ‘hub’ prison detaining only foreign national prisoners, part of a controversial shift in Government policy designed to increase deportations.[^ref3] 

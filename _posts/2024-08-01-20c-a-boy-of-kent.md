@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/00a0bf98
 permalink: /20c/20c-a-boy-of-kent/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

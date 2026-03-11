@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /20c/20c-fordmadoxford-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Ford was originally named ‘Ford Hermann Hueffer’. His father was the German émigré Wagnerian and music critic of the _Times_, Francis Hueffer; his mother, Catherine, was the daughter of Pre-Raphaelite painter Ford Madox Brown. But after the First World War Ford changed his name to ‘Ford Madox Ford’. He was born in Merton, and brought up in Hammersmith. But in 1894 he eloped with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 

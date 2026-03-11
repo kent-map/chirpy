@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a7e4f0ee
 permalink: /19c/19c-victoria-broadstairs/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 'It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constantly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island.' _Morning Chronicle_ - Friday 23 June 1837.

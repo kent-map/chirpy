@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/695329b9
 permalink: /19c/19c-pugin-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

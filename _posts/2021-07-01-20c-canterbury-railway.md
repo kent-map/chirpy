@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83
 permalink: /canterbury/20c-canterbury-railway/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 The [Canterbury](Q29303) and Whitstable Railway, opened on May 3rd 1830, was the world’s first passenger steam railway. It became a branch of the London and South East Railway when in 1846 the main line reached Canterbury.

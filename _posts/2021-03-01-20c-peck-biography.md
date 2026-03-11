@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /20c/20c-peck-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 **Designed maps of Kent and North East Kent, sold by Salmon Postcards from 1964-5.**   

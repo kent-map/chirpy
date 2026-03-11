@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town
 permalink: /austen/austen-ramsgate/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

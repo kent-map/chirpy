@@ -1,14 +1,14 @@
 ---
-title: "Juncture: Map Viewer"
-description: How to use the Juncture map viewer in your Markdown posts.
-permalink: /admin/juncture-map-viewer
+title: "StoryKit: Map Viewer"
+description: How to use the StoryKit map viewer in your Markdown posts.
+permalink: /admin/storykit-map-viewer
 date: 2026-02-15
-media_subpath: /assets/posts/juncture
+media_subpath: /assets/posts/storykit
 # image: map.png
 # show_header_image: false
 toc: true
 order: 24
-juncture:
+storykit:
     mode: 2col
     toolbar: false
 ---
@@ -38,13 +38,15 @@ juncture:
         white-space: pre-wrap;
         word-break: break-word;
     }
-    .attribute {
+    .attribute > h2,
+    .attribute > h3,
+    .attribute > h4 {
         color: red;
         font-weight: bold;
     }
 </style>
 
-Juncture lets you add **interactive maps** to your Markdown posts using a simple include. You do not need to write HTML, CSS, or JavaScript.
+StoryKit lets you add **interactive maps** to your Markdown posts using a simple include. You do not need to write HTML, CSS, or JavaScript.
 
 ---
 

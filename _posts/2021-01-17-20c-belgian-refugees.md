@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /20c/20c-belgian-refugees/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

@@ -1,5 +1,5 @@
 /**
- * Juncture client helpers
+ * StoryKit client helpers
  * ----------------------
  * Assumes this file is loaded as an ES module (e.g., <script type="module" ...>).
  *
@@ -115,7 +115,7 @@ function showDialog({ aspect, src } = {}) {
     const width = computeDialogWidth({ aspect });
 
     const dialog = document.createElement("sl-dialog");
-    dialog.id = "junctureDialog";
+    dialog.id = "storykitDialog";
     dialog.setAttribute("size", "large");
     dialog.setAttribute("no-header", "");
     dialog.style.setProperty("--width", `${width}px`);
@@ -679,12 +679,12 @@ async function getEntityData(qids, language = "en") {
 
         if (rec.image?.value) {
             e.image = rec.image.value;
-            e.thumbnail = mwImage(rec.image.value, 300);
+            e.thumbnail = mwImage(rec.image.value, 330);
         }
 
         if (rec.logoImage?.value) {
             e.logoImage = rec.logoImage.value;
-            if (!e.thumbnail) e.thumbnail = mwImage(rec.logoImage.value, 300);
+            if (!e.thumbnail) e.thumbnail = mwImage(rec.logoImage.value, 330);
         }
 
         if (rec.whosOnFirst?.value) e.geojson = whosOnFirstUrl(rec.whosOnFirst.value);

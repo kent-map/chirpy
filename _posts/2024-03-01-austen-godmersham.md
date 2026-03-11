@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Godmersham_Park%2C_Go
 permalink: /austen/austen-godmersham/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /landscape/kentish-landscapes/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 ‘I went mooning, more and more moodily, about the looming landscape, with its creaking-cowled hop-kilns and whirring flocks of starlings and hop-poles piled in pyramids like soldiers’ tents.’

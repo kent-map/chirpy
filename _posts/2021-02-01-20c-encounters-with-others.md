@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/40fd3c44
 permalink: /landscape/20c-encounters-with-others/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 Encounters with ‘other’ – ‘crime’s dark crew’   

@@ -9,9 +9,9 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Fol
 permalink: /19c/19c-grossmith-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 AUGUST 20.— 'I am glad our last day at the seaside was fine, though clouded overhead. We went over to Cummings' (at [Margate](Q618045)) in the evening, and as it was cold, we stayed in and played games; Gowing, as usual, overstepping the mark. He suggested we should play "Cutlets," a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined.' _The Diary of a Nobody_ (1892).
 

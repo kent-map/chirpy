@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/17/Pierremont_Hall%2C_Br
 permalink: /19c/19c-victoria-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour. In 1829, she and her mother spent the autumn at Pierremont House, [Broadstairs]({{ site.baseurl }}/19c/19c-victoria-broadstairs). Six years later, she stayed at [Albion House]({{ site.baseurl }}/19c/19c-victoria-albion-house) from 29 Sept 1835 – 11th Jan 1836 with her mother and visited [Margate]({{ site.baseurl }}/dickens/19c-margate/) and [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/). She returned in the autumn of that year, staying at [West Cliff House]({{ site.baseurl }}/19c/19c-victoria-west-cliff) from 30th Sept 1836 – 29 Nov 1836 and had an overnight stay at an inn in Rochester.  

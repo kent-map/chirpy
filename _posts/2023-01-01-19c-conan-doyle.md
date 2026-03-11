@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-conan-doyle/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith]({{ site.baseurl }}/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
 

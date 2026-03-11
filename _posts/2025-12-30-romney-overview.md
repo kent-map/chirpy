@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/05/St_Mary_in_the_Marsh.
 permalink: /placesrz/romney-overview/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

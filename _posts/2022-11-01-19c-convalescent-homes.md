@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-convalescent-homes/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 In the nineteenth-century, a new kind of institution—the ‘convalescent home’—began to dot the British countryside and seaside. Many convalescent homes were established in Kent, with its temperate seaside climate and relatively easy access to London. These institutions aimed to support recuperating patients, often drawn from urban hospitals, to cultivate fuller recoveries though several weeks of relaxation, good food, and unpolluted country air. Modern eyes may struggle to see the work of convalescent homes as anything other than frivolous: these philanthropic institutions simply offered people an extended country holiday, away from work and the stress of the city. Yet for impoverished medical patients recuperating from severe illness, a month-long stay in a convalescent home could mean the difference between life and death, as relapse was a common occurrence.  Patients also needed to build themselves up before they could return to some of the back-breaking occupations common to working-class people. A wide range of medical institutions, wealthy philanthropists, and even working-class friendly societies funded convalescent homes for disadvantaged sufferers. 
 

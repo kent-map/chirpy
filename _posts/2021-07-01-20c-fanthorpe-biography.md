@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /20c/20c-fanthorpe-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 “My father’s mother from Kent to be forgiven.   

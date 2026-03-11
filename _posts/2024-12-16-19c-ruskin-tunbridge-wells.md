@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_book_of_the_farm_
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 John Ruskin, art critic, architectural theorist, social commentator and educationalist visited [Tunbridge Wells](Q665489) in February 1858 to lecture at the Sussex Hotel, [The Pantiles](Q7756008). At the beginning of his talk, Ruskin explained that he had visited the town, which he called ‘my Switzerland’, in his childhood and recalled climbing on 'sandstone cliffs of stupendous height above the common'.[^ref1]

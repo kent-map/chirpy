@@ -9,7 +9,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the
 permalink: /dickens/david-copperfield-goodwin-sands/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
 
 

@@ -9,9 +9,9 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-montresor-biography/
 published: true
 toc: false  
-juncture: true
+storykit: true
 ---
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 
 Romance novelist Frances Frederica (Freda) Montrésor was born at [Walmer](Q2551894) on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem '[Dover](Q179224) Beach' was published in 1867. The Montrésors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
 
