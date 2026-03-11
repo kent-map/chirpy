@@ -1,7 +1,5 @@
 # The Site Configuration
 
-repository: kent-map/chirpy
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
