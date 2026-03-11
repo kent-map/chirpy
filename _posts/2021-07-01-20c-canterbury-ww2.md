@@ -14,11 +14,7 @@ juncture: true
 
 
 **Bombing in World War II**   
-The destruction of World War II came to [Canterbury](Q29303) in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
-
-{% include embed/image.html src="wc:Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg" aspect="1.447" caption="Messerschmitt" %}
-
-Known as the [Baedeker Blitz](Q669528) (a name derived from German tourist guidebooks which were used to generate revenge attacks on English cities of historic and cultural interest) there was massive destruction to the eastern part of the old city, including Burgate, St George’s Street and the Whitefriars area, where the [Simon Langton Grammar Schools]({{ site.baseurl }}/canterbury/20c-canterbury-education) were destroyed, with 2,500 properties and 6 acres left in ruin. St George’s Tower, the church where Christopher Marlowe was baptised in 1564, was virtually the only structure in this part of the city to survive the bombing.
+The destruction of World War II came to [Canterbury](Q29303) in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city. Known as the [Baedeker Blitz](Q669528) (a name derived from German tourist guidebooks which were used to generate revenge attacks on English cities of historic and cultural interest) there was massive destruction to the eastern part of the old city, including Burgate, St George’s Street and the Whitefriars area, where the [Simon Langton Grammar Schools]({{ site.baseurl }}/canterbury/20c-canterbury-education) were destroyed, with 2,500 properties and 6 acres left in ruin. St George’s Tower, the church where Christopher Marlowe was baptised in 1564, was virtually the only structure in this part of the city to survive the bombing.
 
 {% include embed/image.html src="wc:St_George%27s_Tower_Canterbury_plaque.JPG" aspect="1.778" caption="St George's Tower Canterbury plaque by Adam Bishop, CC BY-SA 3.0" %}
 
