@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
 tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg
 permalink: /austen/austen-ramsgate/
 published: true
 toc: false  
@@ -55,6 +55,8 @@ How d'ye do, my Uncle Francis?
 In Austen’s published work, [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate)  is associated with less reputable male characters.  In _Pride and Prejudice_, the ostensibly charming militia officer George Wickham connives to seduce and elope with the young, impressionable, and very wealthy Georgiana Darcy at [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate).  In _Mansfield Park_, [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate)  becomes a destination for the selfish and profligate Tom Bertram.  In her private life, Austen also casts aspersions on the port, commenting in a letter to her sister: “Ed. Hussey is warned out of Pett, and talks of fixing at [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate).  Bad taste!  He is very fond of the sea, however. Some taste in that, and some judgment, too, in fixing on [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate), as being by the sea”.[^ref4]   Austen seems to have harboured reservations about the opportunities for loose or immoral behaviour in [seaside towns]({{ site.baseurl }}/19c/19c-seaside) such as [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate). 
 
 {% include embed/image.html src="wc:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_Mr._Denny_entreated_permission_to_introduce_his_friend.jpg" aspect="0.595" caption="Pride and Prejudice" %}
+
+Banner Image Credit: View of Ramsgate Town and Harbour," watercolour, by the British artist and engraver James Ward, R.A. Courtesy of the British Library, London.
 
 ### Bibliography 
 
