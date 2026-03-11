@@ -41,4 +41,4 @@ I can lie upon its ploughed and grassy surfaces,
 Take comfort from its folds, sink back my roots.   
 It is my bedrock and my bed.
 
-Banner Image Credit: Nick Smith / View across Ham Brooks, Wikimedia Commons.
+Banner Image Credit: Nick Smith / View across Ham Brooks, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) via Wikimedia Commons.
