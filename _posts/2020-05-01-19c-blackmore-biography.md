@@ -5,7 +5,7 @@ author: Peter Merchant
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Texts & genres, Countryside & farming, Literary places, Representation & interpretation ]
-image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Wrotham_Park_in_1883.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/18/Cecil_Gordon_Lawson_-_The_Hop_Gardens_of_Kent_at_Wrotham_near_Sevenoaks_-_1908P27_-_Birmingham_Museums_Trust.jpg
 permalink: /19c/19c-blackmore-biography/
 published: true
 toc: false  
@@ -25,5 +25,7 @@ Hospitality in this world of fresh woods and “pastures of the deepest green”
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Cherries.jpg" aspect="0.75" caption="Kentish cherries" attribution="Michelle Crowther" %}
 
 The “poetic landscape-painting” of the Applewood sequence, according to _The Saturday Review_ on 15th May 1875, “bespeaks an artist who has thrown himself into his work.” A similarly admiring notice in _The Graphic_ a fortnight later terms it “a graceful and pretty idyll of which we should not care to lose a line.” Having wound the clock back to the pre-Dickensian world of 1811, as if to erase the many marks that the leading novelist of his lifetime had left on the area, Blackmore transforms the Vale of Medway into a land of pastoral Plenty.
+
+Banner Image Credit: Cecil Gordon Lawson - The Hop Gardens of Kent at Wrotham near Sevenoaks - 1908P27 - Birmingham Museums Trust
 
 {% include embed/image.html src="wc:Farmland%2C_Wrotham_Water_-_geograph.org.uk_-_839286.jpg" aspect="1.333" caption="Wrotham Water" %}
