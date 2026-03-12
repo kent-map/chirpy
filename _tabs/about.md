@@ -47,7 +47,7 @@ Dr Michelle Crowther is an Academic Librarian at Canterbury Christ Church Univer
 
 ## Claire Bartram
 
-![Claire Bartram](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1da3cc93-932d-4422-b389-9af7e562dd10.jpg){: .right}
+![Claire Bartram](https://raw.githubusercontent.com/kent-map/forum/main/claire_bartram.jpg){: .right}
 
 Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
 
@@ -70,14 +70,14 @@ Dr Fran Allfrey completed her AHRC-funded PhD at King’s College London in 2020
 
 ## Brooke Altringham
 
-![Brooke Altringham](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/acf6f2e4-49ee-4f4a-a658-4c9a030016a6.jpg){: .right}
+![Brooke Altringham](https://raw.githubusercontent.com/kent-map/forum/main/brookealtringham.jpg){: .right}
 
 Brooke Altringham is a history student with a passion for twentieth century history.
 
 
 ## Pat Argar
 
-![Pat Argar](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/05320be6-9e97-4649-b095-d150533ae47a.jpg){: .right}
+![Pat Argar](https://raw.githubusercontent.com/kent-map/forum/main/Pat_Argar.jpg){: .right}
 
 Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research interests include the writing of Sheila Kaye-Smith, the family history of the Comport family and all things rural (especially with relation to Romney Marsh, where she lives). Blog: [theruralwriterblog.wordpress.com](theruralwriterblog.wordpress.com)
 
