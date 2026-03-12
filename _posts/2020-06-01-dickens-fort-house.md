@@ -5,7 +5,7 @@ author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Bleak_House_and_Cosy_Nook_Broadstairs_Kent_England.JPG
 permalink: /dickens/dickens-fort-house/
 published: true
 toc: false  
