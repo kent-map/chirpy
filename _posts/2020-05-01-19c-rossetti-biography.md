@@ -5,7 +5,7 @@ author: Laura Allen
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Authors & lives, Arts & performance, Coast & sea, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_N02700_-_National_Gallery.jpg
 permalink: /19c/19c-rossetti-biography/
 published: true
 toc: false  
@@ -44,5 +44,3 @@ Due to his declining health Dante Gabriel Rosetti came to stay at his close frie
 ### Bibliography
 
 Rosetti, Christina. [Birchington Churchyard](https://hellopoetry.com/poem/16025/birchington-churchyard/) Accessed 1 September 2020.
-
-{% include embed/image.html src="wc:Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_N02700_-_National_Gallery.jpg" aspect="1.361" caption="Joseph Mallord William Turner (1775-1851) - Margate" %}
