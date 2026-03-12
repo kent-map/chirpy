@@ -5,7 +5,7 @@ author: Peter Merchant
 date: 2020-05-01
 categories: [ 19c ]
 tags: [ Texts & genres, Countryside & farming, Literary places, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Wrotham_Park_in_1883.jpg
 permalink: /19c/19c-blackmore-biography/
 published: true
 toc: false  
