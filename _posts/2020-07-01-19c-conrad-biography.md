@@ -5,7 +5,7 @@ author: Martin Watts
 date: 2020-07-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Coast & sea, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/977ef46e-5678-49cc-ba76-03b5e75bed20.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/c7/Bishopsbourne_Village_Hall_-_memorial_plaque_to_Joseph_Conrad.jpg
 permalink: /19c/19c-conrad-biography/
 published: true
 toc: false  
