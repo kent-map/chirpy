@@ -5,7 +5,7 @@ author: Mandy Jones
 date: 2020-07-01
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/34/Joseph_Mallord_William_Turner_-_Cricket_on_the_Goodwin_Sands_-_Google_Art_Project.jpg
 permalink: /20c/20c-holt-biography/
 published: true
 toc: false  
@@ -22,12 +22,6 @@ Victoria Holt was a prolific and popular author who was a pioneer of the genre k
 
 Set in the Victorian era, the shivering sands of the title are the Goodwin Sands in Kent. Gregory Holyoake, writing in the _East Kent Mercury_, notes that Holt stayed with friends in north Deal in the late 1960s, where she became intrigued by the history of the Goodwin Sands. She went on to use them as an atmospheric backdrop, and essential element, of her novel. 
 
-{% include embed/image.html src="wc:Deal_seafront_-_geograph.org.uk_-_2029661.jpg" aspect="1.333" caption="Deal Seafront" %}
-
-{% include embed/image.html src="wc:Battle_of_Goodwin_Sands.jpg" aspect="1.383" caption="Battle of Goodwin Sands" %}
-
-{% include embed/map.html center="Q1011096" zoom="13" markers="Q1011096" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
-
 Caroline Verlaine, the first-person narrator, is widowed at an early age and she goes to stay with her sister in Kent, in an effort to overcome her grief. Together they visit some of the places of interest around [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) including Caesar’s Camp, [Sugar Loaf Hill](Q107343985), St Thomas’s Well and [Richborough Castle](Q1309736). Much cheered by these excursions, Caroline departs, but she returns to Kent when her sister goes missing. The beauty of the countryside is revealed on her journey through Kent, which she calls the “Garden of England”. She delights in the “blossoming cherry, plum and apple” trees as well as the “hopfields and cowled oast houses” along her route. She stays in the fictional village of Lovat Mill, somewhere between [Dover]({{ site.baseurl }}/dickens/19c-dover) and [Folkestone]({{ site.baseurl }}/19c/19c-folkestone), which Holyoake suggests is based on [Martin Mill](Q783371). He further suggests that the fictional house where Caroline gives music lessons, Lovat Stacy, is modelled on [Oxney Court](Q26323548). 
 
 {% include embed/image.html src="wc:Beside_Caesar%27s_Camp_-_geograph.org.uk_-_2075938.jpg" aspect="1.333" caption="Beside Caesar’s Camp" %}
@@ -39,6 +33,8 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 {% include embed/map.html center="Q7591573" zoom="11.75" markers="Q7591573" allmaps="542e2ed0e875aeb4~OS East Kent 1945" %}
 
 During her time at Lovat Stacy, Caroline learns something of the history of Sandown, Deal and Walmer castles and she hears the local legend of the ghostly Grey Lady. But it is the Goodwin Sands which return again and again. They create an ominous sense of foreboding, with their submerged wrecks and their “desolate” atmosphere. They form an increasingly sinister background to the shocking tale of crime, mystery and romance that unfolds as Caroline finally learns the fate of her sister.   
+
+Banner image credit: J. M. W. Turner, Google Art Project, Public domain, via Wikimedia Commons
 
 {% include embed/image.html src="wc:Sandown_Castle_1853.png" aspect="2.045" caption="Sandown Castle, Kent" %}
 
