@@ -5,7 +5,7 @@ author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Heritage & memory, Material culture, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://commons.wikimedia.org/wiki/File:The_Leather_Bottle,_Cobham,_Kent.jpg
 permalink: /dickens/pickwick-papers-leather-bottle/
 published: true
 toc: false  
