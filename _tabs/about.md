@@ -91,7 +91,7 @@ Dr Liz Askey has a PhD from the University of Kent and is currently working as a
 
 ## Sophie Baldock
 
-![Sophie Baldock](https://iiif.juncture-digital.org/thumbnail?rotation=180&amp;url=https://raw.githubusercontent.com/kent-map/images/main/misc/Sophie_Baldock.jpg){: .right}
+![Sophie Baldock](https://raw.githubusercontent.com/kent-map/images/main/misc/Sophie_Baldock.jpg){: .right}
 
 Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). Twitter: @SophieBaldock
 
