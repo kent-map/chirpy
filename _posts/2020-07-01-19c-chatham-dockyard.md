@@ -5,7 +5,7 @@ author: Martin Watts
 date: 2020-07-01
 categories: [ 19c ]
 tags: [ Work & industry, Coast & sea, Buildings & architecture, Culture & society, Conflict & war ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Medway%2C_Chatham%2C_England-LCCN2002711859.jpg
 permalink: /19c/19c-chatham-dockyard/
 published: true
 toc: false  
@@ -35,11 +35,11 @@ The last major work at Chatham was the reclaiming and building of St. Mary’s I
 
 A visit to the Dockyard today will show the transformation from the trade skills, timber and canvas of sailing ships to the heavy manufacturing skills, iron hull and steam engine driven warships.  HMS Gannet, on display at the yard, is a fine example of the way in which manufacture and materials were transformed in the mid 19th century. 
 
+Banner image credit: The Medway, Chatham, England-LCCN2002711859, Wikimedia Commons.
+
 {% include embed/image.html src="wc:The_Big_Shed_-_Chatham_-_geograph.org.uk_-_1962059.jpg" aspect="1.502" caption="The Big Shed and HMS Gannet" %}
 
 ### Bibliography
 
 MacDougall, Philip, Chatham Dockyard. _The Rise and Fall of A Military Industrial Complex_. London: The History Press 2012.   
 Holden, Clive. _Chatham Naval Dockyard & Barracks Through Time_. Stroud: Amberley Publishing 2014.   
-
-{% include embed/image.html src="wc:The_Medway%2C_Chatham%2C_England-LCCN2002711859.jpg" aspect="1.328" caption="The Medway at Chatham" %}
