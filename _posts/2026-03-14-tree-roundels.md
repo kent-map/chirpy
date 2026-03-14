@@ -13,7 +13,7 @@ storykit: true
 ---
 
 Tree roundels have been a distinctive feature of the British countryside since at least the early 18th century.  Originally planted as ornamental features in parkland they act as focal points or marked boundaries. Often formed of oak, these dense circular clusters of trees provide critical habitats for many insect and plant species. They act as “an island or stepping stone for wildlife across otherwise open areas” (Woodland Trust, no date) Their catkins are a source of pollen for bees, and their dense, evergreen canopy offers year-round shelter for birds, therefore protecting these trees is essential for maintaining ecological balance and preserving the historical landscape.  
-{% include embed/image.html src="wc:The fields of Wincheap with view of Canterbury Cathedral.jpg" caption="The fields near the rugby club, Wincheap" %}
+{% include embed/image.html src="wc:Tree roundel - Farm track near Canterbury rugby club.jpg" caption="Tree roundels near Canterbury rugby club" %}
 
 Many of the roundels, which were once dotted across the landscape, have been lost as a result of urban expansion (Butler and Alexander, 2013). However, there are fine examples in the farmland to the South of Canterbury.  A group of five roundels in a field off Stuppington Lane provide an attractive foreground to panoramic views of Canterbury Cathedral as seen by visitors arriving from the continent via the A2 and are important cultural icons. Formed of 79 veteran trees of which 24 are holm oak, the roundels appear as mature features on an 1890 map of Canterbury indicating that they are much older. 
 {% include embed/image.html src="wc:View_of_Canterbury_Cathedral_with_roundel_trees.jpg" caption="View of Canterbury Cathedral with roundels" %}
