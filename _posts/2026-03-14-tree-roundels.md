@@ -6,7 +6,7 @@ date: 2026-03-14
 categories: [ 18c ]
 tags: [ Countryside & farming ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Tree_roundels_and_blossom.jpg
-permalink: /18c/tree-roundels/
+permalink: /landscape/tree-roundels/
 published: true
 toc: false  
 storykit: true
