@@ -14,7 +14,7 @@ storykit: true
 
 Tree roundels are a feature of silvopastoral agroforestry, which is the planting of trees on grazing land. It has been practised for hundreds of years, although has seen a decline since the 1850s.[^ref1]  Often formed of oak, these dense circular clusters of trees provide shade for grazing animals whilst also protecting the younger saplings from strong winds.[^ref2] They provide critical habitats for many insect and plant species and act as “an island or stepping stone for wildlife across otherwise open areas”[^ref3] Their catkins are a source of pollen for bees, and their dense, evergreen canopy offers year-round shelter for birds. A climate mitigation project undertaken by Project Drawdown has identified that silvopasture continues to have an important role to play in modern agriculture landscapes[^ref4], therefore protecting these trees is essential for maintaining ecological balance and preserving the historical landscape. 
 
-Tree roundels have been a distinctive feature of the British countryside since at least the early 18th century. Planted as ornamental features in parkland, they act as focal points or marked boundaries. Examples in the Canterbury area can be seen in the parklands of Bourne, Charlton and Broome Park.
+Tree roundels became a distinctive feature of the English landscape garden from the early 18th century. Planted as ornamental features in the parklands surrounding large country estates, they acted as focal points or marked boundaries. Examples in the Canterbury area can be seen in the parklands of Bourne, Charlton and Broome Park.
 {% include embed/image.html src="wc:Tree roundel - Farm track near Canterbury rugby club.jpg" caption="Tree roundels near Canterbury rugby club" %}
 
 
