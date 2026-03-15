@@ -3,7 +3,7 @@ title: "Tree roundels"
 description: "Tree roundels of stately oaks grace the landscape south of Canterbury."
 author: Dr Michelle Crowther
 date: 2026-03-14
-categories: [ 18c ]
+categories: [ landscape ]
 tags: [ Countryside & farming ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Tree_roundels_and_blossom.jpg
 permalink: /landscape/tree-roundels/
