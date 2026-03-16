@@ -5,7 +5,7 @@ author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
 tags: [ Authors & lives, Literary places, Rivers & marshes, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/81/Postcard_of_The_Medway_at_Tonbridge.jpg
 permalink: /nesbit/nesbit-river-medway/
 published: true
 toc: false  
@@ -100,8 +100,6 @@ Then sing the Kentish river,
 The Kentish fields and flowers, 
 We waste no dreams on other streams 
 Who call the Medway ours. 
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ae0662fc-e1a2-43a1-8382-71def7414a5c.jpg" aspect="1.538" caption="The Medway at Tonbridge" attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905" %}
 
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 
