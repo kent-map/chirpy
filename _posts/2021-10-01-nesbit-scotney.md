@@ -5,7 +5,7 @@ author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
 tags: [ Authors & lives, Literary places, Buildings & architecture, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/ab/Scotney_Castle_with_white_wisteria.JPG
 permalink: /nesbit/nesbit-scotney/
 published: true
 toc: false  
@@ -15,15 +15,11 @@ storykit: true
 
 During a day trip to [Scotney Castle](Q7435720) in Kent, Nesbit’s friend [Oswald Barron](Q7108096), for whom Oswald Bastable was named, suggested that ‘Old Cyrals’, a knot of houses to the southwest of the village of [Brenchley](Q2197855), might be a corruption of the Breton name Kyriels. This inspired Nesbit’s novel for adults _The Secret of Kyriels_ (1889). Barron is also believed to have suggested the plot for _The Railway Children_.
 
+[Scotney Castle](https://www.nationaltrust.org.uk/scotney-castle), a National Trust property, is an English country house with beautiful formal gardens located to the south-east of Lamberhurst in the valley of the River Bewl in Kent. 
+
 {% include embed/image.html src="wc:The_Ruins_of_Old_Scotney_Castle.JPG" aspect="1.504" caption="The ruins of old Scotney Castle" %}
 
 {% include embed/map.html center="Q2197855" zoom="15" markers="Q2197855" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}
-
-[Scotney Castle](https://www.nationaltrust.org.uk/scotney-castle), a National Trust property, is an English country house with beautiful formal gardens located to the south-east of Lamberhurst in the valley of the River Bewl in Kent. 
-
-{% include embed/image.html src="wc:Scotney_Castle_with_white_wisteria.JPG" aspect="1.333" caption="Scotney Castle with white wisteria" %}
-
-{% include embed/map.html center="Q7435720" zoom="15" markers="Q7435720" allmaps="c7eccb646f966ca4~Moll Kent 1724" %}
 
 The de Criol, Kyriel or Kyriell family, which originated from [Criel-sur-Mer](Q670675), Seine-Maritime, in Normandy, built up a position in Kent from the middle of the 14th century. One prominent member of this family, Sir Bertram de Criol, was a senior and trusted Steward and diplomat to King Henry III. He served as Constable and Keeper of [Dover Castle](Q950970), Keeper of the Coast and of the [Cinque Ports](Q748895), Keeper of the receipts, expenses and wardships of the archbishopric of Canterbury, Constable of the Tower of London, and Sheriff of Kent.
 
