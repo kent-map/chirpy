@@ -5,7 +5,7 @@ author: Martin Watts
 date: 2021-03-01
 categories: [ 19c ]
 tags: [ Towns & cities, Culture & society, Conflict & war, Travel & mobility, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/62/West_Gate_Canterbury_postcard.jpg
 permalink: /19c/19c-canterbury/
 published: true
 toc: false  
@@ -45,5 +45,3 @@ The Victorian era will always be associated with the railways, and the present s
 [^ref1]: Price, Chris, The Canterbury Catch Club 1826: Music in the Frame, Cambridge Scholars Publishing, 2019.   
 [^ref2]: See Canterbury Historical & Archaeological Society Notebook pages at www.canterbury-archaeology.org.uk   
 [^ref3]: Cobbett, William. _Rural Rides_.  ed George Woodcock. Penguin: London, 1985. 207-8.   
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2b9ded2c-0e81-46b0-9dcb-9e3c87d4d735.jpg" aspect="1.447" caption="The Crab and Winkle Railway" attribution="Astrid Stilma, by kind permission of Patrick Marrin" %}
