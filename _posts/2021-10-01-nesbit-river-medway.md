@@ -24,8 +24,6 @@ All through the summer nights the market carts creak along the [London](Q84) roa
 E. NESBIT.   
 KENT, March 1896.   
 
-{% include embed/image.html src="wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22171.jpg" aspect="1.333" caption="Hop-picking in Yalding, Kent" %}
-
 ‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River [Medway](Q797782) between London and [Tonbridge](Q936183). Nesbit opens: 
 
 All my life I've lived on a barge. My father, he worked a barge from London to Tonbridge, and 'twas on a barge I first see the light when my mother's time come. I used to wish sometimes as I could 'ave lived in a cottage with a few bits of flowers in the front, but I think if I'd been put to it I should have chose the barge rather than the finest cottage ever I see. 
