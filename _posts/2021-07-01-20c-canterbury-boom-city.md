@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Towns & cities, Buildings & architecture, Conflict & war, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Allotments%2C_Canterbury%2C_1965_-_geograph.org.uk_-_3194310.jpg
 permalink: /canterbury/20c-canterbury-boom-city/
 published: true
 toc: false  
@@ -26,3 +26,5 @@ Many old terraced houses in the main part of the city succumbed to bulldozers in
 {% include embed/image.html src="wc:St_Stephen%27s_Church%2C_Canterbury_-_geograph.org.uk_-_208979.jpg" aspect="1.525" caption="St Stephen's Church" %}
 
 Probably the most visionary concept in Canterbury’s suburban development was the planned council housing development of the late 1940s originally called New Harbledown. Designed as a village on the outskirts and overlooking the old city, roads were named after [Chaucer’s]({{ site.baseurl }}/14c/14c-chaucer) pilgrims and the development was complete with a village shop, a pub called “The Gentile Knyght” and a primary school. But in 1952 the council reneged on the name, New Harbledown, and gave the new village the name by which it has since been known, the London Road Estate. Land donated by a farmer and former mayor, Frank Hooker, made possible the adjacent building of the former high school now called the [Canterbury Sports Academy]( https://www.canterbury.kent.sch.uk).
+
+Banner image credit: Allotments, Canterbury, 1965 by Derek Harper, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons

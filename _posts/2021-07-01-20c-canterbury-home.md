@@ -7,7 +7,7 @@ categories: [ canterbury ]
 tags: [ Towns & cities, Culture & society, Maps & place-making, Travel & mobility, Time periods ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-home/
-published: true
+published: false
 toc: false  
 storykit: true
 ---
