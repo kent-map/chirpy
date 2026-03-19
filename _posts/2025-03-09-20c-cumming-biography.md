@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-03-09
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Countryside & farming, Conflict & war, Literary places ]
-image: https://upload.wikimedia.org/wikipedia/commons/c/cf/Bruno_Liljefors_-_Fox_hunted_by_dogs_1905.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/33/Marshal_Foch_ridden_by_Miss_Vera_Goodchild.jpg
 permalink: /20c/20c-cumming-biography/
 published: true
 toc: false  
@@ -15,8 +15,6 @@ storykit: true
 ‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).
 
 Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on the 7 April 1915 at [Minster](Q9033431) on the Isle of Thanet.[^ref1] She was the third child of Arthur Sommerville Cumming, a retired tea planter, and Emily Christin Heath. Primrose’s grandfather was a tea broker and the family had links with the Assam tea gardens in N.E. India. 
-
-{% include embed/image.html src="wc:Bruno_Liljefors_-_Black_pony_1887.jpg" aspect="1.27" caption="Black Pony, 1887" %}
 
 Primrose’s older siblings Richard and Violet were both born in the [Cranbrook](Q2160826) district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]({{ site.baseurl }}/20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911, and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
 
@@ -30,9 +28,11 @@ Cumming’s first book _Doney_ was published when she was 17 and is about a hors
 
 so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6ec0b85d-688d-4221-9302-eb4cfac662e5.jpg" aspect="1.605" caption="Marshal Foch ridden by Miss Vera Goodchild, West Kent Stables" attribution="Michelle Crowther" %}
+{% include embed/image.html src="wc:Bruno_Liljefors_-_Black_pony_1887.jpg" aspect="1.27" caption="Black Pony, 1887" %}
 
 Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]
+
+{% include embed/image.html src="wc:Bruno_Liljefors_-_Fox_hunted_by_dogs_1905.jpg" aspect="1.605" caption="Fox hunted by dogs, 1905" attribution="Bruno Liljefors" %}
 
 Cumming's stories were often based on her own experiences including foxhunting with the Romney Marsh Foxhounds.[^ref6] In _Silver Snaffles_, a talking fox, congratulates the hunt for “an excellent day” in which : “the hounds hunted beautifully, thanks to the Huntsman and Whip, and that both ponies and riders surpassed themselves in getting over country as they have done.”[^ref7] 
 
