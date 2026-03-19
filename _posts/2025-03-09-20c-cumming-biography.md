@@ -1,6 +1,6 @@
 ---
 title: "Primrose Cumming (1915-2004)"
-description: "In this visual essay, Michelle Crowther presents the life and works of Kent author Primrose Cumming."
+description: "Michelle Crowther presents the life and works of author Primrose Cumming."
 author: Michelle Crowther
 date: 2025-03-09
 categories: [ 20c ]
