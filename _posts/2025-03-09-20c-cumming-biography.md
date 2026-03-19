@@ -12,11 +12,9 @@ toc: false
 storykit: true
 ---
 
-‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).   
+‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).
 
-Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on the 7 April 1915 at [Minster](Q9033431) on the Isle of Thanet.[^ref1] She was the third child of Arthur Sommerville Cumming, a retired tea planter, and Emily Christin Heath. Primrose’s grandfather was a tea broker and the family had links with the Assam tea gardens in N.E. India.
-
-Primrose’s older siblings Richard and Violet were both born in the [Cranbrook](Q2160826) district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]({{ site.baseurl }}/20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911, and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
+Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on the 7 April 1915 at [Minster](Q9033431) on the Isle of Thanet.[^ref1] She was the third child of Arthur Sommerville Cumming, a retired tea planter, and Emily Christin Heath. Primrose’s grandfather was a tea broker and the family had links with the Assam tea gardens in N.E. India. Primrose’s older siblings Richard and Violet were both born in the [Cranbrook](Q2160826) district, so Amy’s birth in Thanet may have been linked to a visit to Arthur’s brother Claude and his family, who were living at Cleeve Court, Minster. Cleeve Court had been the home of [Baroness Emma Orczy]({{ site.baseurl }}/20c/20c-orczy-biography/), the author of the Scarlet Pimpernel stories between 1908-1911, and was later owned by Lord Edward Carson who defended the Marquess of Queensbury against Oscar Wilde’s action for libel.
 
 {% include embed/image.html src="wc:Cleve_Court%2C_Thanet-geograph.org.uk-2261048.jpg" aspect="1.333" caption="Cleve Court" %}
 
@@ -24,9 +22,8 @@ Primrose grew up in [Sandhurst](Q2911413), near Cranbrook on the Kent and Sussex
 
 {% include embed/image.html src="wc:Underwater_studies_of_fish_with_an_eel_RMG_PU0488.jpg" aspect="1.437" caption="Underwater studies of fish with an eel" %}
 
-Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of [Bodiam](Q2011975), Sandhurst, Salehurst, Cranbrook and [Northiam](Q1792908). It included an introduction by Sheila Kaye-Smith, who lived in nearby Northiam, and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden. In an article in _Country Life_ Cummings described herself as:
-
-so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21.[^ref4]
+Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of [Bodiam](Q2011975), Sandhurst, Salehurst, Cranbrook and [Northiam](Q1792908). It included an introduction by Sheila Kaye-Smith, who lived in nearby Northiam, and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden. In an article in _Country Life_ Cummings described herself as:   
+'so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21'.[^ref4]
 
 {% include embed/image.html src="wc:Bruno_Liljefors_-_Black_pony_1887.jpg" aspect="1.27" caption="Black Pony, 1887" %}
 
@@ -68,17 +65,15 @@ For over 20 years, Cumming was the honorary secretary and judge of the annual Sa
 
 An active member of the community, Cumming ran the village library along with three other helpers. The library opened for an hour twice a week at the Old School and had over 500 books and 100 members. In 1975 Cumming  complained to the _Kent and Sussex Courier_ about Kent County Council proposals to replace the volunteer run village library with a mobile van service. Cumming also gave talks to the Women’s Institute on the history of Sandhurst and the Romance of Gardens.[^ref18]
 
-{% include embed/image.html src="wc:Clara_Vogedes_-_Dunkle_Rosen%2C_1959.jpg" aspect="0.954" caption="Dunkle Rosen" %}
-
 Cumming published 20 books and wrote numerous short stories for children’s annuals including a series about ballet.[^ref19] According to Alison Haymonds, pony stories follow the narrative convention of "the transformation of gauche girls and neglected ponies" but Cumming "experimented more than most with the genre" writing about working horses as well as ponies.[^ref20]
 
 Primrose Cumming died in 2004. Her funeral took place at St. Nicholas Church, Sandhurst, on Monday 6th September 2004. 
 
 Other Kent writers of tales about horses and ponies include Marion Stapylton Pares (pseud. Judith Campbell), author of _Family Pony_ and Gillian Baxter who wrote _Horses and Heather_. 
 
-Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
-
 {% include embed/image.html src="wc:St_Nicholas%27_Church%2C_Sandhurst%2C_Kent_%28Geograph_Image_2615565_f85a473f%29.jpg" aspect="1.508" caption="Church of St Nicholas, Sandhurst" %}
+
+Illustrations from the Westerham Hill Horse Show of 1926 have been used to add colour to the piece, but these are not linked to Primrose Cumming.   
 
 ### References
 
