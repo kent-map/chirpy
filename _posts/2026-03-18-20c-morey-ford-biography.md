@@ -20,7 +20,8 @@ Following on from his earlier novel, _A Time of Terror_, which was dismissed as 
 {% include embed/image.html src="wc:In May 1941, Gross was commissioned again as an Official War Artist and visited Dover Castle for ten days. The South Coast was heavily defended with two guns named Winnie and Pooh at Dover hidden under camouflage an Art.IWMARTLD1219.jpg" aspect="1.779" caption="Harbour Defences by Anthony Gross" %} 
 
 A new women’s regiment has been stationed at ‘Fort Warden’, on the advice of the country’s Vice-President, Lady Catherine Kellick, but it is overpowered instantly. Pale, trembling ‘girl-soldiers’ relay the shocking news to the townsfolk that the fort has been taken, and a fierce battle begins to rage over the town as the British military try to retake control. In the ensuing melee, the town is obliterated:   
-‘Shells falling into the town of Dover had already reduced it to heaps of tumbled masonry. Here and there great volumes of smoke rose from the wreckage of shops and houses. The town hall – the ancient [Maison Dieu](https://www.maisondieudover.org.uk/), founded by Hugh de Burgh, Constable of Dover, in the reign of John – having escaped destruction during the night, caught fire about daybreak, the flames rushing upwards in the morning air, watched by thousands from the western heights, to which the terrified inhabitants had fled for safety’.[^ref3]
+‘Shells falling into the town of Dover had already reduced it to heaps of tumbled masonry. Here and there great volumes of smoke rose from the wreckage of shops and houses. The town hall – the ancient [Maison Dieu](https://www.maisondieudover.org.uk/), founded by Hugh de Burgh, Constable of Dover, in the reign of John – having escaped destruction during the night, caught fire about daybreak, the flames rushing upwards in the morning air, watched by thousands from the western heights, to which the terrified inhabitants had fled for safety’.[^ref3]   
+Whilst Dover falls, seismic disturbances rocks the spa towns of Britain. 
 {% include embed/image.html src="wc:The Women's Army Auxiliary Corps on the Western Front, 1917-1918 Q8669.jpg" aspect="1.779" caption="The Women's Army Auxiliary Corps on the Western Front, 1917-1918" %} 
 
 With the failure of the women’s army, thousands of women ‘ruefully admitted that they had gained power and lost love; and in their inmost hearts they knew that love was worth the world’ and ‘with the gradual abandonment of man’s protective affection had gone the true ingredient of her happiness’.[^ref4]  Although Ford claims that he does not identify with the views of any of his characters on the views of women’s suffrage, the misogynistic overtones of the book are unmistakable. His description of the women’s army recruits reinforces this:    
@@ -28,9 +29,11 @@ With the failure of the women’s army, thousands of women ‘ruefully admitted 
 In reality, the first women's regiment in the British Army was the Women’s Army Auxiliary Corps (WAAC) which was formed in 1917 to provide administrative support during world war one, so Ford’s prediction that the regiment would be formed in 1940 was incorrect. However, women did not serve in ground combat roles until much later.
 
 As the battle drags on 'urgent advice' is 'given officially and through the newspapers to call the air-ships into play'.[^ref6] There was a growing sense within the Edwardian period that although ‘the problem of the application of airships to ordinary purposes of travelling, can scarcely be said to have been solved, … it seems to have come already within the prospect of belief'[^ref7] .The British Army had built their first air-ship, the _Nulli Secundus_, in 1907, shortly followed by the navy’s _Mayfly_ (_His Majesty’s Airship No 1_) in 1908.  Ford imagines a world of private airships, which disturbs the social order: 'Who wants an air-ship calling for this parlour-maid at the attic window? Who wants thieves sailing up to his balcony?’[^ref8] and he predicts that in 1940 ‘everyone will want to be at liberty to ‘aviate’’.[^ref9] Although this part of his prediction does not come true, his estimate for the speeds that the air-ships will achieve is almost spot on. In the 1910s they could achieve 16 miles an hour, but by 1929 they had reached 63 mph and in Ford's imagined world they reach 70 mph.[^ref10]
-{% include embed/image.html src="wc:Nulli Secundus.jpg" aspect="1.779" caption="Nulli Secundus, British Army Dirigible No 1" %} 
+{% include embed/image.html src="wc:Nulli Secundus.jpg" aspect="1.779" caption="Nulli Secundus, British Army Dirigible No 1" attribution="Frederike J. van Uildriks" %} 
 
-Frederike J. van Uildriks, Public domain, via Wikimedia Commons
+Eventually, Major Edgar Wardlaw who has bemoaned the 'reign of woman' earlier in the book, heroically saves the town. The return of Wilson Renshaw 'the most brilliant member of the House of Commons' who had gone missing on a holiday to Egypt where he had been held captive, restores equilibrium to the nation.[^ref11] However, Ford is not content to finish the book here, rather he imposes an apocalyptic ending on his reader. Bath suffers an earthquake and the pinnacles of the Abbey church fall as the book ends dramatically with darkness ‘settl[ing] on the scene’[^ref12].
+
+Ford's futuristic imagining of 1940 Dover is strangely accurate.
 
 Banner image credit: Anthony Gross, Imperial War Museum, Public domain, via Wikimedia Commons.
 
@@ -46,4 +49,6 @@ Banner image credit: Anthony Gross, Imperial War Museum, Public domain, via Wiki
 [^ref8]: Ford, 14.
 [^ref9]: Ford, 19.
 [^ref10]: Ford, 17.
+[^ref11]: Ford,
+[^ref12]: Ford, p.188
 
