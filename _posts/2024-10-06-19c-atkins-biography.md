@@ -5,14 +5,14 @@ author: Trinity Barber and Michelle Crowther
 date: 2024-10-06
 categories: [ 19c ]
 tags: [ Authors & lives, Science & ideas, Literary places, Material culture ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/a4/Anna_Atkins_Title_Page_of_Photographs_of_British_Algae_Cyanotype_Impressions_%28Detail%29.jpg
 permalink: /19c/19c-atkins-biography/
 published: true
 toc: false  
 storykit: true
 ---
 
-Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbridge, the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tunbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells.[^ref1] Anna's birth was difficult and afterwards, Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 
+Anna Atkins, botanist and photographer, was born on the 16 March 1799, in [Tonbridge](Q936183), the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tonbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells.[^ref1] Anna's birth was difficult and afterwards, Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 
 
 {% include embed/image.html src="wc:Anna_Atkins_1861.jpg" aspect="0.679" caption="Anna Atkins, 1861" %}
 
