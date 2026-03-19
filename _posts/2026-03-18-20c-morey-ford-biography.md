@@ -5,7 +5,7 @@ author: Dr Michelle Crowther
 date: 2026-03-18
 categories: [ 20c ]
 tags: [ Texts & genres ]
-image: https://upload.wikimedia.org/wikipedia/commons/f/fb/In_May_1941%2C_Gross_was_commissioned_again_as_an_Official_War_Artist_and_visited_Dover_Castle_for_ten_days._The_South_Coast_was_heavily_defended_with_two_guns_named_%27Winnie%27_and_%27Pooh%27_at_Dover_hidden_under_camouflage_an_Art.IWMARTLD1110.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/14/Julius_Olsson-The_Night_Patrol_-_Canadian_Motor_Torpedo_Boats_Entering_Dover_Harbour_%28CWM_19710261-0538%29.jpeg
 permalink: /20c/20c-morey-ford-biography/
 published: true
 toc: false
@@ -13,6 +13,7 @@ storykit: true
 ---
 
 ‘All through the night a terrific bombardment had been maintained, and even when the first grey line of dawn began to creep across the downs the insistent fury of the guns increased rather than diminished’ (_The Raid of Dover_ 14)   
+
 Described as a ‘forecast in fiction’, Douglas Morey Ford’s _The Raid of Dover: a romance in the reign of woman: AD 1940_ was published in March 1910. A work of speculative fiction, _The Raid of Dover_, played on popular fears of women’s suffrage and invasion. 
 Following on from his earlier novel, _A Time of Terror_, which was dismissed as ‘an amazing farrago of nonsense’,[^ref1] Ford imagines a future where Dover is invaded by an alliance of 300 US and German troops who have mysteriously arrived on a liner and infiltrated the town. The Americans who have lost confidence in the British government are ‘quite persuaded that the old folk at home [are] too feeble to retain the management of the Old Estate’[^ref2] and have joined in a pact with the German government.
 {% include embed/image.html src="wc:In May 1941, Gross was commissioned again as an Official War Artist and visited Dover Castle for ten days. The South Coast was heavily defended with two guns named Winnie and Pooh at Dover hidden under camouflage an Art.IWMARTLD1219.jpg" aspect="1.779" caption="Harbour Defences by Anthony Gross" %} 
@@ -27,14 +28,14 @@ With the failure of the women’s army, thousands of women ‘ruefully admitted 
 In reality, the first women's regiment in the British Army was the Women’s Army Auxiliary Corps (WAAC) which was formed in 1917 to provide administrative support during world war one, so Ford’s prediction that the regiment would be formed in 1940 was incorrect. However, women did not serve in ground combat roles until much later.
 {% include embed/image.html src="wc:The Women's Army Auxiliary Corps on the Western Front, 1917-1918 Q8669.jpg" aspect="1.779" caption="The Women's Army Auxiliary Corps on the Western Front, 1917-1918" %} 
 
-As the battle drags on 'urgent advice' is 'given officially and through the newspapers to call the air-ships into play'.[^ref6] There was a growing sense within the Edwardian period that although ‘the problem of the application of airships to ordinary purposes of travelling, can scarcely be said to have been solved, … it seems to have come already within the prospect of belief'[^ref7] .The British Army had built their first air-ship, the _Nulli Secundus_, in 1907, shortly followed by the navy’s _Mayfly_ (_His Majesty’s Airship No 1_) in 1908.  Ford imagines a world of private airships, which disturbs the social order: 'Who wants an air-ship calling for this parlour-maid at the attic window? Who wants thieves sailing up to his balcony?’[^ref8] and he predicts that in 1940 ‘everyone will want to be at liberty to ‘aviate’’.[^ref9] Although this part of his prediction does not come true, his estimate for the speeds that the air-ships will achieve is almost spot on. In the 1910s they could achieve 16 miles an hour, but by 1929 they had reached 63 mph and in Ford's imagined world they reach 70 mph.[^ref10]
+As the battle drags on, 'urgent advice' is 'given officially and through the newspapers to call the air-ships into play'.[^ref6] There was a growing sense within the Edwardian period that although ‘the problem of the application of airships to ordinary purposes of travelling, can scarcely be said to have been solved, … it seems to have come already within the prospect of belief'[^ref7] .The British Army had built their first air-ship, the _Nulli Secundus_, in 1907, shortly followed by the navy’s _Mayfly_ (_His Majesty’s Airship No 1_) in 1908.  Ford imagines a world of private airships, which disturbs the social order: 'Who wants an air-ship calling for this parlour-maid at the attic window? Who wants thieves sailing up to his balcony?’[^ref8] and he predicts that in 1940 ‘everyone will want to be at liberty to ‘aviate’’.[^ref9] Although this part of his prediction does not come true, his estimate for the speeds that the air-ships will achieve is almost spot on. In the 1910s they could achieve 16 miles an hour, but by 1929 they had reached 63 mph and in Ford's imagined world they reach 70 mph.[^ref10]
 {% include embed/image.html src="wc:Nulli Secundus.jpg" aspect="1.779" caption="Nulli Secundus, British Army Dirigible No 1" attribution="Frederike J. van Uildriks" %} 
 
 Eventually, Major Edgar Wardlaw who has bemoaned the 'reign of woman' earlier in the book, heroically saves the town. The return of Wilson Renshaw 'the most brilliant member of the House of Commons' who had gone missing on a holiday to Egypt where he had been held captive, restores equilibrium to the nation.[^ref11] However, Ford is not content to finish the book here, rather he imposes an apocalyptic ending on his reader. Bath suffers an earthquake and the pinnacles of the Abbey church fall as the book ends dramatically with darkness ‘settl[ing] on the scene’[^ref12].
 <br><br>
 Ford's futuristic imagining of Dover under attack is prescient. Just over four years after the book was published, a bomb dropped by a German plane landed on the rectory of St James.[^ref13] Two months before Ford died, a dozen more bombs were dropped on St Mary's Orphanage during a hostile air raid.[^ref14] By A.D. 1940, Dover was under attack again with shelling and bombing destroying parts of the town.[^ref15] However the Maison Dieu did not burn and the castle did not fall. A fragment of shrapnel which lodged in the table in the Mayor's parlour after the fire station was hit in June 1945 serves as a reminder of Dover's wartime history.
 
-Banner image credit: Anthony Gross, Imperial War Museum, Public domain, via Wikimedia Commons.
+Banner image credit: The Night Patrol - Canadian Motor Torpedo Boats Entering Dover Harbour (CWM 19710261-0538), Albert Julius Olsson, Public domain, via Wikimedia Commons.
 
 ### References
 
