@@ -5,7 +5,7 @@ author: Peter Orford
 date: 2024-03-01
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Travel & mobility, Maps & place-making ]
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/b/ba/Edward_Dayes_-_Rochester_-_Google_Art_Project.jpg
 permalink: /dickens/edwin-drood-curated-walk/
 published: true
 toc: false  
@@ -62,7 +62,7 @@ Not far from here, so far as we can tell, is where would have stood  The Travell
 
 Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
 
-{% include embed/image.html src="wc:Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg" aspect="1.294" caption="Minor Canon Row" %}
+{% include embed/image.html src="wc:Minor Canons' Row.jpg" aspect="1.294" caption="Minor Canon Row" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
@@ -85,3 +85,5 @@ See also [Mobile Landscapes]( https://kent-maps.online/dickens/mobile-landscapes
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
 Find more open access articles associated with _The Mystery of Edwin Drood_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/edwin-drood)
+
+Banner image credit: Edward Dayes - Rochester, Yale Center for British Art, Public domain, via Wikimedia Commons
