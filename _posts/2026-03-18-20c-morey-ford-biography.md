@@ -33,7 +33,7 @@ As the battle drags on 'urgent advice' is 'given officially and through the news
 
 Eventually, Major Edgar Wardlaw who has bemoaned the 'reign of woman' earlier in the book, heroically saves the town. The return of Wilson Renshaw 'the most brilliant member of the House of Commons' who had gone missing on a holiday to Egypt where he had been held captive, restores equilibrium to the nation.[^ref11] However, Ford is not content to finish the book here, rather he imposes an apocalyptic ending on his reader. Bath suffers an earthquake and the pinnacles of the Abbey church fall as the book ends dramatically with darkness ‘settl[ing] on the scene’[^ref12].
 
-Ford's futuristic imagining of 1940 Dover is strangely accurate.
+Ford's futuristic imagining of Dover under attack is prescient. Just over four years after the book was published, a bomb dropped by a German plane landed on the rectory of St James. Two months before Ford died, a dozen more bombs were dropped on St Mary's Orphanage during a hostile air raid. By A.D. 1940, Dover was under attack again with shelling and bombing destroying parts of the town.
 
 Banner image credit: Anthony Gross, Imperial War Museum, Public domain, via Wikimedia Commons.
 
@@ -50,5 +50,6 @@ Banner image credit: Anthony Gross, Imperial War Museum, Public domain, via Wiki
 [^ref9]: Ford, 19.
 [^ref10]: Ford, 17.
 [^ref11]: Ford,
-[^ref12]: Ford, p.188
+[^ref12]: Ford, p.188.
+[^ref13]: 'The Bomb at Dover', _Gloucestershire Echo_, 24 December 1914.
 
