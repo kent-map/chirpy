@@ -60,15 +60,13 @@ Not far from here, so far as we can tell, is where would have stood  The Travell
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
 
-Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
+Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’   
+
+Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester]({{ site.baseurl }}/dickens/dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds?
 
 {% include embed/image.html src="wc:Minor Canons' Row.jpg" aspect="1.294" caption="Minor Canon Row" %}
 
 {% include embed/map.html center="Q26377461" zoom="14" markers="Q26377461" allmaps="08f8a4bca9b4dd3a~Kent OS 1860" %}
-
-Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester]({{ site.baseurl }}/dickens/dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds? 
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/1870_Title_page.jpg" aspect="0.614" caption="1870 Title page" %}
 
 For those searching for Edwin beyond the coffeeshop/crypt, the next stop would be the weir, which Dickens tells us is ‘full two miles above the spot to which the young men [Edwin and Neville] had repaired to watch the storm’ - except [Rochester]({{ site.baseurl }}/dickens/dickens-medway) has no weir. As I have said, Dickens is inspired by reality, but is not bound to it. There is, however, the river, which may be part inspiration. While early in the novel Septimus Crisparkle takes exercise swimming in the weir, later we are told he ‘had come at one plunge out of the river at Cloisterham’. Since Crisparkle makes little distinction between weir and river, this perhaps suggests the two bodies of water may be interchangeable in Dickens’s mind.  On the night of Drood’s disappearance we are told he and Neville walk down to see the river, and indeed it is a short walk to here from the Gatehouse, and none of it too far from the Cathedral and its crypt. So, if Dickens really was mapping Edwin’s final movements upon [Rochester]({{ site.baseurl }}/dickens/dickens-medway), then surprising Edwin by the river, or in the gatehouse, and transporting him to the crypts would have been no great feat for Jasper, or any other suspect, to undertake.
 
