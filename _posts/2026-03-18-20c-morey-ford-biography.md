@@ -1,6 +1,6 @@
 ---
 title: "The Raid of Dover"
-description: "An article about Douglas Morey Ford's 1910 novel The Raid of Dover."
+description: "An article about Douglas Morey Ford's 1910 novel The Raid of Dover written for Dover at Night 2026."
 author: Dr Michelle Crowther
 date: 2026-03-18
 categories: [ 20c ]
