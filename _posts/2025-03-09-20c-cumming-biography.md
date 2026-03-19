@@ -18,14 +18,15 @@ Amy Primrose (Peggie) Cumming, author of pony stories for children, was born on 
 
 {% include embed/image.html src="wc:Cleve_Court%2C_Thanet-geograph.org.uk-2261048.jpg" aspect="1.333" caption="Cleve Court" %}
 
-Primrose grew up in [Sandhurst](Q2911413), near Cranbrook on the Kent and Sussex border, where she was privately educated at home with her sister Violet. On recognising her talent for writing stories, her governess encouraged her to write for publication, and her first story was published in _Nursery World_. As well as writing, which she did in bed, Primrose loved fishing on the River Rother and recalls that she was once nearly pulled in by a large eel.[^ref2] 
-
-{% include embed/image.html src="wc:Underwater_studies_of_fish_with_an_eel_RMG_PU0488.jpg" aspect="1.437" caption="Underwater studies of fish with an eel" %}
-
-Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of [Bodiam](Q2011975), Sandhurst, Salehurst, Cranbrook and [Northiam](Q1792908). It included an introduction by Sheila Kaye-Smith, who lived in nearby Northiam, and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden. In an article in _Country Life_ Cummings described herself as:   
-'so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21'.[^ref4]
+Primrose grew up in [Sandhurst](Q2911413), near Cranbrook on the Kent and Sussex border, where she was privately educated at home with her sister Violet. On recognising her talent for writing stories, her governess encouraged her to write for publication, and her first story was published in _Nursery World_. Cumming’s first book _Doney_ was published when she was 17 and is about a horse and his mistress Janet.[^ref3] The novel is set in the “The Borderland” where Kent and Sussex meet, in the villages of [Bodiam](Q2011975), Sandhurst, Salehurst, Cranbrook and [Northiam](Q1792908). It included an introduction by Sheila Kaye-Smith, who lived in nearby Northiam, and whose own novel [Shepherds in Sackcloth]( https://www.kent-maps.online/20c/20c-kaye-smith-delmonden/) had been set around Sandhurst in the imaginary village of Delmonden. 
 
 {% include embed/image.html src="wc:Bruno_Liljefors_-_Black_pony_1887.jpg" aspect="1.27" caption="Black Pony, 1887" %}
+
+In an article in _Country Life_ Cummings described herself as:   
+'so keen on riding at this time, that I used to steal out early in the morning and ride the farmers’ horses in the fields. Then I wrote a book about my friend’s pony, Doney, and sold it. With the money, I bought Black Jack – who was rather too spirited for a beginner. When I took him hunting, he broke his bridle and off I came – in front of the whole field. At last we got on better terms and we both made our names by jumping everything in his path. To feed Black Jack, I wrote more books about country life, drawing on my own knowledge and experience. I had several published by the time I was 21'.[^ref4]   
+As well as writing, which she did in bed, Primrose loved fishing on the River Rother and recalls that she was once nearly pulled in by a large eel.[^ref2] 
+
+{% include embed/image.html src="wc:Underwater_studies_of_fish_with_an_eel_RMG_PU0488.jpg" aspect="1.437" caption="Underwater studies of fish with an eel" %}
 
 Cumming's most famous novel, _Silver Snaffles_ was published in 1937. American poet and children’s author, Maxine Kumin described it as set “in a sunlit world where articulate ponies with good English country-squire manners and highly individual personalities give lessons in equitation and stable management to some eager, horseless youngsters.”[^ref5]
 
@@ -57,7 +58,7 @@ In the 1940s, the schools radio service featured Scenes from “Ben” in their 
 
 Cumming’s 1951 book _Four Rode Home_ is the story of four friends who decide to ride from the New Forest back home to Kent and who meet with many adventures on the way. Her stories were often based on her own experiences, including  her riding tours along the Pilgrim’s Way and in the New Forest.[^ref14]
 
-In her book _Flying Horseman_, published in 1959, Morgan Knight, who contracts polio, goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on Lydd Ferryfield. Cumming wrote of the "homely but not ungraceful freighters with gay markings on their silver skins".[^ref15]
+In her book _Flying Horseman_, published in 1959, Morgan Knight, who contracts polio, goes to stay with “a horse mad family on a fruit farm”. The airfield in the book is named Broadfield Airfield and was modelled on [Lydd](Q1986577) Ferryfield. Cumming wrote of the "homely but not ungraceful freighters with gay markings on their silver skins".[^ref15]
 
 {% include embed/image.html src="wc:Bristol_Freighter_%28Silver_City_Airways%29_at_Lydd_Airport%2C_1960_1279850.jpg" aspect="2.013" caption="Bristol Freighter Silver City Airway at Lydd Airport, c. 1960" %}
 
