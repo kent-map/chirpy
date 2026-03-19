@@ -5,7 +5,7 @@ author: Dr Sheila Sweetinburgh
 date: 2022-06-01
 categories: [ medieval ]
 tags: [ Politics & reform, Coast & sea, Towns & cities, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6adc1223-2266-4fe5-8c65-d0924627f6c7.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Detail_from_the_Cinque_Ports_standard.jpg
 permalink: /medieval/cinque-ports/
 published: true
 toc: false  
