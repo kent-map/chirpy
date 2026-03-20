@@ -22,7 +22,7 @@ In the ensuing melee, the town is obliterated:
 <br>
 ‘Shells falling into the town of Dover had already reduced it to heaps of tumbled masonry. Here and there great volumes of smoke rose from the wreckage of shops and houses. The town hall – the ancient [Maison Dieu](https://www.maisondieudover.org.uk/), founded by Hugh de Burgh, Constable of Dover, in the reign of John – having escaped destruction during the night, caught fire about daybreak, the flames rushing upwards in the morning air, watched by thousands from the western heights, to which the terrified inhabitants had fled for safety’.[^ref3]   
 <br>
-Whilst Dover falls, seismic disturbances rocks the spa towns of Britain. 
+Whilst Dover falls, seismic disturbances rock the spa towns of Britain. 
 {% include embed/image.html src="wc:Dover, Town Hall (Maison Dieu) - geograph.org.uk - 1907140.jpg" aspect="1.779" caption="Dover Maison Dieu" %} 
 
 With the failure of the women’s army, thousands of women ‘ruefully admitted that they had gained power and lost love; and in their inmost hearts they knew that love was worth the world’ and ‘with the gradual abandonment of man’s protective affection had gone the true ingredient of her happiness’.[^ref4]  Although Ford claims that he does not identify with the views of any of his characters on the views of women’s suffrage, the misogynistic overtones of the book are unmistakable. His description of the women’s army recruits reinforces this:    
