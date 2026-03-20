@@ -46,7 +46,7 @@ The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts 
 
 {% include embed/map.html center="Q640951" zoom="12" markers="Q640951" allmaps="6810391d199af2d1~Kent Admin Boundaries 1967" %}
 
-By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in [Romney Marsh]({{ site.baseurl }}/placesqz/romney-overview).
+By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in Romney Marsh.
 
 His own literary interests can glimpsed in the nod to [Dickens]({{ site.baseurl }}/dickens). [David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk) of course makes his way to [Dover]({{ site.baseurl }}/19c/19c-dover/) a few miles along the coast, where he will successfully plead with his aunt to rescue him from the guardianship of Mr Murdstone. Symons had published a book on [Dickens]({{ site.baseurl }}/dickens) in 1951; as a guest on Desert Island Discs many years later he opted for [_Bleak House_]({{ site.baseurl }}/dickens/bleak-house-deal) as his island book.
 
