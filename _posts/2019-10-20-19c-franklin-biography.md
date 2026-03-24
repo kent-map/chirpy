@@ -1,6 +1,6 @@
 ---
 title: "Sir John Franklin (16 April 1786 – 11 June 1847)"
-description: "Sir John Franklin’s 1845 Arctic expedition departed from Greenhithe on the Thames, linking a small Kent riverside village to a national drama of exploration and loss. The narrative tracks the voyage of HMS Erebus and HMS Terror from refurbishment and delayed sailing to disappearance, then follows later searches and local commemoration in pubs and place-names."
+description: "Sir John Franklin left Greenhithe in 1845 in search of the Northwest Passage. The subsequent disappearance of HMS Erebus and HMS Terror was widely reported in the British press. But Franklin’s death on 11 June 1847 was finally proved only in 1859, amid controversial rumours that the missing men had resorted to cannibalism."
 author: Jacquie Stamp
 date: 2019-10-20
 categories: [ 19c ]
