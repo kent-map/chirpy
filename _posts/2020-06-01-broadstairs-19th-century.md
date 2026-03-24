@@ -1,6 +1,6 @@
 ---
 title: "Broadstairs in the nineteenth century"
-description: "Broadstairs in the nineteenth century cultivated a deliberately quiet, respectable seaside identity that avoided the gentility of Ramsgate and the mass entertainments of Margate. Writers and periodicals from Dickens and Emily Shore to Braddon, the Grossmiths, and Zangwill reveal how selective tourism, modest amusements, and bathing regulations shaped the town’s social tone."
+description: "In the nineteenth century, Broadstairs maintained its reputation as a peaceful seaside town largely untouched by the commercial development of nearby Ramsgate and Margate. In the summer months, the sea bathing and slower pace of life attracted celebrity authors including Dickens and Wilkie Collins."
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
