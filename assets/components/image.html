@@ -1109,7 +1109,7 @@
         const region = parseRegionString(cfg.region, false);
         imageAspectRatio = region.w / region.h;
       }
-      if (!cfg.max) setContainerHeight(imageAspectRatio);
+      // if (!cfg.max) setContainerHeight(imageAspectRatio);
       viewer.viewport.goHome(false);
       setTimeout(() => viewer.viewport.goHome(false), 50);
     }).observe(window.frameElement);
