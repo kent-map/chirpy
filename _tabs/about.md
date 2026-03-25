@@ -44,21 +44,6 @@ Carolyn Oulton is Professor of Victorian Literature and Director of the Internat
 
 Dr Michelle Crowther is an Academic Librarian at Canterbury Christ Church University and co-lead on the project. When she's not teaching students how to search 19th century periodicals, marking hyptertext up and down, or chasing Dickens around a virtual map. She is researching Kent history and Victorian manuscript magazines. 
 
-
-## Claire Bartram
-
-![Claire Bartram](https://raw.githubusercontent.com/kent-map/forum/main/claire_bartram.jpg){: .right}
-
-Dr Claire Bartram is the co-director of the Centre for Kent History and Heritage. Her research interests include book history and she has recently edited a collection of essays entitled _Kentish Book Culture: Writers, Archives, Libraries and Sociability 1400-1660._
-
-
-## Laura Allen
-
-![Laura Allen](https://raw.githubusercontent.com/kent-map/images/main/misc/Laura_Allen.jpg){: .right}
-
-Laura Allen is a PhD researcher at CCCU and obligatory president of the Mary Eliza Haweis Fanclub. When she’s not busy reading advice on how to be a proper Victorian lady, you will likely find her in a quaint old pub with a Kentish cider and a battered old copy of Jane Eyre
-
-
 # Authors
 
 ## Fran Allfrey
