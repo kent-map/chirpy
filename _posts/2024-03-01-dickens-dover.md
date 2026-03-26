@@ -1,6 +1,6 @@
 ---
 title: "Dickens and Dover"
-description: "Charles Dickens’s stays in Dover reveal how the town’s sea, bands, and genteel resort culture shaped his mood and writing habits during work on Little Dorrit. A close reading of his 1856 Household Words piece Out of the Season and related letters links writer’s block and seaside distraction to Dover’s role in David Copperfield and A Tale of Two Cities."
+description: "Dover figures largely in the Dickensian imagination, most famously as the place where David Copperfield takes refuge with his eccentric aunt Betsey. It also features in both _Little Dorrit_ and _A Tale of Two Cities_. But Dickens’s private letters offer a less flattering picture of the town."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ dickens ]
