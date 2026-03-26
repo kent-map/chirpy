@@ -1,6 +1,6 @@
 ---
 title: "David Copperfield - a curated walk"
-description: "Ken Moffat and Carolyn Oulton present a journey through the Kent places featured in Dicken's David Copperfield."
+description: "David Copperfield comes to understand his past by literally walking away from it. The difficult question of what home means – and where it might be – is explored through his symbolic journey from London to Dover."
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
