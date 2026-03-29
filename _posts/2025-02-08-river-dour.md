@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2025-02-08
 categories: [ landscape ]
 tags: [ Rivers & marshes, Towns & cities, Nature & environment, Work & industry, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4fb174f-5884-4bfc-832a-20fc4b3683dc.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Russell_Gardens_-_geograph.org.uk_-_8098732.jpg
 permalink: /landscape/river-dour/
 published: true
 toc: false  
@@ -117,7 +117,7 @@ In 1914, it was reported that "an immense quantity of filth" was brought down by
 
 Today the river is much cleaner, the brown trout swim in the clear water and Dover is proud of its little stream.
 
-This article was written specially for Dover at Night 2025.
+Banner image credit: Russell Gardens by Marathon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons. This article was written specially for Dover at Night 2025.
 
 {% include embed/image.html src="wc:Wellington_Dock_-_geograph.org.uk_-_4588572.jpg" aspect="1.334" caption="Wellington Dock" %}
 
