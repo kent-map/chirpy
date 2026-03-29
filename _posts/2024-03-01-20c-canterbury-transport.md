@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
 tags: [ Travel & mobility, Towns & cities, Work & industry, Culture & society, Authors & lives ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Maidstone_%26_District_5521%2C_521DKT_Leyland_PDR1_Atlantean.jpg
 permalink: /canterbury/20c-canterbury-transport/
 published: true
 toc: false  
@@ -38,5 +38,7 @@ Canterbury’s branch lines were phased out some years before the importance of 
 {% include embed/image.html src="wc:BL_18_inch_Howitzer_Ashbury_Station_WWII.jpg" aspect="1.564" caption="Boche Buster with crew" %}
 
 The 007 coach route from London to Canterbury and Dover was taken over by National Express in 1973. The nine services each day proved popular especially with Canterbury’s fast increasing number of students. There is good reason to believe that the author [Ian Fleming]({{ site.baseurl }}/20c/20c-fleming-biography) took the 007 prefix for James Bond from the service. When living at St Margaret’s Bay, near Dover, it is said that Fleming was inspired by the panel on a London bound coach. As Fleming’s London home, 22b Ebury Street, lay directly behind the newly opened Victoria coach station, he was also familiar with the 007 service from the other end of the route. Fleming’s familiarity with the route helps to explain the car dash in Moonraker from [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home) to Dover in 15 minutes. But this did not involve a coach. James Bond drove a 4.5 litre Bentley convertible, ‘the fastest genuine four-seater in the world that could top 120 mph with ease’.
+
+Banner image credit: Maidstone & District 5521, 521DKT Leyland PDR1 Atlantean at Canterbury Bus Station, 28/5/73 by Anthony Smith, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/eccb379a-a975-40fc-a14c-f6f34a0163de.jpg" aspect="1.333" caption="Blue plaque" attribution="Martin Crowther" %}
