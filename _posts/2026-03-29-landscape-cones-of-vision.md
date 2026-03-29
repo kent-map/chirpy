@@ -23,7 +23,7 @@ The first cone of vision from the orchards on Merton farm had been impacted by t
 
 {% include embed/image.html src="wc:Cones of Vision No. 1 - From Merton Farm.jpg" aspect="0.671" caption="Cones of Vision No.1" %}
 
-**Cone 2: From Stuppington Hill**
+**Cone 2: From Stuppington Hill**   
 The second cone of vision is one of the most striking and unspoilt views of the Cathedral. The Bell Harry Tower stands out clearly against the cityscape, tall, ornate, and framed against the skyline. It is from this view that the entire length of the south side of the Cathedral can be seen. The gentle slopes, hedgerows and orchard trees serve as a reminder that Kent is the Garden of England, and that Canterbury is rooted in the county’s agrarian tradition.
 
 {% include embed/image.html src="wc:Cones of Vision No. 2 - Canterbury Cathedral seen from Stuppington Hill.jpg" aspect="0.671" caption="Cones of Vision No.2" %}
@@ -77,6 +77,7 @@ Cone 11: Have I got confused?
 {% include embed/image.html src="wc:Cones of Vision No. 11 - View of Canterbury Cathedral from Neal's Place Road.jpg" aspect="0.671" caption="Cones of Vision No.11" %}
 
 **Cone 12: Junction of Glen Iris Avenue and St Thomas's Hill**
+Seen through garden foliage and a construction site on the south-east corner of Glen Iris Avenue at the junction with St Thomas's Hill, the Cathedral's west front is visible with green hills in the background. In summer time, this view will be partially obscured by green leaves
 
 {% include embed/image.html src="wc:Cones of Vision No. 12 - Junction of Glen Iris Avenue and St Thomas's Hill.jpg" aspect="0.671" caption="Cones of Vision No.12" %}
 
