@@ -5,7 +5,7 @@ author: Geri Giebel Chavis
 date: 2024-12-16
 categories: [ 21c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/99c782eb-98cd-4f5d-9cd0-d6f854c413ee.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg
 permalink: /21c/21c-winspear-biography/
 published: true
 toc: false  
@@ -89,6 +89,8 @@ As Maisie drives along to Hawkhurst as a part of her investigations, she goes â€
 In the seventh Maisie Dobbs novel, _Mapping of Love and Death_  (2010), [Chatham](Q729006)â€™s School of Military Engineering and Chatham Dockyards (Naval base in the Napoleonic Wars) play a part, and once again we follow Maisie as she travels from London southward on the Old Kent Road. 
 
 Although Winspear didn't begin her historical fiction-writing until her mid-40s, her Maisie Dobbs novels series proved an overnight success. The first book, published in 2003, became a national best-seller, and Winspear went on to win several prestigious prizes for novels within this series. While creating these works, she not only drew upon her vivid memories of Kent but also returned there frequently.  So many details within these works as well as her autobiographical writings convey her profound attachment to this area, and her set of eighteen novels vividly portrays the social, economic and psychological realities faced by women, men and children in Kent within the post WWI and WWII years. 
+
+Banner image credit: Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons.
 
 {% include embed/image.html src="wc:Entrance_to_Royal_School_of_Military_Engineering_-_geograph.org.uk_-_517998.jpg" aspect="1.333" caption="Danny Robinson, via Wikimedia Commons" %}
 
