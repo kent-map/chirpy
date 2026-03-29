@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2024-02-02
 categories: [ landscape ]
 tags: [ Literary places, Maps & place-making, Texts & genres, Rivers & marshes, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0604f63f-eada-4bc5-b5a9-b73a3bb72294.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Kent_1842.jpg
 permalink: /landscape/Kentish-place-names/
 published: true
 toc: false  
@@ -50,28 +50,22 @@ Rudyard Kipling’s _Puck of Pook’s Hill_ and its sequel, _Rewards and Fairies
 
 Only one narrative in Puck takes a detour to Kent, to a coastal town which Kipling significantly gives its full and very significant place-name, [Dymchurch](Q2796278)-under-the-Wall. The story (‘Dymchurch Flit’) describes how ‘The People of the Hills’ (faerie folk) mass at the coast to flee England distressed by the burning of heretics (in turn disturbing the locals). They are helped by two brothers who drown as a consequence but do relieve the tension felt by the human inhabitants of the Marshes - ‘fretty man an’ petty maid, ailin’ woman an’ wailin’ child’ from ‘Bulverhithe to Hithe’ (a large stretch of coast from near Hastings to Hythe in Kent). Dymchurch is a place of peril – a liminal site between sea and low-lying land reclaimed from the sea. It is perched perilously at the edge of the world behind its sea defences, at risk of ‘that the sea ‘ud rear up against Dymchurch Wall an’ they’d be drowned like Old Winchelsea’. The Marsh itself is characterised as a place apart: 
 
-‘Won’erful odd-gates place – [Romney Marsh](Q1506093), ‘said Tom Shoesmith. ‘I’ve heard say the world’s divided like into Europe, Ashy, Afriky, Austarly, an’ Romney Marsh.’ 
-
-‘The Marsh folk think so.’ Said Hobden. I had a hem o’ trouble to get my woman to leave it.’ 
-
-Where did she come out of?’ I’ve forgot, Ralph.’ 
-
-‘Dymchurch under the Wall,’ Hobden answered. 
+‘Won’erful odd-gates place – [Romney Marsh](Q1506093), ‘said Tom Shoesmith. ‘I’ve heard say the world’s divided like into Europe, Ashy, Afriky, Austarly, an’ Romney Marsh.’  
+‘The Marsh folk think so.’ Said Hobden. I had a hem o’ trouble to get my woman to leave it.’   
+Where did she come out of?’ I’ve forgot, Ralph.’   
+‘Dymchurch under the Wall,’ Hobden answered.   
 
 {% include embed/image.html src="wc:Dymchurch_beach_-_geograph.org.uk_-_5878827.jpg" aspect="1.499" caption="Dymchurch Beach" %}
 
 {% include embed/map.html center="Q2796278" zoom="12" markers="Q2796278" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
-Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood.
-
-Banner image: ©Lisa Hawkins
-
-{% include embed/map.html center="Q1506093" zoom="12" markers="Q1506093" allmaps="3cec6f180298eeb9~Mudge 1801" %}
+Both Kaye-Smith's and Kipling’s works celebrate the landscapes (pays) of Marsh and Weald shared by of Kent and Sussex.[^ref2] These are landscapes produced by centuries of human toil and land use reflected in their place-names, especially across the Weald where settlements ending in ‘hurst’ (OE hyrst = wooded hill) and ‘den’ (OE den = wood pasture) provide a running rhyme of toponyms across the map, and ancient woodlands reveal their links to the iron industry that goes back to Roman times; Forge Wood, Furnace Wood, Hammer Wood.   
+Banner Image credit: _A Pocket Topography and Gazetteer of England_ (1842) Pigot and Co, Public domain, via Wikimedia Commons.
 
 ### Bibliography
 
-Gelling, M. (1984) Place-Names in the Landscape. Phoenix Press: London.   
-Gelling, M. (1988) Signposts to the Past: Place-Names and the History of England (2nd Edition). Phillimore: Chichester.   
+Gelling, M. (1984) _Place-Names in the Landscape_. Phoenix Press: London.   
+Gelling, M. (1988) _Signposts to the Past: Place-Names and the History of England (2nd Edition)_. Phillimore: Chichester.   
 Horsley, J. W. (1921) Place Names in Kent, South Eastern Gazette Newspaper Co.: Maidstone Canon J. W. Horsley; Late Vicar of Detling. Available via [Project Gutenberg](https://www.gutenberg.org/files/63263/63263-h/63263-h.htm)   
 Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ OUP: Oxford.
 
