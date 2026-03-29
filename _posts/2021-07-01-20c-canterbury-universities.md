@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Universities"
+title: "Universities in Canterbury in the 20th Century"
 description: "University expansion reshaped Canterbury in the late 20th century, as new campuses and student housing transformed the city’s edge and internal streetscape. The University of Kent, Canterbury Christ Church University, and the University for the Creative Arts grew through distinctive building programmes and institutional mergers while linking local heritage to modern higher education."
 author: Richard Maltby
 date: 2021-07-01
