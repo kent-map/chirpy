@@ -19,7 +19,7 @@ storykit: false # change to true to enable storykit extensions
 Nestled in the Stour valley, Canterbury’s magnificent Norman Cathedral can be viewed from many vantage points. In 1979, the Canterbury Conservation Study Consultation Draft Report identified 22 cones of vision from which the best panoramic views of the city could be obtained.[^ref1] At the beginning of 2026, these cones were revisited to establish whether the report’s recommendation to maintain these views had been observed. 
 
 **Cone 1: From Merton Farm**   
-The first cone of vision from the orchards on Merton farm had been impacted by the construction of the A2 bypass in 1982. A layby on the A2 allows a glimpse of what might have been. The cathedral can be seen in a landscape of green fields, oast houses and [tree roundels] at Stuppington, creating a rural idyll for coach passengers arriving from the continent. An area beloved by runners and dog-walkers, the route from this cone to the next took us to the top of Stuppington Hill where orchards and footpaths intersect.
+The first cone of vision from the orchards on Merton farm had been impacted by the construction of the A2 bypass in 1982. A layby on the A2 allows a glimpse of what might have been. The cathedral can be seen in a landscape of green fields, oast houses and [tree roundels] at Stuppington, creating a rural idyll for coach passengers arriving from the continent. An area beloved by runners and dog-walkers, the route from this cone to the next took us to the top of Stuppington Hill where orchards and footpaths intersect. Developers plan to build a road across this space as part of the Canterbury Local Plan.
 
 {% include embed/image.html src="wc:Cones of Vision No. 1 - From Merton Farm.jpg" aspect="0.671" caption="Cones of Vision No.1" %}
 
@@ -54,12 +54,12 @@ The railway bridge near Whitehall Farm leading up to the top of the London Road 
 {% include embed/image.html src="wc:Cones of Vision No. 7 - Whitehall Farm Railway Bridge.jpg" aspect="0.671" caption="Cones of Vision No.7" %}
 
 **Cone 8: Victoria Recreation Ground**
-The Cathedral forms a pleasant backdrop to the football pitches on Victoria Recreation Ground, with the wooded valley and screen of trees. 
+The Cathedral forms a pleasant backdrop to the football pitches on Victoria Recreation Ground, with the wooded valley and screen of trees. Established in 1906 as a space where children could 'play cricket and other games',[^ref ] the Rec was used by the King's and the King's Irish regiments for a friendly football in 1916. However, later in the war it was turned over to sheep grazing. During world war two, the RAF XI played a cricket match here and residents were encouraged to 'come in their hundreds' to enjoy a Grand Whitsun Gala as they 'holidayed' at home.[^ref] In the latter half of the twentieth century, it has been used for helicopter landings for high-profile visitors such as the Queen Mother, and the Duchess and Duke of Kent.  In 1989, 'bemused tennis players on the recreation ground courts downed rackets' when Princess Diana emerged from a helicopter after fog at Dover had forced a change route.[^ref
 
 {% include embed/image.html src="wc:Cones of Vision No. 8 - Victoria Recreation Ground, Canterbury.jpg" aspect="0.671" caption="Cones of Vision No.8" %}
 
 **Cone 9: Bridge between Harbledown and Duke's Meadow**
-This view has been altered by the development of the London Road and the Cathedral is no longer visible. The bridge leads to Duke’s Meadow where the cathedral can be seen from the grassy hill.
+This view has been altered by the development of the London Road and the Cathedral is no longer visible. The bridge leads to Duke’s Meadow where the cathedral can be seen from the grassy hill. The meadow was under threat from development in 2021 when Canterbury City Council proposed a western bypass that would cut through the area.[^ref
 
 {% include embed/image.html src="wc:Cones of Vision No. 9 - Bridge between Harbledown and Duke's Meadow.jpg" aspect="0.671" caption="Cones of Vision No.9" %}
 
@@ -77,13 +77,12 @@ Cone 11: Have I got confused?
 {% include embed/image.html src="wc:Cones of Vision No. 11 - View of Canterbury Cathedral from Neal's Place Road.jpg" aspect="0.671" caption="Cones of Vision No.11" %}
 
 **Cone 12: Junction of Glen Iris Avenue and St Thomas's Hill**
-Seen through garden foliage and a construction site on the south-east corner of Glen Iris Avenue at the junction with St Thomas's Hill, the Cathedral's west front is visible with green hills in the background. In summer time, this view will be partially obscured by green leaves
+Seen through garden foliage and a construction site on the south-east corner of Glen Iris Avenue at the junction with St Thomas's Hill, the Cathedral's west front is visible with green hills in the background. In summer time, this view will be partially obscured by green leaves.
 
 {% include embed/image.html src="wc:Cones of Vision No. 12 - Junction of Glen Iris Avenue and St Thomas's Hill.jpg" aspect="0.671" caption="Cones of Vision No.12" %}
 
 **Cone 13: View of Canterbury Cathedral from University Road**
-The Belly Harry Tower peeps out from behind mature trees on the University of Kent campus with the Arundel and Oxford Towers slightly obscured by [type of tree]
-The university was built in 
+The Belly Harry Tower peeps out from behind mature trees on the University of Kent campus with the Arundel and Oxford Towers slightly obscured. The university was founded in 1965 on the site of Beverley Farm.
 
 {% include embed/image.html src="wc:Cones of Vision No. 13 - View of Canterbury Cathedral from University Road.jpg" aspect="0.671" caption="Cones of Vision No.13" %}
 
@@ -96,7 +95,7 @@ The university was built in
 {% include embed/image.html src="wc:Cones of Vision No. 15 - View of Canterbury Cathedral from near the Labyrinth at the University of Kent.jpg" aspect="0.671" caption="Cones of Vision No.15" %}
 
 **Cone 16: View of Canterbury Cathedral from Hale's Place**
-A narrow footpath between two houses led us to this scrubby hill with views of the valley below. Photographed on the day that the Odeon Cinema on the corner of St George’s Place caught fire, the smoke can be seen in the centre of the photo. A landscape of flat roofed industrial units dominates the centre of the photograph. The orchards and hillside that we visited on the start of our journey are visible on the skyline.
+A narrow footpath between two houses led us to this scrubby hill with views of the valley below. Photographed on the day that the Odeon Cinema on the corner of St George’s Place caught fire, the smoke can be seen in the centre of the photo. A landscape of flat roofed industrial units dominates the centre of the photograph. The orchards and hillside that we visited on the start of our journey are visible on the skyline .
 Where is the cathedral?
 [mention roof types recommended in the report]
 
@@ -133,5 +132,9 @@ We end our journey of the cones of vision where many people start, entering the 
 {% include embed/image.html src="wc:Cones of Vision No. 22 - New Dover Road.jpg" aspect="0.671" caption="Cones of Vision No.22" %}
 
 [^ref1]:
+[^ref ] 'Canterbury's White Elephant', _Canterbury Journal_, 10 February 1906.
+[^ref ] 'Diana Pays Flying Visit', _Kentish Gazette_ 15 September 1989.
+{^ref  'Holidays at Home' _Kent Herald_, 24 May 1944.
+[^ref ] 'Canterbury Dog Walkers's Mission to Save 'Lockdown Lifeline' from Developers', Available at: https://www.kentlive.news/news/canterbury-dog-walkers-mission-save-5737077.
 [^ref 'Traffic-free Path, 70 miles Long is Planned for Kent', _Sevenoaks Chronicle and Kentish Advertiser_, 13 January 1967.
 [^ref  'Preserving Bab's Hill', _Kentish Gazette_ 16 February 1990.
