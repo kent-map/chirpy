@@ -4,7 +4,7 @@ description: "Deal seafront and pier become a shifting register of tide, weather
 author: Diana Hirst
 date: 2022-03-28
 categories: [ 21c ]
-tags: [ Coast & sea, Literary places, Nature & environment, Representation & interpretation ]
+tags: [ Coast & sea, Literary places, Nature & environment, Representation & interpretation, Poetry ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6.jpg
 permalink: /21c/21c-impressions-hirst/
 published: true
