@@ -4,7 +4,7 @@ description: "A winter walk home from Eastry across Thanet and Pegwell Bay turns
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Maps & place-making ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Maps & place-making, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Byway_to_Eastry_%282%29_-_geograph.org.uk_-_2203645.jpg
 permalink: /21c/21c-coming-home-hirst/
 published: true
