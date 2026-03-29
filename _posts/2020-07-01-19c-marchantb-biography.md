@@ -5,7 +5,7 @@ author: Laura Allen
 date: 2020-07-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Faith & belief ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/45/A_selection_of_books_by_Bessie_Marchant.jpg
 permalink: /19c/19c-marchantb-biography/
 published: true
 toc: false  
