@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Commerce"
+title: "Commerce in Canterbury in the 20th Century"
 description: "Canterbury’s 20th-century economy stayed rooted in rural trade and cathedral tourism even as new technologies reshaped local enterprise. Family firms such as ParkerSteel and Barretts grew from small shops into regional businesses, navigating war damage, planning disputes, and shifts from bicycles and radios to cars and electronics."
 author: Richard Maltby
 date: 2021-07-01
