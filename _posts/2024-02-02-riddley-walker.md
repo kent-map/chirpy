@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2024-02-02
 categories: [ landscape ]
 tags: [ Literary places, Texts & genres, Maps & place-making, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/722ee74c-ffcd-41f4-b25d-668fed8be471.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Devil%27s_Kneading_Trough%2C_North_Downs_above_Brook_-_geograph.org.uk_-_4290668.jpg
 permalink: /landscape/riddley-walker/
 published: true
 toc: false  
@@ -42,9 +42,11 @@ Those of us familiar with the story and immersed in Riddley’s landscape may fi
 
 {% include embed/map.html center="Q3135780" zoom="15" markers="Q3135780" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
+Banner image credit: The Devil's Kneading Trough, North Downs above Brook by Colin Park, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
+
 ### Bibliography
 
-Hoban, R. (2002) _Riddley Walker: with introduction by Will Self_ Bloomsbury: London (originally published in 1980 by Jonathon Cape).   
+Hoban, R. (2002) _Riddley Walker: with introduction by Will Self_  Bloomsbury: London (originally published in 1980 by Jonathon Cape).   
 Mills. A. D. (1998) _The Oxford Dictionary of English Place-Names_ OUP: Oxford.    
 Vujakovic, P. (2017) ‘Mind the Gap’, _Kent Life_, May 2017, pp. 134-5.    
 Vujakovic, P. (2021) 'Map as biography: maps, memory, and landscape – thoughts on Ordnance Survey map, Sheet TR04, 1:25,000 Provisional Edition, Ashford, International', _Journal of Cartography_, 7(2) special issue ‘Cartographers Write About Cartography’, pp. 190-197.
