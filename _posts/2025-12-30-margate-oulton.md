@@ -4,7 +4,7 @@ description: "Margate Beach becomes a layered scene where present-day shelter an
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Coast & sea, Literary places, Texts & genres, Representation & interpretation ]
+tags: [ Coast & sea, Literary places, Texts & genres, Representation & interpretation, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/22/The_beach_at_Margate_-_geograph.org.uk_-_3278583.jpg
 permalink: /poetry/margate-oulton/
 published: true
