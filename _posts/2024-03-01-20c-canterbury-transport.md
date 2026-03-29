@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Transport"
+title: "Transport in Canterbury in the 20th Century"
 description: "Road and rail decisions reshaped Canterbury’s streets, shifting A2 traffic from the High Street to ring roads and bypasses while congestion persisted despite Park and Ride and new car parks. Electrification brought cleaner trains without faster journeys until the 2007 high-speed service, while branch-line closures, wartime railway use, and the 007 coach route link local mobility to wider national networks and popular culture."
 author: Richard Maltby
 date: 2024-03-01
