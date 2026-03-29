@@ -4,7 +4,7 @@ description: "Brockhill Park at Hythe frames a tense lyric encounter where rain,
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Texts & genres, Nature & environment, Coast & sea, Literary places ]
+tags: [ Texts & genres, Nature & environment, Coast & sea, Literary places, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/60/Brockhill_Country_Park%2C_Hythe_-_geograph.org.uk_-_7825569.jpg
 permalink: /poetry/brockhill-oulton/
 published: true
