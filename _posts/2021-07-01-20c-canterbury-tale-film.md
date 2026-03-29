@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: A Canterbury Tale"
+title: "A Canterbury Tale"
 description: "Powell and Pressburger’s 1944 film A Canterbury Tale reworks Chaucer’s pilgrims to frame wartime Canterbury as a place where physical travel and spiritual inheritance meet. Blitz-era threats to historic buildings sharpen the film’s focus on intangible literary heritage and collective memory, later echoed by the installation of a Chaucer statue that links medieval pilgrimage to modern tourism on Canterbury High Street."
 author: Miroslava Karaskova
 date: 2021-07-01
