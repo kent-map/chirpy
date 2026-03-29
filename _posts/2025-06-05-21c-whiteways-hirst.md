@@ -4,7 +4,7 @@ description: "Whiteways near Northbourne and Updown emerges as a chalk-bright tr
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Literary places, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Geese_-_DPLA_-_08f41c453e99642cde60adde17173820.jpg
 permalink: /21c/21c-whiteways-hirst/
 published: true
