@@ -16,10 +16,10 @@ storykit: false # change to true to enable storykit extensions
 
 “The appearance of the city of Canterbury, from whatever part you approach it, is beautiful and equals the most sanguine expectation. The magnificent tower of the cathedral … strikes the eye as the principal object of admiration” (Hasted, 1800)
 
-Nestled in the Stour valley, Canterbury’s magnificent Norman Cathedral can be viewed from many vantage points. In 1979, the Canterbury Conservation Study Consultation Draft Report identified 22 cones of vision from which the best panoramic views of the city could be obtained. At the beginning of 2026, these cones were revisited to establish whether the report’s recommendation to maintain these views had been observed. 
+Nestled in the Stour valley, Canterbury’s magnificent Norman Cathedral can be viewed from many vantage points. In 1979, the Canterbury Conservation Study Consultation Draft Report identified 22 cones of vision from which the best panoramic views of the city could be obtained.[^ref1] At the beginning of 2026, these cones were revisited to establish whether the report’s recommendation to maintain these views had been observed. 
 
 **Cone 1: From Merton Farm**   
-The first cone of vision from the orchards on Merton farm had been impacted by the construction of the A2 bypass in 1982. A layby on the A2 allows a glimpse of what might have been. The cathedral can be seen in a landscape of green fields, oast houses and tree roundels at Stuppington, creating a rural idyll for coach passengers arriving from the continent. An area beloved by runners and dog-walkers, the route from this cone to the next took us to the top of Stuppington Hill where orchards and footpaths intersect.
+The first cone of vision from the orchards on Merton farm had been impacted by the construction of the A2 bypass in 1982. A layby on the A2 allows a glimpse of what might have been. The cathedral can be seen in a landscape of green fields, oast houses and [tree roundels] at Stuppington, creating a rural idyll for coach passengers arriving from the continent. An area beloved by runners and dog-walkers, the route from this cone to the next took us to the top of Stuppington Hill where orchards and footpaths intersect.
 
 {% include embed/image.html src="wc:Cones of Vision No. 1 - From Merton Farm.jpg" aspect="0.671" caption="Cones of Vision No.1" %}
 
@@ -115,19 +115,22 @@ The cathedral has disappeared in this landscape, but
 
 {% include embed/image.html src="wc:Cones of Vision No. 19 - View of Bell Harry Tower seen from King George V Memorial Field.jpg" aspect="0.671" caption="Cones of Vision No.19" %}
 
+This view of Canterbury Cathedral is from King George V Memorial Field. Originally knows as Bab's Hill,  it was used in the Medieval period for target practice by the city bowmen. It was later renamed the George V memorial field in 1936 which was to be 'an open space for all time'.[^ref ]
+
 **Cone 20:**
 
 {% include embed/image.html src="wc:Cones of Vision No. 20 - View of Canterbury Cathedral from Spring Lane.jpg" aspect="0.671" caption="Cones of Vision No.20" %}
 
 **Cone 21: View of Canterbury Cathedral from Pilgrims Way**
-This view of the cathedral at the end of a muddy footpath is heartening to walkers arriving via the Pilgrim’s Way footpath. Four pinnacles piercing the skyline hint at the majestic grandeur of the building, whose architects
-[reaching Heavenward]
+This view of the cathedral at the end of a muddy footpath is a heartening sight to walkers on the North Down's Way footpath. Four pinnacles piercing the skyline hint at the majestic grandeur of the building, as it reaches Heavenward. The North Down's Way was designed as a traffic-free path from the Kent Coast to Westerham by the National Parks Commission in the 1960s. Kent County Council recommended an amendment to the original plan so that 'walkers could see Chilham, which is surrounded by typical Kentish orchard scenery' and a 90 minutes' tramp to 'the ancient and modern city of Canterbury'.
 
 {% include embed/image.html src="wc:Cones of Vision No. 21 - View of Canterbury Cathedral from Pilgrims Way.jpg" aspect="0.671" caption="Cones of Vision No.21" %}
 
 **Cone 22: Cones of Vision No. 22 - New Dover Road**
-We end our journey of the cones of vision where most people start, entering the city on the New Dover Road. Bell Harry Tower announces to the visitor that they have reached the cathedral city of Canterbury. On a dull day the Caen stone takes on the colour of the landscape in the background, with just three pinnacles rising up above the ridge of the  hills but on a bright day with the sun shining on the cathedral, the yellowy stone creates a visual spectacle.
+We end our journey of the cones of vision where many people start, entering the city on the New Dover Road. Bell Harry Tower announces to the visitor that they have reached the cathedral city of Canterbury. On a dull day the Caen stone takes on the colour of the landscape in the background, with just three pinnacles rising up above the ridge of the  hills but on a bright day with the sun shining on the cathedral, the yellowy stone creates a visual spectacle.
 
 {% include embed/image.html src="wc:Cones of Vision No. 22 - New Dover Road.jpg" aspect="0.671" caption="Cones of Vision No.22" %}
 
-
+[^ref1]:
+[^ref 'Traffic-free Path, 70 miles Long is Planned for Kent', _Sevenoaks Chronicle and Kentish Advertiser_, 13 January 1967.
+[^ref  'Preserving Bab's Hill', _Kentish Gazette_ 16 February 1990.
