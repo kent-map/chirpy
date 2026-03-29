@@ -4,7 +4,7 @@ description: "Mulberry trees in a Kent garden set a scene of dawn light, dew-wet
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/70/The_Mulberry_Tree_by_Vincent_van_Gogh.jpg
 permalink: /21c/21c-mulberries-hirst/
 published: true
