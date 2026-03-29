@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Museums, Visitor Experience and the Cathedral"
+title: "Canterbury Museums, Visitor Experience and the Cathedral in the 20th Century"
 description: "Twentieth-century Canterbury rebuilt its visitor economy around museums, heritage attractions, and a modernised welcome at the Cathedral as mass tourism expanded and access improved after the Channel Tunnel. Westgate, Eastbridge, the Beaney, the Marlowe Theatre, and St Augustine’s Abbey show how historic buildings were repurposed, curated, and branded to meet changing expectations of education, entertainment, and world-heritage pilgrimage."
 author: Richard Maltby
 date: 2024-03-01
@@ -17,14 +17,12 @@ Tourism, for centuries a source of [canterbury](Q29303)’s livelihood, brings a
 {% include embed/image.html src="wc:High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg" aspect="1.402" caption="High Street, Canterbury" %}
 
 **The Westgate Towers**
-
 Completed during the Hundred Years War in 1381, the Westgate  consists of two 60-foot circular towers enclosing the gateway and a chamber used for until 1829 as a prison for criminals and condemned persons. Situated on the river, the gateway was complete with drawbridge and portcullis, arrow slit windows and gun ports. In 1870 the West Gate housed the Police Station with an extension along Pound lane built in 1907, until relocation in 1966.  The entire Gateway and former prison are now an exhibition and education centre, upgraded as a heritage complex by the owners of the enclosed Pound café. Access to the roof provides marvellous views over the rooftops of Canterbury. 
 Next to the West Gate, in a lovely setting by the river, Holy Cross church built in 1380 has served since 1972 as the council chamber for Canterbury City Council.  
 
 {% include embed/image.html src="wc:Westgate_Towers%2C_Canterbury_-_geograph.org.uk_-_4804969.jpg" aspect="1.501" caption="Westgate Towers, Canterbury" %}
 
 **Eastbridge Hospital and the Greyfriars**
-
 Situated at the centre of the town The Eastbridge Hospital, Greyfriars chapel and Franciscan gardens are managed as one for visitors. Founded as the Eastbridge Hospital of St Thomas the Martyr and one of the oldest buildings in Canterbury, the entry through a Norman arch leads to a 12th and 13th century time capsule in the chapel, refectory and other chambers. Steps lead down to a 12th century stone crypt where pilgrims slept on rushes in the bays. A place of hospitality since 1190, the Eastbridge is in part an almshouse and visitors are asked to respect the peace of the residents, known as Indwellers, who live in eight self-contained flats. 
 
 {% include embed/image.html src="wc:Eastbridge_Hospital_Canterbury_1085030_20230813_0147.jpg" aspect="1.5" caption="Tilman2007, CC BY-SA 4.0, via Wikimedia Commons" %}
@@ -34,7 +32,6 @@ A short walk along Stour Street leads to the adjoining properties of the Greyfri
 {% include embed/image.html src="wc:Greyfriars_Chapel_-_geograph.org.uk_-_4142883.jpg" aspect="0.75" caption="Greyfriars Chapel by Kim Fyson, CC BY-SA 2.0 via Wikimedia Commons" %}
 
 **The Canterbury Heritage Museum (1986-2018)**
-
 The Canterbury Heritage Museum, opened in 1986 by Queen Elizabeth II, was housed in the 12th century Poor Priests Hospital, to tell the history of the city. The magnificent medieval interior, with an oak-beamed roofs, a great hall and labyrinth of period rooms was the perfect place for displays in a ‘time walk” from the earliest to latest times. The displays on 20th century subjects included a Canterbury wartime Blitz experience, a [Rupert Bear]({{ site.baseurl }}/20c/20c-tourtel-biography) exhibition, celebrating both Rupert and the comic bear’s creator Mary Tourtel (1874-1943) who was born and lived in the city, and a Bagpuss and Clangers display, in tribute to Oliver Postgate (1925-2008). Working in his studio at the nearby village of Blean with his associate Peter Firmin, Oliver Postgate produced the most wonderful children’s animation programmes, Ivor the Engine being my favourite, all greatly loved by anyone who grew up in the 1960s, ‘70s or ‘80s.   
 
 The Museum was closed in 2018. Most displays were transferred to the redeveloped Beaney Institute on the High Street or, in the case of Roman exhibits, to the Roman Museum. A wonderful  20th century museum, the closure of the Canterbury Heritage Museum was a sad loss for heritage and for the 21st century.    
@@ -42,7 +39,6 @@ The Museum was closed in 2018. Most displays were transferred to the redeveloped
 {% include embed/image.html src="wc:Museum_of_Canterbury_001.jpg" aspect="1.287" caption="Canterbury Heritage Museum" %}
 
 **The Beaney** 
-
 The amazing Beaney Institute in the High Street, now redeveloped as the Beaney House of Art and Knowledge, was opened in 1899 thanks to the generosity of an Australian, Dr James Beaney, who was born in Canterbury. The Beaney served as Canterbury’s Royal Museum and Free Library throughout the 20th century. In recent years the building has been impressively enlarged and completely refurbished to transform this part of the city into “a vibrant, cultural quarter”, in conjunction with the rebuilding of the nearby Marlowe Theatre. 
 
 {% include embed/image.html src="wc:Canterbury_Beaney_Institute.JPG" aspect="0.728" caption="Beaney Institute, by Zeisterre, CC BY-SA 3.0 via Wikimedia Commons" %}
@@ -52,7 +48,6 @@ The Beaney has long been the place to admire the life sized paintings by Thomas 
 {% include embed/image.html src="wc:The_Smallfilms_Gallery_at_The_Beaney%2C_Canterbury%2C_August_2022_04.jpg" aspect="1.333" caption="The Smallfilms Gallery at the Beaney" %}
 
 **The Marlowe Theatre**
-
 The history of the Marlowe theatre in Canterbury began when a small theatre opened in St Margaret’s Street, just before the Great War (1914-18). Between the wars it became a cinema and then a theatre again. It became the city’s first Marlowe Theatre in 1949 and ran as a repertory company until closure in 1981 to make way for redevelopment as the Marlowe Arcade. The city council purchased the former Odeon Cinema in the Friars, converting it into a theatre bringing the Marlowe to its present site. The building operated successfully for 25 years, but by the 2000s owing to the deficiencies of the converted cinema the council took the bold decision to re-build the theatre. The 3rd Marlowe theatre opened on 4 October 2011. This superb theatre brings world-class theatre, ballet and orchestral companies to the 1200 seat auditorium, as well as providing superb studio and workshop spaces for artists.  
 
 {% include embed/image.html src="wc:Marlowe_Theatre%2C_Canterbury.jpg" aspect="1.39" caption="Marlowe Theatre" %}
@@ -62,11 +57,9 @@ The Marlowe Memorial statue, dubbed “Kitty Marlowe” by locals, originally lo
 {% include embed/image.html src="wc:Sculpture_of_Dave_Lee_by_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056644.jpg" aspect="0.75" caption="Sculpture of Dave Lee by the Marlowe Theatre" %}
 
 **Roman Museum**
-
 Each step down into The Canterbury Roman Museum from the entrance in Butchery lane to a subterranean world beneath the Longmarket represents 100 years of archaeological excavations. Although Victorian engineers building sewers had encountered the impassable foundations of the Roman ampi-theatre beneath St Margaret’s Street, It was not until World War 11 and the bombing of the area that large scale excavations in the city centre became possible.  Excavations in 1946-47 under the direction of Sheppard Frere and Audrey Williams exposed the Roman city that Canterbury people had always known lay unseen beneath the surface. The Roman theatre, forum, temple precincts and hypocaust heated houses were revealed. Further excavations by Dr F Jenkins and the discovery of a Roman silver hoard during road works, provided more material for the Roman Pavement Museum, first opened in 1961 and refurbished for greater visitor provision in 1994. Canterbury’s Roman Museum sets out the map of ancient Durovernum. The Mosaic pavement (c 300 AD) to a Roman house courtyard is still the central feature.
 
 **Canterbury Tales**
-
 For a family seeking an experience trip, the Canterbury Tales Centre, established as a visitor attraction in the 1980s in St Margaret’s Church on the lines of the Jorvik Viking Centre at York, offered the sounds, sights and smells of Chaucer’s nine-and-twenty pilgrims. The Miller’s Tale of a fart “as greet as it had been a thunder-dent” was among the experiences to be savoured. After 35 years the time came to close the attraction, though the stories live on in Chaucer’s immortal tales. 
 
 {% include embed/image.html src="wc:Canterbury_Tales_Museum_-_geograph.org.uk_-_1988188.jpg" aspect="0.75" caption="Canterbury Tales" %}
@@ -76,7 +69,6 @@ Promoted by the Canterbury Commemoration Society, a larger than life statue of G
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/115f208d-182b-44f6-bf4d-8f481eea236d.jpg" aspect="1.0" caption="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther" %}
 
 **St Augustine’s Abbey**
-
 In 1901 St Augustine’s College, founded in 1844 as a missionary college, owned or rented the greater part of the grounds of St Augustine’s Abbey, apart from land occupied by the Kent and Canterbury Hospital (built 1793) adjacent to the Longport. The College commissioned, under the direction of the Kent Archaeological Society, the systematic excavation of the abbey church (1901-03), followed by excavations of Wulfric’s 11th century Rotunda, portions of the Saxon church, the burial place of early Archbishops, and part of the north aisle of the Romanesque church (1903-14). Excavations continued between the wars and a complete plan of the abbey church and monastic buildings was published in 1934. Although the hospital moved to new buildings in 1937, the austere and ugly building was used to house the Technical School for some years and was not available for demolition until 1971. It was then possible to create a public garden on the former hospital site and make the ruins of St Augustine’s Abbey accessible to the public by an entrance to the grounds from the Longport.
 
 {% include embed/image.html src="wc:St_Augustine%27s_Abbey_and_Canterbury_Cathedral_-_geograph.org.uk_-_2771856.jpg" aspect="1.333" caption="Saint Augustine Abbey by Ruth Riddle, via Wikimedia Commons, CC BY-SA 2.0" %}
@@ -86,7 +78,6 @@ In 1976 the abbey grounds were taken over by English Heritage and in 1989 UNESCO
 {% include embed/image.html src="wc:St_Augustine%27s_Abbey%2C_Canterbury_%2834988961570%29.jpg" aspect="1.504" caption="St Augustine's Abbey, ijclark, CC BY 2.0, via Wikimedia Commons" %}
 
 **Canterbury Cathedral**
-
 The 20th century saw a huge increase in the number of visitors to Canterbury Cathedral and in the corresponding Welcome imparted by the Cathedral to modern pilgrims. George Bell, Dean of Canterbury, 1924-1929, was responsible for making the Cathedral more accessible to visitors and for promoting the arts. The first service broadcast from the Cathedral was in 1925. Dean Bell started the Friends of Canterbury Cathedral, which commissioned John Masefield, the Poet Laureate, to write a nativity play, _The Coming of Christ_, with music by Gustav Holst. This was a great innovation in church life and led in the 1930s, to the commissioning of new plays, including T.S. Eliot’s masterpiece, _Murder in the Cathedral_. The Friends carried out restoration work to the Water tower, the Great Cloister, reproducing the heraldic shields on the vaulted roof, and Christ Church Gate. 
 
 One of Dean Bell’s achievements was to stage-manage the enthronement of Archbishop Lang in 1928, in the chair of St Augustine, which was placed in full view at the east end of the Cathedral, where all enthronements have since been made. Broadcast on the radio, the service of enthronement was deemed a great success. The music for the service was composed by Ralph Vaughan Williams.
