@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Education"
+title: "Education in Canterbury in the 20th Century"
 description: "Canterbury’s 20th-century education boom reshaped the city through the expansion of schools, new campuses, and the reuse and conservation of historic precinct buildings. Long-standing institutions such as King’s School and the Simon Langton grammar schools navigated wartime disruption, post-war rebuilding, and reforms like the 1944 Education Act while extending their civic and cultural roles across the community."
 author: Richard Maltby
 date: 2021-07-01
