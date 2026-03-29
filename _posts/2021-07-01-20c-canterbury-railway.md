@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Railway"
+title: "Railways in Canterbury in the 20th Century"
 description: "Canterbury’s railway corridor links early steam innovation to late-20th-century heritage-led regeneration. Listed buildings at Canterbury West and the rescued Goods Shed show how preservation orders and adaptive reuse reshaped a former goods yard into housing, markets, and high-speed connectivity."
 author: Richard Maltby
 date: 2021-07-01
