@@ -1,7 +1,7 @@
 ---
-title: 
-description: 
-author: 
+title: The Cones of Vision of Canterbury Cathedral
+description: Cones of vision from which the best panoramic views of Canterbury Cathedral could be obtained in the 1970s and those views today.
+author: Dr Michelle Crowther
 date: 2026-01-01
 categories: [ ]
 tags: [ ]
@@ -35,15 +35,15 @@ In the 1979 report, the town planner advised that “the setting of the City in 
 Along a footpath which skirts the edge of Milton Manor Farm from Milton Manor Road, the cathedral can be glimpsed above the railings of a building site. The footpath which leads to Thanington is wedged between an apocalyptic landscape of diggers, tarmac and scrubbed up fields. The path which narrows as you reach Thanington hides behind the housing, a small strip of green turf next to a pale brown landscape of barren trees whose skinny branches tower over the height of the cathedral in the distance. This is not a path that would attract a rambler as it is difficult to access from the busy Milton Manor Road.
 
 **Cone 6: Footpath from Howfield Manor to Tonford Lane**
-The Cathedral scarcely bothers the skyline when viewed from the track leading through orchards and farmland at Tonford. Rather, the magnificent trees dominate the skyline. Passing Tonford Manor, a fortified 15th century manor where Henry VIII and Katherine of Aragon spent 3 days. and crossing the bridge over the Stour, where the ford used by the Romans once stood.
+The Cathedral scarcely bothers the skyline when viewed from the track leading through orchards and farmland at Tonford. Rather, the magnificent trees dominate the skyline. Passing Tonford Manor, a fortified 15th century manor where Henry VIII and Katherine of Aragon spent three days and crossing the bridge over the Stour, where the the Romans crossed the ford.
 File:Cones of Vision No. 6 - Footpath from Howfield Manor to Tonford Lane.jpg - Wikimedia Commons
 
 **Cone 7: Whitehall Farm Railway Bridge**
-The railway bridge near Whitehall Farm leading up to the top of the London Road Estate reveals a wooded landscape which has grown up beside the railway line. Tall, spindly trees obscure what was once a cone of vision. On reaching the Estate, with its streets prettily named after Chaucer’s pilgrim, it is hard to find a view of the cathedral other than at the corner of Franklyn Road and lower down the hill. 
+The railway bridge near Whitehall Farm leading up to the top of the London Road Estate reveals a wooded landscape which has grown up beside the railway line. Tall, spindly trees obscure what was once a cone of vision. On reaching the Estate, with its streets prettily named after Chaucer’s pilgrim, it is hard to find a view of the cathedral other than at the corner of Franklyn Road and lower down the hill. No doubt for a bedroom window, the towers are glimpsed across the valley.
 File:Cones of Vision No. 7 - Whitehall Farm Railway Bridge.jpg - Wikimedia Commons
 
 **Cone 8: Victoria Recreation Ground**
-The Cathedral forms a pleasant backdrop to the football pitches on Victoria Recreation Ground, with the wooded valley and screen of trees
+The Cathedral forms a pleasant backdrop to the football pitches on Victoria Recreation Ground, with the wooded valley and screen of trees. 
 https://upload.wikimedia.org/wikipedia/commons/2/27/Cones_of_Vision_No._8_-_Victoria_Recreation_Ground%2C_Canterbury.jpg 
 
 **Cone 9: Bridge between Harbledown and Duke's Meadow**
@@ -51,7 +51,46 @@ This view has been altered by the development of the London Road and the Cathedr
 https://upload.wikimedia.org/wikipedia/commons/4/4d/Cones_of_Vision_No._9_-_Bridge_between_Harbledown_and_Duke%27s_Meadow.jpg 
 https://upload.wikimedia.org/wikipedia/commons/2/21/View_of_Canterbury_Cathedral_from_the_top_of_Duke%27s_Meadow.jpg 
 Use the image from the book I found in the library
-Cone 10: View of Canterbury Cathedral from near Neal's Place Road
+
+**Cone 10: View of Canterbury Cathedral from near Neal's Place Road**
 Northwest tower (Arundel Tower) and Southwest ( Dunstan or Oxford Tower)
 https://upload.wikimedia.org/wikipedia/commons/b/b0/Cones_of_Vision_No._10_-_View_of_Canterbury_Cathedral_from_near_Neal%27s_Place_Road.jpg
+
+Cone 11: Have I got confused?
+
+**Cone 12: Junction of Glen Iris Avenue and St Thomas's Hill**
+
+https://upload.wikimedia.org/wikipedia/commons/1/15/Cones_of_Vision_No._12_-_Junction_of_Glen_Iris_Avenue_and_St_Thomas%27s_Hill.jpg 
+
+**Cone 13: View of Canterbury Cathedral from University Road**
+The Belly Harry Tower peeps out from behind mature trees on the University of Kent campus with the Arundel and Oxford Towers slightly obscured by [type of tree]
+The university was built in 
+
+**Cone 14:**
+
+**Cone 15:**
+
+**Cone 16: View of Canterbury Cathedral from Hale's Place**
+A narrow footpath between two houses led us to this scrubby hill with views of the valley below. Photographed on the day that the Odeon Cinema on the corner of St George’s Place caught fire, the smoke can be seen in the centre of the photo. A landscape of flat roofed industrial units dominates the centre of the photograph. The orchards and hillside that we visited on the start of our journey are visible on the skyline.
+Where is the cathedral?
+[mention roof types recommended in the report]
+
+**Cone 17: Old Park, Canterbury**
+The cathedral has disappeared in this landscape, but 
+[say more]
+
+**Cone 18:**
+
+**Cone 19:**
+
+**Cone 20:**
+
+**Cone 21: View of Canterbury Cathedral from Pilgrims Way**
+This view of the cathedral at the end of a muddy footpath is heartening to walkers arriving via the Pilgrim’s Way footpath. Four pinnacles piercing the skyline hint at the majestic grandeur of the building, whose architects
+[reaching Heavenward]
+
+**Cone 22: Cones of Vision No. 22 - New Dover Road**
+We end our journey of the cones of vision where most people start, entering the city on the New Dover Road. Bell Harry Tower announces to the visitor that they have reached the cathedral city of Canterbury. On a dull day the Caen stone takes on the colour of the landscape in the background, with just three pinnacles rising up above the ridge of the  hills but on a bright day with the sun shining on the cathedral, the yellowy stone creates a visual spectacle.
+
+
 
