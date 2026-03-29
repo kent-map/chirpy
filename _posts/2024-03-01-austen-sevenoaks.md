@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
 tags: [ Authors & lives, Literary places, Texts & genres, Culture & society ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/75/Red_House%2C_Sevenoaks_-_geograph.org.uk_-_3390024.jpg
 permalink: /austen/austen-sevenoaks/
 published: true
 toc: false  
@@ -20,6 +20,8 @@ Jane seems to have found the experience trying.  She may have drawn inspiration 
 
 'In the drawing-room Mr. Crawford certainly was, having been just long enough arrived to be ready for dinner; and the smiles and pleased looks of the three others standing round him, shewed how welcome was his sudden resolution of coming to them for a few days on leaving Bath. A very cordial meeting passed between him and Edmund; and with the exception of Fanny, the pleasure was general; and even to _her_ there might be some advantage in his presence, since every addition to the party must rather forward her favourite indulgence of being suffered to sit silent and unattended to.' 
 _Mansfield Park_
+
+Banner image credit: Red House, Sevenoaks by Stephen Richards, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="wc:MansfieldParkTitlePage.jpg" aspect="0.561" caption="Mansfield Park" %}
 
