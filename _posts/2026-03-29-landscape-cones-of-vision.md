@@ -3,7 +3,7 @@ title: The Cones of Vision of Canterbury Cathedral
 description: Cones of vision from which the best panoramic views of Canterbury Cathedral could be obtained in the 1970s and those views today.
 author: Dr Michelle Crowther
 date: 2026-01-01
-categories: [ ]
+categories: [ landscape ]
 tags: [ ]
 published: false
 featured: false
