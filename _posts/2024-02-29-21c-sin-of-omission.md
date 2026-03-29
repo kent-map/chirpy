@@ -5,7 +5,7 @@ author: Liam Cohen
 date: 2024-02-29
 categories: [ 21c ]
 tags: [ Faith & belief, Towns & cities, Texts & genres, Identity & community, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/65bfd4f5-dabb-4e4d-808c-a86b1ab22a0c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/be/Church_Street%2C_St_Paul%27s_Church_%26_The_Cemetery_Gate_of_St_Augustine%27s_Monastery.jpg
 permalink: /21c/21c-sin-of-omission/
 published: true
 toc: false  
@@ -71,10 +71,6 @@ There were the names of all the alumni of the college carved on the wall. (She a
 
 In 1952, the college re-opened as the Central College of the Anglican Communion, although many buildings were still damaged from the war. In 1967, the training of students was relocated to London (St. Augustine’s College).[^ref23] The King’s School has used the site (excluding St. Augustine’s Abbey, which is now a National Heritage site) since 1976, when they leased the property. Eventually, in 1993, they purchased the site. 
 
-This article was published: 29 February 2024.
-
-{% include embed/image.html src="wc:St_Augustine%27s_Abbey_Missionary_School_buildings.jpg" aspect="1.333" caption="St Augustine's Abbey Missionary School buildings, Ymblanter, CC BY-SA 4.0, via Wikimedia Commons" %}
-
 ### Acknowledgements
 
 To Peter Henderson for providing valuable insight into the history of the College and for my visit to the school, for which I am sincerely grateful. Moreover, your offering a wide range of sources was truly invaluable.
@@ -83,6 +79,8 @@ To Dr Ralph Norman for our extremely helpful discussion, which helped me keep on
 
 A special thank you to Marguerite Poland for her immense generosity and mentorship throughout my whole process of creating the podcast and this article. I cannot recommend enough her novel, [_A Sin of Omission_](https://www.amazon.co.uk/Sin-Omission-Marguerite-Poland/dp/1838172033/ref=mp_s_a_1_1?crid=MSRRBQRAVUG3&keywords=a+Sin+of+Omission&qid=1704254185&sprefix=a+sin+of+omission+%2Caps%2C230&sr=8-1
 ).
+
+Banner image credit: William Gostling (1696-1777), Public domain, via Wikimedia Commons.
 
 ### Works Cited
 
