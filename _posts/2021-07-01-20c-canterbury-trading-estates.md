@@ -1,5 +1,5 @@
 ---
-title: "20th-century Canterbury: Trade"
+title: "Trading Estates in Canterbury in the 20th Century"
 description: "Out-of-town trading estates along Canterbury’s A28 corridor reshaped the city’s retail geography from the 1960s onward, concentrating big-box stores and services at Wincheap and Sturry Road. Supermarkets, retail parks, and park-and-ride access boosted regional shopping but intensified traffic tailbacks, pollution, and vibration damage to older roadside housing and buildings."
 author: Richard Maltby
 date: 2021-07-01
