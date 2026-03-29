@@ -4,7 +4,7 @@ description: "A garden back path in Wingham anchors a poem that tracks seasonal 
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/01/Fadenstielige_Rose_Kohlbruck.jpg
 permalink: /21c/21c-back-path-hirst/
 published: true
