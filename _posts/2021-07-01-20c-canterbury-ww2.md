@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: World War II"
+title: "Canterbury in World War II"
 description: "The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city."
 author: Richard Maltby
 date: 2021-07-01
