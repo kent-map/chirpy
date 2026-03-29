@@ -24,18 +24,19 @@ The first cone of vision from the orchards on Merton farm had been impacted by t
 **Cone 2: From Stuppington Hill**
 The second cone of vision is one of the most striking and unspoilt views of the Cathedral. The Bell Harry Tower stands out clearly against the cityscape, tall, ornate, and framed against the skyline. It is from this view that the entire length of the south side of the Cathedral can be seen. The gentle slopes, hedgerows and orchard trees serve as a reminder that Kent is the Garden of England, and that Canterbury is rooted in the county’s agrarian tradition.
 
-**Cone 3: Footpath from New House Lane**
+**Cone 3: Footpath from New House Lane**   
 
 
-**Cone 4: Footpath between New House Lane to Cockering Road**
+**Cone 4: Footpath between New House Lane to Cockering Road**   
 
 In the 1979 report, the town planner advised that “the setting of the City in parkland, farmland and woodland … should remain largely undeveloped” (p.244) The farmlands identified for protection included Stuppington, Nackington, Heppington,  New House Lane and Cockering Farm. In 2026, some of this precious landscape has been built on or will soon be built on with Saxon Fields and the Cockering Farm development carving up this rural idyll.
 
-**Cone 5: Footpath from Milton Manor Farm to Thanington**
+**Cone 5: Footpath from Milton Manor Farm to Thanington**   
 Along a footpath which skirts the edge of Milton Manor Farm from Milton Manor Road, the cathedral can be glimpsed above the railings of a building site. The footpath which leads to Thanington is wedged between an apocalyptic landscape of diggers, tarmac and scrubbed up fields. The path which narrows as you reach Thanington hides behind the housing, a small strip of green turf next to a pale brown landscape of barren trees whose skinny branches tower over the height of the cathedral in the distance. This is not a path that would attract a rambler as it is difficult to access from the busy Milton Manor Road.
 
-**Cone 6: Footpath from Howfield Manor to Tonford Lane**
+**Cone 6: Footpath from Howfield Manor to Tonford Lane**   
 The Cathedral scarcely bothers the skyline when viewed from the track leading through orchards and farmland at Tonford. Rather, the magnificent trees dominate the skyline. Passing Tonford Manor, a fortified 15th century manor where Henry VIII and Katherine of Aragon spent three days and crossing the bridge over the Stour, where the the Romans crossed the ford.
+
 File:Cones of Vision No. 6 - Footpath from Howfield Manor to Tonford Lane.jpg - Wikimedia Commons
 
 **Cone 7: Whitehall Farm Railway Bridge**
