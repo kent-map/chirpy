@@ -4,7 +4,7 @@ description: "A lyric poem fixes attention on the Downs as a ground-level ecolog
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation, poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg
 permalink: /poetry/jumping-oulton/
 published: true
