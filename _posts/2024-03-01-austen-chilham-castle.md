@@ -5,7 +5,7 @@ author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
 tags: [ Authors & lives, Buildings & architecture, Culture & society, Literary places ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/55/Chilham_Castle_-_geograph.org.uk_-_6934054.jpg
 permalink: /austen/austen-chilham-castle/
 published: true
 toc: false  
@@ -21,6 +21,8 @@ _It gives us great pleasure to know that the Chilham ball was so agreeable, and 
 On another occasion, Jane went to Chilham without Cassandra, and accordingly filled her in on the evening:  
 _We met only the Bretons at Chilham Castle, besides a Mr. and Mrs. Osborne and a Miss Lee staying in the house, and were only fourteen altogether.  My brother and Fanny thought it the pleasantest party that had ever known there, and I was very well entertained […] By-the-bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire, and can drink as much wine as I like._[^ref2]    
 The parties at Chilham tended to be large and lively, and the Austens write of them fondly.
+
+Banner image credit: Chilham Castle by Philip Halling, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/austen/Chilham_Castle_MJC.jpg" aspect="1.763" caption="Chilham Castle" attribution="© Martin Crowther" %}
 
