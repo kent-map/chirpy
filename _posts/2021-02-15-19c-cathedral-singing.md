@@ -5,7 +5,7 @@ author: Dr Chris Price
 date: 2021-02-15
 categories: [ music ]
 tags: [ Faith & belief, Towns & cities, Culture & society, Arts & performance, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/55/A_South_Prospect_of_the_Cathedral_Church_of_Canterbury.jpg
 permalink: /music/19c-cathedral-singing/
 published: true
 toc: false  
@@ -29,6 +29,8 @@ To those unfamiliar with the world of cathedral musicians in the centuries betwe
 {% include embed/image.html src="wc:The_Choir%2C_Canterbury_Cathedral_-_Google_Art_Project.jpg" aspect="0.809" caption="The Choir, Canterbury Cathedral" %}
 
 Almost all of these men were active members of the [Catch Club]({{ site.baseurl }}/music/19c-catch-club), singing and/or playing in the orchestra on a regular basis throughout their adult lives, so were prominent in the city’s musical life. Several, however, travelled further afield. Newspapers report the activities of nearby clubs; taken together, this paints a picture of the roads of Kent populated not only by the commerce of coaches, omnibuses, vans, post-chaises and carriages mentioned in the Directories, but by those peddling their cultural contributions around their corner of the country. 
+
+Banner image credit: A South Prospect of the Cathedral Church of Canterbury, William Gostling (1696-1777), Public domain, via Wikimedia Commons
 
 {% include embed/image.html src="wc:The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg" aspect="1.611" caption="The Dover Road: Annals of an Ancient Turnpike" %}
 
