@@ -24,23 +24,9 @@ A resolution to support the extension of women's suffrage was successfully carri
 
 On the 16 July 1909, [Cicely Hamilton]({{ site.baseurl }}/20c/20c-hamilton-biography) and [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography)’s play ‘How the Vote Was Won’ was performed at the Dover [Maison Dieu](Q15243899). First performed in London in April 1909, and set in the home of a married couple in Brixton, ‘How the Vote Was Won’ follows Horace and Ethel Cole on the day of a women’s worker strike. Initially the couple are against women's suffrage, but as more and more women quit their jobs, relatives of Horace begin to insist upon living with him arguing that they will stay out of work until their right to vote is recognised by the government. As the women of the family arrive, Horace and Ethel begin to realise the importance of the Suffrage movement.
 
-The cast list of the play:
-Horace Cole: Mr. E. Chitty   
-Ethel Cole: Miss Adams   
-Winifred (Ethel’s sister): Mrs Jellicoe   
-Agatha Cole (Horace’s sister): Miss Crookewit   
-Molly (his niece): Miss Bishop   
-Madame Christine (distant relative): Miss Marchant   
-Maudie Spark (his first cousin): Miss Fry   
-Miss Lizzie Wilkins (his aunt): Mrs. Carson   
-Lily (the maid): Miss Villiers   
-Gerald Williams (a neighbour): Mr Wigley[^ref1]
-
 Like Virginia Woolf, Hamilton believed sexual stereotyping and economic discrimination were more basic issues than disenfranchisement. However, unlike Woolf, Hamilton was active in the Suffragette Movement and co-founded the Women's Writers’ Suffrage League. Additionally, Hamilton was persuaded by [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography/) to write the script for ‘The Pageant of Great Women’ which is considered one of the most important pieces of suffrage propaganda, as well as writing the lyrics to Ethel Smyth’s suffrage anthem ‘The March of the Women’.
 
-The Maison Dieu was a hub for suffragette meetings at a time when the campaign for women’s rights was just gaining traction after Emmeline Pankhurst’s founding of the Women’s Social and Political Union (WSPU) and the motto ‘Deeds not words’.
-
-The Dover Maison Dieu has a Victorian polling booth and ballot boxes, which some of Dover district’s first women voters would have used, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow . Her letter, written with two other local suffragists, was published in the _Dover Express_ in 1909 arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
+Victorian polling booths and ballot boxes used by some of Dover district’s first women voters, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow can be found at the Maison Dieu. Alice's letter, written with two other local suffragists, was published in the _Dover Express_ in 1909 arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/188d8a9b-7514-4dd2-99ce-040624cef0e6.jpg" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
 
