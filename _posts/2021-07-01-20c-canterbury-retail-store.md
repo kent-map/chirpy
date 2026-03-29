@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Retail"
+title: "Retail in Canterbury in the 20th Century"
 description: "Department stores and specialist retailers reshaped Canterbury’s city centre from the 1920s to the early 21st century, linking consumer culture to postwar rebuilding and changing streetscapes. Lefevre’s, Barretts, and later Whitefriars show how bombing damage, planning choices, and heritage-minded conservation together made retail both an engine of urban renewal and a contested civic priority."
 author: Richard Maltby
 date: 2021-07-01
