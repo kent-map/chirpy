@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/8/81/Postcard_of_The_Medwa
 permalink: /nesbit/nesbit-river-medway/
 published: true
 toc: false  
-storykit: true
 ---
 
 

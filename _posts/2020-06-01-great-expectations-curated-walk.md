@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_Sc
 permalink: /dickens/great-expectations-curated-walk/
 published: true
 toc: false  
-storykit: true
 ---
 
 

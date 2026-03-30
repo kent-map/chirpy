@@ -9,7 +9,6 @@ image: https://commons.wikimedia.org/wiki/File:The_Leather_Bottle,_Cobham,_Kent.
 permalink: /dickens/pickwick-papers-leather-bottle/
 published: true
 toc: false  
-storykit: true
 ---
 
 

@@ -9,7 +9,6 @@ image:
 permalink: /kent/image-examples/
 published: false
 toc: false  
-storykit: true
 ---
 
 

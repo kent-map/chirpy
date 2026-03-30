@@ -9,7 +9,6 @@ image:
 permalink: /dickens/david-copperfield-dover-road/
 published: true
 toc: false  
-storykit: true
 ---
 
 

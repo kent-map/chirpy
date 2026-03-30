@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/5/55/Chilham_Castle_-_geog
 permalink: /austen/austen-chilham-castle/
 published: true
 toc: false  
-storykit: true
 ---
 
 

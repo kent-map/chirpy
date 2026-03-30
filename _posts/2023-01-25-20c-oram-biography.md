@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ed545935
 permalink: /20c/20c-oram-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

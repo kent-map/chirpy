@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/HollarThen
 permalink: /landscape/sense-place/
 published: true
 toc: false  
-storykit: true
 ---
 
 

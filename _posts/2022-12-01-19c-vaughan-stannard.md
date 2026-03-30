@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/43be2313
 permalink: /19c/19c-vaughan-stannard/
 published: true
 toc: false  
-storykit: true
 ---
 
 

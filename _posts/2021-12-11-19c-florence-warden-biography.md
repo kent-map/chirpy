@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-florence-warden-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

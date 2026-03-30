@@ -9,7 +9,6 @@ image: https://iiif.juncture-digital.org/banner?url=https://raw.githubuserconten
 permalink: /21c/21c-kent-journal-extracts/
 published: true
 toc: false  
-storykit: true
 ---
 
 **2007**

@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/4f/William_Powell_Frith_
 permalink: /19c/19c-sambourne-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

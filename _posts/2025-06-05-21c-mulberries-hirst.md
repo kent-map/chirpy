@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/7/70/The_Mulberry_Tree_by_
 permalink: /21c/21c-mulberries-hirst/
 published: true
 toc: false  
-storykit: true
 ---
 
 Come on, let’s go and eat mulberries.    

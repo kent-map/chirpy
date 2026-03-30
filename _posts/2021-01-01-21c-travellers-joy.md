@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fd719478
 permalink: /21c/21c-travellers-joy/
 published: true
 toc: false  
-storykit: true
 ---
 
 

@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhil
 permalink: /poetry/jumping-oulton/
 published: true
 toc: false  
-storykit: true
 ---
 
 With my head in position that butterfly wing   

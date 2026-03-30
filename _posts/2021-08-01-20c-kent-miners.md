@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/05/KentNUMStrikeBadge.JP
 permalink: /20c/20c-kent-miners/
 published: true
 toc: false  
-storykit: true
 ---
 
 **It’s not what you look at, it’s what you see**   

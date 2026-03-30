@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-john-tradescant-younger/
 published: true
 toc: false  
-storykit: true
 ---
 
 **Early life and education**   

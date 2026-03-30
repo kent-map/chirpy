@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_cras
 permalink: /dickens/dickens-staplehurst/
 published: true
 toc: false  
-storykit: true
 ---
 
 

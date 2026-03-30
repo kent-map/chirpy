@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/5/55/A_South_Prospect_of_t
 permalink: /music/19c-cathedral-singing/
 published: true
 toc: false  
-storykit: true
 ---
 
 

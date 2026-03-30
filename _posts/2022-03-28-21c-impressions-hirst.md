@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b4b1e2ee
 permalink: /21c/21c-impressions-hirst/
 published: true
 toc: false  
-storykit: true
 ---
 
 Low tide. Light breeze.   

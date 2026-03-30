@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_th
 permalink: /19c/19c-victoria-albion-house/
 published: true
 toc: false  
-storykit: true
 ---
 
 **Events:** 29 Sept 1835 – 11th Jan 1836.   

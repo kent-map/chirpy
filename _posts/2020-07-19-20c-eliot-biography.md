@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a
 permalink: /20c/20c-eliot-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 'On [Margate](Q618045) Sands.   

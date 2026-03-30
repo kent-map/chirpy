@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/ba/Edward_Dayes_-_Roches
 permalink: /dickens/edwin-drood-curated-walk/
 published: true
 toc: false  
-storykit: true
 ---
 
 

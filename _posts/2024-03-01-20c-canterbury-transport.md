@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Maidstone_%26_Distric
 permalink: /canterbury/20c-canterbury-transport/
 published: true
 toc: false  
-storykit: true
 ---
 
 

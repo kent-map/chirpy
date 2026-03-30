@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-jerome-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 "You’ll find when you get home,” I said, “she has thought of one other thing.”   

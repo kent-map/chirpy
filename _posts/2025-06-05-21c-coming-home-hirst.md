@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Byway_to_Eastry_%282%
 permalink: /21c/21c-coming-home-hirst/
 published: true
 toc: false  
-storykit: true
 ---
 
 Bruised clouds are looming above Thanet’s purple land.

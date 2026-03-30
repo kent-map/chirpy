@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Bleak_House_and_Cosy_
 permalink: /dickens/dickens-fort-house/
 published: true
 toc: false  
-storykit: true
 ---
 
 **Fort Road, Broadstairs**   

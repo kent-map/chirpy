@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-richborough/
 published: true
 toc: false  
-storykit: true
 ---
 
 

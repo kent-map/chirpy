@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-dover/
 published: true
 toc: false  
-storykit: true
 ---
 
 

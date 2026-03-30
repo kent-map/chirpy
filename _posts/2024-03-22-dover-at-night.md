@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_
 permalink: /placesad/dover-at-night/
 published: true
 toc: false  
-storykit: true
 ---
 
 

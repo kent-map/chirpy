@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/be/Church_Street%2C_St_P
 permalink: /21c/21c-sin-of-omission/
 published: true
 toc: false  
-storykit: true
 ---
 
 

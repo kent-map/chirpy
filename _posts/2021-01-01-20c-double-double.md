@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a
 permalink: /20c/20c-double-double/
 published: true
 toc: false  
-storykit: true
 ---
 
 It was 1969, and in the fictional coastal North Kent town of Brindown, things would never be the same after the visit of Bruno and the Hermetic Tradition…    

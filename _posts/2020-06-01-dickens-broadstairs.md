@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/8/8a/From_the_gardens%2C_B
 permalink: /dickens/dickens-broadstairs/
 published: true
 toc: false  
-storykit: true
 ---
 
 **Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.   

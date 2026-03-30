@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29
 permalink: /19c/19c-austen-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 **16 December 1775 - 18 July 1817**    

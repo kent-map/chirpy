@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/ab/Scotney_Castle_with_w
 permalink: /nesbit/nesbit-scotney/
 published: true
 toc: false  
-storykit: true
 ---
 
 

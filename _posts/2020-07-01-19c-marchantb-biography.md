@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/45/A_selection_of_books_
 permalink: /19c/19c-marchantb-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

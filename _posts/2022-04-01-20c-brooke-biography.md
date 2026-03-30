@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/80704dae
 permalink: /20c/20c-brooke-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for _The Orchid Trilogy_, which comprises _The Military Orchid_ (1948), _A Mine of Serpents_ (1949) and _The Goose Cathedral_ (1950), and _The Dog at Clambercrown_ (1955), strange, haunting and digressive works which mix fictionalised autobiography, literary criticism, psychology and botany. In these, and his novels such as _The Scapegoat_ (1948) and _The Image of a Drawn Sword_ (1950), he portrays his ‘own mythopoeic vision of [his] favourite landscapes’[^ref1] or ‘a country of the mind,’[^ref2] a transfigured version of his beloved Bishopsbourne and its surroundings, by turns Edenic and disturbing.

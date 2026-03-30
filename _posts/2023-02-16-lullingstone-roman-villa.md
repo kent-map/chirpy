@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lu
 permalink: /built/lullingstone-roman-villa/
 published: true
 toc: false  
-storykit: true
 ---
 
 'If jealous Juno had seen the swimming of the bull, she might more justly have gone to the halls of Aelous'   

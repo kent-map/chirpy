@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Medway%2C_Chatham
 permalink: /19c/19c-chatham-dockyard/
 published: true
 toc: false  
-storykit: true
 ---
 
 

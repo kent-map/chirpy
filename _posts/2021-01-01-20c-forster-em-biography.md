@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3df3254
 permalink: /20c/20c-forster-em-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in _The Longest Journey_, on his Tonbridge experience.[^ref2]

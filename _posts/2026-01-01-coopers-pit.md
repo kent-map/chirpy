@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a6/Cooper%27s_Pit.jpg
 permalink: /landscape/coopers-pit/
 published: true
 toc: false  
-storykit: true
 ---
 
 

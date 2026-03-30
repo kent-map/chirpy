@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Cathedral_
 permalink: /landscape/cathedral-landscape/
 published: true
 toc: false  
-storykit: true
 ---
 
 

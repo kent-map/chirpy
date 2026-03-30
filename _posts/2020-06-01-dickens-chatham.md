@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/8/88/Elevation_and_Plan_of
 permalink: /dickens/dickens-chatham/
 published: true
 toc: false  
-storykit: true
 ---
 
 John Dickens was based at [Chatham Dockyard]({{ site.baseurl }}/19c/19c-chatham-dockyard), working for the Naval Pay Office between 1816-1822.   

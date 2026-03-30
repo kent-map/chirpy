@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/01/Fadenstielige_Rose_Ko
 permalink: /21c/21c-back-path-hirst/
 published: true
 toc: false  
-storykit: true
 ---
 
 I’ve known this cottage path for over half my life,    

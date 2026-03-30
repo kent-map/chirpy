@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/7/78/Sheep_in_a_Landscape_
 permalink: /20c/20c-nethersole-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 ‘Yonder a meadow down whose length a flock of sheep were folded on successive days; against the horizon line stretched the free downs, owned by none, belonging to all; here sheep might feed, cattle might browse, but no man must fence them in, or if he did the poorest wayfarer might break it down.’ – _Wilsam_, 1913.[^ref1]

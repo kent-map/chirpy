@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9ac45485
 permalink: /20c/20c-johnson-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

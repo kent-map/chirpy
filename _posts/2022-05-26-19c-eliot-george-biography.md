@@ -11,7 +11,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2251af4a
 permalink: /19c/19c-eliot-george-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

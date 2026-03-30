@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/14/Julius_Olsson-The_Nig
 permalink: /20c/20c-morey-ford-biography/
 published: true
 toc: false
-storykit: true
 ---
 
 ‘All through the night a terrific bombardment had been maintained, and even when the first grey line of dawn began to creep across the downs the insistent fury of the guns increased rather than diminished’ (_The Raid of Dover_ 14)   

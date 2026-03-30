@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Don_John_Grove%2C_wit
 permalink: /19c/19c-brent-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 ‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as [Canterbury](Q29303).’ 

@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125
 permalink: /21c/21c-canterbury-covid/
 published: true
 toc: false  
-storykit: true
 ---
 
 

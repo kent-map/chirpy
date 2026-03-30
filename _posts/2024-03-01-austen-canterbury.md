@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/15/Canterbury_LCCN200369
 permalink: /austen/austen-canterbury/
 published: true
 toc: false  
-storykit: true
 ---
 
 

@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Tree_roundels_and_blo
 permalink: /landscape/tree-roundels/
 published: true
 toc: false  
-storykit: true
 ---
 
 Tree roundels are a feature of silvopastoral agroforestry, which is the planting of trees on grazing land. It has been practised for hundreds of years, although has seen a decline since the 1850s.[^ref1]  Often formed of oak, these dense circular clusters of trees provide shade for grazing animals whilst also protecting the younger saplings from strong winds.[^ref2] They provide critical habitats for many insect and plant species and act as “an island or stepping stone" for wildlife across open fields.[^ref3] Their catkins are a source of pollen for bees, and their dense, evergreen canopy offers year-round shelter for birds. 

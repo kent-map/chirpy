@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b509124b
 permalink: /canterbury/20c-canterbury-floods/
 published: true
 toc: false  
-storykit: true
 ---
 
 

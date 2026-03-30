@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-
 permalink: /20c/20c-hop-picking/
 published: true
 toc: false  
-storykit: true
 ---
 
 "A Kentish hop-garden, in the month of September, is one of the prettiest scenes to be witnessed in any part of the country."

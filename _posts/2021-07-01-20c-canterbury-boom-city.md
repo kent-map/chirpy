@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Allotments%2C_Canterb
 permalink: /canterbury/20c-canterbury-boom-city/
 published: true
 toc: false  
-storykit: true
 ---
 
 

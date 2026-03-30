@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Fol
 permalink: /19c/19c-grossmith-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

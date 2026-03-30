@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Verena_Holmes_Buildin
 permalink: /canterbury/20c-canterbury-universities/
 published: true
 toc: false  
-storykit: true
 ---
 
 

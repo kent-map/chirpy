@@ -1110,7 +1110,6 @@ image: {kwargs.get('image', '')}
 permalink: {kwargs.get('permalink', '')}
 published: true
 toc: false  
-storykit: true
 ---
 '''
         return fm_str

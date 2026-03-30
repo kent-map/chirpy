@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstair
 permalink: /19c/19c-collins-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 

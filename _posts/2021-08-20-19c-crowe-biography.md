@@ -9,7 +9,6 @@ image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-crowe-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 **Places:** Ivy Hatch, [Borough Green](Q2001391), [Folkestone](Q375314), [Sandwich](Q26163), [Romney Marsh](Q1506093)

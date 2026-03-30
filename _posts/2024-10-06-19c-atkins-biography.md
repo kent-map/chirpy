@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a4/Anna_Atkins_Title_Pag
 permalink: /19c/19c-atkins-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 Anna Atkins, botanist and photographer, was born on the 16 March 1799, in [Tonbridge](Q936183), the daughter of John George Children (1777-1852) and Hester Anna Holwell. Her father's family had been established in the Tonbridge area from at least the early seventeenth century, with property at Nether Street, Hildenborough and Ferox Hall, Tonbridge. Her mother's family lived at Southborough, although Hester was raised by her aunt and uncle at Bishop Down's Grove, Tunbridge Wells.[^ref1] Anna's birth was difficult and afterwards, Hester was "conveyed in a bed carriage to Hastings, from whence she never returned alive".[^ref2] At the age of 20 months old, Anna was motherless; her father in his grief went travelling, leaving her with her grandfather during the early years of her life. 

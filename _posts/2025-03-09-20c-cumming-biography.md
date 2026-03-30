@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/3/33/Marshal_Foch_ridden_b
 permalink: /20c/20c-cumming-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 ‘It was sunny, in the cool, golden way, as on the other days. The trees and hedges, and the grassy line of a hilly field stood out clearly in the pure light, and yet it was impossible to see for a very great distance. A lilac mist hung all round and rose up to meet the sky, where it turned rosy and then gradually melted into the golden rays’ (_Silver Snaffles_, 59).

@@ -9,7 +9,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Joseph_Mallord_Willia
 permalink: /19c/19c-rossetti-biography/
 published: true
 toc: false  
-storykit: true
 ---
 
 D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the [Pre-Raphaelite Brotherhood](Q184814) in 1848.   
