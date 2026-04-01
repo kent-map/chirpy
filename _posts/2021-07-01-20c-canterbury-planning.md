@@ -15,8 +15,6 @@ toc: false
 **Planners versus anti-Planners**   
 After the [war]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) fierce controversy raged over plans for the redevelopment of the city centre. In 1945 the distinguished architect, [Charles Holden](Q1064881), whose most famous building is the University of London’s Senate House, was commissioned to put forward an all-encompassing plan for [Canterbury](Q29303). Holden’s master plan proposed an inner ring road to take traffic out of the High Street, a Civic Way through the bombed area to link the Cathedral to new civic buildings to be built in the Dane John Gardens, [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) hubs and a new [shopping]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) centre. Holden said he did not want to destroy the heritage of the past but in “the city of the future” to enhance Canterbury’s heritage for the future.
 
-{% include embed/image.html src="wc:Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" aspect="0.681" caption="Charles Holden, 1946" %}
-
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f7e87e07-6521-4ea5-99e3-6f2f6594b92b.jpg" aspect="1.503" caption="Dane John Gardens, pre-1918" attribution="Postcard, Valentine's series, no known copyright" %}
 
 However, this meant clearing more old buildings, widening narrow streets and reorganising public spaces, with the general application of reinforced concrete. Holden’s scheme was opposed by an alliance of residents and business owners who formed the Canterbury Citizens' Defence Association (CCDA). Victory for the CCDA anti-planners in the municipal elections of November 1945 meant that no coherent scheme was carried through.
@@ -40,6 +38,7 @@ Butchery Lane is now a wonderful example of how well the heritage of the past an
 
 The new Longmarket, comprising shops and a first-floor terrace courtyard, successfully combines traditional and modern features. The plan was criticised as a bad case of film-set phoney medieval-looking facades, but the outcome, with the provision of the underground [Roman Museum](https://canterburymuseums.co.uk/romanmuseum) is more successful than was feared. The Longmarket terrace affords views of the Cathedral and the attractive plaza area meets a need for public space, affording a view of the full length of the historic thoroughfare through the Parade, High Street and St Peter’s street to the Westgate Towers and the distant hill top vista beyond.
 
+**Whitefriars**   
 The Whitefriars, formerly the site of an Augustinian friary and later the Simon Langton Grammar Schools, though criticised for being oversized, is a model commercial centre of its kind. The bus and coach hub serves well where it was built on the only site in the city centre immediately adjacent to the primary retail development. A well concealed multi-storey car park replaced the 1960s monstrosity, built in the aptly named “brutalist” style. The Whitefriars incorporates residential apartments and has successfully created a new public square where the outline of archaeological excavations is etched into the paving.
 
 {% include embed/image.html src="wc:Austin_Friars_in_Whitefriars%2C_Canterbury.jpg" aspect="1.333" caption="Austin Friars in Whitefriars, Canterbury" %}
