@@ -5,7 +5,7 @@ author: Professor Peter Vujakovic
 date: 2021-02-01
 categories: [ landscape ]
 tags: [ Countryside & farming, Culture & society, Texts & genres, Travel & mobility, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/40fd3c44-43fc-4930-9377-1960db48d73b.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Lupuli_flos.jpg
 permalink: /landscape/20c-encounters-with-others/
 published: true
 toc: false  
