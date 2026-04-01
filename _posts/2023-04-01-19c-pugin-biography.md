@@ -5,7 +5,7 @@ author: Cat Blaker
 date: 2023-04-01
 categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Faith & belief ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/695329b9-cc27-4fe0-8e52-ebb5f65fc00c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Grange%2C_Ramsgate.jpg
 permalink: /19c/19c-pugin-biography/
 published: true
 toc: false  
