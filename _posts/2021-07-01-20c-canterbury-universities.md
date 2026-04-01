@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Culture & society, Towns & cities, Buildings & architecture, Time periods ]
-image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Verena_Holmes_Building_2-JPeilow-1.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/45/Canterbury_Christ_Church_University_-_geograph.org.uk_-_984484.jpg
 permalink: /canterbury/20c-canterbury-universities/
 published: true
 toc: false  
@@ -84,4 +84,4 @@ Formerly a College of Technology, Canterbury College for students aged 16+ has g
 
 Most of the original and 1960s buildings have been demolished in an impressive redevelopment programme, which has won building excellence awards. The smoking area which was a common sight on the adjacent New Dover Road has been relocated to the back of the college.
 
-Banner Image Credit: CanterburyChristChurchUniversity, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+Banner Image Credit: CanterburyChristChurchUniversity, Nigel Chadwick, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
