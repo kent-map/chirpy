@@ -12,8 +12,7 @@ toc: false
 ---
 
 
-### Planners versus anti-Planners
-
+**Planners versus anti-Planners**   
 After the [war]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) fierce controversy raged over plans for the redevelopment of the city centre. In 1945 the distinguished architect, [Charles Holden](Q1064881), whose most famous building is the University of London’s Senate House, was commissioned to put forward an all-encompassing plan for [Canterbury](Q29303). Holden’s master plan proposed an inner ring road to take traffic out of the High Street, a Civic Way through the bombed area to link the Cathedral to new civic buildings to be built in the Dane John Gardens, [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) hubs and a new [shopping]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) centre. Holden said he did not want to destroy the heritage of the past but in “the city of the future” to enhance Canterbury’s heritage for the future.
 
 {% include embed/image.html src="wc:Dr._Charles_Holden%2C_architect%2C_1946_%28crop%29.jpg" aspect="0.681" caption="Charles Holden, 1946" %}
@@ -32,11 +31,8 @@ A compromise plan of 1948 removed the ring road to outside the city walls, where
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
 
-#### The building and rebuilding of the bombed city centre
-
+**The building and rebuilding of the bombed city centre**   
 The structures built in the 1950s and 1960s were at best mediocre and at worst a disgrace. The Burgate, the first street to be rebuilt, was an exception successfully retaining its historical character and interest. The poor post-war developments, particularly in the Longmarket, St George’s Tower area and Whitefriars were demolished and rebuilt in the 1990s.
-
-{% include embed/map.html center="Q26370793" zoom="15" markers="Q26370793" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
 
 Butchery Lane is now a wonderful example of how well the heritage of the past and present can be successfully brought together. One side of the historic lane survived the bombing intact while the other side was destroyed. The medieval timber framed buildings with jettied upper storeys to the west side are enhanced and echoed by the assortment of features of the modern Longmarket centre built to the historic street line to the redeveloped east side. Butchery Lane consequently frames one of the most delightful views of the Cathedral’s Bell Harry Tower.
 
@@ -52,8 +48,7 @@ The Whitefriars, formerly the site of an Augustinian friary and later the Simon 
 
 {% include embed/image.html src="wc:Bus_Station_-_geograph.org.uk_-_746935.jpg" aspect="1.249" caption="Bus station, Canterbury" %}
 
-#### Smaller scale developments in former bomb sites.
-
+**Smaller scale developments in former bomb sites**   
 The 1980s Regency development in Castle Way, the Templars in St Dunstan’s and the former Wool Store and attractive riverside restaurant, built in flint, stone, brick and weatherboarding adjacent to the Sudbury Tower, are successful rebuilds.
 
 St Dunstan’s Street is one of the finest streets in Canterbury. For centuries the principal entrance to the city by the West Gate Towers which stand at the southern end, many of the buildings are of historic and architectural interest. The [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) however left bomb sites to either side of the railway crossing which bisects the street. At the junction of St Dunstan’s Street and Station Road West a corner had been a museum and swimming bath in a timber framed building. A local builder, Walter Cozens, had dismantled and moved the entire structure from Upper Bridge Street to St Dunstan’s in 1908. Destroyed in the bombing raids the site was filled by a petrol filling station and motor bike shop. On demolition of the garage a new Sainsbury’s Local, wrapped around by student residential accommodation, now rounds off the corner. At the junction with Roper Road a National Tyre Depot was built in the 1960s where before the war a terrace of four houses and an individual villa had stood. This site is now retirement housing known as Abbots Lodge. Both redevelopments have replaced negative post war features with buildings in style and character with the historic mix of residential buildings, shops and businesses of the street.
