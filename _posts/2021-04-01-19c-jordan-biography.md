@@ -5,7 +5,7 @@ author: Michelle and Martin Crowther
 date: 2021-04-01
 categories: [ 19c ]
 tags: [ Authors & lives, Arts & performance, Coast & sea, Towns & cities ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/1d/The_Tar_and_the_Jordan%21_%28BM_1868%2C0808.6131%29.jpg
 permalink: /19c/19c-jordan-biography/
 published: true
 toc: false  
@@ -56,7 +56,9 @@ In 1811, the Duke, now under pressure from the royal family to marry, separated 
 
 {% include embed/map.html center="Q736439" zoom="13" markers="Q736439" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
-In the following February, Dora toured [Dover]({{ site.baseurl }}/19c/19c-dover) and [Deal]({{ site.baseurl }}/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s _The School for Scandal_. In the summer she gave 10 performances at Margate – these were to be her last.[^ref21] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she performed on stage, as well as encouraging work by other female playwrights.
+In the following February, Dora toured [Dover]({{ site.baseurl }}/19c/19c-dover) and [Deal]({{ site.baseurl }}/19c/19c-deal), giving performances of Widow Cheerly, Violante, Letitia Hardy, and Lady Teazel in Sheridan’s _The School for Scandal_. In the summer she gave 10 performances at Margate – these were to be her last.[^ref21] The Duke had  withdrawn his support and Mrs Jordan moved to the continent where she was to die in 1816. As well as acting, Dora wrote plays and songs, which she performed on stage, as well as encouraging work by other female playwrights.   
+<br>
+Banner image credit: The Tar and the Jordan! (BM 1868,0808.6131), © The Trustees of the British Museum, released as CC BY-NC-SA 4.0.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Snargate_St_Dover_1830.jpg" aspect="1.64" caption="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd" %}
 
