@@ -1,6 +1,6 @@
 ---
 title: "Canterbury Free Library"
-description: "Canterbury’s Free Library emerged in 1858 as a flagship use of the 1850 Library Act, turning local rates into public access to books, reading rooms, and civic amenities. Ratepayer rules, closed-shelf control systems, and committee gatekeeping shaped who could borrow and what counted as acceptable fiction, sparking disputes over authors such as Mary Braddon. Philanthropy, municipal politics, and wartime use converged in the Beaney building and its evolving catalogues, revealing changing ideas of public culture from the late Victorian era into the twentieth century."
+description: "The Free Library in Canterbury opened in 1858, making it the first in the country to be established under the 1850 Library Act. Early catalogues show the library building on the collections it had acquired from the Canterbury Philosophical and Literary Institution. The library’s readers, from lovers of Mary Braddon to WW1 soldiers, contributed to the changing culture of the city over these years."
 author: Professor Carolyn Oulton
 date: 2025-04-01
 categories: [ 19c ]
