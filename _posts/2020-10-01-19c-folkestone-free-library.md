@@ -1,6 +1,6 @@
 ---
 title: "Folkestone Free Library"
-description: "Folkestone Free Library grew out of the 1850 Libraries Act but faced local resistance to funding fiction and other controversial reading. Changing catalogues, strict rules, and the library indicator reveal how class, gender, and moral authority shaped access to books in late Victorian and early twentieth-century Folkestone."
+description: "Folkestone Free Library opened on the Bayle in 1879, under the Libraries Act of 1850. It moved to Grace Street in April 1888, where it had the advantage of being in the same building as the town’s museum. The library features in in H. G. Wells’s _Kipps_ (1905)."
 author: Professor Carolyn Oulton
 date: 2020-10-01
 categories: [ 19c ]
@@ -17,7 +17,7 @@ Whilst the Libraries Act of 1850 enabled provision of public libraries through t
 
 {% include embed/map.html center="Q26370404" zoom="15" markers="Q26370404" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
-Around twenty years later in 1879 the Folkestone Free Library was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens). Not surprisingly it has no separate heading for fiction at all.   
+Around twenty years later in 1879 the Folkestone Free Library was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens) or [George Eliot](https://kent-maps.online/eliot). Not surprisingly it has no separate heading for fiction at all.   
 When the library was moved from the Bayle to Grace Street in April 1888, it had the advantage of being in the same building as the town’s museum, and was able to provide a reading room, reference room, committee room and separate ladies’ room. One joker in 1893 suggested that the ‘Silence’ notice must have been hidden in the Ladies’ Reading Room;  nonetheless the library was employing female staff by at least 1896.  
 
 {% include embed/image.html src="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" aspect="1.497" caption="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence." %}
