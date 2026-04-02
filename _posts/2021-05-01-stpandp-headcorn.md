@@ -23,7 +23,7 @@ This church, like many, has undergone significant change over its long lifetime,
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c6381b04-426f-4ec9-b281-c62d5f58a539.jpg" aspect="1.333" caption="The view of the church interior, looking east towards the altar." attribution="Andrew Vincent" %}
 
 Many local legends exist about this church. The Old Oak, whose remains lie just outside the church porch, was believed to be a survivor of the great Wealden Forest, and to be over a thousand years old when it was tragically destroyed by a fire in 1989. It is said that both King John I and Queen Elizabeth I sat beneath its shade on their visits to Headcorn. The great tree is survived by its descendant, which stands in the same cemetery just 50 yards away. It is also believed that the Old Oak was used as a means of escape by a prisoner being held in the parvise, which was used as a prison cell for those awaiting transportation to the court at Maidstone or Canterbury. Another popular myth is that the roughly rectangular mound in the east of the cemetery is the remains of a plague pit. Every year countless daffodils bloom on top of the feature the fertility of the ground perhaps giving some credibility to this idea.
-
+<br>
 Banner Image Credit: Saints Peter & Paul church, Headcorn, Jules & Jenny, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99.jpg" aspect="1.561" caption="An old postcard of a colourised picture of the church with the Old Oak by its entrance." %}
