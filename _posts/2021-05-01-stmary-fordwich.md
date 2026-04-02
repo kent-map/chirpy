@@ -5,7 +5,7 @@ author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
 tags: [ Buildings & architecture, Rivers & marshes, Faith & belief, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/71/St_Mary%27s_Church%2C_Fordwich_-_geograph.org.uk_-_7515364.jpg
 permalink: /churches/stmary-fordwich/
 published: true
 toc: false  
@@ -24,7 +24,9 @@ The church itself contains more fascinating relics from all across its history, 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/91852a6e-27d8-488f-9769-662972f4647f.jpg" aspect="1.333" caption="The Fordwich stone which sits in the north aisle. It is difficult to appreciate the intricate and beautiful carving without seeing it in person" attribution="Andrew Vincent" %}
 
-If you find yourself in the city of Canterbury, take the hour’s walk north-east to Fordwich to admire the beautiful little town and its church. Its history reaches back far beyond the arrival of Christianity in England, including: a Roman ford, a limb of the cinque port at Sandwich, the dock for the Caen stone that built Canterbury Cathedral, and the site where one of St Augustine’s tombs may now stand.
+If you find yourself in the city of Canterbury, take the hour’s walk north-east to Fordwich to admire the beautiful little town and its church. Its history reaches back far beyond the arrival of Christianity in England, including: a Roman ford, a limb of the cinque port at Sandwich, the dock for the Caen stone that built Canterbury Cathedral, and the site where one of St Augustine’s tombs may now stand.   
+<br>
+Banner image credit: St Mary's Church, Fordwich by Marathon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c61de6cd-b542-4807-9996-043b0bb4183a.jpg" aspect="0.75" caption="A view of the church’s main entrance and porch, with  better view of the tower, and greater detail of the style of windows mentioned" attribution="Andrew Vincent" %}
 
