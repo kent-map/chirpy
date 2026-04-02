@@ -5,7 +5,7 @@ author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
 tags: [ Faith & belief, Buildings & architecture, Towns & cities, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Graveyard%2C_Church_of_St_Mary_%5E_St_Eanswythe_-_geograph.org.uk_-_6694030.jpg
 permalink: /churches/steanswythe-folkestone/
 published: true
 toc: false  
@@ -24,7 +24,9 @@ After this however, the church remained much the same, surviving (although only 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/28b8ffc8-41e6-4ee0-9670-b325efef6860.jpg" aspect="1.498" caption="The view of the church interior looking west from under the central tower down into the large nave and aisles." attribution="Andrew Vincent" %}
 
-The church itself holds the great and rare privilege of housing the relics of its own namesake. In 1885, in a small cavity in the north wall next to the high altar, workmen found a small lead casket containing the remains of a young woman. Upon further study it was found that they dated from around the seventh century, and were most likely the relics of [St Eanswythe](https://findingeanswythe.uk/) herself, which had been transmuted between each church that had stood in Folkestone over the past millennium. They were re-interred in the same spot, and now sit behind ever-burning candles.
+The church itself holds the great and rare privilege of housing the relics of its own namesake. In 1885, in a small cavity in the north wall next to the high altar, workmen found a small lead casket containing the remains of a young woman. Upon further study it was found that they dated from around the seventh century, and were most likely the relics of [St Eanswythe](https://findingeanswythe.uk/) herself, which had been transmuted between each church that had stood in Folkestone over the past millennium. They were re-interred in the same spot, and now sit behind ever-burning candles.   
+<br>
+Banner image credit: Graveyard, Church of St Mary & St Eanswythe by N Chadwick, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6962033a-cf74-425e-b4a9-bb9964c7cea0.jpg" aspect="0.75" caption="The view of the high alter surrounded by beautifully carved marble which was added during Matthew Woodward’s restorations. In the bottom left-hand corner you can see two candles and a small portrait. These stand next to the reliquary of St Eanswythe." attribution="Andrew Vincent" %}
 
