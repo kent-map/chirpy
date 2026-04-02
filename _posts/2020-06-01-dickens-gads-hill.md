@@ -1,6 +1,6 @@
 ---
 title: "Gad's Hill, Higham"
-description: "Dickens bought Gad’s Hill in Higham in 1856, from fellow novelist Eliza Lynn Linton. He had admired the house as a child, and returning here as a famous author allowed him to mark his adult status as well as providing a country home with good routes to London. After his death the house became a key location for literary pilgrims.."
+description: "Dickens bought Gad’s Hill in Higham in 1856, from fellow novelist Eliza Lynn Linton. He had admired the house as a child, and returning here as a famous author allowed him to mark his adult status as well as providing a country home with good routes to London. After his death the house became a key location for literary pilgrims."
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
