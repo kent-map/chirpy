@@ -1,6 +1,6 @@
 ---
 title: "Charles Dickens (1812-1870)"
-description: "Prof. Carolyn Oulton discusses Kent in the work of Charles Dickens who lived in the county as both a child and world-famous author."
+description: "Charles Dickens lived in Kent between 1816 and 1822 and returned for holidays, before moving to Gad's Hill, near Rochester, for the last fourteen years of his life."
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
