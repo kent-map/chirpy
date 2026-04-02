@@ -5,7 +5,7 @@ author: Alexa Barrett
 date: 2021-02-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Towns & cities, Representation & interpretation ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e9/William_Harvey%2C_General_view_of_King%27s_School_Canterbury._Wellcome_M0016089.jpg
 permalink: /19c/19c-walpole-biography/
 published: true
 toc: false  
@@ -38,7 +38,9 @@ Alongside schooling, Walpole’s time in Kent draws reference to reading. It is 
 {% include embed/map.html center="Q725261" zoom="12" markers="Q725261" allmaps="e401b16b2669a50d~OS SE 1903" %}
 
 For The King’s School as a possible ‘original’ of Dr Strong’s Academy in _David Copperfield_ see [David Copperfield: a Curated Walk](https://www.kent-maps.online/dickens/david-copperfield-curated-walk/). Walpole wrote the film adaptation for Metro-Goldwyn-Mayer in 1935 and played a minor part himself.
-Later diary entries reference Walpole’s friendship with another Kent author, [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography). Other literary friends and acquaintances with a Kent connection include [Elizabeth von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) and [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography). The archive of [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography) material held by [ICVWW](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/centre-for-victorian-women-writers.aspx) includes reviews of his work, suggesting that she admired his writing. However fellow author [Somerset Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) would notoriously pillory Walpole as Alroy Kear in _Cakes and Ale_.
+Later diary entries reference Walpole’s friendship with another Kent author, [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography). Other literary friends and acquaintances with a Kent connection include [Elizabeth von Arnim]({{ site.baseurl }}/20c/20c-vonarnim-biography) and [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography). The archive of [Sarah Grand]({{ site.baseurl }}/19c/19c-grand-biography) material held by [ICVWW](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/centre-for-victorian-women-writers.aspx) includes reviews of his work, suggesting that she admired his writing. However fellow author [Somerset Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) would notoriously pillory Walpole as Alroy Kear in _Cakes and Ale_.   
+<br>
+Banner image credit: William Harvey, General view of King's School Canterbury. Wellcome M0016089, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons.
 
 {% include embed/image.html src="wc:Joseph_Conrad_1916.jpg" aspect="0.758" caption="Joseph Conrad, 1916" %}
 
