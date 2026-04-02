@@ -5,7 +5,7 @@ author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
 tags: [ Buildings & architecture, Coast & sea, Faith & belief, Arts & performance, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/62/St_John%2C_Small_Hythe_01.jpg
 permalink: /churches/stjohn-smallhythe/
 published: true
 toc: false  
@@ -24,7 +24,9 @@ However, only eight years after this in 1514, a fire tore through Small Hythe, t
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/68c5b8c3-5fec-4cab-893b-5edf940aa5a7.jpg" aspect="0.75" caption="The view of the chancel screen and wainscotting from the high altar. Note how plain the carving is from this side of the screen, when viewed from the other side, it is highly decorative" attribution="Andrew Vincent" %}
 
-[Ellen Terry]({{ site.baseurl }}/20c/20c-terry-biography) lived at [Small Hythe Place](https://www.nationaltrust.org.uk/smallhythe-place) for nearly thirty years, and attended the church. She died on the 23rd of July, 1928, at the age of 81. Her [funeral]({{ site.baseurl }}/20c/20c-terry-funeral) was a happy occasion, where the attendees wore summer dresses and sang the jollier hymns. She was cremated, and placed in a silver urn in the actor’s church, St Paul’s, Covent Garden.
+[Ellen Terry]({{ site.baseurl }}/20c/20c-terry-biography) lived at [Small Hythe Place](https://www.nationaltrust.org.uk/smallhythe-place) for nearly thirty years, and attended the church. She died on the 23rd of July, 1928, at the age of 81. Her [funeral]({{ site.baseurl }}/20c/20c-terry-funeral) was a happy occasion, where the attendees wore summer dresses and sang the jollier hymns. She was cremated, and placed in a silver urn in the actor’s church, St Paul’s, Covent Garden.   
+<br>
+Banner image credit: St John, Small Hythe, Poliphilo, CC0, via Wikimedia Commons.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/29dd64d3-531b-479f-b993-f0fc7c206cef.jpg" aspect="0.648" caption="Ellen Terry as Imogen" %}
 
