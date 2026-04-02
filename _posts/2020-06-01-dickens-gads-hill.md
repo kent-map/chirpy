@@ -1,6 +1,6 @@
 ---
 title: "Gad's Hill, Higham"
-description: "Gad’s Hill Place in Higham anchors Charles Dickens’s long-held ambition to live in the house he admired as a child, realized with his 1856 purchase and lasting until his death in 1870. Pilgrimage accounts and rooftop viewpoints link the site to London and the Thames, showing how literary fame, landscape, and tourism turned a private home into a destination."
+description: "Dickens bought Gad’s Hill in Higham in 1856, from fellow novelist Eliza Lynn Linton. He had admired the house as a child, and returning here as a famous author allowed him to mark his adult status as well as providing a country home with good routes to London. After his death the house became a key location for literary pilgrims.."
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
