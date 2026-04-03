@@ -1,6 +1,6 @@
 ---
 title: "Angela Burdett-Coutts, 1814-1906"
-description: "In this visual essay, Professor Carolyn Oulton traces the Kent visits and interactions with Charles Dickens et al of heiress and philanthropist Angela Burdett-Coutts."
+description: "Angela Burdett-Coutts was a wealthy philanthropist and had close ties with figures including Dickens and the Duke of Wellington. She stayed in Kent on various occasions and donated a lifeboat to Margat."
 author: Professor Carolyn Oulton
 date: 2021-08-01
 categories: [ 19c ]
