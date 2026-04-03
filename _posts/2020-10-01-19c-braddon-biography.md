@@ -1,6 +1,6 @@
 ---
 title: "M. E. Braddon (1835-1915)"
-description: "Carolyn Oulton considers the Kent visits of actress and author Mary E Braddon and her family and their influence on her writing."
+description: "Novelist Mary E Braddon visited Ramsgate and set part of Aurora Floyd in Kent. In another of her novels she ironises the trend for foreign travel,  suggesting that a character who claims to have travelled abroad has in fact got no further than Thanet."
 author: Professor Carolyn Oulton
 date: 2020-10-01
 categories: [ 19c ]
