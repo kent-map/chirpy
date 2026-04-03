@@ -1,6 +1,6 @@
 ---
 title: "Alfred Austin (1835-1913)"
-description: "Alfred Austin’s career as Poet Laureate unfolds through sharp contemporary criticism, local political controversy, and the quieter success of his prose on gardening. Swinford Old Manor near Ashford anchors a portrait of his social networks, Tory affiliations, and the legacy of The Garden That I Love alongside his much-mocked royal verse."
+description: "Alfred Austin faced the invidious prospect of succeeding Tennyson as Poet Laureate. Something of the popular response is captured in one local newspaper's observation that ‘A poet ought to be able to write poetry.' Austin was however a talented gardener and his published account of his own garden in Ashford enjoyed a degree of success."
 author: Professor Carolyn Oulton
 date: 2022-11-01
 categories: [ 19c ]
