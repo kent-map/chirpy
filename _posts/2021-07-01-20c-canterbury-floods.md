@@ -1,6 +1,6 @@
 ---
 title: "Floods in Canterbury, 1909"
-description: "Canterbury was one of the areas affected by floods in November 1909, with local schools being closed and post being delivered by boat."
+description: "Canterbury was one of the areas affected by floods in November 1909, with local schools being closed and post being thrown through upstairs windows."
 author: Professor Carolyn Oulton
 date: 2021-07-01
 categories: [ canterbury ]
