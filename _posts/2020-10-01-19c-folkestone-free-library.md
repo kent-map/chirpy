@@ -1,6 +1,6 @@
 ---
 title: "Folkestone Free Library"
-description: "Folkestone Free Library opened on the Bayle in 1879, under the Libraries Act of 1850. It moved to Grace Street in April 1888, where it had the advantage of being in the same building as the town’s museum. The library features in in H. G. Wells’s *Kipps* (1905)."
+description: "Folkestone Free Library opened on the Bayle in 1879, under the Libraries Act of 1850. It moved to Grace Street in April 1888, where it had the advantage of being in the same building as the town’s museum. The library features in in H. G. Wells’s Kipps (1905)."
 author: Professor Carolyn Oulton
 date: 2020-10-01
 categories: [ 19c ]
