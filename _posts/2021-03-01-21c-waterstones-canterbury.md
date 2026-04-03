@@ -5,17 +5,13 @@ author: Dr. Martin Latham
 date: 2021-03-01
 categories: [ 21c ]
 tags: [ Towns & cities, Culture & society, Literary places, Buildings & architecture, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/21c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Waterstones%2C_Canterbury.jpg
 permalink: /21c/21c-waterstones-canterbury/
 published: true
 toc: false  
 ---
 
-Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Canterbury](Q29303) and talking in Waterstones. It’s one of many moments from the bookshop I have run in the city for 30 years, at 20-21 St Margaret’s Street, and since 2019 at 7-8 Rose Lane. I came here to open the shop because of the resonance ‘Canterbury’ has: of words, of pilgrimage, of longing and of some pan-European Boccaccian earthiness, a visionary mist my city of London had only in certain parts, on certain days.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/21c/Waterstones_March_2021_MJC.jpg" aspect="1.333" caption="Waterstones, Rose Lane, Canterbury" attribution="Photogaphed by Martin Crowther, March 2021" %}
-
-[Canterbury]({{ site.baseurl }}/canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
+Somewhere in the TV archives is a 1991 film of Julian Barnes walking around [Canterbury](Q29303) and talking in Waterstones. It’s one of many moments from the bookshop I have run in the city for 30 years, at 20-21 St Margaret’s Street, and since 2019 at 7-8 Rose Lane. I came here to open the shop because of the resonance ‘Canterbury’ has: of words, of pilgrimage, of longing and of some pan-European Boccaccian earthiness, a visionary mist my city of London had only in certain parts, on certain days. [Canterbury]({{ site.baseurl }}/canterbury) did not disappoint. Unlike many ‘pretty’ UK cities it gets lots of worldwide visitors. The locals even moan about them, and they did that anciently too. Like or not, Canterbury belongs to the world, as much as Venice and Compostela. Poised between London and Paris, Roman and Christian, Catholic and Protestant,  it has a Triestian liminality which may not be apparent from its chain store facades.
 
 {% include embed/image.html src="wc:Canterbury%2C_High_Street_02.jpg" aspect="1.333" caption="Canterbury High Street" %}
 
