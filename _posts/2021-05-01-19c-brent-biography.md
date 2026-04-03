@@ -1,6 +1,6 @@
 ---
 title: "John Brent (1808-1882)"
-description: "John Brent shaped nineteenth-century Canterbury as a mayor, political campaigner, poet, and antiquarian whose writing helped define the city’s historic identity. His career links local civic reform and international causes with literary production and the preservation of Canterbury’s past in Canterbury in the Olden Time."
+description: "Poet John Brent was a political campaigner and 3-times Mayor Canterbury. He was also a member of the Kent Archaeological Society and is best known for his 1860 Canterbury in the Olden Time."
 author: Professor Carolyn Oulton
 date: 2021-05-01
 categories: [ 19c ]
