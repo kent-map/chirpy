@@ -5,7 +5,7 @@ author: Prof Peter Vujakovic
 date: 2020-12-01
 categories: [ landscape ]
 tags: [ Nature & environment, Coast & sea, Science & ideas, Literary places, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/79/Anon_-_Coastal_Landscape_near_Dover_-_12018.jpg
 permalink: /landscape/kentish-chalk/
 published: true
 toc: false  
