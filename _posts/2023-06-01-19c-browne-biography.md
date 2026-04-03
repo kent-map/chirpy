@@ -1,6 +1,6 @@
 ---
 title: "Hablot K. Browne (Phiz) (1815-1882)"
-description: "Prof. Carolyn Oulton traces artist, etcher and illustrator Hablot K. Browne's connections to Kent."
+description: "Hablot K. Browne (Phiz) illustrated work on Rochester and Margate. His association with Dickens began and ended with The Pickwick Papers and A Tale of Two Cities, both of which have scenes set in Kent."
 author: Professor Carolyn Oulton
 date: 2023-06-01
 categories: [ 19c ]
