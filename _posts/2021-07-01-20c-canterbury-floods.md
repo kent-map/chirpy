@@ -1,6 +1,6 @@
 ---
 title: "Floods in Canterbury, 1909"
-description: "Severe rains and a storm in early November 1909 flooded Canterbury and other low-lying parts of Kent, damaging hundreds of homes and forcing rescues by boat. Newspaper reports and school accounts reveal how the disruption fell hardest on working-class streets while also becoming a spectacle for students and prompting public messages of sympathy."
+description: "Canterbury was one of the areas affected by floods in November 1909, with local schools being closed and post being delivered by boat."
 author: Professor Carolyn Oulton
 date: 2021-07-01
 categories: [ canterbury ]
