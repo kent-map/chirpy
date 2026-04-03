@@ -31,6 +31,9 @@ _Sometimes in winter, when the trees were thinned of leaves, the chimneys of emp
 
 The chalk dust permeates numerous literary landscapes, including those of [Dickens]({{ site.baseurl }}/dickens/dickens-biography), Belloc, Thomas Ingoldsby (the Rev. Richard Harris Barham), and [Jocelyn Brooke]({{ site.baseurl }}/20c/20c-brooke-biography).
 
+{% include embed/image.html src="wc:20170717Origanum vulgare2.jpg" aspect="1.208" caption="Wild Marjoram" %}
+
+
 ### Bibliography
 
 Huxley, Thomas (1868) On a Piece of Chalk, _Macmillan's Magazine_, Collected Essays VIII https://mathcs.clarku.edu/huxley/CE8/Chalk.html   
