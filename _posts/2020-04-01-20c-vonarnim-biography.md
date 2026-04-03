@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)"
-description: "Elizabeth von Arnim’s comic novel The Caravaners turns a 1907 caravanning trip into a satire of English holiday-making across Kent and Sussex. A boorish narrator steers readers through Chatham, Leeds Castle, the Medway and Canterbury, exposing how guidebooks, scenery, and local landmarks become props for self-importance rather than understanding place."
+description: "Elizabeth von Arnim’s comic novel The Caravaners is based on a real holiday in the summer of 1907. It is narrated by a pompous German tourist, whose lack of aesthetic sense distances him from his companions; but also allows the author to poke fun at more self-conscious lovers of the picturesque."
 author: Carolyn Oulton
 date: 2020-04-01
 categories: [ 20c ]
@@ -17,7 +17,7 @@ _‘We journeyed that day towards Canterbury, a town you, my friends, may or may
 
 {% include embed/map.html center="Q29303" zoom="12.5" markers="Q29303" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
 
-_The Caravaners_ follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.
+_The Caravaners_ follows the German Baron von Ottringel on holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel.
 
 Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is reminiscent of [Jerome K. Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)’s _Three Men in a Boat_ in its loving depiction of holiday disaster. The real holiday on which it is based took place in the wet summer of 1907. The itinerary included Chatham, Leeds Castle, [Sandgate]({{ site.baseurl }}/placesqz/sandgate-overview/) (to see [H. G. Wells]({{ site.baseurl }}/20/20c-wellshg-biography)), Great Chart (where they were joined by [E.M. Forster]({{ site.baseurl }}/20c/20c-forster-em-biography)) Staplehurst, Sissinghurst, (later the home of [Vita Sackville-West]({{ site.baseurl }}/20c/20c-sackville-west)), Aylesford and [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home) as well as parts of Sussex.[^ref1] 
 
