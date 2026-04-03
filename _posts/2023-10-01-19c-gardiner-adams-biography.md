@@ -1,6 +1,6 @@
 ---
 title: "Henry Gardiner Adams (1812-1881)"
-description: "Professor Carolyn Oulton explores the life and work of Deal (Kent) born poet Henry Gardiner Adams."
+description: "Henry Gardiner Adams was born in the same year as Dickens and is now remembered largely for his connection to the famous author. But Adams was himself a poet and editor, with collaborators including the artist Richard Dadd."
 author: Professor Carolyn Oulton
 date: 2023-10-01
 categories: [ 19c ]
