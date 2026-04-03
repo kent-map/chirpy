@@ -13,10 +13,8 @@ toc: false
 
 
 _Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?_   
-‘The Broken Men’, Rudyard Kipling (1901)
-
-{% include embed/image.html src="wc:The_White_Cliffs_of_Dover.jpg" aspect="1.333" caption="The White Cliffs of Dover" %}
-
+‘The Broken Men’, Rudyard Kipling (1901)   
+<br>
 The magnificent Lord Warden Hotel (now offices) was one of the first sights to greet people landing at Dover’s Admiralty Pier. It stood close by Shakespeare’s Cliff (named for a scene in _King Lear_) and had clear views of the iconic white cliffs and castle to the north. Literary guests included [Dickens]({{ site.baseurl }}/dickens/dickens-biography), [Thackeray]({{ site.baseurl }}/19c/19c-thackeray-biography), [George Eliot]({{ site.baseurl }}/19c/19c-eliot-george-biography), and [M.R. James]({{ site.baseurl }}/20c/20c-jamesmr-biography) (born at nearby Goodnestone). 
 
 {% include embed/image.html src="wc:Lord_Warden_Square%2C_Dover-geograph-4258137-by-Chris-Whippet.jpg" aspect="1.333" caption="Shakespeare Cliff, Dover" %}
@@ -27,11 +25,11 @@ In his classic essay ‘On a Piece of Chalk’ (_Macmillan's Magazine_, 1868) Da
 
 {% include embed/image.html src="wc:White_Cliffs_of_Dover_09.JPG" aspect="1.333" caption="White Cliffs of Dover" %}
 
-Formed between 70 to 100 million years ago chalk is a soft, very pure form of limestone, consisting of over ninety-five percent calcium carbonate. It is largely composed of coccoliths, minuscule calcareous platelets secreted by marine plankton that lived in the warm seas that covered much of Europe. Chalk forms one of the most impressive of the Kent landscapes, the North Downs (designated an Area of Outstanding Natural Beauty (AONB)). The southward facing scarp slope provides views across the Weald and is etched with steep sided coombes (dry valleys).
+Formed between 70 to 100 million years ago chalk is a soft, very pure form of limestone, consisting of over ninety-five percent calcium carbonate. It is largely composed of coccoliths, minuscule calcareous platelets secreted by marine plankton that lived in the warm seas that covered much of Europe. Chalk forms one of the most impressive of the Kent landscapes, the North Downs (designated an Area of Outstanding Natural Beauty (AONB)). The southward facing scarp slope provides views across the Weald and is etched with steep sided coombes (dry valleys).   
+<br>
+For those who know the chalk, this quotation from [H. E. Bates]({{ site.baseurl }}/20c/20c-bates-biography), particularly the fine line about beech woods as ‘vast bearskins’, summons the seasons and the scenes, even today. It is taken from the short story ‘Now Sleeps the Crimson Petal’, a study of social transformation in post-war Kent (first published in _Harper's Bazaar_ in 1957) and its title from Tennyson’s poem of the same name:   
 
 {% include embed/image.html src="wc:Chalk_%28%22Upper_Chalk%22_Formation%2C_Upper_Cretaceous%3B_White_Cliffs_of_Dover%2C_England%2C_southern_Britain%29.jpg" aspect="1.208" caption="Upper Chalk Formation, Upper Cretaceous; White Cliffs of Dover, England, southern Britain" %}
-
-For those who know the chalk, this quotation from [H. E. Bates]({{ site.baseurl }}/20c/20c-bates-biography), particularly the fine line about beech woods as ‘vast bearskins’, summons the seasons and the scenes, even today. It is taken from the short story ‘Now Sleeps the Crimson Petal’, a study of social transformation in post-war Kent (first published in _Harper's Bazaar_ in 1957) and its title from Tennyson’s poem of the same name:   
 
 _Sometimes in winter, when the trees were thinned of leaves, the chimneys of empty houses, the mansions of the late gentry, rose starkly from behind deep thick beechwoods that were thrown like vast bearskins across the chalk. In summer the chalk flowered into a hill garden of wild yellow rock-rose, wild marjoram, and countless waving mauve scabious covered on hot afternoons with nervous darting butter-flies._  
 
