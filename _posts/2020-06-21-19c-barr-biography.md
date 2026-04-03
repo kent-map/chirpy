@@ -1,6 +1,6 @@
 ---
 title: "Robert Barr (1849-1912)"
-description: "﻿Professor Carolyn Oulton documents humourist Robert Barr's visit to Folkestone in 1890."
+description: "﻿New humourist Robert Barr (alias Luke Sharp) visited Folkestone in 1890 and made several contributions to the local journal edited by his friend 'Hal Bert'."
 author: Professor Carolyn Oulton
 date: 2020-06-21
 categories: [ 19c ]
