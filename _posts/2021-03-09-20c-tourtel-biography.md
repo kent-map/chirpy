@@ -5,7 +5,7 @@ author: Grace Conium
 date: 2021-03-09
 categories: [ 20c ]
 tags: [ Authors & lives, Texts & genres, Towns & cities, Countryside & farming ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2a/Sidney_Cooper_Gallery%2C_Canterbury.jpg
 permalink: /20c/20c-tourtel-biography/
 published: true
 toc: false  
