@@ -1,6 +1,6 @@
 ---
 title: "Goodwin Sands"
-description: "Goodwin Sands shipwrecks and salvage off Broadstairs shaped Charles Dickens’s coastal imagination, with letters recording dead cattle hauled onto the pier and the spectacle of storms. Views from Fort House and the nearby North Foreland Lighthouse link the hazardous sandbank to Dickens’s writing of David Copperfield and its memorable storm and drowning scenes."
+description: "The Goodwin Sands, about 7 miles off the coast of Broadstairs, were notoriously dangerous in stormy weather. Dickens vividly describes the impact of a storm in 1851, while he was staying in Broadstairs."
 author: Professor Carolyn Oulton
 date: 2020-05-01
 categories: [ dickens ]
