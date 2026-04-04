@@ -1,6 +1,6 @@
 ---
 title: "Crime Fiction"
-description: "Crime fiction turned Kent’s railway stations, seaside resorts, and marshland into stages for mystery from the sensation novel to the Golden Age. Trains and holiday travel feed narratives of danger in works by writers such as Arthur Conan Doyle, J. S. Fletcher, and Freeman Wills Crofts, while places like Folkestone, Margate, Rochester, and Romney Marsh anchor the genre’s local imagination."
+description: "Both the 1860s sensation novel, and the 1920s and ‘30s ‘Golden Age’ of crime fiction found inspiration in Kent settings. A number of these novels were set in seaside resorts, and appealed directly to the holiday market."
 author: Professor Carolyn Oulton
 date: 2023-06-01
 categories: [ crime ]
