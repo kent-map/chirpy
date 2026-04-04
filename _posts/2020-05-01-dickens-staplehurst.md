@@ -1,6 +1,6 @@
 ---
 title: "Staplehurst Railway Disaster 1865"
-description: "The Staplehurst railway disaster of 1865 jolted Charles Dickens’s private life into public danger as he travelled from France with Ellen Ternan and her mother. The crash, rescue efforts, and salvaging of Our Mutual Friend expose how Victorian celebrity depended on controlling scandal and protecting reputation even amid mass casualty."
+description: "Dickens was involved in the Staplehurst railway disaster of 9 June 1865, when the tidal train from Folkestone was derailed by a partially repaired bridge. He carefully concealed the damaging detail that he had been travelling with Ellen Ternan and her mother."
 author: Professor Carolyn Oulton
 date: 2020-05-01
 categories: [ dickens ]
