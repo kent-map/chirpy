@@ -829,3 +829,7 @@ iframe[src^="https://cdn.knightlab.com/"] {
     padding: 0;
     border: 0;
 }
+
+.preview-img img {
+    width: 100%;
+}
