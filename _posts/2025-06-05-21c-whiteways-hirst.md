@@ -1,6 +1,6 @@
 ---
 title: "Whiteways"
-description: "Whiteways near Northbourne and Updown emerges as a chalk-bright track linking Saxon graves to working fields, where each season reshapes light, color, and sound. Bees over knapweed, storm-rusted woods, and geese heading for Hacklinge Marsh trace a lived ecology that folds deep time into ordinary rural motion."
+description: "A sensory walk through the seasons takes in the natural and built environment. The poem follows the road from Saxon graves to Judd’s Cottages, directing the reader’s gaze to honeybees and larks, woods and oaks."
 author: Diana Hirst
 date: 2025-06-05
 categories: [ 21c ]
