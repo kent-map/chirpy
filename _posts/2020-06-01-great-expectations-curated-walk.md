@@ -1,6 +1,6 @@
 ---
 title: "Great Expectations - a curated walk"
-description: "In this visual essay Ken Moffat and Carolyn Oulton trace Pip's journies through the flat marshlands of the north Kent coast as detailed in Dicken's Great Expectations."
+description: "Pip Pirrip famously wants to be a gentleman. The topography of his childhood world is subtly altered by Dickens to show the choices he makes, and the limits of his agency in the pre-Victorian landscape."
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
