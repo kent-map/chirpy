@@ -1,6 +1,6 @@
 ---
 title: "The Guildhall, Rochester"
-description: "Ken Moffat and Carolyn Oulton introduce The Guildhall, Rochester a prominent place in Charles Dicken's Great Expectations."
+description: "In Great Expectations Pip is 'bound' at the Guildhall to be Joe's apprentice, prefiguring the many instances in the novel where characters are trapped, imprisoned or bound to each other by their shared history."
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
