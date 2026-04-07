@@ -1,6 +1,6 @@
 ---
 title: " R. Austin Freeman (1862-1943)"
-description: "Prof. Carolyn Oulton introduces the life and work of Doctor and pioneering crime writer R. Austin Freeman after his move to Kent in 1896."
+description: "R. Austin Freeman is believed to have invented the ‘inverted’ crime story, although fellow crime writer Julian Symons likened reading his work to chewing dry straw."
 author: Carolyn Oulton
 date: 2021-04-01
 categories: [ 20c ]
