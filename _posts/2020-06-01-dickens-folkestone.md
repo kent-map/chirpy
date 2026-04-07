@@ -1,6 +1,6 @@
 ---
 title: "Dickens and Folkestone"
-description: "Charles Dickens’s stays in Folkestone link seaside holidays, local hospitality, and the start of Little Dorrit to a specific harbour landscape and railway-age mobility. Letters, journalism in Household Words, and later commentary show how the town’s class-coded leisure spaces and cultural life shaped both Dickens’s experience and the place’s literary afterlife."
+description: "The Pavilion Hotel in Folkestone is directly referenced in Dickens’s article ‘Out of Town’ in 1855. He also wrote the opening chapters of Little Dorrit in Folkestone."
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
@@ -27,7 +27,7 @@ Whilst he is more often associated with [Broadstairs]({{ site.baseurl }}/dickens
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/976ac6dd-9111-43f0-8d31-ddc807990e24.jpg" aspect="1.326" caption="3, Albion Villas" attribution="Martin Crowther" %}
 
-His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
+His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone]({{ site.baseurl }}/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them. [^ref4] In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Smaller_pavilionstone.jpg" aspect="0.752" caption="Pavilionstone" attribution="Published by the Frederick Hotels Group, 1902" %}
 
