@@ -1,6 +1,6 @@
 ---
 title: "Eastgate House, Rochester"
-description: "Eastgate House in Rochester anchors Charles Dickens’s imagined Nuns’ House and Miss Twinkleton’s school in The Mystery of Edwin Drood, linking a real streetscape to Cloisterham’s uneasy respectability. The building’s gardens and rooms promise feminine decorum yet frame Rosa Budd’s vulnerability and Jasper’s predatory intimacy, while nearby sites from Great Expectations deepen the town’s interwoven Dickensian geography."
+description: "Eastgate House in Rochester is the setting for Rosa Budd's schooldays in Edwin Drood. Such is the proximity of locations featured in the Rochester novels, it is possible to imagine Rosa looking onto the High Street at the spot where Pip is humiliated by a butcher's boy in Great Expectations."
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
@@ -14,7 +14,7 @@ toc: false
 
 <param title="Rochester" eid="Q507517">
 
-‘In the midst of Cloisterham stands the Nuns' House: a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses. On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: “Seminary for Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’ [_The Mystery of Edwin Drood_]({{ site.baseurl }}/dickens/edwin-drood-curated-walk)(1870).    
+‘In the midst of Cloisterham stands the Nuns' House: a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses. On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: “Seminary for Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’  [_The Mystery of Edwin Drood_]({{ site.baseurl }}/dickens/edwin-drood-curated-walk) (1870).    
 [Eastgate House](https://www.visitmedway.org/attractions/eastgate-house-1805/) in Rochester is an obvious setting for Miss Twinkleton’s exemplary establishment in the unfinished novel [_The Mystery of Edwin Drood_]({{ site.baseurl }}/dickens/edwin-drood-curated-walk)) Set discreetly back from the road, it has its own walled garden in the middle of the town.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4bcb5ff3-1a7b-4d15-943d-36c283e418e0.jpg" aspect="1.5" caption="Eastgate House" attribution="Benjamin Mortley" %}
