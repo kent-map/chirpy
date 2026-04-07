@@ -1,6 +1,6 @@
 ---
 title: "Thomas Frost (1821-1908)"
-description: "Thomas Frost’s career traces a precarious Victorian life of journalism, Chartist politics, and literary pilgrimage across the Kent coast, woods, and marshes. Family ties to contraband routes and repeated summer visits shape his sense of place, feeding lost fiction and the Dickens-focused travel book In Kent With Charles Dickens. Later guidebook writing around Tunbridge Wells contrasts with financial insecurity and dependence on the Royal Literary Fund."
+description: "Writer and editor Thomas Frost was descended from Kentish smugglers. He was the aouthor of an early guide to Dickens Land, In Kent With Charles Dickens, and a guide to Tunbridge Wells. Towards the end of his life his finanical position became precarious, and he made several applications to the Royal Literary Fund."
 author: Professor Carolyn Oulton
 date: 2022-01-01
 categories: [ 19c ]
