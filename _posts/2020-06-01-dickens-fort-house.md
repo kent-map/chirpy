@@ -1,6 +1,6 @@
 ---
 title: "Fort House (Bleak House)"
-description: "Fort House on Fort Road, Broadstairs shaped Charles Dickens’s seaside routines, hosted his literary circle, and became a key writing place for David Copperfield. The later renaming to Bleak House and Tudor-style rebuilding sparked lasting confusion between novels, houses, and heritage display in Broadstairs, culminating in late-Victorian Dickens-themed tourism and festivals."
+description: "Fort House was the source of considerable confusion both during and after Dickens’s lifetime. Parts of David Copperfield were written here, including the ending. By 1864 it was sometimes informally known as Bleak House, leading many visitors to assume that this novel too had been written in the town."
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
