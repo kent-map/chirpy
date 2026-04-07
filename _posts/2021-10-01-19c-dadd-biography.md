@@ -1,6 +1,6 @@
 ---
 title: "Richard Dadd (1817-1886)"
-description: "Richard Dadd’s early life in Chatham and Rochester links precocious artistic brilliance with the onset of mania after an 1842–43 tour, culminating in the 1843 killing of his father at Cobham. The flight through Dover, the 1844 trial, and confinement at Bethlem and Broadmoor frame how Victorian law and psychiatry redirected punishment into institutional care while his paintings transformed personal delusion into enduring cultural influence."
+description: "Richard Dadd was one of the most famous inmates of Bethlem Hospital for the insane. He is also recognised as a major Victorian artist."
 author: Melissa Campbell-Oulton
 date: 2021-10-01
 categories: [ 19c ]
