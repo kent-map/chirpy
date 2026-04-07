@@ -1,6 +1,6 @@
 ---
 title: "Dickens and Broadstairs"
-description: "Charles Dickens’s repeated holidays in Broadstairs shaped his writing life, linking a small East Kent resort to major novels and journalistic sketches. Letters, lodging houses, and local anecdotes show how the sea’s restorative appeal coexisted with the irritations of resort noise, while later civic promotion turned those stays into a mapable heritage trail for literary tourists."
+description: "Dickens wrote affectionately about Broadstairs in ‘Our Watering Place’ (Household Words 1851). In a more intimate letter to the actor William Macready written in 1842, he called the town ‘the chosen resort and retreat of jaded intellect and exhausted nature’."
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
