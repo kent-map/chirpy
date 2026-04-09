@@ -1,6 +1,6 @@
 ---
 title: "George Grossmith (1847-1912)"
-description: "Carolyn Oulton follows the Kent exploits of George Grossmith, actor, theatrical manager and his brother Weedon."
+description: "George Grossmith was an actor and theatrical manager. But he is best known for his co-authored novel The Diary of a Nobody, in which the suburban clerk Pooter takes his family on holiday to Broadstairs."
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
