@@ -1,6 +1,6 @@
 ---
 title: "Dickens and Chatham"
-description: "Chatham Dockyard and the Medway estuary shaped Charles Dickens’s childhood imagination through the daily rhythms of naval work, family moves, and short voyages to Sheerness. Journalism by John Dickens and later recollections in The Uncommercial Traveller turn dockyard buildings, fire, and financial anxiety into enduring material for Dickens’s fiction."
+description: "Dickens spent around 6 years in Chatham. The dockyard would have provided an exciting and at the same time familiar space for the child to explore, in the aftermath of the Napoleonic Wars."
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
