@@ -1,6 +1,6 @@
 ---
 title: "Lord Northcliffe"
-description: "Prof. Carolyn Oulton introduces the Kent relationships of successful newspaper proprietor Alfred C. Harmsworth, later Lord Northcliffe."
+description: "Alfred C. Harmsworth, later Lord Northcliffe, was the founder of the Daily Mail and a supporter of the 1897 Dickens Festival in Broadstairs."
 author: Professor Carolyn Oulton
 date: 2024-02-02
 categories: [ 19c ]
