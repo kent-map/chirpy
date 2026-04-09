@@ -1,6 +1,6 @@
 ---
 title: "Hop Picking"
-description: "Hop picking in Kent emerges through shifting literary and personal images, from Dickens and Eden Phillpotts to Orwell and a wartime schoolgirl’s recollection. Seasonal labor becomes a lens on class, health beliefs, and the felt texture of place, where hop dust, injured fingers, and remembered streets bind countryside work to nearby Canterbury."
+description: "The autumn hop picking season depended on a mixed workforce of local communities and visitors, including Londoners. Despite the tensions between these different groups, fictional accounts of hop picking repeatedly invoke the language of nostalgia. "
 author: Carolyn Oulton
 date: 2025-12-30
 categories: [ poetry ]
