@@ -1,7 +1,6 @@
 ---
 title: "The Ship and Lobster"
-description: "The Ship and Lobster inn at Gravesend anchors a key escape sequence in Great Expectations and links Dickens’s river geography to the legal peril of the Bloody Code. Reading the Thames marshes and riverside public house against Magwitch’s status as a returned convict shows how place, crime, and social judgment tighten the novel’s final chase and reversal of justice."
-author: Ken Moffat and Carolyn W. de la L. Oulton
+description: "Magwitch’s last hours of freedom before his arrest by Customs officials are spent in an inn called The Ship. This is most likely to be based on the Ship and Lobster in Gravesend, only a few miles away from Cooling churchyard where the story begins."
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Crime & punishment, Rivers & marshes, Maps & place-making ]
