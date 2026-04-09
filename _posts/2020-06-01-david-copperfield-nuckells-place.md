@@ -1,6 +1,6 @@
 ---
 title: "2 Nuckell’s Place, Victoria Parade, Broadstairs"
-description: "2 Nuckell’s Place in Broadstairs shaped Dickens’s depiction of Betsey Trotwood’s cottage in David Copperfield and became a magnet for literary pilgrims. Renamed Dickens House in the 1890s, it later hosted novelist-dramatist Gladys Waterer, fed festival performance culture, and eventually became a museum that reconstructs Betsey’s parlour from the novel’s details."
+description: "2 Nuckell’s Place in Broadstairs is now better known as the Dickens House Museum. Better still, as Betsey Trotwood’s cottage in David Copperfield. In the 20th century it was also the home of dramatist and Dickens festival organiser Gladys Waterer."
 author: Professor Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
