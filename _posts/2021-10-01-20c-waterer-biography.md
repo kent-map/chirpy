@@ -1,6 +1,6 @@
 ---
 title: "Gladys Waterer (1885 - 1971)"
-description: "Gladys Waterer shaped early twentieth-century Dickens performance culture in Broadstairs through festival adaptations and leadership in the Dickens Fellowship. Her novels The Third Chance and The Lady in Mauve weave Margate, Ramsgate, and Broadstairs into coastal fiction that observes local amateur theatre politics and everyday seaside life."
+description: "Novelist and playwright Gladys Waterer lived at 2 Nuckell’s Place, now the Dickens House Museum, in Broadstairs. She was a founding member of the Broadstairs branch of the Dickens Fellowship in 1837 and dramatized a number of the novels."
 author: Carolyn Oulton
 date: 2021-10-01
 categories: [ 20c ]
