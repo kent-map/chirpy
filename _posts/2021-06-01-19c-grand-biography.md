@@ -1,6 +1,6 @@
 ---
 title: "Sarah Grand 1854-1943"
-description: "Sarah Grand’s life in Kent links feminist fiction, sex education campaigning, and local suffrage organising across Sandgate, Ramsgate, and Tunbridge Wells. Her experience of marriage to a surgeon connected to lock hospitals sharpened her critique of the Contagious Diseases Acts and informed the scandal and urgency of New Woman novels such as The Heavenly Twins. Tunbridge Wells became a base for public leadership in women’s organisations and wartime voluntary service before her later civic career in Bath."
+description: "Sarah Grand was the author of the controversial 1893 novel The Heavenly Twins, and remains one of the most celebrated of the New Woman authors. She lived in Tunbridge Wells for some years, becoming President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies."
 author:  Professor Carolyn Oulton
 date: 2021-06-01
 categories: [ 19c ]
