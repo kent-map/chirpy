@@ -1,6 +1,6 @@
 ---
 title: "Leather Bottle, The Street, Cobham, Gravesend"
-description: "The Leather Bottle inn at Cobham turns a scene from The Pickwick Papers into a durable literary landmark in Dickens Country. Late Victorian and early twentieth-century guidebooks and collectors remade its Pickwick Room into a small museum of Dickensiana, blending material artifacts with tourists’ imaginative efforts to see characters as almost real."
+description: "The Leather Bottle in Cobham is referenced in a number of guides to Kentish Dickens Land, and still houses a wealth of Dickensiana."
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
