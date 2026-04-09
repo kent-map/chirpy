@@ -1,6 +1,6 @@
 ---
 title: "Mobile Landscapes"
-description: "Ken Moffat and Carolyn Oulton introduce the literary landscape of Charles Dicken's Kent."
+description: "A series of day trips inspired by the experience of Victorian Dickens pilgrims. But what do we think we are doing when we get lost in a literary landscape?"
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-12-18
 categories: [ dickens ]
