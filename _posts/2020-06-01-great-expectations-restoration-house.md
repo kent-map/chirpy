@@ -1,6 +1,6 @@
 ---
 title: "Restoration House (Satis House)"
-description: "Restoration House in Rochester anchors the imagined Satis House of Great Expectations, showing how Dickens’s fiction reshapes real streets into literary landmarks. The essay traces the irony of naming and the novel’s light–dark contrasts, and links close reading of Pip’s candlelit visit to the modern experience of viewing the house from the park opposite."
+description: "Restoration House in Rochester is reimagined as the Satis House of Great Expectations. But the Latin 'satis' (enough) is deeply ironic for the protagonists whose lives are overshadowed by this house."
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
