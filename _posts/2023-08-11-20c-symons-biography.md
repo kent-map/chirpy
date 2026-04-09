@@ -1,6 +1,6 @@
 ---
 title: "Julian Symons (1912-1994)"
-description: "Julian Symons was a poet and a prolific author of both history and crime fiction."
+description: "Julian Symons was a poet and a prolific author of both history and crime fiction. He lived in Kent for between 1950 and 1955, and several of his novels are set at least partly in the county."
 author: Professor Carolyn Oulton
 date: 2023-08-11
 categories: [ 20c ]
