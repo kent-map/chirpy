@@ -1,6 +1,6 @@
 ---
 title: "Pamela Wynne (Winifred Mary Scott, née Watson) 1879-1959"
-description: "Prof. Carolyn Oulton introduces the key characters and Margate setting of Pamela Wynne’s novel: Love in a Mist."
+description: "Pamela Wynne died in Sissinghurst in 1959, but her novel Love In The Mist reveals a deep affection for Margate."
 author: Carolyn Oulton
 date: 2020-07-01
 categories: [ 20c ]
