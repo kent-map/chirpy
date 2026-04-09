@@ -1,7 +1,6 @@
 ---
 title: "Dickens and Canterbury"
-description: "Dickens’s Canterbury in David Copperfield turns streets, inns, and the Cathedral precincts into a vivid stage for David’s new life and education. Specific sites such as St Dunstan’s Street, King’s School, and rival claims for the Little Inn show how readers, guides, and locals map fiction onto the city and argue over exact locations. Letters and later guidebooks reveal a more ambivalent Dickens behind the beloved literary townscape."
-author: Professor Carolyn Oulton
+description: "David Copperfield's Canterbury setting galvanised local calls for a local branch of the Dickens Society. But Dickens's response to the city is more ambivalent than the novel suggests."
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Towns & cities, Maps & place-making ]
