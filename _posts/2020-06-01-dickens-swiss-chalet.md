@@ -1,6 +1,6 @@
 ---
 title: "Charles Dickens's Swiss Chalet"
-description: "Charles Dickens’s Swiss Chalet at Gad’s Hill in Rochester reveals how a small garden building shaped late-Victorian writing practice and literary memory. Gifted by actor Charles Fechter and assembled from pieces shipped from Paris, the chalet became Dickens’s summer study, linked to the house by an underground passage and associated with the final work on Edwin Drood."
+description: "Dickens famously wrote the last words of his unfinished novel, The Mystery of Edwin Drood, in the Swiss Chalet at Gad’s Hill. The chalet now stands in Rochester."
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
