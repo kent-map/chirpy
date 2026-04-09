@@ -1,6 +1,6 @@
 ---
 title: "Cooling"
-description: "Cooling and St James’s Churchyard anchor the opening of Great Expectations, where Pip’s fear of a convict turns marshland, river, and sea into a landscape of exposure and moral threat. Reading the scene on the spot links Dickens’s place-models and family picnics to the novel’s themes of surveillance, vulnerability, and the first burden of a guilty secret."
+description: "The churchyard of St James’s , Cooling is widely credited with being the place where a terrified Pip first encounters the convict Magwitch. Its exposed location reminds visitors that there is quite literally nowhere to hide."
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
