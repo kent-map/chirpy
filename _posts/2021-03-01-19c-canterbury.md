@@ -1,6 +1,6 @@
 ---
 title: "Canterbury in the 19th Century"
-description: "Nineteenth-century Canterbury balanced the symbolic power of its cathedral with the realities of a provincial market town shaped by small industries, middle-class sociability, and local cultural patrons. Barracks and depots tied the city to Revolutionary and Napoleonic warfare, while the Crab and Winkle railway reoriented trade and travel by linking Canterbury to Whitstable as the River Stour silted up."
+description: "In the first half of the 19th century, Canterbury was seen as a provincial city, although the Canterbury and Whitstable Railway opened in 1830 and was the first railway in Britain to run a scheduled passenger service. Despite the city’s cultural life, Queen Victoria did not enter the cathedral on her one and only visit. "
 author: Martin Watts
 date: 2021-03-01
 categories: [ 19c ]
