@@ -1,6 +1,6 @@
 ---
 title: "Canterbury Gaol in the Nineteenth Century"
-description: "Canterbury Gaol in the nineteenth century reveals how prison reform reshaped local justice in East Kent through new buildings, labour regimes, and disciplinary systems. Treadwheel labour, gendered work, and punishments such as dark cells and flogging exposed the human costs of deterrence as control shifted from county authorities to national commissioners."
+description: "St Augustine’s Gaol in Canterbury was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street. As a House of Correction, it confined petty offenders and vagrants sentenced to periods of up to two years hard labour. At any one time, Canterbury’s prison would contain a complex mix of inmates – petty and serious offenders; men and women; but also a large proportion of those who were technically innocent and still awaiting trial."
 author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 19c ]
