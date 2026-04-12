@@ -11,7 +11,7 @@ published: true
 toc: false  
 ---
 
-Historically Kent was divided into two districts: East and West.[^ref1]  Consequently, for much of its history there were two county gaols. Imprisoned at Canterbury were offenders from East Kent, an area stretching roughly from the Medway river to the coast. Those detained to the west of this went to [Maidstone]({{ site.baseurl }}/19c/19c-convicts-maidstone/). Both districts constructed new prisons in the nineteenth century; a response to John Howard’s national work to advocate the reform of prisons. St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street.[^ref2]  
+Historically Kent was divided into two districts: East and West.[^ref1]  Consequently, for much of its history there were two county gaols. Imprisoned at [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) were offenders from East Kent, an area stretching roughly from the Medway river to the coast. Those detained to the west of this went to [Maidstone]({{ site.baseurl }}/19c/19c-convicts-maidstone/). Both districts constructed new prisons in the nineteenth century; a response to John Howard’s national work to advocate the reform of prisons. St Augustine’s Gaol, named after the Abbey on whose land it was built, was constructed between 1806 and 1808, replacing an older county gaol in St Dunstan’s Street.[^ref2]  
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8b87d15d-5d86-4784-ab72-8dad919689c2.jpg" aspect="1.333" caption="Letter to the Gaol, St Augustine's Canterbury" attribution="Martin Crowther" %}
 
