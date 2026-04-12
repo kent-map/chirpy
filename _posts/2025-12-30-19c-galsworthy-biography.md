@@ -1,6 +1,6 @@
 ---
 title: "John Galsworthy 14 August 1867–1933"
-description: "John Galsworthy’s connections to Kent emerge through visits to Conrad’s Pent Farm near Hythe and friendships with Joseph Conrad, Edward Garnett, H. G. Wells, and other literary figures. These episodes show how informal rural gatherings and coastal travel shaped literary networks even when Kent barely appears in Galsworthy’s fiction."
+description: "While Galsworthy never lived in Kent, he visited both Joseph Conrad and H. G. Wells from the 1890s. In a nod to the country’s attractions, a character from The Forsyte Saga is sent to Broadstairs to recover from a broken love affair."
 author: Professor Carolyn Oulton
 date: 2025-08-29
 categories: [ 19c ]
@@ -15,7 +15,7 @@ toc: false
 
 John Galsworthy on ‘The Pent’ farmhouse, Postling.
 
-Novelist and playwright John Galsworthy was born in Surrey in 1867 and read Law at Oxford before being called to the bar in 1890. He figures in Virginia Woolf’s notorious essay [‘Mr Bennet and Mrs Brown’](https://www.gutenberg.org/ebooks/63022) as a representative of an otiose literary standard. When Woolf suggests ‘that we range Edwardians and Georgians into two camps’, placing ‘[Mr Wells](20c/20c-wellshg-biography/), Mr. Bennett, and Mr. Galsworthy’ against [Mr. Forster]({{ site.baseurl }}/20c/20c-forster-em-biography/), [Mr. Lawrence]({{ site.baseurl }}/20c/20c-lawrence-biography/), Mr. Strachey, Mr. Joyce, and [Mr. Eliot]({{ site.baseurl }}/20c/20c-eliot-biography/), the direction of critical travel is immediately clear.
+Novelist and playwright John Galsworthy was born in Surrey in 1867 and read Law at Oxford before being called to the bar in 1890. He figures in Virginia Woolf’s notorious essay [‘Mr Bennet and Mrs Brown’](https://www.gutenberg.org/ebooks/63022) as a representative of an obsolete literary standard. When Woolf suggests ‘that we range Edwardians and Georgians into two camps’, placing ‘[Mr Wells](20c/20c-wellshg-biography/), Mr. Bennett, and Mr. Galsworthy’ against [Mr. Forster]({{ site.baseurl }}/20c/20c-forster-em-biography/), [Mr. Lawrence]({{ site.baseurl }}/20c/20c-lawrence-biography/), Mr. Strachey, Mr. Joyce, and [Mr. Eliot]({{ site.baseurl }}/20c/20c-eliot-biography/), the direction of critical travel is immediately clear.
 
 {% include embed/image.html src="wc:John_Galsworthy_2.jpg" aspect="0.729" caption="John Galsworthy" %}
 
