@@ -1,7 +1,6 @@
 ---
 title: "The Convict Hulks of Kent "
-description: "Convict hulks moored along the Thames and Medway turned obsolete ships into floating prisons that reshaped detention and transportation policy from the late eighteenth to mid-nineteenth century. Cost-cutting, disease, forced labour, and public fear made the hulks a notorious stopgap tied to naval dockyards and marshland landscapes, later fixed in popular memory by Dickens and reform debates."
-author: Dr Anna McKay 
+description: "Prison hulks were used by the British government as a cost-saving means to detain convicts awaiting transportation. Conditions were appalling, and the hulks stationed along the Kent coastline were only supposed to be temporary measures to ease prison overcrowding. But the system operated for nearly a century."
 date: 2023-06-13
 categories: [ prisons ]
 tags: [ Crime & punishment, Coast & sea, Rivers & marshes, Heritage & memory, Time periods ]
