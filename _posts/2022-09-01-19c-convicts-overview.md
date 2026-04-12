@@ -1,6 +1,6 @@
 ---
 title: "Convicts in Kent"
-description: "Dr Ben Bethall presents an overview of built prisons and floating prison hulks in the county of Kent, England between 1808 and 1948."
+description: "Kent’s penal legacy includes its role in the domestic convict system that replaced transportation. The location of the new convict prisons was determined by the projects upon which convicts would be put to work, including breakwaters and dockyards. England’s last public works prison was built at Dover in 1885. Penal servitude was abolished in 1948."
 author: Dr Ben Bethell
 date: 2022-09-01
 categories: [ 19c ]
