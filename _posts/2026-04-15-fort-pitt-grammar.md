@@ -8,6 +8,7 @@ tags: [Building & architecture, Heritage & memory  ]
 published: false
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
+permalink: /built/fort-pitt-grammar/
 ---
 
 Having successfully passed the 11+ examination in 1976, I became a pupil of Fort Pitt Technical School for Girls in Chatham.  On 6th September, in the still oppressive heat of that infamous summer, I set out for the first time wearing the distinctive uniform of pink and white check blouse, navy blue jumper, blue wool blazer and pleated navy-blue skirt. Long white socks were regulation wear; however senior pupils were offered the option of American Tan coloured tights. 
@@ -60,21 +61,22 @@ The sewing room was next door. Mrs C was the sole member, and therefore by defau
 The single-story science block, where we experimented with Bunsen burners and wire wool,  dissected pigs’ eyeballs, and memorised the periodic table, has gone. It has been replaced by a new art, design and technology block. Meanwhile, a vast new science building has claimed the open space behind West Wing. A new sports hall stands in the area where once there were netball courts, and the Domestic Science Block (the old Asylum) is now known as the Music House. The Crimea Block gym has been turned into a school library; it seems very much smaller than our old library, which occupied the entire top floor of the school's more modern Sackett Wing. 
 There have been many changes since I was a pupil at Fort Pitt School, yet returning in 2023 for an Old Girls Association Open Day brought back good memories.
 
-The last word goes to John Cooper, on whose meticulous research I have relied quite heavily. He says of Fort Pitt that “no other site has left behind so much fascinating evidence as to how the new incumbents, with great ingenuity, utilised the facilities left behind by their predecessors.”  
+The last word goes to John Cooper, on whose meticulous research I have relied quite heavily. He says of Fort Pitt that “no other site has left behind so much fascinating evidence as to how the new incumbents, with great ingenuity, utilised the facilities left behind by their predecessors.”[^ref1]  
 
 Banner Image credit ILN staff, The Illustrated London News, Public domain, via Wikimedia Commons.
 
 
 
-Works Cited 
+### Works Cited 
 
-Cooper, John. “Fort Pitt in War and in Peace. Chapter Two: The Army Hospital.” Blogspot.com, 17 Apr. 2024, https://fortpittinwarandinpeace.blogspot.com 
+Cooper, John. “Fort Pitt in War and in Peace. Chapter Two: The Army Hospital.” Blogspot.com, 17 Apr. 2024, https://fortpittinwarandinpeace.blogspot.com    
+Cooper, John. “Fort Pitt in War and in Peace. Chapter Eight: Fort Pitt School in the Second World War and the Latter Half of the 20th Century.” Blogspot.com, 21 May 2024, https://fortpittinwarandinpeace.blogspot.com      
+Cooper, John. "Fort Pitt in War and in Peace. Chapter Nine: The Site of Fort Pitt in the 21st Century." Blogspot.com, 27 May 2024, https://fortpittinwarandinpeace.blogspot.com 
 
-Cooper, John. “Fort Pitt in War and in Peace. Chapter Eight: Fort Pitt School in the Second World War and the Latter Half of the 20th Century.” Blogspot.com, 21 May 2024, https://fortpittinwarandinpeace.blogspot.com   
+Cooper, John. "Fort Pitt in War and in Peace. Chapter Nine: The Site of Fort Pitt in the 21st Century." Blogspot.com, 27 May 2024, https://fortpittinwarandinpeace.blogspot.com   
+Cooper, John. Fort Pitt: Some Notes on the History of a Napoleonic Fort, Military Hospital and Technical School. Wellcome Collection, 1974. https://wellcomecollection.org/works/fzuucb44.   
 
-Cooper, John. Fort Pitt: Some Notes on the History of a Napoleonic Fort, Military Hospital and Technical School. Wellcome Collection, 1974. https://wellcomecollection.org/works/fzuucb44.
+### References
 
-
-
-
+[^ref1]: Cooper, John. "Fort Pitt in War and in Peace. Chapter Nine: The Site of Fort Pitt in the 21st Century." Blogspot.com, 27 May 2024, https://fortpittinwarandinpeace.blogspot.com 
 
