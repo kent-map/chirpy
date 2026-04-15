@@ -506,6 +506,13 @@ Charlotte Worthington is currently a third-year history and French undergraduate
 Claire Boardman is a PhD Candidate in Applied Digital Humanities at the University of York, Digital Creativity Labs. Supported by the Engineering and Physical Research Council, she is currently researching digital heritage content co-curation and re-use within the context of connection and cohesion in inner urban neighbourhoods. Her research is practice-orientated and diverse but generally concerned with human-environment relationships with a current focus on heritage-led, participatory approaches to climate change and sustainability.
 
 
+## Tom Campbell-Oulton
+
+![Tom Campbell-Oulton](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/___.jpg){: .right}
+
+Tom Campbell-Oulton is a Computer Science student at the University of Liverpool. As an intern and former volunteer for the site, Tom contributes to the developement and maintenance of its web platform, supporting improvements to functionality and user experiences.
+
+
 ## Kaitlyn Cowling
 
 ![Kaitlyn Cowling](https://raw.githubusercontent.com/kent-map/images/main/misc/Kaitlyn_Cowling.jpg){: .right}
