@@ -16,7 +16,7 @@ Having successfully passed the 11+ examination in 1976, I became a pupil of Fort
 
 Around our waists we wore a navy-blue money belt which contained only small change and a green cloakroom ticket, allowing access to the school canteen. Instead of using a bag to carry our books, we were instructed to buy a briefcase. This, and the uniform, made us something of a target for the local secondary school pupils.  I felt nothing short of relief that the obligatory bowler hat had recently been removed from the list of requirements. 
 
-My walk to school took half an hour each way. The route to Fort Pitt took me along Ordnance Terrace, where on a daily basis I would pass the former home of the writer [Charles Dickens]({{ site.baseurl }}/Dickens/). Dickens lived at No.2 (now No.11) between 1817-1821, and mentioned Fort Pitt in his first major work, “The Pickwick Papers.” 
+My walk to school took half an hour each way. The route to Fort Pitt took me along Ordnance Terrace, where on a daily basis I would pass the former home of the writer [Charles Dickens]({{ site.baseurl }}/dickens/). Dickens lived at No.2 (now No.11) between 1817-1821, and mentioned Fort Pitt in his first major work, “The Pickwick Papers.” 
 
 Fort Pitt was a very unusual school site. Firstly, we had “the ramparts.” These were broad-topped brick walls, forming part of the school perimeter. We were forbidden to walk along them; however, the instruction was loosely policed and we were frequent visitors, often strolling their length during our lunch breaks. 
 
