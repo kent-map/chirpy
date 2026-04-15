@@ -5,7 +5,7 @@ author: Helen Counsell
 date: 2026-04-15
 categories: [ built ]
 tags: [Building & architecture, Heritage & memory  ]
-published: false
+published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
 permalink: /built/fort-pitt-grammar/
@@ -22,9 +22,10 @@ Fort Pitt was a very unusual school site. Firstly, we had “the ramparts.” Th
 The ramparts date back to the original fort, which was one of three constructed when the British were made aware of the Emperor Napoleon’s plans to sail an armada up the River Medway and capture the dockyard at Chatham. The site was only used as a fort for a relatively short time, however, between 1810 and 1814. With the defeat and exile of Napoleon, the threat of invasion from France was reduced and a hospital was set up on the site the same year to house wounded soldiers. 
 
 The Crimea Wing, retrospectively named, is the oldest of the original buildings remaining. It was one of two purpose-built wards, originally configured in the shape of an “H,” and was constructed after the conversion of Fort Pitt from a fort into a permanent military hospital in 1824. Patients were housed here in large wards and were able to sit outside in the shade of a long colonnade at the front. The plinths are still visible today. 
- ** Photograph**  
+ {% include embed/image.html src="wc:Crimea block, Fort Pitt, Chatham, Kent.png" aspect="0.671" caption="Rear View of Crimea Block, Fort Pitt" %}
+ 
 The Crimean War, fought between 1853-1856, began when a clash between Russia and the declining Ottoman Empire led to a major conflict between Russia, Britain and France. As the war progressed, casualties from the battles of the River Alma, Balaclava and Inkerman began to arrive at Fort Pitt. Many were severely wounded; some had lost limbs or were suffering from shell shock or mental breakdown. Queen Victoria visited the wounded in 1855 on three occasions: March 3rd, June 19th and 28th November. 
-** photograph**
+{% include embed/image.html src="wc:Queen Victoria with her entourage visiting invalided soldier Wellcome V0015776.jpg" aspect="0.671" caption="Queen Victoria visits wounded soliders at fort pitt in 1855" %}
 
 According to Cooper (16) a fact-finding mission brought another famous visitor, Florence Nightingale, to Fort Pitt in November 1856. ** Photograph/ illustration ** Her aim was to establish an Army Medical School to train young surgeons, and Fort Pitt became the school’s first choice for its home. Five intakes of students were trained at Fort Pitt from 1860 onwards, before the Army Medical School was transferred to the new Victoria Hospital at Netley in Hampshire.
 
@@ -43,7 +44,7 @@ There was a further large classroom situated off this corridor, where we would s
 
 West Wing hosted an elderly and unreliable heating system which regularly failed during the cold winters. On those occasions we were allowed to wear our coats and scarves in class to avoid being sent home when the mercury dropped.
 
-The detached building where we were taught Domestic Science stands on the north-western flank of the site of the old fort. It was originally known as the asylum, since its purpose when it opened in 1857 was to house soldiers suffering from mental illness and shell shock. Cooper states that the building could house 34 patients and had a colonnade and verandah as well as a garden (18) ** Figure XII and photograph ** Years later, during renovations, workmen found some old handwritten letters in the rafters, penned by a patient but never posted. These were retained in the school archives. 
+The detached building where we were taught Domestic Science stands on the north-western flank of the site of the old fort. It was originally known as the asylum, since its purpose when it opened in 1857 was to house soldiers suffering from mental illness and shell shock. Cooper states that the building could house 34 patients and had a colonnade and verandah as well as a garden (18) ** Years later, during renovations, workmen found some old handwritten letters in the rafters, penned by a patient but never posted. These were retained in the school archives. 
 The majority of our cookery lessons were supervised by Mrs W. She took great pride in giving a detailed explanation, once spending an entire treble lesson teaching us how to boil an egg. During our first three years at the school, we tackled among other things the making of a roux sauce, scones and a Victoria sponge. 
 
 Presentation was everything and Mrs W would regularly encourage us to “titivate” our creations upon white paper doilies. On discovering weevils in her giant tin of flour, the resilient Mrs W insisted this was an extra source of protein and we proceeded to make biscuits.
@@ -64,7 +65,6 @@ There have been many changes since I was a pupil at Fort Pitt School, yet return
 The last word goes to John Cooper, on whose meticulous research I have relied quite heavily. He says of Fort Pitt that “no other site has left behind so much fascinating evidence as to how the new incumbents, with great ingenuity, utilised the facilities left behind by their predecessors.”[^ref1]  
 
 Banner Image credit ILN staff, The Illustrated London News, Public domain, via Wikimedia Commons.
-
 
 
 ### Works Cited 
