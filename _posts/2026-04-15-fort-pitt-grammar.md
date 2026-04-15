@@ -25,7 +25,7 @@ The Crimea Wing, retrospectively named, is the oldest of the original buildings 
  {% include embed/image.html src="wc:Crimea block, Fort Pitt, Chatham, Kent.png" aspect="0.671" caption="Rear View of Crimea Block, Fort Pitt" %}
  
 The Crimean War, fought between 1853-1856, began when a clash between Russia and the declining Ottoman Empire led to a major conflict between Russia, Britain and France. As the war progressed, casualties from the battles of the River Alma, Balaclava and Inkerman began to arrive at Fort Pitt. Many were severely wounded; some had lost limbs or were suffering from shell shock or mental breakdown. Queen Victoria visited the wounded in 1855 on three occasions: March 3rd, June 19th and 28th November. 
-{% include embed/image.html src="wc:Queen Victoria with her entourage visiting invalided soldier Wellcome V0015776.jpg" aspect="0.671" caption="Queen Victoria visits wounded soliders at fort pitt in 1855" %}
+{% include embed/image.html src="https://upload.wikimedia.org/wikipedia/commons/6/67/Queen_Victoria_with_her_entourage_visiting_invalided_soldier_Wellcome_V0015776.jpg" aspect="0.671" caption="Queen Victoria visits wounded soliders at fort pitt in 1855" %}
 
 According to Cooper (16) a fact-finding mission brought another famous visitor, Florence Nightingale, to Fort Pitt in November 1856. ** Photograph/ illustration ** Her aim was to establish an Army Medical School to train young surgeons, and Fort Pitt became the school’s first choice for its home. Five intakes of students were trained at Fort Pitt from 1860 onwards, before the Army Medical School was transferred to the new Victoria Hospital at Netley in Hampshire.
 
