@@ -1,16 +1,13 @@
 ---
-title: 
-description: 
-author: 
-date: 2026-01-01
-categories: [ ]
-tags: [ ]
-published: true
+title: "Fort Pitt Grammar School"
+description: In this article Helen Counsell remembers her time at Fort Pitt Grammar School in the late 1970s and early 1980s, and looks back at the history of the school site. 
+author: Helen Counsell
+date: 2026-04-15
+categories: [ built ]
+tags: [Building & architecture, Heritage & memory  ]
+published: false
 featured: false
-media_subpath: /assets/img
-image:
-  path: 
-  alt: 
+image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
 ---
 
 Having successfully passed the 11+ examination in 1976, I became a pupil of Fort Pitt Technical School for Girls in Chatham.  On 6th September, in the still oppressive heat of that infamous summer, I set out for the first time wearing the distinctive uniform of pink and white check blouse, navy blue jumper, blue wool blazer and pleated navy-blue skirt. Long white socks were regulation wear; however senior pupils were offered the option of American Tan coloured tights. 
@@ -65,7 +62,7 @@ There have been many changes since I was a pupil at Fort Pitt School, yet return
 
 The last word goes to John Cooper, on whose meticulous research I have relied quite heavily. He says of Fort Pitt that “no other site has left behind so much fascinating evidence as to how the new incumbents, with great ingenuity, utilised the facilities left behind by their predecessors.”  
 
-
+Banner Image credit ILN staff, The Illustrated London News, Public domain, via Wikimedia Commons.
 
 
 
