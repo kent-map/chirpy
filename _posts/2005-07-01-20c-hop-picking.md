@@ -2,7 +2,7 @@
 title: "Hop Picking and the Literary Imagination"
 description: "In this visual essay, Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature."
 author: Professor Carolyn Oulton
-date: 2005-07-01
+date: 2019-07-01
 categories: [ 20c ]
 tags: [ Countryside & farming, Texts & genres, Culture & society, Literary places ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg
