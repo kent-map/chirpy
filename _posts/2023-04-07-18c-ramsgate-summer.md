@@ -1,6 +1,6 @@
 ---
 title: "A Ramsgate Summer"
-description: "A late eighteenth-century Ramsgate holiday emerges through the epistolary poem The Sea-side (1798), where an anapaestic satirical voice turns sea-bathing, physicians, assemblies, and pier-going into lively set pieces. Simkin Slenderwit’s breezy enthusiasm both advertises coastal leisure and exposes its social types, mishaps, and patriotic claims about health and national vigor."
+description: " ‘The Sea-side’ was published anonymously in 1798. This epistolary poem portrays the pleasures to be had from ‘Summerising at Ramsgate’, as Simkin Slenderwit writes a series of letters to his mother."
 author: Dr Shaun Regan
 date: 2023-04-07
 categories: [ 18c ]
