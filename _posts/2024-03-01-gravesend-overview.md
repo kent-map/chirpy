@@ -1,6 +1,6 @@
 ---
 title: "Gravesend"
-description: "Gravesend’s role as a connected Thames-side town emerges through wartime bombing, aviation infrastructure, and layers of defensive and commemorative landscape. Windmill Hill, the airfield, and Milton Chantry show how tourism sites and medieval buildings were repeatedly repurposed for military need, public health, and civic memory."
+description: "Gravesend was subjected to bombing raids in both World War 1 and World War 2. But visitors to the town can still see the basement of Milton Chantry, constructed in 1322, as well as Roman remains discovered nearby."
 author: Hayley Smith
 date: 2024-03-01
 categories: [ placesej ]
