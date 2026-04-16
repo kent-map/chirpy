@@ -1,6 +1,6 @@
 ---
 title: "Sheppey at war in the 16th century"
-description: "Sheppey faced invasion fears in the 1580s as the Spanish Armada threat drove the Crown to strengthen defenses at Queenborough Castle and Minster and to stock local armouries. Edward Hoby’s report reveals a sharp trade-off between military readiness and island households losing food and livestock to official requisition, exposing how coastal defence policies strained everyday life in Eastchurch parish."
+description: "The residents of Sheppey were trained to defend the island and the entrance to the Thames, against Spanish invasion. But historic records show tension between the Crown’s military agenda and the everyday hardship of the local islanders."
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 16c ]
