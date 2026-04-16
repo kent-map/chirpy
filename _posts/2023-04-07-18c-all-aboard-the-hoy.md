@@ -1,6 +1,6 @@
 ---
 title: "All Aboard the Hoy"
-description: "Eighteenth-century voyages from London to Margate by hoy turned maritime transport into a crowded social theatre where passengers of different ranks mixed at close quarters. Guidebooks, letters, and satirical or sentimental depictions use the hoy to register anxieties about manners, class boundaries, and the democratization of seaside leisure before steam packets expanded the market after 1815."
+description: "The Margate hoy was the most popular way for passengers to reach the seaside from London. But it also provided a focus for concerns about indecorous behaviour and the threat of inter-status mixing."
 author: Dr Shaun Regan
 date: 2023-04-07
 categories: [ 18c ]
