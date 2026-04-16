@@ -1,6 +1,6 @@
 ---
 title: "Sheppey at war in the 17th century"
-description: "Sheppey’s exposed position at the mouth of the Medway and Thames shaped the Dutch Raid on the Medway in June 1667 and triggered flight from Sheerness and Gravesend. Narrative maps and Samuel Pepys’s diary reveal how inaccurate cartographic claims and weak Crown defenses, including the neglected fortifications at Sheerness and Queenborough, amplified the island’s wartime vulnerability."
+description: "Sheppey was in a vulnerable position at the entrance to both the Medway and Thames Rivers. It had no army and limited military support from the Crown, making it an obvious target during the Anglo Dutch War."
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 17c ]
