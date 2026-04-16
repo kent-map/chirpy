@@ -1,6 +1,6 @@
 ---
 title: "The Bloody Code"
-description: "The English criminal law known as the Bloody Code expanded capital offences from the late 17th century to the end of the Napoleonic Wars, making death and corporal punishments a routine response to property crime. Rising wealth and anxiety about property, alongside changing moral attitudes, shaped jury and judicial practices that quietly resisted executions and helped drive reform. Parliamentary efforts led by Sir Samuel Romilly contributed to the Code’s abolition by the 1830s."
+description: "The majority of capital punishments in the 18th century were enforced according to Tudor laws. But the more detailed codification of specific offences legislation during this time came to be known as the Bloody Code."
 author: Martin Watts
 date: 2020-07-01
 categories: [ 18c ]
