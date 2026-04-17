@@ -1,6 +1,6 @@
 ---
 title: "20th-Century Canterbury: Overview"
-description: "Twentieth-century Canterbury reshaped its historic core after World War II bombing while expanding outward with housing, education, retail, and tourism. Postwar rebuilding, new universities, and suburban development turned a small cathedral city into a fast-growing regional centre, even as traffic and pollution became persistent urban challenges."
+description: "A third of the inner core of Canterbury was destroyed by WW2 bombing raids and this part of the city was rebuilt twice during the 20th century. However the Cathedral remained conspicuous and prominent as the major icon of Canterbury and most important pole of attraction."
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
