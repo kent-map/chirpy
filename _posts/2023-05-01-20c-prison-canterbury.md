@@ -1,6 +1,6 @@
 ---
 title: "Canterbury Prison in the Twentieth Century"
-description: "Canterbury Prison shaped twentieth-century criminal justice in Kent as its functions shifted from local remand gaol to training prison and, briefly, a hub for foreign national detainees. Overcrowding, outdated Victorian cells, uneven access to education and work, and high levels of self-harm expose the tensions between rehabilitation policy and the daily realities of confinement in a local prison."
+description: "The Victorian separate system of prison discipline was replaced with a focus on ‘training’ in the twentieth century. The Criminal Justice Act abolished both penal servitude and hard labour in 1948. However  as late as 1991, sewing mail bags was the main occupation for inmates of Canterbury prison."
 author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 20c ]
