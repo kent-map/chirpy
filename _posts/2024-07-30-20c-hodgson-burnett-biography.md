@@ -1,6 +1,6 @@
 ---
 title: "Frances Hodgson Burnett (1849–1924)"
-description: "Frances Hodgson Burnett’s years at Great Maytham Hall near Rolvenden link a specific Kent house and walled rose garden to the imaginative origins of The Secret Garden and other late works. The restored garden and local village life shaped her routines, philanthropy, and sense of Englishness even as marriage turmoil and transatlantic moves pulled her toward America."
+description: "Frances Hodgson Burnett’s well-loved novel The Secret Garden is set in Yorkshire. But it was inspired at least in part by Great Maytham Hall in Kent."
 author: Elena Beighton-Delille
 date: 2024-07-30
 categories: [ 20c ]
