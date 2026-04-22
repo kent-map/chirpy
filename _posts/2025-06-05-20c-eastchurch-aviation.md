@@ -1,6 +1,6 @@
 ---
 title: "Pioneers of Flight: The Role of the Isle of Sheppey in the Birth of British Aviation"
-description: "Early British aviation took shape on the Isle of Sheppey, where Shellness and Eastchurch provided the flat ground, facilities, and social networks needed to turn experimental flight into a working industry and a military capability. The essay traces the Wright Brothers’ influence, the Short Brothers’ factory and designs, and the Royal Aero Club’s role in moving from record flights to the Royal Naval Air Service and two world wars. Museums, memorials, and surviving hangars now preserve a landscape that shifted from pioneering airfield to contested heritage site beside modern prisons."
+description: "The Wright brothers made their pioneering flight in 1903, but failed to secure backing from either British or American governments. In 1908, members from the Aero Club realised the potential of flying machines and secured a crucial collaboration with the Short brothers to build and test aircraft in Sheppey."
 author: Jane Delamaine
 date: 2025-06-05
 categories: [ 20c ]
