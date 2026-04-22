@@ -1,6 +1,6 @@
 ---
 title: "On The Marsh"
-description: "Romney Marsh and New Romney shape a mood of watchfulness that suits mid-century literary crime, where flat land and a hidden sea amplify unease. Julian Symons’s The Paper Chase threads wartime gangster history through post-war planning changes, linking real streets, vanished hotels, and everyday coastal details to lingering ghosts in the landscape."
+description: "Romney Marsh prompts a particular kind of watchfulness, something close to unease. It is the perfect setting for literary crime."
 author: Professor Carolyn Oulton
 date: 2026-02-08
 categories: [ 20c ]
