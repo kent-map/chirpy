@@ -1,6 +1,6 @@
 ---
 title: "Albert Makaula White"
-description: "Albert Makaula-White, a Bhaca chief’s son adopted by English missionaries, built a public life that moved between South African mission politics and Methodist networks in Britain. His farming career across rural Kent from 1904 to 1937 reveals how race, nonconformist religion, and local economies shaped belonging, conflict, and community memory in the interwar countryside."
+description: "Albert Makaula White was the son of a Bhaca Chief. He became a clergyman before settling in Kent, where he worked as a farmer."
 author: Liam Cohen
 date: 2024-11-09
 categories: [ 20c ]
