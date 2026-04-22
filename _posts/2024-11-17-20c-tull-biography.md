@@ -1,6 +1,6 @@
 ---
 title: "Walter Tull"
-description: "Walter Tull’s life links Folkestone to early professional football and the First World War, showing how talent and service confronted entrenched racial barriers. Childhood bereavement and institutional care shaped his path from Tottenham and Northampton to officer training and frontline leadership. His combat record and the unawarded Military Cross recommendation expose the gap between official equality and lived recognition in wartime Britain."
+description: "Walter Tull, born to an immigrant mother, defied the odds to become a professional footballer and the first Afro-Caribbean officer in the British Army."
 author: Liam Cohen
 date: 2024-11-17
 categories: [ 20c ]
