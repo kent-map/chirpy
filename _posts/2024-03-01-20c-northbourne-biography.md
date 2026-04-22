@@ -1,6 +1,6 @@
 ---
 title: "Walter James, Fourth Lord Northbourne, ‘Inventor of Organic Farming’"
-description: "Walter James, Fourth Lord Northbourne, shaped twentieth-century agriculture by coining the term organic farming in Look to the Land (1940) and linking soil health to national resilience. Work at the Betteshanger estate near Deal, biodynamic networks, and wartime food policy in Kent reveal the tensions between ecological principles and pressure for maximum production."
+description: "Walter James, the fourth Lord Northbourne, is credited with the creation of the term ‘organic farming’ in 1840. During WW2 he chaired the County War Agriculture Committee for Kent, whose objective was to boost food production."
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 20c ]
