@@ -1,6 +1,6 @@
 ---
 title: "Virginia Woolf (1882-1941)"
-description: "Virginia Woolf’s connections to Kent cluster around Sissinghurst, Knole, and Canterbury, where houses, gardens, and city streets become prompts for modernist thinking about refuge, constraint, and change. Letters, diaries, and fiction link water imagery, inheritance law, and gendered belonging, showing how particular Kent places shaped Woolf’s themes and narrative experiments."
+description: "Virginia Woolf was a regular visitor at Sissinghurst, home of Vita Sackville-West. But her early diaries and letters show the influence of other parts of Kent, notably Canterbury."
 author: Dr Victoria Callanan
 date: 2025-12-30
 categories: [ 20c ]
