@@ -1,6 +1,6 @@
 ---
 title: "Coach Tour of Joseph Conrad’s Homes in Kent"
-description: "Joseph Conrad’s Kent homes at Pent Farm, Capel House, Spring Grove, and Oswalds anchor a biographical map of his writing life, friendships, and family routines. A 1974 pamphlet by his son Borys Conrad guides the itinerary through buildings, visitors, and everyday details such as cars and renovations. The tour links specific places to major works and shows how domestic settings shaped Conrad’s late career and public memory in the county."
+description: "Joseph Conrad lived in four houses across Kent. He is commemorated in a pamphlet written by his son, Borys, in 1974."
 author: Daniel Vince
 date: 2025-02-05
 categories: [ 20c ]
