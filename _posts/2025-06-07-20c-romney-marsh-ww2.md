@@ -1,6 +1,6 @@
 ---
 title: "Romney Marsh during WWII"
-description: "Romney Marsh became a frontline defensive landscape in 1940 as German invasion planning for Operation Sea Lion targeted its flat terrain and Kent coastline. Military authorities requisitioned the Romney, Hythe and Dymchurch Railway, built pillboxes and anti-tank obstacles, evacuated livestock, and planned flooding while later using the line to support PLUTO fuel pipeline construction. Surviving fortifications and altered infrastructure show how wartime fear and logistics reshaped a rural marshland and its communities."
+description: "Romney Marsh was a key landing site in Hitler’s invasion strategy. Due to its strategic location, the Romney Hythe and Dymchurch Railway (RHDR) was requisitioned by the War Department. Meanwhile thousands of pillboxes were constructed across the Marsh and coastline. These defences were manned by the Local Defence Volunteers – later renamed the Home Guard."
 author: Lucy Slack
 date: 2025-06-07
 categories: [ 20c ]
