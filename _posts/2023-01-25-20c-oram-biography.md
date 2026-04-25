@@ -1,6 +1,6 @@
 ---
 title: "Daphne Oram (1925–2003)"
-description: "Daphne Oram’s career links BBC sound engineering, the founding of the Radiophonic Workshop, and a Kent studio at Tower Folly where she invented Oramics by drawing sound onto film. Her work at Canterbury Christ Church and later exhibitions and awards show how her techniques reshaped electronic music production and opened space for women in audio technology."
+description: "Daphne Oram, pioneer of electronic music, turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC. She went on to lecture at what was then Canterbury Christ Church College."
 author: Emma Latham
 date: 2023-01-25
 categories: [ 20c ]
