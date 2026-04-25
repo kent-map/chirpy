@@ -1,6 +1,6 @@
 ---
 title: "Baroness Emmuska Orczy (1865-1947)"
-description: "Baroness Emmuska Orczy’s years in Kent link her celebrity as creator of The Scarlet Pimpernel to daily life in Thanet and Bearsted, from country-lane horse driving to fetes and school prize-givings. Wartime activism, refugee arrivals, and anti-alien suspicion reshape her local experience and help explain her eventual departure from the county."
+description: "Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to Thanet with her husband in 1908, later moving to Bearsted, near Maidstone. Several of Orczy’s novels are set in Kent, where she lived until 1918."
 author: Michelle Crowther
 date: 2021-12-19
 categories: [ 20c ]
