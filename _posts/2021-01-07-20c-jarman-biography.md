@@ -1,6 +1,6 @@
 ---
 title: "Derek Jarman (1942-1994)"
-description: "Derek Jarman’s years at Prospect Cottage in Dungeness link an austere shingle landscape to a late burst of artistic work in film, writing, and gardening. The garden’s open boundaries and improvised planting become both a visual manifesto and a form of care as HIV/AIDS and failing sight reshape his attention to colour in Chroma and Blue."
+description: "Painter, poet and film-maker Derek Jarman spent his final years at Prospect Cottage in Dungeness, where he created a garden that would serve as both “therapy and pharmacopoeia.” 
 author: Jeremy Page
 date: 2021-01-07
 categories: [ 20c ]
