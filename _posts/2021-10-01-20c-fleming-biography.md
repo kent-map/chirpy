@@ -1,6 +1,6 @@
 ---
 title: "Ian Fleming (1908 – 1964)"
-description: "Ian Fleming’s Kent life shaped the settings, mood, and moral contrasts of the early James Bond novels. Golf courses at Sandwich Bay, coastal cliffs around Dover and St Margaret’s Bay, and inland villages near Canterbury become both real anchors and imaginative stages for Cold War anxieties in Moonraker and Goldfinger."
+description: "Ian Fleming’s life in Kent was a source of inspiration for two of his James Bond novels, Moonraker and Goldfinger, and also for his children's book, Chitty Chitty Bang Bang."
 author: Fred Marsh
 date: 2021-10-01
 categories: [ 20c ]
