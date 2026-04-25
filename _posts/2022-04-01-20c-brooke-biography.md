@@ -1,6 +1,6 @@
 ---
 title: "Jocelyn Brooke (1908-1966) "
-description: "In this visual essay, Dr Simon Wilson presents the life and works of kent author Jocelyn Brooke."
+description: "Brooke’s re-imaginings, drawing on local folklore and visionary landscapes of promise and loss, lend national significance to the area around Bishopsbourne."
 author: Dr Simon Wilson
 date: 2022-04-01
 categories: [ 20c ]
