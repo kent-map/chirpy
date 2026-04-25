@@ -1,6 +1,6 @@
 ---
 title: "Marian Peck (1897-1974)"
-description: "Marian Fielding Peck designed illustrated maps of Kent and North East Kent that J Salmon Ltd sold as postcard map cards in the mid-1960s. Her training in painting, calligraphy, and miniatures shaped a long collaboration with Salmon, producing 61 map cards of counties, cities, and waterways across Britain. A London agency brokered the commission in 1953, and her career ended abruptly with a fatal car accident in 1974."
+description: "Artist Marian Peck collaborated with Salmon Postcards to produce a series of illustrated maps covering areas of Britain, including Kent and Northeast Kent. These were sold as postcard maps in the mid-1960s."
 author: Charles Salmon
 date: 2021-03-01
 categories: [ 20c ]
