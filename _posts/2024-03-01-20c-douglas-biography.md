@@ -1,6 +1,6 @@
 ---
 title: "Keith Douglas, 1920-1944"
-description: "Keith Douglas links Tunbridge Wells to the literary record of the Second World War through poems and the memoir Alamein to Zem Zem. His disrupted childhood, education at Christ's Hospital and Oxford, and rapid path into armoured warfare frame a short career cut off in Normandy in 1944."
+description: "Keith Douglas graduated from Oxford University with a degree in English and History. He signed up on the outbreak of WW2 in 1939, but was killed in action during the invasion of Normandy."
 author: Ayushi Dig
 date: 2024-03-01
 categories: [ 20c ]
