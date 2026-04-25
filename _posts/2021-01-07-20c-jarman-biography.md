@@ -1,6 +1,6 @@
 ---
 title: Derek Jarman
-description: "Painter, poet and film-maker Derek Jarman spent his final years at Prospect Cottage in Dungeness, where he created a garden that would serve as both “therapy and pharmacopoeia.” 
+description: Painter, poet and film-maker Derek Jarman spent his final years at Prospect Cottage in Dungeness, where he created a garden that would serve as both “therapy and pharmacopoeia. 
 author: Jeremy Page
 date: 2021-01-07
 categories: [ 20c ]
@@ -10,8 +10,6 @@ permalink: /20c/20c-jarman-biography/
 published: true
 toc: false  
 ---
-
-**Places:** Lived in [Dungeness](Q911577) 1986-1994   
 
 Derek Jarman, painter, poet, film-maker, was born in 1942 in Northwood, [Thanet](Q590422) (not quite ‘behind the great white cliffs of Dover’ as stated by Jarman in Chroma), and died at St Bartholomew’s Hospital, Smithfield in the City of London in 1994. In the last volume of his diaries _Smiling in Slow Motion_, Jarman poignantly records a fall of snow at Dungeness on 20 December 1993 and his relief at the receipt of a letter from the Reverend Ford confirming he can be buried at St Clement’s Churchyard, [Old Romney](Q2602144).
 
