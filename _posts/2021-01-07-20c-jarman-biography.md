@@ -1,11 +1,11 @@
 ---
-title: "Derek Jarman (1942-1994)"
+title: Derek Jarman
 description: "Painter, poet and film-maker Derek Jarman spent his final years at Prospect Cottage in Dungeness, where he created a garden that would serve as both “therapy and pharmacopoeia.” 
 author: Jeremy Page
 date: 2021-01-07
 categories: [ 20c ]
 tags: [ Authors & lives, Coast & sea, Nature & environment, Arts & performance ]
-image: https://raw.githubusercontent.com/kent-map/images/main/20c/Jarman__2.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/36/Derek_Jarman%27s_garden.JPG
 permalink: /20c/20c-jarman-biography/
 published: true
 toc: false  
