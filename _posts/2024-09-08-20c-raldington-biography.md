@@ -1,7 +1,6 @@
 ---
 title: "Richard Aldington (1892-1962)"
-description: "Diana Hirst traces the life and work of the author, Richard Aldington."
-author: Dr Diana Hirst
+description: "Poet and novelist Richard Aldington was associated with the Imagist movement in the early part of the twentieth century. His novel The Death of a Hero reflects his experience of WW1." 
 date: 2024-09-08
 categories: [ 20c ]
 tags: [ Authors & lives, Literary places, Texts & genres, Nature & environment, Conflict & war ]
