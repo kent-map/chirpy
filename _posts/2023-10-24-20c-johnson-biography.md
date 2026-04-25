@@ -1,6 +1,6 @@
 ---
 title: "Amy Johnson"
-description: "Amy Johnson’s record-breaking aviation career made her a global celebrity and a powerful symbol of women’s independence in engineering and flight during the interwar years. Her final Air Transport Auxiliary ferry flight ended in a fatal crash in the Thames Estuary, linked in RAF records and commemoration to Herne Bay, Kent, where uncertainty about the cause of the disaster still shapes her public memory."
+description: "Amy Johnson was the first woman to fly solo from England to Australia in 1930, becoming  an international celebrity. In 1941 she was killed when her plane crashed in Herne Bay, but the exact cause of the accident has never been established."
 author: Jane Delamaine
 date: 2023-10-24
 categories: [ 20c ]
