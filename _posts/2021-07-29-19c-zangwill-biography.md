@@ -1,6 +1,6 @@
 ---
 title: "Israel Zangwill (21 January 1864 - 1 August 1926)"
-description: "Israel Zangwill’s holidays and working visits to the Kent coast shaped his sharp-edged observations of seaside towns and their leisure cultures. Ramsgate, Margate, Broadstairs, and Dover appear through his journalism and letters as places where modern tourism, class display, and Jewish public identity intersect."
+description: "Israel Zangwill’s writing career could be said to have begun on holiday in Kent, when he was 16. As a New Humourist in the 1890s, he wrote comic articles on Thanet for the Pall Mall Magazine."
 author: Professor Carolyn Oulton
 date: 2021-07-29
 categories: [ 19c ]
