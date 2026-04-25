@@ -1,6 +1,6 @@
 ---
 title: "Mary Tourtel (1874-1948)"
-description: "Mary Tourtel’s childhood in Canterbury and training at the Sidney Cooper School of Art shaped an illustrator whose animals and rural scenes helped define early twentieth-century children’s picture books, culminating in Rupert Bear for the Daily Express. Family ties to Canterbury Cathedral and close observation of farmhorses and the Kentish countryside fed her idealised landscapes and architectural watercolours."
+description: "Author and artist Mary Tourtel, who is best known for creating and illustrating the Rupert Bear comic strip, lived and studied in Canterbury."
 author: Grace Conium
 date: 2021-03-09
 categories: [ 20c ]
