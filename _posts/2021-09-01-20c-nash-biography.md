@@ -1,6 +1,6 @@
 ---
 title: "Paul Nash (1889 - 1946)"
-description: "Paul Nash’s Dymchurch paintings turn the sea wall into a modern monument that stages an elemental struggle between sea and land while replaying the trauma of the First World War. Biographical detail, visual analysis, and later reinterpretations connect his increasingly abstract and surreal coastal imagery to ideas of defense, memory, and the fragile permanence of reclaimed shorelines under climate change."
+description: "Paul Nash, war artist and photographer, became an important influence in British inter-war surrealism and Modern Art. Nash suffered with post-traumatic stress disorder following WW1 and spent three years recuperating in Dymchurch."
 author: Professor Phil Hubbard
 date: 2021-09-01
 categories: [ 20c ]
