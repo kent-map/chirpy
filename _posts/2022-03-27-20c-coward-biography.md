@@ -1,6 +1,6 @@
 ---
 title: "Noël Coward"
-description: "Daniel Vince considers the early 20th century years Noël Coward lived in Kent and his works created there."
+description: "Coward first Dymchurch in1922. He spent at least part of his time in Kent for the next 27 years."
 author: Daniel Vince
 date: 2022-03-27
 categories: [ 20c ]
