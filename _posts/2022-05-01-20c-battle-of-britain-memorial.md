@@ -1,6 +1,6 @@
 ---
 title: "Battle of Britain Memorial"
-description: "The Battle of Britain Memorial on the White Cliffs at Capel-le-Ferne commemorates the air campaign of July–October 1940 and the RAF and allied aircrew known as Churchill’s Few. Cliff-top defenses, earlier First World War airship operations, and later additions such as the Foxley-Norris Memorial Wall and the Wing visitor centre link the site’s landscape to wartime strategy and public remembrance."
+description: "A Memorial, situated on the white cliffs at Capel-le-Ferne near Folkestone, commemorates the Battle of Britain."
 author: Amy Green
 date: 2022-05-01
 categories: [ 20c ]
