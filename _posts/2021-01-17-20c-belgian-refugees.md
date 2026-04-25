@@ -1,6 +1,6 @@
 ---
 title: "Belgian WW1 Refugees"
-description: "Belgian refugees fleeing the fall of Antwerp arrived in Folkestone in large numbers during the First World War, reshaping the town’s harbour, schools, and voluntary welfare provision. Local committees, religious groups, and civic institutions organized food, medical checks, lodging, education, and cultural exchange, while museums and libraries recorded and displayed Belgian artistic work as a form of public gratitude and memory."
+description: "Thousands of Belgians sought refuge in Britain during WW1. Many entered Britain via Folkestone Harbour following the fall of Antwerp in October 1914."
 author: Maddie Pettit
 date: 2021-01-17
 categories: [ 20c ]
