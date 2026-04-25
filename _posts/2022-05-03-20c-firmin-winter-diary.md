@@ -1,6 +1,6 @@
 ---
 title: "The Winter Diary of a Country Rat by Peter Firmin"
-description: "Peter Firmin’s The Winter Diary of a Country Rat turns the countryside between Howletts, Patrixbourne, and Canterbury into a walkable storyworld through illustrated maps and episodic encounters. Folklore, local landmarks, and animal narration show how storytelling makes wells, rivers, churches, and paths feel newly alive and invites readers to trace the route in the real landscape."
+description: "Peter Firmin was best known as co-creator of children’s television programmes including Ivor the Engine, Clangers and Bagpuss. The Winter Diary of a Country Rat is testament to the importance of stories in shaping our relationship to locality."
 author: Dr Simon Wilson
 date: 2022-05-03
 categories: [ 20c ]
