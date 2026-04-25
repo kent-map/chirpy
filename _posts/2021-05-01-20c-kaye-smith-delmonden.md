@@ -1,6 +1,6 @@
 ---
 title: "Shepherds in Sackcloth by Sheila Kaye-Smith"
-description: "Sheila Kaye-Smith’s invented village of Delmonden reshapes the real border landscape around Newenden and the River Rother to suit the social and narrative needs of Shepherds in Sackcloth. Elastic distances, borrowed farm names, and merged settlements reveal deliberate authorial licence, while close seasonal descriptions anchor the fiction in a convincing Wealden sense of place."
+description: "The fictional village of Delmonden, created by Kaye-Smith for her novel Shepherds in Sackcloth, is based on the Kentish border village of Newenden."
 author: Dr Pat Argar
 date: 2021-05-01
 categories: [ 20c ]
