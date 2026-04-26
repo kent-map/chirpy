@@ -53,8 +53,12 @@ A 1945 ordnance survey map highlights the rural landscape of the city, with symb
 Today some of the orchards around the city have been scrubbed up and the Cathedral hovers above an impoverished landscape. The People’s Trust for Endangered Species has identified that the UK has lost 90% of its traditional orchards since the 1950s.[^ref11] Rows of gnarled trunks, spiky branches, and rotting fruit serve as a warning that the Garden of England may soon disappear as the Cathedral and its UNESCO world heritage site becomes choked by its surroundings. 
 
 With its Gothic towers reaching for the Heavens, the Cathedral, has dominated the landscape for hundreds of years and 'maintaining views to and from the Cathedral is crucial to sustain this visual dominance'.[^ref12] Hover your mouse over the white circle and click to move the image from left to right to see a futuristic view of Stuppingon Hill if this valued landscape is not protected. This article was published: 14 January 2026.
-<param ve-compare curtain url="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/294ee94a-29f0-4a4a-9175-6ae337aeeb6a.jpg" label="Imagined view from Stuppington Hill, Canterbury, 2050">
-<param ve-compare url="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ab493a53-bed4-4c8e-bac1-6e9e7a6580a0.jpg" label="View from Stuppington Hill, Canterbury, 2025">
+
+{% include embed/image-compare.html
+  before="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/294ee94a-29f0-4a4a-9175-6ae337aeeb6a.jpg"
+  after="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ab493a53-bed4-4c8e-bac1-6e9e7a6580a0.jpg"
+  caption="Imagined view from Stuppington Hill, Canterbury, 2050 / View from Stuppington Hill, Canterbury, 2025"
+  aspect="1.5" %}
 
 ### References
 

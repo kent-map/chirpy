@@ -1,44 +1,83 @@
-// ve-compare-shim.js
-// Converts legacy Juncture <param ve-compare curtain url="..."> pairs
-// into image-compare iframes, without editing any markdown files.
+// ve-compare-shim.js — debug version
 
 (function () {
-  function basePath() {
-    // Find the base URL from an existing embed-image-compare iframe if present,
-    // otherwise fall back to the site root.
-    const existing = document.querySelector('iframe.embed-image-compare');
-    if (existing) {
-      return existing.src.split('?')[0];
-    }
-    // Walk <link rel="canonical"> or just use root-relative path
-    const base = document.querySelector('base');
-    return (base ? base.href.replace(/\/$/, '') : '') + '/assets/components/image-compare.html';
-  }
 
   function convert() {
-    // Find all <param> elements that have the ve-compare attribute AND curtain (the "before" image)
-    const curtainParams = Array.from(document.querySelectorAll('param')).filter(
-      el => el.hasAttribute('ve-compare') && el.hasAttribute('curtain')
-    );
+    console.log('[ve-compare] shim running');
 
-    if (!curtainParams.length) return;
+    // Try every plausible content container
+    const candidates = [
+      '.post-content',
+      'article .content',
+      '.content',
+      'article',
+      'main'
+    ];
 
-    const componentUrl = basePath();
-
-    curtainParams.forEach(function (beforeEl) {
-      // The "after" param is the immediately following sibling param with ve-compare
-      let afterEl = beforeEl.nextElementSibling;
-      while (afterEl && afterEl.tagName !== 'PARAM') {
-        afterEl = afterEl.nextElementSibling;
+    let content = null;
+    for (const sel of candidates) {
+      content = document.querySelector(sel);
+      if (content) {
+        console.log('[ve-compare] found content with selector:', sel);
+        break;
       }
-      if (!afterEl || !afterEl.hasAttribute('ve-compare')) return;
+    }
 
-      const beforeUrl = beforeEl.getAttribute('url') || '';
-      const afterUrl  = afterEl.getAttribute('url')  || '';
-      if (!beforeUrl || !afterUrl) return;
+    if (!content) {
+      console.warn('[ve-compare] could not find content container — tried:', candidates);
+      return;
+    }
 
-      const beforeLabel = beforeEl.getAttribute('label') || 'Before';
-      const afterLabel  = afterEl.getAttribute('label')  || 'After';
+    const html = content.innerHTML;
+    console.log('[ve-compare] innerHTML contains ve-compare:', html.includes('ve-compare'));
+    console.log('[ve-compare] innerHTML contains param:', html.toLowerCase().includes('<param'));
+
+    // Log a snippet around any param tags for inspection
+    const idx = html.toLowerCase().indexOf('<param');
+    if (idx !== -1) {
+      console.log('[ve-compare] param context:', html.slice(Math.max(0, idx - 20), idx + 200));
+    }
+
+    if (!html.includes('ve-compare')) {
+      console.warn('[ve-compare] no ve-compare attributes found in innerHTML');
+      return;
+    }
+
+    // Find component URL from an existing embed iframe or fall back to root-relative
+    const existing = document.querySelector('iframe.embed-image-compare');
+    const url = existing
+      ? existing.src.split('?')[0]
+      : '/assets/components/image-compare.html';
+
+    console.log('[ve-compare] component URL:', url);
+
+    function getAttr(tag, name) {
+      const m = new RegExp(name + '(?:="([^"]*)")?', 'i').exec(tag);
+      return m ? (m[1] || '') : null;
+    }
+
+    // Flexible pattern: ve-compare and curtain can appear in any order
+    const pattern = /(<param\b[^>]*\bve-compare\b[^>]*\bcurtain\b[^>]*>|<param\b[^>]*\bcurtain\b[^>]*\bve-compare\b[^>]*>)\s*(?:<\/p>[\s\S]*?<p[^>]*>)?\s*(<param\b[^>]*\bve-compare\b[^>]*>)/gi;
+
+    let matchCount = 0;
+    const replaced = html.replace(pattern, function (match, beforeTag, afterTag) {
+      // Skip if afterTag also has curtain (shouldn't happen but be safe)
+      if (/\bcurtain\b/i.test(afterTag)) return match;
+
+      const beforeUrl   = getAttr(beforeTag, 'url');
+      const afterUrl    = getAttr(afterTag,  'url');
+
+      console.log('[ve-compare] match found — before:', beforeUrl, 'after:', afterUrl);
+
+      if (!beforeUrl || !afterUrl) {
+        console.warn('[ve-compare] missing url in match, skipping');
+        return match;
+      }
+
+      const beforeLabel = getAttr(beforeTag, 'label') || 'Before';
+      const afterLabel  = getAttr(afterTag,  'label') || 'After';
+
+      matchCount++;
 
       const qs = new URLSearchParams({
         before:       beforeUrl,
@@ -47,19 +86,18 @@
         label_after:  afterLabel
       });
 
-      const iframe = document.createElement('iframe');
-      iframe.className    = 'embed-image-compare';
-      iframe.loading      = 'lazy';
-      iframe.title        = beforeLabel + ' / ' + afterLabel;
-      iframe.style.cssText = 'aspect-ratio: 1.5; width: 100%; display: block; margin: 1rem 0;';
-      iframe.src          = componentUrl + '?' + qs.toString();
-      iframe.allowFullscreen = true;
-      iframe.setAttribute('allow', 'clipboard-write');
-
-      beforeEl.parentNode.insertBefore(iframe, beforeEl);
-      beforeEl.remove();
-      afterEl.remove();
+      return `<iframe class="embed-image-compare" loading="lazy"`
+           + ` title="${beforeLabel} / ${afterLabel}"`
+           + ` style="aspect-ratio:1.5;width:100%;display:block;margin:1rem 0;"`
+           + ` src="${url}?${qs}"`
+           + ` allowfullscreen allow="clipboard-write"></iframe>`;
     });
+
+    console.log('[ve-compare] replacements made:', matchCount);
+
+    if (replaced !== html) {
+      content.innerHTML = replaced;
+    }
   }
 
   if (document.readyState === 'loading') {
@@ -67,4 +105,5 @@
   } else {
     convert();
   }
+
 })();
