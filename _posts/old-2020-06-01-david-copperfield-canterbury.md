@@ -63,3 +63,4 @@ Research on Micawber's inn and Mr Dick's inn by Ken Moffat.
 [^ref4]: _David Copperfield_. Chapter 13.    
 [^ref5]: _Letter to John Forster_ [early October 1849]. Pilgrim 5. 620-1.   
 [^ref6]: _Letter To George Dolby. 1 June 1869. 362-3. 363.
+

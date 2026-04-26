@@ -1,58 +1,131 @@
-{%- if include.src -%}
-  {%- capture src_final -%}
-    {%- include media-url.html src=include.src width=include.width subpath=page.media_subpath -%}
-  {%- endcapture -%}
-  {%- assign src_final = src_final | strip | uri_escape | replace: '&', '%26' -%}
-<!-- src_final: {{ src_final }} -->
+{% comment %}
+  embed/image.html — drop-in replacement for the Juncture embed/image component.
 
-  {%- assign first_char = src_final | slice: 0, 1 -%}
-  {%- if first_char == '/' -%}
-    {%- assign src_final = site.url | append: src_final -%}
+  Parameters:
+    src      - image source; supports wc: prefix for Wikimedia Commons,
+               plain filenames (resolved via media-url.html), or full URLs.
+    aspect   - aspect ratio as a decimal (width ÷ height), e.g. 1.333 for 4:3.
+    caption  - optional caption / attribution text (HTML allowed).
+    width    - optional CSS max-width override. Defaults to 100%.
+{% endcomment %}
+
+{%- assign _src   = include.src | strip -%}
+{%- assign _p3    = _src | slice: 0, 3 -%}
+{%- assign _is_wc = false -%}
+{%- if _p3 == "wc:" -%}{%- assign _is_wc = true -%}{%- endif -%}
+
+{%- unless _is_wc -%}
+  {%- capture _img_url -%}{%- include media-url.html src=_src -%}{%- endcapture -%}
+  {%- assign _img_url = _img_url | strip -%}
+{%- endunless -%}
+
+{%- if _is_wc -%}
+  {%- assign _wc_file = _src | remove_first: "wc:" -%}
+{%- endif -%}
+
+{%- assign _max_width = include.width | default: "100%" -%}
+{%- assign _aspect_f  = include.aspect | times: 1.0 -%}
+{%- if include.aspect and _aspect_f > 0 -%}
+  {%- assign _pct = 100.0 | divided_by: _aspect_f -%}
+{%- endif -%}
+
+<figure class="embed-image" style="max-width:{{ _max_width }}; margin: 1.25rem auto;">
+  {%- if _pct and _pct > 0 -%}
+  <div style="position:relative; width:100%; padding-bottom:{{ _pct }}%;">
+    <img
+      {%- if _is_wc %} data-wc="{{ _wc_file }}" src="data:,"
+      {%- else %} src="{{ _img_url }}"
+      {%- endif %}
+      alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
+      loading="lazy"
+      style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;">
+  </div>
+  {%- else -%}
+  <img
+    {%- if _is_wc %} data-wc="{{ _wc_file }}" src="data:,"
+    {%- else %} src="{{ _img_url }}"
+    {%- endif %}
+    alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
+    loading="lazy"
+    style="width:100%;display:block;">
   {%- endif -%}
 
-  {%- assign qs = "src=" | append: src_final -%}
-{%- endif -%}
+  {%- if include.caption -%}
+  <figcaption style="font-size:0.85rem;color:var(--text-muted-color,#6c757d);margin-top:0.4rem;text-align:center;">
+    {{ include.caption }}
+  </figcaption>
+  {%- endif -%}
+</figure>
 
-{%- if include.manifest -%}
-{%- assign qs = "manifest=" | append: include.manifest | uri_escape -%}
-{%- endif -%}
+<script>
+(function () {
+  // Single shared loader — safe to call multiple times from multiple includes
+  if (window._wcLoader) return;
 
-{%- if include.seq -%}
-{%- assign qs = qs | append: "&seq=" | append: include.seq | uri_escape -%}
-{%- endif -%}
+  var _inFlight = typeof WeakSet !== 'undefined' ? new WeakSet() : null;
 
-{%- if include.caption -%}
-{%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
-{%- endif -%}
+  function loadImg(img) {
+    // Skip if already showing a real Wikimedia image
+    if (img.src && img.src.indexOf('upload.wikimedia.org') !== -1) return;
+    // Skip if a fetch is already in-flight for this exact element
+    if (_inFlight && _inFlight.has(img)) return;
+    if (_inFlight) _inFlight.add(img);
 
-{%- if include.attribution -%}
-{%- assign qs = qs | append: "&attribution=" | append: include.attribution | uri_escape -%}
-{%- endif -%}
+    var raw = img.dataset.wc || '';
+    var filename;
+    try { filename = decodeURIComponent(raw); } catch (e) { filename = raw; }
 
-{%- comment -%} Strict boolean parsing for cover {%- endcomment -%}
-{%- assign cover_val = include.cover | downcase | strip -%}
-{%- if cover_val == "true" or cover_val == "1" or cover_val == "yes" or cover_val == "on" -%}
-{%- assign qs = qs | append: "&cover=1" -%}
-{%- endif -%}
+    var api = 'https://commons.wikimedia.org/w/api.php'
+      + '?action=query&prop=imageinfo&iiprop=url&iiurlwidth=1200'
+      + '&format=json&origin=*'
+      + '&titles=' + encodeURIComponent('File:' + filename);
 
-{%- comment -%} region: IIIF-like (full | x,y,w,h | pct:x,y,w,h) {%- endcomment -%}
-{%- if include.region -%}
-{%- assign qs = qs | append: "&region=" | append: include.region | uri_escape -%}
-{%- endif -%}
+    fetch(api)
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var pages = d && d.query && d.query.pages;
+        if (!pages) return;
+        var info = Object.values(pages)[0].imageinfo;
+        if (info && info[0]) {
+          img.src = info[0].thumburl || info[0].url;
+        }
+        if (_inFlight) _inFlight.delete(img);
+      })
+      .catch(function (e) {
+        console.warn('[embed/image] Wikimedia fetch failed:', filename, e);
+        if (_inFlight) _inFlight.delete(img);
+      });
+  }
 
-{%- comment -%} rotate: IIIF-like degrees, optional ! prefix for flip (e.g. !90) {%- endcomment -%}
-{%- if include.rotate -%}
-{%- assign qs = qs | append: "&rotate=" | append: include.rotate | uri_escape -%}
-{%- endif -%}
+  function loadAll() {
+    document.querySelectorAll('img[data-wc]').forEach(loadImg);
+  }
 
-{%- assign class = "embed-image" -%}
-{%- if include.class -%}
-{%- assign class = class | append: " " | append: include.class -%}
-{%- endif -%}
+  // Re-run whenever storykit (or anything else) restructures the DOM
+  var observer = new MutationObserver(function (mutations) {
+    var found = false;
+    mutations.forEach(function (m) {
+      m.addedNodes.forEach(function (node) {
+        if (node.nodeType !== 1) return;
+        if (node.matches && node.matches('img[data-wc]')) { loadImg(node); found = true; }
+        if (node.querySelectorAll) {
+          node.querySelectorAll('img[data-wc]').forEach(function (img) {
+            loadImg(img); found = true;
+          });
+        }
+      });
+    });
+  });
 
-{%- assign qs = qs | replace: '+', '%2B' %}
+  observer.observe(document.documentElement, { childList: true, subtree: true });
 
-<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="StoryKit image viewer" allow="clipboard-write"
-  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen
-  {% if include.aspect %} style="aspect-ratio: {{ include.aspect }};" {% endif %}>
-</iframe>
+  // Initial load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadAll);
+  } else {
+    loadAll();
+  }
+
+  window._wcLoader = { load: loadAll };
+})();
+</script>

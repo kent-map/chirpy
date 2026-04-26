@@ -1,4 +1,4 @@
-{% assign featured = site.posts | where: 'featured', 'true' %}
+{% assign featured = site.posts | where: 'featured', 'true' | sort "title" %}
 
 {%- if featured.size > 0 -%}
 

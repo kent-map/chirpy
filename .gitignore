@@ -28,3 +28,6 @@ assets/js/dist
 
 .venv
 .DS_Store
+
+# Local Hosting
+_config_local.yml
