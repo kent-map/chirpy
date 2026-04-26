@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Industrial"
+title: "Canterbury's 20th-Century Industrial Heritage"
 description: "Canterbury’s 20th-century industrial heritage centres on the St Mildred’s upholstery tannery, once among Europe’s largest within the city walls. Civic philanthropy by the Williamson family and the tannery’s closure in 2002 reshaped Westgate Gardens, Tannery Field, and riverside sites through preservation and housing redevelopment."
 author: Richard Maltby
 date: 2021-07-01
