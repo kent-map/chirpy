@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Towns & cities, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/20/David_Greig_shop.jpg
 permalink: /canterbury/20c-canterbury-planning/
 published: true
 toc: false  
