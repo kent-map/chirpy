@@ -1,5 +1,5 @@
 ---
-title: "20th-Century Canterbury: Planning"
+title: "Planning in Canterbury in the 20th Century"
 description: "Post-war redevelopment in Canterbury city centre sparked a struggle between Charles Holden’s modernist master plan and a resident-led defence of historic streets and spaces. Compromise schemes, partial implementation, and later rebuilding produced a layered townscape where bomb damage, traffic planning, retail redevelopment, and pedestrianisation reshaped places such as Rose Lane, the Longmarket, and Whitefriars."
 author: Richard Maltby
 date: 2021-07-01
@@ -10,7 +10,6 @@ permalink: /canterbury/20c-canterbury-planning/
 published: true
 toc: false  
 ---
-
 
 **Planners versus anti-Planners**   
 After the [war]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) fierce controversy raged over plans for the redevelopment of the city centre. In 1945 the distinguished architect, [Charles Holden](Q1064881), whose most famous building is the University of London’s Senate House, was commissioned to put forward an all-encompassing plan for [Canterbury](Q29303). Holden’s master plan proposed an inner ring road to take traffic out of the High Street, a Civic Way through the bombed area to link the Cathedral to new civic buildings to be built in the Dane John Gardens, [transport]({{ site.baseurl }}/canterbury/20c-canterbury-transport) hubs and a new [shopping]({{ site.baseurl }}/canterbury/20c-canterbury-retail-store) centre. Holden said he did not want to destroy the heritage of the past but in “the city of the future” to enhance Canterbury’s heritage for the future. However, this meant clearing more old buildings, widening narrow streets and reorganising public spaces, with the general application of reinforced concrete. Holden’s scheme was opposed by an alliance of residents and business owners who formed the Canterbury Citizens' Defence Association (CCDA). Victory for the CCDA anti-planners in the municipal elections of November 1945 meant that no coherent scheme was carried through.
