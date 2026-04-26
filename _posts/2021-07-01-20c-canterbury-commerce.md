@@ -5,12 +5,11 @@ author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
 tags: [ Work & industry, Towns & cities, Culture & society, Travel & mobility ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Canterbury_-_The_Market_c.1913.jpg
 permalink: /canterbury/20c-canterbury-commerce/
 published: true
 toc: false  
 ---
-
 
 **Commerce**   
 In 1900 [Canterbury](Q29303) had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950 this characterisation changed very little as the population remained virtually static at 24,000 in 1900 with an increase of just 3.5% to 24,850 in 1947. Well into the 1950s farmers were driving cattle to market, twice weekly, in Upper Bridge Street. A number of Canterbury businesses nonetheless grew from small beginnings in line with the advance of 20th century technology and production.
@@ -48,5 +47,3 @@ On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/62c0d182-6f60-4916-a824-c82f77e63c3a.jpg" aspect="1.333" caption="Former Barretts showroom, now being renovated" attribution="Michelle Crowther, by kind permission" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8acd68ee-34f3-4208-8d83-69407ebfe847.jpg" aspect="1.333" caption="Site of former Barretts forecourt" attribution="Michelle Crowther, by kind permission" %}
-
-{% include embed/map.html center="51.29202871207598, 1.089396796387833" zoom="15" markers="51.29202871207598, 1.089396796387833" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
