@@ -1,5 +1,5 @@
 {% comment %}
-  embed/image.html — drop-in replacement for the Juncture embed/image component.
+  embed/image.html
 
   Parameters:
     src      - image source; supports wc: prefix for Wikimedia Commons,
@@ -14,13 +14,12 @@
 {%- assign _is_wc = false -%}
 {%- if _p3 == "wc:" -%}{%- assign _is_wc = true -%}{%- endif -%}
 
-{%- unless _is_wc -%}
+{%- if _is_wc -%}
+  {%- assign _wc_filename = _src | remove_first: "wc:" | url_decode -%}
+  {%- assign _img_url = "https://commons.wikimedia.org/wiki/Special:FilePath/" | append: _wc_filename | append: "?width=1280" -%}
+{%- else -%}
   {%- capture _img_url -%}{%- include media-url.html src=_src -%}{%- endcapture -%}
   {%- assign _img_url = _img_url | strip -%}
-{%- endunless -%}
-
-{%- if _is_wc -%}
-  {%- assign _wc_file = _src | remove_first: "wc:" -%}
 {%- endif -%}
 
 {%- assign _max_width = include.width | default: "100%" -%}
@@ -32,19 +31,15 @@
 <figure class="embed-image" style="max-width:{{ _max_width }}; margin: 1.25rem auto;">
   {%- if _pct and _pct > 0 -%}
   <div style="position:relative; width:100%; padding-bottom:{{ _pct }}%;">
-    <img
-      {%- if _is_wc %} data-wc="{{ _wc_file }}" src="data:,"
-      {%- else %} src="{{ _img_url }}"
-      {%- endif %}
+    <img class="no-lightbox"
+      src="{{ _img_url }}"
       alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
       loading="lazy"
       style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;">
   </div>
   {%- else -%}
-  <img
-    {%- if _is_wc %} data-wc="{{ _wc_file }}" src="data:,"
-    {%- else %} src="{{ _img_url }}"
-    {%- endif %}
+  <img class="no-lightbox"
+    src="{{ _img_url }}"
     alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
     loading="lazy"
     style="width:100%;display:block;">
@@ -56,76 +51,3 @@
   </figcaption>
   {%- endif -%}
 </figure>
-
-<script>
-(function () {
-  // Single shared loader — safe to call multiple times from multiple includes
-  if (window._wcLoader) return;
-
-  var _inFlight = typeof WeakSet !== 'undefined' ? new WeakSet() : null;
-
-  function loadImg(img) {
-    // Skip if already showing a real Wikimedia image
-    if (img.src && img.src.indexOf('upload.wikimedia.org') !== -1) return;
-    // Skip if a fetch is already in-flight for this exact element
-    if (_inFlight && _inFlight.has(img)) return;
-    if (_inFlight) _inFlight.add(img);
-
-    var raw = img.dataset.wc || '';
-    var filename;
-    try { filename = decodeURIComponent(raw); } catch (e) { filename = raw; }
-
-    var api = 'https://commons.wikimedia.org/w/api.php'
-      + '?action=query&prop=imageinfo&iiprop=url&iiurlwidth=1200'
-      + '&format=json&origin=*'
-      + '&titles=' + encodeURIComponent('File:' + filename);
-
-    fetch(api)
-      .then(function (r) { return r.json(); })
-      .then(function (d) {
-        var pages = d && d.query && d.query.pages;
-        if (!pages) return;
-        var info = Object.values(pages)[0].imageinfo;
-        if (info && info[0]) {
-          img.src = info[0].thumburl || info[0].url;
-        }
-        if (_inFlight) _inFlight.delete(img);
-      })
-      .catch(function (e) {
-        console.warn('[embed/image] Wikimedia fetch failed:', filename, e);
-        if (_inFlight) _inFlight.delete(img);
-      });
-  }
-
-  function loadAll() {
-    document.querySelectorAll('img[data-wc]').forEach(loadImg);
-  }
-
-  // Re-run whenever storykit (or anything else) restructures the DOM
-  var observer = new MutationObserver(function (mutations) {
-    var found = false;
-    mutations.forEach(function (m) {
-      m.addedNodes.forEach(function (node) {
-        if (node.nodeType !== 1) return;
-        if (node.matches && node.matches('img[data-wc]')) { loadImg(node); found = true; }
-        if (node.querySelectorAll) {
-          node.querySelectorAll('img[data-wc]').forEach(function (img) {
-            loadImg(img); found = true;
-          });
-        }
-      });
-    });
-  });
-
-  observer.observe(document.documentElement, { childList: true, subtree: true });
-
-  // Initial load
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadAll);
-  } else {
-    loadAll();
-  }
-
-  window._wcLoader = { load: loadAll };
-})();
-</script>
