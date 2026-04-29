@@ -1,6 +1,6 @@
 ---
 title: "Dover Castle in the Medieval and Early Modern Periods"
-description: "Dover Castle shaped royal power and coastal defence in Kent from Norman rule through the Tudor and early modern eras. Stone keeps, curtain walls, gates, and tunnels reveal how siege warfare, diplomacy, and prisoner confinement drove repeated rebuilding, while surviving graffiti preserves traces of captive lives."
+description: "The foundations of Dover Castle were built by the Romans. It maintained its military importance until World War 2, playing a vital role in Operation Dynamo (the evacuation of Dunkirk)."
 author: Daisy Miloch
 date: 2025-12-01
 categories: [ built ]
