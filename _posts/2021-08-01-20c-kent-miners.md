@@ -1,6 +1,6 @@
 ---
 title: "Mapping radical dissent: the Kent Miners, militancy and workers’ education"
-description: "Prof. Linden West discusses the 'important, complex and contested' 100 year history (1890 - 1989) of the Kent mines and miners."
+description: "Coal was first discovered in East Kent in 1890, with Betteshanger being the last pit to close in the Coalfield in 1989.  Kent miners had a reputation for militancy, and were the last to return to work in 1985 after the national strike."
 author: Professor Emeritus Linden West
 date: 2021-08-01
 categories: [ 20c ]
