@@ -1,6 +1,6 @@
 ---
 title: "Sir Winston Churchill (1874-1965)"
-description: "Michelle Whitham traces British Prime Minister Winston Churchill's long association with Kent, particularly his country house of Chartwell."
+description: "Churchill is reputed to have said that a day away from his home in Kent was a day wasted. There are three statues of the wartime Prime Minister across the county."
 author: Michelle Whitham
 date: 2022-03-25
 categories: [ 20c ]
