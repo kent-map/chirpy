@@ -1,6 +1,6 @@
 ---
 title: " William Somerset Maugham (1874-1965)"
-description: "Laura Allen traces the early influence of Kent on playwright, novelist, and short story writer, Somerset Maugham."
+description: "Somerset Maugham was educated at the King’s School in Canterbury. His ambivalence about both the school and his time living with his uncle in Whitstable appear in his fiction, where the towns are disguised as Tercanbury and Blackstable respectively."
 author:  Laura Allen
 date: 2021-03-01
 categories: [ 20c ]
