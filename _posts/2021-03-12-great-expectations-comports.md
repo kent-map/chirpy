@@ -1,11 +1,11 @@
 ---
 title: "Comports of Cooling and Great Expectations"
-description: "My first encounter with _Great Expectations_ was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spellbound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip."
+description: "My first encounter with Great Expectations was as an eleven year old, watching the 1946 David Lean film in a school hall. I was spellbound and terrified in equal measure as Magwitch appeared from behind the tomb to menace the young Pip. I was there, I was Pip."
 author: Pat Agar nee Comport
 date: 2021-03-12
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Buildings & architecture, Heritage & memory, Rivers & marshes ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/21/Cooling_Church_April.jpg
 permalink: /dickens/great-expectations-comports/
 published: true
 toc: false  
@@ -28,7 +28,7 @@ My first encounter with _Great Expectations_ was as an eleven year old, watching
 
 Very much later I realised that Pip’s terrifying encounter with Magwitch had taken place in [Cooling]({{ site.baseurl }}/dickens/great-expectations-cooling) churchyard, the man who ‘started up from among the graves at the side of the porch’ to threaten Pip was hiding behind a tomb of one of my ancestors, and the tombs that were ‘sacred to the memory of five little brothers of mine’ were the tombs of Comport children, all of whom died in early infancy. There are in fact thirteen lozenge tombs grouped around the headstone of the parents of many of them. The parents' stone towers above the tombs that are ‘each about a foot and a half long’. 
 
-{% include embed/image.html src="wc:%22Pip%27s_Graves%22%2C_Cooling.jpg" aspect="1.333" caption="Pip's Graves" %}
+{% include embed/image.html src="wc:Pip's Graves Cooling.jpg" aspect="1.333" caption="Pip's Graves" %}
 
 One summer day a cousin and I went to the Hoo Peninsula searching for Comports. We found plenty. At Cooling, close to the church porch, ten lozenge tombs, several of which were the children of Michael and Jane Comport of Cooling Court and later Cooling Castle. The dedications make for pitifully sad reading. William 1771, 8 months;, William 1773, 7 months; Frances 1775, 4 months; James 1777, 4 months; Mary, 1767; William 1779; Sarah Elizabeth, 1779, the child of George Comport of Gattons House at Cliffe; Elizabeth, 1779; Elizabeth, 1792; and Thomas, 1801, the child of Michael Comport of Decoy House, High Halstow. The other three lozenges belong to the children of John and Sarah Rose Baker. Sarah had been a Comport. In High Halstow we found similar Comport tombs, set close to the church porch and grouped in front of the parents’ headstone. In this case they are the children of Michael Smith Comport and his wife Mary Ann. 
 
