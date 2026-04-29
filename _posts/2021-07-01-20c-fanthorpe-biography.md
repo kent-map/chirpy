@@ -1,6 +1,6 @@
 ---
 title: "U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)"
-description: "Simone Blandford discusses the Kent childhood experience and influence of the author Ursula Askham Fanthorpe."
+description: "Fanthorpe was evacuated from Kent during World War 2, but her childhood experience remains visible in her later poetry."
 author: Simone Blandford
 date: 2021-07-01
 categories: [ 20c ]
