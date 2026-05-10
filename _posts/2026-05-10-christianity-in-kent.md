@@ -2,9 +2,9 @@
 title: How Christianity Came to Kent
 description: The arrival of Christianity in England
 author: Elliot Cathrow
-date: 2026-01-01
+date: 2026-05-10
 categories: [ churches ]
-tags: [ Buildings & Architecture Faith & Belief  ]
+tags: [ Buildings & Architecture, Faith & Belief  ]
 featured: false
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/2/28/St_Augustine%27s_Monastery%2C_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
