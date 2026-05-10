@@ -21,8 +21,7 @@ The start of the mission is closely linked to Pope Gregory the Great. In 597 AD,
 
 One of the most essential connections between England and France was Queen Bertha of Kent. Bertha was a Christian princess from the Frankish kingdom who wed King Ethelberht of Kent before Augustine arrived in England. Her presence in Kent fostered a link between England and intercontinental Christianity. Bertha was able to continue practising Christianity after her marriage to Etherlbert and used a small church in Canterbury known as St Martin’s Church. This church still stands today and is widely considered the oldest church in England.
 
-PICTURE OF BERTHA STATUE
-
+{% include embed/image.html src="wc:Canterbury_-_Bertha_Queen_of_Kent_-_geograph.org.uk_-_6635849.jpg" aspect="1.333" caption="Statue of Bertha Queen of Kent located in Lady Wootton's Green" %}
 
 St Martin’s Church is extremely significant because it is evidence that Christianity had already reached Kent via French influence prior to Augustine’s arrival in England. The church was used by Queen Bertha and her chaplain, Bishop Liudhard, who also arrived from France. Augustine and his monks are widely believed to have used the church when they first reached Canterbury.
 
@@ -32,8 +31,10 @@ When Augustine arrived in Kent, King Ethelberht allowed him to preach Christiani
 
 Canterbury became the capital of this growing Christian community. Augustine founded his headquarters there and went on to become the first Archbishop of Canterbury. The city quickly became the religious core of England, a position it still holds today through the Archbishop of Canterbury.
 
+The most famous landmark connected to this period is Canterbury Cathedral. The cathedral stands on the site where Augustine established his church after arriving in 597 AD. Although much of the current building was constructed later in the medieval period, the land itself dates all the way back to Augustine’s mission. Canterbury Cathedral became the symbol of Christianity in England and has endured as one of the most significant churches in England. The cathedral reflects the success of Augustine’s mission and the lasting establishment of Christianity among the Anglo Saxons. 
 
-The most famous landmark connected to this period is Canterbury Cathedral. The cathedral stands on the site where Augustine established his church after arriving in 597 AD. Although much of the current building was constructed later in the medieval period, the land itself dates all the way back to Augustine’s mission. Canterbury Cathedral became the symbol of Christianity in England and has endured as one of the most significant churches in England. The cathedral reflects the success of Augustine’s mission and the lasting establishment of Christianity among the Anglo Saxons. PICTURE OF CANTERBURY CATHEDRAL
+{% include embed/image.html src="wc:Canterbury Cathedral - Portal Nave Cross-spire.jpeg" aspect="1.333" caption="Canterbury Cathedral - Portal Nave Cross-spire" %}
+
 
 Canterbury Cathedral went on to become famous throughout Europe due to the murder of Archbishop Thomas Becket in 1170. Pilgrims travelled from across Europe and England to visit Becket’s shrine, which made Canterbury one of the most vital pilgrimage destinations in medieval Christianity. Geoffrey Chaucer’s Canterbury Tales was actually inspired by these pilgrimages. Although this happened many centuries following Augustine’s mission, it reflects how Canterbury continues to hold religious significance long after Christianity first came to England. .
 
