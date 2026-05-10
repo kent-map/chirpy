@@ -1,10 +1,23 @@
-How Christianity Came to England from France:
+---
+title: How Christianity Came to Kent
+description: The arrival of Christianity in England
+author: Elliot Cathrow
+date: 2026-01-01
+categories: [ ]
+tags: [ ]
+published: false
+featured: false
+media_subpath: /assets/img
+image:
+  path: 
+  alt: 
+---
 
 The arrival of Christianity in England was one of the most significant events in English history. Before Christianity expanded across the country, the Anglo-Saxons mostly followed pagan religions and worshipped multiple gods associated with nature, war and farming. The conversion of England started in the late sixth century and was massively influenced by connections with Rome and France. As a result of Augustine of Canterbury’s mission, Christianity became established in Kent before slowly spreading throughout Anglo Saxon England. Canterbury became the core of this religious shift and many of its historic landmarks still stand today as reminders of such a significant time period.
 
 By the sixth century, Christianity was already in Gaul, which is known today as France. The kingdoms that ruled a vast part of France had welcomed Christianity into their society and supported the expansion of the religion across Europe. According to historian Rob Meens, the role of the Frankish church in the conversion of England was majorly crucial. Meens argues that Frankish churches, clerics and Christian traditions played a crucial role in aiding the success of the mission to England.
 
-The start of the mission is closely linked to Pope Gregory the Great. In 597 AD, Gregory sent a group of monks led by Augustine to convert the Anglo-Saxons to Christianity. Augustine was a monk from Rome, but his voyage to England depended majorly on the support from the Christian groups in France. As Ian Wood explains in The Mission of Augustine of Canterbury to the English, the mission travelled through Frankish territory and acquired assistance from Frankish bishops and rulers. Without that support, the mission could have never succeeded. The missionaries were given guidance, supplies and protection during their journey to England.
+The start of the mission is closely linked to Pope Gregory the Great. In 597 AD, Gregory sent a group of monks led by Augustine to convert the Anglo-Saxons to Christianity. Augustine was a monk from Rome, but his voyage to England depended majorly on the support from the Christian groups in France. As Ian Wood explains in _The Mission of Augustine of Canterbury to the English_, the mission travelled through Frankish territory and acquired assistance from Frankish bishops and rulers. Without that support, the mission could have never succeeded. The missionaries were given guidance, supplies and protection during their journey to England.
 
 One of the most essential connections between England and France was Queen Bertha of Kent. Bertha was a Christian princess from the Frankish kingdom who wed King Ethelberht of Kent before Augustine arrived in England. Her presence in Kent fostered a link between England and intercontinental Christianity. Bertha was able to continue practising Christianity after her marriage to Etherlbert and used a small church in Canterbury known as St Martin’s Church. This church still stands today and is widely considered the oldest church in England.
 
@@ -38,12 +51,11 @@ Canterbury’s Roman history also played a pivotal role in the spread of Christi
 
 Today, St Martin’s Church, St Augustine’s Abbey and Canterbury Cathedral together form a UNESCO World Heritage Site. These landmarks are recognised globally due to their significance in the history of Christianity. Together, they tell a story of how Christianity spread from Europe into England and became established among the Anglo Saxons.
 
-In short, Christianity came to England via a mission that depended majorly on connections with France and Rome. Augustine of Canterbury, sent by Pope Gregory, advanced through Frankish territory and received aid from French Christians prior to arriving in Kent in 597 AD. Queen Bertha’s Christian faith and her application of St Martin’s Church supplied an important connection between England and the Frankish kingdoms even before Augustine came to England. Canterbury became the core of the new English church through the establishment of Canterbury Cathedral and St Augustine’s Abbey. These landmarks still stand today as evidence, marking one of the most consequential turning points in English history. The survival of these
+In short, Christianity came to England via a mission that depended majorly on connections with France and Rome. Augustine of Canterbury, sent by Pope Gregory, advanced through Frankish territory and received aid from French Christians prior to arriving in Kent in 597 AD. Queen Bertha’s Christian faith and her application of St Martin’s Church supplied an important connection between England and the Frankish kingdoms even before Augustine came to England. Canterbury became the core of the new English church through the establishment of Canterbury Cathedral and St Augustine’s Abbey. These landmarks still stand today as evidence, marking one of the most consequential turning points in English history. The survival of these sites enables modern day visitors to understand how Christianity spread from France and Rome into England and reshaped the country forever.
 
-sites enables modern day visitors to understand how Christianity spread from France and Rome into England and reshaped the country forever.
+### References
 
-References:
-
-Wood, I. (1994) ‘The Mission of Augustine of Canterbury to the English’ https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782 https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/history-and-stories/ https://www.canterbury-cathedral.org/
-
-Meens, R. (1994) ‘A background to Augustine's mission to Anglo-Saxon England’
+Wood, I. (1994) ‘The Mission of Augustine of Canterbury to the English’ https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782    
+https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/history-and-stories/    
+https://www.canterbury-cathedral.org/   
+Meens, R. (1994) ‘A background to Augustine's mission to Anglo-Saxon England’   
