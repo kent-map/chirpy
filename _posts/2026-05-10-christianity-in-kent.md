@@ -55,7 +55,7 @@ In short, Christianity came to England via a mission that depended majorly on co
 
 ### References
 
-Wood, I. (1994) ‘The Mission of Augustine of Canterbury to the English’ https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782    
+Wood, I. (1994) [‘The Mission of Augustine of Canterbury to the English’](https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782) _Speculum_ Volume 69, Number 1 Jan., 1994,    
 https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/history-and-stories/    
 https://www.canterbury-cathedral.org/   
 Meens, R. (1994) ‘A background to Augustine's mission to Anglo-Saxon England’   
