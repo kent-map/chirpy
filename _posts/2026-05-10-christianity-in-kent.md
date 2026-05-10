@@ -3,14 +3,15 @@ title: How Christianity Came to Kent
 description: The arrival of Christianity in England
 author: Elliot Cathrow
 date: 2026-01-01
-categories: [ ]
-tags: [ ]
-published: false
+categories: [ churches ]
+tags: [ Buildings & Architecture Faith & Belief  ]
 featured: false
-media_subpath: /assets/img
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/2/28/St_Augustine%27s_Monastery%2C_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
   alt: St Augustine's Abbey
+permalink: /churches/christianity-in-kent/
+published: true
+toc: false  
 ---
 
 The arrival of Christianity in England was one of the most significant events in English history. Before Christianity expanded across the country, the Anglo-Saxons mostly followed pagan religions and worshipped multiple gods associated with nature, war and farming. The conversion of England started in the late sixth century and was massively influenced by connections with Rome and France. As a result of Augustine of Canterbury’s mission, Christianity became established in Kent before slowly spreading throughout Anglo Saxon England. Canterbury became the core of this religious shift and many of its historic landmarks still stand today as reminders of such a significant time period.
