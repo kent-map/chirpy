@@ -4,7 +4,7 @@ description: In this article Helen Counsell remembers her time at Fort Pitt Gram
 author: Helen Counsell
 date: 2026-04-15
 categories: [ built ]
-tags: [Building & architecture, Heritage & memory  ]
+tags: [Buildings & architecture, Heritage & memory  ]
 published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
