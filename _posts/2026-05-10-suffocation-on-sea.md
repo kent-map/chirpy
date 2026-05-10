@@ -1,6 +1,6 @@
 ---
 title: "Suffocation on Sea"
-description: Visiting Herne Bay: A neurodivergent perspective of the seaside
+description: A neurodivergent perspective of visiting Herne Bay
 author: Teddie Bigley
 date: 2026-05-10
 categories: [ 21c ]
