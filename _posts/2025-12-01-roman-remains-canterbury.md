@@ -35,7 +35,7 @@ Another church where the reuse of Roman materials can be seen is St Mildred's, b
 
 A much larger site that contains reused Roman is St Augustine’s Abbey, which was once build entirely from reused Romans materials but which can only be seen with St Pancras Church at the East end of the site. This structure is one of the oldest parts of the site, constructed in the early 7th century,[^ref12] and is made up almost entirely of Roman red bricks. This stands out from the rest of the site today as it is the only remaining building using these bricks, as most of the original Abbey was renovated by the Normans in the later 11th and early 12th centuries.[^ref13] Like St Martin's Church, the likely reason for this church to be built from Roman red bricks is because of thier durability when compared to contemporary wattle and daub walls, as well as the ease of obtaining these Roman material.  
 
-{% include embed/image.html src="wc:St_Augustine_Canterbury_St_Pancras_church2.JPG" aspect="1.778" caption="Remains of St Pancras church in St Augustine Abby" %}
+{% include embed/image.html src="wc:St_Augustine_Canterbury_St_Pancras_church2.JPG" aspect="1.778" caption="Remains of St Pancras church in St Augustine Abbey" %}
 
 The walls which surround the city of Canterbury contain reused Roman materials in some of it earliest medieval sections. Canterbury has had walls surrounding it since the Roman city was built,[^ref14] yet the walls which can be seen today are primarily the remains of the later medieval walls.[^ref15] The easiest section at which to find reused materials can be found as Queningate where the remnants of an archway constructed from Roman materials is visible.
 
