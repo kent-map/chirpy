@@ -9,8 +9,8 @@ published: false
 featured: false
 media_subpath: /assets/img
 image:
-  path: 
-  alt: 
+  path: https://upload.wikimedia.org/wikipedia/commons/2/28/St_Augustine%27s_Monastery%2C_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  alt: St Augustine's Abbey
 ---
 
 The arrival of Christianity in England was one of the most significant events in English history. Before Christianity expanded across the country, the Anglo-Saxons mostly followed pagan religions and worshipped multiple gods associated with nature, war and farming. The conversion of England started in the late sixth century and was massively influenced by connections with Rome and France. As a result of Augustine of Canterbury’s mission, Christianity became established in Kent before slowly spreading throughout Anglo Saxon England. Canterbury became the core of this religious shift and many of its historic landmarks still stand today as reminders of such a significant time period.
@@ -43,7 +43,7 @@ Another important landmark associated with Augustine’s mission is St Augustine
 
 Although much of the abbey now survives only as ruins of the past, it still demonstrates how Christianity became rooted in English society. The abbey’s remains enable visitors and historians to connect with the early Christian history of Canterbury.
 
-{% include embed/image.html src="wc:St. Augustine's Abbey - geograph.org.uk - 3724295.jpg" aspect="1.333" caption="St Augustine's Abbey" %}
+{% include embed/image.html src="wc:St Augustine's Monastery, Kent 2.jpg" aspect="1.333" caption="St Augustine's Abbey" %}
 
 The surviving landmarks in Canterbury also reflect how Christianity connected England to the rest of the European world. Augustine’s mission was not merely an isolated English event. It involved cooperation between France, Rome and England. Frankish Christians gave support for the missionaries and ideas from continental Europe shaped the English church. Rob Meens argues that historians oftentimes underestimated the role of the Frankish church in this process. However, the evidence from Pope Gregory’s letters and other historical documents suggests that Frankish support was crucial.
 
@@ -57,7 +57,7 @@ In short, Christianity came to England via a mission that depended majorly on co
 
 ### References
 
-Wood, I. (1994) [‘The Mission of Augustine of Canterbury to the English’](https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782) _Speculum_ Volume 69, Number 1 Jan., 1994,    
-https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/history-and-stories/    
-https://www.canterbury-cathedral.org/   
-Meens, R. (1994) ‘A background to Augustine's mission to Anglo-Saxon England’   
+Wood, I. (1994) [‘The Mission of Augustine of Canterbury to the English’](https://www.journals.uchicago.edu/doi/epdf/10.2307/2864782) _Speculum_ Vol. 69, No. 1 Jan. (1994), pp. 1-17.   
+[St Augustine's Abbey](https://www.english-heritage.org.uk/visit/places/st-augustines-abbey/history-and-stories/)    
+[Canterbury Cathedral](https://www.canterbury-cathedral.org/)   
+Meens, R. (1994) ‘A background to Augustine's mission to Anglo-Saxon England’ _Anglo-Saxon England_, Vol. 23 (1994), pp. 5-17.  
