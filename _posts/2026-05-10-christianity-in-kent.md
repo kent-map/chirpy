@@ -35,14 +35,13 @@ The most famous landmark connected to this period is Canterbury Cathedral. The c
 
 {% include embed/image.html src="wc:Canterbury Cathedral - Portal Nave Cross-spire.jpeg" aspect="1.333" caption="Canterbury Cathedral - Portal Nave Cross-spire" %}
 
-
 Canterbury Cathedral went on to become famous throughout Europe due to the murder of Archbishop Thomas Becket in 1170. Pilgrims travelled from across Europe and England to visit Becket’s shrine, which made Canterbury one of the most vital pilgrimage destinations in medieval Christianity. Geoffrey Chaucer’s Canterbury Tales was actually inspired by these pilgrimages. Although this happened many centuries following Augustine’s mission, it reflects how Canterbury continues to hold religious significance long after Christianity first came to England. .
 
 Another important landmark associated with Augustine’s mission is St Augustine’s Abbey. The abbey was founded not long after Augustine arrived in England and became one of the most notable monasteries in Anglo Saxon England. Monasteries played a vital role in spreading Christianity because they served as hubs of education and worship. Monks taught Christian beliefs, copied manuscripts and trained priests who travelled across England evangelising.
 
 Although much of the abbey now survives only as ruins of the past, it still demonstrates how Christianity became rooted in English society. The abbey’s remains enable visitors and historians to connect with the early Christian history of Canterbury.
 
-PICTURE OF ST AUGUSTINE’S ABBEY
+{% include embed/image.html src="wc:St. Augustine's Abbey - geograph.org.uk - 3724295.jpg" aspect="1.333" caption="St Augustine's Abbey" %}
 
 The surviving landmarks in Canterbury also reflect how Christianity connected England to the rest of the European world. Augustine’s mission was not merely an isolated English event. It involved cooperation between France, Rome and England. Frankish Christians gave support for the missionaries and ideas from continental Europe shaped the English church. Rob Meens argues that historians oftentimes underestimated the role of the Frankish church in this process. However, the evidence from Pope Gregory’s letters and other historical documents suggests that Frankish support was crucial.
 
