@@ -25,7 +25,9 @@ One of the most essential connections between England and France was Queen Berth
 
 St Martin’s Church is extremely significant because it is evidence that Christianity had already reached Kent via French influence prior to Augustine’s arrival in England. The church was used by Queen Bertha and her chaplain, Bishop Liudhard, who also arrived from France. Augustine and his monks are widely believed to have used the church when they first reached Canterbury.
 
-This reflects that the Christian mission in England was not completely isolated but was linked to Christian traditions already firmly established throughout the Frankish kingdom. PICTURE OF ST MARTIN’S CHURCH
+This reflects that the Christian mission in England was not completely isolated but was linked to Christian traditions already firmly established throughout the Frankish kingdom. 
+
+{% include embed/image.html src="wc:St Martin's Church, Canterbury 2.jpg" aspect="1.333" caption="St Martin's Church, Canterbury 2.jpg" %}
 
 When Augustine arrived in Kent, King Ethelberht allowed him to preach Christianity. Based on tradition, Augustine first met the king outdoors because Ethelberht feared the monks might use magical powers indoors. Augustine ultimately gained the king’s trust, and Ethelberht became christian. His conversion was highly significant as Anglo Saxon society commonly followed the religion of the king. As more and more nobles and ordinary people welcomed Christianity, monasteries and churches began to pop up across Kent.
 
@@ -35,7 +37,7 @@ The most famous landmark connected to this period is Canterbury Cathedral. The c
 
 {% include embed/image.html src="wc:Canterbury Cathedral - Portal Nave Cross-spire.jpeg" aspect="1.333" caption="Canterbury Cathedral - Portal Nave Cross-spire" %}
 
-Canterbury Cathedral went on to become famous throughout Europe due to the murder of Archbishop Thomas Becket in 1170. Pilgrims travelled from across Europe and England to visit Becket’s shrine, which made Canterbury one of the most vital pilgrimage destinations in medieval Christianity. Geoffrey Chaucer’s Canterbury Tales was actually inspired by these pilgrimages. Although this happened many centuries following Augustine’s mission, it reflects how Canterbury continues to hold religious significance long after Christianity first came to England. .
+Canterbury Cathedral went on to become famous throughout Europe due to the murder of Archbishop Thomas Becket in 1170. Pilgrims travelled from across Europe and England to visit Becket’s shrine, which made Canterbury one of the most vital pilgrimage destinations in medieval Christianity. [Geoffrey Chaucer]({{ site.baseurl }}/medieval/14c-chaucer/)’s _Canterbury Tales_ was actually inspired by these pilgrimages. Although this happened many centuries following Augustine’s mission, it reflects how Canterbury continues to hold religious significance long after Christianity first came to England. .
 
 Another important landmark associated with Augustine’s mission is St Augustine’s Abbey. The abbey was founded not long after Augustine arrived in England and became one of the most notable monasteries in Anglo Saxon England. Monasteries played a vital role in spreading Christianity because they served as hubs of education and worship. Monks taught Christian beliefs, copied manuscripts and trained priests who travelled across England evangelising.
 
