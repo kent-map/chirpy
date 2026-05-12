@@ -96,8 +96,9 @@ Ben Bethell received a PhD in history from the University of London in 2020. He 
 
 ## Teddy T. Bigley
 
-An undergraduate BA Hons Creative & Professional Writing student at Canterbury Christ Church University, expressing experiences and emotion through writing and photography.
+![Teddy T. Bigley](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/teddiebigley.jpg){: .right}
 
+An undergraduate BA Hons Creative & Professional Writing student at Canterbury Christ Church University, expressing experiences and emotion through writing and photography.
 
 ## Catriona Blaker
 
