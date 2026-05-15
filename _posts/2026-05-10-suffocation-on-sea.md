@@ -6,7 +6,7 @@ date: 2026-05-10
 categories: [ 21c ]
 tags: [ Coast & Sea ]
 published: true
-featured: true
+featured: false
 permalink: /21c/suffocation-on-sea/
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ARCADE.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 juncture: true
