@@ -94,9 +94,9 @@ Alexa Barrett is an undergraduate English Literature and Creative and Profession
 
 Ben Bethell received a PhD in history from the University of London in 2020. He is Lecturer in Cultural Histories at Central Saint Martins, University of the Arts London. His first book, _‘Star Men’ in English Convict Prisons, 1879-1948_, published in 2022, examines prison history through converging lenses of class, sexuality, and labour.
 
-## Teddy T. Bigley
+## Teddie T. Bigley
 
-![Teddy T. Bigley](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/teddiebigley.jpg){: .right}
+![Teddie T. Bigley](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/teddiebigley.jpg){: .right}
 
 An undergraduate BA Hons Creative & Professional Writing student at Canterbury Christ Church University, expressing experiences and emotion through writing and photography.
 
