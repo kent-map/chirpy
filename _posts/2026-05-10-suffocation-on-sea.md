@@ -1,7 +1,7 @@
 ---
 title: "Suffocation on Sea"
 description: "A neurodivergent perspective of visiting Herne Bay"
-author: Teddie Bigley
+author: Teddie T. Bigley
 date: 2026-05-10
 categories: [ 21c ]
 tags: [ Coast & Sea ]
