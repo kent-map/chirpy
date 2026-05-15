@@ -38,6 +38,7 @@ Then came the walk back to the station. We went down the back streets, avoiding 
 The train back felt okay, it was emptier and quieter. I was able to focus on my friend and the passing trees.   
 <br>
 Herne Bay has been described as a failed seaside resort., If I were any other person, I would question this – however, as a neurodivergent person, it couldn’t seem more true.
+{% include embed/image.html src="wc:BOAT - Personal Favourite.jpg" aspect="1.213" caption="Boat" %}
 
 **Suggested reading**   
 Bundock, Mike. _Herne Bay 1830 – 1880 a failed seaside resort?_ https://www.hbhrs.org/files/1047-1-1.pdf   
