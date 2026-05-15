@@ -6,11 +6,9 @@ date: 2026-05-10
 categories: [ 21c ]
 tags: [ Coast & Sea ]
 published: false
-featured: false
+featured: true
 media_subpath: /assets/img
-image:
-  path: 
-  alt: 
+image: https://upload.wikimedia.org/wikipedia/commons/4/45/ARCADE.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 ---
 
 **The Train**   
