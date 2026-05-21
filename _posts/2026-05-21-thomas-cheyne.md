@@ -1,5 +1,5 @@
 ---
-title: Sir Thomas Cheyne: Sheppey’s Forgotten Knight
+title: "Sir Thomas Cheyne: Sheppey’s Forgotten Knight"
 description: 
 author: Tony Dawson
 date: 2026-05-21
@@ -9,8 +9,7 @@ published: false
 featured: false
 media_subpath: /assets/img
 image:
-  path: 
-  alt: 
+ 
 ---
 
 
@@ -22,13 +21,13 @@ Thomas Cheyne also experienced combat in battle.  On the 25th April 1513 he ente
 
 Sir Thomas Cheyne was appointed to serve alongside Henry VIII again in 1520, at the ‘Field of Cloth and Gold’ - a diplomatic event between Henry VIII and Francis I, designed to strengthen relations between England and France. Cheyne, gained a reputation as an international diplomat for the Tudor court.[^ref10]  In May 1522, Cheyne received instruction to encourage Francis to make a truce with The Emperor ‘of the Holy Roman Empire’ Charles V. This period coincided with the Visit from Charles V to England in May 1522. Cheyne’s sphere within the Tudor Court was not limited to international diplomacy. He was the king’s personal envoy charged with sourcing horses for Henry's interest in equestrian sports.[^ref11]  
 
-Spanning the reign of Henry VIII, Cheyne held many positions of responsibility and power.  He was appointed Constable of Queenborough (1512), Rochester (1525), Dover (1536) and Saltwood Castles (1540), positions which he held until his death.” Other positions included: Sherrif of Kent (1515); Knight of the Garter; Justice of the peace; Knight of the shire; Lord Warden of the Cinque Ports; Treasurer of the household; Privy Councillor, making him one of Henry’s trusted advisors. 
+Spanning the reign of Henry VIII, Cheyne held many positions of responsibility and power.  He was appointed Constable of Queenborough (1512), Rochester (1525), Dover (1536) and Saltwood Castles (1540), positions which he held until his death. Other positions included: Sherrif of Kent (1515); Knight of the Garter; Justice of the peace; Knight of the shire; Lord Warden of the Cinque Ports; Treasurer of the household; Privy Councillor, making him one of Henry’s trusted advisors. 
 
 In 1532, Cheyne extended a personal invitation to King Henry, and his soon to be bride Anne Boleyn, to stay at his family home, Shurland Hall.[^ref12] Anne was related to Thomas’s half-brother Francis, whose mother was Isabel Boleyn. The visit lasted for a period of three days and incurred a total expenditure of “£30 13s. 4d”[^ref13]  an enormous sum at the time. 
 
 Cheyne benefitted greatly from his relationship with Henry and after the dissolution of the monasteries was granted “the site of the [Minster] Abbey, together with all its lands, the windmill, sundry premises, and all other possessions whatsoever”.[^ref14] As a result, he became the “paramount Lord over all Sheppey".[^ref15]  At the time of the dissolution, the Abbey had around 470 sheep.”[^ref16]  Cheyne obtained royal licences to export “no less than five hundred sacks of wool"[^ref17]  which benefitted the island’s economy greatly.  Queenborough became a prosperous shipping port and a staple for wool.[^ref18]  Cheyne’s loyalty to  Henry VIII was rewarded. At his death, Henry VIII left Cheyne £200 “in token of his special love and favour” and named him as an assistant executor.[^ref19] 
 
-During his lifetime, Thomas became one of the most powerful men in Kent.[^20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^21] He died on the 16 December 1558 at the Tower of London; his remains were returned to Sheppey.
+During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 at the Tower of London; his remains were returned to Sheppey.
 
 ### References
 
