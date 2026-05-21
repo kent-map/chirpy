@@ -3,15 +3,15 @@ title: "Sir Thomas Cheyne: Sheppey’s Forgotten Knight"
 description: 
 author: Tony Dawson
 date: 2026-05-21
-categories: [ ]
-tags: [ ]
-published: false
+categories: [ 15c ]
+tags: [ Conflict & war  ]
+published: true
 featured: false
-media_subpath: /assets/img
 image: https://upload.wikimedia.org/wikipedia/commons/f/f8/10._Westminster_Roll_selected_scenes_260814_005_A5.jpg
- 
+permalink: /15c/15c-thomas-cheyne/
+published: true
+toc: false 
 ---
-
 
 Like most families of nobility during the early modern period, the Cheynes could trace their lineage back to the Norman Conquest. Thomas Cheyne was born c. 1485, the son of William de Cheyne and Margaret Young of Shurland Hall, Sheppey. The family was influential on the Isle of Sheppey but also at the Tudor court. Thomas’s father, William, was Constable of Queenborough Castle, and Sheriff of Kent. However, his father died when Thomas was very young and his uncle John Cheyne of Berkshire, who was Henry Tudor’s standard bearer at the Battle of Bosworth Field, became his guardian.[^ref1] Thomas with his half-brother Francis grew up in and around court, where their uncle John, who was known as the "Vigorous Knight" was influential. At Henry VII’s funeral in 1509, Thomas, Francis and John Cheny [sic] (a cousin) were listed as squires for the body of the King[^ref2] and at the Coronation of the new king, Francis was one of 26 “honourable persons” to be made a Knight of the Bath .[^ref3]
 
