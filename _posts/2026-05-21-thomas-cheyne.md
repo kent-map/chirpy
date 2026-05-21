@@ -33,6 +33,8 @@ Cheyne benefitted greatly from his relationship with Henry and after the dissolu
 
 During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 of the the 'new ague' at the Tower of London[^ref22]; his remains were returned to Sheppey and was buried at the chapel of St John-at-Minster.[^ref23]
 
+Sheppey - Minster Abbey church - Tomb of Sir Thomas Cheyne - geograph.org.uk - 7401701.jpg
+
 ### References
 
 [^ref1]: Fleming, Peter. _Sir Thomas Cheyne, Lord Warden of the Cinque Ports, 1536-1558: Central Authority and the Defence of Local Privilege_, Hambledon Press, 1998, p.125.
