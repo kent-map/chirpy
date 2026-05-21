@@ -17,7 +17,7 @@ Like most families of nobility during the early modern period, the Cheynes could
 
 Thomas and Francis enjoyed life at court and took part in the ‘feats of arms’. As one of Henry's loyal supporters, Thomas was given an annuity of 20 _l_ during pleasure in August 1509.[^ref4] In late May/early June 1510, during a week of tournaments, Francis fought in combat against Lord Howard, whilst Thomas was pitted against the King.[^ref5] After the birth of his first son, Henry Duke of Cornwall, Henry VIII held a public tournament, to mark the occasion.  Cheyne’s presence is recorded, “Signed for the first day: Rycharde Gray, Thomas Cheyny, William Par, Robert Morton, Richard Blunt, Thomas Tyrell, Sr. Rowland, Cristoffer Willoughby.”  Henry wanted this event to be documented, and a roll of honour was produced, with an illustrated manuscript of the tournament.[^ref6]
 
-The Westminster Tournament Challenge.jpg
+{% include embed/image.html src="wc:The Westminster Tournament Challenge.jpg" aspect="1.333" caption="The Westminster Tournament Challenge" %}
 
 Thomas Cheyne also experienced combat in battle.  On the 25th April 1513 he entered Brest harbour with Admiral Howard to “burn the French vessels lying there”  Howard lost his life but, “Cheyne came out of the conflict unscathed,”[^ref7]   Cheyne would also join Henry in the August of that year at the Battle of Spurs where he was given orders to supply twenty men to fight in the war.[^ref8]  This was a significant battle for Henry who had joined with the forces of the ‘Holy League’ comprising the Papal States under Pope Julius II, Spain under Ferdinand II of Aragon, the Holy Roman Empire under Maximillian I and the Swiss Confederacy. A victory for Henry not only served the interests and objectives of the ‘Holy League’ in their war against the French; but was also an opportunity for the young Tudor king, to demonstrate England's power under his leadership and cement himself as a powerful figure of state.  
 
@@ -25,7 +25,7 @@ Sir Thomas Cheyne was appointed to serve alongside Henry VIII again in 1520, at 
 
 Spanning the reign of Henry VIII, Cheyne held many positions of responsibility and power.  He was appointed Constable of Queenborough (1512), Rochester (1525), Dover (1536) and Saltwood Castles (1540). Other positions included: Sherrif of Kent (1515); Knight of the Garter; Justice of the peace; Knight of the shire; Lord Warden of the Cinque Ports; Treasurer of the household; Privy Councillor, making him one of Henry’s trusted advisors. 
 
-Coat of arms of Sir Thomas Cheney, KG.png
+{% include embed/image.html src="wc:Coat of arms of Sir Thomas Cheney, KG.png" aspect="1.333" caption="The Coat of Arms of Sir Thomas Cheney" %}
 
 In 1532, Cheyne extended a personal invitation to King Henry, and his soon to be bride Anne Boleyn, to stay at his family home, Shurland Hall.[^ref12] Anne was related to Thomas’s half-brother Francis, whose mother was Isabel Boleyn. The visit lasted for a period of three days and incurred a total expenditure of “£30 13s. 4d”[^ref13]  an enormous sum at the time. 
 
@@ -33,7 +33,7 @@ Cheyne benefitted greatly from his relationship with Henry and after the dissolu
 
 During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 of the the 'new ague' at the Tower of London[^ref22]; his remains were returned to Sheppey and was buried at the chapel of St John-at-Minster.[^ref23]
 
-Sheppey - Minster Abbey church - Tomb of Sir Thomas Cheyne - geograph.org.uk - 7401701.jpg
+{% include embed/image.html src="wc:Sheppey - Minster Abbey church - Tomb of Sir Thomas Cheyne - geograph.org.uk - 7401701.jpg" aspect="1.333" caption="The Tomb of Sir Thomas Cheney" %}
 
 ### References
 
