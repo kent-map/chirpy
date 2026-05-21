@@ -49,8 +49,8 @@ During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]
 [^ref16]: Daly, _History of the Isle of Sheppey_, 146.
 [^ref17]: Daly, _History of the Isle of Sheppey_, 138.
 [^ref18]: Daly, _History of the Isle of Sheppey_, 175.
-[^ref19]: Lehmberg, “Cheyne, Sir Thomas.”
-[^ref20]: Lehmberg, “Cheyne, Sir Thomas.”
+[^ref19]: Lehmberg, “Cheyne, Sir Thomas(c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography_.  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
+[^ref20]: Lehmberg, “Cheyne, Sir Thoma (c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography._  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
 [^ref21]: Daly, _History of the Isle of Sheppey_, 166.
 
 
