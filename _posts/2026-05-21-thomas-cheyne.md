@@ -8,7 +8,7 @@ tags: [ ]
 published: false
 featured: false
 media_subpath: /assets/img
-image:
+image: https://upload.wikimedia.org/wikipedia/commons/f/f8/10._Westminster_Roll_selected_scenes_260814_005_A5.jpg
  
 ---
 
@@ -17,11 +17,15 @@ Like most families of nobility during the early modern period, the Cheynes could
 
 Thomas and Francis enjoyed life at court and took part in the ‘feats of arms’. As one of Henry's loyal supporters, Thomas was given an annuity of 20 _l_ during pleasure in August 1509.[^ref4] In late May/early June 1510, during a week of tournaments, Francis fought in combat against Lord Howard, whilst Thomas was pitted against the King.[^ref5] After the birth of his first son, Henry Duke of Cornwall, Henry VIII held a public tournament, to mark the occasion.  Cheyne’s presence is recorded, “Signed for the first day: Rycharde Gray, Thomas Cheyny, William Par, Robert Morton, Richard Blunt, Thomas Tyrell, Sr. Rowland, Cristoffer Willoughby.”  Henry wanted this event to be documented, and a roll of honour was produced, with an illustrated manuscript of the tournament.[^ref6]
 
+The Westminster Tournament Challenge.jpg
+
 Thomas Cheyne also experienced combat in battle.  On the 25th April 1513 he entered Brest harbour with Admiral Howard to “burn the French vessels lying there”  Howard lost his life but, “Cheyne came out of the conflict unscathed,”[^ref7]   Cheyne would also join Henry in the August of that year at the Battle of Spurs where he was given orders to supply twenty men to fight in the war.[^ref8]  This was a significant battle for Henry who had joined with the forces of the ‘Holy League’ comprising the Papal States under Pope Julius II, Spain under Ferdinand II of Aragon, the Holy Roman Empire under Maximillian I and the Swiss Confederacy. A victory for Henry not only served the interests and objectives of the ‘Holy League’ in their war against the French; but was also an opportunity for the young Tudor king, to demonstrate England's power under his leadership and cement himself as a powerful figure of state.  
 
 Sir Thomas Cheyne was appointed to serve alongside Henry VIII again in 1520, at the ‘Field of Cloth and Gold’ - a diplomatic event between Henry VIII and Francis I, designed to strengthen relations between England and France. Cheyne, gained a reputation as an international diplomat for the Tudor court.[^ref10]  In May 1522, Cheyne received instruction to encourage Francis to make a truce with The Emperor ‘of the Holy Roman Empire’ Charles V. This period coincided with the Visit from Charles V to England in May 1522. Cheyne’s sphere within the Tudor Court was not limited to international diplomacy. He was the king’s personal envoy charged with sourcing horses for Henry's interest in equestrian sports.[^ref11]  
 
 Spanning the reign of Henry VIII, Cheyne held many positions of responsibility and power.  He was appointed Constable of Queenborough (1512), Rochester (1525), Dover (1536) and Saltwood Castles (1540). Other positions included: Sherrif of Kent (1515); Knight of the Garter; Justice of the peace; Knight of the shire; Lord Warden of the Cinque Ports; Treasurer of the household; Privy Councillor, making him one of Henry’s trusted advisors. 
+
+Coat of arms of Sir Thomas Cheney, KG.png
 
 In 1532, Cheyne extended a personal invitation to King Henry, and his soon to be bride Anne Boleyn, to stay at his family home, Shurland Hall.[^ref12] Anne was related to Thomas’s half-brother Francis, whose mother was Isabel Boleyn. The visit lasted for a period of three days and incurred a total expenditure of “£30 13s. 4d”[^ref13]  an enormous sum at the time. 
 
