@@ -12,7 +12,7 @@ toc: false
 ---
 
 
-All Saints church in [Eastchurch](Q2661688) has an interesting late medieval and early modern history on the [Isle of Sheppey](Q1500299) due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.  In 1431, royal license was granted for All Saints to perform all duties of a parish church, yet wealthy inhabitants of the island that left wills have shown that they did not want burial to take place at their parish church, as per the usual custom by this period.  As a prominent and wealthy landowning family of the Isle of Sheppey, the Cheneys all requested burial at the Minster rather than their local Eastchurch parish church.  
+All Saints church in [Eastchurch](Q2661688) has an interesting late medieval and early modern history on the [Isle of Sheppey](Q1500299) due to its links to the [Cheney]({{ site.baseurl }}/15c/15c-thomas-cheyne) family at nearby Shurland Manor and its relationship to the Minster Church on the isle.  In 1431, royal license was granted for All Saints to perform all duties of a parish church, yet wealthy inhabitants of the island that left wills have shown that they did not want burial to take place at their parish church, as per the usual custom by this period.  As a prominent and wealthy landowning family of the Isle of Sheppey, the Cheneys all requested burial at the Minster rather than their local Eastchurch parish church.  
 
 {% include embed/image.html src="wc:Isle_of_Sheppey_from_Space_NASA.jpg" aspect="1.401" caption="Isle of Sheppey from Space" %}
 
@@ -20,7 +20,7 @@ Some of the interesting burial requests found in last will and testaments from E
 
 •	In 1472, Richard Reade of Eastchurch, requested burial in the churchyard of St. Sexburga ‘at the Minster’ by the cross ‘that standeth by the wey beside John the Baptist Chapel’  
 •	In 1524, Sir John Male, a priest of Eastchurch, requested burial within the chapel of St. John the Baptist ‘in the churchyard of Minster’   
-•	John Collens, a farmer of Sir Thomas Cheney, who lived in Eastchurch parish, requested burial in the churchyard of St. Sexburga ‘called the Minster’   
+•	John Collens, a farmer of [Sir Thomas Cheney]({{ site.baseurl }}/15c/15c-thomas-cheyne), who lived in Eastchurch parish, requested burial in the churchyard of St. Sexburga ‘called the Minster’   
 •	In 1559, Sir Thomas Cheney stated in his will that ‘my bodye to be buryed at the Minster in the Isle of Shepey’.
 
 {% include embed/image.html src="wc:Eastchurch_Sheppey_9223.JPG" aspect="1.333" %}
