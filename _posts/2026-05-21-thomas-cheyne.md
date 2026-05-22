@@ -31,7 +31,7 @@ In 1532, Cheyne extended a personal invitation to King Henry, and his soon to be
 
 Cheyne benefitted greatly from his relationship with Henry and after the dissolution of the monasteries was granted “the site of the [Minster] Abbey, together with all its lands, the windmill, sundry premises, and all other possessions whatsoever”.[^ref14] As a result, he became the “paramount Lord over all Sheppey".[^ref15]  At the time of the dissolution, the Abbey had around 470 sheep.”[^ref16]  Cheyne obtained royal licences to export “no less than five hundred sacks of wool"[^ref17]  which benefitted the island’s economy greatly.  Queenborough became a prosperous shipping port and a staple for wool.[^ref18]  Cheyne’s loyalty to  Henry VIII was rewarded. At his death, Henry VIII left Cheyne £200 “in token of his special love and favour” and named him as an assistant executor.[^ref19] 
 
-During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 of the the 'new ague' at the Tower of London[^ref22]; his remains were returned to Sheppey and he was buried at the chapel of St John-at-Minster.[^ref23]
+During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 of the the 'new ague' at the Tower of London[^ref22]; his remains were returned to Sheppey and he was buried at the chapel of St John-at-Minster.[^ref23] When the chapel was demolished in 1581, his body was re-interred at the Abbey Church of St Sexburgha.[^ref23]
 
 {% include embed/image.html src="wc:Sheppey - Minster Abbey church - Tomb of Sir Thomas Cheyne - geograph.org.uk - 7401701.jpg" aspect="1.333" caption="The Tomb of Sir Thomas Cheney" %}
 
@@ -60,5 +60,5 @@ During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]
 [^ref21]: Daly, _History of the Isle of Sheppey_, 166.
 [^ref22]:Lehmberg, “Cheyne, Sir Thomas(c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography_.  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
 [^ref23]: Lehmberg, “Cheyne, Sir Thomas(c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography_.  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
-
+[^ref23]: Daly, _History of the Isle of Sheppey_, p.170-2.
 
