@@ -7,13 +7,16 @@ categories: [ 15c ]
 tags: [ Conflict & war  ]
 published: true
 featured: false
-image: https://upload.wikimedia.org/wikipedia/commons/f/f8/10._Westminster_Roll_selected_scenes_260814_005_A5.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/25/Minster_Abbey%2C_The_Sir_Thomas_Cheyne_%281485-1558%29_monument_-_geograph.org.uk_-_5227654.jpg
 permalink: /15c/15c-thomas-cheyne/
+juncture: true
 published: true
 toc: false 
 ---
 
 Like most families of nobility during the early modern period, the Cheynes could trace their lineage back to the Norman Conquest. Thomas Cheyne was born c. 1485, the son of William de Cheyne and Margaret Young of Shurland Hall, Sheppey. The family was influential on the Isle of Sheppey but also at the Tudor court. Thomas’s father, William, was Constable of Queenborough Castle, and Sheriff of Kent. However, his father died when Thomas was very young and his uncle John Cheyne of Berkshire, who was Henry Tudor’s standard bearer at the Battle of Bosworth Field, became his guardian.[^ref1] Thomas with his half-brother Francis grew up in and around court, where their uncle John, who was known as the "Vigorous Knight" was influential. At Henry VII’s funeral in 1509, Thomas, Francis and John Cheny [sic] (a cousin) were listed as squires for the body of the King[^ref2] and at the Coronation of the new king, Francis was one of 26 “honourable persons” to be made a Knight of the Bath .[^ref3]
+
+{% include embed/image.html src="wc:10. Westminster Roll selected scenes 260814 005 A5.jpg" aspect="1.333" caption="The Westminster Roll" %}
 
 Thomas and Francis enjoyed life at court and took part in the ‘feats of arms’. As one of Henry's loyal supporters, Thomas was given an annuity of 20 _l_ during pleasure in August 1509.[^ref4] In late May/early June 1510, during a week of tournaments, Francis fought in combat against Lord Howard, whilst Thomas was pitted against the King.[^ref5] After the birth of his first son, Henry Duke of Cornwall, Henry VIII held a public tournament, to mark the occasion.  Cheyne’s presence is recorded, “Signed for the first day: Rycharde Gray, Thomas Cheyny, William Par, Robert Morton, Richard Blunt, Thomas Tyrell, Sr. Rowland, Cristoffer Willoughby.”  Henry wanted this event to be documented, and a roll of honour was produced, with an illustrated manuscript of the tournament.[^ref6]
 
@@ -32,6 +35,8 @@ In 1532, Cheyne extended a personal invitation to King Henry, and his soon to be
 Cheyne benefitted greatly from his relationship with Henry and after the dissolution of the monasteries was granted “the site of the [Minster] Abbey, together with all its lands, the windmill, sundry premises, and all other possessions whatsoever”.[^ref14] As a result, he became the “paramount Lord over all Sheppey".[^ref15]  At the time of the dissolution, the Abbey had around 470 sheep.”[^ref16]  Cheyne obtained royal licences to export “no less than five hundred sacks of wool"[^ref17]  which benefitted the island’s economy greatly.  Queenborough became a prosperous shipping port and a staple for wool.[^ref18]  Cheyne’s loyalty to  Henry VIII was rewarded. At his death, Henry VIII left Cheyne £200 “in token of his special love and favour” and named him as an assistant executor.[^ref19] 
 
 During his lifetime, Thomas became one of the most powerful men in Kent.[^ref20]  His life spanned the reigns of all the Tudor monarchs and as such he had to maintain a certain religious fluidity, flip-flopping between Catholicism and Protestantism to retain favour.[^ref21] He died on the 16 December 1558 of the the 'new ague' at the Tower of London[^ref22]; his remains were returned to Sheppey and he was buried at the chapel of St John-at-Minster.[^ref23] When the chapel was demolished in 1581, his body was re-interred at the Abbey Church of St Sexburgha.[^ref23]
+<br>
+Banner image credit: Minster Abbey: The Sir Thomas Cheyne (1485-1558) monument by Michael Garlick, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
 
 {% include embed/image.html src="wc:Sheppey - Minster Abbey church - Tomb of Sir Thomas Cheyne - geograph.org.uk - 7401701.jpg" aspect="1.333" caption="The Tomb of Sir Thomas Cheney" %}
 
