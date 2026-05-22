@@ -1,6 +1,6 @@
 ---
-title: "All Saints parish church of Eastchurch, Isle of Sheppey"
-description: "All Saints parish church at Eastchurch on the Isle of Sheppey reveals late medieval and early modern tensions between parish identity and preferred burial at Minster’s SS Mary and Sexburga. Wills from c.1460–1559 show Eastchurch parishioners, including the Cheney network, directing burials and major devotional bequests toward Minster while leaving Eastchurch mainly funds for lights, vestments, and fabric repairs."
+title: "All Saints Parish Church of Eastchurch, Isle of Sheppey"
+description: "The late medieval and early modern history of All Saints Parish Church"
 author: Dr Melanie Caizza
 date: 2021-09-01
 categories: [ churches ]
