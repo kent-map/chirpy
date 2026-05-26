@@ -4,7 +4,7 @@ description: "A neurodivergent perspective of visiting Herne Bay"
 author: Teddie T. Bigley
 date: 2026-05-10
 categories: [ 21c ]
-tags: [ Coast & Sea ]
+tags: [ Coast & sea ]
 published: true
 featured: false
 permalink: /21c/suffocation-on-sea/
