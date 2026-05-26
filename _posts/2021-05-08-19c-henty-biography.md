@@ -1,10 +1,10 @@
 ---
 title: "George Alfred Henty (1832-1902)"
-description: "Stephen Williamson introduces the influence of a Kentissh childhood on the work of author and war correspondent, George Alfred Henty."
+description: "Stephen Williamson introduces the influence of a Kentish childhood on the work of author and war correspondent, George Alfred Henty."
 author: Stephen Williamson
 date: 2021-05-08
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Texts & genres ]
+tags: [ Children's authors, Literary places, Towns & cities, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-henty-biography/
 published: true
