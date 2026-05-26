@@ -4,7 +4,7 @@ description: "William Harrison Ainsworth emerges as a prolific nineteenth-centur
 author: Laura Allen
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Crime & punishment, Literary places ]
+tags: [ Authors, Texts & genres, Crime & punishment, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-whainsworth-biography/
 published: true
