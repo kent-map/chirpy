@@ -4,7 +4,7 @@ description: "Edith Nesbit’s repeated holidays in Dymchurch link the Kent coas
 author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres, Rivers & marshes ]
+tags: [ Authors & lives, Children's authors, Literary places, Coast & sea, Texts & genres, Rivers & marshes ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /nesbit/nesbit-dymchurch/
 published: true
