@@ -4,7 +4,7 @@ description: "Michelle Crowther presents the life and works of author Primrose C
 author: Michelle Crowther
 date: 2025-03-09
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Countryside & farming, Conflict & war, Literary places ]
+tags: [ Authors & lives, Children's authors, Texts & genres, Countryside & farming, Conflict & war, Literary places ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/33/Marshal_Foch_ridden_by_Miss_Vera_Goodchild.jpg
 permalink: /20c/20c-cumming-biography/
 published: true
