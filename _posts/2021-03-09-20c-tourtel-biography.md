@@ -4,7 +4,7 @@ description: "Author and artist Mary Tourtel, who is best known for creating and
 author: Grace Conium
 date: 2021-03-09
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Towns & cities, Countryside & farming ]
+tags: [ Children's authors, Texts & genres, Towns & cities, Countryside & farming ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/2a/Sidney_Cooper_Gallery%2C_Canterbury.jpg
 permalink: /20c/20c-tourtel-biography/
 published: true
