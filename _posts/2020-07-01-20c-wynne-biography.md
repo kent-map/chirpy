@@ -4,7 +4,7 @@ description: "Pamela Wynne died in Sissinghurst in 1959, but her novel Love In T
 author: Carolyn Oulton
 date: 2020-07-01
 categories: [ 20c ]
-tags: [ Texts & genres, Coast & sea, Literary places, Authors & lives, Culture & society ]
+tags: [ Texts & genres, Coast & sea, Literary places, Authors, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg
 permalink: /20c/20c-wynne-biography/
 published: true
