@@ -4,7 +4,7 @@ description: "Amy Johnson was the first woman to fly solo from England to Austra
 author: Jane Delamaine
 date: 2023-10-24
 categories: [ 20c ]
-tags: [ Authors & lives, Conflict & war, Rivers & marshes, Heritage & memory ]
+tags: [ Heritage & memory, Herne Bay ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9ac45485-b2cf-4065-90b5-f363a95788a8.jpg
 permalink: /20c/20c-johnson-biography/
 published: true
