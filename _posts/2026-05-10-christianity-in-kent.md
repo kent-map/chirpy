@@ -4,7 +4,7 @@ description: The arrival of Christianity in England
 author: Elliot Cathrow
 date: 2026-05-10
 categories: [ churches ]
-tags: [ Buildings & Architecture, Faith & belief  ]
+tags: [ Buildings & architecture, Faith & belief  ]
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/2/28/St_Augustine%27s_Monastery%2C_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /churches/christianity-in-kent/
