@@ -4,7 +4,7 @@ description: "Susan Civale discusses the many family visits to Kent of famous En
 author: Susan Civale
 date: 2019-08-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility, Heritage & memory ]
+tags: [ Authors, Literary places, Texts & genres, Travel & mobility, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Godmersham_%281779%29.jpg
 permalink: /19c/19c-austen-biography/
 published: true
