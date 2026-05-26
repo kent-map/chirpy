@@ -4,7 +4,7 @@ description: "Michelle Crowther presents a bibliography of Dover born and raised
 author: Michelle Crowther
 date: 2023-02-16
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Faith & belief, Towns & cities ]
+tags: [ Children's authors, Texts & genres, Literary places, Faith & belief, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-challacombe-biography/
 published: true
