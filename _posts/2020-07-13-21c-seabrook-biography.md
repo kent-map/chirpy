@@ -4,7 +4,7 @@ description: "David Seabrook’s All the Devils Are Here turns Kent’s coastal 
 author: Dr Christian Taylor
 date: 2020-07-13
 categories: [ 21c ]
-tags: [ Authors & lives, Coast & sea, Literary places, Representation & interpretation ]
+tags: [ Authors, Coast & sea, Literary places, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2251af4a-a56d-45f0-b9b1-361ba46aaf4d.jpg
 permalink: /21c/21c-seabrook-biography/
 published: true
