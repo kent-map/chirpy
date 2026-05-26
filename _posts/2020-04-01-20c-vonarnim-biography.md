@@ -4,7 +4,7 @@ description: "Elizabeth von Arnim’s comic novel The Caravaners is based on a r
 author: Carolyn Oulton
 date: 2020-04-01
 categories: [ 20c ]
-tags: [ Texts & genres, Literary places, Travel & mobility, Culture & society ]
+tags: [ Authors, Texts & genres, Literary places, Travel & mobility, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/Leeds_Castle_-_side_view.jpg
 permalink: /20c/20c-vonarnim-biography/
 published: true
