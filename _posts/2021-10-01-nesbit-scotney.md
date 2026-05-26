@@ -4,7 +4,7 @@ description: "Edith Nesbit’s visit to Scotney Castle and a suggestion from Osw
 author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Travel & mobility ]
+tags: [ Authors & lives, Children's authors, Literary places, Buildings & architecture, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/ab/Scotney_Castle_with_white_wisteria.JPG
 permalink: /nesbit/nesbit-scotney/
 published: true
