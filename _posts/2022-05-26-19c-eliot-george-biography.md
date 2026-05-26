@@ -6,7 +6,7 @@ description: "Michelle Crowther describes the 1850s Kent holidays of the author 
 author: Michelle Crowther
 date: 2022-05-26
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Literary places, Travel & mobility ]
+tags: [ Authors, Coast & sea, Literary places, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2251af4a-a56d-45f0-b9b1-361ba46aaf4d.jpg
 permalink: /19c/19c-eliot-george-biography/
 published: true
