@@ -4,7 +4,7 @@ description: "Florence Nightingale’s interventions in Kent linked wartime medi
 author: Michelle Crowther
 date: 2025-04-14
 categories: [ 19c ]
-tags: [ Authors & lives, Politics & reform, Buildings & architecture, Towns & cities, Conflict & war ]
+tags: [ Biography, Politics & reform, Buildings & architecture, Towns & cities, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e0/Crimean_War_1854-56_Q71593.jpg
 permalink: /19c/19c-nightingale-biography/
 published: true
