@@ -4,7 +4,7 @@ description: "Edith Nesbit’s move from suburban Eltham to Romney Marsh reveals
 author: Eleanor Fitzsimon
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Literary places, Rivers & marshes, Coast & sea, Heritage & memory ]
+tags: [ Authors & lives, Children's authors, Literary places, Rivers & marshes, Coast & sea, Heritage & memory ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /nesbit/nesbit-romney/
 published: true
