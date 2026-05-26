@@ -4,7 +4,7 @@ description: "Edith Nesbit’s writing turns the River Medway into a lived lands
 author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Literary places, Rivers & marshes, Representation & interpretation ]
+tags: [ Authors & lives, Children's authors, Literary places, Rivers & marshes, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/81/Postcard_of_The_Medway_at_Tonbridge.jpg
 permalink: /nesbit/nesbit-river-medway/
 published: true
