@@ -4,7 +4,7 @@ description: "Sir John Franklin left Greenhithe in 1845 in search of the Northwe
 author: Jacquie Stamp
 date: 2019-10-20
 categories: [ 19c ]
-tags: [ Authors & lives, Rivers & marshes, Travel & mobility, Heritage & memory ]
+tags: [ Biography, Rivers & marshes, Travel & mobility, Heritage & memory ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-franklin-biography/
 published: true
