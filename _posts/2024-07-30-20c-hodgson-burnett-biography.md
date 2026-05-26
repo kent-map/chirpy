@@ -4,7 +4,7 @@ description: "Frances Hodgson Burnett’s well-loved novel The Secret Garden is 
 author: Elena Beighton-Delille
 date: 2024-07-30
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Buildings & architecture, Culture & society ]
+tags: [ Children's authors, Literary places, Texts & genres, Buildings & architecture, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/41/It%27s_fall_even_for_the_prettiest_rose..._%2810383091124%29.jpg
 permalink: /20c/20c-hodgson-burnett-biography/
 published: true
