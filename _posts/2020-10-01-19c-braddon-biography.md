@@ -4,7 +4,7 @@ description: "Novelist Mary E Braddon visited Ramsgate and set part of Aurora Fl
 author: Professor Carolyn Oulton
 date: 2020-10-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places ]
+tags: [ Authors, Texts & genres, Coast & sea, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-braddon-biography/
 published: true
