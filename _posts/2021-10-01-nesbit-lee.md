@@ -4,7 +4,7 @@ description: "Edith Nesbit’s home in Lee placed a prominent children’s write
 author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Representation & interpretation ]
+tags: [ Authors & lives, Children's authors, Towns & cities, Politics & reform, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /nesbit/nesbit-lee/
 published: true
