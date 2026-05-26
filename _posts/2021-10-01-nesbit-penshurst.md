@@ -4,7 +4,7 @@ description: "Edith Nesbit’s teenage stay in Penshurst links a vivid childhood
 author: Eleanor Fitzsimons
 date: 2021-10-01
 categories: [ nesbit ]
-tags: [ Authors & lives, Literary places, Countryside & farming, Travel & mobility ]
+tags: [ Authors & lives, Children's authors, Literary places, Countryside & farming, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /nesbit/nesbit-penshurst/
 published: true
