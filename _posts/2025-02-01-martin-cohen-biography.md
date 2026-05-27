@@ -4,7 +4,7 @@ description: "Martin Cohen’s life traces the Windrush generation’s legacy fr
 author: Liam Cohen
 date: 2025-02-01
 categories: [ black-history ]
-tags: [ Authors & lives, Identity & community, Towns & cities, Crime & punishment, Work & industry ]
+tags: [ Black history, Biography, Identity & community, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/15/HMT_Empire_Windrush_FL9448.jpg
 permalink: /black-history/martin-cohen-biography/
 published: true
