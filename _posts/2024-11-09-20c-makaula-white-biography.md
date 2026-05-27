@@ -4,7 +4,7 @@ description: "Albert Makaula White was the son of a Bhaca Chief. He became a cle
 author: Liam Cohen
 date: 2024-11-09
 categories: [ 20c ]
-tags: [ Authors & lives, Identity & community, Countryside & farming, Faith & belief, Towns & cities ]
+tags: [ Black history, Biography, Identity & community, Countryside & farming, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/07/Ploughing._754_%28NBY_419452%29.jpg
 permalink: /20c/20c-makaula-white-biography/
 published: true
