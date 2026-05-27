@@ -148,6 +148,9 @@ Liam Cohen is a Creative and Professional Writing student at Canterbury Christch
 
 Carla Danella has a BA from Wellesley College and recently completed her MA in English Literature at Canterbury Christ Church University, studying the writing and life of the English writer and eccentric, Christopher St John. She creates occasional exhibitions for the National Trust at Smallhythe Place, is a web content manager, and enjoys hiking.
 
+## Tony Dawson
+
+Tony Dawson is a History student who enjoys engaging with a wide span of historical periods, ranging from Ancient history through to the World Wars of the 20th century, however, his heart lies with the Medieval period.
 
 ## Lizzie Duffield-Fuller
 
