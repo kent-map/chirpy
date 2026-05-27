@@ -4,7 +4,7 @@ description: "Walter Tull, born to an immigrant mother, defied the odds to becom
 author: Liam Cohen
 date: 2024-11-17
 categories: [ 20c ]
-tags: [ Authors & lives, Conflict & war, Towns & cities, Identity & community ]
+tags: [ Black history, Biography, Conflict & war, Sport, Identity & community ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/World_War_I%2C_British_soccer_team_with_gas_masks%2C_1916.jpg
 permalink: /20c/20c-tull-biography/
 published: true
