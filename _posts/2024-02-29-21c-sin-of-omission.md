@@ -4,7 +4,7 @@ description: "St Augustine’s Missionary College in Canterbury trained nearly a
 author: Liam Cohen
 date: 2024-02-29
 categories: [ 21c ]
-tags: [ Faith & belief, Towns & cities, Texts & genres, Identity & community, Buildings & architecture ]
+tags: [ Black history, Faith & belief, Texts & genres, Identity & community, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/be/Church_Street%2C_St_Paul%27s_Church_%26_The_Cemetery_Gate_of_St_Augustine%27s_Monastery.jpg
 permalink: /21c/21c-sin-of-omission/
 published: true
