@@ -4,7 +4,7 @@ description: "William Cuffay’s life links Brompton and the Chatham dockyard to
 author: Liam Cohen
 date: 2024-09-01
 categories: [ 19c ]
-tags: [ Authors & lives, Politics & reform, Work & industry, Towns & cities ]
+tags: [ Black history, Biography, Politics & reform, Work & industry, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg
 permalink: /19c/19c-cuffay-biography/
 published: true
