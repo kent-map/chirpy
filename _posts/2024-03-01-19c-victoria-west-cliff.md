@@ -4,7 +4,7 @@ description: "Princess Victoria’s 1836 stay at West Cliff House in Ramsgate ex
 author: Alyson Hunt
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Buildings & architecture, Representation & interpretation ]
+tags: [ Biography, Coast & sea, Buildings & architecture, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-victoria-west-cliff/
 published: true
