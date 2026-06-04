@@ -1,5 +1,5 @@
 ---
-title: "Jane Austen: Chilham Castle"
+title: "Jane Austen and Chilham Castle"
 description: "Jane Austen’s visits to Chilham Castle reveal how dinner parties and balls shaped her social world in Kent between 1796 and 1813. Letters to Cassandra Austen turn the castle’s gatherings into lively commentary on friendship, flirtation, and the comforts of moving into a chaperone role."
 author: Susan Civale
 date: 2024-03-01
