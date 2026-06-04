@@ -1,5 +1,5 @@
 ---
-title: "Jane Austen: Godmersham"
+title: "Jane Austen and Godmersham"
 description: "Jane Austen’s stays at Godmersham Park reveal how East Kent wealth, sociability, and a well-stocked country-house library shaped her daily life and writing routines. Letters from 1813 contrast freedom from household economies with intense reading and observational pleasure in the estate’s rooms and local visiting circuits."
 author: Susan Civale
 date: 2024-03-01
