@@ -4,7 +4,7 @@ description: "Reginald Koettlitz, a Dover-trained doctor, carried medical practi
 author: Dr Jacquie Stamp
 date: 2024-03-27
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Science & ideas, Representation & interpretation ]
+tags: [ Biography, Towns & cities, Science & ideas, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg
 permalink: /19c/19c-koettlitz-biography/
 published: true
