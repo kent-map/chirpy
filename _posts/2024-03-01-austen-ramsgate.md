@@ -1,5 +1,5 @@
 ---
-title: "Jane Austen, Ramsgate"
+title: "Jane Austen and Ramsgate"
 description: "Regency Ramsgate emerges as both a fashionable seaside destination and a morally suspect setting in Jane Austen’s life and fiction. Visits connected to the Austen family’s naval ties and local acquaintances sit alongside Ramsgate’s narrative role in Pride and Prejudice and Mansfield Park as a stage for seduction, excess, and dubious male behaviour."
 author: Susan Civale
 date: 2024-03-01
