@@ -4,7 +4,7 @@ description: "In this essay, Trinity Barber and Michelle Crowther introduce the 
 author: Trinity Barber and Michelle Crowther
 date: 2024-10-06
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Literary places, Material culture ]
+tags: [ Biography, Science & ideas, Literary places, Material culture ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a4/Anna_Atkins_Title_Page_of_Photographs_of_British_Algae_Cyanotype_Impressions_%28Detail%29.jpg
 permalink: /19c/19c-atkins-biography/
 published: true
