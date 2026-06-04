@@ -4,7 +4,7 @@ description: "Admiral Sir Cloudesley Shovell links Kent’s naval and political 
 author: Dr Diana Hirst
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Authors & lives, Coast & sea, Politics & reform, Science & ideas ]
+tags: [ Biography, Coast & sea, Politics & reform, Science & ideas ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-shovell-biography/
 published: true
