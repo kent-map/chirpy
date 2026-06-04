@@ -4,7 +4,7 @@ description: "Walter James, the fourth Lord Northbourne, is credited with the cr
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Countryside & farming, Science & ideas, Politics & reform ]
+tags: [ Biography, Countryside & farming, Science & ideas, Politics & reform ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/51/Northbourne_Park_School%2C_Betteshanger_-_geograph.org.uk_-_2220542.jpg
 permalink: /20c/20c-northbourne-biography/
 published: true
