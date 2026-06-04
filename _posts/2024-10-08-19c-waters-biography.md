@@ -4,7 +4,7 @@ description: "Billy Waters links Chatham Dockyard and the Royal Navy to the tran
 author: Dr Mary L. Shannon
 date: 2024-10-08
 categories: [ 19c ]
-tags: [ Authors & lives, Work & industry, Identity & community, Arts & performance ]
+tags: [ Biography, Work & industry, Identity & community, Arts & performance, Black history ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg
 permalink: /19c/19c-waters-biography/
 published: true
