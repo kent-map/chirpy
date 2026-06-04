@@ -4,7 +4,7 @@ description: "Ez Swanström and Michelle Crowther introduce feminist and social 
 author: Ez Swanström and Michelle Crowther
 date: 2024-01-01
 categories: [ 19c ]
-tags: [ Politics & reform, Authors & lives, Towns & cities, Representation & interpretation ]
+tags: [ Politics & reform, Biography, Towns & cities, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-butler-biography/
 published: true
