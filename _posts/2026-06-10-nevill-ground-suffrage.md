@@ -1,6 +1,6 @@
 ---
 title: "Women's Cricket and the Suffragette Movement in Kent"
-description: "A suffragette attack on the Nevill Ground Cricket Pavilion at Tunbridge Wells rocked 
+description: "A suffragette attack on the Nevill Ground Cricket Pavilion at Tunbridge Wells shocked pre-war kent as women challenged their subjugated roles in society and their invisibility in sport."
 author: Amy Green
 date: 2026-01-01
 categories: [ sport, suffrage ]
@@ -8,12 +8,14 @@ tags: [ 20c ]
 published: false
 featured: false
 permalink: /20c/20c-nevill-ground-suffrage/
-media_subpath: /assets/img
-image:
-  path: 
-  alt: 
+image: https://upload.wikimedia.org/wikipedia/commons/1/14/George_Louis_Palmella_Busson_Du_Maurier_%28British%2C_1834-1896%29_-_University_Cricket_Match_at_Lords_-_1924.374_-_Cleveland_Museum_of_Art.jpg
+published: true
+toc: false  
 ---
+
 In 1913, women across Kent actively campaigned for political rights. Under the leadership of Emmeline Pankhurst, the Women’s Social and Political Union organized protests, marches, and acts of civil disobedience to demand suffrage.
+
+{% include embed/image.html src="wc:Votes for Women rosette, c.1913. (22933772751).jpg" aspect="0.878" caption="Votes for Women rosette, c. 1913" %}
 
 On 11 April 1913, tensions within the women’s suffrage movement escalated when suffragettes set fire to the Nevill Ground cricket pavilion in Tunbridge Wells.[^ref1]  According to a local newspaper, a man driving a cart near the cricket ground overheard four women in a motorcar, three carrying parcels, discussing, “You sure the bombs will go off alright?” to which another replied, “Yes, they will do right enough.” The fire was discovered by a passing lamplighter at approximately 3:50 am, who alerted the fire brigade. Upon their arrival, the building could not be saved.[^ref2]  After the incident, a flyer featuring a photograph of Emmeline Pankhurst and the 'Votes for Women' slogan was found on the grounds. Although the pavilion was insured, the policy did not cover trophies or archival records. Local newspapers reported widespread shock and controversy regarding these militant tactics. The attack directly challenged exclusion, as cricket grounds symbolised spaces where women were present but denied equality, aligning with the broader aims of the suffragette movement. 
 
@@ -26,6 +28,8 @@ Betty Archdale, the first captain of the England women’s cricket team, provide
 {% include embed/image.html src="wc:Betty Archdale c1934.jpg" aspect="0.878" caption="Betty Archdale c. 1934" %}
 
 The events of 1913 demonstrate that progress in sport and politics requires protest and persistence, as shown by the ongoing exclusion women have faced over time. Progress has been gradual, as women in cricket have faced cultural misogyny and marginalisation across sport. Due to financial exclusion, a lack of representation in media coverage, and limited access to certain venues, a 2023 report from the Independent Commission on Equality in Cricket found that only 19% of cricket is played by women. Despite these figures, women’s cricket thrives in Kent today, particularly in Tunbridge Wells. The women’s team has over 100 active members, secured the ECB National Club T20 Champions title in 2021,[^ref7] and has a successful under-15s team, currently the U15 National Champions at Lord's Cricket Ground.[^ref8]  
+
+{% include embed/image.html src="wc:Pavilion stand, Nevill Ground - geograph.org.uk - 4330323.jpg" aspect="0.878" caption="Pavilion Stand, Nevill Ground" %}
 
 ### Bibliography
 
