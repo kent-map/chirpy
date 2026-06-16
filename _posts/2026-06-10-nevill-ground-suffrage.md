@@ -22,6 +22,8 @@ On 11 April 1913, tensions within the women’s suffrage movement escalated when
 
 {% include embed/image.html src="wc:Nevill Pavilion, Royal Tunbridge Wells.jpg" aspect="0.878" caption="Nevill Pavilion, Royal Tunbridge Wells" %}
 
+{% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
+
 By burning the pavilion, suffragettes confronted political inequality. Following this incident, the National League of Opposing Women’s Suffrage convened a meeting on 28 April, where [Sir Arthur Conan Doyle]({{ site.baseurl }}/19c/conan-doyle) was a prominent speaker. He publicly condemned the fire, characterizing constitutional suffragettes as “female hooligans.”[^ref3]   Although Sir Arthur supported women's equality, he opposed the violence of women's suffrage and the right to vote, for fear of causing marital discord. However, he was not opposed to women's rights; he advocated strongly for the reform of Victorian divorce laws, believing these laws unfairly favoured men.[^ref4] Sir Arthur was an avid cricketer, having played for more than 50 teams, including Tunbridge Wells and Kent.[^ref5] 
 
 Betty Archdale, the first captain of the England women’s cricket team, provides a direct link between Kent cricket and the suffragette movement. Her mother, Helen Archdale, was an activist in the Women’s Social and Political Union and was imprisoned for breaking a window at Whitehall. Betty recalled collecting stones for her mother and visiting her during her imprisonment at Holloway Prison in 1911.[^ref6]  In the 1930s, Betty played for Kent at a time when women’s cricket was largely amateur and required self-funding.
