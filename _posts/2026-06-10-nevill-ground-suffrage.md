@@ -5,7 +5,7 @@ author: Amy Green
 date: 2026-01-01
 categories: [ sport, suffrage ]
 tags: [ 20c ]
-published: false
+published: true
 featured: false
 permalink: /20c/20c-nevill-ground-suffrage/
 image: https://upload.wikimedia.org/wikipedia/commons/1/14/George_Louis_Palmella_Busson_Du_Maurier_%28British%2C_1834-1896%29_-_University_Cricket_Match_at_Lords_-_1924.374_-_Cleveland_Museum_of_Art.jpg
