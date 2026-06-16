@@ -4,7 +4,7 @@ description: "Michelle Crowther discusses the woman's suffrage movement in Whits
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ 20c ]
-tags: [ Politics & reform, Towns & cities, Travel & mobility, Representation & interpretation ]
+tags: [ Politics & reform, Towns & cities, Travel & mobility, Representation & interpretation, Women's suffrage ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Fraser_%281858-1927%29_-_Low_Tide%2C_Whitstable_Harbour%2C_Kent_-_CANWH-1989.2_-_Canterbury_Museums_and_Galleries.jpg
 permalink: /20c/20c-womens-suffrage-whitstable/
 published: true
