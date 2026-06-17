@@ -8,12 +8,15 @@ tags: [ Texts & genres, Coast & sea, Literary places, Authors, Culture & society
 image: https://upload.wikimedia.org/wikipedia/commons/3/32/The_harbor_I._Margate_England.jpg
 permalink: /20c/20c-wynne-biography/
 published: true
-toc: false  
+toc: false 
+media_subpath: /assets/posts/20c-wynne-biography
 ---
 
 _‘[Margate](Q618045) is a place that grows on you. You arrive at it feeling vaguely contemptuous, and ready, if by any far distant chance you should meet anyone that you know, to explain that it is your first visit, and that you only came because your doctor so strongly recommended it. And then, after getting to feel steadily better and better, and more and more alive, and as if life still held something for you, you get to love it. Especially if you go there in May.’_
 
 	_Love in a Mist_, 1932
+
+{% include audio.html src="Wynne.m4a" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Lovemist.jpg" aspect="0.861" caption="Love in a Mist" attribution="Estate of of R. John Holmgren" %}
 

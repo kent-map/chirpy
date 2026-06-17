@@ -9,9 +9,12 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/14/Julius_Olsson-The_Nig
 permalink: /20c/20c-morey-ford-biography/
 published: true
 toc: false
+media_subpath: /assets/posts/20c-morey-ford-biography
 ---
 
 ‘All through the night a terrific bombardment had been maintained, and even when the first grey line of dawn began to creep across the downs the insistent fury of the guns increased rather than diminished’ (_The Raid of Dover_ 14)   
+
+{% include audio.html src="Dover.mp3" %}
 
 Described as a ‘forecast in fiction’, Douglas Morey Ford’s _The Raid of Dover: a romance in the reign of woman: AD 1940_ was published in March 1910. A work of speculative fiction, _The Raid of Dover_, played on popular fears of women’s suffrage and invasion. 
 Following on from his earlier novel, _A Time of Terror_, which was dismissed as ‘an amazing farrago of nonsense’,[^ref1] Ford imagines a future where Dover is invaded by an alliance of 300 US and German troops who have mysteriously arrived on a liner and infiltrated the town. The Americans who have lost confidence in the British government are ‘quite persuaded that the old folk at home [are] too feeble to retain the management of the Old Estate’[^ref2] and have joined in a pact with the German government. A new women’s regiment which has been stationed at ‘Fort Warden’, on the advice of the country’s Vice-President, Lady Catherine Kellick, is overpowered instantly. Pale, trembling ‘girl-soldiers’ relay the shocking news to the townsfolk that the fort has been taken, and a fierce battle begins to rage over the town as the British military try to retake control.   

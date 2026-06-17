@@ -1,0 +1,52 @@
+{%- comment -%}
+  embed/audio.html
+
+  Parameters:
+    src      - audio source; supports plain filenames (resolved via media-url.html)
+               or full URLs (http/https). Supports .mp3 and .m4a (mp4a) formats.
+    caption  - optional caption / attribution text (HTML allowed).
+    title    - optional visible title shown above the player.
+    autoplay - optional boolean; set to true to autoplay.
+    loop     - optional boolean; set to true to loop.
+    class    - optional extra CSS classes for the wrapper.
+    id       - optional id attribute for the iframe.
+{%- endcomment -%}
+
+{%- capture _audio_url -%}
+  {%- include media-url.html src=include.src subpath=page.media_subpath -%}
+{%- endcapture -%}
+{%- assign _audio_url = _audio_url | strip -%}
+
+{%- assign _encoded_url = _audio_url | uri_escape -%}
+{%- assign qs = "src=" | append: _encoded_url -%}
+
+{%- if include.caption -%}
+  {%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
+{%- endif -%}
+
+{%- if include.title -%}
+  {%- assign qs = qs | append: "&title=" | append: include.title | uri_escape -%}
+{%- endif -%}
+
+{%- if include.autoplay -%}
+  {%- assign qs = qs | append: "&autoplay=" | append: include.autoplay | uri_escape -%}
+{%- endif -%}
+
+{%- if include.loop -%}
+  {%- assign qs = qs | append: "&loop=" | append: include.loop | uri_escape -%}
+{%- endif -%}
+
+{%- assign _class = "embed-audio" -%}
+{%- if include.class -%}
+  {%- assign _class = _class | append: " " | append: include.class -%}
+{%- endif -%}
+
+<iframe
+  id="{{ include.id }}"
+  class="{{ _class }}"
+  loading="lazy"
+  title="{{ include.title | default: 'Audio player' | xml_escape }}"
+  allow="autoplay; clipboard-write"
+  style="width:100%; height:120px; border:0; overflow:hidden;"
+  src="{{ '/assets/components/audio.html' | relative_url }}?{{ qs }}">
+</iframe>
