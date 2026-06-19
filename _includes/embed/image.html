@@ -1,53 +1,58 @@
-{% comment %}
-  embed/image.html
+{%- if include.src -%}
+  {%- capture src_final -%}
+    {%- include media-url.html src=include.src width=include.width subpath=page.media_subpath -%}
+  {%- endcapture -%}
+  {%- assign src_final = src_final | strip | uri_escape | replace: '&', '%26' -%}
+<!-- src_final: {{ src_final }} -->
 
-  Parameters:
-    src      - image source; supports wc: prefix for Wikimedia Commons,
-               plain filenames (resolved via media-url.html), or full URLs.
-    aspect   - aspect ratio as a decimal (width ÷ height), e.g. 1.333 for 4:3.
-    caption  - optional caption / attribution text (HTML allowed).
-    width    - optional CSS max-width override. Defaults to 100%.
-{% endcomment %}
-
-{%- assign _src   = include.src | strip -%}
-{%- assign _p3    = _src | slice: 0, 3 -%}
-{%- assign _is_wc = false -%}
-{%- if _p3 == "wc:" -%}{%- assign _is_wc = true -%}{%- endif -%}
-
-{%- if _is_wc -%}
-  {%- assign _wc_filename = _src | remove_first: "wc:" | url_decode -%}
-  {%- assign _img_url = "https://commons.wikimedia.org/wiki/Special:FilePath/" | append: _wc_filename | append: "?width=1280" -%}
-{%- else -%}
-  {%- capture _img_url -%}{%- include media-url.html src=_src -%}{%- endcapture -%}
-  {%- assign _img_url = _img_url | strip -%}
-{%- endif -%}
-
-{%- assign _max_width = include.width | default: "100%" -%}
-{%- assign _aspect_f  = include.aspect | times: 1.0 -%}
-{%- if include.aspect and _aspect_f > 0 -%}
-  {%- assign _pct = 100.0 | divided_by: _aspect_f -%}
-{%- endif -%}
-
-<figure class="embed-image" style="max-width:{{ _max_width }}; margin: 1.25rem auto;">
-  {%- if _pct and _pct > 0 -%}
-  <div style="position:relative; width:100%; padding-bottom:{{ _pct }}%;">
-    <img class="no-lightbox"
-      src="{{ _img_url }}"
-      alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
-      loading="lazy"
-      style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;">
-  </div>
-  {%- else -%}
-  <img class="no-lightbox"
-    src="{{ _img_url }}"
-    alt="{{ include.caption | default: '' | strip_html | xml_escape }}"
-    loading="lazy"
-    style="width:100%;display:block;">
+  {%- assign first_char = src_final | slice: 0, 1 -%}
+  {%- if first_char == '/' -%}
+    {%- assign src_final = site.url | append: src_final -%}
   {%- endif -%}
 
-  {%- if include.caption -%}
-  <figcaption style="font-size:0.85rem;color:var(--text-muted-color,#6c757d);margin-top:0.4rem;text-align:center;">
-    {{ include.caption }}
-  </figcaption>
-  {%- endif -%}
-</figure>
+  {%- assign qs = "src=" | append: src_final -%}
+{%- endif -%}
+
+{%- if include.manifest -%}
+{%- assign qs = "manifest=" | append: include.manifest | uri_escape -%}
+{%- endif -%}
+
+{%- if include.seq -%}
+{%- assign qs = qs | append: "&seq=" | append: include.seq | uri_escape -%}
+{%- endif -%}
+
+{%- if include.caption -%}
+{%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
+{%- endif -%}
+
+{%- if include.attribution -%}
+{%- assign qs = qs | append: "&attribution=" | append: include.attribution | uri_escape -%}
+{%- endif -%}
+
+{%- comment -%} Strict boolean parsing for cover {%- endcomment -%}
+{%- assign cover_val = include.cover | downcase | strip -%}
+{%- if cover_val == "true" or cover_val == "1" or cover_val == "yes" or cover_val == "on" -%}
+{%- assign qs = qs | append: "&cover=1" -%}
+{%- endif -%}
+
+{%- comment -%} region: IIIF-like (full | x,y,w,h | pct:x,y,w,h) {%- endcomment -%}
+{%- if include.region -%}
+{%- assign qs = qs | append: "&region=" | append: include.region | uri_escape -%}
+{%- endif -%}
+
+{%- comment -%} rotate: IIIF-like degrees, optional ! prefix for flip (e.g. !90) {%- endcomment -%}
+{%- if include.rotate -%}
+{%- assign qs = qs | append: "&rotate=" | append: include.rotate | uri_escape -%}
+{%- endif -%}
+
+{%- assign class = "embed-image" -%}
+{%- if include.class -%}
+{%- assign class = class | append: " " | append: include.class -%}
+{%- endif -%}
+
+{%- assign qs = qs | replace: '+', '%2B' %}
+
+<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="StoryKit image viewer" allow="clipboard-write"
+  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen
+  {% if include.aspect %} style="aspect-ratio: {{ include.aspect }};" {% endif %}>
+</iframe>
