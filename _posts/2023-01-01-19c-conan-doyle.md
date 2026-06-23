@@ -5,35 +5,29 @@ author: Professor Carolyn Oulton
 date: 2023-01-01
 categories: [ 19c ]
 tags: [ Authors & lives, Literary places, Travel & mobility, Towns & cities, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/a6/The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg
 permalink: /19c/19c-conan-doyle/
 published: true
 toc: false  
 ---
 
 
-Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith]({{ site.baseurl }}/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’ 
-
+Arthur Conan Doyle was born in Edinburgh in 1859, the year [Charles Darwin]({{ site.baseurl }}/19c/19c-darwin-biography) published _On the Origin of Species_, and knighted in 1902. The creator of the world’s most famous detective Sherlock Holmes, Conan Doyle was never fully comfortable with his success as a populist writer. Tellingly his own literary heroes included the notoriously arcane [George Meredith]({{ site.baseurl }}/19c/19c-meredith-biography): at one point in ‘The Boscombe Valley Mystery’ Holmes says firmly, ‘And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow.’
+<br><br>
 Like both [Dickens]({{ site.baseurl }}/dickens) and [H. G. Wells]({{ site.baseurl }}/20c/20c-wellshg-biography), Conan Doyle has strong links to Portsmouth and London, although he moved to Sussex in 1907 when he married his second wife Jean Leckie. His links to Kent are less well-known, although Jean herself had been born in Kidbrooke in 1874.[^ref1]  
 
 {% include embed/image.html src="wc:Portrait_of_Arthur_Conan_Doyle.jpg" aspect="0.768" caption="Portrait of Arthur Conan Doyle" %}
 
 No fewer than six of the Sherlock Holmes stories involve Kent railway stations, although ‘Even in the first class carriages of the South Eastern Railway Holmes and Watson would have found conditions rather uncomfortable, especially in winter.’ [^ref2] ‘The Man With the Twisted Lip’(1891) is set in the vicinity of <span data-mouseover-image-zoomto="1426,962,728,534">Lewisham</span> and <span data-mouseover-image-zoomto="1740,814,737,541">Blackheath</span>, near London.
-
+<br><br>
 Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (1893) is lured to <span data-mouseover-image-zoomto="1313,1514,737,540">Beckenham</span>.
-
-{% include embed/image.html src="wc:The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg" aspect="1.544" caption="South Eastern Railways (1885)" %}
-
+<br><br>
 ‘The Final Problem’ of 1893 would turn out to be far from final. But what should have been Holmes’s last journey on the Kentish railway would have taken him to <span data-mouseover-image-zoomto="2895,3581,1474,1081">[Tonbridge](Q936183)</span> via <span data-mouseover-image-zoomto="8557,2693,1476,1082">[Canterbury](Q29303)</span> and <span data-mouseover-image-zoomto="7098,2866,2910,2133">Ashford</span>. 
-
+<br><br>
 ‘The Abbey Grange’ (1904) is reached from <span data-mouseover-image-zoomto="2271,1536,728,534">Chiselhurst</span>. 
-
-{% include embed/image.html src="wc:%22The_Death_of_Sherlock_Holmes%22_%28frontispiece_from_The_Memoirs_of_Sherlock_Holmes%2C_1894%29.jpg" aspect="0.643" caption="The Death of Sherlock Holmes (1894)" %}
-
-{% include embed/map.html center="Q936183" zoom="13" markers="Q936183" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
-
+<br><br>
 The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="4382,1029,1455,1067">Higham</span>. 
-
+<br><br>
 The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in 
 <span data-mouseover-image-zoomto="3301,4389,1455,1067">Tunbridge Wells</span>. 
 
@@ -41,11 +35,11 @@ The last Holmes novel, _The Valley of Fear_, was published in 1915 but set aroun
 
 {% include embed/map.html center="Q665489" zoom="13" markers="Q665489" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
-While his writing was lucrative enough for a growing family (at least once the definitely dead Sherlock Holmes had been revived for an Edwardian audience), other speculations were less than successful. Like the Micawbers in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk), Conan Doyle learned the hard way that the Kent coal trade ’may require talent, but that it certainly requires capital.’[^ref3]  He was sufficiently enthralled to have gone underground to see the mines for himself, and defended the Burr coal group against attacks in the press in 1913. But he later admitted the impossibility that what he had once termed ‘a stupendous movement which is destined to revolutionise the most historical corner of England’[^ref4]  could in practice be successful if it was ‘wildly financed and extravagantly handled’.[^ref5]  His study of prehistoric life proved equally unsuccessful – if less ruinous – when he failed to unearth dinosaur bones in the High Rocks area of Ashdown in 1909.[^ref6] 
+While his writing was lucrative enough for a growing family (at least once the definitely dead Sherlock Holmes had been revived for an Edwardian audience), other speculations were less than successful. Like the Micawbers in [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk), Conan Doyle learned the hard way that the Kent coal trade ’may require talent, but that it certainly requires capital.’[^ref3]  He was sufficiently enthralled to have gone underground to see the mines for himself, and defended the Burr coal group against attacks in the press in 1913. But he later admitted the impossibility that what he had once termed ‘a stupendous movement which is destined to revolutionise the most historical corner of England’[^ref4]  could in practice be successful if it was ‘wildly financed and extravagantly handled’.[^ref5]  His study of prehistoric life proved equally unsuccessful – if less ruinous – when he failed to unearth dinosaur bones in the High Rocks area of Ashdown in 1909.[^ref6]
+<br><br>
+He had a happier time exploring thousands of feet above the ground rather than below. In 1903 he told a journalist (the future author [P. G. Wodehouse]({{ site.baseurl }}/19c/19c-wodehouse-biography)) about his flight in a hot air balloon the year before. He vividly invoked the fear and excitement of this experience, ‘To see people running about, looking the size of dogs, and to feel that there was only a sort of strawberry-basket between me and _that_!’[^ref7]  Luckily the strawberry-basket landed safely somewhere in [Sevenoaks](Q939838). 
 
 {% include embed/image.html src="wc:Conan_Doyle_LCCN2014714597.jpg" aspect="0.688" caption="Conan Doyle family 1900" %}
-
-He had a happier time exploring thousands of feet above the ground rather than below. In 1903 he told a journalist (the future author [P. G. Wodehouse]({{ site.baseurl }}/19c/19c-wodehouse-biography)) about his flight in a hot air balloon the year before. He vividly invoked the fear and excitement of this experience, ‘To see people running about, looking the size of dogs, and to feel that there was only a sort of strawberry-basket between me and _that_!’[^ref7]  Luckily the strawberry-basket landed safely somewhere in [Sevenoaks](Q939838). 
 
 Like Holmes, Conan Doyle clearly enjoyed risk, and in the absence of hot air balloons he made do with the motor car. Here too there was the potential for things to go wrong; after one encounter with an unimpressed official in 1905, the outraged author was fined for speeding when he was caught doing 26 miles per hour on the Cheriton Road in [Folkestone](Q375314).
 
@@ -78,8 +72,6 @@ But within a few years Conan Doyle would also fall out with his old friend [Jero
 {% include embed/map.html center="Q1547383" zoom="13" markers="Q1547383" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 After [Jerome’s]({{ site.baseurl }}/19c/19c-jerome-biography) death in 1927, Conan Doyle would claim that his spirit had made contact to admit that he had been wrong in doubting psychic phenomena. For good measure he would also claim to have made contact with [Dickens]({{ site.baseurl }}/dickens) and [Joseph Conrad]({{ site.baseurl }}/19c/19c-conrad-biography). But Conan Doyle was not to have the last word after all. Controversially he had also came out in support of the ‘Cottingley fairies’ supposedly seen by two children, Elsie Wright and her cousin Frances Griffiths, in 1917. Having seen the photographs in 1920, he was sufficiently convinced to publish them in _The Strand_ magazine, where the arch sceptic Holmes had made his first appearance. Frances later married and moved to [Ramsgate](Q736439), where she finally admitted in 1983 to having hoaxed the public for over half a century.
-
-This article was published: 31 December 2022.
 
 {% include embed/image.html src="wc:Frances1920.jpg" aspect="0.719" caption="Frances Griffiths, 1920" %}
 
