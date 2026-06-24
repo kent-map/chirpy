@@ -21,22 +21,25 @@ On seeing a Metropolitan policeman in the audience, Rees demanded that he be rem
 
 A resolution to support the extension of women's suffrage was successfully carried with only six or seven objectors (all men and one a schoolmaster).
 
+On the 22nd April 1909, Lady Frances Balfour, daughter of the Duke and Duchess of Argyll, and Mrs Philip Snowdon visited Dover to speak on the need for women's suffrage. Frances, who resented her political exclusion within her own family, spoke eloquently, saying that it gave her great pleasure to speak to a Dover audience as the town was lucky to be represented by a sympathetic supporter of women's suffrage, the Right Hon. George Wyndham, MP. Frances criticised the government for disqualifying women from voting and said that although she did not believe in militant methods, she acknowledged that "had it not been for them they would not have been heard of"[^ref3]
+
 On the 16 July 1909, [Cicely Hamilton]({{ site.baseurl }}/20c/20c-hamilton-biography) and [Christopher St John]({{ site.baseurl }}/20c/20c-st-john-biography)’s play ‘How the Vote Was Won’ was performed at the Dover [Maison Dieu](Q15243899). First performed in London in April 1909, and set in the home of a married couple in Brixton, ‘How the Vote Was Won’ follows Horace and Ethel Cole on the day of a women’s worker strike. Initially the couple are against women's suffrage, but as more and more women quit their jobs, relatives of Horace begin to insist upon living with him arguing that they will stay out of work until their right to vote is recognised by the government. As the women of the family arrive, Horace and Ethel begin to realise the importance of the Suffrage movement.
 
 Like Virginia Woolf, Hamilton believed sexual stereotyping and economic discrimination were more basic issues than disenfranchisement. However, unlike Woolf, Hamilton was active in the Suffragette Movement and co-founded the Women's Writers’ Suffrage League. Additionally, Hamilton was persuaded by [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography/) to write the script for ‘The Pageant of Great Women’ which is considered one of the most important pieces of suffrage propaganda, as well as writing the lyrics to Ethel Smyth’s suffrage anthem ‘The March of the Women’.
 
-Victorian polling booths and ballot boxes used by some of Dover district’s first women voters, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow can be found at the Maison Dieu. Alice's letter, written with two other local suffragists, was published in the _Dover Express_ in 1909 arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/188d8a9b-7514-4dd2-99ce-040624cef0e6.jpg" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
-
-As well as these connections, the Maison Dieu also accommodated many suffrage meetings with visitors such as Lady Frances Balfour, daughter of the Duke and Duchess of Argyll. Frances was at the forefront of women making changes to political roles within government. Her immense influence made her an important visitor to Dover as she resented her political exclusion within her own family.
+In 1909, a letter, written by Alice Barlow along with two other local suffragists, was published in the _Dover Express_ arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. 
 
 At a mass suffrage rally held in Dover in June 1911, the suffragists wore medieval costumes, which was a common trope throughout the suffrage movement. This was intended to make the issue appear more distant and so that women did not seem like a threat to contemporary gender roles.
 
-The Representation of the People Act finally gave women the right to vote in 1918, although it wasn’t until the 1928 Equal Franchise Act that the right to vote became entirely equal.
+The Representation of the People Act finally gave women the right to vote in 1918, although it wasn’t until the 1928 Equal Franchise Act that the right to vote became entirely equal. 
+
+The polling booths and ballot boxes used by some of Dover district’s first women voters, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow can be found at the Maison Dieu. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
+
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/188d8a9b-7514-4dd2-99ce-040624cef0e6.jpg" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
 
 ### References
 
 [^ref1]: Dover Express,  Friday 16 February 1872
 [^ref2]: Dover Chronicle, Saturday 02 December 1876.
-[^ref3]: Godfrey, J. 'Suffragettes of Kent’
+[^ref3]: Dover Chronicle - Saturday 24 April 1909.
+[^ref4]: Godfrey, J. 'Suffragettes of Kent’
