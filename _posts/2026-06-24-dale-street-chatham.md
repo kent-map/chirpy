@@ -1,3 +1,17 @@
+---
+title: "Dale Street, Chatham"
+description: In this article Helen Counsell remembers her childhood living in Dale Street, Chatham. 
+author: Helen Counsell
+date: 2026-06-24
+categories: [ built ]
+tags: [Buildings & architecture, Heritage & memory  ]
+published: false
+featured: false
+image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
+permalink: /built/fort-pitt-grammar/
+juncture: true
+---
+
 Our House in the Middle of Our Street 
 
 Helen Counsell 
