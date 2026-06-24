@@ -3,8 +3,8 @@ title: "Women's Cricket and the Suffragette Movement in Kent"
 description: "A suffragette attack on the Nevill Ground Cricket Pavilion at Tunbridge Wells shocked pre-war kent as women challenged their subjugated roles in society and their invisibility in sport."
 author: Amy Green
 date: 2026-06-10
-categories: [ Politics & reform, Sport, Women's suffrage ]
-tags: [ 20c ]
+categories: [ 20c ]
+tags: [ Politics & reform, Sport, Women's suffrage ]
 published: true
 featured: false
 permalink: /20c/20c-nevill-ground-suffrage/
