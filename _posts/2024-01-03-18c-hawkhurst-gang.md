@@ -30,9 +30,9 @@ By 1746, the villages around Hawkhurst began to form anti-smuggling militias, dr
 {% include embed/image.html src="wc:Smugglers_RMG_BHC1077.tiff" aspect="1.416" caption="Smugglers" %}
 
 The gang, in a rage, tried to destroy the Goudhurst militia, threatening to raze the town to the ground if they didn’t disband. Fifteen smugglers rode up to the village in broad daylight. The militia was waiting for them, in what would be Kent’s O.K. Corrale. Shots echoed through the village in a fierce firefight. 
-
+<br><br>
 When the smoke cleared, two smugglers lay dead, with the rest fleeing in fear. It was the beginning of the end for the gang, an end that would finally come after numerous murders, manhunts, and trials. 
-
+<br><br>
 The Hawkhurst Gang would be a sign of Kent’s 18th-century bad old days. One Hundred years later, Goudhurst would commemorate its victory over the gang in a public celebration. 
 
 {% include embed/image.html src="wc:Goudhurst_-_geograph.org.uk_-_2738958.jpg" aspect="1.333" caption="Goudhurst" %}
