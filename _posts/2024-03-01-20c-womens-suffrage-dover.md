@@ -4,7 +4,7 @@ description: "Women’s suffrage activism in Dover gathered momentum through pub
 author: Madeleine Byatt, Anneliese Woodhouse and Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Politics & reform, Towns & cities, Arts & performance, Identity & community, Women's Suffrage ]
+tags: [ Politics & reform, Towns & cities, Arts & performance, Identity & community, Women's suffrage ]
 image: xxx
 permalink: /20c/20c-womens-suffrage-dover/
 published: true
