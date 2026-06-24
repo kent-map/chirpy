@@ -12,26 +12,26 @@ toc: false
 ---
 
 
-Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000 - possibly the largest in the country.[^ref2] 
-
-By Anglo Saxon times, the amphitheatre along with many of the other city's buildings lay abandoned. 
-
+Canterbury has a long history of theatrical entertainment dating back to the Roman times. Between AD 80–90, a theatre was built in the St. Margaret’s Street area where spectators could sit on a gravel bank to enjoy the performances (weather permitting).[^ref1] In the 3rd century, a ‘D’ shaped, Flavian style (AD 201-300) theatre with a wet weather awning was built in the same location, which could seat around 3,000 - possibly the largest in the country.[^ref2]
+<br><br>
+By Anglo Saxon times, the amphitheatre along with many of the other city's buildings lay abandoned.
+<br><br>
 In the 7th century, Theodore of Tarsus, who was Archbishop of Canterbury from 667-690, banned dressing up as stags or other beasts which was customary during the midwinter celebrations, seeing these public displays as peverse and 'devilish'.[^ref3]
-
+<br><br>
 By the 13th and 14th centuries, players attached to the court began to visit the city. King Edward I’s players performed in 1277, the ‘Black Prince’s in 1339 and the entertainers of Queen Philippa, wife of Edward III in 1356.[^ref4]
 
 {% include embed/image.html src="wc:Sculpture_next_to_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056632.jpg" aspect="0.725" caption="Sculpture next to the Marlowe Theatre" %}
 
 By the sixteenth century, the good folk of Canterbury revelled in pageantry. The annual pageant of St. Thomas, in which billmen and bowmen marched behind a mechanical effigy of St Thomas which was mounted on a cart, was guaranteed to thrill its audience. Four boys, dressed as Reginald Fitzurse, Hugh de Morville, Richard Brito and William de Tracythe, the four knights who had killed Thomas Becket, accompanied the effigy carring a leather bag of blood.[^ref5]
-
+<br><br>
 In 1538, John ‘Bileous' Bale, a former Carmelite friar who was famed for anti-Catholic vitriol, wrote 'King John', a piece of Protestant propaganda, which was performed at the court of Henry VIII. It is argued that it is the earliest historical drama in English.[^ref6] It was probably performed at St Stephens in 1538, the year in which Henry had ordered the destruction of the shrine of St Thomas.
-
+<br><br>
 After this, the pageant was reinvented as a Gog and Magog procession in the London tradition with St Thomas replaced by two terrible giants. 
-
+<br><br>
 Theatrical performances may have filled the gaps left by the loss of pilgrims. In 1543 a miracle play was performed by players who were brought from London at an expense of 11. 3s. Sd. and in 1546, the Prince's Players performed to the Mayor and Corporation at the Hall of a Hundred Beds, part of the Cheker of Hope, which was a former pilgrim inn.[^ref7]
-
+<br><br>
 In May 1560, it was rumoured that John Bale, who was living in the city, was staging a satirical play about the friars with schoolboys from the local grammar school.[^ref8] Bale died in Canterbury three years later.
-
+<br><br>
 The pageant of St Thomas returned in the reign of Mary I but disappeared once again in the reign of Elizabeth I. In 1589, Queen Elizabeth’s Men performed twice in Canterbury.[^ref9]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0305cedf-03b9-479f-a356-e042ab8c57f3.jpg" aspect="1.333" caption="Canterbury Pageant" attribution="Michelle Crowther" %}
@@ -43,33 +43,33 @@ Whilst staying in the city, Marlowe got into a fight with a tailor, William Cork
 {% include embed/image.html src="wc:Plaque_commemorating_the_baptism_of_Christopher_Marlowe_in_1564.jpg" aspect="1.333" caption="Plaque commemoraing the baptism of Christopher Marlowe" %}
 
 [John Lyly]({{ site.baseurl }}/16c/16c-lyly-biography/), novelist and playwright,  whose father owned the 'Splayed Eagle' near Canterbury Cathedral, may have been born in the city c.1553. He ran the first theatre in Blackfriars, London and was known for his euphuistic style, which was emulated by another Canterbury playwright, Stephen Gosson. 
-
+<br><br>
 Gosson was christened in St.George’s parish and educated at the King's School, where Lyly may also have attended. None of Gosson's plays survive, but he later became vehemently opposed to the theatre, writing ‘The School Of Abuse, Conteining a pleasant invective against Poets, Pipers, Plaiers, Jesters and such like Caterpillars of a Commonwealth’ in 1579 which he addressed to courtier and poet, "Master Philip Sidney, Esq". In it he argued that the theatre ‘fostered social evils’ and that 'every Wanton and his paramour, every man and his Mistresse, every John and his Joan, every knave and his queane' were corrupted there.[^ref12] <param ve-image url="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" label="The Mint Yard, The King's School, Canterbury" attribution="By kind permission of King's School, Canterbury">
-
+<br><br>
 Strolling players, who did not enjoy the patronage of nobility (or a King's school education), toured fairs performing acrobatics, songs and juggling. They were classed as ‘vagabonds’ and subject to the laws of each town. When the Plague struck in London in 1603, the London theatres closed and actors fled to the towns of Kent bringing their plays (and their plague with them). 
-
+<br><br>
 During the English Civil War (1642 – 1646) theatre stopped all together and after the war, the Puritans banned theatre. It was not until the Restoration in 1660 that theatre was revived.
 
 {% include embed/image.html src="wc:StrollingActresses.jpg" aspect="1.291" caption="Strolling Actresses" %}
 
 Restoration playwright and author, [Aphra Behn]({{ site.baseurl }}/17c/17c-behn-biography/), (or Eaffrey Johnson), who was born in Harbledown around 1640, wrote ‘The Forc’d Marriage’ for the Duke’s Company under Thomas Betterton, which was performed in London in 1670. The Duke’s Company was one of two theatre companies (the other, King’s) allowed to perform complete dramas after the Restoration.  Behn wrote more than twenty plays including ‘The Amorous Prince’ (1671) and ‘The Young King’ (1679). 
-
+<br><br>
 A theatrical performance of her book _Oroonoko or the Royal Slave_, was adapted for the stage by Thomas Southerne and performed at the Theatre at the Crown Yard, on the High Street, Canterbury on Feb 14 1726, although no reference was made to its original author.[^ref13] Two months later, Mr Keregan's Company of Comedians performed the Restoration tragedy 'The Rival Queens or the Death of Alexander the Great' (1677) at the same theatre. It was written by Nathaniel Lee, who had written a poem 'On the Death of Mrs. Behn' in 1689.[^ref14] 
 
 {% include embed/image.html src="wc:Peter_Lely_-_Aphra_Behn_-_Google_Art_Project.jpg" aspect="0.838" caption="Aphra Behn" %}
 
 Canterbury was the setting for Edward Ravenscroft's 1694 comedy _The Canterbury Guests: A Bargain Broken_ which opens with the arrival of Alderman Furr, a citizen of London and his daughter and neice who are looking for an Inn which has the best entertainment. He is recommended The Three Kings and the Old Kings Head by Justice Greedy, but two innkeepers suggest their own inns, The Star and The Rose and regale the Alderman with details about their superior beverages, meats and 'civil entertainment'. One claims his wine 'will make a cat speak, a Judge deaf and dumb, an old Man get Children or bring a Dead Man to-life again'.[^ref15] In spite of their promises, Justice Greedy complains of "wamblings" in his stomach as the innkeeper has overpromised and under-delivered. 
-
+<br><br>
 The _Canterbury Guests_ which included incidental [music](https://youtu.be/S6-xhtK7rc8) composed by Henry Purcell does not appear to have been performed in Canterbury and the promised entertainment was only of the gastronomical variety. The Star Inn near St George's Gate dates from 1689 and The Rose from 1692 so it would appear Ravenscroft had local knowledge.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c8270a90-11bb-4a80-aa86-c01accee9063.jpg" aspect="1.296" caption="St George's Gate" attribution="Kent Maps Online Collection" %}
 
 Theatrical performances continued to delight Canterbury audiences throughout the eighteenth century. In 1729, Pinchbeck's Grand Theatre of the Muses, a machine with scenes and music, plied the streets of Dover, Sandwich and Canterbury offering a different kind of street entertainment.[^ref16] 
-
+<br><br>
 However, by 1737, the Licensing Act or ‘Gagging Act’ restricted the production of plays.  Censorship was introduced by the Lord Chamberlain and his examiners, to root out anti-government sentiment and this practice continued until 1843 when the act was modified by the Theatres Act. To avoid prosecution, players interspersed scenes with melodrama, burlesque, song and dance. On 1 August 1739, the Company of Comedians from the Royal Theatres in London performed 'The Committee: Or, the Faithful Irishman' at the theatre in Canterbury to which was added a new pantomime entertainment in Grotesque characters.[^ref17]  Two weeks later, the comedy 'The Tender Husband; Or Accomplished Fools' was performed at the Theatre, Canterbury with entertainments of singing and dancing.[^ref18] 
-
+<br><br>
 In 1752, ‘Canterbury Smith', who had taken over Kentish theatres in 1751 from Perry’s ‘Company of Comedians’ hired Roger Kemble, strolling player and actor to perform at Canterbury's theatre. It was here that Kemble met Fanny Furnival, a widowed actress, who was noted for having performed the role of Hamlet. She took the name "Mrs Kemble", although it is unlikely the couple married.[^ref19] 
-
+<br><br>
 Roger Kemble later married Sarah Ward, and was the father of Sarah Siddons, the celebrated actress who played at the Theatre Royal [Margate](Q618045); John Philip Kemble who was considered England’s finest actor; and Charles Kemble, who performed the office of Examiner of Plays, under the Licensing Act. 
 
 {% include embed/image.html src="wc:Mrs_Sarah_Siddons.jpg" aspect="0.841" caption="Sarah Siddons" %}
