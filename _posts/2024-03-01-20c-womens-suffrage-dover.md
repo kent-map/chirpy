@@ -27,7 +27,7 @@ On the 16 July 1909, [Cicely Hamilton]({{ site.baseurl }}/20c/20c-hamilton-biogr
 
 Like Virginia Woolf, Hamilton believed sexual stereotyping and economic discrimination were more basic issues than disenfranchisement. However, unlike Woolf, Hamilton was active in the Suffragette Movement and co-founded the Women's Writers’ Suffrage League. Additionally, Hamilton was persuaded by [Edy Craig]({{ site.baseurl }}/20c/20c-craig-biography/) to write the script for ‘The Pageant of Great Women’ which is considered one of the most important pieces of suffrage propaganda, as well as writing the lyrics to Ethel Smyth’s suffrage anthem ‘The March of the Women’.
 
-In 1909, a letter, written by Alice Barlow along with two other local suffragists, was published in the _Dover Express_ arguing the ridiculuous nature of disqualifying women from voting on the grounds of sex. 
+In December 1909, a letter, written by Alice Barlow, Laura Bomford and Annie Brunyate, representing the Dover Suffrage Society was published in the _Dover Express_ arguing that it was ridiculous to exclude women from voting on the grounds of sex. They did not advocate for universal suffrage, but only for those women who owned property.
 
 At a mass suffrage rally held in Dover in June 1911, the suffragists wore medieval costumes, which was a common trope throughout the suffrage movement. This was intended to make the issue appear more distant and so that women did not seem like a threat to contemporary gender roles.
 
