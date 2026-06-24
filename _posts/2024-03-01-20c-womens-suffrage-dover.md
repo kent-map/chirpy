@@ -35,6 +35,8 @@ The Representation of the People Act finally gave women the right to vote in 191
 
 The polling booths and ballot boxes used by some of Dover district’s first women voters, such as Vice President of Dover Women’s Suffrage Society, Alice Barlow can be found at the Maison Dieu. You can find her name  on a plaque in the Stone Hall at the Maison Dieu, alongside  Annie Brunyate and Lorna Bomford.
 
+This article was written by Madeleine Byatt and Anneliese Woodhouse whilst on work placement at the Maison Dieu and was edited and expanded by Michelle Crowther.
+
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/188d8a9b-7514-4dd2-99ce-040624cef0e6.jpg" aspect="1.283" caption="Plaque to Dover suffragists in the Maison Dieu" attribution="Martin Crowther" %}
 
 ### References
