@@ -2,7 +2,7 @@
 title: "Wateringbury"
 description: "Wateringbury village history comes alive through a walking tour that links streets, cottages, and landmarks to local systems of authority, work, and memory. The lock-up and stocks, railway station, wartime defenses, orchards, and distinctive buildings frame biographies ranging from Matthias Prime Lucas and astronomer William Rutter Dawes to actress Ellen Terry and Lena Login, revealing how national stories intersect with a small Kent settlement."
 author: Natalie Pietersen
-date: 2025-12-30
+date: 2022-12-30
 categories: [ placesrz ]
 tags: [ Towns & cities, Buildings & architecture, Conflict & war, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg
