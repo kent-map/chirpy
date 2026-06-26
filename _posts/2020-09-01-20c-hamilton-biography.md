@@ -4,7 +4,7 @@ description: "Cicely Hamilton’s feminist writing and stage work helped turn wo
 author: Carla Danella
 date: 2020-09-01
 categories: [ 20c ]
-tags: [ Authors & lives, Politics & reform, Arts & performance, Literary places ]
+tags: [ Authors, Politics & reform, Arts & performance, Literary places, Women's suffrage ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg
 permalink: /20c/20c-hamilton-biography/
 published: true
