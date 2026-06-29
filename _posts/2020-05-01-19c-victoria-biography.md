@@ -4,7 +4,7 @@ description: "Queen Victoria’s visits to Ramsgate, Broadstairs, Margate, Cante
 author: Alyson Hunt
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Travel & mobility, Texts & genres ]
+tags: [ Royalty, Coast & sea, Travel & mobility, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/17/Pierremont_Hall%2C_Broadstairs.jpg
 permalink: /19c/19c-victoria-biography/
 published: true
