@@ -8,7 +8,7 @@ tags: [Buildings & architecture, Heritage & memory  ]
 published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/3/32/Pedestrianised_section_of_Dale_Street%2C_Chatham_-_geograph.org.uk_-_1383003.jpg
-permalink: /built/fort-pitt-grammar/
+permalink: /built/dale-street-chatham/
 juncture: true
 ---
 
