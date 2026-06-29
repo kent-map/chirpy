@@ -16,14 +16,14 @@ My grandmother would say to my mother, newly married and installed in Medway, th
 <br><br>
 Back in the days when winter supplied us with ice and snow, and the local councils took care of the business they were created for, the hill pavements were scored deep with diagonal wounds so that boots could keep a grip. Metal handrails were installed. We'd perform somersaults over them and pretend to be Olga Korbut.
 
-Olga Korbut Milan 1972.jpg
+{% include embed/image.html src="wc:Olga Korbut Milan 1972.jpg
 
 Our house in Dale Street was tucked into a curve in the valley. The windows were always clean and the paintwork neat. The little front garden contained a rose bush rather than a jumble of plastic recycling bins (we had a single dustbin out back, embossed with the  warning that it shouldn’t be used for hot ashes). Most mothers stayed at home when they had children. Sometimes they would take on a cleaning job. In the evenings they might host Pippa Dee or Tupperware parties to make a bit of extra money for Christmas.
 <br><br>
 When my mum held one of these, a gaggle of local ladies would take over our sitting room. They would sip warm wine and nibble on cheesy biscuits, their conversation growing slowly louder until it reached a crescendo. At this point, if it was a Pippa Dee event, we kids would be dreading the call to come in and try something on. 
 Mum would wash our clothes by hand and spin them in a spin dryer, before hanging them outside on a metal rotary line made in Australia. My dad cemented it into the lawn and we would hang from it and pretend it was a merry go round once the washing had been taken indoors. 
 
-Tupperware party.jpg
+{% include embed/image.html src="wc:Tupperware party.jpg
 
 Towels and sheets were done in the boiler. The Co Op laundry man would spirit the blankets away every summer and bring them back clean, folded and wrapped with brown paper and string.
 <br><br>
@@ -32,14 +32,14 @@ Our Dad left the house early for work. He came home tired in the evenings and at
 He had a vegetable patch in our back garden and a wooden shed that smelt of creosote, where he stored packets of seeds and tobacco tins full of nuts, bolts and screws.
 Dad did all of our painting and decorating, including hanging multi-coloured 1970s wallpaper, closely  followed by 1980s chip paper painted with a ‘hint of something’ emulsion. 
 
-70's wallpaper.jpg
+{% include embed/image.html src="wc:70's wallpaper.jpg
 
 Visitors to our house included the  pools man, the Kleeneze man, the Avon lady and the milkman, selling dreams and brushes, lipsticks and dairy. 
 Another was the coalman, who would always turn up before Christmas. Our house didn’t have central heating, it had a gas fire in the back room and a coal fire in the front. We’d often wake up to find spirograph wheels of frost on the inside of our bedroom windows, but I don’t remember feeling the cold.
 <br><br>
 Sometimes during the summer a stranger wearing a trilby hat would come to our door offering to sharpen our knives...and the rag and bone man would roam the streets with his pony and trap, his howl loud and mournful.
 
-Rag-and-bone man, Streatham, London, 1985.jpg
+{% include embed/image.html src="wc:Rag-and-bone man, Streatham, London, 1985.jpg
 
 A few doors down from our house was the corner shop, Hygates, with its bright yellow double doors and a bell that jingled as you entered. The counter ran the length of the room and held a shelf full of Mother’s Pride and Sunblest loaves clothed in waxed paper wrappers. More often than not there would be a cat sleeping amongst them. 
 Tess the dog would waddle out, closely followed by the proprietor and his big moustache. He would pop his head up over the hillside of confectionery that rose above the bread shelf and urge you to ‘come along, come along’ because his half-eaten breakfast (or lunch) was waiting for him at the rear of the shop. 
@@ -61,7 +61,7 @@ Blyton was an awful woman, and her stories were dreadful. I know I'm obliged to 
 <br><br>
 I would read for hours, sometimes lying belly down on the floor with my forehead pushed up against the  seat of an armchair to help me keep my eyes open. It didn’t matter that the characters spoke a slightly different language to me, and ate strange food during their many picnics and midnight feasts. They had adventures and discovered magic, and that was all that really mattered. 
 
-Stack of old Enid Blyton books.jpg
+{% include embed/image.html src="wc:Stack of old Enid Blyton books.jpg
 
 Diagonally opposite to Jaydee Newsagents was Suttons the grocer’s, presided over by old Mr Sutton and young Mr Sutton. Their shop had a large rectangular table in the centre, displaying baskets  full of fruit and vegetables. They didn’t stock plastic or  polystyrene. Their shop didn’t have a fridge or a cooler. It had a big striped awning that provided shade in the summer months and an inexhaustible supply of brown paper bags. 
 <br><br>
