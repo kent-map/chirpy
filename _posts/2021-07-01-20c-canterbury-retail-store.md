@@ -22,7 +22,7 @@ In 1933, Reg Barrett opened a store in St George’s Street which brought togeth
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a88a700f-df99-46c1-ba05-e5809a9d9e77.jpg" aspect="1.601" caption="St George's Street" attribution="Public domain" %}
 
-{% include embed/map.html center="51.2780188177824, 1.08137879348189" zoom="15" markers="51.2780188177824, 1.08137879348189" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="51.2780188177824, 1.08137879348189" zoom="15" markers="51.2780188177824, 1.08137879348189" %}
 
 The success of Lefevre’s and the Barretts’ stores in the 1930s heralded Canterbury’s phenomenal development after the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) as East Kent’s major shopping centre. Canterbury’s prime retail area in the St George’s Street, Longport, Whitefriars quadrant of the city arose from the devastation of the area by the 1942 bombing. The townscape of the area has changed architecturally twice with the rebuilds of the 1960s and 1990s (completing the Whitefriars in 2008), but with the consistent purpose of making Canterbury the premier shopping centre for East Kent.
 
