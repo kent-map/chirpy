@@ -74,6 +74,8 @@ I have to admit I did not find the vegetables particularly interesting and would
 I have a similar memory of the Flying R tailor's shop over the road from our home, where women would hunch over sewing machines next to ash trays and mugs of sweet tea. We didn’t visit the tailor’s often, but when we did I would be taken outside to see the chickens living in the garden. 
 <br><br>
 Dale Street was once an entire village, thriving within the confines of a single road. Fifty years on, almost all of the shops have closed. Their doors and windows have been removed and replaced with new façades that allow the buildings to masquerade as houses. All that remains is a solitary Best-one franchise, where the Post Office used to be. 
+<br><br>
+Banner image credit: David Anstiss / Pedestrianised section of Dale Street, Chatham
 
 ### Appendix
 A Selection of Businesses Operating from Dale Street 1963-1974
