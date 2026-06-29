@@ -3,10 +3,10 @@ title: "A Tribute to My Father"
 description: "Martin Cohen’s life traces the Windrush generation’s legacy from Jamaican family roots in Leeds to work and community ties in Ashford, Kent. A planned path into policing, a public commendation for stopping an armed robbery, and decades of service work reveal how race, belonging, and reputation shaped everyday opportunity. Family photographs and local references anchor a personal history of migration, labor, and local civic life under late-20th- and early-21st-century Britain."
 author: Liam Cohen
 date: 2025-02-01
-categories: [ black-history ]
+categories: [ 20c ]
 tags: [ Black history, Biography, Identity & community, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/15/HMT_Empire_Windrush_FL9448.jpg
-permalink: /black-history/martin-cohen-biography/
+permalink: /20c/martin-cohen-biography/
 published: true
 toc: false  
 ---
