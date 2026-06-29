@@ -5,9 +5,9 @@ author: Helen Counsell
 date: 2026-06-24
 categories: [ built ]
 tags: [Buildings & architecture, Heritage & memory  ]
-published: false
+published: true
 featured: false
-image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
+image: https://upload.wikimedia.org/wikipedia/commons/3/32/Pedestrianised_section_of_Dale_Street%2C_Chatham_-_geograph.org.uk_-_1383003.jpg
 permalink: /built/fort-pitt-grammar/
 juncture: true
 ---
