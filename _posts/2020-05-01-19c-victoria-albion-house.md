@@ -4,7 +4,7 @@ description: "Princess Victoria’s 1835–36 stay at Albion House in Ramsgate s
 author: Dr Alyson Hunt
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Towns & cities, Travel & mobility ]
+tags: [ Royalty, Coast & sea, Towns & cities, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ramsgate_pier_from_the_bathing_sands_1809.jpg
 permalink: /19c/19c-victoria-albion-house/
 published: true
