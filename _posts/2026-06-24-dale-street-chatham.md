@@ -49,6 +49,8 @@ A tall white fridge stood in the corner. Each morning Mr Hygate would open it an
 <br><br>
 We must have been blessed with strong constitutions, because cases of food poisoning were rare. Had there been an issue, Mr Hygate was a stalwart of St John’s Ambulance and would have known exactly what to do. He must have assisted nearly as many patients as our family doctor. Nosebleeds, bites, stings, bumps to the head; he saw to everything. Except childbirth and the measles.
 
+{% include embed/map.html center="51.37414481225793, 0.5192396261083473" zoom="15" markers="51.37414481225793, 0.5192396261083473" %}
+
 Up the road, Mercer’s the butchers had sawdust on the floor and body parts hanging on hooks from the ceiling; legs of beef, pigs’ carcasses. Big wedges of moist, maroon meat encased in thick, rubbery fat. 
 <br><br>
 Near Christmas there would be turkeys still dressed in their feathers, hanging by their feet. And rabbits wearing bloody fur, bright eyes shut tight. The counter behind which Mr Mercer stood, wearing his pink smeared blue and white apron, held a  display of tongues, hearts, kidneys, livers. Neatly garnished with bright green sprigs of parsley, they jostled for space with pale, goose bumped chickens. 
