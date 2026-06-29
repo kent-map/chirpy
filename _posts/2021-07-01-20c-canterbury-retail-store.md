@@ -26,7 +26,7 @@ In 1933, Reg Barrett opened a store in St George’s Street which brought togeth
 
 The success of Lefevre’s and the Barretts’ stores in the 1930s heralded Canterbury’s phenomenal development after the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2) as East Kent’s major shopping centre. Canterbury’s prime retail area in the St George’s Street, Longport, Whitefriars quadrant of the city arose from the devastation of the area by the 1942 bombing. The townscape of the area has changed architecturally twice with the rebuilds of the 1960s and 1990s (completing the Whitefriars in 2008), but with the consistent purpose of making Canterbury the premier shopping centre for East Kent.
 
-{% include embed/map.html center="Q17064998" zoom="15" markers="Q17064998" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="Q17064998" zoom="15" markers="Q17064998" %}
 
 A secondary retail area, mixed with banks, restaurants, pubs, museums and charity shops extends from St Margaret’s Street through the historic thoroughfare of the High Street and St Peter’s Street to the Westgate Towers, with a branch down Palace Street to Northgate (today [King’s Mile](https://thekingsmile.org.uk/about/)). Between the 60’s and 80’s attitudes about commercial development changed from replacing the old with the modern to preserving the old by being modern. Ever since the destruction of Canterbury’s Guildhall in 1950, there were those who challenged the view that this was progress.
 
@@ -42,7 +42,7 @@ The Canterbury Guildhall had stood on its site at the junction of Palace Street 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
 
-{% include embed/map.html center="Q17641331" zoom="15" markers="Q17641331" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="Q17641331" zoom="15" markers="Q17641331" %}
 
 [Commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) has been combined with conservation. [Conquest House](Q17557113), in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
 
