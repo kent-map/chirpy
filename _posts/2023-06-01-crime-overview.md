@@ -3,10 +3,10 @@ title: "Crime Fiction"
 description: "Both the 1860s sensation novel, and the 1920s and ‘30s ‘Golden Age’ of crime fiction found inspiration in Kent settings. A number of these novels were set in seaside resorts, and appealed directly to the holiday market."
 author: Professor Carolyn Oulton
 date: 2023-06-01
-categories: [ crime ]
+categories: [ 20c ]
 tags: [ Texts & genres, Crime & punishment, Coast & sea, Travel & mobility, Rivers & marshes ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
-permalink: /crime/crime-overview/
+permalink: /20c/crime-overview/
 published: true
 toc: false  
 ---
