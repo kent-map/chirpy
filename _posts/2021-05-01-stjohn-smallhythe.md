@@ -4,7 +4,7 @@ description: "St John the Baptist church at Small Hythe links a now-landlocked v
 author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
-tags: [ Buildings & architecture, Coast & sea, Faith & belief, Arts & performance, Heritage & memory ]
+tags: [ Buildings & architecture, Coast & sea, Faith & belief, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/62/St_John%2C_Small_Hythe_01.jpg
 permalink: /churches/stjohn-smallhythe/
 published: true
