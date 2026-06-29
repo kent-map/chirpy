@@ -4,7 +4,7 @@ description: "Queen Victoria’s 1842 stay at Walmer Castle reveals how the Kent
 author: Michelle Crowther
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Travel & mobility, Buildings & architecture ]
+tags: [ Royalty, Coast & sea, Travel & mobility, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmer_Castle_Postcard.jpg
 permalink: /19c/19c-victoria-walmer-castle/
 published: true
