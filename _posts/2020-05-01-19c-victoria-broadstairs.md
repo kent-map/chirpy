@@ -4,7 +4,7 @@ description: "Princess Victoria’s childhood stays at Pierremont House in Broad
 author: Michelle Crowther
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Towns & cities, Culture & society ]
+tags: [ Royalty, Coast & sea, Towns & cities, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg
 permalink: /19c/19c-victoria-broadstairs/
 published: true
