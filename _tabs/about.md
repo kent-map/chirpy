@@ -96,7 +96,7 @@ Ben Bethell received a PhD in history from the University of London in 2020. He 
 
 ## Teddie T. Bigley
 
-![Teddie T. Bigley](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/teddiebigley.jpg){: .right}
+![Teddie T. Bigley](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/teddybigley.jpg){: .right}
 
 An undergraduate BA Hons Creative & Professional Writing student at Canterbury Christ Church University, expressing experiences and emotion through writing and photography.
 
@@ -140,6 +140,12 @@ Dr Susan Civale is Senior Lecturer in Romanticism at Canterbury Christ Church Un
 ![Liam Cohen](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f0634362-1833-4d30-9dd3-08c3a5e8a2f1.jpg){: .right}
 
 Liam Cohen is a Creative and Professional Writing student at Canterbury Christchurch University. He started writing poetry at fifteen years old. Since then, his passion for writing has blossomed and now writes all forms. Liam focuses on life-like narratives to resonate with his readers. Liam lives in the seaside town of Deal with his wife and dogs. His adopted hometown has been the inspiration for many of his works and he has recently had an article published on the town’s military history which was well received by the community. Besides writing, his interests include playing basketball, enjoying the beach and being a good husband.
+
+## Helen Counsell
+
+![Helen Counsell](https://raw.githubusercontent.com/kent-map/images/main/misc/HelenC.jpg){: .right}
+
+Helen Counsell is a creative writing student.
 
 
 ## Carla Danella
@@ -516,7 +522,7 @@ Claire Boardman is a PhD Candidate in Applied Digital Humanities at the Universi
 
 ## Tom Campbell-Oulton
 
-![Tom Campbell-Oulton](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/___.jpg){: .right}
+![Tom Campbell-Oulton](https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/TomCO.jpg){: .right}
 
 Tom Campbell-Oulton is a Computer Science student at the University of Liverpool. As an intern and former volunteer for the site, Tom contributes to the developement and maintenance of its web platform, supporting improvements to functionality and user experiences.
 
