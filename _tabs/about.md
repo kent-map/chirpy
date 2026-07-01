@@ -143,7 +143,7 @@ Liam Cohen is a Creative and Professional Writing student at Canterbury Christch
 
 ## Helen Counsell
 
-![Helen Counsell](https://raw.githubusercontent.com/kent-map/images/main/misc/HelenC.jpg){: .right}
+![Helen Counsell](https://raw.githubusercontent.com/kent-map/images/main/HelenC.jpg){: .right}
 
 Helen Counsell is a creative writing student.
 
