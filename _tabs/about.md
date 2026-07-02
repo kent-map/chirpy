@@ -145,8 +145,7 @@ Liam Cohen is a Creative and Professional Writing student at Canterbury Christch
 
 ![Helen Counsell](https://raw.githubusercontent.com/kent-map/images/main/HelenC.jpg){: .right}
 
-Helen Counsell is a creative writing student.
-
+Helen is a retired nurse and somewhat mature Creative and Professional Writing student. She grew up in the Medway Towns and, after much wandering, has settled in Birchington-on-Sea. 
 
 ## Carla Danella
 
