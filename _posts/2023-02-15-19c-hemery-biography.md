@@ -1,10 +1,10 @@
 ---
 title: "Francis Hobart Hemery (1847-1879)"
-description: "Francis Hobart Hemery’s short life links naval service, breakdown, and literary ambition to Canterbury’s late Victorian middle-class world. Medical labels like general mania, a pension controlled by family, and the periodical press frame how illness, religion, and respectability shaped his poetry and ended in suicide."
+description: "Francis Hobart Hemery, author of The Soul Speaks and Other Poems lived in Canterbury in the 1870s."
 author: Michelle Crowther
 date: 2023-02-15
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Culture & society, Towns & cities ]
+tags: [ Poet, Texts & genres, Culture & society, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg
 permalink: /19c/19c-hemery-biography/
 published: true
