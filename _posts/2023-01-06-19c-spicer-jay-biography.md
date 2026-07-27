@@ -4,7 +4,7 @@ description: "Edith Katherine Spicer Jay, who wrote popular military adventure f
 author: Michelle Crowther
 date: 2023-01-06
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Conflict & war, Texts & genres ]
+tags: [ Authors, Coast & sea, Conflict & war, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg
 permalink: /19c/19c-spicer-jay-biography/
 published: true
