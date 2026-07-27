@@ -4,7 +4,7 @@ description: "Romance novelist F. F. Montrésor emerges from a Walmer upbringing
 author: Michelle Crowther
 date: 2022-12-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places, Culture & society ]
+tags: [ Authors, Texts & genres, Coast & sea, Literary places, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-montresor-biography/
 published: true
