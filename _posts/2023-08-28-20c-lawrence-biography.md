@@ -4,7 +4,7 @@ description: "D.H. Lawrence’s Kent stays at Edward Garnett’s house at Crockh
 author: Michelle Crowther
 date: 2023-08-28
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Representation & interpretation ]
+tags: [ Authors, Literary places, Coast & sea, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Herbert_Lawrence_%26_Frieda_von_Richthofen_1914.jpg
 permalink: /20c/20c-lawrence-biography/
 published: true
