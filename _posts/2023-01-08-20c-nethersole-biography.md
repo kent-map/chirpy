@@ -4,7 +4,7 @@ description: "Michelle Crowther documents the life and work of the Kent rural fi
 author: Michelle Crowther
 date: 2023-01-08
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Countryside & farming, Literary places, Culture & society ]
+tags: [ Authors, Texts & genres, Countryside & farming, Literary places, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/78/Sheep_in_a_Landscape_by_Thomas_Sidney_Cooper_1844.jpg
 permalink: /20c/20c-nethersole-biography/
 published: true
