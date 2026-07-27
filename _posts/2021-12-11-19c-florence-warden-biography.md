@@ -4,7 +4,7 @@ description: "Michelle Crowther traces the influence of Kent on the work of long
 author: Michelle Crowther
 date: 2021-12-11
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places, Crime & punishment ]
+tags: [ Authors, Actors, Texts & genres, Coast & sea, Literary places, Crime & punishment ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-florence-warden-biography/
 published: true
