@@ -4,7 +4,7 @@ description: "Francis Hobart Hemery, author of The Soul Speaks and Other Poems l
 author: Michelle Crowther
 date: 2023-02-15
 categories: [ 19c ]
-tags: [ Poet, Texts & genres, Culture & society, Towns & cities ]
+tags: [ Poets, Texts & genres, Culture & society, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Ship_rigged_ironclad_%28HMS_Achilles_in_port%29_%28cropped%29_RMG_PW8172.jpg
 permalink: /19c/19c-hemery-biography/
 published: true
