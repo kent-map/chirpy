@@ -4,7 +4,7 @@ description: "Mary L. Pendered built a literary career alongside feminist activi
 author: Michelle Crowther
 date: 2021-10-17
 categories: [ 20c ]
-tags: [ Authors & lives, Politics & reform, Towns & cities, Texts & genres, Heritage & memory ]
+tags: [ Authors, Politics & reform, Towns & cities, Texts & genres, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg
 permalink: /20c/20c-pendered-biography/
 published: true
