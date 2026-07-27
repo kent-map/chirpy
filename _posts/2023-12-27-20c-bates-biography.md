@@ -4,7 +4,7 @@ description: "Michelle Crowther introduces the Kent based work of Darling Buds o
 author: Michelle Crowther
 date: 2023-12-27
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Countryside & farming, Coast & sea, Literary places ]
+tags: [ Authors, Texts & genres, Countryside & farming, Coast & sea, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/00a0bf98-14e0-4ad0-b658-61e9d07f609f.jpg
 permalink: /20c/20c-bates-biography/
 published: true
