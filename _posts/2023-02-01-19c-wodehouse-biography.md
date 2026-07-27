@@ -4,7 +4,7 @@ description: "Prof. Carolyn Oulton considers the short but seminal Kent school d
 author: Professor Carolyn Oulton
 date: 2023-02-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Culture & society, Maps & place-making ]
+tags: [ Authors, Literary places, Culture & society, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-wodehouse-biography/
 published: true
