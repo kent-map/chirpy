@@ -4,7 +4,7 @@ description: "Coward first Dymchurch in1922. He spent at least part of his time 
 author: Daniel Vince
 date: 2022-03-27
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Conflict & war ]
+tags: [ Authors, Literary places, Coast & sea, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/81/St_Margaret%27s_Bay%2C_May_2021_02.jpg
 permalink: /20c/20c-coward-biography/
 published: true
