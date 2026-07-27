@@ -4,7 +4,7 @@ description: "Sarah Grand was the author of the controversial 1893 novel The Hea
 author:  Professor Carolyn Oulton
 date: 2021-06-01
 categories: [ 19c ]
-tags: [ Authors & lives, Politics & reform, Towns & cities, Texts & genres ]
+tags: [ Authors, Politics & reform, Women's suffrage, Towns & cities, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/34/The_Common%2C_Tunbridge_Wells._%28NBY_438791%29.jpg
 permalink: /19c/19c-grand-biography/
 published: true
