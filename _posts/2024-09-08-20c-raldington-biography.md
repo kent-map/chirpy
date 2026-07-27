@@ -3,7 +3,7 @@ title: "Richard Aldington (1892-1962)"
 description: "Poet and novelist Richard Aldington was associated with the Imagist movement in the early part of the twentieth century. His novel The Death of a Hero reflects his experience of WW1." 
 date: 2024-09-08
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Nature & environment, Conflict & war ]
+tags: [ Authors, Literary places, Texts & genres, Nature & environment, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Thomas_Serres_-_The_South_Foreland_and_Shakespeare%27s_Cliff_%28one_of_five_drawings_on_one_mount%29_-_B1975.4.1593_-_Yale_Center_for_British_Art.jpg
 permalink: /20c/20c-raldington-biography/
 published: true
