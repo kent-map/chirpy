@@ -4,7 +4,7 @@ description: "Dinah Craik’s move to Shortlands in 1869 links a purpose-built l
 author: Elizabeth Duffield-Fuller
 date: 2023-08-01
 categories: [ 19c ]
-tags: [ Authors & lives, Buildings & architecture, Culture & society, Politics & reform ]
+tags: [ Authors, Buildings & architecture, Culture & society, Politics & reform ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-craik-biography/
 published: true
