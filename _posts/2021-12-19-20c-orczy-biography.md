@@ -4,7 +4,7 @@ description: "Emma Orczy de Orci, the author of the Scarlet Pimpernel novels mov
 author: Michelle Crowther
 date: 2021-12-19
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Conflict & war ]
+tags: [ Authors, Literary places, Towns & cities, Conflict & war ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-orczy-biography/
 published: true
