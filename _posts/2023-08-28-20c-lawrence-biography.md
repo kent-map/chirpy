@@ -1,6 +1,6 @@
 ---
 title: "D.H. Lawrence (1885–1930)"
-description: "D.H. Lawrence’s Kent stays at Edward Garnett’s house at Crockham Hill and later at Kingsgate and Margate shaped his writing and sharpened his sense of belonging and alienation. Letters and recollections link specific places in the Weald and on the Thanet coast to poems and stories drafted or revised amid seaside tourism, strained relationships, and literary friendships."
+description: "D.H. Lawrence stayed at Edward Garnett’s house at Crockham Hill and later at Kingsgate and Margate."
 author: Michelle Crowther
 date: 2023-08-28
 categories: [ 20c ]
@@ -86,8 +86,6 @@ Lawrence and Frieda left Kingsgate at the end of July.  On 17 August, Lawrence w
 'I might have found myself hurrying over the edge of the cliff in my haste to get away from that half-crystallized nowhere of a place – Kingsgate. Kingsgate – oh God! The last was a pathetic little bill for one and fourpence, the dregs and lees of our housekeeping down there: I believe it was the baker. But it dogged our footsteps, and ran us down here. So I made a little boat of it, and set it afloat'.[^ref24]
 
 Lawrence visted The Cearne again in July 1914, a week before he married Frieda.
-
-This article was published: 28 August 2023.
 
 {% include embed/image.html src="wc:Paper_Boat.jpg" aspect="0.716" caption="Paper Boat" %}
 
