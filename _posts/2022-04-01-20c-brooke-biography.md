@@ -4,7 +4,7 @@ description: "Brooke’s re-imaginings, drawing on local folklore and visionary 
 author: Dr Simon Wilson
 date: 2022-04-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Rivers & marshes, Representation & interpretation ]
+tags: [ Authors, Literary places, Texts & genres, Rivers & marshes, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/80704dae-34f6-4afe-bbfe-f1890b4a0994.jpg
 permalink: /20c/20c-brooke-biography/
 published: true
