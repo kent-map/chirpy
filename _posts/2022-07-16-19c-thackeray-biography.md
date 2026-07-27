@@ -4,7 +4,7 @@ description: "Professor Carolyn Oulton introduces author William Makepeace Thack
 author: Professor Carolyn Oulton
 date: 2022-07-16
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities ]
+tags: [ Authors, Literary places, Texts & genres, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-thackeray-biography/
 published: true
