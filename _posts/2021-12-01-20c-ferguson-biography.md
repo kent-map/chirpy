@@ -1,10 +1,10 @@
 ---
 title: "John Ferguson (1871-1952)"
-description: "John Ferguson (1871–1952) was scottish by birth, but became chaplain of Eversley girls’ school in Sandgate in 1915. His novel Stealthy Terror depicts the mood in Folkestone just before the outbreak of World War 1."
+description: "John Ferguson (1871–1952) was Scottish by birth, but became chaplain of Eversley girls’ school in Sandgate in 1915. His novel Stealthy Terror depicts the mood in Folkestone just before the outbreak of World War 1."
 author: Professor Carolyn Oulton
 date: 2021-12-01
 categories: [ 20c ]
-tags: [ Authors & lives, Coast & sea, Conflict & war, Texts & genres ]
+tags: [ Authors, Coast & sea, Conflict & war, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-ferguson-biography/
 published: true
