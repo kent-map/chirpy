@@ -4,7 +4,7 @@ description: "While Galsworthy never lived in Kent, he visited both Joseph Conra
 author: Professor Carolyn Oulton
 date: 2025-08-29
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Travel & mobility ]
+tags: [ Authors, Literary places, Texts & genres, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/eb/Broadstairs_Jetty.jpg
 permalink: /19c/19c-galsworthy-biography/
 published: true
