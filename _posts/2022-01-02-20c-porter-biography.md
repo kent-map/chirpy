@@ -4,7 +4,7 @@ description: "Bertha Porter’s career links late-Victorian Kent society at Hyth
 author:  Michelle Crowther
 date: 2022-01-02
 categories: [ 20c ]
-tags: [ Authors & lives, Towns & cities, Science & ideas, Representation & interpretation ]
+tags: [ Authors, Towns & cities, Science & ideas, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /20c/20c-porter-biography/
 published: true
