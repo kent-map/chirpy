@@ -4,7 +4,7 @@ description: "Michelle Crowther traces the often turbulent life and work of the 
 author: Michelle Crowther
 date: 2024-01-27
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Towns & cities, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Towns & cities, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg
 permalink: /19c/19c-aldington-biography/
 published: true
