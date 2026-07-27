@@ -4,7 +4,7 @@ description: "Charles Carrick built a modest but ambitious career in Victorian C
 author: Michelle Crowther
 date: 2023-12-14
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Work & industry, Texts & genres ]
+tags: [ Poets, Towns & cities, Work & industry, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-carrick-biography/
 published: true
