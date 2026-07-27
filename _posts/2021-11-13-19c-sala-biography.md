@@ -4,7 +4,7 @@ description: "A visual essay by Michelle Crowther introducing the life and work 
 author: Michelle Crowther
 date: 2021-11-13
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Travel & mobility, Culture & society ]
+tags: [ Authors, Coast & sea, Travel & mobility, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-sala-biography/
 published: true
