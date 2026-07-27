@@ -4,7 +4,7 @@ description: "Gertrude Warden’s career moves from late-Victorian stage roles t
 author: Michelle Crowther
 date: 2021-02-25
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Rivers & marshes ]
+tags: [ Authors, Actors, Texts & genres, Literary places, Rivers & marshes ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-gertrude-warden-biography/
 published: true
