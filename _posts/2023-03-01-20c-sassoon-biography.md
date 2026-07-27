@@ -5,7 +5,7 @@ traces the Kent landscape in the war poetry of county native Siegfried Sassoon."
 author: Dr Andrew Palmer
 date: 2023-03-01
 categories: [ 20c ]
-tags: [ Texts & genres, Literary places, Authors & lives, Conflict & war ]
+tags: [ Texts & genres, Literary places, Poets, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/37/Thistledown%2C_Matfield%2C_Kent.JPG
 permalink: /20c/20c-sassoon-biography/
 published: true
