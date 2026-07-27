@@ -4,7 +4,7 @@ description: "Virginia Woolf was a regular visitor at Sissinghurst, home of Vita
 author: Dr Victoria Callanan
 date: 2025-12-30
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Towns & cities ]
+tags: [ Authors, Literary places, Texts & genres, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/85/Sissinghurst_Castle.jpg
 permalink: /20c/20c-woolf-biography/
 published: true
