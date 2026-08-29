@@ -4,7 +4,7 @@ description: "Irina Fridman introduces the life and family of Educationalist Jos
 author: Irina Fridman
 date: 2022-11-01
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Culture & society, Faith & belief ]
+tags: [ Biography, Towns & cities, Culture & society, Faith & belief, Jewish history ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/9b234825-18ea-401c-9c71-868cdfc3eb21.jpg
 permalink: /19c/19c-pyke-biography/
 published: true
