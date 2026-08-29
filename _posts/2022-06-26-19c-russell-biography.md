@@ -4,7 +4,7 @@ description: "Henry Russell’s career links the dockyards and Jewish community 
 author: Michelle Crowther
 date: 2022-06-26
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Faith & belief, Arts & performance, Culture & society ]
+tags: [ Music & musicians, Coast & sea, Jewish history, Arts & performance, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-russell-biography/
 published: true
