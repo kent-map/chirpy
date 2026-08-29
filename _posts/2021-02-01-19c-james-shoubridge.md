@@ -3,10 +3,10 @@ title: "James Shoubridge (c.1805-1872)"
 description: "Cathedral music in early nineteenth-century Canterbury turns on the career of lay clerk James Shoubridge, whose reliable singing and leadership drew repeated gratuities and helped anchor local concert life. Newspaper reports and cathedral records trace his role in the Sacred Harmonic Society and show how musical networks at Canterbury Cathedral fed into wider professional opportunities in London."
 author: Dr Chris Price
 date: 2021-02-01
-categories: [ music ]
-tags: [ Authors & lives, Faith & belief, Towns & cities, Arts & performance ]
+categories: [ 19c ]
+tags: [ Music & musicians, Faith & belief, Towns & cities, Arts & performance ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
-permalink: /music/19c-james-shoubridge/
+permalink: /19c/19c-james-shoubridge/
 published: true
 toc: false  
 ---
