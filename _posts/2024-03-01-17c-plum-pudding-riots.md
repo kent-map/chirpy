@@ -4,7 +4,7 @@ description: "Street conflict in Canterbury on Christmas Day 1647 exposed sharp 
 author: Hannah
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Conflict & war, Towns & cities, Politics & reform, Time periods ]
+tags: [ Conflict & war, Towns & cities, Politics & reform ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-plum-pudding-riots/
 published: true
