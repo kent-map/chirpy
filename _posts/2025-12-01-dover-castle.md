@@ -4,7 +4,7 @@ description: "The foundations of Dover Castle were built by the Romans. It maint
 author: Daisy Miloch
 date: 2025-12-01
 categories: [ built ]
-tags: [ Buildings & architecture, Conflict & war, Coast & sea, Heritage & memory, Time periods ]
+tags: [ Buildings & architecture, Conflict & war, Coast & sea, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Dover-Castle.jpg
 permalink: /built/dover-castle/
 published: true
