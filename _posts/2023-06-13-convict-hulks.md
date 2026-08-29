@@ -3,7 +3,7 @@ title: "The Convict Hulks of Kent "
 description: "Prison hulks were used by the British government as a cost-saving means to detain convicts awaiting transportation. Conditions were appalling, and the hulks stationed along the Kent coastline were only supposed to be temporary measures to ease prison overcrowding. But the system operated for nearly a century."
 date: 2023-06-13
 categories: [ prisons ]
-tags: [ Crime & punishment, Coast & sea, Rivers & marshes, Heritage & memory, Time periods ]
+tags: [ Crime & punishment, Coast & sea, Rivers & marshes ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/24/Walter_William_May_-_Prison_hulks_at_anchor_in_the_River_Medway.jpg
 permalink: /prisons/convict-hulks/
 published: true
