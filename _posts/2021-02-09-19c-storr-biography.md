@@ -4,7 +4,7 @@ description: "Jacquie Stamp introduces the work of Kent father and son poets and
 author: Jacquie Stamp
 date: 2021-02-09
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Culture & society, Literary places ]
+tags: [ Poets, Texts & genres, Culture & society, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-storr-biography/
 published: true
