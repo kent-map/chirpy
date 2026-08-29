@@ -3,10 +3,10 @@ title: "Cathedral Singers"
 description: "Canterbury Cathedral’s Lay Clerks and boy choristers sustained daily Matins and Evensong after the Dissolution, blending ordained Minor Canons with paid adult singers to complete the choir. Low wages and life appointments pushed these musicians into piecemeal work across Canterbury’s civic and concert life, linking cathedral service to clubs, newspapers, and travel networks in nineteenth-century Kent."
 author: Dr Chris Price
 date: 2021-02-15
-categories: [ music ]
-tags: [ Faith & belief, Towns & cities, Culture & society, Arts & performance, Travel & mobility ]
+categories: [ 19c ]
+tags: [ Faith & belief, Towns & cities, Culture & society, Arts & performance, Music & musicians ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/A_South_Prospect_of_the_Cathedral_Church_of_Canterbury.jpg
-permalink: /music/19c-cathedral-singing/
+permalink: /19c/19c-cathedral-singing/
 published: true
 toc: false  
 ---
