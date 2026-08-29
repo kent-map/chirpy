@@ -3,8 +3,8 @@ title: "Joan of Kent (1328-1385): the first Princess of Wales "
 description: "Joan of Kent emerges as a powerful fourteenth-century figure whose contested reputation and marital scandals shaped royal politics in England. Her links to Canterbury Cathedral and Wickhambreaux, and her encounter with the Peasants’ Revolt of 1381, anchor her life in Kent’s religious and political landscape."
 author: Madelaine Lennon and Dr Liz Askey
 date: 2023-01-06
-categories: [ medieval ]
-tags: [ Authors & lives, Politics & reform, Buildings & architecture, Towns & cities, Time periods ]
+categories: [ 14c ]
+tags: [ Biography, Politics & reform, Buildings & architecture, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral_07.JPG
 permalink: /medieval/14c-joan-kent-biography/
 published: true
