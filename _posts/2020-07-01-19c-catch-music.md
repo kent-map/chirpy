@@ -3,10 +3,10 @@ title: "The Catch"
 description: "Catch singing and the closely related English glee shaped lively social music-making in Britain from taverns to cathedral cities, thriving in the late eighteenth and early nineteenth centuries.Textual double entendre, participatory performance, and networks of clubs and professional singers sustained the genre even as shifting domestic tastes and new choral fashions helped it fade by the century’s end."
 author: Dr Chris Price
 date: 2020-07-01
-categories: [ music ]
-tags: [ Arts & performance, Culture & society, Texts & genres, Towns & cities, Travel & mobility ]
+categories: [ 19c ]
+tags: [ Arts & performance, Culture & society, Music & musicians, Towns & cities, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
-permalink: /music/19c-catch-music/
+permalink: /19c/19c-catch-music/
 published: true
 toc: false  
 ---
