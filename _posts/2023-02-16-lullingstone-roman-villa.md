@@ -3,7 +3,7 @@ title: "Lullingstone Roman Villa"
 description: "Lullingstone Roman Villa in the Darent Valley reveals Roman domestic luxury and early Christian practice through mosaics, marble busts, and a painted Chi-Rho chamber. Twentieth-century excavations led by Geoffrey Wells Meates and fellow volunteers show how wartime lives, local networks, and public talks shaped archaeological discovery and heritage in Kent."
 author: Nadia Balbontin and Michelle Crowther
 date: 2023-02-16
-categories: [ Roman ]
+categories: [ roman ]
 tags: [ Heritage & memory, Buildings & architecture, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg
 permalink: /roman/lullingstone-roman-villa/
