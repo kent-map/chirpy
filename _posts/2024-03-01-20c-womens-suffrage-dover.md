@@ -1,11 +1,11 @@
 ---
 title: "Women's Suffrage In Dover"
 description: "Women’s suffrage activism in Dover gathered momentum through public lectures, crowded meetings, and performances staged in venues such as the Apollonian Hall, Wellington Hall, and the Maison Dieu. Local campaigns and visiting speakers linked civic politics, policing, and popular theatre to a widening movement that culminated in women’s enfranchisement in 1918 and full equality in 1928."
-author: Madeleine Byatt, Anneliese Woodhouse and Michelle Crowther
+author: Various
 date: 2024-03-01
 categories: [ 20c ]
 tags: [ Politics & reform, Towns & cities, Arts & performance, Identity & community, Women's suffrage ]
-image: xxx
+image: https://upload.wikimedia.org/wikipedia/commons/9/97/British_%28English%29_School_-_Maison_Dieu%2C_Dover%2C_Kent_-_Dovrm_0_8703_-_Dover_Collections.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /20c/20c-womens-suffrage-dover/
 published: true
 toc: false  
