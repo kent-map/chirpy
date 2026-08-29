@@ -54,7 +54,7 @@ The Marlowe Memorial statue, dubbed “Kitty Marlowe” by locals, originally lo
 
 {% include embed/image.html src="wc:Sculpture_of_Dave_Lee_by_the_Marlowe_Theatre%2C_Canterbury_-_geograph.org.uk_-_5056644.jpg" aspect="0.75" caption="Sculpture of Dave Lee by the Marlowe Theatre" %}
 
-**Roman Museum**
+**Roman Museum**   
 Each step down into The Canterbury Roman Museum from the entrance in Butchery lane to a subterranean world beneath the Longmarket represents 100 years of archaeological excavations. Although Victorian engineers building sewers had encountered the impassable foundations of the Roman ampi-theatre beneath St Margaret’s Street, It was not until World War 11 and the bombing of the area that large scale excavations in the city centre became possible.  Excavations in 1946-47 under the direction of Sheppard Frere and Audrey Williams exposed the Roman city that Canterbury people had always known lay unseen beneath the surface. The Roman theatre, forum, temple precincts and hypocaust heated houses were revealed. Further excavations by Dr F Jenkins and the discovery of a Roman silver hoard during road works, provided more material for the Roman Pavement Museum, first opened in 1961 and refurbished for greater visitor provision in 1994. Canterbury’s Roman Museum sets out the map of ancient Durovernum. The Mosaic pavement (c 300 AD) to a Roman house courtyard is still the central feature.
 
 {% include embed/image.html src="wc:Roman Museum Canterbury 01.jpg" aspect="1.333" caption="Saint Augustine Abbey by Ruth Riddle, via Wikimedia Commons, CC BY-SA 2.0" %}
