@@ -4,7 +4,7 @@ description: "Sheppey was in a vulnerable position at the entrance to both the M
 author: Dr Melanie Caiazza
 date: 2024-03-01
 categories: [ 17c ]
-tags: [ Conflict & war, Coast & sea, Maps & place-making, Representation & interpretation, Time periods ]
+tags: [ Conflict & war, Coast & sea, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-sheppey-at-war/
 published: true
