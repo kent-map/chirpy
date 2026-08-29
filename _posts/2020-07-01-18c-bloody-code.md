@@ -4,7 +4,7 @@ description: "The majority of capital punishments in the 18th century were enfor
 author: Martin Watts
 date: 2020-07-01
 categories: [ 18c ]
-tags: [ Crime & punishment, Politics & reform, Culture & society, Time periods ]
+tags: [ Crime & punishment, Politics & reform, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg
 permalink: /18c/18c-bloody-code/
 published: true
