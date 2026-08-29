@@ -57,13 +57,10 @@ The Marlowe Memorial statue, dubbed “Kitty Marlowe” by locals, originally lo
 **Roman Museum**
 Each step down into The Canterbury Roman Museum from the entrance in Butchery lane to a subterranean world beneath the Longmarket represents 100 years of archaeological excavations. Although Victorian engineers building sewers had encountered the impassable foundations of the Roman ampi-theatre beneath St Margaret’s Street, It was not until World War 11 and the bombing of the area that large scale excavations in the city centre became possible.  Excavations in 1946-47 under the direction of Sheppard Frere and Audrey Williams exposed the Roman city that Canterbury people had always known lay unseen beneath the surface. The Roman theatre, forum, temple precincts and hypocaust heated houses were revealed. Further excavations by Dr F Jenkins and the discovery of a Roman silver hoard during road works, provided more material for the Roman Pavement Museum, first opened in 1961 and refurbished for greater visitor provision in 1994. Canterbury’s Roman Museum sets out the map of ancient Durovernum. The Mosaic pavement (c 300 AD) to a Roman house courtyard is still the central feature.
 
-**Canterbury Tales**
-For a family seeking an experience trip, the Canterbury Tales Centre, established as a visitor attraction in the 1980s in St Margaret’s Church on the lines of the Jorvik Viking Centre at York, offered the sounds, sights and smells of Chaucer’s nine-and-twenty pilgrims. The Miller’s Tale of a fart “as greet as it had been a thunder-dent” was among the experiences to be savoured. After 35 years the time came to close the attraction, though the stories live on in Chaucer’s immortal tales. 
-
-{% include embed/image.html src="wc:Canterbury_Tales_Museum_-_geograph.org.uk_-_1988188.jpg" aspect="0.75" caption="Canterbury Tales" %}
-
-**Geoffrey Chaucer Statue**   
-Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
+**Geoffrey Chaucer**   
+For a family seeking an experience trip, the Canterbury Tales Centre, established as a visitor attraction in the 1980s in St Margaret’s Church on the lines of the Jorvik Viking Centre at York, offers the sounds, sights and smells of Chaucer’s nine-and-twenty pilgrims. The Miller’s Tale of a fart “as greet as it had been a thunder-dent” is among the experiences to be savoured. 
+<br><br>
+A larger than life statue of Geoffrey Chaucer (c. 1342-1400) commissioned by the Canterbury Commemoration Society, was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/115f208d-182b-44f6-bf4d-8f481eea236d.jpg" aspect="1.0" caption="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther" %}
 
@@ -80,7 +77,9 @@ In 1976 the abbey grounds were taken over by English Heritage and in 1989 UNESCO
 The 20th century saw a huge increase in the number of visitors to Canterbury Cathedral and in the corresponding Welcome imparted by the Cathedral to modern pilgrims. George Bell, Dean of Canterbury, 1924-1929, was responsible for making the Cathedral more accessible to visitors and for promoting the arts. The first service broadcast from the Cathedral was in 1925. Dean Bell started the Friends of Canterbury Cathedral, which commissioned John Masefield, the Poet Laureate, to write a nativity play, _The Coming of Christ_, with music by Gustav Holst. This was a great innovation in church life and led in the 1930s, to the commissioning of new plays, including T.S. Eliot’s masterpiece, _Murder in the Cathedral_. The Friends carried out restoration work to the Water tower, the Great Cloister, reproducing the heraldic shields on the vaulted roof, and Christ Church Gate. 
 <br><br>
 One of Dean Bell’s achievements was to stage-manage the enthronement of Archbishop Lang in 1928, in the chair of St Augustine, which was placed in full view at the east end of the Cathedral, where all enthronements have since been made. Broadcast on the radio, the service of enthronement was deemed a great success. The music for the service was composed by Ralph Vaughan Williams.
-<br><br>
+
+{% include embed/image.html src="wc:Canterbury_Cathedral_-_geograph.org.uk_-_3829028.jpg" aspect="0.666" caption="Canterbury Cathedral" %}
+
 Dick Sheppard (Dean, 1921-310) was one of the 20th century’s greatest communicators and in his two years helped to bring the Cathedral to terms with the 20th century. One of his first actions was to discard gaiters, much to the dismay of other priests in the Chapter! Communicants quadrupled within a year of his arrival, and on Sunday evenings he preached to congregations of two thousand people, Sadly, ill health took its toll and his doctors ordered him to resign, but he continued the social work he had started in London St Martin’s-in-the-Fields. When his coffin lay at St Martin’s a hundred thousand people passed by. Dick Sheppard is buried in the Cathedral Cloister.
 <br><br>
 Although Canterbury Cathedral was the primary target of two air attacks in World War II, the building escaped significant harm. But as high explosive bombs fell to either side, buildings in the Precincts were heavily damaged. Part of the medieval monastic Great Dormitory is now the Cathedral Library, rebuilt after World War II, when the building received a direct hit. The names of the 121 civilians who were killed in the bombing raids on Canterbury are recorded in the Cathedral’s Book of Remembrance, displayed in the south-west transept.
@@ -91,14 +90,12 @@ Among the visitors invited to Canterbury by Dean Hewlett Johnson (1931-63), aka 
 <br><br>
 Also shown in the Cathedral Visitors Book, are the signatures of the Pope Paul II and Archbishop Robert Runcie for a service entitled “A Celebration of Faith” on the Pope’s visit. The event on 29 May, 1982 was held on the eve of Pentecost. Pope John Paul II and Archbishop Robert Runcie, Archbishop of Canterbury, knelt together in prayer at the place where Becket was murdered. The place where Becket fell was marked by a striking memorial, known as the Altar of the Sword’s Point. 
 
-{% include embed/image.html src="wc:Canterbury_Cathedral_-_geograph.org.uk_-_3829028.jpg" aspect="0.666" caption="Canterbury Cathedral" %}
+{% include embed/image.html src="wc:Former site of Thomas Becket's shrine in Canterbury Cathedral.jpg" aspect="0.666" caption="Canterbury Cathedral" %}
 
-The 14th century Chapter House was the setting in June 1935 for the first performances of T. S. Eliot’s drama on the death of Becket, _Murder in the Cathedral_. Fifty years later, also in the Chapter House, Prime Minister Margaret Thatcher and President Mitterand of France signed the treaty for the construction of the Channel Tunnel (12 February 1986).  
+The 14th century Chapter House was the setting in June 1935 for the first performances of T. S. Eliot’s drama on the death of Becket, _Murder in the Cathedral_. Fifty years later, also in the Chapter House, Prime Minister Margaret Thatcher and President Mitterand of France signed the treaty for the construction of the Channel Tunnel (12 February 1986).
 <br><br>
 On October 1990 the Archbishop of Canterbury unveiled the statue of a ‘Welcoming Christ’ in the central niche of Christ Church Gate, the main entrance to the Cathedral. The original statue was destroyed by the Puritan onslaught during the Civil War and for nearly three hundred and fifty years had remained empty. The bonze figure is the work of the German sculptor Klaus Ringwald, shows an enthroned Christ, Ruler of the World, with His hands outstretched in welcome.
-
-{% include embed/image.html src="wc:Statue%2C_Christ_Church_Gate_-_geograph.org.uk_-_3468043.jpg" aspect="0.752" caption="Christ Church Gate by David Dixon, CC BY-SA 2.0 via Wikimedia Commons" %}
-
+<br><br>
 The Cathedral Lodge, a hotel and conference centre built within the grounds of the Cathedral, was opened in 2000. A 250 seat Auditorium is complemented by a Refectory, Library and other function rooms, affording access to the Campanile Garden and stunning views of the Cathedral. A new Visitor Centre has also been built next to the Christ Church Gate. With a million visitors a year Canterbury Cathedral is truly the mother church of England.  
 
-{% include embed/image.html src="wc:Canterbury_Cathedral_Lodge_-_geograph.org.uk_-_5540668.jpg" aspect="1.506" caption="Canterbury Cathedral Lodge by Ian Taylor, CC BY-SA 2.0 via Wikimedia Commons" %}
+{% include embed/image.html src="wc:Statue%2C_Christ_Church_Gate_-_geograph.org.uk_-_3468043.jpg" aspect="0.752" caption="Christ Church Gate by David Dixon, CC BY-SA 2.0 via Wikimedia Commons" %}
