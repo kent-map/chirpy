@@ -3,10 +3,10 @@ title: "The Fisherman's Bride"
 description: "A coastal museum exhibit in Folkestone reshapes shipwreck remnants and salvaged gear into a charged portrait of a fisherman’s bride. Salt, wind, and polished wood turn marriage and mourning into maritime material culture, where preservation and decay sit side by side."
 author: Carolyn Oulton
 date: 2025-12-30
-categories: [ poetry ]
+categories: [ 21c ]
 tags: [ Coast & sea, Material culture, Buildings & architecture, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Constable_-_Folkestone_Harbour%2C_with_a_rainbow%2C_1888%2C0215.37.jpg
-permalink: /poetry/fisherman-oulton/
+permalink: /21c/fisherman-bride/
 published: true
 toc: false  
 ---
