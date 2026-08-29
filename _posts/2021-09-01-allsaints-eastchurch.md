@@ -4,7 +4,7 @@ description: "The late medieval and early modern history of All Saints Parish Ch
 author: Dr Melanie Caizza
 date: 2021-09-01
 categories: [ churches ]
-tags: [ Faith & belief, Buildings & architecture, Countryside & farming, Material culture, Time periods ]
+tags: [ Faith & belief, Buildings & architecture, Countryside & farming, Material culture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /churches/allsaints-eastchurch/
 published: true
