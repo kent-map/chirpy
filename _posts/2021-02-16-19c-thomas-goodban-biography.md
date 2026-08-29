@@ -4,7 +4,7 @@ description: "Thomas Goodban shaped Canterbury’s nineteenth-century musical li
 author: Dr Chris Price
 date: 2021-02-16
 categories: [ music ]
-tags: [ Authors & lives, Arts & performance, Towns & cities, Material culture ]
+tags: [ Musician, Arts & performance, Towns & cities, Material culture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /music/19c-thomas-goodban-biography/
 published: true
