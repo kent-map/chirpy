@@ -4,7 +4,7 @@ description: "Michelle Crowther details the Kent work of neo-gothic architect an
 author: Michelle Crowther
 date: 2023-03-13
 categories: [ 19c ]
-tags: [ Authors & lives, Buildings & architecture, Towns & cities, Heritage & memory ]
+tags: [ Biography, Buildings & architecture, Towns & cities, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/2b/View_of_Canterbury_Cathedral_August_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /19c/19c-burges-biography/
 published: true
