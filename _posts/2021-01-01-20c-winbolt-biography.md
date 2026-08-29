@@ -4,7 +4,7 @@ description: "S.E. Winbolt’s excavations of the Roman villa on Folkestone’s 
 author: Michelle Crowther
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Authors & lives, Coast & sea, Heritage & memory, Culture & society ]
+tags: [ Biography, Coast & sea, Heritage & memory, Culture & society, Archaeology ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-winbolt-biography/
 published: true
