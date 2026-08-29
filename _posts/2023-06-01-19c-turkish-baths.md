@@ -4,7 +4,7 @@ description: "Malcolm Shifrin discusses the introduction of Islamic inspired bat
 author: Malcolm Shifrin
 date: 2023-06-01
 categories: [ 19c ]
-tags: [ Health & Hygiene, Culture & society, Towns & cities, Buildings & architecture ]
+tags: [ Health & hygiene, Culture & society, Towns & cities, Buildings & architecture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-turkish-baths/
 published: true
