@@ -4,7 +4,7 @@ description: "Waterstones in Canterbury became a civic hub for books, visitors, 
 author: Dr. Martin Latham
 date: 2021-03-01
 categories: [ 21c ]
-tags: [ Towns & cities, Culture & society, Literary places, Buildings & architecture, Time periods ]
+tags: [ Towns & cities, Culture & society, Literary places, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Waterstones%2C_Canterbury.jpg
 permalink: /21c/21c-waterstones-canterbury/
 published: true
