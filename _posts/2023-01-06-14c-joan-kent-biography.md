@@ -6,7 +6,7 @@ date: 2023-01-06
 categories: [ 14c ]
 tags: [ Biography, Politics & reform, Buildings & architecture, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral_07.JPG
-permalink: /medieval/14c-joan-kent-biography/
+permalink: /14c/14c-joan-kent-biography/
 published: true
 toc: false  
 ---
