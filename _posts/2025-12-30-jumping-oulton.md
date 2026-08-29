@@ -3,10 +3,10 @@ title: "Jumping Downs"
 description: "A lyric poem fixes attention on the Downs as a ground-level ecology of thistle bone, cobwebbed skin, spider touch, and clover ticking in time. Close observation turns fleeting bodily sensation and improvised writing into a record of place where small field details carry the weight of memory."
 author: Carolyn Oulton
 date: 2025-12-30
-categories: [ poetry ]
-tags: [ Texts & genres, Countryside & farming, Nature & environment, Representation & interpretation, Poetry ]
+categories: [ 21c ]
+tags: [ Texts & genres, Countryside & farming, Nature & environment, Poetry ]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Thistle_near_Brockhill_Stream_-_geograph.org.uk_-_7825485.jpg
-permalink: /poetry/jumping-oulton/
+permalink: /21c/jumping-downs/
 published: true
 toc: false  
 ---
