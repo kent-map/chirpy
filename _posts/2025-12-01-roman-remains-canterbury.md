@@ -4,7 +4,7 @@ description: "Roman masonry and infrastructure in Canterbury shaped early mediev
 author: Harvey Wallace
 date: 2025-12-01
 categories: [ roman ]
-tags: [ Buildings & architecture, Towns & cities, Material culture, Travel & mobility ]
+tags: [ Buildings & architecture, Towns & cities, Material culture, Archaeology ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg
 permalink: /roman/roman-remains-canterbury/
 published: true
