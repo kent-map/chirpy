@@ -1,10 +1,10 @@
 ---
 title: "Beau Nash’s Tunbridge Wells"
-description: "Richard Beau Nash shaped eighteenth-century Tunbridge Wells by enforcing a disciplined social code of balls, greetings, and fashionable display as Master of Ceremonies from 1735. His authority depended on personal charisma as much as civic power, helping recast the spa from a reputation for licentiousness toward respectable elite leisure and leaving durable traces in local memory and place branding."
+description: "Richard Beau Nash shaped eighteenth-century Tunbridge Wells by enforcing a disciplined social code of balls, greetings, and fashionable display as Master of Ceremonies from 1735. His authority depended on personal charisma as much as civic power, helping recast the spa from a reputation for licentiousness toward respectable elite leisure."
 author: Dr Shaun Regan
 date: 2023-04-01
 categories: [ 18c ]
-tags: [ Authors & lives, Towns & cities, Culture & society, Heritage & memory, Time periods ]
+tags: [ Biography, Towns & cities, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-beau-nash-biography/
 published: true
