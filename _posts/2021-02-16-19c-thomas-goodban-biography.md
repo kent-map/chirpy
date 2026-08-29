@@ -3,10 +3,10 @@ title: "Thomas Goodban (1784-1863)"
 description: "Thomas Goodban shaped Canterbury’s nineteenth-century musical life through subscription concerts at the Catch Club and by drawing prominent performers to gentry audiences. His innovative teaching tools, especially the Game of Musical Characters and later Music Cards, fused play with rigorous notation training and circulated widely through London publishers and a national subscriber network."
 author: Dr Chris Price
 date: 2021-02-16
-categories: [ music ]
+categories: [ 19c ]
 tags: [ Music & musicians, Arts & performance, Towns & cities, Material culture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
-permalink: /music/19c-thomas-goodban-biography/
+permalink: /19c/19c-thomas-goodban-biography/
 published: true
 toc: false  
 ---
