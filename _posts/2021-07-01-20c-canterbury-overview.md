@@ -4,7 +4,7 @@ description: "A third of the inner core of Canterbury was destroyed by WW2 bombi
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Towns & cities, Conflict & war, Work & industry, Maps & place-making, Time periods ]
+tags: [ Towns & cities, Conflict & war, Work & industry, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-overview/
 published: true
