@@ -4,7 +4,7 @@ description: "Twentieth-century Canterbury rebuilt its visitor economy around mu
 author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
-tags: [ Heritage & memory, Towns & cities, Buildings & architecture, Travel & mobility, Time periods ]
+tags: [ Heritage & memory, Towns & cities, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Thomas_Hastings_-_Canterbury_Cathedral_-_B1977.14.2363_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /canterbury/20c-canterbury-heritage/
 published: true
