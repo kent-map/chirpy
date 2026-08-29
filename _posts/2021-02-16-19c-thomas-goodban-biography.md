@@ -17,16 +17,16 @@ The programme looks very much like a [Catch Club]({{ site.baseurl }}/music/19c-c
 <param ve-media url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Henry_Rowley_Bishop_%281786-1855%29_-_Foresters%2C_sound_-_Atelier_Vocal_des_Herbiers_%28petit_ensemble_Amarante%29_-_1993.ogg" label="Henry Rowley Bishop Foresters sound - Aterlier Vocal des Herbiers petit ensemble Amarante" attribution="Jo Laporte, Public domain, via Wikimedia Commons">
 
 Composers and teachers were as keen then as they are now to broadcast their productions in the most efficient manner possible. The most striking of Thomas Goodban’s published output dates from 1818: Goodban’s _Game of Musical Characters_ is a musical game, played with a teetotum—a dice on a spindle—and counters on a most elaborate board measuring 531mm x 399mm. To modern eyes, it’s a daunting conflation of Snakes and Ladders™ and the Associated Board Theory exams, with a system of randomly awarded fines and rewards to tempt—or goad—the young musician on. Goodban’s Preface shows an awareness of musical pedagogy which arguably puts him some way ahead of his time: without compromising on the need to understand the semiotics of musical notation, he is responding to a keenly observed appreciation of its challenges:
-
+<br><br>
 As the difficulties of adapting a species of entertainment for such a purpose, suited to the capacities and dispositions of all classes, have been anticipated, no pains or exertions have consequently been spared in the arrangement and formation of the game, to combine an amusement with instruction, in the use and application of it; and by the assistance which it is intended to enable learners, imperceptibly, as it were, to afford to each other—to create a spirit of emulation amongst them, without injuring their morals.[^ref2] 
-
+<br><br>
 It is an attractive product: musical signs and symbols adorn the border, and a couple of merry little rhymes brighten the players’ progress down the board, such as:
-
+<br><br>
 If Praise you seek, take care of Time   
 And never from it stray;   
 By crotchets or by quavers count   
 In ev’ry Bar you play.
-
+<br><br>
 Some 230 subscribers are listed at the front of the booklet. Most are local, but the list includes music and booksellers as far afield as Marlborough, Stockport, Norwich, Newport, and Hull. Beyond this, it is difficult to tell how much success the venture brought him, though one contemporary periodical recommended it: the Quarterly _Musical Magazine and Review_ devoted over four pages to a – largely complimentary – article about it. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/MusicalCharacters-797x1024.jpg" aspect="0.778" caption="Goodban’s Game of Musical Characters. Published in 1818" attribution="By kind permission of Walter Havighurst Special Collections, Miami University" %}
@@ -46,14 +46,12 @@ As an author Mr. Goodban was formerly well known to the musical world by his ins
 {% include embed/image.html src="wc:Richard_Dadd_-_The_Music_Lesson_or_the_Governess%2C_a_Sketch_-_B1981.25.2575_-_Yale_Center_for_British_Art.jpg" aspect="0.683" caption="The Music Lesson or the Governess" %}
 
 There are other nineteenth-century examples of creative attempts at music education in the British Library, but Goodban’s may lay claim to be amongst the most attractive and rigorous examples of such work. 
-
+<br><br>
 In between the Game and the Cards, as the _Musical Times_ records, Goodban had been most industrious. The title page of the Music Cards booklet claims him to be the ‘Author of a complete guide to playing the violin; instructions for the pianoforte; the rudiments of music, with progressive exercises to be written upon slates; etc.’ This is true; copies are in the British Library. In 1840, a second edition of the Piano tutor, with an additional ‘variety of exercises for forming the hands, acquiring independence and facility of action, and contracting and changing them, &c., &c.’, met with an enthusiastic reception from the home crowd: the [_Kentish Gazette_]({{ site.baseurl }}/18c/18c-kentish-gazette) recommended it as tending ‘more than any perceptive book we have ever seen, to perfect the student in the rudiments of the science.’[^ref6] 
-
+<br><br>
 All these creations were published in London: the Game by Goulding, D’Almaine, Potter, & Co. of 20, Soho Square; the Cards by Simpkin, Marshall and Co., Stationers Court and J. A. Novello, Dean Street, Soho and 24, Poultry; the Violin Tutor by Preston ‘at his Wholesale Warehouses, 97, Strand’; and the Piano Tutor by Coventry and Hollier, 71, Dean Street, Soho. Such an imprimatur would have ensured a distribution well beyond the city of [Canterbury](Q29303).
-
+<br><br>
 Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst]({{ site.baseurl }}/music/19c-william-longhurst-biography) (1819–1904).
-
-This article was published: 1 June 2020.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/music/Thomas_Goodban.jpg" aspect="0.776" caption="Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music" attribution="Canterbury Museums and Galleries" %}
 
