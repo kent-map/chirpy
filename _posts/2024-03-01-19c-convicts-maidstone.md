@@ -4,7 +4,7 @@ description: "Maidstone convict prison, opened in 1909 beside the town’s older
 author: Dr Ben Bethell
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Crime & punishment, Towns & cities, Culture & society, Time periods ]
+tags: [ Crime & punishment, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/af/Paul_Sandby_-_A_Distant_View_of_Maidstone%2C_from_Lower_Bell_Inn%2C_Boxley_Hill_-_Google_Art_Project.jpg
 permalink: /19c/19c-convicts-maidstone/
 published: true
