@@ -4,7 +4,7 @@ description: "Road and rail decisions reshaped Canterbury’s streets, shifting 
 author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
-tags: [ Travel & mobility, Towns & cities, Work & industry, Culture & society, Authors & lives ]
+tags: [ Travel & mobility, Towns & cities, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Maidstone_%26_District_5521%2C_521DKT_Leyland_PDR1_Atlantean.jpg
 permalink: /canterbury/20c-canterbury-transport/
 published: true
