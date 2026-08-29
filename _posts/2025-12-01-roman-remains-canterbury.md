@@ -3,7 +3,7 @@ title: "Recycling Roman material in Early Medieval Canterbury"
 description: "Roman masonry and infrastructure in Canterbury shaped early medieval building through widespread spolia, especially recycled clay bricks and dressed green sandstone. Pre-Conquest churches, sections of the city walls, and the continued use of Roman roads show how Anglo-Saxon builders relied on durable Roman fabric and surviving routes to anchor new urban and religious landscapes."
 author: Harvey Wallace
 date: 2025-12-01
-categories: [ Roman ]
+categories: [ roman ]
 tags: [ Buildings & architecture, Towns & cities, Material culture, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e4/East_side_of_Canterbury_City_wall.jpg
 permalink: /roman/roman-remains-canterbury/
