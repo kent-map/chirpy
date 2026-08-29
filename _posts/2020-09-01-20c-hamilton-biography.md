@@ -25,8 +25,6 @@ Like her fellow writer Christopher St John, Cicely Hamilton began to have ‘dou
 
 Hamilton spent many holidays in Kent with the Trio – sometimes staying for months at a time – and occasionally used the remoteness of Smallhythe as an excuse to decline speaking engagements.  She wrote to a friend, ‘[We are] three miles from a light railway which eventually takes you to the South-Eastern.  It takes four hours or so to do the fifty or sixty miles from London.’ [^ref5]
 
-{% include embed/image.html src="wc:Women%27s_Freedom_League_meeting_on_19_February_1909.jpg" aspect="0.745" caption="Freedom League Meeting, 19 Feb 1909" %}
-
 ### Bibliography:
 
 Adlard, E., ed. _Edy: Recollections of Edith Craig_. Frederick Muller Ltd., 1948.  
