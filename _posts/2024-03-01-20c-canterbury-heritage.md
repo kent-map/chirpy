@@ -26,25 +26,24 @@ Situated at the centre of the town The Eastbridge Hospital, Greyfriars chapel an
 
 {% include embed/image.html src="wc:Eastbridge_Hospital_Canterbury_1085030_20230813_0147.jpg" aspect="1.5" caption="Tilman2007, CC BY-SA 4.0, via Wikimedia Commons" %}
 
-A short walk along Stour Street leads to the adjoining properties of the Greyfriars and Franciscan Garden. Standing on the island of Binnewith, formed by branches of the Stour, the stone and flint Greyfriars chapel is the oldest Franciscan building in Britain (c 1267). It is difficult to imagine a more peaceful place within a minute’s walk of the High Street. Although known to be one of Canterbury’s hidden secrets, for most of the 20th century access to the the Greyriars was restricted. The gardens are now open to visitors in the summer months.
+**Greyfriars Chapel**   
+Standing on the island of Binnewith, formed by branches of the Stour, the stone and flint Greyfriars chapel is the oldest Franciscan building in Britain (c 1267). It is difficult to imagine a more peaceful place within a minute’s walk of the High Street. Although known to be one of Canterbury’s hidden secrets, for most of the 20th century access to the the Greyriars was restricted. The gardens are now open to visitors in the summer months.
 
 {% include embed/image.html src="wc:Greyfriars_Chapel_-_geograph.org.uk_-_4142883.jpg" aspect="0.75" caption="Greyfriars Chapel by Kim Fyson, CC BY-SA 2.0 via Wikimedia Commons" %}
 
 **The Canterbury Heritage Museum (1986-2018)**
 The Canterbury Heritage Museum, opened in 1986 by Queen Elizabeth II, was housed in the 12th century Poor Priests Hospital, to tell the history of the city. The magnificent medieval interior, with an oak-beamed roofs, a great hall and labyrinth of period rooms was the perfect place for displays in a ‘time walk” from the earliest to latest times. The displays on 20th century subjects included a Canterbury wartime Blitz experience, a [Rupert Bear]({{ site.baseurl }}/20c/20c-tourtel-biography) exhibition, celebrating both Rupert and the comic bear’s creator Mary Tourtel (1874-1943) who was born and lived in the city, and a Bagpuss and Clangers display, in tribute to Oliver Postgate (1925-2008). Working in his studio at the nearby village of Blean with his associate Peter Firmin, Oliver Postgate produced the most wonderful children’s animation programmes, Ivor the Engine being my favourite, all greatly loved by anyone who grew up in the 1960s, ‘70s or ‘80s.   
-
+<br><br>
 The Museum was closed in 2018. Most displays were transferred to the redeveloped Beaney Institute on the High Street or, in the case of Roman exhibits, to the Roman Museum. A wonderful  20th century museum, the closure of the Canterbury Heritage Museum was a sad loss for heritage and for the 21st century.    
 
 {% include embed/image.html src="wc:Museum_of_Canterbury_001.jpg" aspect="1.287" caption="Canterbury Heritage Museum" %}
 
 **The Beaney** 
 The amazing Beaney Institute in the High Street, now redeveloped as the Beaney House of Art and Knowledge, was opened in 1899 thanks to the generosity of an Australian, Dr James Beaney, who was born in Canterbury. The Beaney served as Canterbury’s Royal Museum and Free Library throughout the 20th century. In recent years the building has been impressively enlarged and completely refurbished to transform this part of the city into “a vibrant, cultural quarter”, in conjunction with the rebuilding of the nearby Marlowe Theatre. 
-
-{% include embed/image.html src="wc:Canterbury_Beaney_Institute.JPG" aspect="0.728" caption="Beaney Institute, by Zeisterre, CC BY-SA 3.0 via Wikimedia Commons" %}
-
+<br><br>
 The Beaney has long been the place to admire the life sized paintings by Thomas Sidney Cooper (also known as “Cow Cooper”) of cattle and sheep, the huge painting of “Separated but not Divorced” or “Charlie the Bull” ruling the herd. It also housed the East Kent Regiment, the Buffs, museum, although this was later moved. The redeveloped building now hosts exhibitions, provides a new home for the [Rupert the Bear]({{ site.baseurl }}/20c/20c-tourtel-biography), Bagpuss and Clangers displays, and runs a lively educational programme.
 
-{% include embed/image.html src="wc:The_Smallfilms_Gallery_at_The_Beaney%2C_Canterbury%2C_August_2022_04.jpg" aspect="1.333" caption="The Smallfilms Gallery at the Beaney" %}
+{% include embed/image.html src="wc:Canterbury_Beaney_Institute.JPG" aspect="0.728" caption="Beaney Institute, by Zeisterre, CC BY-SA 3.0 via Wikimedia Commons" %}
 
 **The Marlowe Theatre**
 The history of the Marlowe theatre in Canterbury began when a small theatre opened in St Margaret’s Street, just before the Great War (1914-18). Between the wars it became a cinema and then a theatre again. It became the city’s first Marlowe Theatre in 1949 and ran as a repertory company until closure in 1981 to make way for redevelopment as the Marlowe Arcade. The city council purchased the former Odeon Cinema in the Friars, converting it into a theatre bringing the Marlowe to its present site. The building operated successfully for 25 years, but by the 2000s owing to the deficiencies of the converted cinema the council took the bold decision to re-build the theatre. The 3rd Marlowe theatre opened on 4 October 2011. This superb theatre brings world-class theatre, ballet and orchestral companies to the 1200 seat auditorium, as well as providing superb studio and workshop spaces for artists.  
@@ -63,6 +62,7 @@ For a family seeking an experience trip, the Canterbury Tales Centre, establishe
 
 {% include embed/image.html src="wc:Canterbury_Tales_Museum_-_geograph.org.uk_-_1988188.jpg" aspect="0.75" caption="Canterbury Tales" %}
 
+**Geoffrey Chaucer Statue**   
 Promoted by the Canterbury Commemoration Society, a larger than life statue of Geoffrey Chaucer (c. 1342-1400) was unveiled in October 2016 on the corner of the High Street and Best lane. Chaucer faces the Eastbridge Hospital where many pilgrims were given lodging and holds the writing on vellum of the opening lines of the Canterbury Tales. The figures depicting the story tellers round the plinth were modelled on local characters, with Canterbury-born actor Orlando Bloom (born 1977) as the Young Squire. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/115f208d-182b-44f6-bf4d-8f481eea236d.jpg" aspect="1.0" caption="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" attribution="Martin Crowther" %}
@@ -78,23 +78,23 @@ In 1976 the abbey grounds were taken over by English Heritage and in 1989 UNESCO
 
 **Canterbury Cathedral**
 The 20th century saw a huge increase in the number of visitors to Canterbury Cathedral and in the corresponding Welcome imparted by the Cathedral to modern pilgrims. George Bell, Dean of Canterbury, 1924-1929, was responsible for making the Cathedral more accessible to visitors and for promoting the arts. The first service broadcast from the Cathedral was in 1925. Dean Bell started the Friends of Canterbury Cathedral, which commissioned John Masefield, the Poet Laureate, to write a nativity play, _The Coming of Christ_, with music by Gustav Holst. This was a great innovation in church life and led in the 1930s, to the commissioning of new plays, including T.S. Eliot’s masterpiece, _Murder in the Cathedral_. The Friends carried out restoration work to the Water tower, the Great Cloister, reproducing the heraldic shields on the vaulted roof, and Christ Church Gate. 
-
+<br><br>
 One of Dean Bell’s achievements was to stage-manage the enthronement of Archbishop Lang in 1928, in the chair of St Augustine, which was placed in full view at the east end of the Cathedral, where all enthronements have since been made. Broadcast on the radio, the service of enthronement was deemed a great success. The music for the service was composed by Ralph Vaughan Williams.
-
+<br><br>
 Dick Sheppard (Dean, 1921-310) was one of the 20th century’s greatest communicators and in his two years helped to bring the Cathedral to terms with the 20th century. One of his first actions was to discard gaiters, much to the dismay of other priests in the Chapter! Communicants quadrupled within a year of his arrival, and on Sunday evenings he preached to congregations of two thousand people, Sadly, ill health took its toll and his doctors ordered him to resign, but he continued the social work he had started in London St Martin’s-in-the-Fields. When his coffin lay at St Martin’s a hundred thousand people passed by. Dick Sheppard is buried in the Cathedral Cloister.
-
+<br><br>
 Although Canterbury Cathedral was the primary target of two air attacks in World War II, the building escaped significant harm. But as high explosive bombs fell to either side, buildings in the Precincts were heavily damaged. Part of the medieval monastic Great Dormitory is now the Cathedral Library, rebuilt after World War II, when the building received a direct hit. The names of the 121 civilians who were killed in the bombing raids on Canterbury are recorded in the Cathedral’s Book of Remembrance, displayed in the south-west transept.
-
+<br><br>
 The Cathedral Visitors Book, which runs from 1902 to 1996, contains the signatures of royalty, Prime Ministers and other leaders who attended major events. On the visit of King George VI for a Service of Thanksgiving for “The Preservation of the Cathedral from Destruction During the Late War”, held on 11th July 1946, the signatures of the King, Queen Elizabeth and Princess Elizabeth, the future Queen, appear. 
-
+<br><br>
 Among the visitors invited to Canterbury by Dean Hewlett Johnson (1931-63), aka the “Red Dean” on account of his pro-Communist views, was Mahatma Gandhi in 1931. Gandhi travelled to Canterbury with his handloom and a goat provided milk for him to drink. On Easter Day, 1956, George Malenkov, the former Soviet Prime Minister, had lunch at the Deanery. A little later the Dean received a furious letter from Archbishop Fisher for bringing an unbeliever into the Cathedral on Easter Day. But at the time Malenkov had been heard to say to the Dean, “You take this all for granted. To me it is all entirely new and wonderful.” While the Red Dean aroused many emotions, none could criticise his commitment to Canterbury during the war, when he remained in the city despite severe bomb damage to the Deanery. He too is buried in the cloisters.  
-
+<br><br>
 Also shown in the Cathedral Visitors Book, are the signatures of the Pope Paul II and Archbishop Robert Runcie for a service entitled “A Celebration of Faith” on the Pope’s visit. The event on 29 May, 1982 was held on the eve of Pentecost. Pope John Paul II and Archbishop Robert Runcie, Archbishop of Canterbury, knelt together in prayer at the place where Becket was murdered. The place where Becket fell was marked by a striking memorial, known as the Altar of the Sword’s Point. 
 
 {% include embed/image.html src="wc:Canterbury_Cathedral_-_geograph.org.uk_-_3829028.jpg" aspect="0.666" caption="Canterbury Cathedral" %}
 
 The 14th century Chapter House was the setting in June 1935 for the first performances of T. S. Eliot’s drama on the death of Becket, _Murder in the Cathedral_. Fifty years later, also in the Chapter House, Prime Minister Margaret Thatcher and President Mitterand of France signed the treaty for the construction of the Channel Tunnel (12 February 1986).  
-
+<br><br>
 On October 1990 the Archbishop of Canterbury unveiled the statue of a ‘Welcoming Christ’ in the central niche of Christ Church Gate, the main entrance to the Cathedral. The original statue was destroyed by the Puritan onslaught during the Civil War and for nearly three hundred and fifty years had remained empty. The bonze figure is the work of the German sculptor Klaus Ringwald, shows an enthroned Christ, Ruler of the World, with His hands outstretched in welcome.
 
 {% include embed/image.html src="wc:Statue%2C_Christ_Church_Gate_-_geograph.org.uk_-_3468043.jpg" aspect="0.752" caption="Christ Church Gate by David Dixon, CC BY-SA 2.0 via Wikimedia Commons" %}
