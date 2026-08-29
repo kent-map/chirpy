@@ -4,7 +4,7 @@ description: "Covid-19 reshaped student life in Canterbury in 2020–21, turning
 author: Alexa Barrett
 date: 2021-03-01
 categories: [ 21c ]
-tags: [ Culture & society, Towns & cities, Identity & community, Health & Hygiene ]
+tags: [ Culture & society, Towns & cities, Identity & community, Health & hygiene ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /21c/21c-canterbury-covid/
 published: true
