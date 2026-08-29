@@ -5,25 +5,21 @@ author: Michelle Crowther
 date: 2023-03-13
 categories: [ 19c ]
 tags: [ Authors & lives, Buildings & architecture, Towns & cities, Heritage & memory ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1f188cc0-37b3-4af1-86a5-7ff2c3e8db88.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2b/View_of_Canterbury_Cathedral_August_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /19c/19c-burges-biography/
 published: true
 toc: false  
 ---
 
 In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for [Maidstone](Q213180) to design a missionary monument at St Augustine’s College, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury). Burges sketched designs for a sculptured diptych, with one side depicting the meeting of Pope Gregory and the English slaves and the other portraying the conversion of King Ethelbert by St Augustine, which was carved by Theodore Phyffers. It was to be his first Kentish commission.
+<br><br>
+Burges was the son of marine engineer Alfred Burges (1796–1886) who along with his business partner, James Walker designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88.jpg" aspect="1.254" caption="St Augustine's College, Canterbury" attribution="G. Hawkins, Published by Henry Ward, Mercery Lane, Canterbury" %}
 
 {% include embed/map.html center="Q213180" zoom="12" markers="Q213180" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
 {% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
-
-Burges was the son of marine engineer Alfred Burges (1796–1886) who along with his business partner, James Walker designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
-
-{% include embed/image.html src="wc:Admiralty_Pier_Dover_England.jpg" aspect="1.294" caption="Admiralty Pier, Dover" %}
-
-{% include embed/map.html center="Q179224" zoom="11.5" markers="Q179224" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
 After studying at King’s College School, London, where he became friends with pre-Raphaelite artist [Dante Gabriel Rossetti]({{ site.baseurl }}/19c/19c-rossetti-biography) and his brother William Michael, Burges entered the offices of the pre-eminent Gothic Revival architect, Edward Blore, in 1844. After this, he joined the offices of Matthew Digby Wyatt and worked on the Medieval Court at the Great Exhibition of 1851.
 
@@ -64,16 +60,14 @@ Burges was not only a talented architect, but also a designer. In 1867 he was co
 {% include embed/map.html center="Q1254903" zoom="11.5" markers="Q1254903" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
 In 1880, the Mayor of [Dover]({{ site.baseurl }}/19c/19c-dover) decided that the town needed an assembly hall and civic rooms. Burges was commissioned to design the plans for the new building and began working on these on 1 March 1881. Not only did he design the building, but also the decorative scheme and the furniture, including an impressive table surrounded by lion-headed chairs for the Mayor’s Parlour. 
+<br><br>
+Sadly, Burges did not live to see his vision as he died on the 20 April 1881. Burges's brother-in-law Richard Popplewell Pullan and his business partner John Starling Chapple continued the work, but Burges's rich decorative scheme was later painted over in the twentieth century. A multi-million pound project entitled ['Reawakening a Gothic Fantasy'](https://www.maisondieudover.org.uk/) is currently restoring the Burges scheme. Burges's most notable works were Cardiff Castle and Castell Coch which were commissioned by the 3rd Marquess of Bute.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d5b27092-f8fb-411c-9d48-dd2224622676.jpg" aspect="1.333" caption="Ceiling in the Mayor's Parlour" attribution="William Burges. Photogaph by Michelle Crowther" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/feed4654-a3ac-41ce-b021-49d5ec0313b6.jpg" aspect="0.75" caption="Fireplace in the Mayor's Parlour" attribution="William Burges. Photograph by Michelle Crowther" %}
 
 {% include embed/map.html center="Q179224" zoom="11.5" markers="Q179224" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
-
-Sadly, Burges did not live to see his vision as he died on the 20 April 1881. Burges's brother-in-law Richard Popplewell Pullan and his business partner John Starling Chapple continued the work, but Burges's rich decorative scheme was later painted over in the twentieth century. A multi-million pound project entitled ['Reawakening a Gothic Fantasy'](https://www.maisondieudover.org.uk/) is currently restoring the Burges scheme. Burges's most notable works were Cardiff Castle and Castell Coch which were commissioned by the 3rd Marquess of Bute.
-
-This article was published: 11 March 2023.
 
 {% include embed/image.html src="wc:DoverRathaus.JPG" aspect="1.333" caption="Dover, Maison Dieu" %}
 
