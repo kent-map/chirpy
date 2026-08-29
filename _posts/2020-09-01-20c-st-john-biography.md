@@ -22,12 +22,12 @@ Kent locations feature in her fictionalised autobiography, _Hungerheart_, her ma
 On Chris and Edy’s first visit to Smallhythe, sent to view the property by [Ellen Terry]({{ site.baseurl }}/20c/20c-terry-biography). “We went there from London by road on our bicycles, spending the night at the Saracen, [Ashford](Q725261), on the way. …Edy was always quick to recognize the potentialities of a house, however dilapidated, however blemished by gimcrack repairs… I was charmed by the water-meadows round the farm, its beautiful out-houses, its vast canopy of sky, it’s authentic rural atmosphere, but when Edy said of a room upstairs, piled up to the ceiling with fleeces, ‘This will be mother’s bedroom,’ I gaped at her optimism.”[^ref1]
 <br><br>
 Smallhythe Place had a convivial atmosphere, and many literary, theatrical and artistic friends frequently visited, including the suffragettes Vera “Jacko” Holme and Sime Seruya, illustrator of the Rider Waite Tarot deck, Pamela Colman Smith, playwright [Cicely Hamilton]({{ site.baseurl }}/20c/20c-hamilton-biography/), and the author, Radclyffe Hall and her life partner Una Troubridge.
-
-{% include embed/image.html src="wc:Cicely_Hamilton_by_Lena_Connell_1910s.png" aspect="0.63" caption="Cicely Hamilton" %}
-
+<br><br>
 Hall and Troubridge once considered building a home for themselves on land adjacent to Smallhythe Place, to be closer to their friends, but reconsidered because the fallout from Christopher’s brief, disastrous affair with [Vita Sackville-West]({{ site.baseurl }}/20c/20c-sackville-west-biography) had destabilised the Trio to such an extent that even the usually unflappable Tony firmly reject the idea with, “We can’t possibly have a house out here!”
 <br>
 Chris made her home at Smallhythe Place until her death in 1960. 
+
+{% include embed/image.html src="wc:Cicely_Hamilton_by_Lena_Connell_1910s.png" aspect="0.63" caption="Cicely Hamilton" %}
 
 ### Bibliography
 
