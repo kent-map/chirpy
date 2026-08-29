@@ -11,6 +11,7 @@ published: true
 toc: false  
 ---
 
+**Introduction**   
 Tourism, for centuries a source of [canterbury](Q29303)’s livelihood, brings a million visitors to the Cathedral each year. Organised school and educational visits come not only from London, but from far beyond, including the near Continent. With the opening of the Channel Tunnel in 1993, Canterbury became even more accessible for foreign travellers. Visitors became increasingly sophisticated, expecting higher standards of provision and presentation of the city’s heritage. By the end of the 20th century Canterbury had gained the ‘X factor” as a visitor experience.
 
 {% include embed/image.html src="wc:High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg" aspect="1.402" caption="High Street, Canterbury" %}
