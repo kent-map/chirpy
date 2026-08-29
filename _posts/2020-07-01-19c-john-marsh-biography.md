@@ -3,10 +3,10 @@ title: "John Marsh (1752-1828)"
 description: "John Marsh’s journal places late Georgian musical life in Nethersole and Canterbury within the practical limits of night travel and poor road engineering. Moonlight dinners, coaching inns, and the adoption of McAdam’s road-building method reveal how mobility shaped concert culture and theatre circuits across east and north Kent."
 author: Dr Chris Price
 date: 2020-07-01
-categories: [ music ]
-tags: [ Authors & lives, Culture & society, Travel & mobility, Towns & cities ]
+categories: [ 19c ]
+tags: [ Music & musicians, Culture & society, Travel & mobility, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
-permalink: /music/19c-john-marsh-biography/
+permalink: /19c/19c-john-marsh-biography/
 published: true
 toc: false  
 ---
