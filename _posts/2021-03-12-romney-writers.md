@@ -4,7 +4,7 @@ description: "A number of writers of the Edwardian era and the years between the
 author: Dr Pat Argar
 date: 2021-03-12
 categories: [ landscape ]
-tags: [ Literary places, Rivers & marshes, Texts & genres, Representation & interpretation, Time periods ]
+tags: [ Literary places, Rivers & marshes, Texts & genres, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Sims--The_Sands_at_Dymchurch--c1920-2--Tate.jpg
 permalink: /landscape/romney-writers/
 published: true
