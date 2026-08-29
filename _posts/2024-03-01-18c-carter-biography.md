@@ -4,7 +4,7 @@ description: "Elizabeth Carter’s long residence in Deal shaped a public image 
 author: Peter Merchant
 date: 2024-03-01
 categories: [ 18c ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Representation & interpretation ]
+tags: [ Authors, Coast & sea, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-carter-biography/
 published: true
