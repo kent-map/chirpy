@@ -4,7 +4,7 @@ description: "University expansion reshaped Canterbury in the late 20th century,
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Culture & society, Towns & cities, Buildings & architecture, Time periods ]
+tags: [ Culture & society, Towns & cities, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/Canterbury_Christ_Church_University_-_geograph.org.uk_-_984484.jpg
 permalink: /canterbury/20c-canterbury-universities/
 published: true
