@@ -5,7 +5,7 @@ author: Richard Maltby
 date: 2024-03-01
 categories: [ canterbury ]
 tags: [ Heritage & memory, Towns & cities, Buildings & architecture, Travel & mobility, Time periods ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Thomas_Hastings_-_Canterbury_Cathedral_-_B1977.14.2363_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /canterbury/20c-canterbury-heritage/
 published: true
 toc: false  
@@ -31,10 +31,9 @@ Standing on the island of Binnewith, formed by branches of the Stour, the stone 
 
 {% include embed/image.html src="wc:Greyfriars_Chapel_-_geograph.org.uk_-_4142883.jpg" aspect="0.75" caption="Greyfriars Chapel by Kim Fyson, CC BY-SA 2.0 via Wikimedia Commons" %}
 
-**The Canterbury Heritage Museum (1986-2018)**
+**Poor Priest's Hospital**
 The Canterbury Heritage Museum, opened in 1986 by Queen Elizabeth II, was housed in the 12th century Poor Priests Hospital, to tell the history of the city. The magnificent medieval interior, with an oak-beamed roofs, a great hall and labyrinth of period rooms was the perfect place for displays in a ‘time walk” from the earliest to latest times. The displays on 20th century subjects included a Canterbury wartime Blitz experience, a [Rupert Bear]({{ site.baseurl }}/20c/20c-tourtel-biography) exhibition, celebrating both Rupert and the comic bear’s creator Mary Tourtel (1874-1943) who was born and lived in the city, and a Bagpuss and Clangers display, in tribute to Oliver Postgate (1925-2008). Working in his studio at the nearby village of Blean with his associate Peter Firmin, Oliver Postgate produced the most wonderful children’s animation programmes, Ivor the Engine being my favourite, all greatly loved by anyone who grew up in the 1960s, ‘70s or ‘80s.   
-<br><br>
-The Museum was closed in 2018. Most displays were transferred to the redeveloped Beaney Institute on the High Street or, in the case of Roman exhibits, to the Roman Museum. A wonderful  20th century museum, the closure of the Canterbury Heritage Museum was a sad loss for heritage and for the 21st century.    
+The Museum was closed in 2018. Most displays were transferred to the redeveloped Beaney Institute on the High Street or, in the case of Roman exhibits, to the Roman Museum. A wonderful  20th century museum, the closure of the Canterbury Heritage Museum was a sad loss for heritage and for the 21st century. The building is now used as as a performing arts learning centre called the Marlowe Kit.    
 
 {% include embed/image.html src="wc:Museum_of_Canterbury_001.jpg" aspect="1.287" caption="Canterbury Heritage Museum" %}
 
