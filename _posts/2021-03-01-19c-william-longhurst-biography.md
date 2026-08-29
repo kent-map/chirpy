@@ -3,8 +3,8 @@ title: "William Henry Longhurst (1819–1904)"
 description: "William Henry Longhurst built a seven-decade musical career at Canterbury Cathedral, moving from chorister to organist while composing sacred and secular vocal works published by major London firms. His modest but durable output, alongside local music-education efforts and unprinted club pieces, shows how provincial cathedral music connected to national publication networks and wide subscriber geographies."
 author: Dr Chris Price
 date: 2021-03-01
-categories: [ music ]
-tags: [ Authors & lives, Arts & performance, Buildings & architecture, Maps & place-making ]
+categories: [ 19c ]
+tags: [ Music & musicians, Arts & performance, Buildings & architecture, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /music/19c-william-longhurst-biography/
 published: true
