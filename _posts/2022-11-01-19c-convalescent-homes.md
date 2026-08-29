@@ -4,7 +4,7 @@ description: "Hosanna Krienke discusses the introduction and development of 19th
 author: Hosanna Krienke
 date: 2022-11-01
 categories: [ 19c ]
-tags: [ Culture & society, Coast & sea, Travel & mobility, Work & industry, Buildings & architecture ]
+tags: [ Culture & society, Coast & sea, Travel & mobility, Health & hygiene, Buildings & architecture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-convalescent-homes/
 published: true
