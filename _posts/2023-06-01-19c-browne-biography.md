@@ -4,7 +4,7 @@ description: "Hablot K. Browne (Phiz) illustrated work on Rochester and Margate.
 author: Professor Carolyn Oulton
 date: 2023-06-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Material culture ]
+tags: [ Biography, Arts & performance, Literary places, Coast & sea, Material culture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-browne-biography/
 published: true
