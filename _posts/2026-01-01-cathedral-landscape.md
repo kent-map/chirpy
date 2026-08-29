@@ -5,12 +5,11 @@ author: Dr Michelle Crowther
 date: 2026-01-01
 categories: [ landscape ]
 tags: [ Buildings & architecture, Towns & cities, Maps & place-making, Countryside & farming, Heritage & memory ]
-image: https://upload.wikimedia.org/wikipedia/commons/d/df/Canterbury_Cathedral_in_its_Landscape_Setting.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/3f/Harvest_Time_at_Wincheap_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /landscape/cathedral-landscape/
 published: true
 toc: false  
 ---
-
 
 “It stands majestic, this great tower, looking out across the most sacred piece of our English earth. It looks across the fields where the Romans came with the sword; it looks across the fields where they came again in peace. It looks down on the ways by which came our first Englishmen. It stands in dazzling splendour, enthroned through the centuries, the shrine and cradle of our race” (Arthur Mee, _Canterbury_).
 
@@ -27,12 +26,10 @@ The legend on the _Civitates Orbis Terrarum_ reads ‘Cantuaria urbs fertilis si
 Maps are not neutral mirrors of reality but symbolic systems that privilege certain forms of knowledge while excluding others.[^ref5] The heraldic shields on the _Civitates Orbis Terrarum_, reveal the power structures at play in the city - monarchy, Archepiscopat, ecclesia cathed. and ‘civitalis’. The spectacle created by the map is one of civic pride, power and privilege and celebrates a sixteenth century sense of progress, order and urbanity. Its publisher, Georg Braun, not only draws our attention to these, but is also creating audience. What the map does not show is commerce or activity - the wine market in Wincheap, the bustling streets just out of view, or the wagons bringing pilgrims to the shrine of Thomas Becket. 
 
 An earlier twelfth century map of the waterworks of the Cathedral from the Eadwine psalter, shows orchards, vines and wheat to the northeast of the city as well as a garden near the Campanile mound, illustrating the importance of agriculture to the cathedral community. The map celebrates the cathedral from within its precincts and ignores the city beyond, the representation of the landscape is reduced to that which serves the cathedral - the wheat for the bread, the vines for the wine and the orchards for fruit.
-
-{% include embed/image.html src="wc:Eadwine_psalter_-_Waterworks_in_Canterbury.jpg" aspect="0.713" caption="Eadwine Psalter - Waterworks in Canterbury" %}
-
+<br><br>
 By the seventeenth century, when botanist John Tradescant the Elder gardened for Lord Wotton at St. Augustine's Abbey, filling his garden with 'strange and rare plants', Canterbury was ‘a city of orchards, gardens, fields and green spaces, its houses strung like beads along the narrow streets’[^ref6]
 
-{% include embed/image.html src="wc:Orchard_seen_from_Old_Sessions_House%2C_Canterbury.jpg" aspect="1.333" caption="Orchard seen from Old Sessions House, Canterbury Christ Church University" %}
+{% include embed/image.html src="wc:Eadwine_psalter_-_Waterworks_in_Canterbury.jpg" aspect="0.713" caption="Eadwine Psalter - Waterworks in Canterbury" %}
 
 On a topographical map of Kent published by John Andrews, Andrew Dury and William Herbert in 1769, Stuppington Hill appears as part of a range of rounded hills to the south of the city, extending from Charlton and Milton Downs to Nackington. These are part of the lower dip slope of the North Downs and the hills to the east of Hollow Lane are densely wooded. Although cartographic representations can tell us a lot about place, they can also be reductive and the 1769 map tells us little about the area below Stuppington Hill and how it interacts with the cathedral in its landscape setting. Drafted before the invention of contour lines, the map uses shading to illustrate the 150 feet climb from the city’s edge to the top of Stuppington hill. Only Hon barn linked by a trackway to the fields behind Mrs Rook’s [sic] estate at St Lawrence, and orchards at Merton hint at the land usage of this area. 
 
