@@ -1,6 +1,6 @@
 ---
 title: "Women's Suffrage In Dover"
-description: "Women’s suffrage activism in Dover gathered momentum through public lectures, crowded meetings, and performances staged in venues such as the Apollonian Hall, Wellington Hall, and the Maison Dieu. Local campaigns and visiting speakers linked civic politics, policing, and popular theatre to a widening movement that culminated in women’s enfranchisement in 1918 and full equality in 1928."
+description: "Women’s suffrage activism in Dover gathered momentum through public lectures, crowded meetings, and performances staged in venues such as the Apollonian Hall, Wellington Hall, and the Maison Dieu."
 author: Various
 date: 2024-03-01
 categories: [ 20c ]
