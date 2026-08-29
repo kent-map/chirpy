@@ -4,7 +4,7 @@ description: "Dover’s night-time streets, inns, cliffs, and harbour recur in B
 author: Michelle Crowther
 date: 2024-03-22
 categories: [ placesad ]
-tags: [ Literary places, Coast & sea, Texts & genres, Travel & mobility, Representation & interpretation ]
+tags: [ Literary places, Coast & sea, Texts & genres, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg
 permalink: /placesad/dover-at-night/
 published: true
