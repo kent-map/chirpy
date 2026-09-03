@@ -4,7 +4,7 @@ description: "Jane Austen’s visits to Chilham Castle reveal how dinner parties
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Buildings & architecture, Culture & society, Literary places ]
+tags: [ Authors, Buildings & architecture, Culture & society, Literary places ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/Chilham_Castle_-_geograph.org.uk_-_6934054.jpg
 permalink: /austen/austen-chilham-castle/
 published: true
