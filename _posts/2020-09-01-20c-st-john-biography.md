@@ -4,7 +4,7 @@ description: "Christopher Marie St John's experimental life writing, and decades
 author: Carla Danella
 date: 2020-09-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Identity & community ]
+tags: [ Authors, Literary places, Queer history ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg
 permalink: /20c/20c-st-john-biography/
 published: true
