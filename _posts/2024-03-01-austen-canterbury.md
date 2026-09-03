@@ -4,7 +4,7 @@ description: "Jane Austen’s repeated visits to Canterbury reveal how family ne
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Towns & cities, Literary places, Culture & society, Crime & punishment ]
+tags: [ Authors, Towns & cities, Literary places, Culture & society, Crime & punishment ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/15/Canterbury_LCCN2003690623.jpg
 permalink: /austen/austen-canterbury/
 published: true
