@@ -4,7 +4,7 @@ description: "Regency Ramsgate emerges as both a fashionable seaside destination
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
+tags: [ Literary places, Authors, Coast & sea, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e8/View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg
 permalink: /austen/austen-ramsgate/
 published: true
