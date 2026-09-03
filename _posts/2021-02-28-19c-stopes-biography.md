@@ -12,12 +12,10 @@ toc: false
 ---
 
 Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles to _The Attempt_ magazine under the pen name “lutea reseda” (wild mignonette). When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
-
-{% include embed/image.html src="wc:Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" aspect="1.085" caption="Wild Mignonette, Reseda lutea" %}
-
+<br><br>
 In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norwood, but bankruptcy in 1892 forced them to sell their home and she returned to Edinburgh in the hopes of attaining a masters. Her plans were thwarted by a timetable clash and she returned to London leaving her daughters, Marie and Winifred at school in Edinburgh whilst she pursued her passion for Shakespearean research. She had already refuted the claim that Francis Bacon was the author of Shakespeare’s plays in 1888 and she was to write at least a further nine publications on Shakespeare’s life and works.
 
-{% include embed/image.html src="wc:Somer_Francis_Bacon.jpg" aspect="0.815" caption="Francis Bacon" %}
+{% include embed/image.html src="wc:Wild_Mignonette._Reseda_lutea_%2834976002624%29.jpg" aspect="1.085" caption="Wild Mignonette, Reseda lutea" %}
 
 Spending weekdays at her lodgings in Torrington Square, which was conveniently located near the British Museum, the weekends were spent at the Mansion House, [Swanscombe](Q1083051) “where with her two little girls she rusticates from Friday to Monday as a relief from the work of arduous literary research in London”.[^ref1]  The Mansion House was the Elizabethan Dower house belonging to the Manor of Swanscombe replete with oak panelling and provided a delightful bolt hole for the family who enjoyed “grubbing” around the potato fields and hop furrows for pre-historic flints".[^ref2]
 
@@ -42,8 +40,6 @@ After the death of her husband in 1902 at Hillside, [Greenhithe](Q3028239), Char
 {% include embed/map.html center="Q3028239" zoom="10" markers="Q3028239" allmaps="d645df6b2e36d6f3~Kent OS 1863" %}
 
 Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library]({{ site.baseurl }}/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
-
-This article was published: 9 October 2021.
 
 {% include embed/image.html src="wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg" aspect="1.404" caption="Marie Stopes in her laboratory, 1904" %}
 
