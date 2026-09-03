@@ -4,7 +4,7 @@ description: "Jane Austen’s 1788 visit to the Red House in Sevenoaks reveals h
 author: Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Authors & lives, Literary places, Texts & genres, Culture & society ]
+tags: [ Authors, Literary places, Texts & genres, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/75/Red_House%2C_Sevenoaks_-_geograph.org.uk_-_3390024.jpg
 permalink: /austen/austen-sevenoaks/
 published: true
