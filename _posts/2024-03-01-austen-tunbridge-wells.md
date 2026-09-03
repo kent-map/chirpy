@@ -4,7 +4,7 @@ description: "Tunbridge Wells emerges in Jane Austen’s fiction as a marker of 
 author: Dr Susan Civale
 date: 2024-03-01
 categories: [ austen ]
-tags: [ Literary places, Texts & genres, Towns & cities, Culture & society ]
+tags: [ Literary places, Authors, Towns & cities, Culture & society ]
 image: https://iiif.wellcomecollection.org/image/V0014572/full/full/0/default.jpg
 permalink: /austen/austen-tunbridge-wells/
 published: true
