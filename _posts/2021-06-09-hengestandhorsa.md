@@ -12,12 +12,10 @@ toc: false
 ---
 
 “Their first leaders are said to have been two brothers, Hengest and Horsa. Horsa was afterwards killed in battle by the Britons, and in the eastern part of Kent there is still a monument bearing his name. They were the sons of Wihtgisl, son of Witta, son of Wecta, son of Woden.”[^ref1]
+<br><br>
+These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731) represent the earliest surviving reference to the legendary brothers, Hengest (sometimes spelled Hengist) and Horsa. According to Bede, they led the so-called ‘adventus Saxonum’, when the first wave of Germanic settlers, invited by the British king Vortigern, arrived in Kent in the year 449 to help fight against the Picts. Most historians agree that his account is a simplified version of a complex period of movement and migration, designed to provide an origin story for the English people as Bede wanted to define them.
 
 {% include embed/image.html src="wc:Hengest_and_Horsa_Verstegan.jpg" aspect="0.796" caption="‘Hengist and Horsa arriving in Britain’, by Richard Rowlands (1605)." %}
-
-{% include embed/map.html zoom="15" allmaps="3cec6f180298eeb9~Mudge 1801" %}
-
-These lines from Bede’s _Ecclesiastical History of the English People_ (AD 731) represent the earliest surviving reference to the legendary brothers, Hengest (sometimes spelled Hengist) and Horsa. According to Bede, they led the so-called ‘adventus Saxonum’, when the first wave of Germanic settlers, invited by the British king Vortigern, arrived in Kent in the year 449 to help fight against the Picts. Most historians agree that his account is a simplified version of a complex period of movement and migration, designed to provide an origin story for the English people as Bede wanted to define them.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e.jpg" aspect="0.75" caption="The Hugin, replica Viking longship, Pegwell Bay" attribution="Michelle Crowther" %}
 
@@ -38,12 +36,10 @@ Today, the two brothers have been thoroughly incorporated into Kentish myth. The
 {% include embed/map.html center="Q729006" zoom="10" markers="Q729006" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 Meanwhile, [megaliths]({{ site.baseurl }}/built/megaliths) in the Medway area have become linked to the legend, including the ‘[White Horse Stone](Q7994824)’, and Kit’s Coty House, the latter said to commemorate Categern, one of the British leaders defeated by the brothers. But these associations are almost certainly post medieval inventions. In 1921, Nellie Slayton Aurner analysed eleven sources up to the 12th century, and found no mention of any monuments linked to either brother [^ref5].
+<br><br>
+Aurner found that the person apparently responsible for first linking the megaliths with Hengest and Horsa is 16th-century antiquarian [William Lambarde](https://www.historyofparliamentonline.org/volume/1558-1603/member/lambarde-william-1536-1601). He claims that ‘Citscotehouse’ is named after Categern in his 1576 _Perambulation of Kent_. After Lambarde, many gentleman guidebook writers across the 16th to 20th centuries repeated the idea.
 
 {% include embed/image.html src="wc:Upper_White_Horse_Stone.jpg" aspect="1.474" caption="White Horse Stone" %}
-
-{% include embed/map.html zoom="15" allmaps="3cec6f180298eeb9~Mudge 1801" %}
-
-Aurner found that the person apparently responsible for first linking the megaliths with Hengest and Horsa is 16th-century antiquarian [William Lambarde](https://www.historyofparliamentonline.org/volume/1558-1603/member/lambarde-william-1536-1601). He claims that ‘Citscotehouse’ is named after Categern in his 1576 _Perambulation of Kent_. After Lambarde, many gentleman guidebook writers across the 16th to 20th centuries repeated the idea.
 
 {% include embed/image.html src="wc:Kit%27s_Coty_House_05.jpg" aspect="1.333" caption="Kit's Coty House" %}
 
