@@ -4,7 +4,7 @@ description: "In this visual essay, Cat Blaker introduces the Ramsgate architect
 author: Cat Blaker
 date: 2023-04-01
 categories: [ 19c ]
-tags: [ Authors & lives, Buildings & architecture, Towns & cities, Faith & belief ]
+tags: [ Biography, Buildings & architecture, Towns & cities, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Grange%2C_Ramsgate.jpg
 permalink: /19c/19c-pugin-biography/
 published: true
