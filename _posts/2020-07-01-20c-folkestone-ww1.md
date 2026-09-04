@@ -4,7 +4,7 @@ description: "Folkestone became a critical Channel port in the First World War, 
 author: Martin Watts
 date: 2020-07-01
 categories: [ 20c ]
-tags: [ Conflict & war, Coast & sea, Towns & cities, Travel & mobility, Identity & community ]
+tags: [ Conflict & war, Coast & sea, Towns & cities, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-folkestone-ww1/
 published: true
