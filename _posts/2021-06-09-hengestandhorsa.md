@@ -1,10 +1,10 @@
 ---
 title: "Hengest and Horsa"
-description: "Hengest and Horsa shape Kent’s origin myth through Bede’s account and later retellings that blend migration history with symbolic legend. Medway megaliths and modern commemorations such as the Hugin at Pegwell Bay show how antiquarian inventions and contemporary political or religious appropriations can make contested heritage sites feel exclusionary or unsafe."
+description: "Hengest and Horsa shape Kent’s origin myth through Bede’s account and later retellings that blend migration history with symbolic legend."
 author: Francesca Allfrey and Beth Whalley
 date: 2021-06-09
 categories: [ medieval ]
-tags: [ Representation & interpretation, Literary places, Buildings & architecture, Identity & community, Faith & belief ]
+tags: [ Myths & legends, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg
 permalink: /medieval/hengestandhorsa/
 published: true
