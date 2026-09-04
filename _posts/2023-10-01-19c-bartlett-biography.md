@@ -4,7 +4,7 @@ description: "Rose Storkey traces the events surrounding sometime Dover resident
 author: Rose Storkey
 date: 2023-10-01
 categories: [ 19c ]
-tags: [ Crime & punishment, Coast & sea, Travel & mobility, Identity & community ]
+tags: [ Crime & punishment, Coast & sea, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg
 permalink: /19c/19c-bartlett-biography/
 published: true
