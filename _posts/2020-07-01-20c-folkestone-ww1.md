@@ -1,6 +1,6 @@
 ---
 title: "Folkestone and World War 1"
-description: "Folkestone became a critical Channel port in the First World War, moving nearly 10 million soldiers and large numbers of nurses, war workers, civilians, and refugees between Britain and the Western Front. Embarkation logistics, Shorncliffe’s imperial troop presence, and the Tontine Street air raid reshaped the town’s social life and exposed it to early total war pressures, including the white feather campaign against non-enlisted men."
+description: "Folkestone became a critical Channel port in the First World War, moving nearly 10 million soldiers and large numbers of nurses, war workers, civilians, and refugees between Britain and the Western Front."
 author: Martin Watts
 date: 2020-07-01
 categories: [ 20c ]
