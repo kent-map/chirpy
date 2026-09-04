@@ -4,7 +4,7 @@ description: "Adam Baldwin recounts his childhood memories and early working lif
 author: Adam Baldwin
 date: 2024-08-01
 categories: [ 20c ]
-tags: [ Work & industry, Travel & mobility, Towns & cities, Identity & community ]
+tags: [ Work & industry, Travel & mobility, Towns & cities, Reminiscences ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/00a0bf98-14e0-4ad0-b658-61e9d07f609f.jpg
 permalink: /20c/20c-a-boy-of-kent/
 published: true
