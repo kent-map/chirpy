@@ -17,11 +17,11 @@ The Romans occupied England from 43AD to 410AD, during which they devoloped Cant
 {% include embed/image.html src="wc:Canterbury%2C_St._Martin%27s_Church%2C_North_eastern_aspect_-_geograph.org.uk_-_6938619.jpg" aspect="1.5" caption="St Matines Church, 2021" %}
 
 The main materials which the Anglo-Saxons reused were dressed green sandstone, as well as Roman clay bricks, as these were the most commonly used materials found in Roman buildings.[^ref2] The dressed green sandstone was a finely cut stone block that was easy to dismantle and rework into new buildings and used in many of the larger Roman buildings.[^ref3] Roman clay bricks were much thinner than their later counterparts and were more orange in colour, and due to their small size they were also easily fitted into new buildings and worked well when many were used together.[^ref4] Both these materials can be seen clearly across many of the Medieval buildings in Canterbury. 
-<br><br>
-The clearest way in which to see these reused materials is with the many pre-Conquest churchs around Canterbury as many of them have the Roman clay bricks clearly visible on their exterior. The earliest site at which this can be seen in St Martin's church, the oldest church in Canterbury.[^ref5]
 
 {% include embed/image.html src="wc:St_Martins_Church_Norman_tower.jpg" aspect="1.333" caption="St Martins Church Norman tower" %}
 
+The clearest way in which to see these reused materials is with the many pre-Conquest churchs around Canterbury as many of them have the Roman clay bricks clearly visible on their exterior. The earliest site at which this can be seen in St Martin's church, the oldest church in Canterbury.[^ref5]
+<br><br>
 St Martin's was originally a Roman site, the period of which is debate,[^ref6] that was then gifted to Queen Bertha by her husband, at which point it was renovated into their personal chapel.[^ref7] The Roman materials present can be found both in the Anglo-Saxon Chancel and to a lesser extent the Nave. The lowest layers of the walls of the Chancel of St Martin’s clearly show dressed green sandstone blocks which are likely to have been from the original Roman site.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fb3f75e0-144d-4c2f-9ca1-0432d108e853.jpg" aspect="1.333" caption="St Martins Church 2022 South wall 2" attribution="Harvey Wallace, Public domain, via Wikimedia Commons" %}
