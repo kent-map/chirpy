@@ -4,7 +4,7 @@ description: "Dr Sophie Baldock reviews the influence of his Margate holidays on
 author: Dr Sophie Baldock
 date: 2021-01-05
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
+tags: [ Poets, Coast & sea, Literary places, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-keats-margate/
 published: true
