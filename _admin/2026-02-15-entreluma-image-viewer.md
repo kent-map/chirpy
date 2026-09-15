@@ -104,7 +104,7 @@ In short:
 
 ### Required Attributes
 
-You must provide either a **src** or **manifest** attribute to the image tag.
+You must provide a **src**, **iiif**, or **manifest** attribute to the image tag.
 
 ---
 
@@ -130,9 +130,22 @@ The `src` attribute define the image to display.  You can use:
 #### manifest
 {: .attribute }
 
-References a IIIF image by its manifest. A full URL to the IIIF manifest must be provided.
+References a IIIF image by its Presentation API manifest. A full URL to the IIIF manifest must be provided. Entreluma displays the manifest's IIIF 2 `attribution` or IIIF 3 `requiredStatement` automatically; an explicit `attribution` attribute overrides it.
 
     manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
+
+---
+
+#### iiif
+{: .attribute }
+
+References a IIIF image directly by its Image API service base or `info.json` URL. Use this when you have an Image API endpoint rather than a Presentation API manifest.
+
+    iiif="https://images.example.org/iiif/3/item-id"
+
+    iiif="https://images.example.org/iiif/3/item-id/info.json"
+
+Direct Image API information documents do not normally contain the attribution supplied by a Presentation API manifest. Add the `attribution` attribute when credit is required.
 
 ---
 
@@ -274,9 +287,9 @@ Click on the image to open the interactive pan and zoom viewer on a high-resolut
 
 ---
 
-### IIIF Example
+### IIIF Manifest Example
 
-In addition to displaying regular images, the image viewer can also display a IIIF image.  The IIIF image is referenced using a manifest URL.
+In addition to displaying regular images, the image viewer can display a IIIF image referenced by a Presentation API manifest. If the manifest supplies attribution, the viewer displays it below the image.
 
 <div class="example">
 <div markdown="1">
@@ -297,6 +310,18 @@ In addition to displaying regular images, the image viewer can also display a II
 %}
 </div>
 </div>
+
+You can instead pass an Image API service directly:
+
+{% raw %}
+```liquid
+{% include embed/image.html
+    iiif="https://images.example.org/iiif/3/item-id"
+    attribution="Courtesy of Example Institution"
+%}
+```
+{: .nolineno }
+{% endraw %}
 
 
 ---

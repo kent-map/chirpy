@@ -85,6 +85,7 @@ FILES_TO_SYNC = (
     "assets/img/leaflet/marker-icon.png",
     "assets/img/leaflet/marker-shadow.png",
     "assets/js/entreluma-component.js",
+    "assets/js/entreluma-iiif.mjs",
     "assets/js/entreluma-local-image.js",
     "assets/js/entreluma.js",
     "assets/js/vendor/Leaflet.SmoothWheelZoom.js",
@@ -95,6 +96,7 @@ FILES_TO_SYNC = (
     "tools/check_consistency.py",
     "tools/prove_local_media.rb",
     "tools/sync_code.py",
+    "tools/test_iiif.mjs",
 )
 
 

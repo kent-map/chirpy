@@ -21,9 +21,14 @@ embed/_iframe.html.
   {%- assign qs = "src=" | append: v -%}
 {%- endif -%}
 
+{%- if include.iiif -%}
+{%- assign v = include.iiif | cgi_escape -%}
+{%- assign qs = qs | append: "&iiif=" | append: v -%}
+{%- endif -%}
+
 {%- if include.manifest -%}
 {%- assign v = include.manifest | cgi_escape -%}
-{%- assign qs = "manifest=" | append: v -%}
+{%- assign qs = qs | append: "&manifest=" | append: v -%}
 {%- endif -%}
 
 {%- if include.seq -%}

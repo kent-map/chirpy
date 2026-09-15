@@ -38,6 +38,10 @@ Dir.mktmpdir('entreluma-media-proof-') do |output|
 
       {% include embed/image.html id="proof" src="#{src}" %}
 
+      {% include embed/image.html id="iiif-proof" iiif="https://images.example/iiif/3/item" attribution="Example credit" %}
+
+      {% include embed/image.html id="manifest-proof" manifest="https://images.example/manifest.json" src="#{src}" %}
+
       {% include embed/map.html id="data-proof" geojson="#{src.sub('photo.png', 'data.geojson')}~Lake" %}
 
       [Download CSV](<{{ '/assets/posts/proof/data.csv' | relative_url }}>)
@@ -93,6 +97,14 @@ Dir.mktmpdir('entreluma-media-proof-') do |output|
       absolute_image = image.start_with?('/') ? "https://site.example#{image}" : image
       raise "Markdown path mismatch: #{[name, baseurl, cdn, absolute_image, expected].inspect}" unless absolute_image == expected
       raise "Viewer path mismatch: #{[name, baseurl, cdn, viewer_src, expected].inspect}" unless viewer_src == expected
+      iiif_viewer = CGI.unescapeHTML(html[/<iframe\b[^>]*\bid="iiif-proof"[^>]*src="([^"]+)"/, 1] || '')
+      iiif_query = CGI.parse(URI.parse(iiif_viewer).query || '')
+      raise 'IIIF service missing from viewer query' unless iiif_query['iiif'].first == 'https://images.example/iiif/3/item'
+      raise 'IIIF attribution missing from viewer query' unless iiif_query['attribution'].first == 'Example credit'
+      manifest_viewer = CGI.unescapeHTML(html[/<iframe\b[^>]*\bid="manifest-proof"[^>]*src="([^"]+)"/, 1] || '')
+      manifest_query = CGI.parse(URI.parse(manifest_viewer).query || '')
+      raise 'IIIF manifest missing from viewer query' unless manifest_query['manifest'].first == 'https://images.example/manifest.json'
+      raise 'IIIF manifest fallback changed' unless manifest_query['src'].first == expected
       map = CGI.unescapeHTML(html[/<iframe\b[^>]*\bid="data-proof"[^>]*src="([^"]+)"/, 1] || '')
       geojson = CGI.parse(URI.parse(map).query || '')['geojson'].first
       geojson = 'https://site.example' + geojson if geojson&.start_with?('/')

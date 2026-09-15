@@ -283,6 +283,13 @@
     import 'https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js';
     import { marked } from "https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js";
     import { receiveLocalImage } from '../js/entreluma-local-image.js';
+    import {
+      extractManifestAttribution,
+      getImageServiceId,
+      isIIIFImageInfo,
+      looksLikeIIIFInfoJsonUrl,
+      normalizeInfoJsonUrl,
+    } from '../js/entreluma-iiif.mjs';
 
 
     // =========================================================================
@@ -317,6 +324,7 @@
     const params = new URLSearchParams(location.search);
     const cfg = {
       src: params.get("src"),
+      iiif: params.get("iiif"),
       manifest: params.get("manifest"),
       seq: params.get("seq") || "0",
       caption: params.get("caption"),
@@ -332,6 +340,7 @@
     const localResource = params.get('sk_resource');
     if (localResource !== null) {
       cfg.src = null;
+      cfg.iiif = null;
       cfg.manifest = null;
       try {
         const resource = await receiveLocalImage({ resourceId: localResource,
@@ -344,9 +353,9 @@
       }
     }
 
-    if (!cfg.src && !cfg.manifest) {
-      showMsg(`Missing <code>?src=</code> or <code>?manifest=</code> parameter.`);
-      throw new Error("Missing src or manifest");
+    if (!cfg.src && !cfg.iiif && !cfg.manifest) {
+      showMsg(`Missing <code>?src=</code>, <code>?iiif=</code>, or <code>?manifest=</code> parameter.`);
+      throw new Error("Missing src, iiif, or manifest");
     }
 
     // =========================================================================
@@ -361,66 +370,6 @@
         console.error('IIIF manifest fetch error:', err);
         throw err;
       }
-    }
-
-    function getInfoJsonFromManifest(manifest, seqIndex = 0) {
-      const idx = parseInt(seqIndex, 10) || 0;
-
-      // Detect IIIF version
-      const context = manifest['@context'];
-      const isV3 = context && (
-        context.includes('http://iiif.io/api/presentation/3/context.json') ||
-        context === 'http://iiif.io/api/presentation/3/context.json'
-      );
-
-      if (isV3) {
-        // IIIF Presentation API 3.0
-        const items = manifest.items || [];
-        if (idx >= items.length) {
-          console.warn(`Sequence index ${idx} out of range, using 0`);
-          return items[0]?.items?.[0]?.items?.[0]?.body?.service?.[0]?.id ||
-            items[0]?.items?.[0]?.items?.[0]?.body?.service?.[0]?.['@id'];
-        }
-
-        const canvas = items[idx];
-        const annoPage = canvas?.items?.[0];
-        const anno = annoPage?.items?.[0];
-        const body = anno?.body;
-        const service = body?.service?.[0];
-
-        return service?.id || service?.['@id'];
-      } else {
-        // IIIF Presentation API 2.x
-        const sequences = manifest.sequences || [];
-        const sequence = sequences[0];
-        const canvases = sequence?.canvases || [];
-
-        if (idx >= canvases.length) {
-          console.warn(`Sequence index ${idx} out of range, using 0`);
-          return canvases[0]?.images?.[0]?.resource?.service?.['@id'];
-        }
-
-        const canvas = canvases[idx];
-        const image = canvas?.images?.[0];
-        const resource = image?.resource;
-        const service = resource?.service;
-
-        return service?.['@id'] || service?.id;
-      }
-    }
-
-    function normalizeInfoJsonUrl(serviceId) {
-      if (!serviceId) return null;
-
-      // Remove trailing slash if present
-      let url = serviceId.replace(/\/$/, '');
-
-      // Add /info.json if not already present
-      if (!url.endsWith('/info.json')) {
-        url += '/info.json';
-      }
-
-      return url;
     }
 
     // =========================================================================
@@ -667,16 +616,56 @@
       return url.startsWith('wc:') || url.includes('wikimedia.org') || url.includes('wikipedia.org');
     }
 
+    function shouldProbeIIIFService(url) {
+      if (!/^https?:\/\//i.test(String(url || '')) || looksLikeWikimedia(url)) return false;
+      try {
+        const parsed = new URL(url);
+        if (['localhost', '127.0.0.1'].includes(parsed.hostname)) return false;
+        const leaf = parsed.pathname.replace(/\/+$/, '').split('/').pop() || '';
+        return leaf.length > 0 && !/\.[a-z0-9]{1,8}$/i.test(leaf);
+      } catch (_) {
+        return false;
+      }
+    }
+
+    async function probeIIIFService(serviceUrl) {
+      const infoJsonUrl = normalizeInfoJsonUrl(serviceUrl);
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 4000);
+      try {
+        const response = await fetch(infoJsonUrl, {
+          signal: controller.signal,
+          headers: { Accept: 'application/json' },
+        });
+        if (!response.ok) return null;
+        const info = await response.json();
+        return isIIIFImageInfo(info) ? infoJsonUrl : null;
+      } catch (error) {
+        if (error.name !== 'AbortError') console.debug('IIIF service probe failed:', error);
+        return null;
+      } finally {
+        clearTimeout(timeout);
+      }
+    }
+
     // =========================================================================
     // Process source/manifest
     // =========================================================================
     let tileSource = null;
     let fallbackImageUrl = null;
+    let manifestAttribution = null;
+
+    const preferredLanguages = [
+      document.documentElement.lang,
+      ...(navigator.languages || []),
+      navigator.language,
+    ].filter(Boolean);
 
     if (cfg.manifest) {
       try {
         const manifest = await fetchIIIFManifest(cfg.manifest);
-        const infoJsonServiceId = getInfoJsonFromManifest(manifest, cfg.seq);
+        manifestAttribution = extractManifestAttribution(manifest, preferredLanguages);
+        const infoJsonServiceId = getImageServiceId(manifest, cfg.seq);
 
         if (infoJsonServiceId) {
           const infoJsonUrl = normalizeInfoJsonUrl(infoJsonServiceId);
@@ -703,8 +692,16 @@
           throw err;
         }
       }
+    } else if (cfg.iiif) {
+      tileSource = normalizeInfoJsonUrl(cfg.iiif);
+      fallbackImageUrl = cfg.src;
+    } else if (looksLikeIIIFInfoJsonUrl(cfg.src)) {
+      tileSource = cfg.src;
+    } else if (shouldProbeIIIFService(cfg.src)) {
+      tileSource = await probeIIIFService(cfg.src);
+      if (!tileSource) fallbackImageUrl = cfg.src;
     } else {
-      // No manifest, use src directly
+      // No IIIF source, use src directly.
       fallbackImageUrl = cfg.src;
     }
 
@@ -860,10 +857,71 @@
       return txt.value;
     }
 
+    function escapeHtml(value) {
+      const span = document.createElement('span');
+      span.textContent = String(value || '');
+      return span.innerHTML;
+    }
+
+    // Presentation API 2 permits limited HTML in attribution. Keep only
+    // formatting and links, discard executable elements and unsafe URLs.
+    function sanitizeAttributionHtml(value) {
+      const template = document.createElement('template');
+      template.innerHTML = String(value || '');
+      const allowed = new Set(['A', 'B', 'BR', 'EM', 'I', 'SMALL', 'SPAN', 'STRONG']);
+      const discard = new Set(['IFRAME', 'OBJECT', 'SCRIPT', 'STYLE', 'SVG', 'MATH']);
+
+      for (const element of [...template.content.querySelectorAll('*')]) {
+        if (discard.has(element.tagName)) {
+          element.remove();
+          continue;
+        }
+        if (!allowed.has(element.tagName)) {
+          element.replaceWith(...element.childNodes);
+          continue;
+        }
+
+        for (const attribute of [...element.attributes]) {
+          if (element.tagName !== 'A' || !['href', 'title'].includes(attribute.name.toLowerCase())) {
+            element.removeAttribute(attribute.name);
+          }
+        }
+
+        if (element.tagName === 'A' && element.hasAttribute('href')) {
+          try {
+            const target = new URL(element.getAttribute('href'), cfg.manifest || location.href);
+            if (!['http:', 'https:', 'mailto:'].includes(target.protocol)) throw new Error('unsafe URL');
+            element.href = target.href;
+            element.target = '_blank';
+            element.rel = 'noopener noreferrer';
+          } catch (_) {
+            element.removeAttribute('href');
+          }
+        }
+      }
+      for (const link of [...template.content.querySelectorAll('a')]) {
+        if (!link.textContent.trim() && link.children.length === 0) link.remove();
+      }
+      return template.innerHTML;
+    }
+
+    function attributionToHtml(statement) {
+      if (!statement?.values?.length) return '';
+      const label = statement.label ? `<strong>${escapeHtml(statement.label)}:</strong> ` : '';
+      const values = statement.values
+        .map((value) => sanitizeAttributionHtml(value))
+        .filter(Boolean)
+        .join('<br>');
+      return values ? `<small>${label}${values}</small>` : '';
+    }
+
     // Caption init
-    if (cfg.caption) {
-      els.captionText.innerHTML = decodeHtml(mdToHtml(cfg.caption));
-      if (cfg.attribution) els.captionText.innerHTML += `<br><small>${cfg.attribution}</small>`
+    const attributionHtml = attributionToHtml(cfg.attribution
+      ? { label: '', values: [cfg.attribution] }
+      : manifestAttribution);
+    const captionHtml = cfg.caption ? decodeHtml(mdToHtml(cfg.caption)) : '';
+    if (captionHtml || attributionHtml) {
+      els.captionText.innerHTML = [captionHtml, attributionHtml].filter(Boolean).join('<br>');
       els.caption.style.display = "block";
       updateIframeAspectTip(); // caption affects wrap height
     }

@@ -132,6 +132,9 @@ jobs:
       - name: Check repo consistency
         run: python3 tools/check_consistency.py
 
+      - name: Verify IIIF helpers
+        run: node --test tools/test_iiif.mjs
+
       - name: Verify local media rendering
         run: bundle exec ruby tools/prove_local_media.rb
 
