@@ -4,7 +4,7 @@ description: "Wilfred Owen’s wartime passage through Folkestone links a celebr
 author: Jeremy Page
 date: 2020-11-01
 categories: [ 20c ]
-tags: [ Authors & lives, Conflict & war, Coast & sea, Heritage & memory ]
+tags: [ Poets, Conflict & war, Coast & sea, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/06/Folkestone%2C_East_Pier_-_geograph.org.uk_-_3192400.jpg
 permalink: /20c/20c-owen-biography/
 published: true
