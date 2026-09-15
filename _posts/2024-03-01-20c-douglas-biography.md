@@ -16,7 +16,7 @@ Keith Douglas was a soldier and a war poet who fought in and wrote about World W
 
 Douglas was born on 24th January [1920](Q2155), in [Tunbridge Wells](Q665489), [Kent](Q23298). He was killed in action when fighting in the [invasion of Normandy](Q16471) on 9th June [1944](Q5268), merely 24 years old.
 
-{% include embed/map.html center="Q34640" zoom="7" markers="Q34640" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
+{% include embed/map.html center="Q665489" zoom="7" markers="Q665489" allmaps="6215fa6c47c47347~Bartholomew Kent 1904" %}
 
 Douglas experienced a bleak childhood growing up; when he was 4 years old, his mother collapsed of [encephalitis lethargica](Q3053951) (a condition often dubbed as 'the sleeping sickness'), which she never fully recovered from, and he had a strained relationship with his father. His parents separated 2 years later, and Douglas spent most of his school years in boarding schools. Douglas then completed the entrance exam to [Christ's Hospital](Q677579), which was a charity school, and attended from [1931](Q18782)-[1938](Q18645); it was there that his poetic abilities were recognised and nurtured. He then completed his university at [Oxford](Q34433), with a degree in History and English.
 
