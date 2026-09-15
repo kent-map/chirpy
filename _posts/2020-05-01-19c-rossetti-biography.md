@@ -4,7 +4,7 @@ description: "Dante Gabriel Rossetti’s final months in Birchington link Pre-Ra
 author: Laura Allen
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Arts & performance, Coast & sea, Buildings & architecture ]
+tags: [ Poets, Arts & performance, Coast & sea, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Joseph_Mallord_William_Turner_%281775-1851%29_-_Margate_-_N02700_-_National_Gallery.jpg
 permalink: /19c/19c-rossetti-biography/
 published: true
