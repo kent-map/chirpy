@@ -4,7 +4,7 @@ description: "Alice and Michelle trace Kent connections in the life and work of 
 author: Michelle Crowther and Alice
 date: 2021-08-11
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Countryside & farming, Conflict & war ]
+tags: [ Poets, Literary places, Countryside & farming, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg
 permalink: /20c/20c-blunden-biography/
 published: true
