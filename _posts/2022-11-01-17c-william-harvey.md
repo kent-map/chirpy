@@ -4,7 +4,7 @@ description: "William Harvey’s Kent upbringing and European medical education 
 author: Dr Dominique Gracia and Arnav
 date: 2022-11-01
 categories: [ 17c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Representation & interpretation ]
+tags: [ Biography, Science & ideas, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fafede9a-16fc-4f57-8c41-61a929e62593.jpg
 permalink: /17c/17c-william-harvey/
 published: true
