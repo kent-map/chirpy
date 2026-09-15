@@ -4,7 +4,7 @@ description: "Leonard and Thomas Digges shaped Tudor Kent through practical math
 author: Arnav and Michelle Crowther
 date: 2024-03-01
 categories: [ 16c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Conflict & war ]
+tags: [ Biography, Science & ideas, Towns & cities, Conflict & war ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-digges-biography/
 published: true
