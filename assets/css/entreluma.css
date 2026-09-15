@@ -352,7 +352,11 @@ div figcaption {
     padding: 0 0.5em;
 }
 
-[data-mode="dark"] .col2 .active {
+/* Chirpy < 7.5 marked dark mode with [data-mode="dark"]; 7.5+ uses
+   [data-bs-theme="dark"]. Match both so two-column dark styling survives
+   either theme version. */
+[data-mode="dark"] .col2 .active,
+[data-bs-theme="dark"] .col2 .active {
     background: var(--main-bg);
     border: 1px solid #777;
     border-radius: 6px;
@@ -396,7 +400,8 @@ div figcaption {
     padding: 0 0.5em;
 }
 
-[data-mode="dark"] .col2 .post-content {
+[data-mode="dark"] .col2 .post-content,
+[data-bs-theme="dark"] .col2 .post-content {
     background: var(--main-bg);
 }
 
@@ -842,3 +847,22 @@ header img {
 .preview #search {
     display: none;
 }
+
+/* Image srcs given to the iframe embed render as a plain <img> (see
+   _includes/embed/iframe.html) — constrained to the figure, never wider. */
+figure.iframe-wrapper img.embed-iframe-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+/* Header-image attribution (manual via front matter image.attribution, or
+   automatic for Commons-hosted headers — entreluma.js headerAttribution) */
+.sk-header-attribution {
+  margin-top: 0.35rem;
+  font-size: 0.75rem;
+  color: var(--text-muted-color, #6c757d);
+}
+.sk-header-attribution a { color: inherit; text-decoration: underline; }

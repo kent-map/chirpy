@@ -1,26 +1,45 @@
-{%- comment -%} Convert src → full URL {%- endcomment -%}
+{%- comment -%}
+Entreluma generic iframe embed: wraps any external page in a captioned
+figure, with the iframe emitted by embed/_iframe.html for consistency.
+Unlike the other embeds, src points directly at the external page (no
+component wrapper), and the caption is rendered by the host page.
+{%- endcomment -%}
+
 {%- capture src_final -%}
 {%- include media-url.html src=include.src width=include.width subpath=page.media_subpath -%}
 {%- endcapture -%}
 {%- assign src_final = src_final | strip -%}
 
-{%- if include.caption -%}
-{%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
-{%- endif -%}
-
-{%- assign class = "iframe-wrapper" -%}
+{%- assign figure_class = "iframe-wrapper" -%}
 {%- if include.class -%}
-{%- assign class = class | append: " " | append: include.class -%}
+{%- assign figure_class = figure_class | append: " " | append: include.class -%}
 {%- endif -%}
 
-<figure class="{{ class }}">
-  <iframe id="{{ include.id }}" class="embed-iframe" loading="lazy" allow="clipboard-write"
-    src="{{ src_final }}" 
-    {% if include.width %} width="{{ include.width }}" {% endif %}
-    {% if include.height %} height="{{ include.height }}" {% endif %}
-    {% if include.aspect %} style="aspect-ratio: {{ include.aspect }};" {% endif %}
-    allowfullscreen>
-  </iframe>
+{%- comment -%}
+A raw image URL in an <iframe> renders the browser's synthetic image
+document at NATURAL size — cross-origin, so its overflow can't be styled,
+and wide images force horizontal scrollbars inside the frame. Detect image
+extensions and emit a size-constrained <img> in the same figure instead.
+{%- endcomment -%}
+{%- assign _sk_ext = src_final | downcase | split: '?' | first | split: '#' | first | split: '.' | last -%}
+{%- assign _sk_img_exts = 'jpg,jpeg,png,gif,webp,avif,svg' | split: ',' -%}
+
+<figure class="{{ figure_class }}">
+  {%- if _sk_img_exts contains _sk_ext -%}
+  <img class="embed-iframe-img" src="{{ src_final }}" loading="lazy"
+       alt="{{ include.caption | default: 'Embedded image' | strip_html | strip }}"
+       {%- if include.height %} style="max-height: {{ include.height }}px"{% endif %} />
+  {%- else -%}
+  {%- include embed/_iframe.html
+        src=src_final
+        base_class="embed-iframe"
+        title="Embedded page"
+        id=include.id
+        aspect=include.aspect
+        width=include.width
+        height=include.height
+  -%}
+  {%- endif -%}
   <figcaption>
     {{ include.caption }}
   </figcaption>

@@ -23,7 +23,67 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  pages-ready:
+    name: Wait for Pages setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 17
+    permissions:
+      pages: read
+    outputs:
+      ready: ${{ steps.wait.outputs.ready }}
+    steps:
+      - name: Wait for GitHub Actions to be selected in Pages settings
+        id: wait
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import time
+          import urllib.error
+          import urllib.request
+
+          repo = os.environ['GITHUB_REPOSITORY']
+          settings = f"{os.environ['GITHUB_SERVER_URL']}/{repo}/settings/pages"
+          request = urllib.request.Request(
+              f"{os.environ['GITHUB_API_URL']}/repos/{repo}/pages",
+              headers={'Authorization': f"Bearer {os.environ['GH_TOKEN']}",
+                       'Accept': 'application/vnd.github+json',
+                       'X-GitHub-Api-Version': '2022-11-28'})
+          deadline = time.monotonic() + 15 * 60
+          ready = False
+          print(f"Waiting up to 15 minutes: select GitHub Actions at {settings}", flush=True)
+          while True:
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      ready = json.load(response).get('build_type') == 'workflow'
+              except urllib.error.HTTPError as error:
+                  # A missing Pages site is expected for a new template copy.
+                  # Permission and API errors must remain visible as failures.
+                  if error.code != 404:
+                      raise
+              if ready or time.monotonic() >= deadline:
+                  break
+              time.sleep(min(15, max(0, deadline - time.monotonic())))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write(f"ready={str(ready).lower()}\n")
+          if ready:
+              print('Pages is configured. Continuing with the build.', flush=True)
+          else:
+              message = (
+                  'Deployment skipped: Pages setup is not complete.\n\n'
+                  f'Open [Settings → Pages]({settings}) and select **GitHub Actions**. '
+                  'Then open **Actions → Build and Deploy → Run workflow**. '
+                  'No site has been deployed by this run.\n')
+              print(message, flush=True)
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+                  summary.write(message)
+          PY
+
   build:
+    needs: pages-ready
+    if: needs.pages-ready.outputs.ready == 'true'
     runs-on: ubuntu-latest
 
     steps:
@@ -38,23 +98,54 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        # Select GitHub Actions in Settings > Pages before the first deployment.
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
+          # Ruby version is read from .ruby-version so local and CI builds stay in sync
           bundler-cache: true
 
+      - name: Generate deployment configuration
+        # Keep deployment identity out of the template and the generated file
+        # outside the source tree so it cannot be published in the artifact.
+        run: |
+          ruby <<'RUBY'
+          require 'yaml'
+          owner, repository = ENV.fetch('GITHUB_REPOSITORY').split('/', 2)
+          config = {
+            'url' => ENV.fetch('ENTRELUMA_PAGES_ORIGIN'),
+            'baseurl' => ENV.fetch('ENTRELUMA_PAGES_BASE_PATH'),
+            'github' => { 'username' => owner, 'repository' => repository }
+          }
+          File.write(File.join(ENV.fetch('RUNNER_TEMP'), 'entreluma-pages.yml'), YAML.dump(config))
+          RUBY
+        env:
+          ENTRELUMA_PAGES_ORIGIN: ${{ steps.pages.outputs.origin }}
+          ENTRELUMA_PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll b --config "_config.yml,$RUNNER_TEMP/entreluma-pages.yml" -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
 
-      #- name: Test site
-      #  run: |
-      #    bundle exec htmlproofer _site \
-      #      \-\-disable-external \
-      #      \-\-ignore-urls "/^Q[0-9]+$/,/\/zoomto|flyto\//,/^http:\/\/127\.0\.0\.1/,/^http:\/\/0\.0\.0\.0/,/^http:\/\/localhost/"
+      - name: Check repo consistency
+        run: python3 tools/check_consistency.py
+
+      - name: Verify local media rendering
+        run: bundle exec ruby tools/prove_local_media.rb
+
+      - name: Test site
+        # Set the repository Actions variable ENTRELUMA_LINK_CHECK to "false"
+        # to opt out of internal link validation.
+        if: vars.ENTRELUMA_LINK_CHECK != 'false'
+        run: |
+          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
+            --disable-external \
+            --no-enforce-https \
+            --swap-urls "^${{ steps.pages.outputs.base_path }}/:/" \
+            --ignore-files "/assets\/components\//" \
+            --ignore-urls "/^Q[0-9]+$/,/\/(zoomto|flyto|playat|play|pause)\//,/^http:\/\/127\.0\.0\.1/,/^http:\/\/0\.0\.0\.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
@@ -71,3 +162,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Show published site and repository website instructions
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          python3 <<'PY'
+          import os
+          url = os.environ['SITE_URL']
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write(
+                  f'Your Entreluma site is published: [Open website]({url})\n\n'
+                  'To show this link on the repository home page, click the gear '
+                  f'next to **About**, set **Website** to `{url}`, and save. '
+                  'GitHub requires this one-time edit because the built-in workflow '
+                  'token cannot update repository settings.\n')
+          PY

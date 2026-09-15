@@ -234,8 +234,9 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# The options for the StoryKit layout, which provides enhanced features for content presentation and interaction.
-storykit:
+# The options for the Entreluma extensions, which provide enhanced features for content presentation and interaction.
+entreluma:
+  editor_url: https://editor.entreluma.org # optional authoring application
   mode: flat                  # default layout style: flat or 2col
   mode_toggle: false          # Enable the toggle button to switch between 2col and flat styles
   auto_float: true            # auto float embeds
@@ -244,3 +245,4 @@ storykit:
   toolbar: true               # show the post toolbar
   cite: true                  # show the cite button in the toolbar
   pdf: true                   # show the pdf download button in the toolbar
+  post_navigation: true       # show the post navigation links at the end of posts

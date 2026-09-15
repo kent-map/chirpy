@@ -1,28 +1,35 @@
-{% assign qs = "center=" | append: include.center | uri_escape %}
+{%- comment -%}
+Entreluma map viewer embed. Builds the component query string (each value
+escaped with cgi_escape before appending; empty parameters are omitted)
+and delegates iframe emission to embed/_iframe.html.
+{%- endcomment -%}
 
-{% if include.zoom %}
-{% assign qs = qs | append: "&zoom=" | append: include.zoom %}
-{% endif %}
+{%- assign qs = "" -%}
 
-{% if include.caption %}
-{% assign qs = qs
-| append: "&caption="
-| append: include.caption
-| default: "Caption"
-| uri_escape %}
-{% endif %}
+{%- if include.center and include.center != "" -%}
+{%- assign v = include.center | cgi_escape -%}
+{%- assign qs = "center=" | append: v -%}
+{%- endif -%}
 
-{% if include.aspect %}
-{% assign qs = qs | append: "&aspect=" | append: include.aspect | uri_escape %}
-{% endif %}
+{%- if include.zoom -%}
+{%- assign v = include.zoom | cgi_escape -%}
+{%- assign qs = qs | append: "&zoom=" | append: v -%}
+{%- endif -%}
 
-{% if include.markers %}
-{% assign markers_clean = include.markers
-| strip_newlines
-| strip
-| replace: " ", "%20" %}
-{% assign qs = qs | append: "&markers=" | append: markers_clean | uri_escape %}
-{% endif %}
+{%- if include.caption -%}
+{%- assign v = include.caption | cgi_escape -%}
+{%- assign qs = qs | append: "&caption=" | append: v -%}
+{%- endif -%}
+
+{%- if include.aspect -%}
+{%- assign v = include.aspect | cgi_escape -%}
+{%- assign qs = qs | append: "&aspect=" | append: v -%}
+{%- endif -%}
+
+{%- if include.markers -%}
+{%- assign v = include.markers | strip_newlines | strip | cgi_escape -%}
+{%- assign qs = qs | append: "&markers=" | append: v -%}
+{%- endif -%}
 
 {% if include.geojson %}
   {%- assign geojson_items = include.geojson | split: '|' -%}
@@ -53,35 +60,45 @@
     {%- endif -%}
   {%- endfor -%}
 
-  {%- assign geojson_param = geojson_out | join: "|" | uri_escape -%}
+  {%- assign geojson_param = geojson_out | join: "|" | cgi_escape -%}
   {%- assign qs = qs | append: "&geojson=" | append: geojson_param -%}
 {% endif %}
 
-{%- comment -%} Convert src → full URL {%- endcomment -%}
+{%- comment -%} Optional image/IIIF map layer {%- endcomment -%}
+{%- if include.src -%}
 {%- capture src_final -%}
 {%- include media-url.html src=include.src width=include.width subpath=page.media_subpath -%}
 {%- endcapture -%}
 {%- assign src_final = src_final | strip -%}
-
-
-{% if include.allmaps %}
-{% assign allmaps_clean = include.allmaps
-| strip_newlines
-| strip
-| replace: " ", "" %}
-{% assign qs = qs | append: "&allmaps=" | append: allmaps_clean | uri_escape %}
-{% endif %}
-
-{% if include.basemap %}
-{% assign qs = qs | append: "&basemap=" | append: include.basemap | uri_escape %}
-{% endif %}
-
-{%- assign class = "embed-map" -%}
-{%- if include.class -%}
-{%- assign class = class | append: " " | append: include.class -%}
+{%- if src_final != "" -%}
+{%- assign v = src_final | cgi_escape -%}
+{%- assign qs = qs | append: "&src=" | append: v -%}
+{%- endif -%}
 {%- endif -%}
 
-<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="StoryKit map viewer" allow="clipboard-write"
-  style="aspect-ratio: {{ include.aspect | default: '1.0' }};"
-  src="{{ '/assets/components/map.html' | relative_url }}?{{ qs }}" allowfullscreen>
-</iframe>
+{%- if include.allmaps -%}
+{%- assign v = include.allmaps | strip_newlines | strip | replace: " ", "" | cgi_escape -%}
+{%- assign qs = qs | append: "&allmaps=" | append: v -%}
+{%- endif -%}
+
+{%- if include.basemap -%}
+{%- assign v = include.basemap | cgi_escape -%}
+{%- assign qs = qs | append: "&basemap=" | append: v -%}
+{%- endif -%}
+
+{%- assign aspect = include.aspect | default: '1.0' -%}
+
+{%- comment -%} Strip a leading & left when the first parameter was absent {%- endcomment -%}
+{%- assign qs_first = qs | slice: 0, 1 -%}
+{%- if qs_first == "&" -%}{%- assign qs = qs | remove_first: "&" -%}{%- endif -%}
+
+{%- capture component_src -%}{{ '/assets/components/map.html' | relative_url }}?{{ qs }}{%- endcapture -%}
+
+{%- include embed/_iframe.html
+      src=component_src
+      base_class="embed-map"
+      title="Entreluma map viewer"
+      id=include.id
+      class=include.class
+      aspect=aspect
+-%}

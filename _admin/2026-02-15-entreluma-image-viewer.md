@@ -1,14 +1,14 @@
 ---
-title: "StoryKit: Image Viewer"
-description: How to use the StoryKit image viewer in your Markdown posts.
-permalink: /admin/storykit-image-viewer
+title: "Entreluma: Image Viewer"
+description: How to use the Entreluma image viewer in your Markdown posts.
+permalink: /admin/entreluma-image-viewer
 date: 2026-02-15
-media_subpath: /assets/posts/storykit
+media_subpath: /assets/posts/entreluma
 # image: image.png
 # show_header_image: false
 toc: true
-order: 22
-storykit:
+order: 21
+entreluma:
     mode: flat
     toolbar: false
 ---
@@ -48,13 +48,13 @@ storykit:
 
 ## Overview
 
-At first glance, the StoryKit Image Viewer looks similar to the standard image support built into Jekyll and the Chirpy theme. It displays a clean, responsive image in the page, just like a normal Markdown image.
+At first glance, the Entreluma Image Viewer looks similar to the standard image support built into Jekyll and the Chirpy theme. It displays a clean, responsive image in the page, just like a normal Markdown image.
 
 The difference becomes clear when the image is clicked.
 
-When a reader clicks the page image, StoryKit opens a larger viewer using the **highest-resolution version available**. This version supports smooth zooming and panning, allowing readers to explore fine detail. The image shown in the page itself is optimized for normal web viewing, so your page loads quickly and looks clean. The high-resolution version is only loaded when needed.
+When a reader clicks the page image, Entreluma opens a larger viewer using the **highest-resolution version available**. This version supports smooth zooming and panning, allowing readers to explore fine detail. The image shown in the page itself is optimized for normal web viewing, so your page loads quickly and looks clean. The high-resolution version is only loaded when needed.
 
-This makes the StoryKit viewer ideal for:
+This makes the Entreluma viewer ideal for:
 
 - Maps  
 - Archival photographs  
@@ -64,14 +64,14 @@ This makes the StoryKit viewer ideal for:
 
 ### First-Class Support for Wikimedia Commons
 
-The StoryKit viewer makes using Wikimedia Commons especially convenient.
+The Entreluma viewer makes using Wikimedia Commons especially convenient.
 
 You can reference a Commons image either by:
 
 - Full Commons URL  
 - The shorthand format: `wc:File_Name.jpg`
 
-StoryKit automatically:
+Entreluma automatically:
 
 - Retrieves the optimal image size for the page  
 - Loads the highest-resolution version for exploration  
@@ -82,7 +82,7 @@ This removes much of the friction normally involved in correctly using Commons i
 
 ### Interactive Storytelling
 
-Where StoryKit goes beyond a traditional image viewer is in **interactivity**.
+Where Entreluma goes beyond a traditional image viewer is in **interactivity**.
 
 You can link text to viewer actions such as:
 
@@ -98,7 +98,7 @@ The result is a more immersive reading experience — one where the image become
 In short:
 
 - Use the standard Chirpy image when you simply need to display a picture.
-- Use the StoryKit Image Viewer when the image is something readers should explore.
+- Use the Entreluma Image Viewer when the image is something readers should explore.
 
 ## Attributes
 
@@ -130,7 +130,7 @@ The `src` attribute define the image to display.  You can use:
 #### manifest
 {: .attribute }
 
-The for the image manifest attribute a full URL to an IIIF manifest must b provided.
+References a IIIF image by its manifest. A full URL to the IIIF manifest must be provided.
 
     manifest="https://iiif.harvardartmuseums.org/manifests/object/299843"
 
@@ -143,14 +143,21 @@ These improve presentation but are not required.
 #### aspect
 {: .attribute }
 
----
-
-Controls the image shape.
+Controls the image shape (width-to-height ratio).
 
     aspect="1200/630"
     aspect="1"
 
 You usually don’t need to change this unless you want a taller or more square presentation.
+
+---
+
+#### attribution
+{: .attribute }
+
+A credit line displayed with the image. For Wikimedia Commons images the attribution is fetched automatically, so this is mainly useful for images from other sources.
+
+    attribution="Photo: J. Smith, CC BY 4.0"
 
 ---
 
@@ -165,6 +172,15 @@ Keep captions short and descriptive.
 
 ---
 
+#### class
+{: .attribute }
+
+Size and position words like `medium right float` — see [Formatting Tips](entreluma-formatting-tips).
+
+    class="medium right"
+
+---
+
 #### cover
 {: .attribute }
 
@@ -173,6 +189,15 @@ Makes the image fill its space more dramatically, similar to a cover photo.
     cover="true"
 
 This works well for wide landscape images.
+
+---
+
+#### id
+{: .attribute }
+
+An identifier for the viewer, **required when using action links** such as `zoomto` (see the [Action Link Example](#action-link-example) below).
+
+    id="img1"
 
 ---
 
@@ -199,9 +224,18 @@ Rotates the image.
 #### seq
 {: .attribute }
 
-Selects image in a multi-image IIIF manifest.  By default, the first image in a manifest is displayed.  If multiple images are defined in a manifest others can be referenced using the `seq` attribute.  In this example the 2nd image in the manifest is displayed.
+Selects the image in a multi-image IIIF manifest.  By default, the first image in a manifest is displayed.  If multiple images are defined in a manifest others can be referenced using the `seq` attribute.  In this example the 3rd image in the manifest is displayed.
 
     seq="3"
+
+---
+
+#### width
+{: .attribute }
+
+Requests a specific pixel width for the in-page image (the high-resolution version used in the expanded viewer is unaffected). Normally omitted — an appropriate size is chosen automatically.
+
+    width="800"
 
 ---
 
@@ -323,7 +357,7 @@ When the action link is clicked, the image viewer will zoom into the area define
 {: .nolineno }
 {% endraw %}
 
-Note the addition of the `id` attribute with the value `img1`.
+Note the addition of the `id` attribute with the value `img2`.
 
 ```markdown
 [Merrick Butte](img2/zoomto/pct:67.68,34.23,23.22,27){: label="Custom Label"}
@@ -345,5 +379,7 @@ In this action link the first segment of the URL contains the `id` of the image 
 [zoomto action link with](img2/zoomto/pct:67.68,34.23,23.22,27){: label="Custom Label"}
 
 Note that in this example the label for the zoomed region is taken from the custom attributes appended to the link.
+
+The full action-link syntax, common pitfalls, and the actions supported by every viewer are covered in the [Action Links reference](entreluma-action-links).
 
 ---

@@ -9,7 +9,7 @@ published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/2/25/Minster_Abbey%2C_The_Sir_Thomas_Cheyne_%281485-1558%29_monument_-_geograph.org.uk_-_5227654.jpg
 permalink: /15c/15c-thomas-cheyne/
-juncture: true
+entreluma: true
 published: true
 toc: false 
 ---
@@ -66,4 +66,3 @@ Banner image credit: Minster Abbey: The Sir Thomas Cheyne (1485-1558) monument b
 [^ref22]:Lehmberg, “Cheyne, Sir Thomas(c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography_.  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
 [^ref23]: Lehmberg, “Cheyne, Sir Thomas(c. 1485–1558), administrator and diplomat." _Oxford Dictionary of National Biography_.  January 03, 2008. Oxford University Press. Date of access 21 May. 2026, <https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5263>
 [^ref23]: Daly, _History of the Isle of Sheppey_, p.170-2.
-

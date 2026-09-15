@@ -1,0 +1,32 @@
+{%- comment -%}
+Shared iframe emitter for all Entreluma embed includes.
+
+Each embed/*.html include builds its own query string (values escaped with
+cgi_escape) and delegates the <iframe> emission here so that id, class,
+sizing, and accessibility attributes are consistent across viewers.
+
+Parameters:
+  src         (required) full iframe src (component page + query string)
+  base_class  (required) viewer base class, e.g. "embed-map"
+  title       (required) accessible title for the iframe
+  id          viewer id — required for action-link targeting. When absent
+              a data-entreluma-warn attribute is emitted instead so the
+              missing id is discoverable in the inspector and by
+              entreluma.js diagnostics.
+  class       extra author-supplied classes (size/position words)
+  aspect      aspect ratio for the frame (caller resolves its default)
+  extra_style additional inline style, e.g. "width: 100%;"
+  width       explicit width attribute (px)
+  height      explicit height attribute (px)
+{%- endcomment -%}
+<iframe
+  {%- if include.id and include.id != "" %} id="{{ include.id }}"
+  {%- else %} data-entreluma-warn="no-id"
+  {%- endif %}
+  class="{{ include.base_class }}{% if include.class %} {{ include.class }}{% endif %}"
+  loading="lazy" title="{{ include.title }}" allow="clipboard-write" allowfullscreen
+  {%- if include.width %} width="{{ include.width }}"{% endif %}
+  {%- if include.height %} height="{{ include.height }}"{% endif %}
+  {%- if include.aspect or include.extra_style %} style="{% if include.aspect %}aspect-ratio: {{ include.aspect }};{% endif %}{% if include.extra_style %} {{ include.extra_style }}{% endif %}"{% endif %}
+  src="{{ include.src }}">
+</iframe>

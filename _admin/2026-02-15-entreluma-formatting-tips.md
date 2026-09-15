@@ -1,12 +1,12 @@
 ---
-title: "StoryKit: Formatting Tips"
-description: Tips for formatting StoryKit posts.
-permalink: /admin/storykit-formatting-tips
+title: "Entreluma: Formatting Tips"
+description: Tips for formatting Entreluma posts.
+permalink: /admin/entreluma-formatting-tips
 date: 2026-02-22
-media_subpath: /assets/posts/storykit
+media_subpath: /assets/posts/entreluma
 toc: true
 order: 13
-storykit:
+entreluma:
     mode: flat
     toolbar: false
 ---
@@ -15,15 +15,15 @@ storykit:
 
 *Viewers* are the interactive elements in your post — images, maps, and similar media that you add using the `{% raw %}{% include ... %}{% endraw %}` tags in your text.
 
-StoryKit handles their size and placement automatically by default, but you have full control when you need it.
+Entreluma handles their size and placement automatically by default, but you have full control when you need it.
 
 ---
 
 ## How It Works By Default (Auto-Float)
 
-Out of the box, StoryKit uses a feature called **auto-float**. Here's what it does:
+Out of the box, Entreluma uses a feature called **auto-float**. Here's what it does:
 
-- When a viewer follows a paragraph of text, StoryKit automatically places the viewer **to the right** of that paragraph at **half the screen width**
+- When a viewer follows a paragraph of text, Entreluma automatically places the viewer **to the right** of that paragraph at **half the screen width**
 - The paragraph text **wraps around** the viewer, magazine-style
 - This only happens on screens wide enough to make it look good
 
@@ -36,7 +36,7 @@ This requires no extra work from you — it just happens.
 If you'd rather have your viewers stack naturally below your text (full-width, one after another), you can turn off auto-float for a specific post by adding these lines to the top of your post file (the "front matter"):
 
 ```yaml
-storykit:
+entreluma:
   auto_float: false
 ```
 
@@ -68,7 +68,7 @@ Once auto-float is off, you can control exactly how each viewer looks by adding 
 <div markdown="1">
 {% raw %}
 ```liquid
-{% include my-map.html class="medium right" %}
+{% include embed/map.html center="37.01056, -110.2425" class="medium right" %}
 ```
 {: .nolineno }
 {% endraw %}
@@ -87,8 +87,8 @@ By default, `float` pins the viewer to the **right**. Add `left` to pin it to th
 <div markdown="1">
 {% raw %}
 ```liquid
-{% include my-image.html class="float" %}        ← right side (default)
-{% include my-image.html class="float left" %}   ← left side
+{% include embed/image.html src="photo.jpg" class="float" %}        ← right side (default)
+{% include embed/image.html src="photo.jpg" class="float left" %}   ← left side
 ```
 {: .nolineno }
 {% endraw %}

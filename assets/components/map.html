@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <meta name="robots" content="noindex">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Map Component</title>
@@ -13,8 +14,10 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css" />
 
   <!-- Leaflet + gesture handling -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet-gesture-handling/dist/leaflet-gesture-handling.min.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha384-sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.css"
+    integrity="sha384-IKK988kZjVpx+y4Iqax/6yU7EVQx/sHewAKb/iqDCb9tCtgy25bGk5ZINDla9rgv" crossorigin="anonymous" />
 
   <!-- Fonts -->
   <link rel="stylesheet"
@@ -212,28 +215,81 @@
 
       <figcaption>
         <span class="title caption-title"></span>
+        <button id="expandBtn" class="expand-btn" type="button" title="Expand map" aria-label="Expand map">
+          <i class="fa-solid fa-expand" aria-hidden="true"></i>
+        </button>
       </figcaption>
     </figure>
   </main>
 
+  <!-- Entreluma component runtime (postMessage protocol) -->
+  <script src="../js/entreluma-component.js"></script>
+
   <!-- Leaflet core + plugins (global) -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://juncture-digital.github.io/Leaflet.SmoothWheelZoom/Leaflet.SmoothWheelZoom.js"></script>
-  <script src="https://unpkg.com/leaflet-gesture-handling"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@allmaps/leaflet/dist/bundled/allmaps-leaflet-1.9.umd.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha384-cxOPjt7s7Iz04uaHJceBmS+qpjv2JkIHNVcuOrM+YHwZOmJGBXI00mdUXEq65HTH" crossorigin="anonymous"></script>
+  <script src="../js/vendor/Leaflet.SmoothWheelZoom.js"></script>
+  <script src="https://unpkg.com/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.js"
+    integrity="sha384-TqJpQ0URK8MzCC4s3ekivmwQmVfay3oiXhBt/Vl5nViiMrO7+rdFTc5VKDeUuto8" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@allmaps/leaflet@1.0.0-beta.44/dist/bundled/allmaps-leaflet-1.9.umd.js"
+    integrity="sha384-p5+AU66OWJcE5rj1uoKbiA5W8d9g4JTLC6OXGLhIPTywhAWpU9jYhCV6euO75cE2" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/exif-js@2.3.0/exif.js"
+    integrity="sha384-mjCisVk+9cQGYprByJbHxzwFO7BVEgR6iCftsCqnmHNKA8uzLYoRng5h1qKMvHjp" crossorigin="anonymous"></script>
 
   <script type="module">
-    import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+    import { marked } from "https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js";
     import "https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js";
 
     // ------------------------------- constants -------------------------------
+    import { receiveLocalResource } from '../js/entreluma-local-image.js';
+    const localParams = new URLSearchParams(location.search);
+    const localJSON = new Map();
+    function localData(url) {
+      const resourceId = url.slice('sk-local:'.length);
+      let ids;
+      try {ids = JSON.parse(localParams.get('sk_resources'));} catch {ids = [];}
+      if (!Array.isArray(ids) || !ids.includes(resourceId)) throw new Error('Unassigned local map resource.');
+      if (!localJSON.has(resourceId)) localJSON.set(resourceId, receiveLocalResource({resourceId,
+        generation: localParams.get('sk_generation'), types: new Set(['application/json','application/geo+json'])
+      }).then(resource => {resource.revoke();return JSON.parse(new TextDecoder().decode(resource.bytes));}));
+      return localJSON.get(resourceId);
+    }
     const IMAGE_SERVICE_URL = "https://d1co2zgwaj21sl.cloudfront.net/image";
     const ALLMAPS_BASE = "https://annotations.allmaps.org";
     const WIKIDATA_SPARQL = "https://query.wikidata.org/sparql";
 
+    // Only the editor opts into this bridge. Published maps request tiles
+    // directly using the public site's origin-only referrer policy.
+    const tileBridge = localParams.get('entreluma_tile_bridge') === '1' && top !== window;
+    const bridgeTiles = new Map();
+    if (tileBridge) addEventListener('message', event => {
+      if (event.source !== top || event.data?.kind !== 'entreluma-osm-tile-result') return;
+      const entry = bridgeTiles.get(event.data.id);
+      if (!entry) return;
+      bridgeTiles.delete(event.data.id); clearTimeout(entry.timer);
+      if (!(event.data.blob instanceof Blob)) {entry.done(new Error('Map tile unavailable.'), entry.tile); return;}
+      const url = URL.createObjectURL(event.data.blob);
+      entry.tile.onload = () => {URL.revokeObjectURL(url); entry.done(null, entry.tile);};
+      entry.tile.onerror = () => {URL.revokeObjectURL(url); entry.done(new Error('Map tile unavailable.'), entry.tile);};
+      entry.tile.src = url;
+    });
+    const PreviewTileLayer = L.TileLayer.extend({
+      createTile(coords, done) {
+        const tile = document.createElement('img'); tile.alt = ''; tile.setAttribute('role', 'presentation');
+        const id = crypto.randomUUID();
+        const timer = setTimeout(() => {bridgeTiles.delete(id); done(new Error('Map tile timed out.'), tile);}, 20000);
+        bridgeTiles.set(id, {tile, done, timer});
+        top.postMessage({kind:'entreluma-osm-tile', id, z:coords.z, x:coords.x, y:coords.y}, '*');
+        return tile;
+      }
+    });
+    const tileLayer = (url, options) => tileBridge && url.startsWith('https://tile.openstreetmap.org/')
+      ? new PreviewTileLayer(url, options) : L.tileLayer(url, options);
+
     const baseMapsConfigs = {
-      OpenStreetMap: ["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      OpenStreetMap: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        // Identify the site to OSM without exposing story paths or query parameters.
+        referrerPolicy: "strict-origin",
         maxZoom: 19,
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }],
@@ -256,12 +312,12 @@
     };
 
     const MARKER_ICON_TEMPLATE = {
-      iconUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon.png",
-      iconRetinaUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon-2x.png",
+      iconUrl: "../img/leaflet/marker-icon.png",
+      iconRetinaUrl: "../img/leaflet/marker-icon-2x.png",
       iconSize: [25, 41],
       iconAnchor: [12, 41],
       popupAnchor: [1, -34],
-      shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png",
+      shadowUrl: "../img/leaflet/marker-shadow.png",
       shadowSize: [41, 41]
     };
 
@@ -270,24 +326,21 @@
     const captionTitleEl = document.querySelector("figcaption .title");
     const coordsEl = document.querySelector("#coords");
     const mapEl = document.querySelector("#map");
-    // const expandBtn = document.querySelector("#expandBtn");
+    const expandBtn = document.querySelector("#expandBtn");
 
     // ------------------------------ expand button ---------------------------
-    function postShowDialog() {
-      console.log('showDialog')
-      // Keep aspect stable and simple per your request
-      window.parent.postMessage(
-        { type: "showDialog", props: { aspect: 1.0, src: `${location.href}` } },
-        "*"
-      );
+    const isMaxMode = new URLSearchParams(location.search).has("max");
+    if (isMaxMode) {
+      // Already in the expanded dialog — no point offering to expand again.
+      expandBtn.style.display = "none";
+    } else {
+      expandBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        const sep = location.search ? "&" : "?";
+        Entreluma.showDialog(`${location.href}${sep}max`, 1.0);
+      });
     }
-    /*
-    expandBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      postShowDialog();
-    });
-    */
 
     // ------------------------------ utilities ------------------------------
     const isQid = (s) => typeof s === "string" && /^Q\d+$/.test(s.trim());
@@ -389,6 +442,7 @@
     }
 
     async function fetchJson(url, { timeoutMs = 12000, accept = "application/json" } = {}) {
+      if (url.startsWith('sk-local:')) return localData(url);
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), timeoutMs);
       try {
@@ -911,28 +965,13 @@
     }
 
     // ------------------------------ messaging ------------------------------
-    function parseMessageData(event) {
-      const raw = event?.data;
-      if (!raw) return null;
-      if (typeof raw === "string") {
-        try { return JSON.parse(raw); } catch { return null; }
-      }
-      if (typeof raw === "object") return raw;
-      return null;
-    }
-
     function setupFlyToMessaging({ map, getEntity }) {
       let prior = null;
       let lastTargetKey = null;
 
-      window.addEventListener("message", async (event) => {
-        const msg = parseMessageData(event);
-        if (!msg) return;
-
-        const action = String(msg.action || "").toLowerCase();
+      Entreluma.onAction(async ({ action, args }) => {
         if (action !== "flyto") return;
 
-        const args = Array.isArray(msg.args) ? msg.args : [];
         const locZoom = String(args[0] ?? "").trim();
         if (!locZoom) return;
 
@@ -987,7 +1026,8 @@
         markers: null,
         popupOnHover: false,
         zoom: 8,
-        ...queryObj
+        ...queryObj,
+        fitGeoJSON: !queryObj.center && !queryObj.zoom
       };
 
       if (props.caption) setCaption(props.caption);
@@ -999,7 +1039,11 @@
 
       const qids = collectQIDsFromProps(props);
       const entities = qids.size ? await getEntityData(Array.from(qids), props.language) : {};
-      const getEntity = async (qid) => entities[qid] || null;
+      // Q-ids referenced only by flyto action links aren't in props, so fetch on demand
+      const getEntity = async (qid) => {
+        if (!entities[qid]) Object.assign(entities, await getEntityData([qid], props.language));
+        return entities[qid] || null;
+      };
 
       // Center / zoom
       let centerLatLng = null;
@@ -1028,11 +1072,11 @@
         const cfg = baseMapsConfigs[name];
         if (!cfg) continue;
         const [url, options] = cfg;
-        basemapLayers.push([name.replace(/_/g, " "), L.tileLayer(url, options)]);
+        basemapLayers.push([name.replace(/_/g, " "), tileLayer(url, options)]);
       }
       if (!basemapLayers.length) {
         const [url, opts] = baseMapsConfigs.OpenStreetMap;
-        basemapLayers.push(["OpenStreetMap", L.tileLayer(url, opts)]);
+        basemapLayers.push(["OpenStreetMap", tileLayer(url, opts)]);
       }
 
       // Create map
@@ -1155,6 +1199,7 @@
       }
 
       // GeoJSON overlays
+      const geoBounds = L.latLngBounds();
       const geojsonTasks = geoJsonOverlays.map(async (def) => {
         try {
           const url = def.url;
@@ -1169,11 +1214,18 @@
 
           addOverlayToControl(map, layerControlRef, layer, def.layerName || def.label || defaultName);
           map.addLayer(layer);
+          if (layer.getBounds().isValid()) geoBounds.extend(layer.getBounds());
         } catch (err) {
           console.error("GeoJSON load failed:", def, err);
+          if (def.url?.startsWith('sk-local:')) {
+            const notice = document.createElement('p');notice.setAttribute('role','status');
+            notice.textContent = 'Local map data could not be displayed: ' + err.message;
+            document.body.append(notice);
+          }
         }
       });
       await Promise.allSettled(geojsonTasks);
+      if (props.fitGeoJSON && geoBounds.isValid()) map.fitBounds(geoBounds, {padding: [20, 20], maxZoom: 12});
 
       // Warped maps
       if (warpedMapLayers.length) {

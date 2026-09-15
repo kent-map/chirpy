@@ -2,9 +2,10 @@
 <html lang="en">
 
 <head>
+  <meta name="robots" content="noindex">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>StoryKit Component Template</title>
+  <title>Entreluma Component Template</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
   <style>
     *,
@@ -76,17 +77,21 @@
     </figcaption>
   </figure>
 
+  <!-- Entreluma component runtime (postMessage protocol) -->
+  <script src="../js/entreluma-component.js"></script>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-network.min.js"
     integrity="sha512-GE9mKnPrTn2DY5AZuIC9yE6K4FF8T+9lsO7jwHn+RW9rEjnHzF/in0oGwlPzRwjhQ+oJiawmtfvleX+l6h5/cA=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"
+    integrity="sha384-D/t0ZMqQW31H3az8ktEiNb39wyKnS82iFY52QPACM+IjKW3jDUhyIgh2PApRqJZs" crossorigin="anonymous"></script>
   <script type="module">
-    import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/button/button.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/drawer/drawer.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab/tab.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-group/tab-group.js';
-    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-panel/tab-panel.js';
+    import { marked } from "https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js";
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/button/button.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/drawer/drawer.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab/tab.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-group/tab-group.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-panel/tab-panel.js';
 
     const md2Html = (md) => marked.parse(md).slice(3, -5) // convert markdown to HTML
     const kebabToCamel = (input) => input.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
@@ -109,13 +114,12 @@
     const content = figure.firstElementChild
     const figcaption = figure.querySelector('figcaption')
     const captionText = figcaption.querySelector('.label')
-    let id
 
     if (!props.max) {
       const overlay = document.createElement('div')
       overlay.className = 'click-overlay'
       figure.appendChild(overlay)
-      overlay.addEventListener('click', () => window.parent.postMessage({ type: "showDialog", aspect: 1.0, src: `${location.href}&dataid=${props.dataid}&max` }, "*" ));
+      overlay.addEventListener('click', () => Entreluma.showDialog(`${location.href}&dataid=${props.dataid}&max`, 1.0));
     }
 
     if (props.nocaption === true) figcaption.style.display = 'none'
@@ -144,21 +148,28 @@
       }, options);
     }
 
-    // get the nodes and edges from the parent window using iframe ID
-    window.addEventListener('message', (event) => {
-      let eventData = JSON.parse(event.data)
-      if (eventData.event === 'id') {
-        id = eventData.id
-        props.dataid = `${id}-csv`
-        window.parent.postMessage({ type: 'getElementById', id: props.dataid }, '*')
-      } if (eventData.event === 'element' && eventData.html) {
-        buildGraph(new DOMParser().parseFromString(eventData.html, 'text/html').querySelector('body').firstElementChild.textContent)
+    // Get the nodes and edges from a hidden element on the host page.
+    // By convention the data block's id is the viewer's iframe id + "-csv"
+    // (see docs/postmessage-protocol.md); an explicit dataid param overrides.
+    async function loadGraphData() {
+      if (!props.dataid) {
+        const hostId = await Entreluma.getHostId()
+        if (!hostId) {
+          console.warn('vis-network: host did not report an iframe id; cannot locate data block')
+          return
+        }
+        props.dataid = `${hostId}-csv`
       }
-    });
-    if (props.dataid) {
-      window.parent.postMessage({ type: 'getElementById', id: props.dataid }, '*')
-    } else
-      window.parent.postMessage({ type: 'getId' }, '*')
+      const el = await Entreluma.requestHostElement(props.dataid)
+      if (!el || !el.html) {
+        console.warn(`vis-network: no data block found on host page with id "${props.dataid}"`)
+        return
+      }
+      const csv = new DOMParser().parseFromString(el.html, 'text/html')
+        .querySelector('body').firstElementChild.textContent
+      buildGraph(csv)
+    }
+    loadGraphData()
 
 
   </script>

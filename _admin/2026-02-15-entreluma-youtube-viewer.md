@@ -1,12 +1,12 @@
 ---
-title: "StoryKit: YouTube Viewer"
-description: How to use the StoryKit YouTube viewer in your Markdown posts.
-permalink: /admin/storykit-youtube-viewer
+title: "Entreluma: YouTube Viewer"
+description: How to use the Entreluma YouTube viewer in your Markdown posts.
+permalink: /admin/entreluma-youtube-viewer
 date: 2026-02-22
-media_subpath: /assets/posts/storykit
+media_subpath: /assets/posts/entreluma
 toc: true
-order: 25
-storykit:
+order: 24
+entreluma:
     mode: flat
     toolbar: false
 ---
@@ -45,9 +45,9 @@ storykit:
 
 ## Overview
 
-The StoryKit YouTube Viewer embeds a YouTube video in your page as a clean, responsive preview. It looks similar to a standard embedded video, but behaves differently when clicked.
+The Entreluma YouTube Viewer embeds a YouTube video in your page as a clean, responsive preview. It looks similar to a standard embedded video, but behaves differently when clicked.
 
-When a reader clicks the preview, StoryKit opens a **larger, expanded viewer** using the full available screen width. This gives the reader a much better viewing experience without forcing a large player on the page itself.
+When a reader clicks the preview, Entreluma opens a **larger, expanded viewer** using the full available screen width. This gives the reader a much better viewing experience without forcing a large player on the page itself.
 
 This two-mode design keeps your article layout clean and readable while still making video a first-class part of the content.
 
@@ -74,7 +74,7 @@ This allows your writing to direct the reader to the right moment in a video. In
 In short:
 
 - Use a standard YouTube embed when you simply need a video in the page.
-- Use the StoryKit YouTube Viewer when timing, interactivity, or a clean layout matters.
+- Use the Entreluma YouTube Viewer when timing, interactivity, or a clean layout matters.
 
 ## Attributes
 
@@ -121,7 +121,7 @@ When present, the video begins playing automatically when the expanded viewer op
 
 Autoplay only applies in expanded mode. The preview in the page is always inactive regardless of this setting.
 
-> **Note:** Autoplay with sound requires the viewer to be served from a page that passes `allow="autoplay"` on its iframe. This is handled automatically by StoryKit.
+> **Note:** Autoplay with sound requires the viewer to be served from a page that passes `allow="autoplay"` on its iframe. This is handled automatically by Entreluma.
 
 ---
 
@@ -158,6 +158,24 @@ An identifier for the viewer, required when using action links.
     id="vid1"
 
 The `id` is used by action links in the article text to target this specific viewer. See the [Action Link Example](#action-link-example) below.
+
+---
+
+#### aspect
+{: .attribute }
+
+The width-to-height ratio of the in-page preview. Defaults to `1.55`.
+
+    aspect="1.78"
+
+---
+
+#### class
+{: .attribute }
+
+Size and position words like `medium right float` — see [Formatting Tips](entreluma-formatting-tips).
+
+    class="medium right"
 
 ---
 
@@ -330,6 +348,10 @@ Action links follow this URL format:
 | Action | Argument format | Description |
 |---|---|---|
 | `playat` | `start` or `start,end` | Opens the expanded viewer and plays from `start`, optionally stopping at `end`. Times may be in seconds or `h:mm:ss`. |
+| `play` | optional `start` | Resumes playback, optionally seeking to `start` first. |
+| `pause` | none | Pauses playback. |
+
+The full action-link syntax and the actions supported by every viewer are covered in the [Action Links reference](entreluma-action-links).
 
 ### Argument Format Examples
 

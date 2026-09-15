@@ -11,7 +11,7 @@ media_subpath: /assets/img
 image:
   path: 
   alt: 
-storykit: false # change to true to enable storykit extensions
+entreluma: false # change to true to enable Entreluma extensions
 ---
 
 “The appearance of the city of Canterbury, from whatever part you approach it, is beautiful and equals the most sanguine expectation. The magnificent tower of the cathedral … strikes the eye as the principal object of admiration” (Hasted, 1800)

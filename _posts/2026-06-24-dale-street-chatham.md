@@ -9,7 +9,7 @@ published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/3/32/Pedestrianised_section_of_Dale_Street%2C_Chatham_-_geograph.org.uk_-_1383003.jpg
 permalink: /built/dale-street-chatham/
-juncture: true
+entreluma: true
 ---
 
 My grandmother would say to my mother, newly married and installed in Medway, that she’d never known a place quite like Chatham. No matter which direction you took, you always had to climb a hill. 
@@ -99,7 +99,6 @@ Ellbris Ltd., hardware no. 293
 Dulcie's Hairdressers,  no.323    
 Jaydee Newsagents (formerly Mrs Heather Lake, newsagent) no.323   
 Suttons Grocers, no. 2 Elm Avenue   
-
 
 
 

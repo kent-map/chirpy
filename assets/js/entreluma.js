@@ -1,5 +1,5 @@
 /**
- * StoryKit client helpers
+ * Entreluma client helpers
  * ----------------------
  * Assumes this file is loaded as an ES module (e.g., <script type="module" ...>).
  *
@@ -12,16 +12,16 @@
  */
 
 import "https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/button/button.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/card/card.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/carousel/carousel.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/carousel-item/carousel-item.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/copy-button/copy-button.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/dialog/dialog.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/dropdown/dropdown.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab/tab.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-group/tab-group.js";
-import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace/cdn/components/tab-panel/tab-panel.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/button/button.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/card/card.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/carousel/carousel.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/carousel-item/carousel-item.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/copy-button/copy-button.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/dialog/dialog.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/dropdown/dropdown.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab/tab.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-group/tab-group.js";
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/components/tab-panel/tab-panel.js";
 import "https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.2.0/scrollama.min.js";
 
 /* ---------------------------------------------
@@ -38,9 +38,40 @@ const isMobile = isCoarsePointer || isNarrowViewport;
 // If true, action links are disabled (no href + styled as plain text)
 const isStatic = false;
 
-// If you can, set this to your domain(s) to reject arbitrary postMessage senders.
-// Example: new Set([location.origin])
-const allowedMessageOrigins = null; // null = allow all (current behavior)
+// The host's effective origin for postMessage. Inside an about:srcdoc
+// document (the preview tool and the editor preview render posts into
+// srcdoc iframes) location.origin serializes as the literal string "null"
+// even though the document's SECURITY origin is inherited from the
+// embedder — using it broke component↔host messaging (viewer expand
+// dialogs, action links) in every preview surface. window.origin reports
+// the security origin correctly in both contexts.
+const HOST_ORIGIN =
+    (location.origin && location.origin !== 'null') ? location.origin : window.origin;
+
+// Origins accepted for postMessage. Components are usually same-origin
+// (static pages served by this site) but MAY be cross-origin — e.g. this
+// page rendered by a local-dev editor/preview while components load from
+// the deployed site. registerComponentOrigins() adds the origins of the
+// actual component iframes on the page at init, so we trust exactly the
+// places we load viewers from. Set to null to allow all origins (not
+// recommended).
+const OPAQUE_SANDBOX = window.origin === 'null';
+const allowedMessageOrigins = new Set([HOST_ORIGIN]);
+
+/** Trust the origins we actually load viewer component iframes from. */
+function registerComponentOrigins(root = document) {
+    root.querySelectorAll('iframe[src*="/assets/components/"]').forEach((f) => {
+        try { allowedMessageOrigins.add(new URL(f.src, location.href).origin); }
+        catch { /* unparsable src — skip */ }
+    });
+}
+
+/** targetOrigin for posting INTO a component iframe: its own origin. */
+function originOfIframe(el) {
+    if (OPAQUE_SANDBOX) return '*'; // descendants inherit the opaque sandbox
+    try { return new URL(el.src, location.href).origin; }
+    catch { return HOST_ORIGIN; }
+}
 
 /* ---------------------------------------------
  * Small utilities
@@ -104,7 +135,7 @@ function computeDialogWidth({ aspect }) {
     return clamp(Math.round(w), 320, Math.round(window.innerWidth * 0.98));
 }
 
-function showDialog({ aspect, src } = {}) {
+function showDialog({ aspect, src } = {}, localAssignment = null) {
     if (activeDialog) return;
     const srcUrl = safeURL(src);
     if (!srcUrl) {
@@ -115,7 +146,7 @@ function showDialog({ aspect, src } = {}) {
     const width = computeDialogWidth({ aspect });
 
     const dialog = document.createElement("sl-dialog");
-    dialog.id = "storykitDialog";
+    dialog.id = "entrelumaDialog";
     dialog.setAttribute("size", "large");
     dialog.setAttribute("no-header", "");
     dialog.style.setProperty("--width", `${width}px`);
@@ -148,6 +179,11 @@ function showDialog({ aspect, src } = {}) {
     iframe.setAttribute("allowfullscreen", "");
     iframe.setAttribute("allow", "autoplay; encrypted-media");
     iframe.src = srcUrl.toString();
+    // Only inherit a local assignment from the registered sending viewer.
+    // The resource broker also checks the exact runtime URL and generation.
+    if (localAssignment && srcUrl.searchParams.get('sk_resource') === localAssignment) {
+        iframe.dataset.skResource = localAssignment;
+    }
 
     wrapper.appendChild(iframe);
     dialog.appendChild(wrapper);
@@ -175,79 +211,81 @@ function findIframeBySourceWindow(sourceWindow) {
     return null;
 }
 
+// Tolerant parse: accepts plain objects or JSON strings, never throws.
+function safeParseMessage(data) {
+    if (!data) return null;
+    if (typeof data === "object") return data;
+    if (typeof data !== "string") return null;
+    try { return JSON.parse(data); } catch { return null; }
+}
+
+/**
+ * Host side of the Entreluma postMessage protocol.
+ * All messages use the envelope { type: "entreluma:<name>", payload: {...} }
+ * — see docs/postmessage-protocol.md.
+ */
 function addMessageHandler() {
     window.addEventListener("message", (event) => {
-        if (!isOriginAllowed(event.origin)) return;
+        if (event.origin === 'null') {
+            if (!OPAQUE_SANDBOX || !findIframeBySourceWindow(event.source)) return;
+        } else if (!isOriginAllowed(event.origin)) return;
 
-        const data = event.data;
+        const msg = safeParseMessage(event.data);
+        if (!msg || typeof msg.type !== "string" || !msg.type.startsWith("entreluma:")) return;
 
-        // Accept either raw objects OR JSON strings (some of your code uses JSON.stringify elsewhere)
-        let msg = data;
-        if (typeof data === "string") {
-            try {
-                msg = JSON.parse(data);
-            } catch {
-                // not JSON; ignore
+        const name = msg.type.slice("entreluma:".length);
+        let payload = msg.payload || {};
+        const reply = (type, replyPayload) =>
+            event.source?.postMessage({ type: `entreluma:${type}`, payload: replyPayload }, event.origin === 'null' ? '*' : event.origin);
+
+        switch (name) {
+            case "showDialog": {
+                // Resolve a relative src against the SENDING component's URL,
+                // not this document's. Inside an about:srcdoc host (preview
+                // tool, editor preview) location.href is not a usable base —
+                // a component that sends a pathname-relative src (youtube/
+                // image-compare historically did) would silently fail
+                // safeURL. Components run at real URLs, so their iframe src
+                // is always a valid base.
+                const sender = findIframeBySourceWindow(event.source);
+                if (sender && sender.src && payload && typeof payload.src === "string"
+                    && !/^https?:/i.test(payload.src)) {
+                    const resolved = safeURL(payload.src, sender.src);
+                    if (resolved) payload = { ...payload, src: resolved.href };
+                }
+                showDialog(payload, sender?.dataset.skResource || null);
                 return;
             }
-        }
 
-        if (!msg || typeof msg !== "object") return;
-
-        if (msg.type === "setAspect") {
-            const sendingIframe = findIframeBySourceWindow(event.source);
-            if (sendingIframe) {
-                sendingIframe.style.aspectRatio = String(parseAspect(msg.aspect, 1));
+            case "height": {
+                const h = Number(payload.height);
+                if (!Number.isFinite(h) || h <= 0) return;
+                const sendingIframe = findIframeBySourceWindow(event.source);
+                if (sendingIframe) sendingIframe.style.height = h + "px";
+                return;
             }
-            return;
-        }
 
-        if (msg.type === "showDialog") {
-            showDialog(msg);
-            return;
-        }
-
-        if (msg.type === "openLink") {
-            const url = safeURL(msg.url);
-            if (!url) return;
-            window.open(url.toString(), msg.newtab ? "_blank" : "_self");
-            return;
-        }
-
-        if (msg.type === 'getId') {
-            // if (event.origin !== location.origin) return;
-            const iframes = document.querySelectorAll('iframe');
-            for (const iframe of iframes) {
-                if (iframe.contentWindow === event.source) {
-                    let msg = { event: 'id', id: iframe.id || iframe.getAttribute('data-id') }
-                    event.source.postMessage(JSON.stringify(msg), '*')
-                    break;
+            case "getId": {
+                const sendingIframe = findIframeBySourceWindow(event.source);
+                if (sendingIframe) {
+                    reply("id", { id: sendingIframe.id || sendingIframe.getAttribute("data-id") });
                 }
+                return;
             }
-            return;
-        }
 
-        if (msg.type === 'getElementById') {
-            // if (event.origin !== location.origin) return;
-            let el = document.getElementById(event.data.id)
-            event.source.postMessage(JSON.stringify({
-                event: 'element',
-                html: el ? el.outerHTML : null,
-                text: el ? el.textContent : null
-            }), '*')
-            return;
-        }
-
-        if (msg.type === "image-compare:height") {
-            const h = msg.height;
-            if (typeof h !== "number" || h <= 0) return;
-            const sendingIframe = findIframeBySourceWindow(event.source);
-            if (sendingIframe) {
-                sendingIframe.style.height = h + "px";
+            case "getElementById": {
+                const el = document.getElementById(payload.id);
+                reply("element", {
+                    id: payload.id,
+                    html: el ? el.outerHTML : null,
+                    text: el ? el.textContent : null
+                });
+                return;
             }
-            return;
-        }
 
+            default:
+                console.debug(`Entreluma: ignoring unknown message type entreluma:${name}`);
+        }
     });
 }
 
@@ -475,6 +513,14 @@ function parseActionLink(a) {
 function addActionLinks({ root = document.body } = {}) {
     const iframes = Array.from(root.querySelectorAll("iframe")).filter((i) => i.id);
 
+    // Diagnostics: embeds rendered without an id (embed/_iframe.html marks
+    // them) can never be targeted by action links — surface once, quietly.
+    const noId = root.querySelectorAll('[data-entreluma-warn="no-id"]');
+    if (noId.length) {
+        console.info(`Entreluma: ${noId.length} viewer embed(s) on this page have no id attribute; ` +
+            `action links cannot target them. Add id="..." to the include if you need to.`);
+    }
+
     if (!iframes.length) return;
 
     // Index iframes by id for quick lookup
@@ -482,6 +528,7 @@ function addActionLinks({ root = document.body } = {}) {
 
     // Process each <a> once (avoid nested loops)
     const links = Array.from(root.querySelectorAll("a"));
+    const unboundTargets = [];
 
     for (const a of links) {
         // Avoid double-binding
@@ -512,6 +559,7 @@ function addActionLinks({ root = document.body } = {}) {
         const iframe = iframeById.get(target);
         if (!iframe) {
             a.classList.add("disabled");
+            unboundTargets.push(target);
             continue;
         }
 
@@ -531,7 +579,9 @@ function addActionLinks({ root = document.body } = {}) {
             a.setAttribute("data-action", action);
             a.setAttribute("data-target", target);
             a.setAttribute("data-label", parsed.label);
-            a.setAttribute("data-args", args);
+            // args may themselves contain commas (regions, coordinates), so
+            // store the array as JSON rather than a joined string.
+            a.setAttribute("data-args", JSON.stringify(args));
         }
 
         a.classList.add("trigger");
@@ -540,10 +590,28 @@ function addActionLinks({ root = document.body } = {}) {
 
         a.addEventListener("click", (e) => {
             e.preventDefault();
-            const msg = { event: "action", action: e.target.dataset.action, text: e.target.dataset.label, args: [e.target.dataset.args] }
-            let target = document.querySelector(`.col2 [data-id="${e.target.dataset.target}"]`) || document.getElementById(e.target.dataset.target);
-            target.contentWindow?.postMessage(JSON.stringify(msg), "*");
+            const ds = e.currentTarget.dataset;
+            let parsedArgs;
+            try { parsedArgs = JSON.parse(ds.args); } catch { parsedArgs = [ds.args]; }
+            const targetEl =
+                document.querySelector(`.col2 [data-id="${ds.target}"]`) ||
+                document.getElementById(ds.target);
+            if (!targetEl || !targetEl.contentWindow) {
+                console.warn(`Entreluma: action link target "${ds.target}" not found — ` +
+                    `check that a viewer include on this page has id="${ds.target}"`);
+                return;
+            }
+            targetEl.contentWindow.postMessage({
+                type: "entreluma:action",
+                payload: { action: ds.action, args: parsedArgs, label: ds.label }
+            }, originOfIframe(targetEl));
         });
+    }
+
+    if (unboundTargets.length) {
+        const ids = [...new Set(unboundTargets)].join('", "');
+        console.warn(`Entreluma: ${unboundTargets.length} action link(s) reference viewer id(s) "${ids}" ` +
+            `that don't exist on this page — check that each targeted viewer include has a matching id attribute.`);
     }
 }
 
@@ -600,11 +668,47 @@ function extractQidFromAnchor(a) {
     return q || null;
 }
 
+/* Entity data is cached per QID in sessionStorage so repeat page loads in a
+ * reading session don't re-query Wikidata/Wikipedia (rate-limit and latency
+ * resilience). Failures are non-fatal: uncached entities simply get no popup
+ * and the anchor stays a normal link. */
+const ENTITY_CACHE_PREFIX = "entreluma:entity:";
+const ENTITY_CACHE_TTL_MS = 24 * 60 * 60 * 1000;
+
+function readEntityCache(qid) {
+    try {
+        const raw = sessionStorage.getItem(ENTITY_CACHE_PREFIX + qid);
+        if (!raw) return null;
+        const { t, e } = JSON.parse(raw);
+        if (!t || Date.now() - t > ENTITY_CACHE_TTL_MS) return null;
+        return e || null;
+    } catch {
+        return null;
+    }
+}
+
+function writeEntityCache(qid, entity) {
+    try {
+        sessionStorage.setItem(ENTITY_CACHE_PREFIX + qid, JSON.stringify({ t: Date.now(), e: entity }));
+    } catch {
+        /* storage full or blocked — cache is best-effort */
+    }
+}
+
 async function getEntityData(qids, language = "en") {
     const entities = {};
     if (!Array.isArray(qids) || qids.length === 0) return entities;
 
-    const entityUrls = qids.map((qid) => `(wd:${qid})`);
+    // Serve from cache where possible; only query Wikidata for the misses.
+    const misses = [];
+    for (const qid of qids) {
+        const cached = readEntityCache(qid);
+        if (cached) entities[qid] = cached;
+        else misses.push(qid);
+    }
+    if (!misses.length) return entities;
+
+    const entityUrls = misses.map((qid) => `(wd:${qid})`);
 
     // NOTE: you used SAMPLE(label/description) but filtered to "en" hard-coded.
     // If you actually want `language`, adjust FILTER(LANG(...) = "...") accordingly.
@@ -725,6 +829,11 @@ async function getEntityData(qids, language = "en") {
         })
     );
 
+    // Cache the freshly fetched entities for the rest of the session.
+    for (const qid of misses) {
+        if (entities[qid]) writeEntityCache(qid, entities[qid]);
+    }
+
     return entities;
 }
 
@@ -835,10 +944,18 @@ const SELECTORS = {
     article: "article",
     header: "article > header",
     viewer: ".viewer",
-    step: ".col2 .post-content > p:not(:has(>img)), .col2 .post-content > blockquote, .col2 .float-pair > p",
+    // Narrative "steps" may be direct children of .post-content or live inside
+    // the <section> hierarchy built by restructureMarkdownToSections (which
+    // now runs in both display modes).
+    step: ".col2 .post-content > p:not(:has(>img)), .col2 .post-content section > p:not(:has(>img)), .col2 .post-content > blockquote, .col2 .post-content section > blockquote, .col2 .float-pair > p",
 };
 
-const scroller = scrollama();
+// Created lazily by init2col so pages that never enter two-column mode
+// don't instantiate scrollama at all.
+let scroller = null;
+// Aborts all listeners added by init2col; recreated on each init.
+let colAbort = null;
+let colInitialized = false;
 
 let els = {
     article: null,
@@ -866,40 +983,61 @@ function setActive(el) {
  * Walk backward from a step paragraph to find the nearest content element
  * that should be mirrored into the right viewer.
  *
- * Rules (matching your original):
- * - Use an IFRAME, OR
- * - Use an element with class "right"
+ * The walk is section-aware: when the siblings within the step's section
+ * are exhausted, it climbs to the parent <section> and keeps walking, and
+ * a preceding <section> is searched (deep) for its last viewer.
  */
-function findViewerSource(stepEl) {
-    let toMatch = ['IFRAME', 'SL-TAB-GROUP', 'FIGURE'];
+const VIEWER_TAGS = ['IFRAME', 'SL-TAB-GROUP', 'FIGURE'];
 
+function isViewerNode(node) {
+    if (!node || node.nodeType !== Node.ELEMENT_NODE) return false;
+    return (
+        VIEWER_TAGS.includes(node.nodeName) ||
+        (node.nodeName === 'P' && node.firstChild?.nodeName === 'IMG') ||
+        (node.nodeName === 'P' && node.firstChild?.nodeName === 'A' && node.firstChild.firstChild?.nodeName === 'IMG') ||
+        node.classList.contains('float-pair')
+    );
+}
+
+function viewerFrom(node) {
+    return node.classList.contains('float-pair')
+        ? node.querySelector('iframe, img') || node
+        : node;
+}
+
+/** Deep-search a container for its last mirrorable viewer element. */
+function lastViewerWithin(el) {
+    const list = el.querySelectorAll('iframe, sl-tab-group, figure, p > img');
+    if (!list.length) return null;
+    let last = list[list.length - 1];
+    if (last.tagName === 'IMG') last = last.closest('p') || last;
+    return last;
+}
+
+function findViewerSource(stepEl) {
     let node = stepEl?.previousElementSibling;
     if (node?.classList.contains('right') || node?.classList.contains('left')) return node;
 
+    // A viewer declared immediately after the step pairs with it.
     node = stepEl?.nextElementSibling;
     while (node?.nodeName === 'HR') node = node.nextElementSibling;
-    if (node?.nodeType === Node.ELEMENT_NODE && (
-        toMatch.includes(node?.nodeName) ||
-        (node?.nodeName === 'P' && node.firstChild?.nodeName === 'IMG') ||
-        (node?.nodeName === 'P' && node.firstChild?.nodeName === 'A' && node.firstChild.firstChild?.nodeName === 'IMG') ||
-        node?.classList.contains('float-pair')
-    )) {
-        return node.classList.contains('float-pair') ? node.querySelector('iframe, img') || node : node;
-    }
+    if (isViewerNode(node)) return viewerFrom(node);
 
-    node = stepEl?.previousElementSibling || null;
-    while (node?.nodeName === 'HR') node = node.previousElementSibling;
-    while (node) {
-        if (node.nodeType === Node.ELEMENT_NODE && (
-            toMatch.includes(node?.nodeName) ||
-            (node?.nodeName === 'P' && node.firstChild?.nodeName === 'IMG') ||
-            (node?.nodeName === 'P' && node.firstChild?.nodeName === 'A' && node.firstChild.firstChild?.nodeName === 'IMG') ||
-            node?.classList.contains('float-pair')
-        )) {
-            return node.classList.contains('float-pair') ? node.querySelector('iframe, img') || node : node;
+    // Otherwise walk backward: siblings first, then climb out of sections.
+    let scope = stepEl;
+    while (scope) {
+        node = scope.previousElementSibling;
+        while (node?.nodeName === 'HR') node = node.previousElementSibling;
+        while (node) {
+            if (isViewerNode(node)) return viewerFrom(node);
+            if (node.nodeName === 'SECTION') {
+                const within = lastViewerWithin(node);
+                if (within) return viewerFrom(within);
+            }
+            node = node.previousElementSibling;
         }
-
-        node = node.previousElementSibling;
+        const parent = scope.parentElement;
+        scope = parent && parent.nodeName === 'SECTION' ? parent : null;
     }
 }
 
@@ -990,7 +1128,8 @@ function handleStepEnter(response) {
 }
 
 function init2col() {
-    console.log("Initializing 2-column scrollytelling");
+    if (colInitialized) return; // idempotent: repeated mode toggles must not stack observers
+
     els.article = qs(SELECTORS.article);
     els.header = qs(SELECTORS.header);
     els.viewer = qs(SELECTORS.viewer);
@@ -999,17 +1138,25 @@ function init2col() {
         // Fail quietly; this script may be used on pages without the 2-col layout.
         return;
     }
+    colInitialized = true;
 
-    // Position updates on scroll/resize
-    window.addEventListener("scroll", requestPositionUpdate, { passive: true });
-    window.addEventListener("resize", requestPositionUpdate);
+    // All listeners registered through one AbortController so teardown2col
+    // can remove them wholesale.
+    colAbort = new AbortController();
+    const { signal } = colAbort;
+    window.addEventListener("scroll", requestPositionUpdate, { passive: true, signal });
+    window.addEventListener("resize", requestPositionUpdate, { signal });
+    // If images/iframes load late and change layout, reposition.
+    window.addEventListener("load", requestPositionUpdate, { signal });
 
     // Initial position (next frame is usually better than setTimeout)
     requestPositionUpdate();
 
-    setActive(document.querySelector(SELECTORS.step))
-    updateViewerForStep(document.querySelector(SELECTORS.step));
+    const firstStep = document.querySelector(SELECTORS.step);
+    setActive(firstStep);
+    updateViewerForStep(firstStep);
 
+    scroller = scrollama();
     scroller
         .setup({
             step: SELECTORS.step,
@@ -1017,21 +1164,232 @@ function init2col() {
             debug: false,
         })
         .onStepEnter(handleStepEnter);
+}
 
-    // Optional: if images/iframes load late and change layout, reposition.
-    // (Cheap, but you can remove if unnecessary.)
-    window.addEventListener("load", requestPositionUpdate);
+/** Undo everything init2col set up, returning the page to flat-mode state. */
+function teardown2col() {
+    if (!colInitialized) return;
+    colInitialized = false;
+
+    colAbort?.abort();
+    colAbort = null;
+
+    try { scroller?.destroy(); } catch { /* scrollama throws if never set up */ }
+    scroller = null;
+
+    setActive(null);
+    lastSourceEl = null;
+    if (els.viewer) {
+        els.viewer.replaceChildren();
+        els.viewer.removeAttribute("style");
+    }
+    els = { article: null, header: null, viewer: null };
+}
+
+/* ---------------------------------------------
+ * Display-mode controller (single source of truth)
+ * ------------------------------------------- */
+
+const MODE_STORAGE_KEY = "postViewMode";
+let currentMode = null; // 'flat' | 'col2' once initEntreluma/setViewMode has run
+
+function normalizeMode(value) {
+    const v = String(value || "").toLowerCase();
+    if (v === "col2" || v === "2col") return "col2";
+    if (v === "flat" || v === "col1") return "flat";
+    return null;
+}
+
+/**
+ * Resolve the initial mode. Precedence: post front matter > the reader's
+ * remembered choice (only when the toggle is enabled) > site default > flat.
+ */
+function resolveInitialMode({ pageMode, siteMode, modeToggle = true } = {}) {
+    let saved = null;
+    if (modeToggle) {
+        try { saved = normalizeMode(localStorage.getItem(MODE_STORAGE_KEY)); } catch { /* storage blocked */ }
+    }
+    return normalizeMode(pageMode) || saved || normalizeMode(siteMode) || "flat";
+}
+
+/**
+ * Switch the page between flat and two-column display. Idempotent; the only
+ * place that toggles the col1/col2 classes, persists the reader's choice,
+ * and initializes/tears down scrollytelling. Fires "entreluma:modechange"
+ * on window so UI (e.g. the toolbar toggle icon) can follow along.
+ */
+function setViewMode(mode, { persist = true } = {}) {
+    const wrapper = document.getElementById("main-wrapper");
+    if (!wrapper) return;
+
+    let effective = normalizeMode(mode) || "flat";
+    if (isMobile) effective = "flat"; // no room for two columns
+    if (effective === currentMode) return;
+    currentMode = effective;
+
+    const toCol2 = effective === "col2";
+    wrapper.classList.toggle("col2", toCol2);
+    wrapper.classList.toggle("col1", !toCol2);
+
+    if (toCol2) init2col();
+    else teardown2col();
+
+    if (persist && !isMobile) {
+        try { localStorage.setItem(MODE_STORAGE_KEY, toCol2 ? "col2" : "col1"); } catch { /* storage blocked */ }
+    }
+
+    window.dispatchEvent(new CustomEvent("entreluma:modechange", { detail: { mode: effective } }));
+}
+
+function getViewMode() {
+    return currentMode;
+}
+
+/**
+ * Page bootstrap: the one entry point layouts call. Builds the section
+ * hierarchy (both display modes), applies the initial mode, and wires up
+ * the interactive features.
+ *
+ * @param {object} cfg
+ *   pageMode / siteMode  - entreluma.mode from front matter / _config.yml
+ *   modeToggle           - whether the reader's toggle (and saved choice) applies
+ *   autoFloat, groupEmbeds, wikidataInfoPopups - feature flags (default true)
+ */
+/**
+ * Automatic attribution for Commons-hosted HEADER images. The image VIEWER
+ * builds its caption from Commons extmetadata; this is the header's
+ * equivalent — same source, same format:
+ *   Source: Wikimedia Commons • © Artist — License
+ * (the © segment only when the license requires attribution). Runs only
+ * when the layout emitted no manual line (front matter image.attribution).
+ */
+async function headerAttribution(attempt = 0) {
+  const img = document.querySelector('.preview-img img, img.preview-img');
+  if (!img) return;
+  const container = img.closest('div') || img.parentElement;
+  if (!container || container.querySelector('.sk-header-attribution')) return;
+  // Chirpy's LQIP/lazy pipeline may not have swapped the REAL src in yet at
+  // init time (the placeholder is a data: URI) — read every known location
+  // and, when none matches, retry after the image actually loads.
+  const src = img.currentSrc || img.getAttribute('data-src') || img.src || '';
+  const m = /upload\.wikimedia\.org\/wikipedia\/commons\/(?:thumb\/)?[0-9a-f]\/[0-9a-f]{2}\/([^\/]+)/.exec(src);
+  if (!m) {
+    if (attempt >= 3) return;
+    const retry = () => headerAttribution(attempt + 1);
+    if (!img.complete) img.addEventListener('load', retry, { once: true });
+    else setTimeout(retry, 800 * (attempt + 1));
+    return;
+  }
+  let file;
+  try { file = decodeURIComponent(m[1]); } catch { file = m[1]; }
+
+  try {
+    const resp = await fetch(
+      'https://commons.wikimedia.org/w/api.php?origin=*&format=json&action=query' +
+      '&titles=File:' + encodeURIComponent(file) + '&prop=imageinfo&iiprop=extmetadata');
+    if (!resp.ok) return;
+    const data = await resp.json();
+    const pages = data && data.query && data.query.pages;
+    const page = pages && Object.values(pages)[0];
+    const info = page && page.imageinfo && page.imageinfo[0];
+    const meta = {};
+    for (const [k, v] of Object.entries((info && info.extmetadata) || {})) meta[k] = v && v.value;
+
+    const stripHtml = (h) => {
+      if (!h) return null;
+      const d = document.createElement('div');
+      d.innerHTML = h;
+      const t = (d.textContent || '').replace(/\s+/g, ' ').trim();
+      return t || null;
+    };
+    const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+    const commonsUrl = 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(file.replace(/ /g, '_'));
+    const parts = ['Source: <a href="' + esc(commonsUrl) + '" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>'];
+    // Author + license ALWAYS shown for Commons headers (not only when the
+    // license technically requires it) — credit is the norm, not the floor.
+    {
+      const artist = stripHtml(meta.Artist) || 'Unknown author';
+      const license = stripHtml(meta.LicenseShortName) || stripHtml(meta.UsageTerms) || 'License';
+      const licenseHtml = meta.LicenseUrl
+        ? '<a href="' + esc(meta.LicenseUrl) + '" target="_blank" rel="license noopener noreferrer">' + esc(license) + '</a>'
+        : esc(license);
+      parts.push('\u00A9 ' + esc(artist) + ' \u2014 ' + licenseHtml);
+    }
+
+    // Auto-caption from the Commons image description when the author gave
+    // no alt AT ALL. The DOM can't distinguish absent from empty (Chirpy's
+    // "Preview Image" fallback + Liquid's default filter normalize both), so
+    // post.html emits data-sk-alt with the front-matter truth: 'absent' →
+    // auto-caption; 'empty' → the author's opt-out; alt text → figcaption
+    // already rendered server-side.
+    if (!container.querySelector('figcaption') && img.dataset.skAlt === 'absent') {
+      const desc = stripHtml(meta.ImageDescription);
+      if (desc) {
+        const fig = document.createElement('figcaption');
+        fig.className = 'text-center pt-2 pb-2';
+        fig.textContent = desc;
+        container.appendChild(fig);
+      }
+    }
+
+    const el = document.createElement('small');
+    el.className = 'sk-header-attribution text-center d-block';
+    el.innerHTML = parts.join(' \u2022 ');
+    container.appendChild(el);
+  } catch { /* offline / API hiccup — attribution is best-effort */ }
+}
+
+function initEntreluma(cfg = {}) {
+    // Trust messages from wherever this page's viewer components actually
+    // load — same-origin normally, the deployed site when a local-dev
+    // editor/preview renders this page.
+    registerComponentOrigins();
+
+    const contentEl = document.querySelector(".post-content");
+    if (contentEl) {
+        const restructured = restructureMarkdownToSections(contentEl);
+        if (restructured) contentEl.replaceWith(restructured);
+    }
+
+    // Wire interactive features before entering a display mode so that
+    // scrollytelling (if the initial mode is col2) sees the final DOM.
+    if (cfg.wikidataInfoPopups !== false) makeEntityPopups();
+    if (cfg.headerAttribution !== false) headerAttribution();
+    if (cfg.groupEmbeds !== false) wrapAdjacentEmbedsAsTabs();
+    addActionLinks();
+    if (cfg.autoFloat !== false && !isMobile) autoFloat();
+
+    setViewMode(resolveInitialMode(cfg), { persist: false });
 }
 
 
 /**
  * Restructure an HTML element (generated from Markdown) so that each heading
- * and its following content are wrapped in nested <section> elements according to heading level.
- * Additionally, any id, class, or style attributes applied to a heading (using Kramdown IAL syntax)
- * are transferred to the corresponding section.
+ * and its following content are wrapped in nested <section> elements according
+ * to heading level. Runs in BOTH display modes (flat and two-column); the
+ * scrollytelling selectors and viewer-source walk are section-aware.
  *
- * @param {element} contentEl - The HTML element from your Markdown.
- * @returns {element} - The new HTML element with nested sections.
+ * Behavior notes:
+ * - Heading attributes (id/class/style, plus click/href/target used by some
+ *   stories to make a whole section a link target) are MOVED from the heading
+ *   to its generated <section>. Kramdown's auto-generated heading ids therefore
+ *   become section ids, keeping anchors stable and linkable.
+ * - Sections that end up without an id (e.g. from hashtag-only pseudo-heading
+ *   paragraphs, which have no text for kramdown to slug) get a deterministic
+ *   fallback id "sk-section-<n>", numbered in document order, so action links
+ *   and navigation can always target them.
+ * - Skipped heading levels are tolerated: an h4 directly after an h2 nests one
+ *   level deeper (stack-based), it does not create empty intermediate sections.
+ * - Repeated heading text is safe: kramdown deduplicates auto ids (-1, -2 …)
+ *   before this code runs.
+ * - A paragraph containing only "#"/"##"… becomes a pseudo-heading of that
+ *   level; a paragraph containing only "^#"/"^##"… explicitly closes the
+ *   current section at that level without starting a new one.
+ *
+ * @param {Element} contentEl - The HTML element rendered from Markdown.
+ * @returns {Element} - A replacement element with the nested section tree.
  */
 const restructureMarkdownToSections = (contentEl) => {
     // Create a container element to hold the content.
@@ -1057,6 +1415,7 @@ const restructureMarkdownToSections = (contentEl) => {
     // Use a stack to keep track of the current section levels.
     // The stack starts with the container (level 0).
     const stack = [{ level: 0, element: container }];
+    let sectionAutoId = 0;
 
     // Get a static list of the container’s children.
     const nodes = Array.from(container.childNodes);
@@ -1094,6 +1453,10 @@ const restructureMarkdownToSections = (contentEl) => {
                     }
                 });
                 section.classList.add(`section${headingLevel}`)
+
+                // Guarantee a stable, targetable id even when the heading had
+                // none (hashtag-only pseudo-headings).
+                if (!section.id) section.id = `sk-section-${++sectionAutoId}`;
 
                 // Add "Back to top" link to section heading
                 // if (section.id) node.innerHTML = '<a href="#top" title="Back to top" style="font-size:80%; text-decoration: none;">⬆</a> ' + node.innerHTML
@@ -1146,4 +1509,15 @@ const restructureMarkdownToSections = (contentEl) => {
 /* ---------------------------------------------
  * Optional exports (if you import this elsewhere)
  * ------------------------------------------- */
-export { isMobile, autoFloat, makeEntityPopups, wrapAdjacentEmbedsAsTabs, addActionLinks, init2col, restructureMarkdownToSections };
+export {
+    isMobile,
+    autoFloat,
+    makeEntityPopups,
+    wrapAdjacentEmbedsAsTabs,
+    addActionLinks,
+    init2col,
+    restructureMarkdownToSections,
+    initEntreluma,
+    setViewMode,
+    getViewMode,
+};

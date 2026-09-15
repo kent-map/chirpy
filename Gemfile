@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
+# Keep the publishing theme pinned; coordinate upgrades with entreluma-editor.
+gem "jekyll-theme-chirpy", "= 7.6.0"
 
 gem "html-proofer", "~> 5.0", group: :test
 

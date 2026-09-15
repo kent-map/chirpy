@@ -1,98 +1,54 @@
-{%- if page.storykit.mode_toggle == nil -%}
-    {%- if site.storykit.mode_toggle == nil -%}
+{%- comment -%}
+Flat / two-column display-mode toggle button.
+All mode logic (initial mode, class toggling, scrollytelling init/teardown,
+localStorage persistence) lives in setViewMode in assets/js/entreluma.js —
+this include is only the button UI. It follows mode changes via the
+"entreluma:modechange" event so it stays in sync no matter who switches modes.
+{%- endcomment -%}
+
+{%- if page.entreluma.mode_toggle == nil -%}
+    {%- if site.entreluma.mode_toggle == nil -%}
         {%- assign toggle_enabled = true -%}
     {% else %}
-        {%- assign toggle_enabled = site.storykit.mode_toggle -%}
+        {%- assign toggle_enabled = site.entreluma.mode_toggle -%}
     {%- endif -%}
 {%- else -%}
-    {%- assign toggle_enabled = page.storykit.mode_toggle -%}
+    {%- assign toggle_enabled = page.entreluma.mode_toggle -%}
 {%- endif -%}
-
-{%- if page.storykit.mode == nil -%}    
-    {%- if site.storykit.mode == nil -%}
-        {%- assign default_mode = 'flat' -%}
-    {% else %}
-        {%- assign default_mode = site.storykit.mode -%}
-    {%- endif -%}
-{%- else -%}
-    {%- assign default_mode = page.storykit.mode -%}
-{%- endif -%}
-
-{%- if default_mode == 'flat' -%}
-    {%- assign default_class = 'col1' -%}
-{%- else -%}
-    {%- assign default_class = 'col2' -%}
-{%- endif -%}
-
 
 {%- if toggle_enabled -%}
 
-<a href="#" class="js-col2-toggle"
-    style="cursor:pointer;">
+<a href="#" role="button" class="js-col2-toggle" style="cursor:pointer;"
+   title="Toggle two-column view" aria-label="Toggle two-column view">
     <i class="fa-solid fa-table-columns" aria-hidden="true"></i>
 </a>
 
-{%- endif -%}
-
-
 <script type="module">
-    const toggleEnabled = {{ toggle_enabled | jsonify }};
-    const defaultClass = {{ default_class  | jsonify }};
+    import { isMobile, setViewMode, getViewMode } from '{{ "/assets/js/entreluma.js" | relative_url }}';
 
-    const STORAGE_KEY = 'postViewMode';
-
-    async function loadMain() {
-        const mod = await import('{{ "/assets/js/storykit.js" | relative_url }}');
-        return { isMobile: !!mod.isMobile, init2col: mod.init2col };
-    }
-
-    function setIcon(icon, isCol2) {
-        if (!icon) return;
-        icon.className = isCol2 ? 'fa-regular fa-square' : 'fa-solid fa-table-columns';
-    }
-
-    document.addEventListener('DOMContentLoaded', async () => {
-
-        const mainWrapper = document.getElementById('main-wrapper');
-
-        const btn = toggleEnabled && document.querySelector('.js-col2-toggle');
-        const icon = toggleEnabled && btn.querySelector('i');
-
-        if (!mainWrapper) return;
-
-        const { isMobile, init2col } = await loadMain();
-
-        async function setViewMode(mode) {
-            const effectiveMode = isMobile ? 'col1' : mode;
-            const toCol2 = effectiveMode === 'col2';
-
-            mainWrapper.classList.toggle('col2', toCol2);
-            mainWrapper.classList.toggle('col1', !toCol2);
-
-            setIcon(icon, toCol2);
-
-            if (toCol2 && typeof init2col === 'function') {
-                try { init2col(); }
-                catch (err) { console.error('Failed to init col2 mode:', err); }
-            }
-
-            localStorage.setItem(STORAGE_KEY, effectiveMode);
-        }
-
+    const btn = document.querySelector('.js-col2-toggle');
+    if (btn) {
         if (isMobile) {
-            btn?.remove();
-            await setViewMode('col1');
-            return;
+            /* Two-column mode is unavailable on small screens.
+               Block comment, not `//`: the production compress.html layout
+               strips newlines and a line comment would eat the rest of this
+               script (and unbalance the braces). */
+            btn.remove();
+        } else {
+            const icon = btn.querySelector('i');
+            const setIcon = (mode) => {
+                if (icon) icon.className = mode === 'col2' ? 'fa-regular fa-square' : 'fa-solid fa-table-columns';
+            };
+
+            window.addEventListener('entreluma:modechange', (e) => setIcon(e.detail.mode));
+            if (getViewMode()) setIcon(getViewMode());
+
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                setViewMode(getViewMode() === 'col2' ? 'flat' : 'col2');
+            });
         }
-
-        toggleEnabled && btn.addEventListener('click', async (e) => {
-            e.preventDefault();
-            const isCurrentlyCol2 = mainWrapper.classList.contains('col2');
-            await setViewMode(isCurrentlyCol2 ? 'col1' : 'col2');
-        });
-
-        const saved = localStorage.getItem(STORAGE_KEY);
-        const mode = toggleEnabled ? saved === 'col2' ? 'col2' : defaultClass : defaultClass;
-        await setViewMode(mode);
-    });
+    }
 </script>
+
+{%- endif -%}

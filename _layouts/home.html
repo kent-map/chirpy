@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/storykit.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/entreluma.css' | relative_url }}">
 
 <style>
     .sidebar-bottom > [href^="https://github.com"] {
@@ -20,7 +20,7 @@ layout: default
 
 {% include lang.html %}
 
-{% assign all_pinned = site.posts | where: 'pin', 'true' | sort: "title" %}
+{% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
 {% assign posts = '' | split: '' %}

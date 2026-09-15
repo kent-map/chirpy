@@ -1,11 +1,11 @@
 ---
-title: "StoryKit: Entity Info Popups"
-description: How to create rich information popups using Wikidata entities in StoryKit.
+title: "Entreluma: Entity Info Popups"
+description: How to create rich information popups using Wikidata entities in Entreluma.
 date: 2026-02-15
 toc: true
-permalink: /admin/storykit-entity-info-popups
-order: 21
-storykit:
+permalink: /admin/entreluma-entity-info-popups
+order: 27
+entreluma:
     mode: flat
     toolbar: false
 ---
@@ -42,7 +42,7 @@ storykit:
     }
 </style>
 
-StoryKit adds support for **Entity Info Popups** — lightweight, contextual information panels that appear when a reader clicks a linked term in your text.
+Entreluma adds support for **Entity Info Popups** — lightweight, contextual information panels that appear when a reader clicks a linked term in your text.
 
 They allow you to reference people, places, organizations, works, and concepts without interrupting the flow of your writing. Instead of sending readers off-site, the relevant details appear instantly in a clean, structured popup.
 
@@ -52,13 +52,12 @@ They allow you to reference people, places, organizations, works, and concepts w
 
 An Entity Info Popup is a small, on-demand information panel generated from a **Wikidata entity**.
 
-For example, instead of linking directly to Wikipedia, you can reference a person or place using its Wikidata identifier (a `Q` number). StoryKit then:
+For example, instead of linking directly to Wikipedia, you can reference a person or place using its Wikidata identifier (a `Q` number). Entreluma then:
 
-* Retrieves structured data from Wikidata
-* Displays a concise summary
+* Retrieves the entity's name and description from Wikidata
+* Displays a concise summary drawn from Wikipedia
 * Shows an image (if available)
-* Includes key facts such as dates, roles, or locations
-* Provides links to related resources (e.g., Wikipedia)
+* Provides a link to the full Wikipedia article
 
 The result is a richer reading experience with minimal effort from the author.
 
@@ -83,7 +82,7 @@ Each entity in Wikidata has:
 * Links to Wikipedia and other knowledge sources
 * Often an associated image from Wikimedia Commons
 
-Unlike Wikipedia (which is primarily narrative text), Wikidata is structured and machine-readable. That makes it ideal for dynamic components like StoryKit popups.
+Unlike Wikipedia (which is primarily narrative text), Wikidata is structured and machine-readable. That makes it ideal for dynamic components like Entreluma popups.
 
 ---
 
@@ -92,7 +91,7 @@ Unlike Wikipedia (which is primarily narrative text), Wikidata is structured and
 Creating an entity popup is simple:
 
 1. Identify the Wikidata ID (`Q` number) for the entity.
-2. Link text in your Markdown to that ID using StoryKit entity syntax.
+2. Link text in your Markdown to that ID using Entreluma entity syntax.
 
 ### Step 1: Find the Wikidata ID
 
@@ -102,7 +101,7 @@ Creating an entity popup is simple:
 
 ### Step 2: Link the Text
 
-Use the StoryKit entity reference format in your Markdown:
+Use the Entreluma entity reference format in your Markdown:
 
 ```markdown
 [Charles Darwin](Q1035)
@@ -135,15 +134,15 @@ The work of [Charles Darwin](Q1035) continues to influence modern biology, from 
 
 ## What Appears in the Popup?
 
-Depending on what Wikidata contains, the popup may include:
+Depending on what Wikidata and Wikipedia contain, the popup may include:
 
 * Title / canonical name
 * Short description
+* A summary paragraph from Wikipedia
 * Thumbnail image
-* Key properties (dates, roles, affiliations, location, etc.)
-* Link to Wikipedia
+* Link to the full Wikipedia article
 
-Because the data is structured, StoryKit can present it consistently across different types of entities.
+Because the data is structured, Entreluma can present it consistently across different types of entities.
 
 > The quality of the popup depends on the completeness of the Wikidata entry. Well-documented subjects produce better popups.
 > {: .prompt-tip }
@@ -169,7 +168,7 @@ They are particularly effective in:
 
 * Historical essays
 * Biographical writing
-* Plant humanities content
+* Digital humanities content
 * Art history discussions
 * Geographically rich narratives
 
@@ -177,15 +176,15 @@ They are particularly effective in:
 
 ## How This Fits with Chirpy and Jekyll
 
-Chirpy already supports rich formatting, attribute blocks, and structured content (see the core writing guide  and formatting examples ).
+Chirpy already supports rich formatting, attribute blocks, and structured content (see the [official Chirpy documentation](https://chirpy.cotes.page/)).
 
-StoryKit builds on that foundation by introducing semantic linking through Wikidata entities. Instead of simply formatting text, you are adding structured meaning.
+Entreluma builds on that foundation by introducing semantic linking through Wikidata entities. Instead of simply formatting text, you are adding structured meaning.
 
 From an author’s perspective:
 
 * You continue writing standard Markdown.
 * You add entity links where helpful.
-* StoryKit handles the data retrieval and display.
+* Entreluma handles the data retrieval and display.
 
 No JavaScript knowledge or API work is required.
 
@@ -209,7 +208,7 @@ Some names are ambiguous. Make sure the ID matches the intended subject.
 
 ## Summary
 
-StoryKit Entity Info Popups:
+Entreluma Entity Info Popups:
 
 * Turn plain text references into structured, interactive knowledge
 * Pull live data from Wikidata

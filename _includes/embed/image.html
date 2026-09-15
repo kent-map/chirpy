@@ -1,32 +1,44 @@
+{%- comment -%}
+Entreluma image viewer embed. Builds the component query string (each value
+escaped with cgi_escape before appending) and delegates iframe emission to
+embed/_iframe.html.
+{%- endcomment -%}
+
+{%- assign qs = "" -%}
+
 {%- if include.src -%}
   {%- capture src_final -%}
     {%- include media-url.html src=include.src width=include.width subpath=page.media_subpath -%}
   {%- endcapture -%}
-  {%- assign src_final = src_final | strip | uri_escape | replace: '&', '%26' -%}
-<!-- src_final: {{ src_final }} -->
+  {%- assign src_final = src_final | strip -%}
 
   {%- assign first_char = src_final | slice: 0, 1 -%}
   {%- if first_char == '/' -%}
     {%- assign src_final = site.url | append: src_final -%}
   {%- endif -%}
 
-  {%- assign qs = "src=" | append: src_final -%}
+  {%- assign v = src_final | cgi_escape -%}
+  {%- assign qs = "src=" | append: v -%}
 {%- endif -%}
 
 {%- if include.manifest -%}
-{%- assign qs = "manifest=" | append: include.manifest | uri_escape -%}
+{%- assign v = include.manifest | cgi_escape -%}
+{%- assign qs = "manifest=" | append: v -%}
 {%- endif -%}
 
 {%- if include.seq -%}
-{%- assign qs = qs | append: "&seq=" | append: include.seq | uri_escape -%}
+{%- assign v = include.seq | cgi_escape -%}
+{%- assign qs = qs | append: "&seq=" | append: v -%}
 {%- endif -%}
 
 {%- if include.caption -%}
-{%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
+{%- assign v = include.caption | cgi_escape -%}
+{%- assign qs = qs | append: "&caption=" | append: v -%}
 {%- endif -%}
 
 {%- if include.attribution -%}
-{%- assign qs = qs | append: "&attribution=" | append: include.attribution | uri_escape -%}
+{%- assign v = include.attribution | cgi_escape -%}
+{%- assign qs = qs | append: "&attribution=" | append: v -%}
 {%- endif -%}
 
 {%- comment -%} Strict boolean parsing for cover {%- endcomment -%}
@@ -37,22 +49,27 @@
 
 {%- comment -%} region: IIIF-like (full | x,y,w,h | pct:x,y,w,h) {%- endcomment -%}
 {%- if include.region -%}
-{%- assign qs = qs | append: "&region=" | append: include.region | uri_escape -%}
+{%- assign v = include.region | cgi_escape -%}
+{%- assign qs = qs | append: "&region=" | append: v -%}
 {%- endif -%}
 
 {%- comment -%} rotate: IIIF-like degrees, optional ! prefix for flip (e.g. !90) {%- endcomment -%}
 {%- if include.rotate -%}
-{%- assign qs = qs | append: "&rotate=" | append: include.rotate | uri_escape -%}
+{%- assign v = include.rotate | cgi_escape -%}
+{%- assign qs = qs | append: "&rotate=" | append: v -%}
 {%- endif -%}
 
-{%- assign class = "embed-image" -%}
-{%- if include.class -%}
-{%- assign class = class | append: " " | append: include.class -%}
-{%- endif -%}
+{%- comment -%} Strip a leading & left when the first parameter was absent {%- endcomment -%}
+{%- assign qs_first = qs | slice: 0, 1 -%}
+{%- if qs_first == "&" -%}{%- assign qs = qs | remove_first: "&" -%}{%- endif -%}
 
-{%- assign qs = qs | replace: '+', '%2B' %}
+{%- capture component_src -%}{{ '/assets/components/image.html' | relative_url }}?{{ qs }}{%- endcapture -%}
 
-<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="StoryKit image viewer" allow="clipboard-write"
-  src="{{ '/assets/components/image.html' | relative_url }}?{{ qs }}" allowfullscreen
-  {% if include.aspect %} style="aspect-ratio: {{ include.aspect }};" {% endif %}>
-</iframe>
+{%- include embed/_iframe.html
+      src=component_src
+      base_class="embed-image"
+      title="Entreluma image viewer"
+      id=include.id
+      class=include.class
+      aspect=include.aspect
+-%}

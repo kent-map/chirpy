@@ -10,7 +10,7 @@ featured: false
 permalink: /20c/20c-nevill-ground-suffrage/
 image: https://upload.wikimedia.org/wikipedia/commons/3/39/Nevill_Pavilion%2C_Royal_Tunbridge_Wells.jpg
 published: true
-juncture: true
+entreluma: true
 toc: false  
 ---
 

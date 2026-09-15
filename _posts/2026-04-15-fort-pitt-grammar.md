@@ -9,7 +9,7 @@ published: true
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Asylum_for_insane_soldiers%2C_Fort_Pitt%2C_Chatham%2C_Kent._1857.png
 permalink: /built/fort-pitt-grammar/
-juncture: true
+entreluma: true
 ---
 
 Having successfully passed the 11+ examination in 1976, I became a pupil of Fort Pitt Technical School for Girls in Chatham.  On 6th September, in the still oppressive heat of that infamous summer, I set out for the first time wearing the distinctive uniform of pink and white check blouse, navy blue jumper, blue wool blazer and pleated navy-blue skirt. Long white socks were regulation wear; however senior pupils were offered the option of American Tan coloured tights. 
@@ -78,4 +78,3 @@ Cooper, John. Fort Pitt: Some Notes on the History of a Napoleonic Fort, Militar
 ### References
 
 [^ref1]: Cooper, John. "Fort Pitt in War and in Peace. Chapter Nine: The Site of Fort Pitt in the 21st Century." Blogspot.com, 27 May 2024, https://fortpittinwarandinpeace.blogspot.com 
-

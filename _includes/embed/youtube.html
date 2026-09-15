@@ -1,28 +1,42 @@
-{%- comment -%} Build query string {%- endcomment -%}
-{%- assign qs = "vid=" | append: include.vid -%}
+{%- comment -%}
+Entreluma YouTube viewer embed. Builds the component query string (each
+value escaped with cgi_escape before appending) and delegates iframe
+emission to embed/_iframe.html.
+{%- endcomment -%}
+
+{%- assign v = include.vid | cgi_escape -%}
+{%- assign qs = "vid=" | append: v -%}
 
 {%- if include.caption -%}
-{%- assign qs = qs | append: "&caption=" | append: include.caption | uri_escape -%}
+{%- assign v = include.caption | cgi_escape -%}
+{%- assign qs = qs | append: "&caption=" | append: v -%}
 {%- endif -%}
 
 {%- if include.autoplay -%}
-{%- assign qs = qs | append: "&autoplay=" | append: include.autoplay | uri_escape -%}
+{%- assign v = include.autoplay | cgi_escape -%}
+{%- assign qs = qs | append: "&autoplay=" | append: v -%}
 {%- endif -%}
 
 {%- if include.start -%}
-{%- assign qs = qs | append: "&start=" | append: include.start | uri_escape -%}
+{%- assign v = include.start | cgi_escape -%}
+{%- assign qs = qs | append: "&start=" | append: v -%}
 {%- endif -%}
 
 {%- if include.end -%}
-{%- assign qs = qs | append: "&end=" | append: include.end | uri_escape -%}
+{%- assign v = include.end | cgi_escape -%}
+{%- assign qs = qs | append: "&end=" | append: v -%}
 {%- endif -%}
 
-{%- assign class = "embed-youtube" -%}
-{%- if include.class -%}
-{%- assign class = class | append: " " | append: include.class -%}
-{%- endif -%}
+{%- assign aspect = include.aspect | default: 1.55 -%}
 
-<iframe id="{{ include.id }}" class="{{ class }}" loading="lazy" title="YouTube viewer" allow="clipboard-write" allowfullscreen
-  style="aspect-ratio: {{ include.aspect | default: 1.55 }}; width: 100%;"
-  src="{{ '/assets/components/youtube.html' | relative_url }}?{{ qs }}" >
-</iframe>
+{%- capture component_src -%}{{ '/assets/components/youtube.html' | relative_url }}?{{ qs }}{%- endcapture -%}
+
+{%- include embed/_iframe.html
+      src=component_src
+      base_class="embed-youtube"
+      title="YouTube viewer"
+      id=include.id
+      class=include.class
+      aspect=aspect
+      extra_style="width: 100%;"
+-%}

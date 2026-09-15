@@ -136,11 +136,24 @@
 
     {% assign _path_prefix = _img_url | remove: _src %}
 
-    {% unless _src contains '//' %}
+    {%- assign _src_p3 = _src | slice: 0, 3 -%}
+    {% if _src_p3 == 'wc:' %}
+      <!-- Wikimedia Commons shorthand (Entreluma): media-url.html resolved the
+           wc: token into a full upload.wikimedia.org thumb URL. The resolved
+           URL does NOT end with the original src value, so the prefix trick
+           below would mangle it — replace the whole src attribute instead.
+           This makes wc: work in page.image.path (post header, home cards)
+           and in plain Markdown images, matching the viewer includes. -->
+      {% assign _final_src = _img_url %}
+      {% capture _src_old %}src="{{ _src }}"{% endcapture %}
+      {% capture _src_new %}src="{{ _img_url }}"{% endcapture %}
+      {% assign _left = _left | replace: _src_old, _src_new %}
+    {% elsif _src contains '//' %}
+    {% else %}
       {% assign _final_src = _path_prefix | append: _src %}
       {% assign _src_alt = 'src="' | append: _path_prefix %}
       {% assign _left = _left | replace: 'src="', _src_alt %}
-    {% endunless %}
+    {% endif %}
 
     {% if _lqip %}
       {% assign _lazyload = false %}
