@@ -4,7 +4,7 @@ description: "E.M. Forster’s formative years in Kent link Tonbridge School, No
 author: Diana Hirst
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Countryside & farming, Representation & interpretation ]
+tags: [ Authors, Literary places, Towns & cities, Countryside & farming ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3df3254-575f-4f32-ae8b-198c806e9d50.jpg
 permalink: /20c/20c-forster-em-biography/
 published: true
