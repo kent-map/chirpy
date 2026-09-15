@@ -4,7 +4,7 @@ description: "William Pett Ridge’s Kent childhood in Chilham, Marden, and Padd
 author: Michelle Crowther
 date: 2024-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Travel & mobility, Countryside & farming ]
+tags: [ Authors, Texts & genres, Travel & mobility, Countryside & farming ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/08/Chilham%2C_Shelly%27s_Tea_Room_-_geograph.org.uk_-_4831929.jpg
 permalink: /20c/20c-pett-ridge-biography/
 published: true
