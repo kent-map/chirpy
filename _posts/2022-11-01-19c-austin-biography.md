@@ -4,7 +4,7 @@ description: "Alfred Austin faced the invidious prospect of succeeding Tennyson 
 author: Professor Carolyn Oulton
 date: 2022-11-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Culture & society, Texts & genres ]
+tags: [ Poets, Literary places, Culture & society, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-austin-biography/
 published: true
