@@ -100,6 +100,11 @@ jobs:
         uses: actions/configure-pages@v5
         # Select GitHub Actions in Settings > Pages before the first deployment.
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -129,6 +134,9 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Build Pagefind search index
+        run: npx --yes pagefind@1.5.2 --site "_site${{ steps.pages.outputs.base_path }}"
+
       - name: Check repo consistency
         run: python3 tools/check_consistency.py
 
@@ -137,6 +145,9 @@ jobs:
 
       - name: Verify Vimeo helpers
         run: node --test tools/test_vimeo.mjs
+
+      - name: Verify Pagefind integration helpers
+        run: node --test tools/test_pagefind.mjs
 
       - name: Verify local media rendering
         run: bundle exec ruby tools/prove_local_media.rb

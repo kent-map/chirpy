@@ -1,0 +1,69 @@
+<!-- Pagefind search with a Simple-Jekyll-Search fallback for local development. -->
+
+{% capture result_elem %}
+  <article class="px-1 px-sm-2 px-lg-4 px-xl-0">
+    <header>
+      <h2><a href="{url}">{title}</a></h2>
+      <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
+        {categories}
+        {tags}
+      </div>
+    </header>
+    <p>{content}</p>
+  </article>
+{% endcapture %}
+
+{% capture not_found %}<p class="mt-5">{{ site.data.locales[include.lang].search.no_results }}</p>{% endcapture %}
+
+<script type="module">
+  import { mountEntrelumaPagefind } from {{ '/assets/js/entreluma-pagefind.mjs' | relative_url | jsonify }};
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('search-results');
+
+    mountEntrelumaPagefind({
+      input,
+      results,
+      notFoundHtml: {{ not_found | strip_newlines | jsonify }},
+      pagefindUrl: {{ '/pagefind/pagefind.js' | relative_url | jsonify }},
+      baseUrl: {{ site.baseurl | default: '' | jsonify }},
+      production: {% if jekyll.environment == 'production' %}true{% else %}false{% endif %},
+      fallback: async () => {
+        if (typeof SimpleJekyllSearch !== 'function') {
+          console.error('Neither Pagefind nor Chirpy search is available.');
+          return;
+        }
+
+        try {
+          const response = await fetch({{ '/assets/js/data/search.json' | relative_url | jsonify }});
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const documents = await response.json();
+
+          SimpleJekyllSearch({
+            searchInput: input,
+            resultsContainer: results,
+            json: documents,
+            searchResultTemplate: {{ result_elem | strip_newlines | jsonify }},
+            noResultsText: {{ not_found | strip_newlines | jsonify }},
+            templateMiddleware: (prop, value) => {
+              if (prop === 'categories' && value !== '') {
+                return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+              }
+              if (prop === 'tags' && value !== '') {
+                return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+              }
+              return value;
+            }
+          });
+
+          if (input.value.trim() !== '') {
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+          }
+        } catch (error) {
+          console.error('Chirpy search fallback failed to load.', error);
+        }
+      }
+    });
+  });
+</script>

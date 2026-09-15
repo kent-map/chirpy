@@ -333,7 +333,7 @@ script_includes:
   {% endif %}
 
   <main>
-    <div class="content post-content">{{ content }}</div>
+    <div class="content post-content"{% if page.collection == 'posts' %} data-pagefind-body{% endif %}>{{ content }}</div>
     <div class="viewer"></div>
   </main>
 

@@ -74,6 +74,15 @@
     {%- endif -%}
   </title>
 
+  {% if page.collection == 'posts' %}
+    {% if page.categories and page.categories != empty %}
+      <meta data-pagefind-meta="categories[content]" content="{{ page.categories | join: ', ' | escape }}">
+    {% endif %}
+    {% if page.tags and page.tags != empty %}
+      <meta data-pagefind-meta="tags[content]" content="{{ page.tags | join: ', ' | escape }}">
+    {% endif %}
+  {% endif %}
+
   {% include_cached favicons.html %}
 
   <!-- Resource Hints -->

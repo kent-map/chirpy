@@ -20,6 +20,12 @@ Shoelace loads an internal lazy module graph, so it is pinned but not SRI'd.
 | js-md5 | 0.8.3 | `assets/js/entreluma.js`, `assets/components/image.html` (import) | no (import) |
 | Font Awesome | 6.5.x | `_includes/sidebar.html` etc. (via Chirpy), `assets/components/map.html` (6.5.0) | no |
 
+## Build-time dependencies
+
+| Dependency | Version | Referenced in | Purpose |
+|---|---|---|---|
+| Pagefind | 1.5.2 | `.github/workflows/pages-deploy.yml`, `docs/search.md` | Generates the static production search index after Jekyll builds |
+
 ## Components (iframe viewers)
 
 | Dependency | Version | Referenced in | SRI |
