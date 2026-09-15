@@ -4,7 +4,7 @@ description: "Daphne Oram, pioneer of electronic music, turned down a place at t
 author: Emma Latham
 date: 2023-01-25
 categories: [ 20c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Arts & performance ]
+tags: [ Music & musicians, Science & ideas, Towns & cities, Arts & performance ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ed545935-aca9-4569-9b43-54e1f11d3e99.jpg
 permalink: /20c/20c-oram-biography/
 published: true
