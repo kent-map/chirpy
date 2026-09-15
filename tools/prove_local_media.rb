@@ -42,6 +42,8 @@ Dir.mktmpdir('entreluma-media-proof-') do |output|
 
       {% include embed/image.html id="manifest-proof" manifest="https://images.example/manifest.json" src="#{src}" %}
 
+      {% include embed/vimeo.html id="vimeo-proof" vid="76979871" hash="8272103f6e" caption="Vimeo & proof" autoplay="true" start="1:30" end="2:15" %}
+
       {% include embed/map.html id="data-proof" geojson="#{src.sub('photo.png', 'data.geojson')}~Lake" %}
 
       [Download CSV](<{{ '/assets/posts/proof/data.csv' | relative_url }}>)
@@ -105,6 +107,16 @@ Dir.mktmpdir('entreluma-media-proof-') do |output|
       manifest_query = CGI.parse(URI.parse(manifest_viewer).query || '')
       raise 'IIIF manifest missing from viewer query' unless manifest_query['manifest'].first == 'https://images.example/manifest.json'
       raise 'IIIF manifest fallback changed' unless manifest_query['src'].first == expected
+      vimeo_viewer = CGI.unescapeHTML(html[/<iframe\b[^>]*\bid="vimeo-proof"[^>]*src="([^"]+)"/, 1] || '')
+      vimeo_uri = URI.parse(vimeo_viewer)
+      vimeo_query = CGI.parse(vimeo_uri.query || '')
+      raise 'Vimeo component path changed' unless vimeo_uri.path == "#{baseurl}/assets/components/vimeo.html"
+      raise 'Vimeo id missing from viewer query' unless vimeo_query['vid'].first == '76979871'
+      raise 'Vimeo hash missing from viewer query' unless vimeo_query['hash'].first == '8272103f6e'
+      raise 'Vimeo caption escaping changed' unless vimeo_query['caption'].first == 'Vimeo & proof'
+      raise 'Vimeo autoplay missing from viewer query' unless vimeo_query['autoplay'].first == 'true'
+      raise 'Vimeo start missing from viewer query' unless vimeo_query['start'].first == '1:30'
+      raise 'Vimeo end missing from viewer query' unless vimeo_query['end'].first == '2:15'
       map = CGI.unescapeHTML(html[/<iframe\b[^>]*\bid="data-proof"[^>]*src="([^"]+)"/, 1] || '')
       geojson = CGI.parse(URI.parse(map).query || '')['geojson'].first
       geojson = 'https://site.example' + geojson if geojson&.start_with?('/')

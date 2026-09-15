@@ -1,0 +1,47 @@
+{%- comment -%}
+Entreluma Vimeo viewer embed. Builds the component query string (each value
+escaped with cgi_escape before appending) and delegates iframe emission to
+embed/_iframe.html.
+{%- endcomment -%}
+
+{%- assign v = include.vid | cgi_escape -%}
+{%- assign qs = "vid=" | append: v -%}
+
+{%- if include.hash -%}
+{%- assign v = include.hash | cgi_escape -%}
+{%- assign qs = qs | append: "&hash=" | append: v -%}
+{%- endif -%}
+
+{%- if include.caption -%}
+{%- assign v = include.caption | cgi_escape -%}
+{%- assign qs = qs | append: "&caption=" | append: v -%}
+{%- endif -%}
+
+{%- if include.autoplay -%}
+{%- assign v = include.autoplay | cgi_escape -%}
+{%- assign qs = qs | append: "&autoplay=" | append: v -%}
+{%- endif -%}
+
+{%- if include.start -%}
+{%- assign v = include.start | cgi_escape -%}
+{%- assign qs = qs | append: "&start=" | append: v -%}
+{%- endif -%}
+
+{%- if include.end -%}
+{%- assign v = include.end | cgi_escape -%}
+{%- assign qs = qs | append: "&end=" | append: v -%}
+{%- endif -%}
+
+{%- assign aspect = include.aspect | default: 1.55 -%}
+
+{%- capture component_src -%}{{ '/assets/components/vimeo.html' | relative_url }}?{{ qs }}{%- endcapture -%}
+
+{%- include embed/_iframe.html
+      src=component_src
+      base_class="embed-vimeo"
+      title="Vimeo viewer"
+      id=include.id
+      class=include.class
+      aspect=aspect
+      extra_style="width: 100%;"
+-%}

@@ -108,7 +108,7 @@ When you use a Wikidata ID (a `Q` number), the location is looked up automatical
 
 Clicking the **same** fly-to link a second time returns the map to where it was before — readers can peek at a location and come right back.
 
-### YouTube Viewer — `playat`, `play`, `pause`
+### YouTube and Vimeo Viewers — `playat`, `play`, `pause`
 
 | Action | Arguments | Example |
 |---|---|---|
@@ -116,7 +116,7 @@ Clicking the **same** fly-to link a second time returns the map to where it was 
 | `play` | optional `start` time | `[Resume the video](vid1/play)` |
 | `pause` | none | `[Pause here](vid1/pause)` |
 
-`playat` opens the expanded viewer and plays from `start`, stopping at `end` if given. See the [YouTube Viewer guide](entreluma-youtube-viewer) for time format details.
+`playat` opens the expanded viewer and plays from `start`, stopping at `end` if given. Both video viewers use the same action syntax; see the [YouTube Viewer](entreluma-youtube-viewer) and [Vimeo Viewer](entreluma-vimeo-viewer) guides for details.
 
 ### Viewers Without Actions
 

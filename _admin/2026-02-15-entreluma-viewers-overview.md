@@ -22,6 +22,7 @@ This page lists every available viewer so you can pick the right one. Each viewe
 | [Map](entreluma-map-viewer) | `embed/map.html` | Interactive maps with markers, GeoJSON overlays, and historical map layers. Text links can fly the map to a location. |
 | [Image Compare](entreluma-image-compare-viewer) | `embed/image-compare.html` | Before/after sliders: then-and-now photographs, restorations, X-rays of paintings. |
 | [YouTube](entreluma-youtube-viewer) | `embed/youtube.html` | Video with a clean inline preview. Text links can play a specific segment. |
+| [Vimeo](entreluma-vimeo-viewer) | `embed/vimeo.html` | Vimeo video with a poster preview, expanded playback, unlisted-video hashes, and timed action links. |
 | [Network](entreluma-vis-network-viewer) | `embed/vis-network.html` | Node-and-edge relationship diagrams built from simple CSV data in your post. |
 | [Iframe](entreluma-iframe-viewer) | `embed/iframe.html` | Anything else — embed an external web page, exhibit, or widget. |
 

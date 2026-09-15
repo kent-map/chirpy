@@ -175,9 +175,11 @@ function showDialog({ aspect, src } = {}, localAssignment = null) {
     iframe.style.width = "100%";
     iframe.style.aspectRatio = String(aspect);
     iframe.loading = "lazy";
-    iframe.allow = "clipboard-write";
     iframe.setAttribute("allowfullscreen", "");
-    iframe.setAttribute("allow", "autoplay; encrypted-media");
+    iframe.setAttribute(
+        "allow",
+        "autoplay; encrypted-media; fullscreen; picture-in-picture; clipboard-write"
+    );
     iframe.src = srcUrl.toString();
     // Only inherit a local assignment from the registered sending viewer.
     // The resource broker also checks the exact runtime URL and generation.
@@ -304,6 +306,7 @@ function wrapAdjacentEmbedsAsTabs({
         if (node.classList.contains('embed-map')) return "fa-solid fa-map-pin";
         if (node.classList.contains('embed-image-compare')) return "fa-regular fa-images";
         if (node.classList.contains('embed-youtube')) return "fa-brands fa-youtube";
+        if (node.classList.contains('embed-vimeo')) return "fa-brands fa-vimeo-v";
         if (node.classList.contains('iframe-wrapper')) return "fa-regular fa-file-lines";
         return "fa-solid fa-square";
     },

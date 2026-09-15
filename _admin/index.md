@@ -43,6 +43,7 @@ Viewers are the interactive elements you add to a post with a simple include tag
 | [Map Viewer](entreluma-map-viewer) | Interactive maps with markers, overlays, and fly-to actions |
 | [Image Compare Viewer](entreluma-image-compare-viewer) | Before/after image slider with alignment tools |
 | [YouTube Viewer](entreluma-youtube-viewer) | Clean video previews with timed playback actions |
+| [Vimeo Viewer](entreluma-vimeo-viewer) | Vimeo poster previews, expanded playback, and timed playback actions |
 | [Network Viewer](entreluma-vis-network-viewer) | Node-and-edge relationship diagrams from simple CSV data |
 | [Iframe Viewer](entreluma-iframe-viewer) | Embed any external web page or widget |
 | [Entity Info Popups](entreluma-entity-info-popups) | Contextual popups powered by Wikidata |

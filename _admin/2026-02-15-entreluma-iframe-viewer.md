@@ -48,7 +48,7 @@ The iframe viewer is the general-purpose embed: it places any external web page 
 
 Use it when none of the specialized viewers fits — digital exhibits, library viewers (like the Biodiversity Heritage Library), data dashboards, interactive timelines, or any web resource that offers an embeddable URL.
 
-Use a specialized viewer instead when one exists for your content: the [Image](entreluma-image-viewer), [Map](entreluma-map-viewer), [Image Compare](entreluma-image-compare-viewer), [YouTube](entreluma-youtube-viewer), and [Network](entreluma-vis-network-viewer) viewers all offer interactivity that a plain iframe can't (zooming, action links, and so on).
+Use a specialized viewer instead when one exists for your content: the [Image](entreluma-image-viewer), [Map](entreluma-map-viewer), [Image Compare](entreluma-image-compare-viewer), [YouTube](entreluma-youtube-viewer), [Vimeo](entreluma-vimeo-viewer), and [Network](entreluma-vis-network-viewer) viewers all offer interactivity that a plain iframe can't (zooming, action links, and so on).
 
 ## Attributes
 

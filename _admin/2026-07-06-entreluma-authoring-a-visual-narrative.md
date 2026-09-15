@@ -750,7 +750,9 @@ You can list multiple basemaps separated by `|` to offer a layer-switcher contro
 
 The complete reference is in the [Map Viewer guide](entreluma-map-viewer).
 
-## 4.4 YouTube Viewer
+## 4.4 Video Viewers
+
+### YouTube Viewer
 
 The YouTube Viewer embeds a YouTube video as a clean preview. When the reader clicks the preview, an expanded player opens at full width. No video loads until the reader chooses to play, which keeps your page fast.
 
@@ -775,6 +777,20 @@ Useful optional attributes:
 | `id` | Required for action links (see §4.5). |
 
 Combine `start` and `end` to highlight a specific clip from a longer video. The complete reference is in the [YouTube Viewer guide](entreluma-youtube-viewer).
+
+### Vimeo Viewer
+
+The Vimeo viewer uses the same clean preview, expanded player, timing attributes, and action-link syntax. Supply the numeric Vimeo ID and, for an unlisted video, its privacy hash:
+
+```liquid
+{% raw %}{% include embed/vimeo.html
+    vid="19231868"
+    caption="A Vimeo video"
+%}{% endraw %}
+```
+{: .nolineno }
+
+Use `hash="..."` when the Vimeo share URL contains a value after the numeric ID. See the [Vimeo Viewer guide](entreluma-vimeo-viewer) for public and unlisted examples.
 
 ## 4.5 Zoom-to and Fly-to Animations
 
@@ -884,9 +900,9 @@ Monument Valley sits between
 
 When the reader clicks either link, the map flies to that point and zooms in.
 
-### Play-at on a YouTube viewer
+### Play-at on a YouTube or Vimeo viewer
 
-Use `playat` to open a YouTube viewer at a specific timestamp. The argument is `start` or `start,end`.
+Use `playat` to open either video viewer at a specific timestamp. The argument is `start` or `start,end`.
 
 ```markdown
 [Watch the chorus](vid1/playat/42,75)
@@ -902,6 +918,7 @@ This opens the expanded video, seeks to 0:42, and stops at 1:15.
 | Image | `zoomto` | `pct:x,y,w,h` | Open the viewer zoomed to a percentage region |
 | Map | `flyto` | `lat,lng,zoom` or `Q-id,zoom` | Animate the map to a new view |
 | YouTube | `playat` | `start` or `start,end` | Open the expanded video at a time |
+| Vimeo | `playat` | `start` or `start,end` | Open the expanded video at a time |
 
 <blockquote class="prompt-warning"><p>Action links only work when the viewer is on the same page. If clicking a link does nothing, check that the <code>id</code> in the link exactly matches the <code>id</code> on the viewer's include tag.</p></blockquote>
 
@@ -1198,6 +1215,7 @@ A condensed cheat sheet for everything in Part 4.
 | Show a before/after pair with a draggable divider | `{% raw %}{% include embed/image-compare.html before="..." after="..." %}{% endraw %}` |
 | Show an interactive map | `{% raw %}{% include embed/map.html center="..." %}{% endraw %}` |
 | Embed a YouTube video | `{% raw %}{% include embed/youtube.html vid="..." %}{% endraw %}` |
+| Embed a Vimeo video | `{% raw %}{% include embed/vimeo.html vid="..." %}{% endraw %}` |
 | Draw a relationship diagram from CSV lines | `{% raw %}{% include embed/vis-network.html id="..." %}{% endraw %}` plus a `{% raw %}{: #...-csv }{% endraw %}` data block |
 | Embed anything else (e.g. Timeline JS) | `{% raw %}{% include embed/iframe.html src="..." %}{% endraw %}` |
 | Add a Mermaid diagram | Fenced code block labelled `mermaid` (requires `mermaid: true` in front matter) |

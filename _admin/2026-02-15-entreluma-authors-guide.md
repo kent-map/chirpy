@@ -151,6 +151,7 @@ Using the Entreluma extensions interactive images, maps, videos and more can eas
 - [Map Viewer](entreluma-map-viewer)
 - [Image Compare Viewer](entreluma-image-compare-viewer)
 - [YouTube Viewer](entreluma-youtube-viewer)
+- [Vimeo Viewer](entreluma-vimeo-viewer)
 - [Network Viewer](entreluma-vis-network-viewer)
 - [Iframe Viewer](entreluma-iframe-viewer)
 - [Entity Info Popups](entreluma-entity-info-popups)

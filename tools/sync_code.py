@@ -48,6 +48,7 @@ FILES_TO_SYNC = (
     "_admin/2026-02-15-entreluma-vis-network-viewer.md",
     "_admin/2026-02-15-entreluma-youtube-viewer.md",
     "_admin/2026-07-06-entreluma-authoring-a-visual-narrative.md",
+    "_admin/2026-09-14-entreluma-vimeo-viewer.md",
     "_admin/index.md",
     "_data/contact.yml",
     "_data/share.yml",
@@ -59,6 +60,7 @@ FILES_TO_SYNC = (
     "_includes/embed/image.html",
     "_includes/embed/map.html",
     "_includes/embed/vis-network.html",
+    "_includes/embed/vimeo.html",
     "_includes/embed/youtube.html",
     "_includes/featured_posts.html",
     "_includes/footer.html",
@@ -78,6 +80,7 @@ FILES_TO_SYNC = (
     "assets/components/image.html",
     "assets/components/map.html",
     "assets/components/vis-network.html",
+    "assets/components/vimeo.html",
     "assets/components/youtube.html",
     "assets/css/entreluma.css",
     "assets/entreluma-preview.json",
@@ -87,6 +90,7 @@ FILES_TO_SYNC = (
     "assets/js/entreluma-component.js",
     "assets/js/entreluma-iiif.mjs",
     "assets/js/entreluma-local-image.js",
+    "assets/js/entreluma-vimeo.mjs",
     "assets/js/entreluma.js",
     "assets/js/vendor/Leaflet.SmoothWheelZoom.js",
     "docs/dependencies.md",
@@ -97,6 +101,7 @@ FILES_TO_SYNC = (
     "tools/prove_local_media.rb",
     "tools/sync_code.py",
     "tools/test_iiif.mjs",
+    "tools/test_vimeo.mjs",
 )
 
 

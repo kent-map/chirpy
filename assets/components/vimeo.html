@@ -1,0 +1,340 @@
+<!doctype html>
+<!--
+  Vimeo video viewer component.
+
+  Preview mode shows an oEmbed poster/title and asks the Entreluma host to
+  open this component in a dialog when clicked. Max mode loads Vimeo's Player
+  SDK and supports autoplay, start/end times, and playat/play/pause actions.
+-->
+<html lang="en">
+<head>
+  <meta name="robots" content="noindex">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
+  <title>Vimeo</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: white; }
+    body { font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif; }
+    figure { display: flex; flex-direction: column; margin: 0; }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      background: #111;
+    }
+    #vimeoPlayer, .video-wrapper iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .poster {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      background: #111;
+    }
+    .click-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      border: 0;
+      padding: 0;
+      cursor: pointer;
+      color: white;
+      background: transparent;
+    }
+    .play-symbol {
+      display: grid;
+      place-items: center;
+      width: 68px;
+      height: 48px;
+      border-radius: 8px;
+      background: #1ab7ea;
+      box-shadow: 0 2px 12px rgb(0 0 0 / 35%);
+      transition: transform 120ms ease, background 120ms ease;
+    }
+    .play-symbol::before {
+      content: "";
+      width: 0;
+      height: 0;
+      margin-left: 4px;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+      border-left: 17px solid currentColor;
+    }
+    .click-overlay:hover .play-symbol { transform: scale(1.06); background: #1295bf; }
+    .click-overlay:focus-visible { outline: 3px solid #1ab7ea; outline-offset: -3px; }
+    .message {
+      position: absolute;
+      inset: 0;
+      z-index: 4;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      text-align: center;
+      color: white;
+      background: #222;
+    }
+    figcaption {
+      min-height: 37px;
+      padding: 6px 8px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1.4;
+      color: #6d6c6c;
+      color-scheme: light;
+      -webkit-font-smoothing: antialiased;
+    }
+    .caption-label {
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 1;
+    }
+    figcaption a { color: inherit; }
+    .print-url { display: none; }
+    @media print {
+      .video-wrapper iframe, .click-overlay, .message { display: none !important; }
+      .poster { display: block !important; }
+      .print-url {
+        display: block !important;
+        margin-top: 4px;
+        font-size: 0.9em;
+        word-break: break-all;
+      }
+    }
+  </style>
+</head>
+<body>
+  <figure>
+    <div class="video-wrapper">
+      <div id="vimeoPlayer"></div>
+      <img id="poster" class="poster" alt="">
+      <div id="message" class="message" role="status"></div>
+    </div>
+    <figcaption>
+      <span class="caption-label" id="videoTitle"></span>
+      <a id="caption-print-url" class="print-url" target="_blank" rel="noopener noreferrer"></a>
+    </figcaption>
+  </figure>
+
+  <script src="../js/entreluma-component.js"></script>
+  <script type="module">
+    import { marked } from "https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js";
+    import {
+      buildVimeoWatchUrl,
+      buildVimeoPlayerUrl,
+      buildExpandedVimeoUrl,
+      normalizeVimeoHash,
+      normalizeVimeoVideoId,
+      parseVimeoPlaybackRange,
+      parseVimeoTime,
+    } from "../js/entreluma-vimeo.mjs";
+
+    const params = new URLSearchParams(location.search);
+    const boolParam = (name, fallback = false) => {
+      if (!params.has(name)) return fallback;
+      return ['', 'true', '1'].includes(String(params.get(name)).toLowerCase());
+    };
+    const mdToHtml = (markdown) => {
+      const html = marked.parse(String(markdown || '')).trim();
+      const paragraph = html.match(/^<p>([\s\S]*)<\/p>$/i);
+      return paragraph ? paragraph[1] : html;
+    };
+
+    const wrapper = document.querySelector('.video-wrapper');
+    const playerRoot = document.getElementById('vimeoPlayer');
+    const poster = document.getElementById('poster');
+    const message = document.getElementById('message');
+    const videoTitle = document.getElementById('videoTitle');
+    const captionUrl = document.getElementById('caption-print-url');
+    let player = null;
+    let stopAt = null;
+
+    function showError(text) {
+      message.textContent = text;
+      message.style.display = 'flex';
+    }
+
+    function readTime(name) {
+      const raw = params.get(name);
+      if (raw == null || raw.trim() === '') return null;
+      const value = parseVimeoTime(raw);
+      if (value == null) throw new Error(`Invalid ${name} time: ${raw}`);
+      return value;
+    }
+
+    function loadVimeoSdk() {
+      return new Promise((resolve, reject) => {
+        if (window.Vimeo?.Player) return resolve(window.Vimeo);
+        const script = document.createElement('script');
+        script.src = 'https://player.vimeo.com/api/player.js';
+        script.onload = () => window.Vimeo?.Player
+          ? resolve(window.Vimeo)
+          : reject(new Error('Vimeo Player SDK did not initialize'));
+        script.onerror = () => reject(new Error('Failed to load Vimeo Player SDK'));
+        document.head.appendChild(script);
+      });
+    }
+
+    function expandedUrl({ autoplay, start, end } = {}) {
+      const overrides = {};
+      if (autoplay !== undefined) overrides.autoplay = autoplay;
+      if (start !== undefined) overrides.start = start;
+      if (end !== undefined) overrides.end = end;
+      return buildExpandedVimeoUrl(location.href, overrides);
+    }
+
+    async function loadMetadata(watchUrl, explicitCaption) {
+      if (explicitCaption) videoTitle.innerHTML = mdToHtml(explicitCaption);
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 8000);
+      try {
+        const endpoint = `https://vimeo.com/api/oembed.json?url=${encodeURIComponent(watchUrl)}`;
+        const response = await fetch(endpoint, { signal: controller.signal, credentials: 'omit' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const metadata = await response.json();
+        if (metadata.thumbnail_url) {
+          poster.src = metadata.thumbnail_url;
+          poster.alt = metadata.title ? `Video poster: ${metadata.title}` : 'Video poster image';
+        }
+        if (!explicitCaption && metadata.title) videoTitle.textContent = metadata.title;
+      } catch (error) {
+        console.warn('Vimeo oEmbed fetch failed:', error);
+      } finally {
+        clearTimeout(timeout);
+      }
+    }
+
+    function registerActions() {
+      Entreluma.onAction(async ({ action, args }) => {
+        if (action === 'playat') {
+          const range = parseVimeoPlaybackRange(args[0]);
+          if (!range) {
+            console.warn('Vimeo playat ignored: invalid start/end range');
+            return;
+          }
+          Entreluma.showDialog(expandedUrl({ autoplay: true, ...range }), 1.7);
+          return;
+        }
+        if (action === 'play' && player) {
+          const start = args[0] ? parseVimeoTime(args[0]) : null;
+          if (args[0] && start == null) {
+            console.warn('Vimeo play ignored: invalid start time');
+            return;
+          }
+          try {
+            if (start != null) await player.setCurrentTime(start);
+            await player.play();
+          } catch (error) {
+            console.warn('Vimeo play action failed:', error);
+          }
+          return;
+        }
+        if (action === 'pause' && player) {
+          try { await player.pause(); } catch (_) { /* player may not be ready */ }
+        }
+      });
+    }
+
+    function addPreviewButton() {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'click-overlay';
+      button.setAttribute('aria-label', 'Open Vimeo video');
+      button.innerHTML = '<span class="play-symbol" aria-hidden="true"></span>';
+      button.addEventListener('click', () => Entreluma.showDialog(expandedUrl(), 1.7));
+      wrapper.appendChild(button);
+    }
+
+    async function initializePlayer(props) {
+      const iframe = document.createElement('iframe');
+      iframe.src = buildVimeoPlayerUrl(props.videoId, props.hash, { autoplay: props.autoplay });
+      iframe.title = 'Vimeo video player';
+      iframe.allowFullscreen = true;
+      iframe.setAttribute(
+        'allow',
+        'autoplay; fullscreen; picture-in-picture; encrypted-media; clipboard-write',
+      );
+      playerRoot.replaceChildren(iframe);
+      poster.style.display = 'none';
+
+      try {
+        const Vimeo = await loadVimeoSdk();
+        player = new Vimeo.Player(iframe);
+        stopAt = props.end;
+        player.on('timeupdate', async ({ seconds }) => {
+          if (stopAt == null || seconds < stopAt) return;
+          stopAt = null;
+          try { await player.pause(); } catch (_) { /* player may be closing */ }
+        });
+        await player.ready();
+        if (props.start > 0) {
+          await player.setCurrentTime(props.start);
+          if (!props.autoplay) await player.pause();
+        }
+        if (props.autoplay) await player.play();
+      } catch (error) {
+        // The iframe remains a usable native Vimeo player even if the
+        // optional SDK controls are blocked by a network/privacy tool.
+        console.warn('Vimeo timed controls are unavailable:', error);
+      }
+    }
+
+    async function init() {
+      const videoId = normalizeVimeoVideoId(params.get('vid'));
+      const rawHash = params.get('hash');
+      const hash = normalizeVimeoHash(rawHash);
+      if (!videoId) return showError('Missing or invalid Vimeo video id.');
+      if (rawHash && !hash) return showError('Invalid Vimeo unlisted-video hash.');
+
+      let start;
+      let end;
+      try {
+        start = readTime('start');
+        end = readTime('end');
+      } catch (error) {
+        return showError(error.message);
+      }
+      if (end != null && end <= (start || 0)) {
+        return showError('The Vimeo end time must be after the start time.');
+      }
+
+      const watchUrl = buildVimeoWatchUrl(videoId, hash);
+      captionUrl.href = watchUrl;
+      captionUrl.textContent = watchUrl;
+      registerActions();
+      loadMetadata(watchUrl, params.get('caption'));
+
+      if (!boolParam('max')) {
+        addPreviewButton();
+        return;
+      }
+
+      await initializePlayer({
+        videoId,
+        hash,
+        autoplay: boolParam('autoplay'),
+        start,
+        end,
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>

@@ -77,6 +77,9 @@ Actions by component:
 | youtube | `playat` | `start[,end]`, seconds or `h:mm:ss` |
 | youtube | `play` | optional `start` |
 | youtube | `pause` | (none) |
+| vimeo | `playat` | `start[,end]`, seconds or `h:mm:ss` |
+| vimeo | `play` | optional `start` |
+| vimeo | `pause` | (none) |
 | image-compare, vis-network, iframe | — | no actions |
 
 ### `entreluma:id` (reply to `entreluma:getId`)

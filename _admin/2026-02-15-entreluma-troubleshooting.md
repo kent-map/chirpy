@@ -29,7 +29,7 @@ This is the most common Entreluma problem, and it is almost always an `id` misma
 
 2. **The link's first segment doesn't match the `id`.** The match is exact and case-sensitive: a link starting `img1/` will not find a viewer with `id="Img1"` or `id="image1"`.
 
-3. **The action name is wrong for that viewer.** Each viewer supports specific actions — `zoomto` is an image action, `flyto` is a map action, `playat` is a YouTube action. See the [Action Links reference](entreluma-action-links) for the full table.
+3. **The action name is wrong for that viewer.** Each viewer supports specific actions — `zoomto` is an image action, `flyto` is a map action, and `playat` is a YouTube or Vimeo action. See the [Action Links reference](entreluma-action-links) for the full table.
 
 4. **The arguments are malformed.** Check for missing commas, extra spaces, or a missing `pct:` prefix where percentages were intended.
 
@@ -37,8 +37,8 @@ This is the most common Entreluma problem, and it is almost always an `id` misma
 
 **Symptom:** Where the viewer should be, there's an empty box, a broken layout, or nothing at all.
 
-- **Check the include path.** The tag must name a real include file: `embed/image.html`, `embed/map.html`, `embed/image-compare.html`, `embed/youtube.html`, `embed/vis-network.html`, or `embed/iframe.html`. A typo here (e.g. `embed/img.html`) renders nothing.
-- **Check required attributes.** Every viewer has one or two attributes it cannot work without — `src` or `manifest` for images, `center` for maps, `before`/`after` for image compare, `vid` for YouTube. The viewer's reference page lists them.
+- **Check the include path.** The tag must name a real include file: `embed/image.html`, `embed/map.html`, `embed/image-compare.html`, `embed/youtube.html`, `embed/vimeo.html`, `embed/vis-network.html`, or `embed/iframe.html`. A typo here (e.g. `embed/img.html`) renders nothing.
+- **Check required attributes.** Every viewer has one or two attributes it cannot work without — `src`, `iiif`, or `manifest` for images; `center` for maps; `before`/`after` for image compare; and `vid` for YouTube or Vimeo. The viewer's reference page lists them.
 - **Check the file path or URL.** If `src` points at a local image, the file must actually exist at that path (see the next section for `media_subpath` pitfalls). If it's a remote URL, open it directly in a browser tab to confirm it loads.
 - **Check the Liquid syntax.** A missing `%}` or a smart-quote (`”`) pasted from a word processor instead of a straight quote (`"`) will break the tag. Retype the quotes if you pasted the tag from anywhere.
 
