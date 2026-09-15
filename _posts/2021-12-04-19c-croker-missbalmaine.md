@@ -4,7 +4,7 @@ description: "Michelle Crowther outlines the plot of 'Miss Balmaine's Past' writ
 author: Michelle Crowther
 date: 2021-12-04
 categories: [ 19c ]
-tags: [ Literary places, Texts & genres, Authors & lives, Rivers & marshes, Representation & interpretation ]
+tags: [ Literary places, Texts & genres, Rivers & marshes ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-croker-missbalmaine/
 published: true
