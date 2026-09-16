@@ -4,7 +4,7 @@ description: "Louis Wain’s years in Westgate-on-Sea shaped a hugely popular co
 author: Nick Evans
 date: 2022-06-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Arts & performance, Culture & society ]
+tags: [ Biography, Coast & sea, Arts & performance, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/15/Louis_Wain_The_bachelor_party.jpg
 permalink: /19c/19c-wain-biography/
 published: true
