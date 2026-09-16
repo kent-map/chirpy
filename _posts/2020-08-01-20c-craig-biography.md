@@ -4,7 +4,7 @@ description: "Edith Edy Craig shaped early 20th-century British theatre through 
 author: Carla Danella
 date: 2020-08-01
 categories: [ 20c ]
-tags: [ Authors & lives, Arts & performance, Politics & reform, Buildings & architecture, Heritage & memory ]
+tags: [ Biography, Arts & performance, Politics & reform, Buildings & architecture, Queer history ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg
 permalink: /20c/20c-craig-biography/
 published: true
