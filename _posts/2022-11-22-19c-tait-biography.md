@@ -4,7 +4,7 @@ description: "Archibald Campbell Tait’s Kent life links clerical authority to 
 author: Michelle Crowther
 date: 2022-11-22
 categories: [ 19c ]
-tags: [ Authors & lives, Faith & belief, Coast & sea, Travel & mobility ]
+tags: [ Biography, Faith & belief, Coast & sea, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Cliff_edge_near_North_Foreland_-_geograph.org.uk_-_3129897.jpg
 permalink: /19c/19c-tait-biography/
 published: true
