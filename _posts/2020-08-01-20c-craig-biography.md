@@ -1,6 +1,6 @@
 ---
 title: "Edith “Edy” Craig (9 December 1869 – 27 March 1947)"
-description: "Edith Edy Craig shaped early 20th-century British theatre through directing, producing, costume work, and the Pioneer Players’ commitment to drama that tackled social and political questions. Her life links London and Smallhythe Place in Kent, where she built a museum and Barn Theatre to sustain Ellen Terry’s legacy while pursuing feminist and suffrage activism alongside Christopher St John and Claire Atwood."
+description: "Edith Craig lived at Smallhythe Place in Kent, where she built a museum and Barn Theatre to sustain Ellen Terry’s legacy while pursuing feminist and suffrage activism alongside Christopher St John and Claire Atwood."
 author: Carla Danella
 date: 2020-08-01
 categories: [ 20c ]
