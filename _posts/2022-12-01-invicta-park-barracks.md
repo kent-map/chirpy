@@ -4,7 +4,7 @@ description: "Invicta Park Barracks in Maidstone grew from a Tudor estate into P
 author: Martin Stoneham
 date: 2022-12-01
 categories: [ built ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Heritage & memory ]
+tags: [ Literary places, Buildings & architecture, Heritage & memory ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /built/invicta-park-barracks/
 published: true
