@@ -4,7 +4,7 @@ description: "Alfred C. Harmsworth, later Lord Northcliffe, was the founder of t
 author: Professor Carolyn Oulton
 date: 2024-02-02
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Conflict & war, Work & industry ]
+tags: [ Biography, Towns & cities, Politics & reform, Conflict & war, Work & industry ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-northcliffe-biography/
 published: true
