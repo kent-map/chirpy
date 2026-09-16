@@ -4,7 +4,7 @@ description: "Dr Martin Watts looks at the implementation of the 1864 Contagious
 author: Dr Martin Watts
 date: 2021-03-11
 categories: [ 19c ]
-tags: [ Politics & reform, Crime & punishment, Towns & cities, Identity & community ]
+tags: [ Politics & reform, Crime & punishment, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-contagious-diseases/
 published: true
