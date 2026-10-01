@@ -15,7 +15,7 @@ image:
 
 According to J.W. Ebsworth 'there is plenty of valour and affection chronicled' in Kentish ballads. 
 
-Although not more prodigious in number than other counties, the Kentish ballad documents some of the county's peculiarities and traditions such as Gavelkind, hopping and pilgrimage, through rhyming couplets. Gavelkind is saucily justified as being only fair 'since the same am'rous fire, caus'd the last birth, that did the first inspire'.
+Although not more prodigious in number than other counties, the Kentish ballad documents some of the county's peculiarities and traditions such as Gavelkind, hopping and pilgrimage, through rhyming couplets. Gavelkind, a form of partible inheritance, is humourously justified as being only fair 'since the same am'rous fire, caus'd the last birth, that did the first inspire'.
 
 _The Kentish Garland_ which was published in 1881 collated the county's finest ballads into two volumes. With Victorian prudery, its authors expunged the profanities of the more coarse ballads, replacing the offensive phrases with bracketed alternatives. In _The Soldier's Catch_ 
 
