@@ -15,9 +15,11 @@ image:
 
 According to J.W. Ebsworth 'there is plenty of valour and affection chronicled' in Kentish ballads. 
 
-Although not more prodigious in number than other counties, the Kentish ballad documents some of the county's peculiarities and traditions such as Gavelkind, hopping and pilgrimage, through rhyming couplets. Gavelkind, a form of partible inheritance, is humourously justified as being only fair 'since the same am'rous fire, caus'd the last birth, that did the first inspire'.
+Although not more prodigious in number than other counties, the Kentish ballad documents some of the county's peculiarities and traditions such as Gavelkind, hopping and pilgrimage, through verse. 
 
-_The Kentish Garland_ which was published in 1881 collated the county's finest ballads into two volumes. With Victorian prudery, its authors expunged the profanities of the more coarse ballads, replacing the offensive phrases with bracketed alternatives. In _The Soldier's Catch_ 
+_The Kentish Garland_ which was published in 1881 collated the county's finest ballads into two volumes. With Victorian prudery, its authors expunged the profanities of the more coarse ballads, replacing the offensive phrases with bracketed alternatives. In _The Soldier's Catch_, described as a 'bold bragging camp song' bantams, is inserted to replace what is presumably cocks.
+
+However, saucy innuendo and horseplay is threaded through many of the verses. In _The Hop Garden_ 'from the next village the spruce swain draws nigh, He creeps, he stops, then with a sudden spring, the lass he seizes, and into the bin he quickly puts her, where he steals a kiss'[^ref] p.439.  In _Gavelkind_ partible inheritance where each son receives the same share, is humourously justified as being only fair 'since the same am'rous fire, caus'd the last birth, that did the first inspire'.
 
 The Ballad of Salt and Stone has been written as part of a National Heritage Lottery funded project working with Sandwich and Deal Museums. Alison Ramsey and Kate Valentine from Digital Drama along with Carolyn Oulton from Canterbury Christ Church University have worked with local residents to uncover, preserve and share memories of living in these vibrant East Kent towns. The project enabled participants to develop their reminiscence, story-telling and interpretation skills, fostering confidence and enhancing employability, whilst also preserving heritage. Together the participants created a community ballad and a short film, featuring the newly recorded oral histories and archival material from the museum collections.
 
