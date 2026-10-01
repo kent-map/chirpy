@@ -15,6 +15,10 @@ image:
 
 According to J.W. Ebsworth 'there is plenty of valour and affection chronicled' in Kentish ballads. 
 
+Bravery is a common theme through rousing choruses. In 'The Brave Men of Kent' (1690) by Tom d'Urfrey, the Men of Kent are heralded as 'loyal, brave and free' in their opposition to Norman William.
+
+and the eighteenth century ballad 'The Kentish Volunteers' (1796) by Juvenis.
+
 Although not more prodigious in number than other counties, the Kentish ballad documents some of the county's peculiarities and traditions such as Gavelkind, hopping and pilgrimage, through verse. 
 
 _The Kentish Garland_ which was published in 1881 collated the county's finest ballads into two volumes. With Victorian prudery, its authors expunged the profanities of the more coarse ballads, replacing the offensive phrases with bracketed alternatives. In _The Soldier's Catch_, described as a 'bold bragging camp song' bantams, is inserted to replace what is presumably cocks. Nevertheless, lascivious thoughts are revealed in many of the verses. In the ballads of Dover and Deal, sailors sing of their sweethearts, buxom Nan, lovely Nancy and pretty Sally. 
