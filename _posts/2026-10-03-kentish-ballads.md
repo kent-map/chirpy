@@ -1,7 +1,7 @@
 ---
-title: The Ballad of Salt and Stone
+title: "Kentish Ballads"
 description: 
-author: Carolyn Oulton
+author: Michelle Crowther
 date: 2026-10-01
 categories: [ 21c ]
 tags: [ poetry ]
