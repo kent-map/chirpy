@@ -7,6 +7,7 @@ categories: [ 21c ]
 tags: [ poetry ]
 published: false
 featured: false
+permalink: /21c/21c-ballad-salt-stone
 media_subpath: /assets/img
 image:
   path: 
