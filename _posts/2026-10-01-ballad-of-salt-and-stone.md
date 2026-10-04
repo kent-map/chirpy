@@ -1,12 +1,12 @@
 ---
-title: The Ballad of Salt and Stone
-description: 
+title: "The Ballad of Salt and Stone"
+description: A modern-day ballad for East Kent
 author: Carolyn Oulton
 date: 2026-10-01
 categories: [ 21c ]
 tags: [ poetry ]
-published: false
-featured: false
+published: true
+featured: true
 image: https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Good_Catch_of_Sprats.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /21c/21c-ballad-salt-stone
 ---
