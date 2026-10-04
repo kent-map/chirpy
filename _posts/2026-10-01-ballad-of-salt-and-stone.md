@@ -7,6 +7,7 @@ categories: [ 21c ]
 tags: [ poetry ]
 published: false
 featured: false
+image: https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Good_Catch_of_Sprats.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /21c/21c-ballad-salt-stone
 ---
 
