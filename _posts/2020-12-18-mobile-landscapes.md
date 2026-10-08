@@ -188,7 +188,7 @@ This is the river down which Pip will row so desperately in his abortive attempt
 {% include embed/map.html center="Q676689" zoom="13" markers="Q676689" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Pies. We’d been opting for them consistently since [Broadstairs]({{ site.baseurl }}/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
-
+<br><br>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
 <br><br>
  _Hurrah, a fjord – I love fjords!_  
