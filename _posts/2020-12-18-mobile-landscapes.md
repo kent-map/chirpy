@@ -65,21 +65,21 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
  _No, definitely different._  
  _Thought so. What have we done to it?_  
  _Dickensed it of course._    
-<br><br>
-What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/04e9631a-5523-4e71-95cf-41e21e51b8c4.jpg" aspect="0.667" caption="Benjamin High Street" attribution="Benjamin Mortley" %}
 
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**David Copperfield**   
+What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
+<br><br>
+**David Copperfield**
 What we are calling [David Copperfield: a curated walk]({{ site.baseurl }}/dickens/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs).
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/94f8fef7-7b3a-4c4c-a262-fda43bba696a.jpg" aspect="1.477" caption="Broadstairs" %}
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Broadstairs**   
+**Broadstairs**
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) ), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place)  (it’s meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
 <br><br>
 All three buildings are within sight of each other at [Broadstairs]({{ site.baseurl }}/dickens/dickens-broadstairs), and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
@@ -106,7 +106,7 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Canterbury**   
+**Canterbury**
 Our next adventure began in the [Canterbury Christ Church University library](https://www.canterbury.ac.uk/library/library-services.aspx), where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 <br><br>
 At this point the narrative is interrupted while a brief debate ensues:
@@ -148,7 +148,7 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**(In which we don’t go to) Folkestone**   
+**(In which we don’t go to) Folkestone** 
 [Chaucer’s pilgrims]({{ site.baseurl }}/medieval/14c-chaucer), may we remind ourselves, never get anywhere near Canterbury. [Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs]({{ site.baseurl }}/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone]({{ site.baseurl }}/dickens/dickens-folkestone).
 
 {% include embed/image.html src="wc:Old_High_Street%2C_Folkestone_-_geograph.org.uk_-_7732191.jpg" aspect="1.333" caption="Old High Street Folkestone by Nigel Thompson, CC BY-SA 2.0, via Wikimedia Commons" %}
@@ -161,7 +161,7 @@ Our detractors may infer from this that there are no pie shops in the town. Untr
 
 {% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Chalk**   
+**Chalk**
 In [Broadstairs]({{ site.baseurl }}/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1807d34b-a40f-4979-95a8-fee341c98aa5.jpg" aspect="2.222" caption="Victoria Parade, Broadstairs" attribution="©Martin Crowther" %}
@@ -180,7 +180,7 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 
 {% include embed/map.html center="Q5068781" zoom="13" markers="Q5068781" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Cooling**   
+**Cooling**
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church]({{ site.baseurl }}/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/efdfe6c0-6b85-41ec-b620-b04bfc7432f2.jpg" aspect="0.75" caption="Cooling Churchyard" attribution="©Carolyn Oulton" %}
@@ -195,23 +195,23 @@ This is the river down which Pip will row so desperately in his abortive attempt
 
 Pies. We’d been opting for them consistently since [Broadstairs]({{ site.baseurl }}/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 
-It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
-
+It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
+<br><br>
  _Hurrah, a fjord – I love fjords!_  
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/bfce798e-18d9-4e1b-bd73-b375747cb320.jpg" aspect="1.333" caption="Pies" attribution="Michelle Crowther" %}
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
-
+<br><br>
 _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
 _Never mind that, does either of us have a toothbrush?_  
 
 Nothing if not practical, that’s us.   
-
+<br><br>
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right.   
-
+<br><br>
 'We’ve stalled' we would explain on each occasion, at which point the other driver would say indignantly, 'Well there’s nothing I can do about it', and spray us with water as they disappeared down the hill.
-
+<br><br>
 {% include embed/image.html src="wc:A_Kentish_byway_in_Autumn_-_geograph.org.uk_-_1025007.jpg" aspect="1.488" caption="A Kentish byway in Autumn" %}
 
 The temporal gap between lunch at the [Ship and Lobster]({{ site.baseurl }}/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle]({{ site.baseurl }}/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
@@ -220,7 +220,7 @@ The temporal gap between lunch at the [Ship and Lobster]({{ site.baseurl }}/dick
 
 {% include embed/map.html center="Q949561" zoom="13" markers="Q949561" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Great Expectations Part 2. Rochester**     
+**Great Expectations Part 2. Rochester**
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).
 
@@ -282,7 +282,7 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Gad’s Hill: Journey’s End**    
+**Gad’s Hill: Journey’s End**
 Honestly. Parents.   
 
 _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
@@ -316,7 +316,7 @@ Oh come on, you didn't think we - two respectable middle-aged people in broad da
 
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Conclusion: in which we justify all this gadding about by insisting that it was serious work**    
+**Conclusion: in which we justify all this gadding about by insisting that it was serious work** 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 
 But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
