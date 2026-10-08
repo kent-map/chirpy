@@ -113,14 +113,14 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 
 **Canterbury**   
 Our next adventure began in the [Canterbury Christ Church University library](https://www.canterbury.ac.uk/library/library-services.aspx), where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
-
+<br><br>
 At this point the narrative is interrupted while a brief debate ensues:   
-
+<br><br>
  _I have wasp spray. Show me the place._  
  _I’m not taking my trousers off._  
  _Don’t be so wet._  
  _We’re in the middle of a library, for [unprintable epithet] sake._
-
+<br><br>
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61.jpg" aspect="1.333" caption="Augustine House Library" attribution="©Michelle Crowther" %}
