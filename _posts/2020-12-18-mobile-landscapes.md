@@ -11,7 +11,6 @@ published: true
 toc: false  
 ---
 
-
 <param title="Canterbury" eid="Q29303">
 <param title="Broadstairs" eid="Q922739">
 <param title="Chalk" eid="Q5068781" aliases="the village">
@@ -20,13 +19,11 @@ toc: false
 <param title="Gravesend" eid="Q676689">
 <param title="Cobham" eid="Q949561">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
-
 <param title="Estella" eid="Q5400904" article="/articles/Estella.md">
 <param title="Dover" eid="Q179224">
 <param title="Folkestone" eid="Q375314">
 <param title="Gads Hill Place" eid="Q5516441">
 <param title="Gravesend" eid="Q676689">
-
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
 <param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="/articles/Magwitch.md">
 <param title="Miss Havisham" eid="Q3316519" article="/articles/Miss_Havisham.md">
@@ -38,12 +35,10 @@ toc: false
 **Welcome to Dickens Land!**   
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
+<br><br>
+Of course, at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At [Gravesend]({{ site.baseurl }}/19c/19c-gravesend) we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the [sea]({{ site.baseurl }}/seascape)? [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) or [Dover]({{ site.baseurl }}/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/06cc864a-9a22-4049-b398-1a743cf03a51.jpg" aspect="0.75" caption="A selection of books about Dickens and place" attribution="©Carolyn Oulton" %}
-
-{% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
-Of course, at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At [Gravesend]({{ site.baseurl }}/19c/19c-gravesend) we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the [sea]({{ site.baseurl }}/seascape)? [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) or [Dover]({{ site.baseurl }}/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/267a9b45-9c4f-4db0-843a-67931fc83467.jpg" aspect="1.25" caption="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin" %}
 
