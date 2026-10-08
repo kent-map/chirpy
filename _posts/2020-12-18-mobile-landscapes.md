@@ -114,7 +114,7 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 **Canterbury**   
 Our next adventure began in the [Canterbury Christ Church University library](https://www.canterbury.ac.uk/library/library-services.aspx), where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 <br><br>
-At this point the narrative is interrupted while a brief debate ensues:   
+At this point the narrative is interrupted while a brief debate ensues:
 <br><br>
  _I have wasp spray. Show me the place._  
  _I’m not taking my trousers off._  
