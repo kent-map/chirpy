@@ -161,11 +161,7 @@ Our detractors may infer from this that there are no pie shops in the town. Untr
 
 **Chalk**
 In [Broadstairs]({{ site.baseurl }}/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/1807d34b-a40f-4979-95a8-fee341c98aa5.jpg" aspect="2.222" caption="Victoria Parade, Broadstairs" attribution="©Martin Crowther" %}
-
-{% include embed/map.html center="Q5068781" zoom="13" markers="Q5068781" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
+<br><br>
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 
 {% include embed/image.html src="wc:Chalk_Church%2C_Kent.jpg" aspect="0.576" caption="Chalk Church" %}
