@@ -15,4 +15,4 @@ The Ballad of Salt and Stone has been written as part of a National Heritage Lot
 
 {% include embed/image.html src="wc:The Toll Bridge, Sandwich, Kent.jpg" aspect="1.213" caption="The Toll Bridge, Sandwich, Kent" %}
 
-{% include audio.html src="Ballad-Salt-Stone. m4a" %}
+{% include audio.html src="Ballad-Salt-Stone.m4a" %}
