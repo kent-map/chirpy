@@ -307,14 +307,14 @@ It was October half term when we found ourselves gazing over the very lawn where
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
-
+<br><br>
 _You’re a head teacher. If we’re caught that will make it all right._  
 _No it won’t. It will make it worse._  
 _I could stand on your shoulders and get over the wall._  
 _No you couldn’t._  
-
+<br><br>
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
-
+<br><br>
 Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road]({{ site.baseurl }}/dickens/david-copperfield-dover-road).
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gads_1864067463.jpg" aspect="1.298" caption="Gads1866" attribution="©The British Library Board Maps 67463" %}
