@@ -96,13 +96,11 @@ The museum parlour is a complete reconstruction of the room where David is rando
 
 {% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-It is a far cry from the grandeur of [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
+It is a far cry from the grandeur of [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea.
+<br><br>
+We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a44f44d7-8226-47fe-9762-90595ead4cf4.jpg" aspect="0.75" caption="Cream tea" attribution="©Carolyn Oulton" %}
-
-{% include embed/map.html center="Q922739" zoom="13" markers="Q922739" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
-We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/079a54df-5a5a-484f-9ebe-3bc9fa0f031b.jpg" aspect="1.333" caption="Albion Hotel, Broadstairs" attribution="©Michelle Crowther" %}
 
