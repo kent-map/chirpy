@@ -9,10 +9,11 @@ published: true
 featured: true
 image: https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Good_Catch_of_Sprats.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /21c/21c-ballad-salt-stone
+media_subpath: /assets/posts/21c-ballad-salt-stone
 ---
 
 The Ballad of Salt and Stone has been written as part of a National Heritage Lottery funded project working with Sandwich and Deal Museums. Alison Ramsey and Kate Valentine from Digital Drama along with poet and creative writing tutor Carolyn Oulton from Canterbury Christ Church University have worked with local residents to preserve and share memories of life in these vibrant East Kent towns through verse. The project enabled participants to develop their reminiscence, story-telling and interpretation skills, fostering confidence and enhancing employability, whilst also preserving heritage. Together the participants created a community ballad and a short film, featuring the newly recorded oral histories and archival material from the museum collections.
 
 {% include embed/image.html src="wc:The Toll Bridge, Sandwich, Kent.jpg" aspect="1.213" caption="The Toll Bridge, Sandwich, Kent" %}
 
-{% include audio.html src="Ballad-Salt-Stone.m4a" %}
+{% include audio.html src="Ballad-of-Salt-and-Stone.m4a" %}
