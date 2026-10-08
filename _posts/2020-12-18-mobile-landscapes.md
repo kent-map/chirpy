@@ -128,18 +128,18 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
+<br><br>
+Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/48b30422-8835-4e77-892d-50a1a82b35c2.jpg" aspect="1.333" caption="Augustine House interior" attribution="©Michelle Crowther" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
+With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d.jpg" aspect="1.5" caption="Lady Wootton's Green, Canterbury, 2021" %}
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
-With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
 
