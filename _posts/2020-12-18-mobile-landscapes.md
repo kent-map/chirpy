@@ -63,14 +63,14 @@ Enter the literary tour guide – portable, readable and the inspiration for thi
 {% include embed/map.html center="Q2161900" zoom="9.5" markers="Q2161900" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
-
+<br><br>
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
-
+<br><br>
  _Did the High Street look like this when we arrived this morning?_  
  _No, definitely different._  
  _Thought so. What have we done to it?_  
  _Dickensed it of course._    
-
+<br><br>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/04e9631a-5523-4e71-95cf-41e21e51b8c4.jpg" aspect="0.667" caption="Benjamin High Street" attribution="Benjamin Mortley" %}
