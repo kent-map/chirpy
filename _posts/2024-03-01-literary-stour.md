@@ -31,12 +31,10 @@ The [Kentish Stour Countryside Partnership](https://kentishstour.org.uk/) tells 
 
 No writers seem to have perched on the banks of the East Stour or the West Stour, and so our first stopping point is [Little Chart](Q2470003) just south of Ashford. This was the home for many years of [H.E. Bates]({{ site.baseurl }}/20c/20c-bates-biography), best known for _The Darling Buds of May_, set in a fictional village in this area. The 1990s film series with David Jason as Pa Larkin was actually filmed in the village of [Pluckley](Q683598), a little further south. Bates wrote the Darling Buds books in the years after the Second World War, but he was well known as a short story writer before and he also wrote about the countryside, especially the Kent countryside: _In the Heart of the Country, Through the Woods, The Happy Countryman_. 
 
-{% include embed/image.html src="wc:H.E._Bates.jpg" aspect="0.708" caption="H.E. Bates. Photo taken by the author's wife, Marjorie Bates, C1932 at their home in Kent" %}
-
-{% include embed/map.html center="Q2470003" zoom="15" markers="Q2470003" allmaps="3cec6f180298eeb9~Mudge 1801" %}
+{% include embed/map.html center="Q2470003" zoom="14" markers="Q2470003" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 At the time of the Battle of Britain, H.E. Bates's brother-in-law came to visit, and they decided:
-
+<br><br>
 'We would go fishing. I myself hadn’t fished for years and neither of us had a hook or line to our name. Accordingly we went out and spent some magnificent sum, about two pounds I imagine, on the two cheapest rods we could find, hooks, lines, floats and shot. We dug vast quantities of worms and mixed great puddings of paste. We then armed ourselves with beer, cheese and sandwiches and set off finally for the two pretty little lakes that lie in the centre of the village, one of them containing an island of quince trees, with the limpid narrow young River Stour running alongside them by woods of alder and hazel and here and there under big old horse chestnuts and half drowned ancient willows.
 
 {% include embed/image.html src="wc:Pond%2C_Little_Chart_Forstal_-_geograph.org.uk_-_2462872.jpg" aspect="1.488" caption="Pond at Little Chart Forstal" %}
