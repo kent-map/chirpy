@@ -4,7 +4,7 @@ description: "Sarah Baker rose from an itinerant fairground performer labelled a
 author: Jean Baker
 date: 2023-02-01
 categories: [ 18c ]
-tags: [ Authors & lives, Arts & performance, Towns & cities, Culture & society ]
+tags: [ Biography, Arts & performance, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-baker-biography/
 published: true
