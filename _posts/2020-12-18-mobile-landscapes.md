@@ -214,10 +214,10 @@ The temporal gap between lunch at the [Ship and Lobster]({{ site.baseurl }}/dick
 
 {% include embed/map.html center="Q949561" zoom="13" markers="Q949561" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Great Expectations Part 2. Rochester**   
+**Great Expectations Part 2. Rochester**    
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).
-
+<br><br>
 Whenever he leaves the forge Pip is confronted with a choice between the [marshy expanse]({{ site.baseurl }}/landscape/kentish-landscapes) of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House]({{ site.baseurl }}/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/71d79942-8b89-4986-93c1-26ac1891d108.jpg" aspect="1.5" caption="Bull Hotel" attribution="Benjamin Mortley" %}
@@ -225,7 +225,7 @@ Whenever he leaves the forge Pip is confronted with a choice between the [marshy
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
-
+<br><br>
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House]({{ site.baseurl }}/dickens/great-expectations-restoration-house). 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/08a01877-5172-46fe-ba14-108ac56bf37b.jpg" aspect="1.5" caption="Restoration House" attribution="Benjamin Mortley" %}
