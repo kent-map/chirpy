@@ -12,7 +12,7 @@ permalink: /21c/21c-ballad-salt-stone
 media_subpath: /assets/posts/21c-ballad-salt-stone
 ---
 
-The Ballad of Salt and Stone has been written as part of a National Lottery Heritage funded project working with Sandwich and Deal Museums. Alison Ramsey and Kate Valentine from Digital Drama worked with local residents to preserve and share memories of life in these vibrant East Kent towns. Together the participants created a short film, featuring newly recorded oral histories and archival material from the museum collections. The project enabled participants to develop their reminiscence, story-telling and interpretation skills, fostering confidence and enhancing employability, whilst also preserving heritage. 
+Kent has a long tradition of ballad-making, with songs and verses capturing the stories and voices of the county across generations. The Ballad of Salt and Stone has been written as part of a National Lottery Heritage funded project working with Sandwich and Deal Museums. Alison Ramsey and Kate Valentine from Digital Drama worked with local residents to preserve and share memories of life in these vibrant East Kent towns. Together the participants created a short film, featuring newly recorded oral histories and archival material from the museum collections. The project enabled participants to develop their reminiscence, story-telling and interpretation skills, fostering confidence and enhancing employability, whilst also preserving heritage. 
 
 {% include embed/image.html src="wc:The Toll Bridge, Sandwich, Kent.jpg" aspect="1.213" caption="The Toll Bridge, Sandwich, Kent" %}
 
