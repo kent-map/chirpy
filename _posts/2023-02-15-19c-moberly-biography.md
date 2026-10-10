@@ -4,7 +4,7 @@ description: "Alfred Moberly’s career links the Hythe School of Musketry, Vict
 author: Michelle Crowther
 date: 2023-02-15
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places, Culture & society ]
+tags: [ Authors, Texts & genres, Coast & sea, Literary places, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b91a767a-109e-4a7d-b7c6-980d0f8601a5.jpg
 permalink: /19c/19c-moberly-biography/
 published: true
