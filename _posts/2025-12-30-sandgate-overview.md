@@ -4,7 +4,7 @@ description: "Described in the 19th Century as the 'authors haven of repose, Mic
 author: Michelle Crowther
 date: 2025-12-30
 categories: [ placesrz ]
-tags: [ Literary places, Authors & lives, Coast & sea, Towns & cities, Representation & interpretation ]
+tags: [ Literary places, Coast & sea, Towns & cities, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /placesrz/sandgate-overview/
 published: true
