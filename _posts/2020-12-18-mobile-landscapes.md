@@ -253,23 +253,24 @@ It was a dejected Pip – or it should have been – who subsequently found hims
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet]({{ site.baseurl }}/dickens/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House]({{ site.baseurl }}/dickens/edwin-drood-eastgate-house)) beloved of Rosa Budd in _[The Mystery of Edwin Drood]({{ site.baseurl }}/dickens/edwin-drood-curated-walk)_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët.    
-‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’   
-‘Drink it yourself’ suggested Pip promptly.   
-Her expression as she poured it down the sink would have shaken anyone but a born teacher.   
 
 {% include embed/image.html src="wc:Eastgate_House%2C_Rochester_High_St.JPG" aspect="1.333" caption="Eastgate House, Rochester High St." %}
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
+‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’   
+‘Drink it yourself’ suggested Pip promptly.   
+Her expression as she poured it down the sink would have shaken anyone but a born teacher.
+<br><br>
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
-Revving.  
-
+Revving.
+<br><br>
 _Has she seen us?_  
 _Just put your foot down, that way, quick._  
 _It’s a one way system, we’re not allowed to do this._  
-_What do you think she’s going to do, chase us?_   
-
+_What do you think she’s going to do, chase us?_
+<br><br>
 And then we got lost again, but at least Estella wasn’t there to see it.
 
 {% include embed/image.html src="wc:With_Estella_after_all%2C_by_Marcus_Stone.jpg" aspect="0.668" caption="With Estella after all" %}
@@ -321,8 +322,8 @@ To add to that, looking for the ‘original’ place known only from a novel –
 
 {% include embed/image.html src="wc:%28ch.17%29_Then_she_softly_patted_my_shoulder.jpeg" aspect="1.419" caption="Then she softly patted my shoulder" %}
 
-Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover]({{ site.baseurl }}/dickens/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
-
+Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover]({{ site.baseurl }}/dickens/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other.
+<br><br>
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/61b0b13d-f9de-432b-a628-1706a79d3cf4.jpg" aspect="1.333" caption="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" attribution="©Martin Crowther" %}
