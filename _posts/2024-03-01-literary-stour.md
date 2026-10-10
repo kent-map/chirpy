@@ -119,9 +119,9 @@ Hasted came from further north in Kent, but moved to Canterbury in 1770, where h
 {% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 In the late nineteenth century the novelists [Somerset Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) and [Hugh Walpole]({{ site.baseurl }}/19c/19c-walpole-biography) were students there. One of [Maugham’s]({{ site.baseurl }}/20c/20c-maugham-biography) best known characters is Willie Ashenden in _Cakes and Ale_ – and he may have created the surname from the many towns and villages in Kent and the Weald with the suffix – enden or with the prefix or name ‘Ash-‘: indeed there are two places names ‘Ashenden’ near Tenterden.   In this novel [Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) satirises [Walpole]({{ site.baseurl }}/19c/19c-walpole-biography)  as Alroy Kear, a busybody literary figure from London.  [Walpole]({{ site.baseurl }}/19c/19c-walpole-biography) also crops up as the model for one of the young men (another is based on [E.M. Forster]({{ site.baseurl }}/20c/20c-forster-em-biography)) in [Elizabeth von Arnim’s]({{ site.baseurl }}/20c/20c-vonarnim-biography) 1909 novel about a romp around Kent, _The Caravanners_, which ends in Canterbury Cathedral.  Until recently Walpole was read thousands of times every day: a passage from _Jeremy_ was the smallest print on the text card which the optometrist would proffer during an eye-test. It begins:
-
-He moved forward a few steps: the house was so dark behind him, the world so dim and uncertain in front of him, that for a moment his heart failed him. 
-
+<br><br>
+'He moved forward a few steps: the house was so dark behind him, the world so dim and uncertain in front of him, that for a moment his heart failed him'. 
+<br><br>
 That is the section the optometrist knows off by heart: it is as far as most people get.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/eff29696-dbaa-473f-b1c7-2287a6add0e7.jpg" aspect="1.61" caption="Canterbury Cathedral" attribution="Kent Maps Online" %}
