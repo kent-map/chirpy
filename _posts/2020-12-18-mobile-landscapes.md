@@ -301,7 +301,7 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 _You’re a head teacher. If we’re caught that will make it all right._  
 _No it won’t. It will make it worse._  
 _I could stand on your shoulders and get over the wall._  
-_No you couldn’t._  
+_No you couldn’t._
 <br><br>
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 <br><br>
@@ -311,9 +311,9 @@ Oh come on, you didn't think we - two respectable middle-aged people in broad da
 
 {% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Conclusion: in which we justify all this gadding about by insisting that it was serious work** 
-So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
-
+**Conclusion: in which we justify all this gadding about by insisting that it was serious work**   
+So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry.
+<br><br>
 But we also started to understand that the Victorians read aloud to each other – much as we read to children today  –  for one very good reason. Shared reading promotes familial, friendship and even romantic bonds because it is extraordinarily intimate (no there isn’t a ‘Knew it!’ twist coming up, this isn’t Strictly Come Dancing). When one adult reads to another they are helping to recover a meaningful tradition with  - so the latest research suggests - demonstrable benefits to wellbeing.[^ref3]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Mamie_Katie.jpg" aspect="0.813" %}
