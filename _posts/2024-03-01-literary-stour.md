@@ -191,7 +191,7 @@ So we move on from Plucks Gutter where the river turns southwards to the once-th
 {% include embed/map.html center="Q3392603" zoom="15" markers="Q3392603" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
 Thomas Malory sets an episode from _Le Morte d’Arthur_ in Sandwich. When Arthur ruled, he tells us, they say the Emperor Lucius sent messengers, exacting tribute from the king. His refusal was courteous but firm: he claimed lordship over Rome himself. He would go to Rome and take possession of the Empire. At his Parliament in York, it was decreed his navy should be massed off Sandwich. And so:
-
+<br><br>
 That night the royal ship was berthed by Sandwich    
 The worthy King lay apart in his cabin.    
 He slept, and slumbering dreamed this dream.   
@@ -210,8 +210,8 @@ But the angry worm flew to the heights
 and summoned its strength to bear down on the boar   
 and flailed at the beast with spangled wings    
 battering and pulping the grizzly boar   
-till it floated as flotsam on the winnowing waves.   
-
+till it floated as flotsam on the winnowing waves.
+<br><br>
 The king was fearful for this dreadful dream    
 and sought out soothsayers to learn the meaning:   
 They told how the boar betokened a tyrant   
