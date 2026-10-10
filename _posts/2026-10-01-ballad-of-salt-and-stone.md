@@ -20,6 +20,6 @@ Poet and creative writing tutor Carolyn Oulton from Canterbury Christ Church Uni
 <br><br>
 Click on the square icon above the image to find the audio file and listen to the ballad.
 
-{% include embed/image.html src="wc:St Clements Graveyard.jpg" aspect="1.213" caption="Postcard of St Clement's Graveyard which inspired the story of Ethel" %}
+{% include embed/image.html src="wc:St Clements Graveyard.jpg" aspect="1.213" caption="St Clement's Graveyard which inspired the story of Ethel" %}
 
 {% include audio.html src="Ballad-of-Salt-and-Stone.m4a" %}
