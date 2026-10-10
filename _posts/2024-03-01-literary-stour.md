@@ -108,12 +108,10 @@ Canterbury was also the birthplace of [Mary Tourtel]({{ site.baseurl }}/20c/20c-
 
 {% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
 
-Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_](https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time. 
-
+Edward Hasted, the 18th century historian whose [_History and Topographical Survey of the County of Kent_](https://www.british-history.ac.uk/survey-kent/vol11/pp67-69) is a document in which the Stour is discussed from time to time.
+<br><br>
 The City of Canterbury is situated in a pleasant valley about two miles wide, surrounded by hills of a moderate height, and easy ascent, with several springs of fine water rising from them. Besides which the river Stour runs through it, the streams of which, by often dividing and meeting again, water it still more plentifully, and forming islands of various sizes, in one of which the western part of the city stands, contribute to purify the air, and make the soil fertile. Such a situation could hardly be destitute of inhabitants, nor was any spot more likely to unite numbers together to form a city, than one so well prepared by nature as well for defence as cultivation.
-
-{% include embed/map.html center="Q29303" zoom="15" markers="Q29303" allmaps="3cec6f180298eeb9~Mudge 1801" %}
-
+<br><br>
 Hasted came from further north in Kent, but moved to Canterbury in 1770, where he was a Justice of the Peace, and later published a _Guide to Canterbury_ (1807). His three sons attended the King’s School. This school, reputedly in existence since 597 AD, has spawned some notable writers. The playwright Christopher Marlowe, born in Canterbury in 1564, studied there, as did [William Harvey]({{ site.baseurl }}/17c/17c-william-harvey), born in nearby Folkestone in 1578, who discovered that the circulation of blood was pumped through the body by the heart.  
 
 {% include embed/image.html src="wc:Christopher_Marlowe.jpg" aspect="0.792" caption="Christopher Marlowe" %}
