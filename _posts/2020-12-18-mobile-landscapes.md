@@ -148,7 +148,7 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 
 {% include embed/map.html center="Q29303" zoom="13" markers="Q29303" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**(In which we don’t go to) Folkestone** 
+**(In which we don’t go to) Folkestone**   
 [Chaucer’s pilgrims]({{ site.baseurl }}/medieval/14c-chaucer), may we remind ourselves, never get anywhere near Canterbury. [Jerome]({{ site.baseurl }}/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs]({{ site.baseurl }}/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone]({{ site.baseurl }}/dickens/dickens-folkestone).
 <br><br>
 Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover]({{ site.baseurl }}/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
@@ -159,7 +159,7 @@ Our detractors may infer from this that there are no pie shops in the town. Untr
 
 {% include embed/map.html center="Q375314" zoom="13" markers="Q375314" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Chalk**
+**Chalk**   
 In [Broadstairs]({{ site.baseurl }}/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover]({{ site.baseurl }}/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
 <br><br>
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
@@ -174,7 +174,7 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 
 {% include embed/map.html center="Q5068781" zoom="13" markers="Q5068781" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Cooling**
+**Cooling**   
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church]({{ site.baseurl }}/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/efdfe6c0-6b85-41ec-b620-b04bfc7432f2.jpg" aspect="0.75" caption="Cooling Churchyard" attribution="©Carolyn Oulton" %}
@@ -214,7 +214,7 @@ The temporal gap between lunch at the [Ship and Lobster]({{ site.baseurl }}/dick
 
 {% include embed/map.html center="Q949561" zoom="13" markers="Q949561" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Great Expectations Part 2. Rochester**
+**Great Expectations Part 2. Rochester**   
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).
 
@@ -277,19 +277,15 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 {% include embed/map.html center="Q507517" zoom="13" markers="Q507517" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
 
-**Gad’s Hill: Journey’s End**
-Honestly. Parents.   
-
+**Gad’s Hill: Journey’s End**   
+Honestly. Parents.
+<br><br>
 _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
 _Maybe there really is a secret tunnel in your bedroom cupboard._  
 _If you work hard perhaps you will even live at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) one day._  
-
+<br><br>
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill]({{ site.baseurl }}/dickens/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Gadshill_In_Dickens_Land.jpg" aspect="1.252" caption="Gad's Hill In Dickens Land" %}
-
-{% include embed/map.html center="Q5516441" zoom="13" markers="Q5516441" allmaps="08f8a4bca9b4dd3a~Kent Ordnance Survey 1860" %}
-
+<br><br>
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
 {% include embed/image.html src="wc:Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" aspect="0.813" caption="Charles Dickens with his two daughters" %}
