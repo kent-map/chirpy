@@ -4,7 +4,7 @@ description: "Charles Shadwell’s career links early eighteenth-century theatre
 author: Michelle Crowther
 date: 2023-02-25
 categories: [ 18c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Culture & society, Conflict & war ]
+tags: [ Arts & performance, Texts & genres, Coast & sea, Culture & society, Conflict & war ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-shadwell-biography/
 published: true
