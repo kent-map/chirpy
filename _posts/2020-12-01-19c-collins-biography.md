@@ -32,7 +32,6 @@ _How I Married Him_
 {% include embed/map.html center="Q736439" zoom="11.5" markers="Q736439" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
 
 ### Bibliography:
-
 Ackroyd, Peter. _Wilkie Collins_ (London: Chatto & Windus, 2012),142.   
 Collins, Wilkie. "How I Married Him:" _Belgravia: a London magazine_ 46.183 (1882): 295-316. ProQuest. Web. 22 Dec. 2020.   
 Gasson, Andrew. _Wilkie Collins: An Illustrated Guide_ (Oxford and New York: Oxford University Press, 1998), 117.   
@@ -40,6 +39,5 @@ Peters, Catherine. "Collins, (William) Wilkie (1824–1889), writer." _Oxford Di
 [Wilkie Collins Society Newsletter Summer 2023](https://wilkiecollinssociety.org/wp/wp-content/uploads/2024/02/2023-Summer-Newsletter.pdf)
 
 ### References
-
 [^ref1]: Gasson 117.   
 [^ref2]: Peters.
