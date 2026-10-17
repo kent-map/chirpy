@@ -11,19 +11,18 @@ published: true
 toc: false  
 ---
 
-**Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.   
-
-**Publication(s)** ‘Our Watering Place’ (1851), _David Copperfield_ (1848-50).   
-
-‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter, we feel a lazy inclination to sketch its picture. The place seems to respond. Sky, sea, beach, and village, lie as still before us as if they were sitting for the picture. It is dead low-water. A ripple plays among the ripening corn upon the cliff, as if it were faintly trying from recollection to imitate the sea; and the world of butterflies hovering over the crop of radish-seed are as restless in their little way as the gulls are in their larger manner when the wind blows.’    
-‘Our Watering Place’. _Household Words_ 1851.
+**Dickens visited in:** 1837, 1839-43, 1845, 1847, 1849-51, 1859.
+<br><br>
+**Publication(s)** ‘Our Watering Place’ (1851), _David Copperfield_ (1848-50).
+<br><br>
+‘Half awake and half asleep, this idle morning in our sunny window on the edge of a chalk-cliff in the old-fashioned Watering-Place to which we are a faithful resorter, we feel a lazy inclination to sketch its picture. The place seems to respond. Sky, sea, beach, and village, lie as still before us as if they were sitting for the picture. It is dead low-water. A ripple plays among the ripening corn upon the cliff, as if it were faintly trying from recollection to imitate the sea; and the world of butterflies hovering over the crop of radish-seed are as restless in their little way as the gulls are in their larger manner when the wind blows.’ - ‘Our Watering Place’. _Household Words_ 1851.
 
 {% include embed/image.html src="wc:From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" aspect="1.343" caption="From the cliffs, Broadstairs" %}
 
-Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
-
+Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
+<br><br>
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
-
+<br><br>
 The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography). 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0badef45-31a2-4639-9599-ec3aa2bd4d42.jpg" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
@@ -37,11 +36,11 @@ He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. The final 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/14998065-2aae-464e-9015-45036a05a19b.jpg" aspect="1.333" caption="Dickens' House, Broadstairs" %}
 
 A boy employed at Ballard’s later remembered surreptitiously entering the pantry and consuming a plate of leftover chicken, only to hear the landlord telling Dickens that he could give him ‘a nice portion of cold chicken’ for his lunch. The boy was greatly relieved when Dickens looked at him and said laughingly, ‘there have been more mysterious disappearances. Somebody has doubtless enjoyed it.’[^ref3]. Assuming this story to be true, it is tempting to link it to Magwitch’s ‘I’m sorry to say, I’ve eat your pie’ in _[Great Expectations]({{ site.baseurl }}/dickens/great-expectations-curated-walk)._
-
-{% include embed/image.html src="wc:Broadstairs%2C_The_Royal_Albion_Hotel_-_geograph.org.uk_-_460266.jpg" aspect="1.333" caption="Broadstairs, the Royal Albion Hotel, formerly Ballard's" %}
-
+<br><br>
 While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write half an hour without the most excruciating organs, fiddles, bells, or glee-singers, [^ref4] Broadstairs was considerably quieter and less populist than neighbouring [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate) and [Margate]({{ site.baseurl }}/dickens/19c-margate). Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’.[^ref5]  Broadstairs is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words_.](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
+
+{% include embed/image.html src="wc:Broadstairs%2C_The_Royal_Albion_Hotel_-_geograph.org.uk_-_460266.jpg" aspect="1.333" caption="Broadstairs, the Royal Albion Hotel, formerly Ballard's" %}
 
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
 
