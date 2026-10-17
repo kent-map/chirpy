@@ -50,11 +50,9 @@ A year later, she visited her aunt again: 'At half-past two, we drove with Lady 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8538611a-a4ed-4003-a5d6-fd5168d378cf.jpg" aspect="1.771" caption="Blue Plaque at Pierremont House" attribution="Photographed by Martin Crowther" %}
 
 ### Bibliography
-
 Hibbert, Christopher (2000). _Queen Victoria: A Personal History._ HarperCollins.
 
 ### References
-
 [^ref1]: _Morning Post_ - Tuesday 04 August 1829
 [^ref2]: Cust, L.H. 'Samuel Pepys Cockerell', _Dictionary of National Biography , 1885-1900_.
 [^ref3]: _Kentish Weekly Post or Canterbury Journal_ - Friday 06 July 1821
