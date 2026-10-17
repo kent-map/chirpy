@@ -4,7 +4,7 @@ description: "Gad’s Hill Place near Rochester shaped a lively circle of ninete
 author: Professor Carolyn Oulton
 date: 2022-09-06
 categories: [ dickens ]
-tags: [ Authors & lives, Literary places, Culture & society, Heritage & memory ]
+tags: [ Authors, Literary places, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg
 permalink: /dickens/dickens-friends/
 published: true
