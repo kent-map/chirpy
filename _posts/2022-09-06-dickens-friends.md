@@ -1,6 +1,6 @@
 ---
 title: "Dickens and Friends"
-description: "Gad’s Hill Place near Rochester shaped a lively circle of nineteenth-century visitors who left behind anecdotes, artwork, and competing impressions of Charles Dickens at home. The network of poets, novelists, journalists, actors, and painters reveals how hospitality, work routines, and celebrity culture turned a private house into a node of literary friendship and later pilgrimage."
+description: "Gad’s Hill Place near Rochester shaped a lively circle of nineteenth-century visitors who left behind anecdotes, artwork, and competing impressions of Charles Dickens at home."
 author: Professor Carolyn Oulton
 date: 2022-09-06
 categories: [ dickens ]
