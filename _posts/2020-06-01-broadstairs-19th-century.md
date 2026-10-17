@@ -1,7 +1,7 @@
 ---
 title: "Broadstairs in the nineteenth century"
 description: "In the nineteenth century, Broadstairs maintained its reputation as a peaceful seaside town largely untouched by the commercial development of nearby Ramsgate and Margate. In the summer months, the sea bathing and slower pace of life attracted celebrity authors including Dickens and Wilkie Collins."
-author: Carolyn Oulton
+author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Coast & sea, Culture & society, Texts & genres, Towns & cities ]
@@ -24,7 +24,7 @@ The 1880 ‘seaside number’ of _Bow Bells Novelettes_ did its best to liven up
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Braddon_family.jpg" aspect="0.817" caption="M.E. Braddon and family" attribution="©ICVWW" %}
 
-Meanwhile the Assembly Rooms had changed little since since the 1850s, when [Dickens]({{ site.baseurl }}/dickens/dickens-biography) affectionately satirised it:
+Meanwhile the Assembly Rooms had changed little since since the 1850s, when [Dickens]({{ site.baseurl }}/dickens/dickens-biography) affectionately satirised them:
 <br><br>
 'Sometimes, a misguided wanderer of a Ventriloquist, or an Infant Phenomenon, or a Juggler, or somebody with an Orrery that is several stars behind the time, takes the place for a night, and issues bills with the name of his last town lined out, and the name of ours ignominiously written in, but you may be sure this never happens twice to the same unfortunate person'.
 <br><br>
