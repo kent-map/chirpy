@@ -20,7 +20,7 @@ toc: false
 {% include embed/image.html src="wc:From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" aspect="1.343" caption="From the cliffs, Broadstairs" %}
 
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
-<br><br>
+
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br><br>
 The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography). 
@@ -45,7 +45,6 @@ By the late nineteenth century Dickens’s association with the town was being h
 Feeling active? You may want to try this [Turner and Dickens walk](https://explorekent.org/activities/turner-dickens-walk/)
 
 ### Bibliography
-
 Dickens, Charles. [‘Our Watering Place’.](http://www.djo.org.uk/household-words/volume-iii/page-433.html) _Household Words_. 2 August 1851.    
 House, Madeline, Graham Storey and Kathleen Tillotson, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 3: 1842-1843. Oxford:  Clarendon Press, 1974. 
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
@@ -53,7 +52,6 @@ Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Cha
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 6: 1850-1852. Oxford: Clarendon Press, 1988.
 
 ### References
-
 [^ref1]: To W. C. Macready, 11 June 1850. 112-13. 13.   
 [^ref2]: To [W. C. Macready] 7 July 1842. 260.   
 [^ref3]: Simson, J. (1897) _Breezy Broadstairs_   
