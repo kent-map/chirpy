@@ -11,7 +11,7 @@ published: true
 toc: false  
 ---
 
-'We don’t think much of [Ramsgate](Q736439) here,” I went on, “Not even two hundred years old! And hasn’t got a mayor and corporation!'. _How I Married Him_
+'We don’t think much of [Ramsgate](Q736439) here,” I went on, “Not even two hundred years old! And hasn’t got a mayor and corporation!' _How I Married Him_
 <br><br>
 Best-selling author, playwright and, according to some, the father of detective fiction, Wilkie [William] Collins visited the Kent [resorts]({{ site.baseurl }}/19c/19c-seaside) regularly on excursions for his health and to visit his close friend, [Dickens]({{ site.baseurl }}/dickens/dickens-biography/). The sea air proved restorative not only for his gout, a condition which seriously afflicted his health in later years, but also for his creativity; he is said to have based the figure of the woman in white on the outline of the [North Foreland](Q15680058) lighthouse looming spectrally through the mist. Legend has it that Collins had great difficulty in finding a title for the novel and in desperation walked for hours on the cliffs between [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) and Kingsgate. Exhausted, he threw himself on the grass admonishing the lighthouse: ‘you are ugly and stiff and awkward; you know you are: as stiff and as weird as my white woman. White woman!-woman in white! The title, by Jove’.[^ref1]
 <br><br>
