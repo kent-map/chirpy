@@ -17,7 +17,7 @@ In 1829, The Duchess of Kent rented Pierremont House in [Broadstairs]({{ site.ba
 
 {% include embed/image.html src="wc:Duchess_of_Kent_and_Victoria_by_Henry_Bone.jpg" aspect="0.802" caption="Duchess of Kent and Victoria c. 1824/5" %}
 
-[Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) was quieter than the neighbouring towns of [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) and [Margate]({{ site.baseurl }}/19c/19c-margate). It was described in _The house book or, family chronicle of useful knowledge, and cottage physician_ as a resort for "respectable families" who preferred "retirement to the gaiety and bustle of a public place".[^ref4]
+[Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) was billed as a resort for 'respectable families' who preferred 'retirement to the gaiety and bustle of a public place'[^ref4] and was much quieter than the neighbouring towns of [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) and [Margate]({{ site.baseurl }}/19c/19c-margate).
 <br><br>
 The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her young daughter Princess Victoria and the royal entourage. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref5]
 
