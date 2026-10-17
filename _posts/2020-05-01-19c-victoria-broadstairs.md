@@ -13,17 +13,13 @@ toc: false
 
 'It Is well known that for many years past the Isle of Thanet has been the favourite autumnal retreat of the Duchess of Kent and her illustrious daughter, now Queen of England. Thither they regularly went, accompanied, for their exalted station, by a small retinue, and during the stay throwing aside much of the cumbersome and formal constraints and chilling ceremonials of royalty, they entered into free intercourse with the respectable resident families 'and were constantly to be seen passing, almost unattended along the public streets or parades of the principal towns of the island.' _Morning Chronicle_ - Friday 23 June 1837.
 <br><br>
-In 1829, The Duchess of Kent rented Pierremont House in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) for the autumn.[^ref1] It was a 26 bedroom house, with a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses.
+In 1829, The Duchess of Kent rented Pierremont House in [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) for the autumn.[^ref1] It was a 26 bedroom house, with a library, a billiard room, a 13 acre garden containing shrubberies, hot house, fruit trees, vegetable garden, a 100 foot long grapery, melon ground and stabling for eight horses, built in 1785 for Thomas Forsyth (1744-1810) of Rutland and designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne.[^ref2] After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was being let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town library.[^ref3]
 
 {% include embed/image.html src="wc:Duchess_of_Kent_and_Victoria_by_Henry_Bone.jpg" aspect="0.802" caption="Duchess of Kent and Victoria c. 1824/5" %}
 
-Pierremont House had been built in 1785 for Thomas Forsyth (1744-1810) of Rutland and designed by Samuel Pepys Cockerell, who also designed Gore Court, near Sittingbourne.[^ref2] After the death of Forsyth it was owned by T.W. Payler but by the the 1820s, it was being let for the season as a marine residence. Tickets could be obtained to view the house from Mr Barfield at the town library.[^ref3]
-<br><br>
 [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) was quieter than the neighbouring towns of [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) and [Margate]({{ site.baseurl }}/19c/19c-margate). It was described in _The house book or, family chronicle of useful knowledge, and cottage physician_ as a resort for "respectable families" who preferred "retirement to the gaiety and bustle of a public place".[^ref4]
 <br><br>
 The Duchess of Kent arrived in the town on the evening of 1 August 1829 with her young daughter Princess Victoria and the royal entourage. They were greeted by pealing church bells and an amateur band playing national airs on the lawn of Pierremont House. In the evening, the village was partly illuminated to mark the occasion.[^ref5]
-
-{% include embed/image.html src="wc:Samuel_Pepys_Cockerell_by_George_Dance_1793.jpg" aspect="0.802" caption="Samuel Pepys Cockerell" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3.jpg" aspect="1.383" caption="George Virtue, 1829. Photo by Astrid Stilma. By permission of Patrick Marrin." %}
 
@@ -38,9 +34,7 @@ Later, Queen Victoria wrote of her childhood: "I was brought up very simply — 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2a68391b-9297-4e72-9a29-4c897cdda117.jpg" aspect="1.266" caption="The Pier at Broadstairs" attribution="Kent Maps Online" %}
 
 On the 3 November 1829, Victoria and her mother left [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century), after a three month stay, attended by Lady Catherine Jenkinson, Baroness Lehzen and Sir John Conroy. They travelled to [Eastwell Park](Q2540442), near Ashford, the home of the Earl of Winchelsea.[^ref12]
-
-{% include embed/image.html src="wc:Gatehouse_to_Eastwell_Park_-_geograph.org.uk_-_68280.jpg" aspect="1.55" caption="Gatehouse to Eastwell Park" %}
-
+<br><br>
 Four years later, Princess Victoria's aunt, H.R.H. Princess Sophia Matilda of Gloucester rented Pierremont house for the summer and again in 1835 and 1838, after the coronation of her niece. At this period, it was owned by a Scottish gentleman called Edward Fletcher, but by his death in 1846, the house was auctioned off and parts of the estate sold to build new housing. [^ref13]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/a7e4f0ee-5b60-4e8d-857a-c567e4976d15.jpg" aspect="2.222" caption="Pierremont House" attribution="Martin Crowther" %}
@@ -49,7 +43,7 @@ In 1835, the Duchess of Kent took Princess Victoria to [Ramsgate]({{ site.baseur
 <br><br>
 Victoria visited Princess Sophia at [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) during her stay at [Ramsgate]({{ site.baseurl }}/19c/19c-victoria-albion-house) and wrote: "It began to rain and we got into the carriage and drove to [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) to pay Princess Sophia Matilda a visit. We all walked with the Princess on the sort of Parade at Broadstairs and then got into our carriage and drove home."[^ref15] 
 <br><br>
-A year later, she visited her aunt again: 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century)s & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
+A year later, she visited her aunt again: 'At half-past two, we drove with Lady Catherine & Lehzen to Piermont House at [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) & payed Princess Sophia Matilda a short visit' - _Queen Victoria's Journal_, Tuesday 4th October 1836
 
 {% include embed/image.html src="wc:HRH_Princess_Sophia_-_Andrew_Robertson_-_ABDAG008244.jpg" aspect="0.734" caption="Princess Sophia of Gloucester" %}
 
