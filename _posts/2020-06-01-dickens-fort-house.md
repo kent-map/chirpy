@@ -33,6 +33,8 @@ This creative confusion of different novels with the houses associated with Dick
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Hassam.jpg" aspect="0.711" caption="Childe Hassam, Bleak House, Broadstairs, 1889" attribution="Collection of the Canton Museum of Art, Purchased by the Canton Museum of Art, 2017.83" %}
 
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Bleak_House_Broadstairs_MJC.jpg" aspect="1.625" caption="Broadstairs" attribution="Martin Crowther" %}
+
 ### Bibliography
 
 Kitton, Frederic G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].   
