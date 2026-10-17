@@ -4,7 +4,7 @@ description: "Vita Sackville-West’s life and writing unfold through a connecte
 author: Clare Nursey
 date: 2020-11-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Texts & genres ]
+tags: [ Authors & lives, Literary places, Queer history, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/d/db/Sissinghurst_Castle%2C_Biddenden_Road%2C_Sissinghurst%2C_Kent_-_geograph.org.uk_-_1387067.jpg
 permalink: /20c/20c-sackville-west-biography/
 published: true
