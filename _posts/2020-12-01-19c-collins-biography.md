@@ -1,6 +1,6 @@
 ---
 title: "Wilkie Collins (1824-1889)"
-description: "Dr Alyson Hunt introduces the east Kent coast of 19th century author and playwright, Wilkie Collins."
+description: "Dr Alyson Hunt introduces the Thanet coast of 19th century author and playwright, Wilkie Collins."
 author: Dr Alyson Hunt
 date: 2020-12-01
 categories: [ 19c ]
