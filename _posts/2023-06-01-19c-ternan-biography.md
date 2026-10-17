@@ -4,7 +4,7 @@ description: "Helena Kelly speculates on the reinterpretation of Dicken's work i
 author: Helena Kelly
 date: 2023-06-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Maps & place-making ]
+tags: [ Arts & performance, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-ternan-biography/
 published: true
