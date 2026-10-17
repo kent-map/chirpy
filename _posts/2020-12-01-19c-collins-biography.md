@@ -4,7 +4,7 @@ description: "Dr Alyson Hunt introduces the east Kent coast of 19th century auth
 author: Dr Alyson Hunt
 date: 2020-12-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
+tags: [ Authors, Coast & sea, Literary places, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs.jpg
 permalink: /19c/19c-collins-biography/
 published: true
