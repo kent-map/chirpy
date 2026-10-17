@@ -3,7 +3,7 @@ title: "Dickens and Broadstairs"
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Authors & lives, Coast & sea, Heritage & memory ]
+tags: [ Literary places, Authors, Coast & sea, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8a/From_the_gardens%2C_Broadstairs%2C_England.jpg
 permalink: /dickens/dickens-broadstairs/
 published: true
@@ -19,18 +19,20 @@ toc: false
 {% include embed/image.html src="wc:From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" aspect="1.343" caption="From the cliffs, Broadstairs" %}
 
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham]({{ site.baseurl }}/dickens/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury]({{ site.baseurl }}/dickens/david-copperfield-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1] Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html)
-
-By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 <br><br>
-The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography). 
+By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0badef45-31a2-4639-9599-ec3aa2bd4d42.jpg" aspect="1.333" caption="Early 20C postcard showing the view from Bleak House" %}
 
+The Dickens family visited [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century) regularly for the summer between 1837 and 1851, entertaining numerous friends including [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography), [Hans Christian Andersen]({{ site.baseurl }}/19c/19c-christian-andersen) and [Angela Burdett Coutts]({{ site.baseurl }}/19c/19c-burdett-coutts-biography).
+<br><br>
 Like other East Kent resorts, the town had developed from its origins as a fishing village to become a key tourist destination by the nineteenth century. Dickens was prone to seasickness when travelling by boat, but wrote to William Macready in 1842 that Broadstairs was: 'the chosen resort and retreat of jaded intellect and exhausted nature; being, as this Deponent further saith it is, far removed from the sights and noises of the busy world, and filled with the delicious murmur and repose of the broad ocean; the said broad ocean being (as this Deponent further saith and fearlessly asserteth) the finest feature (when you are off it) in the whole creation.'[^ref2]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/887cf466-0aa5-4989-a3ba-02c786a5d29d.jpg" aspect="1.366" caption="Bleak House, Broadstairs" %}
 
-He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. The final pages of [_Pickwick_]({{ site.baseurl }}/dickens/pickwick-papers) [1837], as well as parts of _Oliver Twist_, _Nicholas Nickleby_ , _Barnaby Rudge_, _The Old Curiosity Shop_ and _American Notes_ were also written during visits to the town. Parts of _[David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk)_ (1848-50) were written in [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/). At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
+He wrote part of _Barnaby Rudge_ while staying at Lawn House in 1841. The final pages of [_Pickwick_]({{ site.baseurl }}/dickens/pickwick-papers) [1837], as well as parts of _Oliver Twist_, _Nicholas Nickleby_ , _Barnaby Rudge_, _The Old Curiosity Shop_ and _American Notes_ were also written during visits to the town. Parts of _[David Copperfield]({{ site.baseurl }}/dickens/david-copperfield-curated-walk)_ (1848-50) were written in [Fort House]({{ site.baseurl }}/dickens/dickens-fort-house) and Aunt Betsey’s cottage (although set in Dover) was actually inspired by the nearby 2 [Nuckell’s Place]({{ site.baseurl }}/dickens/david-copperfield-nuckells-place), now the [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/).
+<br><br>
+At different times he also stayed in Ballard’s, later the Albion Hotel. A plaque commemorates the dates of these visits: 1839, 1840, 1845, 1849 and 1859 [_Watering-Place_](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/14998065-2aae-464e-9015-45036a05a19b.jpg" aspect="1.333" caption="Dickens' House, Broadstairs" %}
 
