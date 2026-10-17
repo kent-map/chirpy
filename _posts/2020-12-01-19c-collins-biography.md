@@ -40,10 +40,6 @@ Gasson, Andrew. _Wilkie Collins: An Illustrated Guide_ (Oxford and New York: Oxf
 Peters, Catherine. "Collins, (William) Wilkie (1824–1889), writer." _Oxford Dictionary of National Biography_.  May 19, 2011. Oxford University    
 [Wilkie Collins Society Newsletter Summer 2023](https://wilkiecollinssociety.org/wp/wp-content/uploads/2024/02/2023-Summer-Newsletter.pdf)
 
-{% include embed/image.html src="wc:1904-08-20_front_The_Barbican_Sandwich_Kent.jpg" aspect="1.562" caption="The Barbican, Sandwich" %}
-
-{% include embed/map.html center="Q736439" zoom="11.5" markers="Q736439" allmaps="9fdfcd0d2307e89c~Letts 1883" %}
-
 ### References
 
 [^ref1]: Gasson 117.   
