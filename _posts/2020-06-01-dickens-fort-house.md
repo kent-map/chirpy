@@ -1,6 +1,5 @@
 ---
 title: "Fort House (Bleak House)"
-description: "Fort House was the source of considerable confusion both during and after Dickens’s lifetime. Parts of David Copperfield were written here, including the ending. By 1864 it was sometimes informally known as Bleak House, leading many visitors to assume that this novel too had been written in the town."
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
