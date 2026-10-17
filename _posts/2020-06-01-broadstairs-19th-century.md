@@ -1,6 +1,5 @@
 ---
 title: "Broadstairs in the nineteenth century"
-description: "In the nineteenth century, Broadstairs maintained its reputation as a peaceful seaside town largely untouched by the commercial development of nearby Ramsgate and Margate. In the summer months, the sea bathing and slower pace of life attracted celebrity authors including Dickens and Wilkie Collins."
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
@@ -10,7 +9,6 @@ permalink: /dickens/broadstairs-19th-century/
 published: true
 toc: false  
 ---
-
 
 Despite being the favoured holiday destination of no less a figure than [Charles Dickens]({{ site.baseurl }}/dickens/dickens-biography), Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate. In 1831 the teenage diarist [Emily Shore]({{ site.baseurl }}/19c/19c-shore-biography) recorded her mother's obvious disappointment at the lack of social amenities and for most of the century it kept out less elegant tourists by the simple expedient of ‘failing to provide facilities which would attract them – no public amusements or music halls. Just a small circulating library with old-fashioned assembly room attached, calculated to attract a steady flow of quiet respectable visitors.’  One journalist commented with patronising approval in 1864 that ‘Broadstairs is a quaint old place, and its inhabitants are still very primitive.’  
 
