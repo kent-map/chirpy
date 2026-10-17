@@ -11,7 +11,6 @@ published: true
 toc: false  
 ---
 
-
 <param title="Bleak House" eid="Q4925737">
 <param title="Broadstairs" eid="Q922739">
 <param title="Canterbury" eid="Q29303">
@@ -19,11 +18,12 @@ toc: false
 <param title="Chatham" eid="Q729006">
 <param title="David Copperfield" eid="Q189811">
 
-**The model for Betsey Trotwood’s cottage in _David Copperfield_.**   
-**Publication** _David Copperfield_ (1848-50).   
-_‘I followed the young woman, and we soon came to a very neat little cottage with cheerful bow-windows: in front of it, a small square gravelled court or garden full of flowers, carefully tended, and smelling deliciously.   
-“This is Miss Trotwood’s” said the young woman. “Now you know; and that’s all I have got to say.” With which words she hurried into the house, as if to shake off the responsibility of my appearance; and left me standing at the garden-gate, looking disconsolately over the top of it towards the parlor-window, where a muslin curtain partly undrawn in the middle, a large round green screen or fan fastened on to the window-sill, a small table, and a great chair, suggested to me that my aunt might be at that moment seated in awful state.’_
-_David Copperfield_.
+**The model for Betsey Trotwood’s cottage in _David Copperfield_.**
+<br><br>
+**Publication** _David Copperfield_ (1848-50).
+<br><br>
+‘I followed the young woman, and we soon came to a very neat little cottage with cheerful bow-windows: in front of it, a small square gravelled court or garden full of flowers, carefully tended, and smelling deliciously.   
+“This is Miss Trotwood’s” said the young woman. “Now you know; and that’s all I have got to say.” With which words she hurried into the house, as if to shake off the responsibility of my appearance; and left me standing at the garden-gate, looking disconsolately over the top of it towards the parlor-window, where a muslin curtain partly undrawn in the middle, a large round green screen or fan fastened on to the window-sill, a small table, and a great chair, suggested to me that my aunt might be at that moment seated in awful state.’ - _David Copperfield_.
 
 {% include embed/image.html src="wc:David_Copperfield_%281850%29_%2814593575778%29.jpg" aspect="0.785" caption="David Copperfield, 1850" %}
 
@@ -36,7 +36,4 @@ See also [David Copperfield: a curated walk]({{ site.baseurl }}/dickens/david-co
 
 Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics 1999.  
 ‘Gladys Waterer Talks Dickens at Broadstairs’. _Illustrated London News_. 4 April 1964. 90.   
-
-{% include embed/image.html src="wc:David_Copperfield.jpg" aspect="0.75" caption="David Copperfield" %}
-
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
