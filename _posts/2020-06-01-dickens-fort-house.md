@@ -1,7 +1,7 @@
 ---
 title: "Fort House (Bleak House)"
 description: "Fort House was the source of considerable confusion both during and after Dickens’s lifetime. Parts of David Copperfield were written here, including the ending. By 1864 it was sometimes informally known as Bleak House, leading many visitors to assume that this novel too had been written in the town."
-author: Carolyn Oulton
+author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
 tags: [ Literary places, Authors & lives, Coast & sea, Heritage & memory ]
@@ -38,8 +38,6 @@ This creative confusion of different novels with the houses associated with Dick
 Kitton, Frederic G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].   
 --. Scrapbook 2 (p80). Dickens House Museum.   
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Bleak_House_Broadstairs_MJC.jpg" aspect="1.625" caption="Broadstairs" attribution="Martin Crowther" %}
 
 ### References
 
