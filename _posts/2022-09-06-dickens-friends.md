@@ -26,11 +26,9 @@ While he lived within a few miles of the famous author and successfully solicite
 [G. A. Sala]({{ site.baseurl }}/19c/19c-sala-biography) described the ‘military time’ of meals and the expectation that guests would spend designated hours at work – during one visit with [Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography) Sala apparently doodled with a spare set of proofs to avoid offending his host.[^ref4]
 <br><br>
 Collins himself was a regular visitor, as was his artist brother Charles, who married Dickens’s daughter (and later artist) Kate in 1860. Other artist friends included Marcus Stone, Holman Hunt and W. P. Frith. It was John Everett Millais who painted the famous death mask of Dickens in 1870.
-
-Kate’s godfather the actor William Macready stayed even during his later, reclusive years. 
-
-{% include embed/image.html src="wc:George_Augustus_Sala_%28Waddy%2C_1872%29.jpg" aspect="0.7" caption="George Augustus Sala" %}
-
+<br><br>
+Kate’s godfather the actor William Macready stayed even during his later, reclusive years.
+<br><br>
 It was another actor, Charles Fechter, who gave [Dickens]({{ site.baseurl }}/dickens/dickens-biography) the iconic [Swiss Chalet]({{ site.baseurl }}/dickens/dickens-swiss-chalet) as a Christmas present in 1864.
 <br><br>
 Friends from Dickens’s last years included George Dolby, the manager of his reading tours and his American publisher James Fields, whose wife Annie left a vivid account of their visit. After the breakdown of the Dickens marriage Catherine remained in London and would not set foot in the house again during her husband’s lifetime. [Ellen Ternan]({{ site.baseurl }}/19c/19c-ternan-biography) visited Georgina Hogarth here, probably only after Dickens’s death.
