@@ -8,6 +8,7 @@ tags: [ Authors, Literary places, Texts & genres, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg
 permalink: /dickens/dickens-biography/
 published: true
+featured: true
 toc: false  
 ---
 
