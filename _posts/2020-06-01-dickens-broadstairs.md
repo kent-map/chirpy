@@ -7,6 +7,7 @@ tags: [ Literary places, Authors, Coast & sea, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8a/From_the_gardens%2C_Broadstairs%2C_England.jpg
 permalink: /dickens/dickens-broadstairs/
 published: true
+featured: true
 toc: false  
 ---
 
