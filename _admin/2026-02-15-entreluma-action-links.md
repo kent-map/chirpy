@@ -106,6 +106,8 @@ Animates the map to a new location and zoom level. Accepts either coordinates or
 
 When you use a Wikidata ID (a `Q` number), the location is looked up automatically — handy when you don't know the coordinates.
 
+Append `/popup` to the link to open the matching map marker's popup after the animation: `[Grand Canyon](map1/flyto/Q118841,12/popup)`. The map must define that marker. Coordinate links can match custom markers at the same location, for example `[Monument Valley](map1/flyto/37.01056,-110.2425,11/popup)`.
+
 Clicking the **same** fly-to link a second time returns the map to where it was before — readers can peek at a location and come right back.
 
 ### YouTube and Vimeo Viewers — `playat`, `play`, `pause`

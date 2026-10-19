@@ -680,7 +680,7 @@ iframe.center {
 }
 
 iframe.right {
-    float: unset;
+    /* float: unset; */
     display: block;
     margin-left: auto;
 }

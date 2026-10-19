@@ -550,7 +550,24 @@
         if (position) $comparer.setAttribute("position", position);
         $imgBefore.src = beforeUrl;
         $imgAfter.src  = afterUrl;
+        // Caption is Markdown. Show plain text immediately, then upgrade once
+        // marked loads and re-measure so the iframe height accounts for it.
         $caption.textContent = caption;
+        if (caption.trim()) {
+            import("https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js")
+                .then(({ marked }) => {
+                    const html = marked.parse(caption.trim()).trim();
+                    // Unwrap a single <p>…</p> so it flows inline in the caption.
+                    $caption.innerHTML = html.replace(/^<p>([\s\S]*?)<\/p>$/i, "$1");
+                    $caption.querySelectorAll("a").forEach(a => {
+                        a.target = "_blank";
+                        a.rel = "noopener noreferrer";
+                    });
+                    setIframeHeight();
+                    if (typeof notifyHeight === "function") notifyHeight();
+                })
+                .catch(() => {});
+        }
         if (caption.trim()) {
             $imgBefore.alt = `Before: ${caption}`;
             $imgAfter.alt  = `After: ${caption}`;

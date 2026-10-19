@@ -20,14 +20,12 @@ The guides are organized in the order most authors need them:
 
 | Guide | What it covers |
 |---|---|
-{% for guide in site.data.entreluma_admin_guides %}
-| [{{ guide.title }}]({{ guide.url }}) | {{ guide.description }} |
-{% endfor %}
 | [Authoring a Visual Narrative](entreluma-authoring-a-visual-narrative) | A start-to-finish tutorial for first-time authors — no GitHub, Jekyll, or Markdown experience assumed |
 | [Entreluma Overview](entreluma-overview) | What Entreluma is, what it adds, and how it is enabled |
 | [Authors Guide](entreluma-authors-guide) | Creating, previewing, and publishing a post step by step |
 | [Preview Setup](entreluma-preview-setup) | Editor setup, GitHub connection, bookmarklet, and preview boundaries |
 | [Formatting Tips](entreluma-formatting-tips) | Controlling viewer size, position, and text wrapping |
+| [Dedicated Homepage and Examples Index](entreluma-dedicated-homepage) | Separating project introduction from the standard post collection |
 
 ### Tools
 
@@ -54,6 +52,7 @@ Viewers are the interactive elements you add to a post with a simple include tag
 |---|---|
 | [Action Links](entreluma-action-links) | The complete reference for making text trigger viewer actions |
 | [Display Modes](entreluma-display-modes) | Flat pages vs. the two-column scrollytelling layout |
+| [Article Downloads](entreluma-article-downloads) | Saving articles as local, print-quality PDF or editable Word files |
 
 ### When Something Goes Wrong
 

@@ -73,7 +73,7 @@ Actions by component:
 | Component | Action | args[0] format |
 |---|---|---|
 | image | `zoomto` | IIIF-style region: `pct:x,y,w,h` or `x,y,w,h`; `label` shown as region label |
-| map | `flyto` | `lat,lng,zoom` or `Qxxxx[,zoom]`; repeating the same target restores the prior view |
+| map | `flyto` | `args[0]`: `lat,lng,zoom` or `Qxxxx[,zoom]`; optional `args[1]`: `popup` opens a matching marker popup after the flight; repeating the same target restores the prior view |
 | youtube | `playat` | `start[,end]`, seconds or `h:mm:ss` |
 | youtube | `play` | optional `start` |
 | youtube | `pause` | (none) |

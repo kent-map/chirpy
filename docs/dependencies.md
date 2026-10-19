@@ -16,6 +16,7 @@ Shoelace loads an internal lazy module graph, so it is pinned but not SRI'd.
 | Dependency | Version | Referenced in | SRI |
 |---|---|---|---|
 | Shoelace | 2.18.0 | `_layouts/post.html` (theme css + autoloader), `assets/js/entreluma.js` (component imports), `assets/css/entreluma.css` (@import theme), `assets/components/{image-compare,vis-network}.html` | no (module graph) |
+| JSZip | 3.10.1 | `_includes/article-download.html` (loaded on demand for Word export) | yes |
 | scrollama | 3.2.0 | `assets/js/entreluma.js` (import, cdnjs) | no (import) |
 | js-md5 | 0.8.3 | `assets/js/entreluma.js`, `assets/components/image.html` (import) | no (import) |
 | Font Awesome | 6.5.x | `_includes/sidebar.html` etc. (via Chirpy), `assets/components/map.html` (6.5.0) | no |
@@ -24,7 +25,8 @@ Shoelace loads an internal lazy module graph, so it is pinned but not SRI'd.
 
 | Dependency | Version | Referenced in | Purpose |
 |---|---|---|---|
-| Pagefind | 1.5.2 | `.github/workflows/pages-deploy.yml`, `docs/search.md` | Generates the static production search index after Jekyll builds |
+| Pagefind | 1.5.2 | `package.json`, `.github/workflows/pages-deploy.yml`, `docs/search.md` | Generates the static production search index after Jekyll builds |
+| sharp | 0.35.4 | `package.json`, `tools/optimize_deployment_images.mjs` | Resizes and recompresses the generated `_site` copies of post images to keep the Pages artifact small |
 
 ## Components (iframe viewers)
 

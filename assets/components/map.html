@@ -800,7 +800,7 @@
     }
 
     function parseMarkerDef(markerStr) {
-      const parts = markerStr.split("~");
+      const parts = markerStr.split("~").map(part => part.trim());
       if (!parts.length) return null;
 
       if (isQid(parts[0])) {
@@ -871,7 +871,7 @@
     }
 
     // ------------------------------ leaflet bits ----------------------------
-    function toGeoJSONLayer(data, { getEntity, popupOnHover }) {
+    function toGeoJSONLayer(data, { getEntity, popupOnHover, markerEntries }) {
       return L.geoJSON(data, {
         pointToLayer: (feature, latlng) => {
           const p = feature.properties || {};
@@ -917,18 +917,19 @@
           return L.marker(latlng, { icon: new L.Icon(iconOptions) });
         },
 
-        onEachFeature: async (feature, layer) => {
+        onEachFeature: (feature, layer) => {
           const p = feature.properties || {};
 
-          let card;
-          if (p.qid || isQid(p.id)) {
-            const qid = p.qid || p.id;
-            const e = await getEntity(qid);
-            card = makeLocationCard(e || { label: qid });
-          } else {
-            card = makeLocationCard(p);
+          const qid = p.qid || (isQid(p.id) ? p.id : null);
+          const popupReady = (async () => {
+            const e = qid ? await getEntity(qid).catch(() => null) : null;
+            const card = makeLocationCard(qid ? (e || { label: qid }) : p);
+            layer.bindPopup(card.outerHTML);
+          })();
+
+          if (feature.geometry?.type === "Point" && typeof layer.getLatLng === "function") {
+            markerEntries.push({ layer, qid, popupReady });
           }
-          layer.bindPopup(card.outerHTML);
 
           if (popupOnHover) {
             layer.on("mouseover", () => layer.openPopup());
@@ -965,18 +966,32 @@
     }
 
     // ------------------------------ messaging ------------------------------
-    function setupFlyToMessaging({ map, getEntity }) {
+    function findTargetMarker(markerEntries, target) {
+      if (target.qid) {
+        const byId = markerEntries.find(entry => entry.qid === target.qid);
+        if (byId) return byId;
+      }
+      // Coordinate targets can identify custom markers, and Q-id targets can
+      // identify a marker defined at the entity's coordinates.
+      return markerEntries.find(entry => entry.layer.getLatLng().distanceTo(target.center) <= 2);
+    }
+
+    function setupFlyToMessaging({ map, getEntity, markerEntries }) {
       let prior = null;
       let lastTargetKey = null;
+      let actionNumber = 0;
 
       Entreluma.onAction(async ({ action, args }) => {
         if (action !== "flyto") return;
 
         const locZoom = String(args[0] ?? "").trim();
         if (!locZoom) return;
+        const currentAction = ++actionNumber;
+        const isCurrent = () => currentAction === actionNumber;
+        map.closePopup();
 
         if (locZoom === lastTargetKey && prior) {
-          await flyTo(map, prior, getEntity);
+          await flyTo(map, prior, getEntity, { isCurrent });
           prior = null;
           lastTargetKey = null;
           return;
@@ -987,15 +1002,19 @@
         prior = `${c.lat.toFixed(5)},${c.lng.toFixed(5)},${z}`;
         lastTargetKey = locZoom;
 
-        await flyTo(map, locZoom, getEntity);
+        await flyTo(map, locZoom, getEntity, {
+          isCurrent,
+          markerEntries: args.slice(1).includes("popup") ? markerEntries : null
+        });
       });
     }
 
-    async function flyTo(map, locZoom, getEntity) {
+    async function flyTo(map, locZoom, getEntity, { isCurrent = () => true, markerEntries = null } = {}) {
       const s = String(locZoom || "").trim();
       if (!s) return;
 
       const parts = s.split(",").map(x => x.trim()).filter(Boolean);
+      let target;
 
       if (parts.length >= 1 && isQid(parts[0])) {
         const qid = parts[0];
@@ -1003,13 +1022,24 @@
         const ll = entity?.coords ? parseLatLng(entity.coords) : null;
         const zoom = parts.length >= 2 ? Number(parts[1]) : null;
         if (!ll) return;
-        map.flyTo(ll, Number.isFinite(zoom) ? zoom : map.getZoom());
-        return;
+        target = { center: ll, zoom: Number.isFinite(zoom) ? zoom : map.getZoom(), qid };
+      } else {
+        const parsed = parseLatLngZoom(s);
+        if (!parsed) return;
+        target = { center: parsed.center, zoom: Number.isFinite(parsed.zoom) ? parsed.zoom : map.getZoom() };
       }
 
-      const parsed = parseLatLngZoom(s);
-      if (!parsed) return;
-      map.flyTo(parsed.center, Number.isFinite(parsed.zoom) ? parsed.zoom : map.getZoom());
+      if (!isCurrent()) return;
+      const marker = markerEntries && findTargetMarker(markerEntries, target);
+      if (marker) {
+        await marker.popupReady;
+        if (!isCurrent()) return;
+        map.once("moveend", () => {
+          if (isCurrent() && map.getCenter().distanceTo(target.center) <= 2 &&
+            Math.abs(map.getZoom() - target.zoom) < 0.01) marker.layer.openPopup();
+        });
+      }
+      map.flyTo(target.center, target.zoom);
     }
 
     // ------------------------------ init pipeline ------------------------------
@@ -1126,9 +1156,6 @@
         try { await navigator.clipboard?.writeText(toCopy); } catch { }
       });
 
-      // FlyTo messages
-      setupFlyToMessaging({ map, getEntity });
-
       // Layer defs
       const layerDefs = [];
 
@@ -1146,13 +1173,17 @@
 
       const normalizedDefs = await normalizeLayerDefs(layerDefs, { entities });
 
-      await addLayers(map, normalizedDefs, { getEntity, props, layerControlRef });
+      const markerEntries = [];
+      await addLayers(map, normalizedDefs, { getEntity, props, layerControlRef, markerEntries });
+
+      // Register actions after markers are available for popup matching.
+      setupFlyToMessaging({ map, getEntity, markerEntries });
 
       // Done
       mainEl.style.visibility = "visible";
     }
 
-    async function addLayers(map, layerDefs, { getEntity, props, layerControlRef }) {
+    async function addLayers(map, layerDefs, { getEntity, props, layerControlRef, markerEntries }) {
       if (!layerDefs.length) return;
 
       const markersByLayer = new Map();
@@ -1193,7 +1224,7 @@
       // Markers
       for (const [layerName, markers] of markersByLayer.entries()) {
         const fc = toGeoJSON(markers);
-        const layer = toGeoJSONLayer(fc, { getEntity, popupOnHover: !!props.popupOnHover });
+        const layer = toGeoJSONLayer(fc, { getEntity, popupOnHover: !!props.popupOnHover, markerEntries });
         addOverlayToControl(map, layerControlRef, layer, layerName);
         map.addLayer(layer);
       }
@@ -1204,7 +1235,7 @@
         try {
           const url = def.url;
           const data = await fetchJson(url, { timeoutMs: 15000 });
-          const layer = toGeoJSONLayer(data, { getEntity, popupOnHover: !!props.popupOnHover });
+          const layer = toGeoJSONLayer(data, { getEntity, popupOnHover: !!props.popupOnHover, markerEntries });
 
           const defaultName = (() => {
             const tail = url.split("/").pop() || "GeoJSON";

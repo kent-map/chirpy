@@ -1,0 +1,96 @@
+{% include lang.html %}
+
+{% assign all_pinned = site.posts | where: 'pin', 'true' %}
+{% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign posts = '' | split: '' %}
+
+{% if paginator %}
+  {% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
+  {% assign visible_end = visible_start | plus: paginator.per_page %}
+
+  {% if all_pinned.size > visible_start %}
+    {% if all_pinned.size > visible_end %}
+      {% assign pinned_size = paginator.per_page %}
+    {% else %}
+      {% assign pinned_size = all_pinned.size | minus: visible_start %}
+    {% endif %}
+
+    {% for i in (visible_start..all_pinned.size) limit: pinned_size %}
+      {% assign posts = posts | push: all_pinned[i] %}
+    {% endfor %}
+  {% else %}
+    {% assign pinned_size = 0 %}
+  {% endif %}
+
+  {% assign normal_size = paginator.posts | size | minus: pinned_size %}
+
+  {% if normal_size > 0 %}
+    {% if pinned_size > 0 %}
+      {% assign normal_start = 0 %}
+    {% else %}
+      {% assign normal_start = visible_start | minus: all_pinned.size %}
+    {% endif %}
+
+    {% assign normal_end = normal_start | plus: normal_size | minus: 1 %}
+
+    {% for i in (normal_start..normal_end) %}
+      {% assign posts = posts | push: all_normal[i] %}
+    {% endfor %}
+  {% endif %}
+{% else %}
+  {% assign posts = all_pinned | concat: all_normal %}
+{% endif %}
+
+<div id="post-index" class="post-index view-list flex-grow-1 px-xl-1">
+  {% for post in posts %}
+    {% include post_index_item.html post=post %}
+  {% endfor %}
+</div>
+
+{% if paginator and paginator.total_pages > 1 %}
+  {% include post-paginator.html %}
+{% endif %}
+
+<script>
+  const postIndex = document.querySelector("#post-index");
+  const toggleBtn = document.querySelector("#view-toggle");
+  const toggleIcon = toggleBtn?.querySelector("i");
+
+  if (toggleBtn) {
+    toggleBtn.style.display = "unset";
+  }
+
+  function setPostIndexView(view) {
+    const isGrid = view === "grid";
+
+    postIndex?.classList.toggle("view-grid", isGrid);
+    postIndex?.classList.toggle("view-list", !isGrid);
+
+    if (toggleIcon) {
+      toggleIcon.className = isGrid ? "fa-solid fa-bars" : "fa-solid fa-grip";
+    }
+
+    localStorage.setItem("postIndexView", view);
+  }
+
+  toggleBtn?.addEventListener("click", () => {
+    setPostIndexView(postIndex?.classList.contains("view-grid") ? "list" : "grid");
+  });
+
+  setPostIndexView(localStorage.getItem("postIndexView") || "{{ page.format | default: 'list' }}");
+
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest(".post-excerpt-toggle");
+    if (!button) return;
+
+    event.preventDefault();
+    event.stopPropagation();
+
+    const card = button.closest(".post-index-item");
+    if (!card) return;
+
+    const expanded = card.classList.toggle("is-expanded");
+    button.setAttribute("aria-expanded", expanded ? "true" : "false");
+    button.textContent = expanded ? "Less" : "More";
+  });
+</script>

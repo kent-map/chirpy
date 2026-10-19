@@ -104,6 +104,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+
+      - name: Install Node build tools
+        run: npm ci
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -134,8 +138,11 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Optimize deployment images
+        run: node tools/optimize_deployment_images.mjs "_site${{ steps.pages.outputs.base_path }}/assets/posts"
+
       - name: Build Pagefind search index
-        run: npx --yes pagefind@1.5.2 --site "_site${{ steps.pages.outputs.base_path }}"
+        run: npx --no-install pagefind --site "_site${{ steps.pages.outputs.base_path }}"
 
       - name: Check repo consistency
         run: python3 tools/check_consistency.py
@@ -163,6 +170,9 @@ jobs:
             --swap-urls "^${{ steps.pages.outputs.base_path }}/:/" \
             --ignore-files "/assets\/components\//" \
             --ignore-urls "/^Q[0-9]+$/,/\/(zoomto|flyto|playat|play|pause)\//,/^http:\/\/127\.0\.0\.1/,/^http:\/\/0\.0\.0\.0/,/^http:\/\/localhost/"
+
+      - name: Enforce deployment size budget
+        run: ruby tools/check_deployment_size.rb "_site${{ steps.pages.outputs.base_path }}" 900000000
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3

@@ -4,6 +4,7 @@
 Checks:
   1. Exactly one Shoelace version is referenced across the repo (multiple
      simultaneous versions double-load the library and can conflict).
+  2. The on-demand JSZip dependency is pinned and integrity checked.
 
 Exits non-zero on failure.
 """
@@ -54,8 +55,23 @@ def check_shoelace_versions() -> None:
         (errors if SHOELACE_STRICT else warnings).append(msg)
 
 
+def check_jszip() -> None:
+    include = (REPO / "_includes/article-download.html").read_text()
+    expected_url = "https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"
+    expected_sri = (
+        "sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG"
+    )
+    if expected_url not in include:
+        errors.append("article export must use the pinned JSZip 3.10.1 URL")
+    if expected_sri not in include:
+        errors.append("article export JSZip reference is missing the expected SRI hash")
+    if "pdf-converter" in include or ".run.app/pdf" in include:
+        errors.append("article export must not call an external PDF conversion service")
+
+
 def main() -> int:
     check_shoelace_versions()
+    check_jszip()
 
     for w in warnings:
         print(f"WARNING: {w}")

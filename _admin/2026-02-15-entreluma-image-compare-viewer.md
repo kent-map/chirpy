@@ -111,7 +111,7 @@ As with `before`, alignment corrections are appended to this value automatically
 #### caption
 {: .attribute }
 
-Text displayed below the viewer. If omitted, no caption is shown.
+Text displayed below the viewer. Supports inline Markdown (e.g. `*italic*`, `**bold**`, `[links](https://example.org)`). If omitted, no caption is shown.
 
     caption="Canterbury High Street — 1920 vs today"
 

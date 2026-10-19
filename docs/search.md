@@ -27,7 +27,8 @@ serve the output directory:
 
 ```sh
 JEKYLL_ENV=production bundle exec jekyll build
-npx --yes pagefind@1.5.2 --site _site
+npm ci
+npx --no-install pagefind --site _site
 ruby -run -e httpd _site -p 4000
 ```
 
@@ -40,6 +41,6 @@ directory. The browser loader reads `site.baseurl` and prefixes result links.
 
 ## Deployment
 
-The included Pages workflow pins Pagefind 1.5.2 and runs it after Jekyll, before
+The included Pages workflow installs Pagefind 1.5.2 from `package-lock.json` and runs it after Jekyll, before
 link checking and artifact upload. Any replacement deployment must preserve that
 ordering and must pass Pagefind the exact directory that Jekyll generated.

@@ -99,6 +99,7 @@ script_includes:
 
 {% if page.entreluma != false %}
   <link rel="stylesheet" href="{{ '/assets/css/entreluma.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/article-export.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css">
   <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/shoelace.js"></script>
 {% endif %}
@@ -122,12 +123,19 @@ script_includes:
       {% else %}{%- assign cite_enabled = site.entreluma.cite -%}{%- endif -%}
     {%- else -%}{%- assign cite_enabled = page.entreluma.cite -%}{%- endif -%}
 
-    {%- if page.entreluma.pdf == nil -%}
-      {%- if site.entreluma.pdf == nil -%}{%- assign pdf_download_enabled = true -%}
-      {% else %}{%- assign pdf_download_enabled = site.entreluma.pdf -%}{%- endif -%}
-    {%- else -%}{%- assign pdf_download_enabled = page.entreluma.pdf -%}{%- endif -%}
+    {%- if page.entreluma.downloads != nil -%}
+      {%- assign article_download_enabled = page.entreluma.downloads -%}
+    {%- elsif site.entreluma.downloads != nil -%}
+      {%- assign article_download_enabled = site.entreluma.downloads -%}
+    {%- elsif page.entreluma.pdf != nil -%}
+      {%- assign article_download_enabled = page.entreluma.pdf -%}
+    {%- elsif site.entreluma.pdf != nil -%}
+      {%- assign article_download_enabled = site.entreluma.pdf -%}
+    {%- else -%}
+      {%- assign article_download_enabled = true -%}
+    {%- endif -%}
 
-    <!-- toolbar_enabled={{toolbar_enabled}} mode_toggle_enabled={{mode_toggle_enabled}} cite_enabled={{cite_enabled}} pdf_download_enabled={{pdf_download_enabled}} -->
+    <!-- toolbar_enabled={{toolbar_enabled}} mode_toggle_enabled={{mode_toggle_enabled}} cite_enabled={{cite_enabled}} article_download_enabled={{article_download_enabled}} -->
     {% if toolbar_enabled %}
       <div id="toolbar" role="toolbar" aria-label="Post tools">
         <div class="toolbar-inner">
@@ -148,12 +156,10 @@ script_includes:
             </sl-tooltip>
           {% endif %}
 
-          {% if pdf_download_enabled %}
-            <sl-tooltip content="Download PDF" placement="bottom" hoist>
-              <span class="toolbar-item">
-                {% include pdf-download.html %}
-              </span>
-            </sl-tooltip>
+          {% if article_download_enabled %}
+            <span class="toolbar-item">
+              {% include article-download.html %}
+            </span>
           {% endif %}
 
         </div>
@@ -190,7 +196,7 @@ script_includes:
         (and htmlproofer). Treat a blank/missing path as "no header image".
       {%- endcomment -%}
       {%- assign _hdr_src = page.image.path -%}
-      {%- if _hdr_src == blank and page.image.first == nil -%}
+      {%- if _hdr_src == nil and page.image.first == nil -%}
         {%- comment -%} image given as a plain string, not a mapping {%- endcomment -%}
         {%- assign _hdr_src = page.image -%}
       {%- endif -%}

@@ -44,6 +44,15 @@ Enclosing container class controls layout:
       {%- assign src = site.cdn | append: '/' | append: src -%}
     {% endif %}
 
+    {%- comment -%} Local images: apply site.baseurl (e.g. GitHub Pages project sites) {%- endcomment -%}
+    {%- if is_abs == false and is_wc == false and is_cloudinary_cdn == false -%}
+        {%- assign src = src | relative_url -%}
+    {%- endif -%}
+
+    {%- if is_wc -%}
+        {%- capture src -%}{%- include media-url.html src=src width=500 -%}{%- endcapture -%}
+    {%- endif -%}
+
     {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
     {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
 
@@ -59,6 +68,10 @@ Enclosing container class controls layout:
                 %}
             {% endunless %}
         {% endif %}
+
+        {% unless lqip contains 'data:' or lqip contains 'http' %}
+            {% assign lqip = lqip | relative_url %}
+        {% endunless %}
 
         {% assign lqip_attr = 'lqip="' | append: lqip | append: '"' %}
     {%- endif -%}

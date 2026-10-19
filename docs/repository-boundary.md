@@ -6,7 +6,7 @@
 
 ## Clean-start selection
 
-Copied the publishing runtime from the local `rsnyder/storykit-starter` working tree without its Git history. Retained pinned Ruby/theme dependencies, the Pages workflow, local-media rendering checks, Leaflet assets, existing book icon/favicons, and the Monument Valley example and its local image.
+Copied the publishing runtime from the local `rsnyder/storykit-starter` working tree without its Git history. Retained pinned Ruby/theme dependencies, the Pages workflow, local-media rendering checks, Leaflet assets, and the Monument Valley example and its local image. The initial book icon and favicons were subsequently replaced with Entreluma branding.
 
 Omitted the old author-guide collection and regression fixture, documentation screenshots and unused example media, and technical history. Template copies use the manifest-driven `tools/sync_code.py` described in [upstream-sync.md](upstream-sync.md) to check and apply reusable framework changes without overwriting site-owned content.
 

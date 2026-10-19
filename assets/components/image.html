@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <title>Image Viewer</title>
 
   <!-- OpenSeadragon -->
@@ -75,36 +74,6 @@
       overflow: hidden;
       text-overflow: ellipsis;
       */
-    }
-
-    /* Right-side expand button */
-    .caption-action {
-      position: absolute;
-      z-index: 51; /* Above the aspect-ratio hotspot. */
-      right: 6px;
-      top: 12px;
-      transform: translateY(-50%);
-
-      /* big, easy hit target */
-      width: 32px;
-      height: 32px;
-      padding: 0;
-      border: 0;
-      border-radius: 999px;
-
-      background: transparent;
-      color: inherit;
-      cursor: pointer;
-      opacity: 0.75;
-    }
-
-    .caption-action:hover {
-      opacity: 1;
-    }
-
-    .caption-action:focus-visible {
-      outline: 2px solid currentColor;
-      outline-offset: 2px;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -271,11 +240,6 @@
 
     <figcaption id="caption" aria-live="polite">
       <span id="caption-text"></span>
-
-      <button id="caption-expand" type="button" class="caption-action" aria-label="Open fullscreen"
-        title="Open fullscreen">
-        <i class="fa-solid fa-expand" aria-hidden="true"></i>
-      </button>
     </figcaption>
   </figure>
 
@@ -302,7 +266,6 @@
       overlay: document.getElementById("drawing-overlay"),
       caption: document.getElementById("caption"),
       captionText: document.getElementById("caption-text"),
-      captionExpand: document.getElementById("caption-expand"),
       arTip: document.getElementById("ar-tip"),
     };
 
@@ -1516,18 +1479,22 @@
     if (cfg.max) {
       document.getElementById('osd').classList.add('max');
     } else {
+      const imageArea = document.getElementById('osd');
       const openExpanded = (e) => {
         e.preventDefault();
         e.stopPropagation();
 
-        // Same behavior you already use in static mode:
         Entreluma.showDialog(`${location.href}&max`, 1.0);
       };
-      document.getElementById('osd').addEventListener('click', openExpanded);
-      els.captionExpand.addEventListener('click', openExpanded);
+      imageArea.setAttribute('role', 'button');
+      imageArea.setAttribute('tabindex', '0');
+      imageArea.setAttribute('aria-label', 'Open image fullscreen');
+      imageArea.addEventListener('click', openExpanded);
+      imageArea.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') openExpanded(e);
+      });
       enableModifierWheelZoom(viewer);
     }
-    if (cfg.max) els.captionExpand.style.display = "none";
 
     // Tooltip updates
     window.addEventListener("resize", updateIframeAspectTip);

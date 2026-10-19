@@ -286,6 +286,7 @@ The map's distinguishing interactive feature is the `flyto` action: a normal-loo
     id="map1"
     center="37.01056, -110.2425"
     zoom="9"
+    markers="37.01056,-110.2425~Monument_Valley~Red_sandstone_buttes|Q118841~National_Parks"
 %}
 ```
 {: .nolineno }
@@ -294,8 +295,8 @@ The map's distinguishing interactive feature is the `flyto` action: a normal-loo
 Note the `id` attribute — the action links below target it.
 
 ```markdown
-[Monument Valley](map1/flyto/37.02828,-110.23819,11)
-[Grand Canyon](map1/flyto/Q118841,12)
+[Monument Valley](map1/flyto/37.01056,-110.2425,11/popup)
+[Grand Canyon](map1/flyto/Q118841,12/popup)
 ```
 {: .nolineno }
 
@@ -306,21 +307,30 @@ Note the `id` attribute — the action links below target it.
     id="map1"
     center="37.01056, -110.2425"
     zoom="9"
+    markers="37.01056,-110.2425~Monument_Valley~Red_sandstone_buttes|Q118841~National_Parks"
 %}
 </div>
 
 </div>
 
-The link URL has three segments: the map's `id`, the action name `flyto`, and the destination. The destination can be either:
+The link URL has three required segments: the map's `id`, the action name `flyto`, and the destination. The destination can be either:
 
 | Form | Example | Meaning |
 |---|---|---|
 | `lat,lng,zoom` | `map1/flyto/37.02828,-110.23819,11` | Fly to exact coordinates at the given zoom level |
 | `wikidata-id,zoom` | `map1/flyto/Q118841,12` | Look up the location of a Wikidata entity and fly there |
 
-Try it: fly to [Monument Valley](map1/flyto/37.02828,-110.23819,11), or to the [Grand Canyon](map1/flyto/Q118841,12) by its Wikidata ID.
+Add `/popup` after the destination to open a matching marker's popup when the flight ends. The marker must already be defined on the map; a flyto link alone does not create one. Match a Wikidata marker by its Q-id, or a custom marker by its coordinates (within about 2 meters). The marker's existing title, description, and image appear in the popup when available.
 
-Clicking the **same** link a second time returns the map to the view it had before — readers can peek at a location and come right back.
+```markdown
+[Monument Valley](map1/flyto/37.01056,-110.2425,11/popup)
+[Grand Canyon](map1/flyto/Q118841,12/popup)
+```
+{: .nolineno }
+
+Try it: fly to [Monument Valley](map1/flyto/37.01056,-110.2425,11/popup), or to the [Grand Canyon](map1/flyto/Q118841,12/popup) by its Wikidata ID.
+
+Clicking the **same** link a second time closes the popup and returns the map to the view it had before — readers can peek at a location and come right back.
 
 The full action-link syntax, including custom labels, is in the [Action Links reference](entreluma-action-links).
 

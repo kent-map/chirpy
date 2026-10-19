@@ -308,7 +308,7 @@ Each front matter field plays a role:
 | `categories` | One or two broad subject categories used to group articles on the site — e.g. `["Landmarks"]` or `["Landmarks", "Engineering"]` |
 | `tags` | Any number of keyword tags for filtering and search — e.g. `[bridges, san-francisco]` |
 | `published` | Set to `false` while drafting; change to `true` when you submit the pull request |
-| `featured` | Set to `true` to highlight the article on the home page; leave `false` unless asked by an administrator |
+| `featured` | Optional flag used by the `featured_posts.html` include. It does not change the default landing or Examples pages |
 | `entreluma` | Entreluma extensions are **enabled by default** — you do not need this field. Add `entreluma: false` only if you want to disable all viewers on a specific page |
 | `media_subpath` | The folder where your uploaded images live. Must match the folder name in `assets/posts/` exactly (see §3.1) |
 | `image.path` | The header image shown on the article card and at the top of the page. Use a `wc:` shorthand for a Wikimedia Commons file (e.g. `wc:GoldenGateBridge-001.jpg`) or a local filename. Aim for an image that looks good at roughly 16:9 landscape proportions |

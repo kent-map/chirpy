@@ -1,0 +1,55 @@
+{%- comment -%}
+  Client-side article export. PDF uses the browser's native print engine;
+  Word is generated locally in the browser with a pinned JSZip dependency.
+{%- endcomment -%}
+
+{%- assign export_image = page.image.path -%}
+{%- if export_image == nil and page.image.first == nil -%}
+  {%- assign export_image = page.image -%}
+{%- endif -%}
+{%- if export_image != blank -%}
+  {%- capture export_hero_url -%}{%- include media-url.html src=export_image subpath=page.media_subpath absolute=true -%}{%- endcapture -%}
+{%- endif -%}
+
+{%- capture export_author -%}
+  {%- if page.authors -%}
+    {%- for author in page.authors -%}
+      {%- if forloop.first == false -%}, {% endif -%}
+      {%- if site.data.authors[author].name -%}{{ site.data.authors[author].name }}{%- else -%}{{ author }}{%- endif -%}
+    {%- endfor -%}
+  {%- elsif page.author -%}
+    {%- if site.data.authors[page.author].name -%}{{ site.data.authors[page.author].name }}{%- else -%}{{ page.author }}{%- endif -%}
+  {%- endif -%}
+{%- endcapture -%}
+
+<div class="article-download"
+     data-article-export
+     data-title="{{ page.title | strip_html | escape }}"
+     data-description="{{ page.description | strip_html | escape }}"
+     data-author="{{ export_author | strip | escape }}"
+     data-date="{{ page.date | date_to_xmlschema }}"
+     data-source-url="{{ page.url | absolute_url | escape }}"
+     data-hero-url="{{ export_hero_url | strip | escape }}"
+     data-jszip-src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"
+     data-jszip-integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG">
+  <button type="button"
+          class="article-download__trigger"
+          aria-label="Download this article"
+          aria-haspopup="menu"
+          aria-expanded="false">
+    <i class="fas fa-download" aria-hidden="true"></i>
+  </button>
+  <div class="article-download__menu" role="menu" hidden>
+    <button type="button" role="menuitem" data-export-format="pdf">
+      <i class="fas fa-file-pdf" aria-hidden="true"></i>
+      <span><strong>PDF</strong><small>Print-quality document</small></span>
+    </button>
+    <button type="button" role="menuitem" data-export-format="docx">
+      <i class="fas fa-file-word" aria-hidden="true"></i>
+      <span><strong>Word</strong><small>Editable document</small></span>
+    </button>
+  </div>
+  <span class="article-download__status" role="status" aria-live="polite"></span>
+</div>
+
+<script src="{{ '/assets/js/article-export.js' | relative_url }}" defer></script>
