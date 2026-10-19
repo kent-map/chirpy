@@ -41,7 +41,10 @@ Enclosing container class controls layout:
         {% endif %}
     {% endif %}
 
-    {% if is_dev == false and is_cloudinary_cdn == true and is_wc == false %}
+    {%- comment -%} Wikimedia rejects (429) Cloudinary fetches, so its URLs go direct. {%- endcomment -%}
+    {%- assign is_wm_direct = false -%}
+    {%- if src contains 'upload.wikimedia.org' -%}{%- assign is_wm_direct = true -%}{%- endif -%}
+    {% if is_dev == false and is_cloudinary_cdn == true and is_wc == false and is_wm_direct == false %}
       {%- assign src = site.cdn | append: '/' | append: src -%}
     {% endif %}
 

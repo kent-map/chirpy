@@ -221,7 +221,10 @@ script_includes:
             {%- assign is_cloudinary_cdn = true -%}
         {%- endif -%}
 
-        {% if is_abs == true and is_dev == false and is_cloudinary_cdn == true %}
+        {%- comment -%} Wikimedia rejects (429) Cloudinary fetches, so its URLs go direct. {%- endcomment -%}
+        {%- assign is_wm_direct = false -%}
+        {%- if src contains 'upload.wikimedia.org' -%}{%- assign is_wm_direct = true -%}{%- endif -%}
+        {% if is_abs == true and is_dev == false and is_cloudinary_cdn == true and is_wm_direct == false %}
           {%- assign src = site.cdn | append: '/' | append: src -%}
         {%- endif -%}
 
