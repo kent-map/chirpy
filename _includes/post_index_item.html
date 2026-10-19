@@ -19,7 +19,8 @@ Enclosing container class controls layout:
 
     {%- assign p3 = src | slice: 0, 3 -%}
     {%- assign is_wc = false -%}
-    {%- if p3 == "wc:" or src contains "commons.wikimedia.org" -%}
+    {%- assign src_base = src | split: "?" | first -%}
+    {%- if p3 == "wc:" or src_base contains "commons.wikimedia.org" -%}
         {%- assign is_wc = true -%}
     {%- endif -%}
 

@@ -16,7 +16,8 @@
 
   {%- assign p3 = url | slice: 0, 3 -%}
   {%- assign is_wc = false -%}
-  {%- if p3 == "wc:" or url contains "commons.wikimedia.org" -%}
+  {%- assign url_base = url | split: "?" | first -%}
+  {%- if p3 == "wc:" or url_base contains "commons.wikimedia.org" -%}
     {%- assign is_wc = true -%}
   {%- endif -%}
 
