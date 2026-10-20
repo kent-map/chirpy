@@ -4,7 +4,7 @@ description: "Montague Rhodes James links a Kent childhood at Goodnestone with a
 author: Danny Rhodes
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Literary places, Representation & interpretation, Ghost stories ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /20c/20c-jamesmr-biography/
 published: true
