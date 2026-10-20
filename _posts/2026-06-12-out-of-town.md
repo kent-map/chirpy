@@ -1,6 +1,6 @@
 ---
 title: Out of Town
-description: Charles Dickens Out of Town
+description: Charles Dickens Out of Town describes Pavilionstone, his name for Folkestone.
 author: Charles Dickens
 date: 2026-06-12
 categories: [ 19c ]
