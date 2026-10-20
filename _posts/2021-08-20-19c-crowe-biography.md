@@ -4,7 +4,7 @@ description: "Dr Ruth Heholt introduces Kent born and raised author Catherine Cr
 author: Dr Ruth Heholt
 date: 2021-08-20
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Coast & sea, Culture & society ]
+tags: [ Authors, Texts & genres, Literary places, Coast & sea, Culture & society, Ghost stories ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-crowe-biography/
 published: true
