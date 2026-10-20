@@ -2,14 +2,13 @@
 title: Out of Town
 description: Charles Dickens Out of Town
 author: Charles Dickens
-date: 2026-04-08
+date: 2026-06-12
 categories: [ 19c ]
-tags: [ seaside ]
-published: false
+tags: [ Coast & sea, Texts & genres ]
+published: true
 featured: false
-permalink: /19c/out-of-town/
+permalink: /19c/19c-out-of-town/
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg
-entreluma: true
 ---
 
 Sitting, on a bright September morning, among my books and papers at my open window on the cliff overhanging the sea-beach, I have the sky and ocean framed before me like a beautiful picture. A beautiful picture, but with such movement in it, such changes of light upon the sails of ships and wake of steamboats, such dazzling gleams of silver far out at sea, such fresh touches on the crisp wave-tops as they break and roll towards me - a picture with such music in the billowy rush upon the shingle, the blowing of morning wind through the corn-sheaves where the farmers' waggons are busy, the singing of the larks, and the distant voices of children at play - such charms of sight and sound as all the Galleries on earth can but poorly suggest.
