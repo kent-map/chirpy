@@ -3,12 +3,11 @@ title: Out of Town
 description: Charles Dickens Out of Town
 author: Charles Dickens
 date: 2026-04-08
-categories: [ Folkestone ]
+categories: [ 19c ]
 tags: [ seaside ]
 published: false
 featured: false
-permalink: /folkestone/out-of-town/
-media_subpath: /assets/img
+permalink: /19c/out-of-town/
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg
 entreluma: true
 ---
