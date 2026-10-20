@@ -18,8 +18,13 @@ Kent has a long tradition of ballad-making, with songs and verses capturing the 
 
 Poet and creative writing tutor Carolyn Oulton from Canterbury Christ Church University led a series of workshops, supporting the local community to co-design a ballad reimagining life in Deal and Sandwich between the 1900s and the 1980s. Using postcards, newspaper clippings and old maps, the group created a range of characters from New Woman Ethel to DFL salesman Mike. CCCU Creative Writing student Louise summed up the mood, ‘I loved sharing ideas, because we were all bouncing off each other.’ PhD student Megan came up with popular favourite ‘Tommy’, and points out that ‘He'd tell our stories too, if it was our photo in his hands. He’s made of stories.’ 
 <br><br>
-Click on the square icon above the image to find the audio file and listen to the ballad.
 
 {% include embed/image.html src="wc:St Clements Graveyard.jpg" aspect="1.213" caption="St Clement's Graveyard which inspired the story of Ethel" %}
 
+Click on the square icon above the image to find the audio file and listen to the ballad.
+
 {% include audio.html src="Ballad-of-Salt-and-Stone.m4a" %}
+
+### References
+
+You can read more about the project [here](https://www.digitaldrama.org/project/salt-and-stone/)
