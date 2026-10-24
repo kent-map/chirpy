@@ -11,8 +11,8 @@ published: true
 toc: false  
 ---
 
-D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the [Pre-Raphaelite Brotherhood](Q184814) in 1848.   
-
+D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the [Pre-Raphaelite Brotherhood](Q184814) in 1848.  
+<br><br>
 His sister Christina was a poet associated with the Pre-Raphaelite literary movement. Her most famous collection was _Goblin Market and Other Poems_ (1862).
 
 {% include embed/image.html src="wc:Dante_Gabriel_Rossetti_-_Joan_of_Arc_%281882%29.jpg" aspect="0.878" caption="Dante Gabriel Rossetti - Joan of Arc (1882)" %}
