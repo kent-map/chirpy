@@ -4,7 +4,7 @@ description: "T.S. Eliot’s recovery stay in Margate in 1921 shaped the draftin
 author: Simone Blandford
 date: 2020-07-19
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places ]
+tags: [ Authors, Texts & genres, Coast & sea, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a-318e-4c7f-8789-6452984df301.jpg
 permalink: /20c/20c-eliot-biography/
 published: true
