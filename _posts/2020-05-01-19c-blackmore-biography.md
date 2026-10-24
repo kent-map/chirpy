@@ -20,11 +20,9 @@ Bypassing the novel’s better-known Kentish locations, such as “the good town
 {% include embed/image.html src="wc:Joseph_Mallord_William_Turner_%281775-1851%29_-_Somer_Hill%2C_Tonbridge_-_NG_1614_-_National_Galleries_of_Scotland.jpg" aspect="1.345" caption="Somer Hill, Tonbridge, Joseph Mallord William Turner" %}
 
 Hospitality in this world of fresh woods and “pastures of the deepest green” comes courtesy of Martin Lovejoy, “the Grower,” and his daughter Mabel, “the flower of Kent.” Next day the “ruddy gloss” of the cherries that she fetches from her father’s orchards gives Hilary another inflaming inrush of the colour that “this lovely daughter of the Kentish Alcinous” could bring to his life. Undeterred by her parents’ pointed remarks about cross-breeding, Mabel and Hilary have soon “straggled off into the strawberry-beds, where nobody could see them,” and there they do a dry run of the strawberry scene in _Tess of the d’Urbervilles._
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Cherries.jpg" aspect="0.75" caption="Kentish cherries" attribution="Michelle Crowther" %}
-
+<br><br>
 The “poetic landscape-painting” of the Applewood sequence, according to _The Saturday Review_ on 15th May 1875, “bespeaks an artist who has thrown himself into his work.” A similarly admiring notice in _The Graphic_ a fortnight later terms it “a graceful and pretty idyll of which we should not care to lose a line.” Having wound the clock back to the pre-Dickensian world of 1811, as if to erase the many marks that the leading novelist of his lifetime had left on the area, Blackmore transforms the Vale of Medway into a land of pastoral Plenty.
 
-Banner Image Credit: Cecil Gordon Lawson - The Hop Gardens of Kent at Wrotham near Sevenoaks - 1908P27 - Birmingham Museums Trust
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/19c/Cherries.jpg" aspect="0.75" caption="Kentish cherries" attribution="Michelle Crowther" %}
 
 {% include embed/image.html src="wc:Farmland%2C_Wrotham_Water_-_geograph.org.uk_-_839286.jpg" aspect="1.333" caption="Wrotham Water" %}
