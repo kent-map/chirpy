@@ -4,7 +4,7 @@ description: "Joseph Conrad’s late-life residence in Bishopsbourne links a maj
 author: Martin Watts
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Heritage & memory ]
+tags: [ Authors, Literary places, Coast & sea, Heritage & memory ]
 image: https://upload.wikimedia.org/wikipedia/commons/c/c7/Bishopsbourne_Village_Hall_-_memorial_plaque_to_Joseph_Conrad.jpg
 permalink: /19c/19c-conrad-biography/
 published: true
