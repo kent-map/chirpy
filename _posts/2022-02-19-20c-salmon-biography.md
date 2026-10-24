@@ -4,7 +4,7 @@ description: "Michelle Crowther traces the life and work of historical fiction w
 author: Michelle Crowther
 date: 2022-02-19
 categories: [ 20c ]
-tags: [ Authors & lives, Towns & cities, Literary places, Texts & genres ]
+tags: [ Authors, Towns & cities, Literary places, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg
 permalink: /20c/20c-salmon-biography/
 published: true
