@@ -4,7 +4,7 @@ description: "Victoria Holt, the pen name of Eleanor Hibbert, drew on late-1960s
 author: Mandy Jones
 date: 2020-07-01
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Coast & sea, Literary places, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/34/Joseph_Mallord_William_Turner_-_Cricket_on_the_Goodwin_Sands_-_Google_Art_Project.jpg
 permalink: /20c/20c-holt-biography/
 published: true
