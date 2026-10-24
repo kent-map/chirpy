@@ -1,6 +1,6 @@
 ---
 title: "Hop Picking and the Literary Imagination"
-description: "In this visual essay, Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature."
+description: "Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature."
 author: Professor Carolyn Oulton
 date: 2019-07-01
 categories: [ 20c ]
@@ -12,12 +12,12 @@ toc: false
 ---
 
 "A Kentish hop-garden, in the month of September, is one of the prettiest scenes to be witnessed in any part of the country."
-
+<br>
 [Thomas Frost]({{ site.baseurl }}/19c/19c-frost-biography), author of _In Kent With Charles Dickens_.
+<br><br>
+To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
 {% include embed/image.html src="wc:Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" aspect="1.213" caption="Hop-Picking in Kent by Stephen Thompson 1875" %}
-
-To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries workhouses were considerably less busy at this time as families and people of all ages were able to participate. Nonetheless, there was considerable variety in their experience. In East Kent hops were measured in 5 bushel baskets, taking up more or less space depending on how sharply the basket was jerked; in West Kent the hops were scooped out of bins and into the baskets, with the compression of each scoop determining the measure. 
 
 {% include embed/image.html src="wc:Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" aspect="1.213" caption="Hop-Picking in Kent by Stephen Thompson 1875" %}
 
@@ -38,8 +38,10 @@ With a characteristic splicing of verve and sharp observation, [Dickens]({{ site
 {% include embed/map.html center="Q104082075" zoom="12.75" markers="Q104082075" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
-
+<br><br>
 "the large army of hop-pickers who, every autumn, come from London to make the Kentish roads unsafe after dark and the householder doubly watchful. Whitechapel and other low quarters are nearly emptied at this season. It is pleasant to know that at least once a year these people escape from their smoky, squalid streets, into green places where they can breathe pure air, but their coming is not welcomed in the country."
+<br><br>
+The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant]({{ site.baseurl }}/19c/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
 
 {% include embed/image.html src="wc:Portrait_Sketch_of_Joseph_Pennell.jpg" aspect="0.656" caption="Portrait Sketch of Joseph Pennell" %}
 
@@ -47,13 +49,13 @@ On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell an
 
 {% include embed/map.html center="Q29303" zoom="12.75" markers="Q29303" allmaps="d549f0ddbeca485f~OS Kent 1899" %}
 
-The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant]({{ site.baseurl }}/19c/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
-
-"The hop-pickers at Pegsden Court Lodge were limited in number to fifteen baskets, which number was regulated by the drying capacity of the oast-house. The pickers too were all villagers, the wives and families of Mr Tremont’s workpeople, with various additions from the small-shopkeeper class, and his own daughters, no ‘foreigners’ ever being imported to work with the Court Lodge hop-pickers, who in consequence considered themselves quite superior beings, giving themselves airs, and speaking of going hop-picking to set up their health for the winter, just as other people might talk of a trip to the seaside, or a continental tour."    
+"The hop-pickers at Pegsden Court Lodge were limited in number to fifteen baskets, which number was regulated by the drying capacity of the oast-house. The pickers too were all villagers, the wives and families of Mr Tremont’s workpeople, with various additions from the small-shopkeeper class, and his own daughters, no ‘foreigners’ ever being imported to work with the Court Lodge hop-pickers, who in consequence considered themselves quite superior beings, giving themselves airs, and speaking of going hop-picking to set up their health for the winter, just as other people might talk of a trip to the seaside, or a continental tour."  
+<br><br>
+But later fictional accounts repeatedly invoke the language of nostalgia, a rhetorical move that allows the contemporary worker to disappear into an imagined tradition.
 
 {% include embed/image.html src="wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22167.jpg" aspect="1.006" caption="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" %}
 
-But later fictional accounts repeatedly invoke the language of nostalgia, a rhetorical move that allows the contemporary worker to disappear into an imagined tradition. In a novel published in 1916, it is understandable that Eden Phillpotts should create an idealised rural community in the Weald, in which ‘Broad and beamy matrons, slim girls, grey-beards, grandmothers and bright-eyed children clustered together with smiles and cheerful looks. All wore a brave, morning face, and preserved that immemorial holiday aspect proper to the picking.’ A year earlier even the sceptical [Somerset Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) had assured readers that for the East Kent hop pickers coming from villages such as Ferne near Folkestone (going presumably to [Canterbury](Q29303)) ‘The work was not hard, it was done in common, in the open air, and for the children it was a long, delightful picnic; here the young men met the maidens; in the long evenings when work was over they wandered about the lanes, making love; and the hopping season was generally followed by weddings.’ The picking season provides an idyllic interlude for Philip Carey, originally from Whitstable, who returns from London for a working holiday.
+In a novel published in 1916, it is understandable that Eden Phillpotts should create an idealised rural community in the Weald, in which ‘Broad and beamy matrons, slim girls, grey-beards, grandmothers and bright-eyed children clustered together with smiles and cheerful looks. All wore a brave, morning face, and preserved that immemorial holiday aspect proper to the picking.’ A year earlier even the sceptical [Somerset Maugham]({{ site.baseurl }}/20c/20c-maugham-biography) had assured readers that for the East Kent hop pickers coming from villages such as Ferne near Folkestone (going presumably to [Canterbury](Q29303)) ‘The work was not hard, it was done in common, in the open air, and for the children it was a long, delightful picnic; here the young men met the maidens; in the long evenings when work was over they wandered about the lanes, making love; and the hopping season was generally followed by weddings.’ The picking season provides an idyllic interlude for Philip Carey, originally from Whitstable, who returns from London for a working holiday.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/20c/Hop_pickers.jpg" aspect="1.834" caption="Hop Picking by T.C. Dugdale, 1937" attribution="© Martin Crowther" %}
 
