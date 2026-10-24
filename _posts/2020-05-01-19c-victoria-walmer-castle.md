@@ -54,11 +54,10 @@ Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holid
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Snargate_St_Dover_1830.jpg" aspect="1.64" caption="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd" %}
 
-**Bibliography**  
+### Bibliography
 From the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg
 
 ### References
-
 [^ref1]: Journal Entry : Tuesday 1st November 1842 http://www.queenvictoriasjournals.org/   
 [^ref2]: Journal Entry : Thursday 10th November 1842 http://www.queenvictoriasjournals.org/  
 [^ref3]: Journal Entry : Friday 11th November 1842 http://www.queenvictoriasjournals.org/   
