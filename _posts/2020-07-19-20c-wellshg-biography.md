@@ -4,7 +4,7 @@ description: "H. G. Wells’s move to Sandgate and Hythe reshaped his literary l
 author: Simone Blandford
 date: 2020-07-19
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres, Travel & mobility ]
+tags: [ Authors, Literary places, Coast & sea, Texts & genres, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-wellshg-biography/
 published: true
