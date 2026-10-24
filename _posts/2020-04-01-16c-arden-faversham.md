@@ -12,9 +12,7 @@ toc: false
 ---
 
 On St. Valentine’s day 1551 a grizzly sight was found in the grounds of [Faversham](Q1000115) abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn. The 1570s saw the rise in popularity of true crime narratives in print, and in c. 1590 the Arden murder was turned into a play. 
-
-{% include embed/image.html src="wc:Faversham_Abbey_Site_-_48474928356.jpg" aspect="1.5" caption="Faversham Abbey" %}
-
+<br><br>
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/7274fc11-fb2d-4028-971f-cbf2608d5e74.jpg" aspect="1.339" caption="The house where Thomas Arden lived and was killed in 1551" attribution="Martin Crowther" %}
@@ -41,22 +39,16 @@ The real Arden was a disliked man who had caused much local offense for purchasi
 
 The Flower-de-Luce building is now the Fleur-de-Lis Heritage Centre, a museum and archive of Faversham heritage. Other scenes of local interest include Arden unloading goods at Faversham Quay and later taking a ferry to the Isle of Sheppey to visit Lord Cheney, the attempted murder on Rainham Downs – ‘A place well-fitting for such a stratagem’, and Alice’s execution in Canterbury, Greene’s in Ospringe. The story continued to remain a popular local tradition, seeing resurges of local performance in the eighteenth century, and again in the late twentieth. Performances took on many forms, including puppet shows and staging’s in the house itself. It continues to remain a much-studied source of both theatrical and historic interest. 
 
-This article was published: 1 November 2020.
-
 {% include embed/image.html src="wc:Faversham_Quay1.jpg" aspect="1.031" caption="Faversham Quay" %}
 
 ### Bibliography and Further Reading
 
-Adams, John Henry, ‘Agentive Objects and Protestant Idolatry in Arden of Faversham, _Studies in English Literature, 1500-1900,_ Vol. 57, Issue 2 (2007), pp. 231-251.   
-
+Adams, John Henry, ‘Agentive Objects and Protestant Idolatry in Arden of Faversham, _Studies in English Literature, 1500-1900,_ Vol. 57, Issue 2 (2007), pp. 231-251.     
 _Arden of Faversham,_ with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007)   
 Belsey, Catherine, _Identity and Difference in Renaissance Drama_ (London: Routledge, 1993, 1st Published 1985).   
-
 Cust, C.V.O., Lionel, ‘Arden of Feversham’, _Archaeologia Cantiana,_ Vol. 34 (1920), pp. 101-138, accessed from Kent Archaeological Trust (accessed 17th April 2020) https://kentarchaeology.org.uk/arch-cant/vol/34/arden-faversham-appendix-i-text-indenture-3-august-1545-appendix-11-topographical.   
-
 Freebury-Jones, Darren, ‘In Defence of Kyd: Evaluating the Claim for Shakespeare’s Part Authorship of Arden of Faversham’, _Authorship,_ Vol. 7, No. 2 (2018), 1-14.
 Holbrook, Peter, _English Renaissance Tragedy – Ideas of Freedom_ (London: Arden Shakespeare, 2015).   
-
 Holinshed, Raphael, _Chronicles of England, Scotland and Ireland_ (second edition, 1587), from Arden of Faversham, with introduction by Tom Lockwood, Text Edited by Martin White (London; New York: Bloomsbury Methuen Drama, 1982 – revised edition 2007).   
 
 Hyde, Patricia, ‘Thomas Arden (c. 1508-1551), _Oxford Dictionary of National Biography,_ published 23 Sep. 2004, revised 28 May 2015 (accessed 15/04/2020) https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-54606.   
