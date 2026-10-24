@@ -4,7 +4,7 @@ description: "Professor Carolyn Oulton explores the life of feminist writer Sara
 author: Simone Blandford
 date: 2020-08-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Literary places ]
+tags: [ Authors, Coast & sea, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-shelleym-biography/
 published: true
