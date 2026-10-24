@@ -11,10 +11,10 @@ published: true
 toc: false  
 ---
 
-**Events:** 29 Sept 1835 – 11th Jan 1836.   
-
+**Events:** 29 Sept 1835 – 11th Jan 1836. 
+<br><br>
 'The streets were ornamented with arches of flowers and flags. The open, free, boundless (to the eye), ocean looked very refreshing. There is nothing between us and France but the sea, here. We have got a small but very nice house, overlooking the sea quite close.' (29th Sept 1835).
-
+<br><br>
 The fifteen-year-old Princess travelled by carriage from Kensington Palace to [Ramsgate]({{ site.baseurl }}/dickens/19c-ramsgate) with her mother Victoria, Duchess of Kent, her lady-in-waiting Lady Flora Hastings, her governess Baroness Louise Lehzen and Sir John Ponsonby Conroy, who acted as her mother’s advisor and comptroller. Victoria recorded the warm reception from the locals, noting that the streets were adorned with flowers and flags, the boats in the harbour were decorated with the colours of all nations, cheering crowds waited beneath the balcony of Albion House and a gun salute rang out over the town. Following the arrival of Victoria’s maternal uncle Leopold and his wife Louisa on 29th September 1835, illuminations and fireworks entertained the vast crowds who congregated in [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate) to view the Royal visitors.
 
 {% include embed/image.html src="wc:View_of_Ramsgate_Town_and_Harbour_by_James_Ward_1799.jpg" aspect="2.138" caption="Ramsgate Town and Harbour, 1799" %}
