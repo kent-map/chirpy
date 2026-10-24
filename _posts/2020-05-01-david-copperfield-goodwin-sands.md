@@ -12,7 +12,8 @@ toc: false
 ---
 
 
-**Event:** Shipwrecks 1847, 1851.   
+**Event:** Shipwrecks 1847, 1851.
+<br><br>
 _‘A great to do here. A steamer lost on the Goodwin yesterday, and our men bringing in no end of cattle and sheep. I stood a supper for them last night, to the unbounded gratification of Broadstairs. They came in from the Wreck very wet and tired, and very much disconcerted by the nature of their prize – which I suppose after all will have to be re-committed to the Sea, when the hides and tallow are secured. One lean-faced boatman murmured, when they were all ruminative over the bodies as they lay on the Pier, “Couldn’t sassages be made on it?” -  but retired in confusion shortly afterwards, overwhelmed by the execrations of the bystanders.’_ Letter to Henry Austin, 8 September 1851.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/The_Wreck_on_the_Goodwin_Sands.jpg" aspect="0.804" caption="The Wreck on the Goodwin Sands" attribution="George. Cruikshank (the original illustrator of _Oliver Twist_.)" %}
