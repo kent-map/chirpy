@@ -11,19 +11,23 @@ published: true
 toc: false  
 ---
 
-**Events with dates:** 10th Nov 1842 – 3rd Dec 1842   
-
+**Events with dates:** 10th Nov 1842 – 3rd Dec 1842  
+<br><br>
 _'It is the most delightful sea-residence to be found anywhere, particularly for children. They can be out all day, on the ramparts and platforms quite dry, and the beautiful gardens and wood are enclosed and sheltered from the severe gales of wind.'_ The Duke of Wellington to Sir Robert Peel in a letter written from the castle on 26th October 1842.
 
 {% include embed/image.html src="wc:Walmer_Castle_aerial_view.jpg" aspect="1.879" caption="Walmer Castle Aerial View" %}
 
 Queen Victoria, Prince Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](https://www.english-heritage.org.uk/visit/places/walmer-castle-and-gardens/) in 1842. She records in her diary:
 _We have settled to go to [Walmer Castle](Q2543161) on the 10th, for 10 days, as there is still scarlet fever at Brighton. The Duke of Wellington has kindly lent us Walmer. Its situation is charming, and one can see quantities of ships, which one never does at Brighton, and it has the great advantage of being private, but the house is very small, which, however, will be rather fine._[^ref1]
+<br><br>
+The royal party travelled in three carriages, changing horses at Blackheath, Dartford, Gravesend, Rochester, Sittingbourne, Ospringe, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) & Sandwich. The Queen read despatches, whilst the Prince read St Simon. She notes that the "The road was very hilly, but we came along quickly." The Duke of Wellington met them near Sandwich, accompanying them for a while before riding on to receive them at Walmer.
 
 {% include embed/image.html src="wc:Portrait_of_the_Duke_of_Wellington%2C_1844.jpg" aspect="0.881" caption="Duke of Wellington, 1844" %}
 
-The royal party travelled in three carriages, changing horses at Blackheath, Dartford, Gravesend, Rochester, Sittingbourne, Ospringe, [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) & Sandwich. The Queen read despatches, whilst the Prince read St Simon. She notes that the "The road was very hilly, but we came along quickly." The Duke of Wellington met them near Sandwich, accompanying them for a while before riding on to receive them at Walmer. It was dark when they arrived and the Queen observes that:    
-_Most of the rooms are very oddly shaped, from forming part of a circle, the Castle being, in fact, a large Martello Tower. The Nursery is over the Moat, of course, connected, as there is one long passage, going all along, rooms opening out of it on either side. Our sitting-room, a little anteroom, and small dressing room, all give out on the fine Battery, which makes a charming walk._[^ref2]   
+It was dark when they arrived and the Queen observes that:
+<br><br>
+_Most of the rooms are very oddly shaped, from forming part of a circle, the Castle being, in fact, a large Martello Tower. The Nursery is over the Moat, of course, connected, as there is one long passage, going all along, rooms opening out of it on either side. Our sitting-room, a little anteroom, and small dressing room, all give out on the fine Battery, which makes a charming walk._[^ref2]
+<br><br>
 The journey had exhausted her and she felt 'very tired and headacy'.
 
 {% include embed/image.html src="wc:Walmer_Castle%2C_Walmer.JPG" aspect="1.5" caption="Walmer Castle" %}
@@ -45,10 +49,10 @@ The weather continued to be changeable during their visit, but this was not to b
 {% include embed/image.html src="wc:A_draught_of_the_Goodwin_Sands_Pl.XXII_P169_RMG_A8031-D.tiff" aspect="1.183" caption="A draught of the Goodwin Sands" %}
 
 During their visit, the royal party visited [Dover]({{ site.baseurl }}/19c/19c-dover) and [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate).  Although the Queen did not record her impressions of Dover in her journal, the report is carefully reported by the _Dover Telegraph and Cinque Ports General Advertiser_. The excitement was palpable as 'Flags were soon seen floating in the breeze at every point, and the Castle Hill and Road to Walmer were quickly thronged with anxious faces of both sexes, and of all ages, each desirous to catch a sight of their Queen, some on foot, and others in private carriages, flies and on horse-back.' The crowd was rewarded with gracious bowing from the Queen and Prince whose carriage took them through the streets of Dover.[^ref4]
+<br><br>
+Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/Snargate_St_Dover_1830.jpg" aspect="1.64" caption="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd" %}
-
-Despite the wonderful seclusion and bracing sea air at Walmer, the Queen's holiday was marred by a sore throat and neuralgia and the children caught heavy colds. At the end of their visit, she writes: 'Felt quite sorry this was our last night here. The bedroom was very small & dreadfully cold & draughty, but still I had formed an affection, for it all, and for the whole house, in spite of being small & cold, and I regret leaving the sea side, though I have suffered there so much'. 
 
 **Bibliography**  
 From the Letters of Queen Victoria, Vol 1, ed Arthur Christopher Benson and Viscount Esher, online at Project Gutenberg
