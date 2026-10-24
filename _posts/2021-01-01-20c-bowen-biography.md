@@ -4,7 +4,7 @@ description: "In this visual essay, Diana Hirst considers the East Kent life of 
 author: Diana Hirst
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres, Conflict & war ]
+tags: [ Authors, Literary places, Coast & sea, Texts & genres, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg
 permalink: /20c/20c-bowen-biography/
 published: true
