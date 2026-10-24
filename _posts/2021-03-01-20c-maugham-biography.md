@@ -4,7 +4,7 @@ description: "Somerset Maugham was educated at the King’s School in Canterbury
 author:  Laura Allen
 date: 2021-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Towns & cities, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Towns & cities, Representation & interpretation ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg
 permalink: /20c/20c-maugham-biography/
 published: true
