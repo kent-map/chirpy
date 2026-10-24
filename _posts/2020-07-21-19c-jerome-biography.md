@@ -4,7 +4,7 @@ description: "Jerome K. Jerome’s comic writing ties Folkestone’s Leas and se
 author: Professor Carolyn Oulton
 date: 2020-07-21
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
+tags: [ Authors, Literary places, Texts & genres, Coast & sea ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-jerome-biography/
 published: true
