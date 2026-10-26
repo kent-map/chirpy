@@ -5,7 +5,7 @@ author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 20c ]
 tags: [ Crime & punishment, Towns & cities, Politics & reform, Buildings & architecture ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/3fadae4a-6076-4ed2-8b19-620a22b35993.jpg
+image: https://commons.wikimedia.org/wiki/File:Former_gaol,_Canterbury_-_geograph.org.uk_-_4225814.jpg
 permalink: /20c/20c-prison-canterbury/
 published: true
 toc: false  
