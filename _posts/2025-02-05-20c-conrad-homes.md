@@ -4,7 +4,7 @@ description: "Joseph Conrad lived in four houses across Kent. He is commemorated
 author: Daniel Vince
 date: 2025-02-05
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Travel & mobility ]
+tags: [ Authors, Literary places, Buildings & architecture, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bishopsbourne_Village_Hall_Memorial_to_Joseph_Conrad.jpg
 permalink: /20c/20c-conrad-homes/
 published: true
