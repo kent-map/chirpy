@@ -4,7 +4,7 @@ description: "David Baron’s conversion from Orthodox Judaism to Protestant Chr
 author: Daniel Randall
 date: 2023-05-12
 categories: [ 19c ]
-tags: [ Authors & lives, Faith & belief, Towns & cities, Travel & mobility ]
+tags: [ Biography, Faith & belief, Towns & cities, Travel & mobility ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-baron-biography/
 published: true
