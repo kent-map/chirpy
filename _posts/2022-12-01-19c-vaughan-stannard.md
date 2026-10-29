@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2022-12-01
 categories: [ 19c ]
 tags: [ Authors & lives, Coast & sea, Culture & society, Texts & genres ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/43be2313-69a2-4436-8db8-978f300d40bb.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/ac/Birchington-on-Sea%2C_Kent%2C_England._1913_or_before.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /19c/19c-vaughan-stannard/
 published: true
 toc: false  
