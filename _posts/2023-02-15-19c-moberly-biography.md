@@ -5,7 +5,7 @@ author: Michelle Crowther
 date: 2023-02-15
 categories: [ 19c ]
 tags: [ Authors, Texts & genres, Coast & sea, Literary places, Culture & society ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b91a767a-109e-4a7d-b7c6-980d0f8601a5.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Martello_Tower_Hythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /19c/19c-moberly-biography/
 published: true
 toc: false  
