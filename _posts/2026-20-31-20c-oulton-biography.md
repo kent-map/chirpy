@@ -7,10 +7,8 @@ categories: [ 20c ]
 tags: [ Reminiscences ]
 published: false
 featured: false
-media_subpath: /assets/img
+permalink: /20c/20c-oulton-biography/
 image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg
-  path: 
-  alt: 
 ---
 
 <!-- Global Entities -->
