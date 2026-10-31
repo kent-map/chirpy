@@ -1,5 +1,17 @@
-<a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
-<param ve-config title="Harry Oulton and Sir Derek Oulton " author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" attribution="Canterbury Tail at the English-language Wikipedia" description="Michelle Crowther traces the life and work of historical fiction writer Nora Geraldine Gordon Salmon (pseudonym J.G. Sarasin).">
+---
+title: "Harry Oulton and Sir Derek Oulton"
+description: Carolyn Oulton traces the life of her 
+author: Professor Carolyn Oulton
+date: 2026-01-01
+categories: [ 20c ]
+tags: [ Reminiscences ]
+published: false
+featured: false
+media_subpath: /assets/img
+image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg
+  path: 
+  alt: 
+---
 
 <!-- Global Entities -->
 <param ve-entity eid="Q5654535" aliases="Harbledown">
