@@ -23,14 +23,14 @@ While Galsworthy never lived in Kent, he spent time in the county from the 1890s
 
 {% include embed/image.html src="wc:John_Galsworthy_2.jpg" aspect="0.729" caption="John Galsworthy" %}
 
-
 Between 1898 and 1905, when [Conrad]({{ site.baseurl }}/19c/19c-conrad-biography/) himself lived in the house, Galsworthy became a regular visitor. As he later put it, ‘In Conrad’s study at the Pent we burned together many midnight candles, much tobacco.’[^ref4]
-
-{% include embed/image.html src="wc:The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" aspect="1.333" caption="The North Downs Way near Pent Farm" %}
-
+<br><br>
 [H. G. Wells](20c/20c-wellshg-biography/) would also provide a sustaining literary friendship over the years. M. V. Marrot’s _The Life and Letters of John Galdsworthy_ includes a photograph ‘taken by H. G. Wells in Hythe in 1898’.
 Galsworthy’s most famous work,  _The Forsyte Saga_, is disappointingly bare of references to Kent. That is, unless we count the brief interlude when June Forsyte is taken to Broadstairs to recover from her broken engagement to Phil Bosinney. This well-intentioned scheme has no effect whatsoever, and a heartbroken June soon makes an excuse to get back to London.
+<br><br>
 Galsworthy himself died at his home in Hampstead on 31 January 1933.
+
+{% include embed/image.html src="wc:The_North_Downs_Way_near_Pent_Farm_-_geograph.org.uk_-_4923383.jpg" aspect="1.333" caption="The North Downs Way near Pent Farm" %}
 
 ### Bibliography 
 
