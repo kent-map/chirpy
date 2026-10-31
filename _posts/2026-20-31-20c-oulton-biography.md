@@ -1,6 +1,6 @@
 ---
 title: "Harry Oulton and Sir Derek Oulton"
-description: Carolyn Oulton traces the life of her 
+description: Carolyn Oulton traces the life of her father and uncle.
 author: Professor Carolyn Oulton
 date: 2026-01-01
 categories: [ 20c ]
@@ -10,16 +10,6 @@ featured: false
 permalink: /20c/20c-oulton-biography/
 image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg
 ---
-
-<!-- Global Entities -->
-<param ve-entity eid="Q5654535" aliases="Harbledown">
-<param ve-entity eid="Q29303" aliases="Canterbury">
-
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
-
-<!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. 
 
@@ -39,7 +29,7 @@ In 1937 Harry was awarded an exhibition to King’s College, Cambridge, meaning 
 
 {% include embed/image.html src="wc:Royal Naval Hospital Chatham (Wards).jpg" aspect="0.726" caption="Royal Naval Hospital Chatham" %}
 
-But Harry cut short his university career, joining G Battery (Mercers Troop) RHA in December 1939. He was evacuated from Dunkirk on 1 June 1940, in the destroyer [H.M.S. Winchelsea]( <iframe src="https://www.iwm.org.uk/embed/?id=1060020101&media_id=612451" height="430" width="480" frameborder="no" scrolling="no"></iframe>)]. The ship was bombed twice (once at about 15 yards), landing at Dover[^ref7] (where [Operation Dynamo](/20c/20c-secret-tunnels/) was planned). When his train stopped at Paddock Wood, ‘he got a friendly woman handing out tea and buns to ring up the CAPS and say he was safe.’[^ref8]  Family legend has it that unfortunately he forgot to contact his parents for another week.[^ref9] Matfield Grange was hit by a land mine [MC: see attached image] that October. Harry spent the last few years of the war in North Africa with the Desert Rats, where he was awarded an MC and bar.  After leaving school, Derek did his two years’ national service as a signalman in the Royal Navy.  
+But Harry cut short his university career, joining G Battery (Mercers Troop) RHA in December 1939. He was evacuated from Dunkirk on 1 June 1940, in the destroyer [H.M.S. Winchelsea]( <iframe src="https://www.iwm.org.uk/embed/?id=1060020101&media_id=612451" height="430" width="480" frameborder="no" scrolling="no"></iframe>)]. The ship was bombed twice (once at about 15 yards), landing at Dover[^ref7] (where [Operation Dynamo](/20c/20c-secret-tunnels/) was planned). When his train stopped at Paddock Wood, ‘he got a friendly woman handing out tea and buns to ring up the CAPS and say he was safe.’[^ref8]  Family legend has it that unfortunately he forgot to contact his parents for another week.[^ref9] Matfield Grange was hit by a land mine that October. Harry spent the last few years of the war in North Africa with the Desert Rats, where he was awarded an MC and bar.  After leaving school, Derek did his two years’ national service as a signalman in the Royal Navy.  
 <param ve-image url=" /kent/images/20c/Matfield Grange 1940. From the papers of the late Sir Derek Oulton.jpg)
 
 Harry’s connection with Kent was briefly revived in 1949, when he bought a Tipsy monoplane and decided to fly it back to the Sudan following a period of leave. As he cheerfully remarked in his account of this trip, _The Flying Broomstick_, ‘Despite its open cockpit there was no need to wear a helmet, although in England you needed a scarf. …On the minus side it had no tail wheel, only a bamboo, metal-shod skid; and no wireless, lights, luminous instrument gauges, self-starter or brakes. Also, it would be impossible to get spare parts.’[^ref10] He had limited flying experience, although one newspaper wrongly assumed that he had been a pilot during the war.
