@@ -4,7 +4,7 @@ description: "A series of day trips inspired by the experience of Victorian Dick
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-12-18
 categories: [ dickens ]
-tags: [ Literary places, Authors & lives, Travel & mobility, Maps & place-making, Representation & interpretation ]
+tags: [ Literary places, Authors & lives, Travel & transport, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay_Broadstairs.jpg
 permalink: /dickens/mobile-landscapes/
 published: true
