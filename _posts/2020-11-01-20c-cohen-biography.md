@@ -4,7 +4,7 @@ description: "Alfred Cohen’s move from Chicago and Paris to rural Kent reshape
 author: Professor Max Saunders
 date: 2020-11-01
 categories: [ 20c ]
-tags: [ Authors & lives, Countryside & farming, Coast & sea, Arts & performance, Maps & place-making ]
+tags: [ Biography, Countryside & farming, Coast & sea, Arts & performance, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst_postcard.jpg
 permalink: /20c/20c-cohen-biography/
 published: true
