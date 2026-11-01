@@ -4,7 +4,7 @@ description: "Edward Linley Sambourne’s career as a Punch cartoonist intersect
 author: Michelle Crowther
 date: 2022-03-05
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Travel & mobility, Arts & performance ]
+tags: [ Biography, Coast & sea, Travel & transport, Arts & performance ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/4f/William_Powell_Frith_Life_At_The_Seaside%2C_Ramsgate_Sands.jpg
 permalink: /19c/19c-sambourne-biography/
 published: true
