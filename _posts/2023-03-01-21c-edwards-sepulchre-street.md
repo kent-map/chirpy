@@ -4,7 +4,7 @@ description: "Romney Marsh shapes the setting and plausibility of a 1931 Golden 
 author: Martin Edwards
 date: 2023-03-01
 categories: [ 21c ]
-tags: [ Literary places, Texts & genres, Rivers & marshes, Authors & lives ]
+tags: [ Literary places, Texts & genres, Rivers & marshes ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/98/Harold_Gilman_-_Romney_Marsh_-_B1975.4.329_-_Yale_Center_for_British_Art.jpg
 permalink: /21c/21c-edwards-sepulchre-street/
 published: true
