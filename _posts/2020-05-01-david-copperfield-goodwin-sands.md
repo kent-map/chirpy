@@ -4,7 +4,7 @@ description: "The Goodwin Sands, about 7 miles off the coast of Broadstairs, wer
 author: Professor Carolyn Oulton
 date: 2020-05-01
 categories: [ dickens ]
-tags: [ Literary places, Authors & lives, Coast & sea, Texts & genres ]
+tags: [ Literary places, Coast & sea, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/6d/A_thick_night_off_the_Goodwins_RMG_PX9959.jpg
 permalink: /dickens/david-copperfield-goodwin-sands/
 published: true
