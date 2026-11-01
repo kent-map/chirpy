@@ -4,7 +4,7 @@ description: "Department stores and specialist retailers reshaped Canterbury’s
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Work & industry, Towns & cities, Culture & society, Buildings & architecture, Heritage & memory ]
+tags: [ Work & industry, Towns & cities, Culture & society, Buildings & architecture ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-retail-store/
 published: true
