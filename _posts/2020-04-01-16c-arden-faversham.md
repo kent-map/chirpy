@@ -4,7 +4,7 @@ description: "The murder of Thomas Arden in 1551 Faversham sparked a domestic tr
 author: Marnie Stanley
 date: 2020-04-01
 categories: [ 16c ]
-tags: [ Texts & genres, Crime & punishment, Literary places, Towns & cities, Representation & interpretation ]
+tags: [ Texts & genres, Crime & punishment, Literary places, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-arden-faversham/
 published: true
