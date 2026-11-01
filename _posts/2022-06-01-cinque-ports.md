@@ -4,7 +4,7 @@ description: "The Cinque Ports formed a medieval confederation of Kent and Susse
 author: Dr Sheila Sweetinburgh
 date: 2022-06-01
 categories: [ medieval ]
-tags: [ Politics & reform, Coast & sea, Towns & cities, Heritage & memory ]
+tags: [ Politics & reform, Coast & sea, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Detail_from_the_Cinque_Ports_standard.jpg
 permalink: /medieval/cinque-ports/
 published: true
