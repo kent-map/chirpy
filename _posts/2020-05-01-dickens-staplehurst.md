@@ -4,7 +4,7 @@ description: "Dickens was involved in the Staplehurst railway disaster of 9 June
 author: Professor Carolyn Oulton
 date: 2020-05-01
 categories: [ dickens ]
-tags: [ Authors & lives, Conflict & war, Travel & mobility, Representation & interpretation ]
+tags: [ Authors, Conflict & war, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg
 permalink: /dickens/dickens-staplehurst/
 published: true
