@@ -4,7 +4,7 @@ description: "The Battle of Crayford survives mainly as a brief Anglo-Saxon Chro
 author: Francesca Allfrey and Beth Whalley
 date: 2021-06-01
 categories: [ medieval ]
-tags: [ Conflict & war, Towns & cities, Heritage & memory, Representation & interpretation ]
+tags: [ Conflict & war, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg
 permalink: /medieval/battleofcrayford/
 published: true
