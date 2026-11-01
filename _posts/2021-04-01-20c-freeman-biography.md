@@ -4,7 +4,7 @@ description: "R. Austin Freeman is believed to have invented the ‘inverted’ 
 author: Carolyn Oulton
 date: 2021-04-01
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Towns & cities, Conflict & war ]
+tags: [ Authors, Texts & genres, Literary places, Towns & cities, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/18/College_Road%2C_Maidstone%2C_1866.jpg
 permalink: /20c/20c-freeman-biography/
 published: true
