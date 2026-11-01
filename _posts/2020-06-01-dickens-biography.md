@@ -4,7 +4,7 @@ description: "Charles Dickens lived in Kent between 1816 and 1822 and returned f
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Authors, Literary places, Texts & genres, Travel & mobility ]
+tags: [ Authors, Literary places, Texts & genres, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg
 permalink: /dickens/dickens-biography/
 published: true
