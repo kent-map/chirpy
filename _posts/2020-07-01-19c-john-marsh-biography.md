@@ -4,7 +4,7 @@ description: "John Marsh’s journal places late Georgian musical life in Nether
 author: Dr Chris Price
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Music & musicians, Culture & society, Travel & mobility, Towns & cities ]
+tags: [ Music & musicians, Culture & society, Travel & transport, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-john-marsh-biography/
 published: true
