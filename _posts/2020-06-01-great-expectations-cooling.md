@@ -4,7 +4,7 @@ description: "The churchyard of St James’s , Cooling is widely credited with b
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Nature & environment, Representation & interpretation ]
+tags: [ Literary places, Texts & genres, Nature & environment ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/great-expectations-cooling/
 published: true
