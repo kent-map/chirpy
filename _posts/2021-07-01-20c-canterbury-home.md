@@ -4,7 +4,7 @@ description: "Twentieth-century Canterbury emerges through linked themes of comm
 author: Richard Maltby and Carolyn Oulton
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Towns & cities, Culture & society, Maps & place-making, Travel & mobility, Time periods ]
+tags: [ Towns & cities, Culture & society, Maps & place-making, Travel & transport, Time periods ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-home/
 published: false
