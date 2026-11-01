@@ -4,7 +4,7 @@ description: "Artist Marian Peck collaborated with Salmon Postcards to produce a
 author: Charles Salmon
 date: 2021-03-01
 categories: [ 20c ]
-tags: [ Authors & lives, Maps & place-making, Material culture, Towns & cities ]
+tags: [ Arts & performance, Maps & place-making, Material culture, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-peck-biography/
 published: true
