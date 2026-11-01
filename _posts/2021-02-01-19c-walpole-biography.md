@@ -4,7 +4,7 @@ description: "Alexa Barrett considers the influence of the Kings School, Canterb
 author: Alexa Barrett
 date: 2021-02-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Towns & cities, Representation & interpretation ]
+tags: [ Authors, Literary places, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e9/William_Harvey%2C_General_view_of_King%27s_School_Canterbury._Wellcome_M0016089.jpg
 permalink: /19c/19c-walpole-biography/
 published: true
