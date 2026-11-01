@@ -16,8 +16,6 @@ In 1900 [Canterbury](Q29303) had few small industries and was primarily a centre
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/5129a00d-b3c8-46f1-b40c-fe241d7d0479.jpg" aspect="1.57" caption="Cattle market at Canterbury around 1900" attribution="Public domain, photo from Léon et Lévy" %}
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/03bbed1c-285e-4f1b-b03f-6169a6afca1c.jpg" aspect="1.5" caption="Market area today" attribution="Connor Treston, by kind permission" %}
-
 **ParkerSteel**   
 The growth of John Parker and sons to a multi-million business started in 1904 when John Parker, a devoted churchgoer who had moved from [Whitehaven](Q1012481) to the Cathedral city, opened his ironmongers shop at 18, The Parade. Parker diversified into stockholding iron to cater for the local farming community, acquiring a yard in [Watling Street](Q1434239). Under the direction of the following two Parker family generations the business expanded. In 1970 Parker’s grandson moved [ParkerSteel](https://www.parkersteel.co.uk) to its premises in the Vauxhall Road Industrial Estate. By then the company supplied steel and aluminium products to industries across the south of England. John Parker’s great grandson, Guy Parker, is now a director of the £55,000,000 turnover business employing a staff of 60.
 
