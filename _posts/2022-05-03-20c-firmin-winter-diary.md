@@ -4,7 +4,7 @@ description: "Peter Firmin was best known as co-creator of children’s televisi
 author: Dr Simon Wilson
 date: 2022-05-03
 categories: [ 20c ]
-tags: [ Texts & genres, Literary places, Countryside & farming, Maps & place-making, Authors & lives ]
+tags: [ Texts & genres, Literary places, Countryside & farming, Maps & place-making, Children's authors ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f0782a67-883f-4b39-91f1-7d63e32c9f3b.jpg
 permalink: /20c/20c-firmin-winter-diary/
 published: true
