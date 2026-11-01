@@ -4,7 +4,7 @@ description: "The Pavilion Hotel in Folkestone is directly referenced in Dickens
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Authors & lives, Literary places, Coast & sea, Texts & genres, Travel & mobility ]
+tags: [ Authors, Literary places, Coast & sea, Texts & genres, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg
 permalink: /dickens/dickens-folkestone/
 published: true
