@@ -4,7 +4,7 @@ description: "Rupert Bear emerged from Mary Tourtel’s Canterbury-based life an
 author: Miroslava Karaskova
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Texts & genres, Authors & lives, Towns & cities, Heritage & memory ]
+tags: [ Texts & genres, Towns & cities, Children's authors ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/23/De_avonturen_van_Bruintje_Beer_-_Dertiende_serie_-_Omslag.jpg
 permalink: /20c/20c-rupert-bear/
 published: true
