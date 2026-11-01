@@ -4,7 +4,7 @@ description: "John Lyly’s career links Elizabethan court theatre, government p
 author: Hannah and Michelle Crowther
 date: 2022-08-25
 categories: [ 16c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Towns & cities ]
+tags: [ Authors, Arts & performance, Texts & genres, Literary places, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/16c.jpg
 permalink: /16c/16c-lyly-biography/
 published: true
