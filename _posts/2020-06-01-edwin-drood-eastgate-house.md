@@ -4,7 +4,7 @@ description: "Eastgate House in Rochester is the setting for Rosa Budd's schoold
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
+tags: [ Literary places, Texts & genres, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/edwin-drood-eastgate-house/
 published: true
