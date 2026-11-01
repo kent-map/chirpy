@@ -4,7 +4,7 @@ description: "Bethia Carter explores the writing of Charles Dicken's 1875 novel 
 author: Bethia Carter
 date: 2021-03-16
 categories: [ dickens ]
-tags: [ Texts & genres, Literary places, Travel & mobility, Coast & sea ]
+tags: [ Texts & genres, Literary places, Travel & transport, Coast & sea ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/tale-two-cities/
 published: true
