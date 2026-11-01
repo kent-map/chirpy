@@ -4,7 +4,7 @@ description: "Elizabeth Burgess’s life in Georgian Canterbury shows how one wo
 author: Stephen Williamson
 date: 2022-06-01
 categories: [ 18c ]
-tags: [ Authors & lives, Towns & cities, Texts & genres, Culture & society ]
+tags: [ Authors, Arts & performance, Towns & cities, Texts & genres, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-burgess-biography/
 published: true
