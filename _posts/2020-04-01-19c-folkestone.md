@@ -4,7 +4,7 @@ description: "Folkestone established itself as a seaside resort in the 1840s and
 author: Professor Carolyn Oulton
 date: 2020-04-01
 categories: [ 19c ]
-tags: [ Coast & sea, Towns & cities, Culture & society, Travel & mobility, Representation & interpretation ]
+tags: [ Coast & sea, Towns & cities, Culture & society, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg
 permalink: /19c/19c-folkestone/
 published: true
