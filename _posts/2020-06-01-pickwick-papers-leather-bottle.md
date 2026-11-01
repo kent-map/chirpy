@@ -4,7 +4,7 @@ description: "The Leather Bottle in Cobham is referenced in a number of guides t
 author: Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Heritage & memory, Material culture, Travel & mobility ]
+tags: [ Literary places, Texts & genres, Material culture ]
 image: https://commons.wikimedia.org/wiki/File:The_Leather_Bottle,_Cobham,_Kent.jpg
 permalink: /dickens/pickwick-papers-leather-bottle/
 published: true
