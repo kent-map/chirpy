@@ -4,7 +4,7 @@ description: "Dame Ellen Terry’s Victorian celebrity and Shakespearean stage w
 author: Carla Danella
 date: 2020-09-01
 categories: [ 20c ]
-tags: [ Authors & lives, Arts & performance, Literary places, Heritage & memory ]
+tags: [ Biography, Arts & performance, Literary places ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Dame_%28Alice%29_Ellen_Terry_%28%27Choosing%27%29_by_George_Frederic_Watts.jpg
 permalink: /20c/20c-terry-biography/
 published: true
