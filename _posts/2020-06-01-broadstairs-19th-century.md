@@ -1,5 +1,5 @@
 ---
-title: "Broadstairs in the nineteenth century"
+title: "Broadstairs in the 19th century"
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
