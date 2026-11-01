@@ -4,7 +4,7 @@ description: "Kent railway stations play crucial roles in several of Sir Arthur 
 author: Professor Carolyn Oulton
 date: 2023-01-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Towns & cities, Texts & genres ]
+tags: [ Authors, Literary places, Travel & transport, Towns & cities, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a6/The_head_guard_on_the_South_Eastern_Railway%2C_1885-The_engine_is_one_of_Richard_Christopher_Mansell%27s_%22Gunboat%22_0-4-4_tanks%2C_built_for_Greenwich%2C_Woolrich_and_Blackheath_local_services_LCCN96509035.jpg
 permalink: /19c/19c-conan-doyle/
 published: true
