@@ -4,7 +4,7 @@ description: "Margaret Emily Shore’s journals trace a young diarist’s encoun
 author: Professor Carolyn Oulton
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Science & ideas, Travel & mobility, Work & industry ]
+tags: [ Authors, Coast & sea, Science & ideas, Travel & transport, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Emily_Shore_journal_6_October_1936.jpg
 permalink: /19c/19c-shore-biography/
 published: true
