@@ -5,7 +5,7 @@ author: Dr Maryse Tennant
 date: 2023-05-01
 categories: [ 20c ]
 tags: [ Crime & punishment, Politics & reform, Buildings & architecture, Towns & cities ]
-image: https://upload.wikimedia.org/wikipedia/commons/6/61/Entrance_to_Canterbury_Prison_-_geograph.org.uk_-_2918711.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+image: https://upload.wikimedia.org/wikipedia/commons/d/d7/Former_gaol%2C_Canterbury_-_geograph.org.uk_-_4225814.jpg
 permalink: /20c/20c-canterbury-corrective-borstal/
 published: true
 toc: false  
