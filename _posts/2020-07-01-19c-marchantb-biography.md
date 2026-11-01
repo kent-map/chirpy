@@ -4,7 +4,7 @@ description: "Laura Allen's visual essay introduces Kent author Bessie Marchant 
 author: Laura Allen
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Faith & belief ]
+tags: [ Authors, Literary places, Texts & genres, Faith & belief ]
 image: wc:A selection of books by Bessie Marchant.jpg
 permalink: /19c/19c-marchantb-biography/
 published: true
