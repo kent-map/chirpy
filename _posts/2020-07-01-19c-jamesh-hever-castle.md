@@ -4,7 +4,7 @@ description: "In this visual essay, Dr Peter Merchant documents the relationship
 author: Dr Peter Merchant
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Heritage & memory ]
+tags: [ Authors, Literary places, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg
 permalink: /19c/19c-jamesh-hever-castle/
 published: true
