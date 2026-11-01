@@ -5,10 +5,10 @@ author: Professor Carolyn Oulton
 date: 2026-01-01
 categories: [ 20c ]
 tags: [ Reminiscences ]
-published: false
+published: true
 featured: false
 permalink: /20c/20c-oulton-biography/
-image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Dunkirk_1940_HU1137.jpg
 ---
 
 My father Harry Charles Neil Maxwell Oulton was born in Dublin on 11 February 1919, to Anglo-Irish parents. Both he and his brother Antony Derek Maxwell Oulton (b. 14 October 1927) attended Matfield Grange prep school near Tunbridge Wells. 
