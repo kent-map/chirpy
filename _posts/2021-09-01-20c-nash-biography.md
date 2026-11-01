@@ -4,7 +4,7 @@ description: "Paul Nash, war artist and photographer, became an important influe
 author: Professor Phil Hubbard
 date: 2021-09-01
 categories: [ 20c ]
-tags: [ Authors & lives, Coast & sea, Arts & performance, Conflict & war ]
+tags: [ Biography, Coast & sea, Arts & performance, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/Paul_Nash_-_The_Edge_of_a_Wood_-_1925_-_10341.jpg
 permalink: /20c/20c-nash-biography/
 published: true
