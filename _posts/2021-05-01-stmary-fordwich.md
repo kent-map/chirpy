@@ -4,7 +4,7 @@ description: "St Mary the Virgin church at Fordwich concentrates nearly a millen
 author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
-tags: [ Buildings & architecture, Rivers & marshes, Faith & belief, Heritage & memory ]
+tags: [ Buildings & architecture, Rivers & marshes, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/7/71/St_Mary%27s_Church%2C_Fordwich_-_geograph.org.uk_-_7515364.jpg
 permalink: /churches/stmary-fordwich/
 published: true
