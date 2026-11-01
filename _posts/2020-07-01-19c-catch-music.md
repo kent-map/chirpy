@@ -4,7 +4,7 @@ description: "Catch singing and the closely related English glee shaped lively s
 author: Dr Chris Price
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Arts & performance, Culture & society, Music & musicians, Towns & cities, Travel & mobility ]
+tags: [ Arts & performance, Culture & society, Music & musicians, Towns & cities, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-catch-music/
 published: true
