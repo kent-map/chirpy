@@ -4,7 +4,7 @@ description: "A visual essay by Michelle Crowther, which introduces the life and
 author: Michelle Crowther
 date: 2022-07-04
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Arts & performance, Culture & society, Literary places ]
+tags: [ Authors, Coast & sea, Arts & performance, Culture & society, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-jerrold-biography/
 published: true
