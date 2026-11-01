@@ -4,7 +4,7 @@ description: "Richborough’s hidden wartime port transformed a silted Roman lan
 author: Martin Watts
 date: 2020-07-01
 categories: [ 20c ]
-tags: [ Conflict & war, Coast & sea, Work & industry, Travel & mobility ]
+tags: [ Conflict & war, Coast & sea, Work & industry, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg
 permalink: /20c/20c-richborough/
 published: true
