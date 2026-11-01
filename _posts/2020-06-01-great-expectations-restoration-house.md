@@ -4,7 +4,7 @@ description: "Restoration House in Rochester is reimagined as the Satis House of
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Towns & cities, Representation & interpretation ]
+tags: [ Literary places, Texts & genres, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/great-expectations-restoration-house/
 published: true
