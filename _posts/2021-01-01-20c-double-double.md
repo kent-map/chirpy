@@ -4,7 +4,7 @@ description: "John Brunner’s 1971 novel Double Double turns the North Kent coa
 author: Dr Michael Goodrum
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Texts & genres, Coast & sea, Travel & mobility, Representation & interpretation ]
+tags: [ Texts & genres, Coast & sea ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a-318e-4c7f-8789-6452984df301.jpg
 permalink: /20c/20c-double-double/
 published: true
