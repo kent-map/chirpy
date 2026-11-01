@@ -4,7 +4,7 @@ description: "John Wallis’s life connects Ashford and the wider Kent landscape
 author: Duke of Edinburgh Scheme Participants
 date: 2021-02-01
 categories: [ 17c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Representation & interpretation ]
+tags: [ Biography, Science & ideas, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-wallis-biography/
 published: true
