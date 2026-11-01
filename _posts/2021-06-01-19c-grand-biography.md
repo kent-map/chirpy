@@ -13,7 +13,7 @@ toc: false
 
 
 **Places:** Resident in [Sandgate]({{ site.baseurl }}/placesrz/sandgate-overview) in the early 1870s. Visit to [Ramsgate](Q736439) in 1894. Lived in [Tunbridge Wells](Q894097) 1898-1920   
-
+<br><br>
 Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 
 {% include embed/image.html src="wc:The_Pantiles%2C_%28Royal%29_Tunbridge_Wells%2C_Kent%2C_England%2C_ca._1895.jpg" aspect="1.348" caption="The Pantiles, (Royal) Tunbridge Wells, Kent, England, ca. 1895.jpg" %}
@@ -21,8 +21,6 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 {% include embed/map.html center="Q894097" zoom="12" markers="Q894097" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1870 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in [Sandgate](Q1000312): there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act]({{ site.baseurl }}/19c/19c-contagious-diseases) had come into force in 1868.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" aspect="1.0" caption="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers" %}
 
 {% include embed/map.html center="Q1000312" zoom="13" markers="Q1000312" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
@@ -33,17 +31,15 @@ By 1888 the marriage was breaking down, and in 1890 Grand moved to London to pur
 {% include embed/map.html center="Q736439" zoom="13" markers="Q736439" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
 But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside]({{ site.baseurl }}/19c/19c-seaside) resorts). Sarah Grand, authoress is listed at Grey House, Speldhurst in the 1901 census, later moving to Eardley House in Sevenoaks and again to 10 Grove Hill in Tunbridge Wells. Here too she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/ce0b8389-e980-4597-8f6c-630eaba57b53.jpg" aspect="0.623" caption="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells" %}
-
-{% include embed/map.html center="Q894097" zoom="13" markers="Q894097" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
-
+<br.<br>
 Like [Gertrude Warden]({{ site.baseurl }}/19c/19c-gertrude-warden-biography) (another author with Kent connections), she was also a member of the Women Writers' Suffrage League. As a speaker, Grand was certainly in demand, although it is hard to know what to make of the Ramsgate Congregational Institute's invitation to deliver a lecture on 'Mere Man' in 1903. The schedule for the previous few months includes all manner of entertainments, from Alfred Capper’s thought reading to a lantern lecture and costume recitals.
 
 {% include embed/image.html src="wc:National_Union_Women%27s_Suffrage_shop_on_18_Crescent_Road%2C_Tunbridge_Wells.jpg" aspect="1.592" caption="NUWSS shop on 18 Crescent Road, Tunbridge Wells" %}
 
-Grand was on visiting terms with [Siegfried Sassoon]({{ site.baseurl }}/20c/20c-sassoon-biography) and his mother, and in 1915 she also appears in connection with a proposed Women's Volunteer Reserve Movement. Seconding a vote of thanks, Grand confessed that she had come to the meeting with a ‘neutral’ mind, but having heard the arguments – including the benefits of healthy exercise and the fear that without an organised body, over enthusiastic women ‘should be going about ready to shoot at any moment’ – she thought the movement ‘admirable’.     
+{% include embed/map.html center="Q894097" zoom="13" markers="Q894097" allmaps="9537d136c6cd0dac~Kent Railway Map" %}
 
+Grand was on visiting terms with [Siegfried Sassoon]({{ site.baseurl }}/20c/20c-sassoon-biography) and his mother, and in 1915 she also appears in connection with a proposed Women's Volunteer Reserve Movement. Seconding a vote of thanks, Grand confessed that she had come to the meeting with a ‘neutral’ mind, but having heard the arguments – including the benefits of healthy exercise and the fear that without an organised body, over enthusiastic women ‘should be going about ready to shoot at any moment’ – she thought the movement ‘admirable’.   
+<br><br>
 Grand moved to Bath in 1920, serving as Lady Mayoress from 1922 to 1929. She told her friend Gladys Singers-Bigger in 1930 that she admired aviator [Amy Johnson]({{ site.baseurl }}/20c/20c-johnson-biography/) ‘for showing that a woman can do such things as well as men.’ Characteristically she pointed out that 'To have stopped her, as someone suggested to her she should have been, would, she said, have been interfering with the liberty of the subject.’ [^ref3] Sarah Grand died in Wiltshire in 1943, two years after Johnson's fatal crash off the coast of Kent.
 
 {% include embed/image.html src="wc:THE_WOMENS_VOLUNTEER_RESERVE_ON_THE_HOME_FRONT%2C_1914-1918_Q107999.jpg" aspect="1.413" caption="THE WOMENS VOLUNTEER RESERVE ON THE HOME FRONT, 1914-1918 Q107999.jpg" %}
