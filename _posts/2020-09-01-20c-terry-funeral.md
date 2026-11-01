@@ -4,7 +4,7 @@ description: "Ellen Terry’s funeral in July 1928 turned Smallhythe Place, the 
 author: Carla Danella
 date: 2020-09-01
 categories: [ 20c ]
-tags: [ Authors & lives, Towns & cities, Heritage & memory, Travel & mobility ]
+tags: [ Arts & performance, Towns & cities, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/02/Small_Hythe_Place_-_geograph.org.uk_-_171263.jpg
 permalink: /20c/20c-terry-funeral/
 published: true
