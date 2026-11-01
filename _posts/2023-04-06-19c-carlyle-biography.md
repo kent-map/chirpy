@@ -4,7 +4,7 @@ description: "Jane Welsh Carlyle’s 1861 letters from Ramsgate trace a sharp co
 author: Michelle Crowther
 date: 2023-04-06
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Culture & society, Travel & mobility ]
+tags: [ Authors, Biography, Coast & sea, Culture & society, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/33/Ramsgate_Sands.jpg
 permalink: /19c/19c-carlyle-biography/
 published: true
