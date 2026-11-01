@@ -4,7 +4,7 @@ description: "Churchill is reputed to have said that a day away from his home in
 author: Michelle Whitham
 date: 2022-03-25
 categories: [ 20c ]
-tags: [ Authors & lives, Buildings & architecture, Heritage & memory, Conflict & war ]
+tags: [ Biography, Buildings & architecture, Politics & reform, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg
 permalink: /20c/20c-churchill-chartwell/
 published: true
