@@ -4,7 +4,7 @@ description: "Ann Radcliffe’s 1797 journey through Kent recasts familiar towns
 author: Dr Michael Goodrum
 date: 2021-08-01
 categories: [ 18c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Representation & interpretation ]
+tags: [ Authors, Literary places, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-radcliffe-biography/
 published: true
