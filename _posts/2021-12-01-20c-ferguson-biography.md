@@ -26,6 +26,8 @@ His spy novel _Stealthy Terror_ was published in 1918, but captures the mood of 
 Ferguson was present at the presentation of a bouquet of rosebuds to the retiring headmistress of Eversley school , Miss White, in 1933.[^ref3] When the school moved to Lymington in 1935 (conflicting reports cite either increased development around the Kent location or financial loss as the reason), [^ref4] he relocated and remained its chaplain. In 1948 the school was purchased by Middlesex County Council, to house a school for children classified as ‘delicate’. In 1949 it changed its name to Elmer’s Court and continued to operate until the late 1970s.[^ref5].
 <br><br>
 [Folkestone library]({{ site.baseurl }}/19c/19c-folkestone-free-library) holds rare copies of several of Ferguson’s books: _Campbell of Kilmhor_ (1915), _The King of Morven_ (1922), _The Secret Road_ (1925),  _The Man in the Dark_ (1928) and _Murder on the Marsh_ (1930).
+<br><br>
+Banner image by Lisa Hawkins
 
 {% include embed/image.html src="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" aspect="1.497" caption="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence" %}
 
