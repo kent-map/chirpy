@@ -4,7 +4,7 @@ description: "George Meredith’s letters and fiction link the health culture of
 author: Sylvia Hornsby
 date: 2022-02-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Countryside & farming, Texts & genres ]
+tags: [ Authors, Coast & sea, Countryside & farming, Texts & genres, Health & hygiene ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-meredith-biography/
 published: true
