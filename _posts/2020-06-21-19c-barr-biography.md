@@ -4,7 +4,7 @@ description: "﻿New humourist Robert Barr (alias Luke Sharp) visited Folkestone
 author: Professor Carolyn Oulton
 date: 2020-06-21
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Culture & society ]
+tags: [ Authors, Coast & sea, Texts & genres, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-barr-biography/
 published: true
