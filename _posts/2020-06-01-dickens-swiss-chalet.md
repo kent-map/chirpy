@@ -4,7 +4,7 @@ description: "Dickens famously wrote the last words of his unfinished novel, The
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Authors & lives, Literary places, Buildings & architecture, Texts & genres ]
+tags: [ Authors, Literary places, Buildings & architecture, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg
 permalink: /dickens/dickens-swiss-chalet/
 published: true
