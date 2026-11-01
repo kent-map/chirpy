@@ -4,7 +4,7 @@ description: "William Dyce’s 1858 Ramsgate holiday and the painting Pegwell Ba
 author: Professor Christiana Payne
 date: 2021-10-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Arts & performance, Culture & society ]
+tags: [ Biography, Coast & sea, Arts & performance, Culture & society ]
 image: https://i.imgur.com/T74Vdh9.jpg
 permalink: /19c/19c-dyce-biography/
 published: true
