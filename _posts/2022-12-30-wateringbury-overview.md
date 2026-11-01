@@ -4,7 +4,7 @@ description: "Wateringbury village history comes alive through a walking tour th
 author: Natalie Pietersen
 date: 2022-12-30
 categories: [ placesrz ]
-tags: [ Towns & cities, Buildings & architecture, Conflict & war, Travel & mobility ]
+tags: [ Villages, Buildings & architecture, Conflict & war, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/70056d92-7406-48ec-a8e5-060c6bcf584d.jpg
 permalink: /placesrz/wateringbury-overview/
 published: true
