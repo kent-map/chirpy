@@ -4,7 +4,7 @@ description: "Diary notes from 2007 to 2018 trace Laurie Duggan’s daily life i
 author: Laurie Duggan
 date: 2021-02-01
 categories: [ 21c ]
-tags: [ Culture & society, Towns & cities, Nature & environment, Literary places, Representation & interpretation ]
+tags: [ Culture & society, Towns & cities, Nature & environment, Literary places ]
 image: https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/21c/images/Faversham%20across%20Ham%20Marshes%201.jpeg
 permalink: /21c/21c-kent-journal-extracts/
 published: true
