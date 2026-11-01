@@ -4,7 +4,7 @@ description: "Angela Burdett-Coutts was a wealthy philanthropist and had close t
 author: Professor Carolyn Oulton
 date: 2021-08-01
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Travel & mobility, Culture & society ]
+tags: [ Biography, Coast & sea, Travel & transport, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/fc/Burdett-Coutts_sundial_mosaics_-_geograph.org.uk_-_475598.jpg
 permalink: /19c/19c-burdett-coutts-biography/
 published: true
