@@ -5,7 +5,7 @@ author: Emma Latham
 date: 2023-01-25
 categories: [ 20c ]
 tags: [ Music & musicians, Science & ideas, Towns & cities, Arts & performance ]
-image: https://upload.wikimedia.org/wikipedia/commons/7/75/Oramics_-_Two_waveform_slides_painted_by_Daphne_Oram%2C_1965-80.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+image: https://upload.wikimedia.org/wikipedia/commons/7/75/Oramics_-_Two_waveform_slides_painted_by_Daphne_Oram%2C_1965-80.jpg
 permalink: /20c/20c-oram-biography/
 published: true
 toc: false  
