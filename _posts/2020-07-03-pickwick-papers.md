@@ -4,7 +4,7 @@ description: "Katie Holdway discusses the Kent places and landscapes which featu
 author: Katie Holdway
 date: 2020-07-03
 categories: [ dickens ]
-tags: [ Texts & genres, Literary places, Towns & cities, Representation & interpretation ]
+tags: [ Texts & genres, Literary places, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/pickwick-papers/
 published: true
