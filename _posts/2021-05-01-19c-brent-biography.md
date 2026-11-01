@@ -4,7 +4,7 @@ description: "Poet John Brent was a political campaigner and 3-times Mayor Cante
 author: Professor Carolyn Oulton
 date: 2021-05-01
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Texts & genres ]
+tags: [ Authors, Towns & cities, Politics & reform, Texts & genres ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Don_John_Grove%2C_with_John_Brent%27s_house.jpg
 permalink: /19c/19c-brent-biography/
 published: true
