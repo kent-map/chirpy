@@ -4,7 +4,7 @@ description: "Dr Chris Price presents an overview of the Kent based life and wor
 author: Dr Chris Price
 date: 2020-07-01
 categories: [ 19c ]
-tags: [ Music & musicians, Arts & performance, Towns & cities, Travel & mobility, Culture & society ]
+tags: [ Music & musicians, Arts & performance, Towns & cities, Travel & transport, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /music/19c-charles-dobson-biography/
 published: true
