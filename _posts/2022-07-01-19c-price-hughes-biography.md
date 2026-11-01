@@ -4,7 +4,7 @@ description: "Sue Boulden and Michelle Crowther present the social reform work o
 author: Sue Boulden and Michelle Crowther
 date: 2022-07-01
 categories: [ 19c ]
-tags: [ Authors & lives, Faith & belief, Politics & reform, Towns & cities ]
+tags: [ Biography, Faith & belief, Politics & reform, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-price-hughes-biography/
 published: true
