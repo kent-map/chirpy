@@ -4,7 +4,7 @@ description: "Richard Dadd was one of the most famous inmates of Bethlem Hospita
 author: Melissa Campbell-Oulton
 date: 2021-10-01
 categories: [ 19c ]
-tags: [ Authors & lives, Crime & punishment, Towns & cities, Arts & performance ]
+tags: [ Biography, Crime & punishment, Towns & cities, Arts & performance, Health & hygiene ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/88/Richard_Dadd_-_Settling_the_Disputed_Point_-_B1975.3.1229_-_Yale_Center_for_British_Art.jpg
 permalink: /19c/19c-dadd-biography/
 published: true
