@@ -4,7 +4,7 @@ description: "Two intrepid women from Quex Park, Diana Powell-Cotton (1908-1986)
 author: Jan Dunn
 date: 2020-09-01
 categories: [ 20c ]
-tags: [ Biography, Travel & mobility ]
+tags: [ Biography, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /20c/20c-powell-cotton/
 published: true
