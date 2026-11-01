@@ -4,7 +4,7 @@ description: "Ian Fleming’s life in Kent was a source of inspiration for two o
 author: Fred Marsh
 date: 2021-10-01
 categories: [ 20c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Coast & sea ]
+tags: [ Authors, Literary places, Texts & genres, Coast & sea ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg
 permalink: /20c/20c-fleming-biography/
 published: true
