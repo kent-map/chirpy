@@ -4,7 +4,7 @@ description: "Charles Dickens’s ties to the Medway towns and marshes reveal a 
 author: Helena Kelly
 date: 2020-10-14
 categories: [ dickens ]
-tags: [ Authors & lives, Literary places, Rivers & marshes, Heritage & memory, Representation & interpretation ]
+tags: [ Authors, Literary places, Rivers & marshes ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-medway/
 published: true
