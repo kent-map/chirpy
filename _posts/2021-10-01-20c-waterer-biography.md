@@ -4,7 +4,7 @@ description: "Novelist and playwright Gladys Waterer lived at 2 Nuckell’s Plac
 author: Carolyn Oulton
 date: 2021-10-01
 categories: [ 20c ]
-tags: [ Authors & lives, Coast & sea, Texts & genres, Culture & society ]
+tags: [ Biography, Arts & performance, Coast & sea, Texts & genres, Culture & society ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Dickens_house_where_David_Copperfield_was_written._-_3159472584.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /20c/20c-waterer-biography/
 published: true
