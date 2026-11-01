@@ -4,7 +4,7 @@ description: "Canterbury’s 20th-century economy stayed rooted in rural trade a
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Work & industry, Towns & cities, Culture & society, Travel & mobility ]
+tags: [ Work & industry, Towns & cities, Culture & society, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Canterbury_-_The_Market_c.1913.jpg
 permalink: /canterbury/20c-canterbury-commerce/
 published: true
