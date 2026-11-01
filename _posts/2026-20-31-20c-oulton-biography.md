@@ -24,15 +24,16 @@ In 1937 Harry was awarded an exhibition to King’s College, Cambridge, meaning 
 {% include embed/image.html src="wc:Royal Naval Hospital Chatham (Wards).jpg" aspect="0.726" caption="Royal Naval Hospital Chatham" %}
 
 But Harry cut short his university career, joining G Battery (Mercers Troop) RHA in December 1939. He was evacuated from Dunkirk on 1 June 1940, in the destroyer H.M.S. Winchelsea. The ship was bombed twice (once at about 15 yards), landing at Dover[^ref7] (where [Operation Dynamo](/20c/20c-secret-tunnels/) was planned). When his train stopped at Paddock Wood, ‘he got a friendly woman handing out tea and buns to ring up the CAPS and say he was safe.’[^ref8]  Family legend has it that unfortunately he forgot to contact his parents for another week.[^ref9] Matfield Grange was hit by a land mine that October. Harry spent the last few years of the war in North Africa with the Desert Rats, where he was awarded an MC and bar.  After leaving school, Derek did his two years’ national service as a signalman in the Royal Navy.  
-<br><br>
+
+{% include embed/image.html src="wc:The British Army in the UK- Evacuation From Dunkirk, May-June 1940 H1636.jpg" aspect="0.726" caption="The British Army in the UK - Evacuation from Dunkirk - May- June 1940" %}
+
 Harry’s connection with Kent was briefly revived in 1949, when he bought a Tipsy monoplane and decided to fly it back to the Sudan following a period of leave. As he cheerfully remarked in his account of this trip, _The Flying Broomstick_, ‘Despite its open cockpit there was no need to wear a helmet, although in England you needed a scarf. …On the minus side it had no tail wheel, only a bamboo, metal-shod skid; and no wireless, lights, luminous instrument gauges, self-starter or brakes. Also, it would be impossible to get spare parts.’[^ref10] He had limited flying experience, although one newspaper wrongly assumed that he had been a pilot during the war.
-<param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/HCO_with_Tipsy_1948.JPG">
-
-{% include embed/image.html src="wc:Royal Naval Hospital Chatham (Wards).jpg" aspect="0.726" caption="Royal Naval Hospital Chatham" %}
-
+<br><br>
 This time Harry did remember to write to his father, ‘in Arabic, so that my mother should learn nothing of it until I had arrived safely in Khartoum. … In due course, my father wrote back, thanking me for not telling my mother but reminding me that I was his son also and asking why the plane had cost so little.’[^ref11] Take-off from Lympne was delayed on 30 September because ‘I had spent a lot of time at my uncle’s school and made matters worse by returning to drop a toy parachute over it, which was never found.’[^ref12]  He was also found to have incomplete paperwork. By the time this was resolved it was too late to begin the flight, and he accordingly spent the night at the Lympne Country Club, setting off the next morning.[^ref13] 
 <br><br>
 The _Sudan Star_ ran a front-page article on the trip after Harry’s successful arrival in what it described as ‘probably the lowest powered aircraft ever to make the trip.’[^ref14] In 1962 the magazine _Popular Flying_ ran 2 instalments of _The Flying Broomstick_, but discontinued the series after coming ‘under a certain amount of fire from the Ministry of Aviation regarding one or two unfortunate incidents’.[^ref15]
+
+{% include embed/image.html src="wc:Approaching Lympne Airfield - geograph.org.uk - 4176572.jpg" aspect="0.726" caption="Approaching Lympne Airfield" %}
 
 Derek went on to take a double first in Law from King’s College, Cambridge. He was called to the bar in 1952 and joined the Lord Chancellor’s Office in 1960. He was described after his death in 2016 as ‘one of the greatest civil servants of his generation.’[^ref16]
 <br><br>
