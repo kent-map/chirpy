@@ -4,7 +4,7 @@ description: "Hop and fruit picking in 20th-century Kent drew transient workers 
 author: Professor Peter Vujakovic
 date: 2021-02-01
 categories: [ landscape ]
-tags: [ Countryside & farming, Culture & society, Texts & genres, Travel & mobility, Representation & interpretation ]
+tags: [ Countryside & farming, Culture & society, Texts & genres, Travel & mobility ]
 image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Lupuli_flos.jpg
 permalink: /landscape/20c-encounters-with-others/
 published: true
