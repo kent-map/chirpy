@@ -4,7 +4,7 @@ description: "Out-of-town trading estates along Canterbury’s A28 corridor resh
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Work & industry, Towns & cities, Travel & mobility, Buildings & architecture ]
+tags: [ Work & industry, Towns & cities, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/bc/Wincheap_Industrial_Estate_Sign.jpg
 permalink: /canterbury/20c-canterbury-trading-estates/
 published: true
