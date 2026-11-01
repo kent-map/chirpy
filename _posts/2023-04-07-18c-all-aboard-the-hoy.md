@@ -4,7 +4,7 @@ description: "The Margate hoy was the most popular way for passengers to reach t
 author: Dr Shaun Regan
 date: 2023-04-07
 categories: [ 18c ]
-tags: [ Coast & sea, Travel & mobility, Culture & society, Representation & interpretation, Texts & genres ]
+tags: [ Coast & sea, Travel & transport, Culture & society, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-all-aboard-the-hoy/
 published: true
