@@ -1,5 +1,5 @@
 ---
-title: "Folkestone in the nineteenth century"
+title: "Folkestone in the 19th century"
 description: "Folkestone established itself as a seaside resort in the 1840s and ‘50s. At the height of its success the town termed itself ‘‘Fashionable Folkestone’. The 4th Earl of Radnor was particularly keen to maintain its exclusive reputation, insisting that a policeman should keep the lower classes from walking along the Leas."
 author: Professor Carolyn Oulton
 date: 2020-04-01
