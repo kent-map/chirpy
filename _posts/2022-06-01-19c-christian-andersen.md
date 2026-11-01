@@ -4,7 +4,7 @@ description: "This visual essay by Dr Alyson Hunt describes Hans Christian Ander
 author: Dr Alyson Hunt
 date: 2022-06-01
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Travel & mobility, Representation & interpretation ]
+tags: [ Authors, Literary places, Travel & transport ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-christian-andersen/
 published: true
