@@ -4,7 +4,7 @@ description: "Carina Chan details the life and work of ornithological illustrato
 author: Carina Chan
 date: 2021-10-08
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Texts & genres, Coast & sea ]
+tags: [ Biography, Arts & performance, Science & ideas, Texts & genres, Coast & sea ]
 image: https://i.imgur.com/pCvk1td.jpg
 permalink: /19c/19c-gould-biography/
 published: true
