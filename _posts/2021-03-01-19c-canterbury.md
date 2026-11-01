@@ -4,7 +4,7 @@ description: "In the first half of the 19th century, Canterbury was seen as a pr
 author: Martin Watts
 date: 2021-03-01
 categories: [ 19c ]
-tags: [ Towns & cities, Culture & society, Conflict & war, Travel & mobility ]
+tags: [ Towns & cities, Culture & society, Conflict & war, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/62/West_Gate_Canterbury_postcard.jpg
 permalink: /19c/19c-canterbury/
 published: true
