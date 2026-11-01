@@ -4,7 +4,7 @@ description: "St. Peter and St. Paul’s church at Headcorn anchors over a thous
 author: Andrew Vincent
 date: 2021-05-01
 categories: [ churches ]
-tags: [ Buildings & architecture, Countryside & farming, Heritage & memory, Faith & belief ]
+tags: [ Buildings & architecture, Countryside & farming, Faith & belief ]
 image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Saints_Peter_%26_Paul_church%2C_Headcorn_-_52990993075.jpg
 permalink: /churches/stpandp-headcorn/
 published: true
