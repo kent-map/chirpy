@@ -4,7 +4,7 @@ description: "Amber Potter traces the life of early 16th century prophetess Eliz
 author: Amber Potter
 date: 2022-04-01
 categories: [ 16c ]
-tags: [ Authors & lives, Faith & belief, Politics & reform, Towns & cities ]
+tags: [ Biography, Faith & belief, Politics & reform, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg
 permalink: /16c/16c-barton-biography/
 published: true
