@@ -4,7 +4,7 @@ description: "Juan Pedro Martín Villarreal traces the Gad's Hill connection bet
 author: Juan Pedro Martín Villarreal
 date: 2022-10-04
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Culture & society, Towns & cities ]
+tags: [ Authors, Literary places, Culture & society, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-lynn-linton-biography/
 published: true
