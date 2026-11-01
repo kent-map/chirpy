@@ -4,7 +4,7 @@ description: "Charles Darwin’s forty years at Down House in Downe made Kent a 
 author: Peter Vujakovic
 date: 2021-02-01
 categories: [ 19c ]
-tags: [ Science & ideas, Authors & lives, Buildings & architecture, Representation & interpretation ]
+tags: [ Science & ideas, Biography, Buildings & architecture, Representation & interpretation ]
 image: https://raw.githubusercontent.com/kent-map/images/main/19c/Down_House_banner.jpg
 permalink: /19c/19c-darwin-biography/
 published: true
