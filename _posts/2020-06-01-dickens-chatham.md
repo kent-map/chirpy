@@ -4,7 +4,7 @@ description: "Dickens spent around 6 years in Chatham. The dockyard would have p
 author: Professor Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Authors & lives, Literary places, Towns & cities, Work & industry ]
+tags: [ Authors, Literary places, Towns & cities, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/88/Elevation_and_Plan_of_Chatham_Dockyard%2C_Thomas_Milton%2C_1755.jpg
 permalink: /dickens/dickens-chatham/
 published: true
