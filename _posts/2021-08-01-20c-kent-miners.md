@@ -4,7 +4,7 @@ description: "Coal was first discovered in East Kent in 1890, with Betteshanger 
 author: Professor Emeritus Linden West
 date: 2021-08-01
 categories: [ 20c ]
-tags: [ Work & industry, Politics & reform, Maps & place-making, Heritage & memory ]
+tags: [ Work & industry, Politics & reform, Maps & place-making ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/05/KentNUMStrikeBadge.JPG
 permalink: /20c/20c-kent-miners/
 published: true
