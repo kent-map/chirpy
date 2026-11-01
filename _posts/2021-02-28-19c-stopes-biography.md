@@ -4,7 +4,7 @@ description: "Charlotte Carmichael Stopes emerges as a pioneering scholar and ac
 author:  Michelle Crowther
 date: 2021-02-28
 categories: [ 19c ]
-tags: [ Authors & lives, Politics & reform, Literary places, Towns & cities ]
+tags: [ Authors, Politics & reform, Literary places, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-stopes-biography/
 published: true
