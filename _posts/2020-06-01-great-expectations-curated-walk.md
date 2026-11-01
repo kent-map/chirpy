@@ -4,7 +4,7 @@ description: "Pip Pirrip famously wants to be a gentleman. The topography of his
 author: Ken Moffat and Carolyn W. de la L. Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Coast & sea, Rivers & marshes, Maps & place-making, Representation & interpretation ]
+tags: [ Literary places, Coast & sea, Rivers & marshes, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg
 permalink: /dickens/great-expectations-curated-walk/
 published: true
