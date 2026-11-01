@@ -4,7 +4,7 @@ description: "Elizabeth Waterman-Scrase provides an intimate view of the London 
 author: Elizabeth Waterman-Scrase
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Texts & genres, Travel & mobility, Work & industry, Material culture, Maps & place-making ]
+tags: [ Texts & genres, Travel & transport, Work & industry, Material culture, Maps & place-making ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Dover_road_%28Page_85%29_BHL25262433.jpg
 permalink: /dickens/19c-leather-and-dust/
 published: true
