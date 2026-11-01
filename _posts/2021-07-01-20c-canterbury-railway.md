@@ -4,7 +4,7 @@ description: "Canterbury’s railway corridor links early steam innovation to la
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Travel & mobility, Towns & cities, Heritage & memory, Buildings & architecture ]
+tags: [ Travel & transport, Towns & cities, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Canterbury_West_Train_Station%2C_January_2025.jpg
 permalink: /canterbury/20c-canterbury-railway/
 published: true
