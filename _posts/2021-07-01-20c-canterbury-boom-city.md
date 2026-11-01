@@ -4,7 +4,7 @@ description: "20th-century Canterbury transformed from garrison town and wartime
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Towns & cities, Buildings & architecture, Conflict & war, Heritage & memory ]
+tags: [ Towns & cities, Buildings & architecture, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Allotments%2C_Canterbury%2C_1965_-_geograph.org.uk_-_3194310.jpg
 permalink: /canterbury/20c-canterbury-boom-city/
 published: true
