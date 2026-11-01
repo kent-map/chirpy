@@ -4,7 +4,7 @@ description: "R. D. Blackmore’s Alice Lorraine reimagines the Weald and the Va
 author: Peter Merchant
 date: 2020-05-01
 categories: [ 19c ]
-tags: [ Texts & genres, Countryside & farming, Literary places, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Countryside & farming, Literary places ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/18/Cecil_Gordon_Lawson_-_The_Hop_Gardens_of_Kent_at_Wrotham_near_Sevenoaks_-_1908P27_-_Birmingham_Museums_Trust.jpg
 permalink: /19c/19c-blackmore-biography/
 published: true
