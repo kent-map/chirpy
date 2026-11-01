@@ -4,7 +4,7 @@ description: "Dover Castle’s underground tunnel network shaped British coastal
 author: Brooke Altringham
 date: 2021-04-01
 categories: [ 20c ]
-tags: [ Conflict & war, Coast & sea, Buildings & architecture, Heritage & memory ]
+tags: [ Conflict & war, Coast & sea, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg
 permalink: /20c/20c-secret-tunnels/
 published: true
