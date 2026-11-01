@@ -1,10 +1,10 @@
 ---
 title: "Thomas Frost (1821-1908)"
-description: "Writer and editor Thomas Frost was descended from Kentish smugglers. He was the aouthor of an early guide to Dickens Land, In Kent With Charles Dickens, and a guide to Tunbridge Wells. Towards the end of his life his finanical position became precarious, and he made several applications to the Royal Literary Fund."
+description: "Writer and editor Thomas Frost was descended from Kentish smugglers. He was the author of an early guide to Dickens Land, In Kent With Charles Dickens, and a guide to Tunbridge Wells. Towards the end of his life his finanical position became precarious, and he made several applications to the Royal Literary Fund."
 author: Professor Carolyn Oulton
 date: 2022-01-01
 categories: [ 19c ]
-tags: [ Authors & lives, Travel & mobility, Coast & sea, Politics & reform ]
+tags: [ Authors, Travel & transport, Coast & sea, Politics & reform ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-frost-biography/
 published: true
