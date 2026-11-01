@@ -4,7 +4,7 @@ description: "The destruction of World War II came to Canterbury in the night of
 author: Richard Maltby
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Conflict & war, Towns & cities, Buildings & architecture, Heritage & memory ]
+tags: [ Conflict & war, Towns & cities, Buildings & architecture ]
 image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Canterbury_Orchards_1945_OS_Map_171_detail.jpg
 permalink: /canterbury/20c-canterbury-ww2/
 published: true
