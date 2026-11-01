@@ -4,7 +4,7 @@ description: "Dr Liz Askey's visual essay introducing the work of Kent based wri
 author: Dr Liz Askey
 date: 2023-01-09
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Coast & sea, Representation & interpretation ]
+tags: [ Biography, Science & ideas, Coast & sea ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-hussey-biography/
 published: true
