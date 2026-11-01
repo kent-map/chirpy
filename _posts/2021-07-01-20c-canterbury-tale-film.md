@@ -4,7 +4,7 @@ description: "Powell and Pressburger’s 1944 film A Canterbury Tale reworks Cha
 author: Miroslava Karaskova
 date: 2021-07-01
 categories: [ canterbury ]
-tags: [ Literary places, Arts & performance, Heritage & memory, Conflict & war ]
+tags: [ Literary places, Arts & performance, Conflict & war ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c35dcc83-8c83-4e82-8a7e-0d012287b919.jpg
 permalink: /canterbury/20c-canterbury-tales-film/
 published: true
