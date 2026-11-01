@@ -4,7 +4,7 @@ description: "G. W. M. Reynolds’s life and writing connect a chain of Kent pla
 author: Peter Merchant
 date: 2020-07-21
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Literary places, Towns & cities ]
+tags: [ Authors, Texts & genres, Literary places, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-reynoldsgwm-biography/
 published: true
