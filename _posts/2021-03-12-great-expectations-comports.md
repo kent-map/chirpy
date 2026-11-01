@@ -4,7 +4,7 @@ description: "My first encounter with Great Expectations was as an eleven year o
 author: Pat Agar nee Comport
 date: 2021-03-12
 categories: [ dickens ]
-tags: [ Literary places, Texts & genres, Buildings & architecture, Heritage & memory, Rivers & marshes ]
+tags: [ Literary places, Texts & genres, Buildings & architecture, Rivers & marshes ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/21/Cooling_Church_April.jpg
 permalink: /dickens/great-expectations-comports/
 published: true
