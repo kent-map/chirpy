@@ -4,7 +4,7 @@ description: "Robert Plot links seventeenth-century scientific inquiry with coun
 author: Dr Dominique Gracia and Hannah
 date: 2022-02-01
 categories: [ 17c ]
-tags: [ Authors & lives, Science & ideas, Countryside & farming, Buildings & architecture ]
+tags: [ Biography, Science & ideas, Countryside & farming, Buildings & architecture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-robert-plot/
 published: true
