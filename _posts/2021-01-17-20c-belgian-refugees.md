@@ -4,7 +4,7 @@ description: "Thousands of Belgians sought refuge in Britain during WW1. Many en
 author: Maddie Pettit
 date: 2021-01-17
 categories: [ 20c ]
-tags: [ Conflict & war, Coast & sea, Towns & cities, Culture & society, Heritage & memory ]
+tags: [ Conflict & war, Coast & sea, Towns & cities, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/f3590125-3b05-42a0-b365-e33a8735353c.jpg
 permalink: /20c/20c-belgian-refugees/
 published: true
