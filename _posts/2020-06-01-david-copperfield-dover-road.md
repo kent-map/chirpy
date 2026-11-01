@@ -4,7 +4,7 @@ description: "Dickens’s Dover Road in David Copperfield becomes a traceable co
 author: Elizabeth Waterman-Scrase
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Maps & place-making, Countryside & farming, Travel & mobility ]
+tags: [ Literary places, Maps & place-making, Countryside & farming, Travel & transport ]
 image: 
 permalink: /dickens/david-copperfield-dover-road/
 published: true
