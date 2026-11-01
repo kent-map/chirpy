@@ -4,7 +4,7 @@ description: "Michelle and Martin Crowther trace the Kent performances of the fa
 author: Michelle and Martin Crowther
 date: 2021-04-01
 categories: [ 19c ]
-tags: [ Authors & lives, Arts & performance, Coast & sea, Towns & cities ]
+tags: [ Biography, Arts & performance, Coast & sea, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/The_Tar_and_the_Jordan%21_%28BM_1868%2C0808.6131%29.jpg
 permalink: /19c/19c-jordan-biography/
 published: true
