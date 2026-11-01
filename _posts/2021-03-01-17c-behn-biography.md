@@ -4,7 +4,7 @@ description: "Aphra Behn’s early life in Kent links disputed birthplaces such 
 author: Alexa Barrett
 date: 2021-03-01
 categories: [ 17c ]
-tags: [ Authors & lives, Towns & cities, Representation & interpretation, Texts & genres ]
+tags: [ Authors, Arts & performance, Towns & cities, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-behn-biography/
 published: true
