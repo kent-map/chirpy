@@ -4,7 +4,7 @@ description: "Dickens bought Gad’s Hill in Higham in 1856, from fellow novelis
 author: Ken Moffat and Carolyn Oulton
 date: 2020-06-01
 categories: [ dickens ]
-tags: [ Literary places, Authors & lives, Buildings & architecture, Travel & mobility ]
+tags: [ Literary places, Authors, Buildings & architecture, Travel & transport ]
 image: 
 permalink: /dickens/dickens-gads-hill/
 published: true
