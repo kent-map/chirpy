@@ -4,7 +4,7 @@ description: "John Tradescant the Younger linked Kent schooling and family roots
 author: Dominique Gracia and Hannah
 date: 2022-02-01
 categories: [ 17c ]
-tags: [ Authors & lives, Science & ideas, Culture & society, Buildings & architecture, Heritage & memory ]
+tags: [ Biography, Science & ideas, Culture & society, Buildings & architecture ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg
 permalink: /17c/17c-john-tradescant-younger/
 published: true
