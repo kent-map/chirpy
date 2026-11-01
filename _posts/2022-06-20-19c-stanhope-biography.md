@@ -4,7 +4,7 @@ description: "Visual essay by Diana Hirst considering the early life in Kent of 
 author: Diana Hirst
 date: 2022-06-20
 categories: [ 19c ]
-tags: [ Authors & lives, Literary places, Coast & sea, Buildings & architecture, Maps & place-making ]
+tags: [ Biography, Literary places, Coast & sea, Buildings & architecture, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-stanhope-biography/
 published: true
