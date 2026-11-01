@@ -4,7 +4,7 @@ description: "Israel Zangwill’s writing career could be said to have begun on 
 author: Professor Carolyn Oulton
 date: 2021-07-29
 categories: [ 19c ]
-tags: [ Authors & lives, Coast & sea, Culture & society, Representation & interpretation ]
+tags: [ Authors, Coast & sea, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-zangwill-biography/
 published: true
