@@ -4,7 +4,7 @@ description: "Ash in West Kent inspired the story of Stig of the Dump"
 author: Peter Vujakovic
 date: 2021-02-01
 categories: [ landscape ]
-tags: [ Literary places, Texts & genres, Countryside & farming, Nature & environment, Authors & lives ]
+tags: [ Literary places, Texts & genres, Countryside & farming, Nature & environment ]
 image: https://upload.wikimedia.org/wikipedia/commons/2/24/Cooper%27s_Pit%2C_Wincheap%2C_Canterbury%2C_Kent.jpg
 permalink: /landscape/chalk-pits-stig/
 published: true
