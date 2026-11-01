@@ -4,7 +4,7 @@ description: "Using original diary entries Ivana Nika traces the journey of Anne
 author: Ivana Nika
 date: 2021-09-02
 categories: [ 19c ]
-tags: [ Authors & lives, Travel & mobility, Towns & cities, Representation & interpretation ]
+tags: [ Biography, Travel & transport, Towns & cities, Queer history ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-walker-biography/
 published: true
