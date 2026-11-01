@@ -4,7 +4,7 @@ description: "Mary Cowden Clarke’s autobiographical memories trace how Kent sh
 author: Michelle Crowther
 date: 2022-02-18
 categories: [ 19c ]
-tags: [ Authors & lives, Travel & mobility, Coast & sea, Countryside & farming, Literary places ]
+tags: [ Authors, Coast & sea, Countryside & farming, Literary places ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-cowden-clarke-biography/
 published: true
