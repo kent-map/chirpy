@@ -4,7 +4,7 @@ description: "Michelle Crowther introduces the life and work of esteemed mathema
 author: Michelle Crowther
 date: 2022-09-02
 categories: [ 19c ]
-tags: [ Authors & lives, Science & ideas, Towns & cities, Conflict & war ]
+tags: [ Biography, Science & ideas, Towns & cities, Conflict & war ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-edensor-littlewood/
 published: true
