@@ -4,7 +4,7 @@ description: "Dover figures largely in the Dickensian imagination, most famously
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ dickens ]
-tags: [ Authors & lives, Coast & sea, Literary places, Texts & genres ]
+tags: [ Coast & sea, Literary places, Texts & genres ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /dickens/dickens-dover/
 published: true
