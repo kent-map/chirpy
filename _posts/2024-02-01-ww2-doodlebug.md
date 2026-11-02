@@ -4,7 +4,7 @@ description: "Hannah Jennison, Alfie Forsyth and Jonathan Baker introduce te dev
 author: Hannah Jennison, Alfie Forsyth and Jonathan Baker
 date: 2024-02-01
 categories: [ 20c ]
-tags: [ Conflict & war, Towns & cities, Maps & place-making, Representation & interpretation ]
+tags: [ Conflict & war, Towns & cities, Maps & place-making ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG
 permalink: /20c/ww2-doodlebug/
 published: true
