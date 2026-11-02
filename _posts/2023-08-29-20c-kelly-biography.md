@@ -4,7 +4,7 @@ description: "Due to a Death was written by Mary Kelly after a visit to Kent"
 author: Professor Carolyn Oulton
 date: 2023-08-29
 categories: [ 20c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Representation & interpretation ]
+tags: [ Authors, Texts & genres, Coast & sea ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/39/Conveyor%2C_Stone_Cement_Works_1974_-_geograph.org.uk_-_133793.jpg
 permalink: /20c/20c-kelly-biography/
 published: true
@@ -13,7 +13,7 @@ toc: false
 
 
 ‘overhead, a wide marine sky embossed with pearly clouds, and the slow plumes of the cement works’ chimneys; through the windscreen, concrete posts and barbed wire half swamped by chalk-dusted thickets; and behind the fence, breaking the surface of the grey undulations like a bathers’ warning, a red rust-pitted disc: Police Advice – Danger, Keep Out.’  _Due to a Death_
-
+<br><br>
 Mary Theresa Coolican was born in London in 1927, but met her future husband Denis Kelly while studying English at Edinburgh University. The couple were married in 1950 and after graduation went into teaching, with Mary’s first job being at the Convent of the Handmaids of the Sacred Heart of Jesus in [Beckenham](Q123372). She was inspired to write _Due to a Death_ (1962) after a holiday with Denis in [Greenhithe](Q3028239), which they spent unsuccessfully looking for orchids. The Bull and George in Dartford, where the couple stayed, is now Boots the Chemist.
 
 Another Londoner with more than one foot in Kent, [Julian Symons]({{ site.baseurl }}/20c/20c-symons-biography/) was struck by the evocative setting while finding the narrator ‘tediously hysterical’. An article in _The Times_ commented perceptively in 1969 that Mary Kelly’s fictional crimes were ‘not so much quick clean thrusts as concealed haemorrhages cruelly spreading.’[^ref1]
