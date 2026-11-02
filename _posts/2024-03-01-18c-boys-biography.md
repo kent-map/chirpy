@@ -4,7 +4,7 @@ description: "John Boys’s late eighteenth-century survey of Kent agriculture l
 author: Diana Hirst
 date: 2024-03-01
 categories: [ 18c ]
-tags: [ Authors & lives, Countryside & farming, Rivers & marshes, Science & ideas, Maps & place-making ]
+tags: [ Biography, Countryside & farming, Rivers & marshes, Science & ideas, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-boys-biography/
 published: true
