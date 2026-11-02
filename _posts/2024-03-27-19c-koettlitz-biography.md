@@ -11,11 +11,11 @@ published: true
 toc: false  
 ---
 
-Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover]({{ site.baseurl }}/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.[^ref1]  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on [Dover](Q179224)’s London Road, before being donated to the museum in the 1950s. 
+Climb the winding staircase to the 3rd floor of [Dover Museum]( https://www.dovermuseum.co.uk/Home.aspx), and you are greeted by a rampant polar bear: its jaws menacingly open to reveal its sharp incisors, and its right claw raised as if to smite you at the slightest provocation. This is the animal transported to [Dover]({{ site.baseurl }}/19c/19c-dover/) from the Arctic in 1897 by Dr Reginald Koettlitz, ‘who apparently had shot it himself’.[^ref1]  It stood for many years in the surgery of first his brother, Dr Maurice Koettlitz, and then of his nephew, of the same name, on [Dover](Q179224)’s London Road, before being donated to the museum in the 1950s.
+<br><br>
+Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz[^ref2]  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]({{ site.baseurl }}/19c/19c-dover/) within a few weeks of Reginald’s birth.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/6c9c8e14-a294-48f8-84e8-fca3236b6ad8.jpg" aspect="0.751" caption="Polar Bear, Dover Museum" attribution="Jacquie Stamp" %}
-
-Reginald Koettlitz - whose surname is of Germanic origins, pronounced ‘kurtlitz’ and sometimes spelt Köttlitz[^ref2]  - was born in Ostend in 1860 to parents fleeing religious persecution in Prussia. His father was a minister in the Reformed Lutheran Church and his mother taught English. Having travelled through Germany and Belgium, the family arrived in [Dover]({{ site.baseurl }}/19c/19c-dover/) within a few weeks of Reginald’s birth.
 
 {% include embed/image.html src="wc:Street_Scene%2C_Dover_%284052820752%29.jpg" aspect="1.373" caption="Street Scene, Dover" %}
 
