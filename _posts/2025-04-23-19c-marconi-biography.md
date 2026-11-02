@@ -4,7 +4,7 @@ description: "This article discusses Guglielmo Marconi's links with Dover"
 author: Michelle Crowther
 date: 2025-04-23
 categories: [ 19c ]
-tags: [ Science & ideas, Coast & sea, Towns & cities, Travel & mobility, Representation & interpretation ]
+tags: [ Science & ideas, Coast & sea, Towns & cities, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f8/Marconi_and_his_wireless_apparatus_1897.jpg
 permalink: /19c/19c-marconi-biography/
 published: true
