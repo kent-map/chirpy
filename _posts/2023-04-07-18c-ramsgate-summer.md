@@ -21,17 +21,15 @@ Across six letters written to his mother in London, Simkin relates the resort’
 {% include embed/image.html src="wc:Benjamin_West_-_The_Bathing_Place_at_Ramsgate_-_Google_Art_Project.jpg" aspect="1.265" caption="The Bathing Place at Ramsgate c.1788" %}
 
 Despite these demurrers and mishaps, Simkin is a cheerleader for both the health benefits and the social ambience of Ramsgate. His letters applaud the bathing regime in patriotic terms: ‘Till noon, are the guides, the machines, and their drivers, / For the health of the nation most zealous contrivers’. He is also impressed by the sociable good humour on display during the weekly gatherings at Dandelion gardens, near [Margate](Q618045):
-
+<br><br>
 What possés from Ramsgate and Margate are seen   
 Repairing to lunch and to dance on the green!   
 All with hearts light as feathers they scud it along,   
-A mirthful, wide-grinning, and sport-loving throng.   
-
-{% include embed/image.html src="wc:A_Back-side_and_Front_view_of_a_modern_fine_lady_vide_Bunbury_or_the_Swimming_Venus_of_Ramsgate_%28BM_1935%2C0522.7.58-59_1%29.jpg" aspect="0.697" caption="A modern fine lady vide Bunbury or the Swimming Venus of Ramsgate" %}
-
+A mirthful, wide-grinning, and sport-loving throng.
+<br><br>
 Above all the other popular coastal resorts – Scarborough, Weymouth, Brighton, Hastings, and Margate – Simkin favours Ramsgate. Despite having to leave after six weeks (having exhausted his funds), therefore, he looks forward to returning, and the poem concludes by extolling the restorative effect of ‘these regions so healing to nerves and the spleen’.
 
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/53ebc60c-c6d9-4cdc-85c7-814d4357a2aa.jpg" aspect="1.697" caption="18th century map of the Thanet Coast" attribution="Augustine House Library" %}
+{% include embed/image.html src="wc:A_Back-side_and_Front_view_of_a_modern_fine_lady_vide_Bunbury_or_the_Swimming_Venus_of_Ramsgate_%28BM_1935%2C0522.7.58-59_1%29.jpg" aspect="0.697" caption="A modern fine lady vide Bunbury or the Swimming Venus of Ramsgate" %}
 
 As his name implies, of course, Simkin – like his namesake in Anstey’s _New Bath Guide_ – is to some degree a naïve persona, whose simple-minded enthusiasm sometimes tips into bathos and hyperbole. Before bidding a final farewell to ‘ye sweet regions of washing’, he extols the pier as ‘that fabric stupendous! that monument dear!’ (it is worth noting that the ‘new harbour’ had also been termed a ‘stupendous work’ in guidebooks such as Hall’s _New Margate and Ramsgate Guide_). Yet the spirited sociability of Simkin and his fellow seaside-goers cannot be entirely gainsaid, and overall, the poem’s anonymous author offers a flattering, if sometimes ironic portrayal of the pleasures to be had from ‘Summerising at Ramsgate’.
 
