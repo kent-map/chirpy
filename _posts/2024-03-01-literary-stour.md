@@ -4,7 +4,7 @@ description: "The River Stour in Kent links a chain of writers, texts, and local
 author: Dr Diana Hirst
 date: 2024-03-01
 categories: [ landscape ]
-tags: [ Rivers & marshes, Literary places, Authors & lives, Travel & mobility, Representation & interpretation ]
+tags: [ Rivers & marshes, Literary places, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/4b/Jonathan_Skelton_-_The_River_Stour%2C_St_Mildred%27s_Church_and_the_Castle_of_Canterbury_-_B1975.4.1957_-_Yale_Center_for_British_Art.jpg
 permalink: /landscape/literary-stour/
 published: true
