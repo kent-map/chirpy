@@ -4,7 +4,7 @@ description: "Georgina Hogarth and Ellen Ternan sustained a long, carefully mana
 author: Prof Christine Skelton
 date: 2023-07-05
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Literary places, Culture & society ]
+tags: [ Biography, Towns & cities, Literary places, Culture & society ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-hogarth-ternan/
 published: true
