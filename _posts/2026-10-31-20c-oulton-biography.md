@@ -2,7 +2,7 @@
 title: "Harry Oulton and Sir Derek Oulton"
 description: Carolyn Oulton traces the life of her father and uncle.
 author: Professor Carolyn Oulton
-date: 2026-01-01
+date: 2026-10-31
 categories: [ 20c ]
 tags: [ Reminiscences ]
 published: true
