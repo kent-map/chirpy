@@ -4,7 +4,7 @@ description: "Prof. Peter Vujakovic considers the Kent landscape in the work of 
 author: Professor Peter Vujakovic
 date: 2021-01-01
 categories: [ 20c ]
-tags: [ Authors & lives, Work & industry, Towns & cities, Representation & interpretation ]
+tags: [ Biography, Work & industry, Towns & cities ]
 image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg
 permalink: /20c/20c-maxwelld-biography/
 published: true
@@ -12,7 +12,7 @@ toc: false
 ---
 
 Enlisted in Royal Naval Volunteer Reserve and posted to North Sea Patrol at Sheerness during WW1. Post war, lived in Borstal, near Rochester.
-
+<br><br>
 'It chanced that my train ran a little beyond the platform in the direction of Faversham. The time was evening. Strange lights and shadows glancing across the vapour-laden brickfields gave a curious Eastern glamour to the landscape. Suddenly a shaft of gold lit up the distance, and in a moment of time I beheld a city, four-square, with ramparts, gates, and towers. Its architecture was Babylonian or Assyrian. It stood by the waters of Milton Creek, and, because of the familiar sailing barges at its quays, I could see that it was no mirage. Then the sunlight failed. The city vanished, and the train steamed back into the station.'
 Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermill. _Unknown Kent_, 1921.
 
@@ -28,13 +28,13 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 {% include embed/image.html src="wc:Maxwell%2C_Donald_-_Babylon_-_Google_Art_Project.jpg" aspect="1.054" caption="Donald Maxwell, Babylon" %}
 
-‘The Haunted Battleship’ (_The Enchanted Road_) is an epic description of the demolition of the _Conqueror_ by commercial shipbreakers at Upnor on the Medway. The ship saw service at Jutland, but the hulk was, when Maxwell visited, being taken apart bit by bit to make ‘razor blades and mowing machines.’ His drawing and description provide dignity to the process. In the ruined wardroom ‘[v]istas of woodland landscape appeared through rents in the steel walls, an eerie compensation for the absence of pictorial decoration.’                                             
+‘The Haunted Battleship’ (_The Enchanted Road_) is an epic description of the demolition of the _Conqueror_ by commercial shipbreakers at Upnor on the Medway. The ship saw service at Jutland, but the hulk was, when Maxwell visited, being taken apart bit by bit to make ‘razor blades and mowing machines.’ His drawing and description provide dignity to the process. In the ruined wardroom ‘[v]istas of woodland landscape appeared through rents in the steel walls, an eerie compensation for the absence of pictorial decoration.’
+<br><br>
+Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 
 {% include embed/image.html src="wc:Upnor_Medway_2605.jpg" aspect="1.333" caption="Upnor, Medway" %}
 
 {% include embed/map.html center="Q7898393" zoom="12.5" markers="Q7898393" allmaps="121dee41dae035be~Bartholomew Kent 1919" %}
-
-Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 
 Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Cooling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_]({{ site.baseurl }}/dickens/great-expectations-curated-walk).
 
