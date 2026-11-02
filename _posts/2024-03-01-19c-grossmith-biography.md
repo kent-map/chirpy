@@ -4,7 +4,7 @@ description: "George Grossmith was an actor and theatrical manager. But he is be
 author: Professor Carolyn Oulton
 date: 2024-03-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Coast & sea, Travel & mobility ]
+tags: [ Arts & performance, Texts & genres, Coast & sea, Travel & transport ]
 image: https://upload.wikimedia.org/wikipedia/commons/0/0d/The_West_Beach%2C_Folkestone.jpg
 permalink: /19c/19c-grossmith-biography/
 published: true
