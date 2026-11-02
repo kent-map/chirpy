@@ -4,7 +4,7 @@ description: "Neolithic chambered long barrows and sarsen stones on Blue Bell Hi
 author: Phillip Marsh
 date: 2024-10-01
 categories: [ built ]
-tags: [ Faith & belief, Rivers & marshes, Heritage & memory, Representation & interpretation ]
+tags: [ Faith & belief, Rivers & marshes, Heritage & memory, Folk & tradition ]
 image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Stones_at_Little_Kit%27s_Coty.jpg
 permalink: /built/megaliths/
 published: true
