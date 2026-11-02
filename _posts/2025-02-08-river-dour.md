@@ -4,7 +4,7 @@ description: "The River Dour chalk stream runs only four miles from Temple Ewell
 author: Michelle Crowther
 date: 2025-02-08
 categories: [ landscape ]
-tags: [ Rivers & marshes, Towns & cities, Nature & environment, Work & industry, Representation & interpretation ]
+tags: [ Rivers & marshes, Towns & cities, Nature & environment, Work & industry ]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Russell_Gardens_-_geograph.org.uk_-_8098732.jpg
 permalink: /landscape/river-dour/
 published: true
