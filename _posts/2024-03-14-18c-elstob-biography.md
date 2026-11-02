@@ -4,7 +4,7 @@ description: "Elizabeth Elstob emerges from Canterbury’s late seventeenth-cent
 author: Professor Jackie Eales
 date: 2024-03-14
 categories: [ 18c ]
-tags: [ Authors & lives, Science & ideas, Politics & reform, Towns & cities ]
+tags: [ Biography, Science & ideas, Politics & reform, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg
 permalink: /18c/18c-elstob-biography/
 published: true
