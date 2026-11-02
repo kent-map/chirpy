@@ -12,7 +12,7 @@ toc: false
 ---
 
 For many authors, real places and placenames offer an opportunity for playful reworking. Hardy’s Wessex is famously full of real places renamed, and characters whose names are drawn from the landscape, Jude Fawley, for instance, grows up in ‘Marygreen’, in reality Great Fawley. The author who most draws our attention to both the authorial and historical malleability Kentish placenames is Russell Hoban, an American who made England his home. His re-namings of places in _Riddley Walker_ are deliberately evocative of a post-apocalyptic Kent in which people, landscapes and even place-names have been twisted:
-
+<br><br>
 “Standing above 'Mr Clevvers Roaling Place', you can see the 'River Sour'. Directly below is 'Widders Dump', further out 'Bernt Arse'. On a clear day, you can glimpse 'Dunk Your Arse'. You will not find these places on an Ordnance Survey map, but, in a sense, they do exist. They are a corruption of contemporary placenames conjured by Russell Hoban in his cult novel _Riddley Walker_, a tale of a post-apocalypse Kent. They are, in order, the Devil's Kneadingtrough - a dramatic chalk coombe (dry valley), the Stour, the hamlet of Withersdane, [Ashford](Q725261), and [Dungeness](Q911577). Hoban's story is of a world reverted to the Iron Age, written in a degraded language most easily understood if read slowly and aloud.” (Vujakovic, 2017, p.134) 
 
 {% include embed/image.html src="wc:The_Devil%27s_Kneading_Trough_-_geograph.org.uk_-_3761435.jpg" aspect="1.333" caption="The Devil's Kneading Trough" %}
@@ -20,13 +20,11 @@ For many authors, real places and placenames offer an opportunity for playful re
 Hoban’s tale projects us several thousand years into the future and a Kent crawling out of nuclear catastrophe. Riddley, the books eponymous hero, narrates his experiences in a world that resembles the ‘Iron Age’ in terms of technology, economy, landscape and life-style (with similarities to the feudal world of Richard Jefferies, less readable, post-apocalyptic ‘After London’ (1905)). This article focuses on the use of placenames in Hoban’s novel, for a useful introduction to the text see the Twentieth-Anniversary Edition with an introduction by Will Self (see bibliography). 
 
 Riddley provides us with his own hand-drawn map of ‘Inland’, as much of his home region as he knows. 
-
+<br><br>
 “THIS HERE IS MOSLY JUS PLACES IVE TOL OF IN THIS WRITING. I DON’T HAVE NO ROOM FOR THE WOAL OF EVERYTHING THERE IS IN INLAND [England?]” 
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/dd5d9724-2e6a-4d52-9f74-d5d29db02db6.jpg" aspect="1.286" caption="A post-apocalyptic landscape with just blackened trees, rocks and scorched earth" attribution="Firefly AI" %}
-
+<br><br>
 His toponyms gain authority through cartographic representation – maps are power. His map shows a landscape impacted by sea-level change, the ‘Rivver Sour’ is now a tidal estuary as far inland as ‘Cambry’ ([Canterbury](Q29303)), the [Isle of Thanet](Q590422) is once again a real island (named the ‘The Ram’ after the town of Ramsgate), and the far tip of Dungeness is cut-off from the mainland (although retains its twentieth-century position and outline, an unlikely outcome after such a period of constant erosion and deposition). This new coastline is, in fact, a return to that of the late Iron Age and Roman eras. 
-
+<br><br>
 Hoban reminds us that place-names should be meaningful and matter, today, sadly, place-names are simply ‘sounds’ to most people, however poetic or linked to a sense of belonging to a place and community. They certainly mattered and had meaning when people first created them. In his novel Riddley’s people have re-imagined names, now cast to represent the new reality on the ground. Today we rarely question the origins of the toponyms on maps or road signs, or in our heads, but by conjuring with place-names Hoban forces us to seek meaning.  
 
 {% include embed/image.html src="wc:Dungeness_-_view_to_the_NW_from_the_Old_Lighthouse_-_geograph.org.uk_-_2340756.jpg" aspect="1.333" caption="Dungeness view to the NW from the Old Lighthouse" %}
@@ -40,8 +38,6 @@ An interesting passage in Hoban’s book exposes any idea that renaming places i
 Those of us familiar with the story and immersed in Riddley’s landscape may find themselves thinking in ‘Riddley speak’ for many localities (I do); some places do lend themselves to his tone and meaning, but not all. As a onetime resident of the Parish of [Wye](Q19695) and [Hinxhill](Q3135780), I do not think of Hinxhill as ‘Hagmans Il’, but rather as the evocative ‘Hengist Hill’, its purported origin being the Old English ‘Haenostesyle’ – ‘hill of the stallion or man named Hengist’ (OE hengest + hyll). Place-names are the markers on the map that tether your biography to the biography of the landscape. 
 
 {% include embed/map.html center="Q3135780" zoom="15" markers="Q3135780" allmaps="3cec6f180298eeb9~Mudge 1801" %}
-
-Banner image credit: The Devil's Kneading Trough, North Downs above Brook by Colin Park, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.
 
 ### Bibliography
 
