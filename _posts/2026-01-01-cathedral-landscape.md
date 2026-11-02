@@ -4,7 +4,7 @@ description: "Canterbury Cathedral’s towers shape how people read the surround
 author: Dr Michelle Crowther
 date: 2026-01-01
 categories: [ landscape ]
-tags: [ Buildings & architecture, Towns & cities, Maps & place-making, Countryside & farming, Heritage & memory ]
+tags: [ Buildings & architecture, Towns & cities, Maps & place-making, Countryside & farming ]
 image: https://upload.wikimedia.org/wikipedia/commons/3/3f/Harvest_Time_at_Wincheap_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /landscape/cathedral-landscape/
 published: true
