@@ -4,7 +4,7 @@ description: "John Ruskin’s 1858 lecture in Tunbridge Wells links iron, labour
 author: Chris Jones
 date: 2024-12-16
 categories: [ 19c ]
-tags: [ Authors & lives, Towns & cities, Politics & reform, Representation & interpretation ]
+tags: [ Arts & performance, Towns & cities, Politics & reform ]
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/The_book_of_the_farm_-_detailing_the_labors_of_the_farmer%2C_steward%2C_plowman%2C_hedger%2C_cattle-man%2C_shepherd%2C_field-worker%2C_and_dairymaid_%281851%29_%2820209742818%29.jpg
 permalink: /19c/19c-ruskin-tunbridge-wells/
 published: true
