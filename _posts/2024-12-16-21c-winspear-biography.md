@@ -4,7 +4,7 @@ description: "Jacqueline Winspear’s Kent childhood in the Weald shapes the lan
 author: Geri Giebel Chavis
 date: 2024-12-16
 categories: [ 21c ]
-tags: [ Authors & lives, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
+tags: [ Authors, Literary places, Texts & genres, Countryside & farming, Conflict & war ]
 image: https://upload.wikimedia.org/wikipedia/commons/4/41/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22169.jpg
 permalink: /21c/21c-winspear-biography/
 published: true
