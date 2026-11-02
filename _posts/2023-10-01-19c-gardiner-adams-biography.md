@@ -4,7 +4,7 @@ description: "Henry Gardiner Adams was born in the same year as Dickens and is n
 author: Professor Carolyn Oulton
 date: 2023-10-01
 categories: [ 19c ]
-tags: [ Authors & lives, Texts & genres, Towns & cities, Representation & interpretation ]
+tags: [ Poets, Texts & genres, Towns & cities ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
 permalink: /19c/19c-gardiner-adams-biography/
 published: true
