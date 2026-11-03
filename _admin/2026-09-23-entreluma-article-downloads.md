@@ -30,7 +30,7 @@ PDF and Word files cannot reproduce the full behavior of an interactive viewer. 
 - Headings, tables, lists, quotations, code, footnotes, links, captions, and image attribution are retained.
 - Images and maps that float beside text in the online article keep that left/right placement and text wrapping in the PDF.
 
-The PDF keeps internal links such as footnote references and starts the footnotes on a new page. Page size is selected in the browser print dialog, so readers can choose Letter, A4, or another installed paper size.
+The PDF keeps internal links such as footnote references and lets footnotes flow directly after the article instead of forcing a new page. In Chrome and Edge each page carries a footer with the site name, article address, and page number; other browsers use their own header/footer print option. Page size is selected in the browser print dialog, so readers can choose Letter, A4, or another installed paper size.
 
 ## Configuration
 
