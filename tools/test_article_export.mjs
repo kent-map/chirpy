@@ -57,3 +57,12 @@ test('the post layout supports the new setting and the legacy pdf alias', async 
   assert.match(layout, /site\.entreluma\.pdf/);
   assert.match(layout, /include article-download\.html/);
 });
+
+test('Ctrl/Cmd+P produces the same publication-style PDF as the download menu', async () => {
+  const source = await read('assets/js/article-export.js');
+
+  assert.match(source, /function interceptBrowserPrint/);
+  assert.match(source, /event\.key\.toLowerCase\(\) === 'p'/);
+  assert.match(source, /addEventListener\('beforeprint'/);
+  assert.match(source, /interceptBrowserPrint\(\);/);
+});

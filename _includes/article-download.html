@@ -29,6 +29,8 @@
      data-author="{{ export_author | strip | escape }}"
      data-date="{{ page.date | date_to_xmlschema }}"
      data-source-url="{{ page.url | absolute_url | escape }}"
+     data-site-name="{{ site.title | strip_html | escape }}"
+     data-site-url="{{ site.url | escape }}"
      data-hero-url="{{ export_hero_url | strip | escape }}"
      data-jszip-src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"
      data-jszip-integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG">

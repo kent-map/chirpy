@@ -152,7 +152,7 @@
   display: block;
   width: auto;
   max-width: 100%;
-  max-height: 225mm;
+  max-height: 170mm;
   margin: 0 auto;
   object-fit: contain;
 }
@@ -177,14 +177,21 @@
   font-size: 7.5pt;
 }
 
-.article-print-sheet .float-pair {
-  display: flow-root;
+.article-print-sheet .float-pair,
+.article-print-sheet .article-export-float-pair {
+  display: block;
+}
+
+.article-print-sheet .float-pair::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
 .article-print-sheet .article-export-float {
   box-sizing: border-box;
-  width: 48% !important;
-  max-width: 48% !important;
+  width: 44% !important;
+  max-width: 44% !important;
   margin-top: .2rem !important;
   margin-bottom: .8rem !important;
 }
@@ -201,44 +208,19 @@
   margin-left: 0 !important;
 }
 
-.article-print-sheet .article-export-float-pair {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, .92fr);
-  gap: 1rem;
-  align-items: start;
-}
-
-.article-print-sheet .article-export-float-pair > .article-export-float {
-  float: none !important;
-  grid-row: 1;
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-}
-
-.article-print-sheet .article-export-float-pair > .article-export-float--right {
-  grid-column: 2;
-}
-
-.article-print-sheet .article-export-float-pair > .article-export-float--right ~ * {
-  grid-column: 1;
-  grid-row: 1;
-  margin-top: 0;
-}
-
-.article-print-sheet .article-export-float-pair > .article-export-float--left {
-  grid-column: 1;
-}
-
-.article-print-sheet .article-export-float-pair > .article-export-float--left ~ * {
-  grid-column: 2;
-  grid-row: 1;
-  margin-top: 0;
-}
-
 .article-print-sheet .article-export-float img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   height: auto;
+  max-height: 85mm;
+}
+
+.article-print-sheet .article-export-float--right img {
+  margin-left: auto;
+}
+
+.article-print-sheet .article-export-float--left img {
+  margin-right: auto;
 }
 
 .article-print-sheet .article-export-full {
@@ -363,9 +345,16 @@ body.article-export-preview .article-print-sheet {
 }
 
 .article-print-sheet .footnotes {
-  break-before: page;
-  page-break-before: always;
+  margin-top: 1.6rem;
+  padding-top: .6rem;
+  border-top: 1px solid #b8bec5;
   font-size: 9pt;
+}
+
+.article-print-sheet .footnotes li,
+.article-print-sheet .footnotes p {
+  break-inside: avoid-page;
+  page-break-inside: avoid;
 }
 
 .article-print-sheet figure,
@@ -373,7 +362,6 @@ body.article-export-preview .article-print-sheet {
 .article-print-sheet tr,
 .article-print-sheet pre,
 .article-print-sheet blockquote,
-.article-print-sheet .float-pair,
 .article-print-sheet .article-export-tab-content > section,
 .article-print-sheet .article-export-carousel-content > *,
 .article-print-sheet .article-export-note {
@@ -383,8 +371,23 @@ body.article-export-preview .article-print-sheet {
 
 @media print {
   @page {
-    margin: 18mm 18mm 20mm;
+    margin: 18mm 18mm 22mm;
+
+    /* Running footer and page numbers use page margin boxes (Chrome/Edge 131+).
+       Other browsers fall back to their own header/footer print option. */
+    @bottom-left {
+      content: var(--article-export-footer, "");
+      color: #5f6368;
+      font: 8pt Arial, Helvetica, sans-serif;
+    }
+
+    @bottom-right {
+      content: counter(page) " / " counter(pages);
+      color: #5f6368;
+      font: 8pt Arial, Helvetica, sans-serif;
+    }
   }
+
 
   body.article-export-printing > :not(.article-print-sheet) {
     display: none !important;
@@ -427,72 +430,21 @@ body.article-export-preview .article-print-sheet {
 
   .article-print-sheet .article-export-float--right {
     float: right !important;
-    width: 48% !important;
-    max-width: 48% !important;
+    width: 44% !important;
+    max-width: 44% !important;
     margin-right: 0 !important;
     margin-left: 1rem !important;
   }
 
   .article-print-sheet .article-export-float--left {
     float: left !important;
-    width: 48% !important;
-    max-width: 48% !important;
+    width: 44% !important;
+    max-width: 44% !important;
     margin-right: 1rem !important;
     margin-left: 0 !important;
   }
 
-  .article-print-sheet .article-export-float-pair {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, .92fr);
-    gap: 1rem;
-    align-items: start;
-  }
-
-  .article-print-sheet .article-export-new-page,
-  .article-print-sheet .article-export-float-section {
-    break-before: page;
-    page-break-before: always;
-  }
-
-  .article-print-sheet .article-export-float-pair {
-    break-inside: avoid-page !important;
-    page-break-inside: avoid !important;
-  }
-
-  .article-print-sheet p {
-    break-inside: avoid-page;
-    page-break-inside: avoid;
-  }
-
-  .article-print-sheet .article-export-float-pair > .article-export-float {
-    float: none !important;
-    grid-row: 1;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 !important;
-  }
-
-  .article-print-sheet .article-export-float-pair > .article-export-float--right {
-    grid-column: 2;
-  }
-
-  .article-print-sheet .article-export-float-pair > .article-export-float--right ~ * {
-    grid-column: 1;
-    grid-row: 1;
-    margin-top: 0;
-  }
-
-  .article-print-sheet .article-export-float-pair > .article-export-float--left {
-    grid-column: 1;
-  }
-
-  .article-print-sheet .article-export-float-pair > .article-export-float--left ~ * {
-    grid-column: 2;
-    grid-row: 1;
-    margin-top: 0;
-  }
-
-  .article-print-sheet a[href^="http"]::after {
+  .article-print-sheet a[href^="http"]:not(.article-export-site-link):not(.article-print-sheet__source-link):not(.article-export-online-link)::after {
     content: " (" attr(href) ")";
     color: #666;
     font-size: 8pt;
