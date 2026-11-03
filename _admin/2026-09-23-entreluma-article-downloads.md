@@ -50,6 +50,10 @@ entreluma:
 
 The older `entreluma.pdf` setting remains a compatibility alias when `downloads` is not set.
 
+## Printing from the Browser
+
+Pressing Ctrl+P (Cmd+P on a Mac) on an article gives the same publication-style PDF as the download menu: Entreluma prepares the article for a moment and then opens the print dialog. Choosing **Print** from the browser's menu cannot be intercepted, so it prints the page as it appears on screen unless the article was already prepared with the download menu or the keyboard shortcut. Readers who want the polished version should use the shortcut or the download menu.
+
 ## Browser Notes
 
 PDF appearance is produced by the browser's print engine. Current versions of Chrome, Edge, Firefox, and Safari all support saving the prepared article as a PDF, but exact font metrics and page breaks can vary slightly. Enable **Background graphics** in the print dialog when the browser offers that option.

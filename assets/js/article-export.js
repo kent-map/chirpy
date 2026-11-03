@@ -980,8 +980,32 @@
     }
   }
 
+  // Browser Print (Ctrl/Cmd+P) should produce the same publication-style PDF as the
+  // download menu. Preparing the sheet is asynchronous (maps, viewers, images), so the
+  // shortcut is intercepted, the sheet is prepared, and then the print dialog opens.
+  // Printing from the browser menu cannot be intercepted; it reuses a sheet already
+  // prepared by an earlier export on this page and otherwise prints the page as-is.
+  function interceptBrowserPrint() {
+    const root = document.querySelector('[data-article-export]');
+    if (!root) return;
+    window.addEventListener('keydown', (event) => {
+      const isPrint = (event.ctrlKey || event.metaKey) && !event.altKey && !event.shiftKey &&
+        event.key.toLowerCase() === 'p';
+      if (!isPrint || event.defaultPrevented || root.classList.contains('is-busy')) return;
+      event.preventDefault();
+      exportPdf(configFor(root)).catch((error) => {
+        setStatus(configFor(root), error.message || 'The PDF could not be prepared.', 6000);
+        window.print();
+      });
+    });
+    window.addEventListener('beforeprint', () => {
+      if (document.querySelector('.article-print-sheet')) document.body.classList.add('article-export-printing');
+    });
+  }
+
   window.EntrelumaArticleExport = { buildPrintSheet, exportPdf, createDocx, preparedArticle };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initAll, { once: true });
   else initAll();
+  interceptBrowserPrint();
   window.addEventListener('afterprint', () => document.body.classList.remove('article-export-printing'));
 })();
