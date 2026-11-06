@@ -12,17 +12,19 @@ toc: false
 ---
 
 The downland of Kent is pocked with small abandoned chalk pits. The chalk was converted to ‘lime’ and used to improve agricultural soils on clay. Lime burning was probably introduced during the Roman period, when lime was originally used in mortar and as a stabiliser for mud floors and render.
-
+<br><br>
 These abandoned pits were often left to grow old gracefully, festooned with old man’s beard (clematis) and other plants of the chalk. Sometimes used as casual dumping grounds, they also became Edenic spaces for children of those generations given free rein to explore. Free from the prying eyes of adults, these pits became places of imagination and education; from building camps to hunting for insects and fossils.
 
 {% include embed/image.html src="wc:%27A_Close_View_in_a_Chalk_Pit_at_Upper_Deal_in_Kent%27_%28Bray_album%29_RMG_PT2036.tiff" aspect="1.0" caption="A Close View in a Chalk Pit at Upper Deal in Kent, Bray Album" %}
 
 This childhood freedom is evoked in Clive King’s classic 1963 children’s book _Stig of the Dump_. Born in Surrey in 1924, Clive and his family moved to [Ash](Q4804335) in west Kent, close enough to Rochester for him to attend the King's School. Old OS maps show the area around Ash peppered with small chalk pits and it was his time in Kent that provided the basis for _Stig_.
+<br><br>
+In an interview for _The Guardian_, King states 'Ash was a boring place. It needed something to wake it up, so I invented Stig.'
 
 {% include embed/image.html src="wc:King%27s_School%2C_Rochester_-_geograph.org.uk_-_1845334.jpg" aspect="1.488" caption="King's School, Rochester" %}
 
-In an interview for _The Guardian_, King states 'Ash was a boring place. It needed something to wake it up, so I invented Stig.' _Stig_ was written many years later when King had children of his own, the models for Barney and Lou. While staying with their grandparents Barney explores the surrounding countryside. One day he tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia. While unable to speak the same language (Stig barely utters a sound throughout), the boys form a strong friendship. Explaining Stig to his sister and grandmother Barney simply states:
-
+_Stig_ was written many years later when King had children of his own, the models for Barney and Lou. While staying with their grandparents Barney explores the surrounding countryside. One day he tumbles into an old chalk pit that is used as a local dumping ground. Here he encounters a ‘cave boy’ who recycles the materials discarded by others to create his home, tools, and other paraphernalia. While unable to speak the same language (Stig barely utters a sound throughout), the boys form a strong friendship. Explaining Stig to his sister and grandmother Barney simply states:
+<br><br>
 ‘He’s a sort of boy, … He just wears rabbit-skins and lives in a cave. He gets his water through a vacuum cleaner and puts chalk in the bath. He’s my friend.’
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/862d778e-6ca0-46d3-976d-14bf7d4ff67d.jpg" aspect="1.0" caption="Stig of the Dump" attribution="Illustration by Heather Murdoch, designed for Kent Maps Online" %}
