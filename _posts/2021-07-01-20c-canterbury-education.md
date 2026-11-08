@@ -68,7 +68,7 @@ Built off the [Old Dover Road]({{ site.baseurl }}/dickens/david-copperfield-dove
 
 {% include embed/image.html src="wc:Barton_court.jpg" aspect="0.669" caption="Barton Court, main building" %}
 
-{% include embed/map.html center="Q4865609" zoom="15" markers="Q4865609" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="Q4865609" zoom="15" markers="Q4865609" %}
 
 **Chaucer Technology College**
 <br>
