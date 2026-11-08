@@ -5,8 +5,7 @@ author: Dr Dominique Gracia and Arnav Sharma
 date: 2022-11-01
 categories: [ 17c ]
 tags: [ Biography, Science & ideas, Towns & cities ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/fafede9a-16fc-4f57-8c41-61a929e62593.jpg
-permalink: /17c/17c-william-harvey/
+image: https://upload.wikimedia.org/wikipedia/commons/3/3b/William_Harvey_Hospital_7.jpg
 published: true
 toc: false  
 ---
