@@ -11,25 +11,18 @@ published: true
 toc: false  
 ---
 
-
-### [Canterbury](Q29303)’s industrial heritage in the 20th century
-
 One of the largest upholstery tanneries in Europe prospered throughout the 20th century within the city walls until its closure in 2002. In the early part of the century the [tannery](Q3515239), which took its name from the adjacent St Mildred’s church, expanded from Stour Street to the other side of the river.
-
-{% include embed/image.html src="wc:St_Mildred%27s_Church_-_panoramio_-_Jean_Marc_Gfp.jpg" aspect="1.333" caption="St Mildred's" %}
-
-{% include embed/map.html center="Q17529474" zoom="15" markers="Q17529474" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
+<br><br>
 The owners of the business, the Williamson family, were great benefactors of the city, giving their home, [Tower House](Q26534635), the Westgate Gardens and the Tannery Field to the council in 1936. [Catherine Williamson](Q28921788) became the city’s first female mayor (1938-40) and earned huge respect for her civic dedication during and after the [Second World War]({{ site.baseurl }}/canterbury/20c-canterbury-ww2).
+
+{% include embed/image.html src="wc:Tower House, Westgate Gardens, Canterbury.jpg" aspect="1.333" caption="Tower House" %}
 
 {% include embed/image.html src="wc:Westgate_Gardens_5.JPG" aspect="1.333" caption="Westgate Gardens" %}
 
-{% include embed/map.html center="Q26534635" zoom="15" markers="Q26534635" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="Q17529474" zoom="15" markers="Q17529474" %}
 
 The motor car industry became a strong market for Canterbury leather, particularly for Rolls Royce cars, Bentleys, Daimlers and Jaguars, found its way into the [Houses of Parliament](Q62408) and was used for the famous Mastermind chair. However, complaints about the stink of tannery processes grew exponentially with the expansion of the business and the site. Unloved because of the smells, from 1988 the business tried to mitigate the effects by concentrating on the dressing, softening and drying of hides. When it closed some of the tannery buildings were preserved for the new housing complex. A large warehouse on Stour Street near St Mildred’s church and, connected across the river by the tannery bridge, another building in the main site are successful conversions. With the stink gone the new housing and riverside apartments are attractive prospects. The development also recreates the line of the city wall where it had been destroyed during the 17th-century English Civil War.
-
-{% include embed/map.html center="Q17529474" zoom="16" markers="Q17529474" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
-
+<br><br>
 The sculptured figure of a cow standing alongside the ring road on the Tannery Field is a sadly symbolic reminder of the tannery. It is constructed of steel rails excavated from the tannery railway which before the war had transported waste to be disposed of in the field.
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c2a24edf-49f6-48fd-9c29-11731fb15d16.jpg" aspect="1.333" caption="Tannery Field bull" attribution="Martin Crowther, by kind permission" %}
