@@ -5,7 +5,7 @@ author: Simone Blandford
 date: 2020-07-19
 categories: [ 20c ]
 tags: [ Authors, Texts & genres, Coast & sea, Literary places ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a-318e-4c7f-8789-6452984df301.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/66/Nayland_Rock_Promenade_Shelter.jpg
 permalink: /20c/20c-eliot-biography/
 published: true
 toc: false  
