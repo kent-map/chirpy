@@ -12,8 +12,8 @@ toc: false
 ---
 
 
-### Lefevre’s and the coming of [Canterbury](Q29303)’s department stores
-
+**Lefevre’s and the coming of Canterbury’s department stores**
+<br>
 The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! It was a modern, new, store in Guildhall Street, which combined the Lefevre family drapers shop with buildings comprising the former Philosophical and Literary Institute, the Theatre Royal and its neighbouring Guildhall Tavern. The brainchild of Charles Lefevre (1879-1945), his father [William Lefevre](Q22101934), born 1847 in Canterbury and of Huguenot descent, had established the family’s shop in the drapery trade. Lefevre’s became a model for a large retail space, embellished with a sweeping staircase, Egyptian style windows and art deco style exterior. The business was such a success that Charles Lefevre sold it to Debenhams who continued to operate the store under the Lefevre name until 1973.
 
 {% include embed/image.html src="wc:Canterbury%2C_Anglia._A_Mercery_Lane_a_Sun_street_fel%C5%91l._Fortepan_28406.jpg" aspect="1.454" caption="Lefevre's, Canterbury, 1959" %}
@@ -30,20 +30,20 @@ The success of Lefevre’s and the Barretts’ stores in the 1930s heralded Cant
 
 A secondary retail area, mixed with banks, restaurants, pubs, museums and charity shops extends from St Margaret’s Street through the historic thoroughfare of the High Street and St Peter’s Street to the Westgate Towers, with a branch down Palace Street to Northgate (today [King’s Mile](https://thekingsmile.org.uk/about/)). Between the 60’s and 80’s attitudes about commercial development changed from replacing the old with the modern to preserving the old by being modern. Ever since the destruction of Canterbury’s Guildhall in 1950, there were those who challenged the view that this was progress.
 
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4492394e-fa2c-454b-99a9-0520c088b76d.jpg" aspect="1.499" caption="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission" %}
+
+{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
+
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/707a3d41-f05c-49d5-add1-dbc573efec4a.jpg" aspect="1.495" caption="Canterbury High Street" attribution="Postcard, pre-1920" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6.jpg" aspect="1.566" caption="St Peter's Street" attribution="Postcard, pre-1918, Léon & Levy" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/b0acbfd0-9654-4d59-b6ed-9f4fde9f6453.jpg" aspect="1.597" caption="Westgate" attribution="Postcard, pre-1918, Léon & Levy" %}
 
-The Canterbury Guildhall had stood on its site at the junction of Palace Street with the High Street for 750 years. Parts were in poor condition and the costs of rebuilding in 1950 were put at £18,000. The City Council decided on demolition. If as John Boyle, the Canterbury Town Clerk, wrote ‘no one can build an old building’, conservationists were determined to show that wonderful old buildings do not stand in the way of progress, but enhance it. In the late-20th century the consensus developed that in a historic city the protection of heritage was attractive to residents, students and visitors and a huge gain for Canterbury’s traders. By the year 2000 the pedestrianised High Street area was buzzing as never before.
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/4492394e-fa2c-454b-99a9-0520c088b76d.jpg" aspect="1.499" caption="Canterbury High Street" attribution="Calum Elliot and Emma Molford, by kind permission" %}
-
-{% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/canterbury/Canterbury_High_Street.jpg" aspect="1.333" caption="Canterbury High Street" attribution="Martin Crowther, by kind permission" %}
-
 {% include embed/map.html center="Q17641331" zoom="15" markers="Q17641331" %}
 
+The Canterbury Guildhall had stood on its site at the junction of Palace Street with the High Street for 750 years. Parts were in poor condition and the costs of rebuilding in 1950 were put at £18,000. The City Council decided on demolition. If as John Boyle, the Canterbury Town Clerk, wrote ‘no one can build an old building’, conservationists were determined to show that wonderful old buildings do not stand in the way of progress, but enhance it. In the late-20th century the consensus developed that in a historic city the protection of heritage was attractive to residents, students and visitors and a huge gain for Canterbury’s traders. By the year 2000 the pedestrianised High Street area was buzzing as never before.
+<br><br>
 [Commerce]({{ site.baseurl }}/canterbury/20c-canterbury-commerce) has been combined with conservation. [Conquest House](Q17557113), in Palace Street, a building of outstanding interest with an 11th-century stone cellar, reputedly where the four knights armed themselves before seeking out [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket), and a splendid, timber-framed 13th-century gallery, has been an antiques and upholstery shop.
 
 {% include embed/image.html src="wc:Canterbury_-_Conquest_House.jpg" aspect="0.659" caption="Conquest House" %}
@@ -52,7 +52,7 @@ Zizzi’s Restaurant or Cogan House, in St Peter’s Street near the Westgate To
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/e783dd08-05cf-4606-a6cb-6bf8d428892f.jpg" aspect="1.331" caption="Zizzi's restaurant in Cogan House, St Peter's Street" attribution="David Bedford, by kind permission" %}
 
-{% include embed/map.html center="51.28045496592545, 1.0776459381588603" zoom="15" markers="51.28045496592545, 1.0776459381588603" allmaps="dce10f1c411cebb1~Blaeu Kent 1665" %}
+{% include embed/map.html center="51.28045496592545, 1.0776459381588603" zoom="15" markers="51.28045496592545, 1.0776459381588603" %}
 
 Does internet shopping and the closures accelerated by coronavirus signal the end of retailing? In Canterbury first Nason’s and then the High Street’s biggest store, Debenham’s, have become redundant, though plans to revive the sites remain on the table. The list of casualties in 2020/21 for Canterbury includes Burton and Dorothy Perkins, Topshop, Café Rouge, TSB bank and Poundland. Other units in Whitefriars and the Marlowe Arcade stand empty. Historians of the future may see the late 20th century as the final flourish of shopping mania.
 
