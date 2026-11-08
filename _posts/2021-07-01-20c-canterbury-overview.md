@@ -1,5 +1,5 @@
 ---
-title: "Canterbury in the 20th-Century"
+title: "Canterbury in the 20th Century"
 description: "A third of the inner core of Canterbury was destroyed by WW2 bombing raids and this part of the city was rebuilt twice during the 20th century. However the Cathedral remained conspicuous and prominent as the major icon of Canterbury and most important pole of attraction."
 author: Richard Maltby
 date: 2021-07-01
