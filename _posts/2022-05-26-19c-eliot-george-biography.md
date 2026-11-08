@@ -7,7 +7,7 @@ author: Michelle Crowther
 date: 2022-05-26
 categories: [ 19c ]
 tags: [ Authors, Coast & sea, Literary places, Travel & transport ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/2251af4a-a56d-45f0-b9b1-361ba46aaf4d.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f2/Edwin_Hayes_%281819-1904%29_-_Broadstairs_Harbour%2C_Kent_-_VIS.1212_-_Sheffield_Galleries_and_Museums_Trust.jpg
 permalink: /19c/19c-eliot-george-biography/
 published: true
 toc: false  
