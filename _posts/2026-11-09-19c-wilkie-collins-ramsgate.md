@@ -61,7 +61,7 @@ Wilkie was in Ramsgate again in 1873. The only known letter datelined Granville 
 Granville Hotel   
 Ramsgate   
 Wednesday July 9th   
-<br><br>
+<br>
 My dear Mrs Ward   
 <br>
         Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength.
