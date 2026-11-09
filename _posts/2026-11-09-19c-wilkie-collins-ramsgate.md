@@ -35,6 +35,7 @@ Frank soon returned to London as William went down to join the family in Ramsgat
 <br><br>
 "a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing." 
 
+{% include embed/image.html src="wc:Plains of Waterloo, Ramsgate - geograph.org.uk - 4792238.jpg" aspect="0.775" caption="Plains of Waterloo, Ramsgate" %}
 
 In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both for work and pleasure. But after Dickens’s death he found the memories there too awful and moved his affections to Ramsgate. Analysis of Wilkie Collins’s letters and bank account shows his first stay there was in October 1870 at the Granville Hotel. Today it is known as Granville House at the east end of Ramsgate in St Lawrence. But in the 1870s it was the place to stay. It even had its own private train from Charing Cross on Friday evening returning Monday morning and probably packed by London weekenders all called Mr and Mrs Smith!
 <br><br>
