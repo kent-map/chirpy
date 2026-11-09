@@ -14,20 +14,19 @@ image:
 ---
 
 Wilkie Collins was a child when he had his first Ramsgate holiday. 
-
+<br><br>
 His father was William Collins RA (1787-1847) a famous artist in his day whose paintings were bought by aristocrats and royalty. He had married Harriet Geddes in 1822 and their two children were Wilkie – know then as Willie short for his first name William – and Charles Allston aged just one, known as Charley. 
-
+<br><br>
 During 1829 William Collins took his family to Boulogne, and on the way back to London they stayed for a few weeks at Ramsgate. 
-
-William wrote to his brother Frank, who lived with the family in London, in September 
-
+<br><br>
+William wrote to his brother Frank, who lived with the family in London, in September: 
+<br><br>
 “We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to Broadstairs; which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.” 
+<br><br>
+Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. That is all we know of Wilkie’s first experience of Ramsgate at the age of five. 
 
-Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. 
+Ramsgate Harbour, 1829 engraving.jpg
 
-That is all we know of Wilkie’s first experience of Ramsgate at the age of five. 
-
-Second trip
 Four years later at the end of August 1833 Wilkie’s mother Harriet, accompanied by her brother-in-law Frank, took Willie, then nine, and Charley, aged five to stay in Ramsgate. The trip ended in tragedy. We know the details from letters preserved in the Morgan Library in New York.
 
 William and Harriet were a handsome couple in their early forties 
