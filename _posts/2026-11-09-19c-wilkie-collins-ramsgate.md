@@ -61,11 +61,26 @@ Wilkie was in Ramsgate again in 1873. The only known letter datelined Granville 
 Granville Hotel   
 Ramsgate   
 Wednesday July 9th   
-
+<br><br>
 My dear Mrs Ward   
 <br>
         Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength.
 <br><br>
-Although Wilkie worked on previous trips and claimed this one was for his own health it is possible he was accompanied by one of his families. He had two. Since the mid-1850s he had lived with Caroline Graves and her daughter who he effectively adopted. But by the 1870s he also had another family. He met Martha Rudd in the mid-1860s and brought her to London and by this time she lived in an apartment with their two children – Marian born 4 July 1869 and Harriet born 14 May 1871. If he did have family with him, then Martha and their young children are more likely than Caroline and her daughter Elizabeth who was around 20 years old. 
+Although Wilkie worked on previous trips and claimed this one was for his own health it is possible he was accompanied by one of his families - He had two. Since the mid-1850s, he had lived with Caroline Graves and her daughter who he effectively adopted. But by the 1870s, he also had another family. He met Martha Rudd in the mid-1860s and brought her to London. By this time, she lived in an apartment with their two children – Marian born 4 July 1869 and Harriet born 14 May 1871. If he did have family with him, then Martha and their young children are more likely than Caroline and her daughter Elizabeth who was around 20 years old. 
 
+### References
+
+[^ref1]: Wilkie Collins. _Memoirs of the Life of William Collins_, Esq., R.A., Vol I, p. 331
+[^ref2]: William Collins to Harriet Collins, 2 September 1833, Morgan 3154(34).
+[^ref3]: Census 1841.
+[^ref4]: William Collins to Harriet Collins, 28 September 1833, Morgan 3154(37?).
+[^ref5]: William Thompson to William Collins 1 October 1833, Morgan 3154(4 and 5).
+[^ref6]: See William Collins to Harriet Collins [4] October 1833, Morgan (3154(37)
+[^ref7]: The Moonstone 1868, Chapter X.
+[^ref8]: Illustrated Sporting and Dramatic News, 5 May 1877 p.159
+[^ref9]:  [1020] to Charles Ward, 2 September 1870.
+[^ref10]:  Wilkie Collins’s account at Coutts Bank from 1860 to 1889 was kindly made available to me by the Archivist Tracey Earl.
+[^ref11]:  [1200] To William F. Tindell, 19 February 1872.
+[^ref12]:  Wilkie Collins, Coutts account. 
+[^ref13]: [1358] To Henrietta Ward, 9 July 1873 
 
