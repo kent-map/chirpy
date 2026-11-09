@@ -25,7 +25,7 @@ William wrote to his brother Frank, who lived with the family in London, in Sept
 <br><br>
 Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. That is all we know of Wilkie’s first experience of Ramsgate at the age of five. 
 
-Ramsgate Harbour, 1829 engraving.jpg
+{% include embed/image.html src="wc:Ramsgate Harbour, 1829 engraving.jpg" aspect="0.775" caption="Ramsgate Harbour, 1829" %}
 
 Four years later at the end of August 1833 Wilkie’s mother Harriet, accompanied by her brother-in-law Frank, took Willie, then nine, and Charley, aged five to stay in Ramsgate. The trip ended in tragedy. We know the details from letters preserved in the Morgan Library in New York.
 
@@ -33,24 +33,26 @@ William and Harriet were a handsome couple in their early forties
 
 And their two boys were Wilkie and his brother Charles were nine and five, seen in this painting by Harriet’s cousin Andrew Geddes.
 
-There was no room with Mrs Read or her neighbours, so Harriet settled on “quite clean and airy” rooms with Mrs Francis at 3 Albion Hill for thirty shillings. They were quite near the harbour but only had “a glimpse of the sea & very small”. She wrote to William 
-
-We were on the beach all the morning which was crowded, the boys are quite happy.
-
-William passed on his medical instructions “The children if the weather is warm may dip in the sea but by no means remain long in the water.” 
-
+There was no room with Mrs Read or her neighbours, so Harriet settled on “quite clean and airy” rooms with Mrs Francis at 3 Albion Hill for thirty shillings. They were quite near the harbour but only had “a glimpse of the sea & very small”. She wrote to William: 
+<br><br>
+"We were on the beach all the morning which was crowded, the boys are quite happy.".
+<br><br>
+William passed on his medical instructions:
+<br><br>
+“The children if the weather is warm may dip in the sea but by no means remain long in the water.” 
+<br><br>
 Frank soon returned to London as William went down to join the family in Ramsgate. But Albion Hill did not suit him “Nothing could induce William to sleep there a second night” Harriet wrote to Frank and they removed to 4 Plains of Waterloo run by Mrs Warman and her daughters Elizabeth (14), Albertine (12), and Ann who was Wilkie’s age.  They had a nice view down to the sea, but bathing soon ended when Charles caught a cold and Mrs Warman warned of the dangers of it. William agreed writing “sea water has done much harm to many of the lower classes. 
 
 William was back in London by this time to see his brother Frank who hadn’t been well in Ramsgate and now had a fever. William’s doctor said Frank was not seriously ill,  and told William there was no immediate danger.  At 9.30 the next morning Frank died, aged 43. 
 
 The family was devastated that this much-loved brother and uncle, had gone and they never visited Ramsgate again. 
 
-This may have been the start of Wilkie’s prejudice against doctors. In The Moonstone, he wrote of Franklin Blake 
+This may have been the start of Wilkie’s prejudice against doctors. In _The Moonstone_, he wrote of Franklin Blake 
 
 a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing. 
 
 In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both for work and pleasure. But after Dickens’s death he found the memories there too awful and moved his affections to Ramsgate. Analysis of Wilkie Collins’s letters and bank account shows his first stay there was in October 1870 at the Granville Hotel. 
-
+<br><br>
 Today it is known as Granville House at the east end of Ramsgate in St Lawrence. But in the 1870s it was the place to stay. 
 
 As this advert from 1877 showed
