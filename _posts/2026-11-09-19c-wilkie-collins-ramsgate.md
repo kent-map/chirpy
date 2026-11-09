@@ -10,11 +10,11 @@ featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/2/27/Ramsgate_Harbour%2C_1829_engraving.jpg
 ---
 
-Wilkie Collins was a child when he had his first Ramsgate holiday. His father was William Collins RA (1787-1847) a famous artist in his day whose paintings were bought by aristocrats and royalty. He had married Harriet Geddes in 1822 and their two children were Wilkie – know then as Willie short for his first name William – and Charles Allston aged just one, known as Charley. 
+[Wilkie Collins]({{ site.baseurl }}/19c/19c-collins-biography) was a child when he had his first Ramsgate holiday. His father was William Collins RA (1787-1847) a famous artist in his day whose paintings were bought by aristocrats and royalty. He had married Harriet Geddes in 1822 and their two children were Wilkie – know then as Willie short for his first name William – and Charles Allston aged just one, known as Charley. 
 <br><br>
-During 1829 William Collins took his family to Boulogne, and on the way back to London they stayed for a few weeks at Ramsgate. William wrote to his brother Frank, who lived with the family in London, in September: 
+During 1829 William Collins took his family to Boulogne, and on the way back to London they stayed for a few weeks at [Ramsgate]({{ site.baseurl }}/19c/19c-ramsgate). William wrote to his brother Frank, who lived with the family in London, in September: 
 <br><br>
-“We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to Broadstairs; which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.”[^ref1] 
+“We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to [Broadstairs]({{ site.baseurl }}/dickens/broadstairs-19th-century); which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.”[^ref1] 
 <br><br>
 Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. 
 
@@ -36,7 +36,7 @@ Frank soon returned to London as William went down to join the family in Ramsgat
 
 {% include embed/image.html src="wc:Plains of Waterloo, Ramsgate - geograph.org.uk - 4792238.jpg" aspect="0.775" caption="Plains of Waterloo, Ramsgate" %}
 
-In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both for work and pleasure. But after Dickens’s death he found the memories there too awful and moved his affections to Ramsgate. Analysis of Wilkie Collins’s letters and bank account shows his first stay there was in October 1870 at the Granville Hotel. Today it is known as Granville House at the east end of Ramsgate in St Lawrence. But in the 1870s it was the place to stay. It even had its own private train from Charing Cross on Friday evening returning Monday morning and probably packed by London weekenders all called Mr and Mrs Smith!
+In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both for work and pleasure. But after [Dickens]({{ site.baseurl }}/dickens/dickens-biography)’s death he found the memories there too awful and moved his affections to Ramsgate. Analysis of Wilkie Collins’s letters and bank account shows his first stay there was in October 1870 at the Granville Hotel. Today it is known as Granville House at the east end of Ramsgate in St Lawrence. But in the 1870s it was the place to stay. It even had its own private train from Charing Cross on Friday evening returning Monday morning and probably packed by London weekenders all called Mr and Mrs Smith!
 <br><br>
 We know he was there from a letter to his friend Charles Ward in September 1870:
 <br><br>
