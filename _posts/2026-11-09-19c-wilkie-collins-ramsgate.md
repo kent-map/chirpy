@@ -1,0 +1,98 @@
+---
+title: Wilkie Collins in Ramsgate
+description: 
+author: Paul Lewis
+date: 2026-11-09
+categories: [ 19c ]
+tags: [ Authors,  Literary places ]
+published: false
+featured: false
+media_subpath: /assets/img
+image:
+  path: 
+  alt: 
+---
+
+Wilkie Collins was a child when he had his first Ramsgate holiday. 
+
+His father was William Collins RA (1787-1847) a famous artist in his day whose paintings were bought by aristocrats and royalty. He had married Harriet Geddes in 1822 and their two children were Wilkie – know then as Willie short for his first name William – and Charles Allston aged just one, known as Charley. 
+
+During 1829 William Collins took his family to Boulogne, and on the way back to London they stayed for a few weeks at Ramsgate. 
+
+William wrote to his brother Frank, who lived with the family in London, in September 
+
+“We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to Broadstairs; which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.” 
+
+Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. 
+
+That is all we know of Wilkie’s first experience of Ramsgate at the age of five. 
+
+Second trip
+Four years later at the end of August 1833 Wilkie’s mother Harriet, accompanied by her brother-in-law Frank, took Willie, then nine, and Charley, aged five to stay in Ramsgate. The trip ended in tragedy. We know the details from letters preserved in the Morgan Library in New York.
+
+William and Harriet were a handsome couple in their early forties 
+
+And their two boys were Wilkie and his brother Charles were nine and five, seen in this painting by Harriet’s cousin Andrew Geddes.
+
+There was no room with Mrs Read or her neighbours, so Harriet settled on “quite clean and airy” rooms with Mrs Francis at 3 Albion Hill for thirty shillings. They were quite near the harbour but only had “a glimpse of the sea & very small”. She wrote to William 
+
+We were on the beach all the morning which was crowded, the boys are quite happy.
+
+William passed on his medical instructions “The children if the weather is warm may dip in the sea but by no means remain long in the water.” 
+
+Frank soon returned to London as William went down to join the family in Ramsgate. But Albion Hill did not suit him “Nothing could induce William to sleep there a second night” Harriet wrote to Frank and they removed to 4 Plains of Waterloo run by Mrs Warman and her daughters Elizabeth (14), Albertine (12), and Ann who was Wilkie’s age.  They had a nice view down to the sea, but bathing soon ended when Charles caught a cold and Mrs Warman warned of the dangers of it. William agreed writing “sea water has done much harm to many of the lower classes. 
+
+William was back in London by this time to see his brother Frank who hadn’t been well in Ramsgate and now had a fever. William’s doctor said Frank was not seriously ill,  and told William there was no immediate danger.  At 9.30 the next morning Frank died, aged 43. 
+
+The family was devastated that this much-loved brother and uncle, had gone and they never visited Ramsgate again. 
+
+This may have been the start of Wilkie’s prejudice against doctors. In The Moonstone, he wrote of Franklin Blake 
+
+a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing. 
+
+In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both for work and pleasure. But after Dickens’s death he found the memories there too awful and moved his affections to Ramsgate. Analysis of Wilkie Collins’s letters and bank account shows his first stay there was in October 1870 at the Granville Hotel. 
+
+Today it is known as Granville House at the east end of Ramsgate in St Lawrence. But in the 1870s it was the place to stay. 
+
+As this advert from 1877 showed
+
+It even had its own private train from Charing Cross on Friday evening returning Monday morning and probably packed by London weekenders all called Mr and Mrs Smith!
+
+We know he was there from a letter to his friend Charles Ward in September 1870
+
+If you are passing the Hotel, perhaps you will kindly tell the manager that I will give him three days’ notice by tele¬gram of my arrival at the Granville Hotel. 
+
+His bank account shows accounts show that on the 5 October 1870 he took out travelling expenses of £50.  Eighteen months later he was back at the Granville, returning on 19th February 1872.  He wrote to his lawyer, William Tindell at 3pm in the afternoon
+
+I am this moment back from Ramsgate. So excuse haste. 
+
+It was the first letter he had written for a week so he had probably been in Ramsgate for that time. As he left that morning he paid the hotel £9-6s which was debited to his account on Friday 23rd.  That is around £150 a night in today’s money.
+
+Between those two visits to the Granville Hotel on the East Cliff, Wilkie finished the first book that mentions Ramsgate. 
+
+Poor Miss Finch is the story of a young woman, Lucilla Finch, who went blind as a child due to cataracts. She falls in love with a man called Oscar Dubourg who has a lovely voice and is very kind to her. And she can tell from touching his face he is very handsome. Whenever she does touch him she gets what she calls a tingle. But Oscar’s twin brother Nugent also loves Lucilla. When a doctor helps her regain her sight Nugent contrives to ensure she sees him first. And although she does not get the tingle, she believes that may have gone with her blindness. She travels to Ramsgate and Nugent follows her, posing as Oscar. 
+
+Lucilla writes a journal datelined East Cliff, Ramsgate, August 28th. 
+
+To-day, we went out together for a walk on the cliffs. What a delight it was to move through the fresh briny air, and see the lovely sights on every side of me! Oscar enjoyed it too...he was charming, and I was more in love with him than ever. On our return, a little incident occurred which altered him for the worse, and which made my spirits sink again….
+There were chairs on the beach. We hired two, and sat down to look about us. All sorts of diversions were going on. Monkeys, organs, girls on stilts, a conjurer, minstrels, were all at work to amuse the visitors. I thought the varied colour and bustling enjoyment of the crowd, with the bright blue sea beyond, and the glorious sunshine overhead, quite delightful…Oscar, to my disappointment, called the company on the beach “a herd of snobs”.  …He got up again impatiently, and looked at his watch. “Your aunt will be wondering what has become of us,” he said. “Surely you have had enough of the mob on the sands, by this time?”
+
+This key scene in the plot where Lucilla begins to doubt if she does love this man was set on the East Cliff beach at Ramsgate beneath the Granville Hotel. 
+
+
+PART III
+Wilkie was in Ramsgate again in 1873. The only known letter datelined Granville Hotel was written to a friend, Henrietta Ward, on 9 July 1873.
+
+Granville Hotel 
+Ramsgate
+Wednesday July 9th
+
+
+
+My dear Mrs Ward
+
+        Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength 
+
+Although Wilkie worked on previous trips and claimed this one was for his own health it is possible he was accompanied by one of his families. He had two. Since the mid-1850s he had lived with Caroline Graves and her daughter who he effectively adopted. But by the 1870s he also had another family. He met Martha Rudd in the mid-1860s and brought her to London and by this time she lived in an apartment with their two children – Marian born 4 July 1869 and Harriet born 14 May 1871. If he did have family with him, then Marth and their young children are more likely than Caroline and her daughter Elizabeth who was around 20 years old. 
+
+
