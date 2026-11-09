@@ -59,6 +59,8 @@ Lucilla writes a journal datelined East Cliff, Ramsgate, August 28th:
 <br><br>
 This key scene in the plot where Lucilla begins to doubt if she does love this man was set on the East Cliff beach at Ramsgate beneath the Granville Hotel. 
 
+{% include embed/image.html src="wc:Ramsgate Sands.jpg" aspect="0.775" caption="Ramsgate Sands" %}
+
 Wilkie was in Ramsgate again in 1873. The only known letter datelined Granville Hotel was written to a friend, Henrietta Ward, on 9 July 1873.
 <br><br>
 Granville Hotel   
@@ -70,6 +72,8 @@ My dear Mrs Ward
         Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength.
 <br><br>
 Although Wilkie worked on previous trips and claimed this one was for his own health it is possible he was accompanied by one of his families - He had two. Since the mid-1850s, he had lived with Caroline Graves and her daughter who he effectively adopted. But by the 1870s, he also had another family. He met Martha Rudd in the mid-1860s and brought her to London. By this time, she lived in an apartment with their two children – Marian born 4 July 1869 and Harriet born 14 May 1871. If he did have family with him, then Martha and their young children are more likely than Caroline and her daughter Elizabeth who was around 20 years old. 
+
+{% include embed/image.html src="wc:Arthur Boyd Houghton (1836-1875) - Ramsgate Sands - N03907 - National Gallery.jpg" aspect="0.775" caption="Ramsgate Sands" %}
 
 ### References
 
