@@ -15,7 +15,7 @@ Wilkie Collins was a child when he had his first Ramsgate holiday. His father wa
 <br><br>
 During 1829 William Collins took his family to Boulogne, and on the way back to London they stayed for a few weeks at Ramsgate. William wrote to his brother Frank, who lived with the family in London, in September: 
 <br><br>
-“We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to Broadstairs; which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.” 
+“We have taken a house here, for a fortnight… we see no reason why you should not spend at least a week with us, in the delightful air of this place…I have not yet been to Broadstairs; which has more picturesque beauty, I believe, than any other place in this neighbourhood! There is nothing worth a straw at Ramsgate, except the sea.”[^ref1] 
 <br><br>
 Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. 
 
@@ -29,11 +29,11 @@ Four years later at the end of August 1833, Wilkie’s mother Harriet, accompani
 <br><br>
 William passed on his medical instructions:
 <br><br>
-“The children if the weather is warm may dip in the sea but by no means remain long in the water.” 
+“The children if the weather is warm may dip in the sea but by no means remain long in the water.”[^ref2] 
 <br><br>
-Frank soon returned to London as William went down to join the family in Ramsgate. But Albion Hill did not suit him “Nothing could induce William to sleep there a second night” Harriet wrote to Frank and they removed to 4 Plains of Waterloo run by Mrs Warman and her daughters Elizabeth (14), Albertine (12), and Ann who was Wilkie’s age.  They had a nice view down to the sea, but bathing soon ended when Charles caught a cold and Mrs Warman warned of the dangers of it. William agreed writing “sea water has done much harm to many of the lower classes". William was back in London by this time to see his brother Frank who hadn’t been well in Ramsgate and now had a fever. William’s doctor said Frank was not seriously ill,  and told William there was no immediate danger.  At 9.30 the next morning Frank died, aged 43. The family was devastated that this much-loved brother and uncle, had gone and they never visited Ramsgate again. This may have been the start of Wilkie’s prejudice against doctors. In _The Moonstone_, he wrote of Franklin Blake" 
+Frank soon returned to London as William went down to join the family in Ramsgate. But Albion Hill did not suit him “Nothing could induce William to sleep there a second night” Harriet wrote to Frank and they removed to 4 Plains of Waterloo run by Mrs Warman and her daughters Elizabeth (14), Albertine (12), and Ann who was Wilkie’s age.[^ref3]  They had a nice view down to the sea, but bathing soon ended when Charles caught a cold and Mrs Warman warned of the dangers of it. William agreed writing “sea water has done much harm to many of the lower classes".[^ref4] William was back in London by this time to see his brother Frank who hadn’t been well in Ramsgate and now had a fever. William’s doctor said Frank was not seriously ill,[^ref5]  and told William there was no immediate danger.[^ref6]  At 9.30 the next morning Frank died, aged 43. The family was devastated that this much-loved brother and uncle, had gone and they never visited Ramsgate again. This may have been the start of Wilkie’s prejudice against doctors. In _The Moonstone_, he wrote of Franklin Blake" 
 <br><br>
-"a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing." 
+"a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing."[^ref7] 
 
 {% include embed/image.html src="wc:Plains of Waterloo, Ramsgate - geograph.org.uk - 4792238.jpg" aspect="0.775" caption="Plains of Waterloo, Ramsgate" %}
 
@@ -41,13 +41,13 @@ In the 1850s and 60s Broadstairs had been Wilkie’s favourite seaside town both
 <br><br>
 We know he was there from a letter to his friend Charles Ward in September 1870:
 <br><br>
-"If you are passing the Hotel, perhaps you will kindly tell the manager that I will give him three days’ notice by telegram of my arrival at the Granville Hotel." 
+"If you are passing the Hotel, perhaps you will kindly tell the manager that I will give him three days’ notice by telegram of my arrival at the Granville Hotel."[^ref8] 
 <br><br>
-His bank account shows accounts show that on the 5 October 1870 he took out travelling expenses of £50.  Eighteen months later he was back at the Granville, returning on 19th February 1872.  He wrote to his lawyer, William Tindell at 3pm in the afternoon:
+His bank account shows accounts show that on the 5 October 1870 he took out travelling expenses of £50.[^ref9]  Eighteen months later he was back at the Granville, returning on 19th February 1872.  He wrote to his lawyer, William Tindell at 3pm in the afternoon:
 <br><br>
-"I am this moment back from Ramsgate. So excuse haste." 
+"I am this moment back from Ramsgate. So excuse haste."[^ref10] 
 <br><br>
-It was the first letter he had written for a week so he had probably been in Ramsgate for that time. As he left that morning he paid the hotel £9-6s which was debited to his account on Friday 23rd.  That is around £150 a night in today’s money.
+It was the first letter he had written for a week so he had probably been in Ramsgate for that time. As he left that morning he paid the hotel £9-6s which was debited to his account on Friday 23rd.[^ref12]  That is around £150 a night in today’s money.
 <br><br>
 Between those two visits to the Granville Hotel on the East Cliff, Wilkie finished the first book that mentions Ramsgate. _Poor Miss Finch_ is the story of a young woman, Lucilla Finch, who went blind as a child due to cataracts. She falls in love with a man called Oscar Dubourg who has a lovely voice and is very kind to her. And she can tell from touching his face he is very handsome. Whenever she does touch him she gets what she calls a tingle. But Oscar’s twin brother Nugent also loves Lucilla. When a doctor helps her regain her sight Nugent contrives to ensure she sees him first. And although she does not get the tingle, she believes that may have gone with her blindness. She travels to Ramsgate and Nugent follows her, posing as Oscar. 
 
@@ -69,7 +69,7 @@ Wednesday July 9th
 <br>
 My dear Mrs Ward   
 <br>
-        Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength.
+        Fate has determined that I am not to dine again in your house. I was yesterday – after some previous suffering from rheumatism – sent here by medical order to get health and strength.[^ref12]
 <br><br>
 Although Wilkie worked on previous trips and claimed this one was for his own health it is possible he was accompanied by one of his families - He had two. Since the mid-1850s, he had lived with Caroline Graves and her daughter who he effectively adopted. But by the 1870s, he also had another family. He met Martha Rudd in the mid-1860s and brought her to London. By this time, she lived in an apartment with their two children – Marian born 4 July 1869 and Harriet born 14 May 1871. If he did have family with him, then Martha and their young children are more likely than Caroline and her daughter Elizabeth who was around 20 years old. 
 
@@ -84,10 +84,9 @@ Although Wilkie worked on previous trips and claimed this one was for his own he
 [^ref5]: William Thompson to William Collins 1 October 1833, Morgan 3154(4 and 5).
 [^ref6]: See William Collins to Harriet Collins [4] October 1833, Morgan (3154(37)
 [^ref7]: The Moonstone 1868, Chapter X.
-[^ref8]: Illustrated Sporting and Dramatic News, 5 May 1877 p.159
-[^ref9]:  [1020] to Charles Ward, 2 September 1870.
-[^ref10]:  Wilkie Collins’s account at Coutts Bank from 1860 to 1889 was kindly made available to me by the Archivist Tracey Earl.
-[^ref11]:  [1200] To William F. Tindell, 19 February 1872.
-[^ref12]:  Wilkie Collins, Coutts account. 
-[^ref13]: [1358] To Henrietta Ward, 9 July 1873 
+[^ref8]:  [1020] to Charles Ward, 2 September 1870.
+[^ref9]:  Wilkie Collins’s account at Coutts Bank from 1860 to 1889 was kindly made available to me by the Archivist Tracey Earl.
+[^ref10]:  [1200] To William F. Tindell, 19 February 1872.
+[^ref11]:  Wilkie Collins, Coutts account. 
+[^ref12]: [1358] To Henrietta Ward, 9 July 1873 
 
