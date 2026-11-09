@@ -27,7 +27,9 @@ Four years later at the end of August 1833, Wilkie’s mother Harriet, accompani
 William passed on his medical instructions:
 <br><br>
 “The children if the weather is warm may dip in the sea but by no means remain long in the water.”[^ref2] 
-<br><br>
+
+{% include embed/image.html src="wc:Albion Hill, Ramsgate - geograph.org.uk - 5686505.jpg" aspect="0.775" caption="Albion Hill, Ramsgate" %}
+
 Frank soon returned to London as William went down to join the family in Ramsgate. But Albion Hill did not suit him “Nothing could induce William to sleep there a second night” Harriet wrote to Frank and they removed to 4 Plains of Waterloo run by Mrs Warman and her daughters Elizabeth (14), Albertine (12), and Ann who was Wilkie’s age.[^ref3]  They had a nice view down to the sea, but bathing soon ended when Charles caught a cold and Mrs Warman warned of the dangers of it. William agreed writing “sea water has done much harm to many of the lower classes".[^ref4] William was back in London by this time to see his brother Frank who hadn’t been well in Ramsgate and now had a fever. William’s doctor said Frank was not seriously ill,[^ref5]  and told William there was no immediate danger.[^ref6]  At 9.30 the next morning Frank died, aged 43. The family was devastated that this much-loved brother and uncle, had gone and they never visited Ramsgate again. This may have been the start of Wilkie’s prejudice against doctors. In _The Moonstone_, he wrote of Franklin Blake" 
 <br><br>
 "a course of medicine, and a course of groping in the dark, meant, in his estimation, one and the same thing."[^ref7] 
