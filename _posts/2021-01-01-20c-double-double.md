@@ -5,7 +5,7 @@ author: Dr Michael Goodrum
 date: 2021-01-01
 categories: [ 20c ]
 tags: [ Texts & genres, Coast & sea ]
-image: https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/0d641b7a-318e-4c7f-8789-6452984df301.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Margate_%2C_Dreamland_-_geograph.org.uk_-_6889010.jpg
 permalink: /20c/20c-double-double/
 published: true
 toc: false  
