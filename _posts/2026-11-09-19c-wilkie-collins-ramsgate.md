@@ -18,7 +18,7 @@ During 1829 William Collins took his family to Boulogne, and on the way back to 
 <br><br>
 Frank accepted and took the steam packet from London Bridge to stay with them. They stayed with Jane Read in her lodging house at 10 Sion Row, Ramsgate. 
 
-{% include embed/image.html src="wc:William Collins (1788-1847) (style of) - The Childhood of Wilkie Collins - WAG 1751 - Walker Art Gallery.jpg" aspect="0.775" caption="Wilkie Collins, 1829" %}
+{% include embed/image.html src="wc: .jpg" aspect="0.775" caption="  " %}
 
 Four years later at the end of August 1833, Wilkie’s mother Harriet, accompanied by her brother-in-law Frank, took Willie, then nine, and Charley, aged five to stay in Ramsgate. The trip ended in tragedy. There was no room with Mrs Read or her neighbours, so Harriet settled on “quite clean and airy” rooms with Mrs Francis at 3 Albion Hill for thirty shillings. They were quite near the harbour but only had “a glimpse of the sea & very small”. She wrote to William: 
 <br><br>
