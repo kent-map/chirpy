@@ -1,0 +1,147 @@
+{%- comment -%}
+  Client-side redirect for the 404 page (included first in <head> on /404.html).
+
+  GitHub Pages cannot issue server-side 301s, so this script recovers readers who
+  follow old or near-miss addresses: /cacao/, /Agave, /black_eyed_peas/,
+  /assets/posts/pecan/pecan.pdf, /admin/storykit-map-viewer, /Q11756 and so on.
+
+  Limits: crawlers still receive a 404 status for these URLs, and search engines
+  may or may not run the script. That is acceptable because the sitemap carries
+  the canonical URLs; this is aimed at people following old links.
+
+  It runs before the analytics include, so a recovered visit never records a
+  404 page view. Lookup order:
+    1. explicit aliases from site.data.redirects (keys already normalized)
+    2. generated table of every post, tab, admin page and standalone page
+    3. pattern rules (old static PDFs, renamed StoryKit guides, Wikidata IDs)
+  Never redirects to the same path or to the home page as a fallback.
+{%- endcomment -%}
+<script>
+(function () {
+  'use strict';
+
+  function normalize(path) {
+    var p = String(path || '');
+    try { p = decodeURIComponent(p); } catch (e) {}
+    p = p
+      .replace(/[\u200b-\u200d\u2060\ufeff]/g, '')
+      .replace(/\s+/g, '')
+      .toLowerCase()
+      .replace(/_/g, '-')
+      .replace(/\/{2,}/g, '/')
+      .replace(/\/index\.html?$/, '/')
+      .replace(/\.html?$/, '')
+      .replace(/\/+$/, '');
+    if (p.charAt(0) !== '/') p = '/' + p;
+    return p;
+  }
+
+  /* site.baseurl for project sites (e.g. /entreluma on github.io). The table,
+     aliases and resolve() work in site-relative paths; href() adds the base. */
+  var base = {{ site.baseurl | default: '' | jsonify }}.replace(/\/+$/, '');
+
+  function stripBase(pathname) {
+    var p = String(pathname || '');
+    if (base && p.toLowerCase().indexOf(base.toLowerCase()) === 0) p = p.slice(base.length) || '/';
+    return p;
+  }
+
+  function href(url) {
+    return /^https?:\/\//.test(url) ? url : base + url;
+  }
+
+  var explicit = {
+    {%- for pair in site.data.redirects -%}{{ pair[0] | jsonify }}: {{ pair[1] | jsonify }},{%- endfor -%}
+  };
+
+  /* [raw key, canonical URL]; keys are normalized below with the same function. */
+  var entries = [
+    {%- for doc in site.posts -%}
+      [{{ doc.url | jsonify }}, {{ doc.url | jsonify }}],
+      [{{ "/" | append: doc.slug | jsonify }}, {{ doc.url | jsonify }}],
+    {%- endfor -%}
+    {%- for doc in site.tabs -%}[{{ doc.url | jsonify }}, {{ doc.url | jsonify }}],{%- endfor -%}
+    {%- for doc in site.admin -%}[{{ doc.url | jsonify }}, {{ doc.url | jsonify }}],{%- endfor -%}
+    {%- for pg in site.pages -%}
+      {%- unless pg.url contains "." -%}[{{ pg.url | jsonify }}, {{ pg.url | jsonify }}],{%- endunless -%}
+    {%- endfor -%}
+  ];
+
+  var table = {};
+  for (var i = 0; i < entries.length; i++) {
+    var key = normalize(entries[i][0]);
+    if (key !== '/' && !(key in table)) table[key] = entries[i][1];
+  }
+
+  function resolve(pathname) {
+    var key = normalize(stripBase(pathname));
+    if (key === '/') return null;
+    if (explicit[key]) return explicit[key];
+    if (table[key]) return table[key];
+
+    /* Old static PDFs: /assets/posts/<slug>/<slug>.pdf -> essay page */
+    var pdf = key.match(/^\/assets\/posts\/([^/]+)\/\1\.pdf$/);
+    if (pdf && table['/' + pdf[1]]) return table['/' + pdf[1]];
+
+    /* Renamed author guides: /admin/storykit-<name> -> /admin/entreluma-<name> */
+    var sk = key.match(/^\/admin\/storykit-(.+)$/);
+    if (sk && table['/admin/entreluma-' + sk[1]]) return table['/admin/entreluma-' + sk[1]];
+
+    /* Relative Wikidata links followed by crawlers: .../Q11756 -> Wikidata */
+    var last = key.split('/').pop();
+    if (/^q\d+$/.test(last)) return 'https://www.wikidata.org/wiki/' + last.toUpperCase();
+
+    return null;
+  }
+
+  function levenshtein(a, b) {
+    var prev = [], cur, j;
+    for (j = 0; j <= b.length; j++) prev[j] = j;
+    for (var i = 1; i <= a.length; i++) {
+      cur = [i];
+      for (j = 1; j <= b.length; j++) {
+        cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1,
+          prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      }
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+
+  /* Up to `n` closest pages by edit distance on the normalized slug. */
+  function suggest(pathname, n) {
+    var slug = normalize(stripBase(pathname)).split('/').pop();
+    if (!slug) return [];
+    var seen = {}, scored = [];
+    Object.keys(table).forEach(function (k) {
+      var url = table[k];
+      if (seen[url] || url === '/' || /^\/(page\d+|tags|categories|admin)\//.test(url)) return;
+      seen[url] = true;
+      var d = levenshtein(slug, k.split('/').pop());
+      if (d <= Math.max(2, Math.floor(slug.length / 2))) scored.push({ url: url, d: d });
+    });
+    scored.sort(function (a, b) { return a.d - b.d; });
+    return scored.slice(0, n || 3).map(function (s) { return s.url; });
+  }
+
+  window.entreluma404 = {
+    normalize: normalize, resolve: resolve, suggest: suggest, href: href,
+    base: base, table: table, explicit: explicit
+  };
+
+  var target = resolve(location.pathname);
+  /* Loop guard compares exact paths: /Paperbark/ and /paperbark normalize to
+     the same key, and that case is exactly what should redirect. */
+  if (target && target !== '/' && href(target) !== location.pathname) {
+    try { sessionStorage.setItem('entreluma:redirected-from', location.pathname); } catch (e) {}
+    var external = /^https?:\/\//.test(target);
+    location.replace(href(target) + (external ? '' : location.search + location.hash));
+    window.entreluma404.redirecting = true;
+  } else {
+    var robots = document.createElement('meta');
+    robots.name = 'robots';
+    robots.content = 'noindex';
+    document.head.appendChild(robots);
+  }
+})();
+</script>

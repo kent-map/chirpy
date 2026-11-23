@@ -1,0 +1,71 @@
+{%- comment -%}
+Entreluma audio viewer embed. Overrides the theme's native embed/audio.html
+with a styled player component that supports captions, timed playback, and
+action links. Builds the component query string (each value escaped with
+cgi_escape before appending) and delegates iframe emission to
+embed/_iframe.html.
+
+Parameters:
+  src       (required) audio file; a plain filename is resolved through
+            media-url.html (honouring media_subpath), full URLs pass through.
+  title     optional title shown above the player.
+  caption   optional caption (Markdown/HTML) shown below the player.
+  autoplay  "true" to start playing on load (subject to browser policy).
+  loop      "true" to loop playback.
+  start     initial position: seconds, m:ss, or h:mm:ss.
+  end       position at which playback pauses.
+  id        viewer id, required for action links.
+  class     size/position words.
+{%- endcomment -%}
+
+{%- capture _audio_url -%}
+{%- include media-url.html src=include.src subpath=page.media_subpath -%}
+{%- endcapture -%}
+{%- assign v = _audio_url | strip | cgi_escape -%}
+{%- assign qs = "src=" | append: v -%}
+
+{%- if include.title -%}
+{%- assign v = include.title | cgi_escape -%}
+{%- assign qs = qs | append: "&title=" | append: v -%}
+{%- endif -%}
+
+{%- if include.caption -%}
+{%- assign v = include.caption | cgi_escape -%}
+{%- assign qs = qs | append: "&caption=" | append: v -%}
+{%- endif -%}
+
+{%- if include.autoplay -%}
+{%- assign v = include.autoplay | cgi_escape -%}
+{%- assign qs = qs | append: "&autoplay=" | append: v -%}
+{%- endif -%}
+
+{%- if include.loop -%}
+{%- assign v = include.loop | cgi_escape -%}
+{%- assign qs = qs | append: "&loop=" | append: v -%}
+{%- endif -%}
+
+{%- if include.start -%}
+{%- assign v = include.start | cgi_escape -%}
+{%- assign qs = qs | append: "&start=" | append: v -%}
+{%- endif -%}
+
+{%- if include.end -%}
+{%- assign v = include.end | cgi_escape -%}
+{%- assign qs = qs | append: "&end=" | append: v -%}
+{%- endif -%}
+
+{%- capture component_src -%}{{ '/assets/components/audio.html' | relative_url }}?{{ qs }}{%- endcapture -%}
+
+{%- comment -%}
+The initial height fits a bare player; the component reports its real
+height (title and caption included) to the host once rendered.
+{%- endcomment -%}
+{%- assign frame_title = include.title | default: "Audio player" -%}
+{%- include embed/_iframe.html
+      src=component_src
+      base_class="embed-audio"
+      title=frame_title
+      id=include.id
+      class=include.class
+      extra_style="width: 100%; height: 72px; border: 0;"
+-%}

@@ -2,6 +2,7 @@
 title: "Dickens and Deal"
 description: "Dickens’s Bleak House features a dismissive comment on Deal as a place of narrow and gloomy streets. But the close observation of local ropemakers stands as a reminder of the author’s childhood experience in Chatham and his lifelong interest in maritime life."
 date: 2020-07-01
+author: Kent Maps Online
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Coast & sea, Work & industry ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg

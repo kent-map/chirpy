@@ -141,6 +141,7 @@
     if (iframe.classList.contains('embed-map')) return 'Interactive map';
     if (iframe.classList.contains('embed-youtube')) return 'Video';
     if (iframe.classList.contains('embed-vimeo')) return 'Video';
+    if (iframe.classList.contains('embed-audio')) return 'Audio recording';
     if (iframe.classList.contains('embed-vis-network')) return 'Interactive network';
     if (iframe.classList.contains('embed-image-compare')) return 'Interactive image comparison';
     if (iframe.classList.contains('embed-image')) return 'Interactive image';

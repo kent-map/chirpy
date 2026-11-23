@@ -110,7 +110,7 @@ Append `/popup` to the link to open the matching map marker's popup after the an
 
 Clicking the **same** fly-to link a second time returns the map to where it was before — readers can peek at a location and come right back.
 
-### YouTube and Vimeo Viewers — `playat`, `play`, `pause`
+### YouTube, Vimeo, and Audio Viewers — `playat`, `play`, `pause`
 
 | Action | Arguments | Example |
 |---|---|---|
@@ -118,7 +118,7 @@ Clicking the **same** fly-to link a second time returns the map to where it was 
 | `play` | optional `start` time | `[Resume the video](vid1/play)` |
 | `pause` | none | `[Pause here](vid1/pause)` |
 
-`playat` opens the expanded viewer and plays from `start`, stopping at `end` if given. Both video viewers use the same action syntax; see the [YouTube Viewer](entreluma-youtube-viewer) and [Vimeo Viewer](entreluma-vimeo-viewer) guides for details.
+`playat` plays from `start`, stopping at `end` if given. The video viewers open their expanded dialog to play; the audio viewer plays in place. All three use the same action syntax; see the [YouTube Viewer](entreluma-youtube-viewer), [Vimeo Viewer](entreluma-vimeo-viewer), and [Audio Viewer](entreluma-audio-viewer) guides for details.
 
 ### Viewers Without Actions
 

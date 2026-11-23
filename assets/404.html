@@ -1,0 +1,72 @@
+---
+layout: page
+title: "404: Page not found"
+permalink: /404.html
+sitemap: false
+---
+
+{%- comment -%}
+  Overrides the theme's assets/404.html (same path, so the site copy wins).
+  The redirect itself runs from _includes/redirect-404.html, included at the top
+  of <head>. This page only renders when no redirect matched.
+{%- endcomment -%}
+
+{% include lang.html %}
+
+<p class="lead">{{ site.data.locales[lang].not_found.statement }}</p>
+
+<div id="not-found-help">
+  <p id="not-found-suggestions-wrap" hidden>
+    Were you looking for:
+  </p>
+  <ul id="not-found-suggestions"></ul>
+
+  <form id="not-found-search" class="d-flex gap-2 my-3" role="search">
+    <label for="not-found-q" class="visually-hidden">Search the essays</label>
+    <input id="not-found-q" class="form-control" type="search" placeholder="Search the essays">
+    <button class="btn btn-outline-secondary" type="submit">Search</button>
+  </form>
+
+  <p>Or browse <a href="{{ '/' | relative_url }}">all essays</a> and
+    <a href="{{ '/categories/' | relative_url }}">categories</a>.</p>
+</div>
+
+<script>
+(function () {
+  var api = window.entreluma404;
+  if (!api || api.redirecting) return;
+
+  var titles = {
+    {%- for doc in site.posts -%}{{ doc.url | jsonify }}: {{ doc.title | jsonify }},{%- endfor -%}
+  };
+
+  var list = document.getElementById('not-found-suggestions');
+  api.suggest(location.pathname, 3).forEach(function (url) {
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = api.href(url);
+    a.textContent = titles[url] || url;
+    li.appendChild(a);
+    list.appendChild(li);
+  });
+  if (list.children.length) document.getElementById('not-found-suggestions-wrap').hidden = false;
+
+  /* Hand the query to the site's Pagefind search in the top bar. */
+  var slug = api.normalize(location.pathname).split('/').pop().replace(/-/g, ' ');
+  var q = document.getElementById('not-found-q');
+  q.value = slug;
+  document.getElementById('not-found-search').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var trigger = document.getElementById('search-trigger');
+    var input = document.getElementById('search-input');
+    if (trigger && getComputedStyle(trigger).display !== 'none') trigger.click();
+    if (input) {
+      input.value = q.value;
+      input.focus();
+      input.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+  });
+
+  window.entreluma404.notFound = true;
+})();
+</script>
