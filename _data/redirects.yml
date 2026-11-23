@@ -1,0 +1,12 @@
+# Explicit aliases for the 404 page's client-side redirect (_includes/redirect-404.html).
+#
+# Keys are normalized paths: lowercase, no trailing slash, no .html, underscores
+# written as hyphens. Only add paths that normalization and the pattern rules
+# cannot resolve on their own (capitalized, trailing-slash and underscore forms
+# of current addresses are already handled).
+#
+# Normalized old path: canonical new path
+
+# Linked from English Wikipedia with the wrong section folder (found Nov 2026).
+/music/19c-john-marsh-biography: /19c/19c-john-marsh-biography/
+/20c/20c-florence-warden-biography: /19c/19c-florence-warden-biography/

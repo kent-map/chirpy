@@ -19,7 +19,8 @@ title: Kent Maps Online # the main title
 tagline: Exploring Kent's History, Landscapes, and Literature. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Kent Maps Online publishes illustrated, map-based essays on the history,
+  landscapes and literature of Kent, England, from Canterbury Christ Church University.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
