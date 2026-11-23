@@ -297,11 +297,22 @@ addMessageHandler();
  * Wrap adjacent embeds as Shoelace tabs
  * ------------------------------------------- */
 
+// Audio reaches a tab run either as a native <audio> player or as the
+// generic iframe embed pointed at an audio file; both need their own icon
+// rather than the iframe "page" icon or the generic fallback.
+const AUDIO_EXT_RE = /\.(mp3|m4a|aac|wav|ogg|oga|opus|flac|weba)(?:[?#]|$)/i;
+function isAudioEmbed(node) {
+    if (node.classList.contains('embed-audio') || node.querySelector('audio, .embed-audio')) return true;
+    const frame = node.tagName === 'IFRAME' ? node : node.querySelector('iframe');
+    return !!(frame && AUDIO_EXT_RE.test(frame.getAttribute('src') || ''));
+}
+
 function wrapAdjacentEmbedsAsTabs({
     root = document.body,
     minRunLength = 2,
     wrapperClass = "embed-tabs",
     iconFor = (node) => {
+        if (isAudioEmbed(node)) return "fa-solid fa-headphones";
         if (node.classList.contains('embed-image')) return "fa-regular fa-image";
         if (node.classList.contains('embed-map')) return "fa-solid fa-map-pin";
         if (node.classList.contains('embed-image-compare')) return "fa-regular fa-images";
@@ -311,6 +322,7 @@ function wrapAdjacentEmbedsAsTabs({
         return "fa-solid fa-square";
     },
     labelFor = (node, idx) => {
+        if (isAudioEmbed(node)) return `Audio ${idx + 1}`;
         if (node.tagName === "IFRAME") return `Map ${idx + 1}`;
         if (node.tagName === "P" && node.querySelector("img")) return `Image ${idx + 1}`;
         return `Item ${idx + 1}`;
@@ -488,8 +500,23 @@ function objectFromLink(linkEl, attrs) {
  * - or URL path that contains .../<iframeId>/<action>/<args...>
  */
 function parseActionLink(a) {
-    const linkAttrs = objectFromLink(a, ["action", "label", "target", "args"]);
     const href = a.getAttribute("href") || a.getAttribute("data-href") || "";
+
+    // Build-time form (_plugins/entreluma-link-rewrite.rb): href="#" plus
+    // data-entreluma-target/action/args. Args keep their path segments.
+    if (a.hasAttribute("data-entreluma-action")) {
+        return {
+            href,
+            target: a.getAttribute("data-entreluma-target") || null,
+            action: a.getAttribute("data-entreluma-action") || null,
+            label: a.textContent || "",
+            explicitArgs: (a.getAttribute("data-entreluma-args") || "").split("/").filter(Boolean),
+            pathParts: []
+        };
+    }
+
+    // Older/raw form (editor preview): explicit attributes or a relative path.
+    const linkAttrs = objectFromLink(a, ["action", "label", "target", "args"]);
 
     // If explicit args provided, accept them as a simple split (comma or space are common).
     // If you need to support JSON-in-attr, do it here.
@@ -512,6 +539,8 @@ function parseActionLink(a) {
         pathParts
     };
 }
+
+const ARGLESS_ACTIONS = new Set(["play", "pause"]);
 
 function addActionLinks({ root = document.body } = {}) {
     const iframes = Array.from(root.querySelectorAll("iframe")).filter((i) => i.id);
@@ -557,7 +586,10 @@ function addActionLinks({ root = document.body } = {}) {
             }
         }
 
-        if (!target || !action || !args?.length) continue;
+        // play/pause take an optional argument (vid1/pause, audio1/play).
+        const argsOptional = ARGLESS_ACTIONS.has(String(action || "").toLowerCase());
+        if (!target || !action || (!args?.length && !argsOptional)) continue;
+        args = args || [];
 
         const iframe = iframeById.get(target);
         if (!iframe) {
@@ -865,6 +897,7 @@ async function makeEntityPopups({ root = document.body, language = "en" } = {}) 
 
         const dd = document.createElement("sl-dropdown");
         dd.className = "entity-popup";
+        dd.dataset.qid = qid;
         dd.setAttribute("placement", "top");
         dd.setAttribute("distance", "12");
 

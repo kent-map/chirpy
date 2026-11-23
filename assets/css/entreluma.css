@@ -303,7 +303,9 @@ div figcaption {
 
 .col2 article main {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* minmax(0, 1fr): plain 1fr has a min-content floor, so one wide child
+       (table, pre, long URL) would blow the narrative column out under the viewer. */
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     column-gap: 1em;
 }
 
@@ -395,6 +397,8 @@ div figcaption {
 }
 
 .col2 .post-content {
+    min-width: 0;
+    overflow-wrap: anywhere;
     /* width: calc(50% - 8px); */
     background-color: #F8F8F8;
     padding: 0 0.5em;

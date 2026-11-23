@@ -1,8 +1,40 @@
-<!DOCTYPE html>
+<!doctype html>
+<!--
+  Audio player component.
+
+  Originally developed for the kent-map site and upstreamed into Entreluma.
+
+  ─── URL parameters ──────────────────────────────────────────────────────────
+
+    src       (required) URL of the audio file (mp3, m4a, ogg, wav, ...).
+    title     Optional title shown above the controls.
+    caption   Optional caption (Markdown/HTML) shown below the controls.
+    autoplay  "true" to start playing on load (subject to browser policy).
+    loop      "true" to loop playback.
+    start     Initial position: seconds, m:ss, or h:mm:ss.
+    end       Position at which playback pauses.
+
+  ─── Messages TO this component (from parent) ────────────────────────────────
+
+    Entreluma postMessage protocol (see docs/postmessage-protocol.md):
+
+    { type: 'entreluma:action', payload: { action: 'playat', args: ['start,end'] } }
+      Plays in place from start, pausing at end when given.
+    { type: 'entreluma:action', payload: { action: 'play', args: ['start'] } }
+      Plays, optionally seeking to start first.
+    { type: 'entreluma:action', payload: { action: 'pause' } }
+      Pauses playback.
+
+  ─── Messages FROM this component (to parent) ────────────────────────────────
+
+    { type: 'entreluma:height', payload: { height: <px> } }
+      Sent whenever the rendered player changes height (title/caption wrap).
+-->
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Audio Player</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -18,8 +50,10 @@
       --player-height:    44px;
     }
 
+    /* Chirpy dark mode: the host page sets data-mode="dark" on <html>; it is
+       mirrored onto this document. Without an explicit mode, follow the OS. */
     @media (prefers-color-scheme: dark) {
-      :root {
+      :root:not([data-mode="light"]) {
         --player-bg:      #161b22;
         --player-border:  #30363d;
         --player-text:    #e6edf3;
@@ -28,9 +62,7 @@
         --player-track-bg:#30363d;
       }
     }
-
-    /* Chirpy dark-mode: parent page sets data-mode="dark" on <html> */
-    html[data-mode="dark"] {
+    :root[data-mode="dark"] {
       --player-bg:      #161b22;
       --player-border:  #30363d;
       --player-text:    #e6edf3;
@@ -39,10 +71,10 @@
       --player-track-bg:#30363d;
     }
 
+    html, body { background: transparent; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 13px;
-      background: transparent;
       color: var(--player-text);
       padding: 6px 0;
     }
@@ -60,7 +92,6 @@
     .player-title {
       font-size: 12px;
       font-weight: 600;
-      color: var(--player-text);
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -73,7 +104,6 @@
       height: var(--player-height);
     }
 
-    /* Play/Pause button */
     .btn-play {
       flex-shrink: 0;
       width: 36px;
@@ -89,9 +119,12 @@
       transition: opacity .15s;
     }
     .btn-play:hover { opacity: .85; }
+    .btn-play:focus-visible, .btn-mute:focus-visible, input[type="range"]:focus-visible {
+      outline: 2px solid var(--player-accent);
+      outline-offset: 2px;
+    }
     .btn-play svg { width: 16px; height: 16px; fill: currentColor; }
 
-    /* Time display */
     .time {
       flex-shrink: 0;
       font-size: 11px;
@@ -101,12 +134,7 @@
       text-align: center;
     }
 
-    /* Seek bar */
-    .seek-wrap {
-      flex: 1;
-      display: flex;
-      align-items: center;
-    }
+    .seek-wrap { flex: 1; display: flex; align-items: center; }
 
     input[type="range"] {
       -webkit-appearance: none;
@@ -115,7 +143,6 @@
       height: 4px;
       border-radius: 2px;
       background: var(--player-track-bg);
-      outline: none;
       cursor: pointer;
     }
     input[type="range"]::-webkit-slider-thumb {
@@ -138,13 +165,7 @@
       cursor: pointer;
     }
 
-    /* Volume */
-    .vol-wrap {
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
+    .vol-wrap { flex-shrink: 0; display: flex; align-items: center; gap: 6px; }
     .btn-mute {
       background: none;
       border: none;
@@ -158,175 +179,234 @@
     .btn-mute svg { width: 16px; height: 16px; fill: currentColor; }
     .vol-slider { width: 60px; }
 
-    /* Caption */
-    .player-caption {
-      font-size: 11px;
-      color: var(--player-muted);
-      margin-top: 2px;
+    /* Narrow columns (e.g. a tab panel beside the text): drop the volume
+       slider; the mute button and the device volume remain. */
+    @media (max-width: 360px) {
+      .vol-slider { display: none; }
+      .time { min-width: 0; }
     }
 
-    /* Error state */
-    .player-error {
-      color: #cf222e;
-      font-size: 12px;
-      padding: 6px 0;
+    .player-caption { font-size: 12px; color: var(--player-muted); margin-top: 2px; }
+    .player-caption a { color: inherit; }
+
+    .player-error { color: #cf222e; font-size: 12px; padding: 6px 0; }
+
+    .print-url { display: none; }
+    @media print {
+      .player-controls { display: none; }
+      .print-url { display: block; font-size: 11px; word-break: break-all; color: inherit; }
     }
   </style>
 </head>
 <body>
 
 <div class="player-wrap" id="player-wrap">
-  <div class="player-title" id="title-el" style="display:none"></div>
+  <div class="player-title" id="title-el" hidden></div>
 
   <div class="player-controls">
-    <button class="btn-play" id="btn-play" aria-label="Play">
-      <!-- Play icon -->
-      <svg id="icon-play" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-      <!-- Pause icon (hidden) -->
-      <svg id="icon-pause" viewBox="0 0 24 24" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+    <button type="button" class="btn-play" id="btn-play" aria-label="Play">
+      <svg id="icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      <svg id="icon-pause" viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
     </button>
 
     <div class="seek-wrap">
-      <input type="range" id="seek" min="0" value="0" step="0.1" aria-label="Seek">
+      <input type="range" id="seek" min="0" max="0" value="0" step="0.1" aria-label="Seek">
     </div>
 
     <div class="time" id="time-el">0:00 / 0:00</div>
 
     <div class="vol-wrap">
-      <button class="btn-mute" id="btn-mute" aria-label="Mute">
-        <svg id="icon-vol" viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77 0-4.28-2.99-7.86-7-8.77z"/></svg>
-        <svg id="icon-mute" viewBox="0 0 24 24" style="display:none"><path d="M16.5 12A4.5 4.5 0 0 0 14 7.97v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51A8.796 8.796 0 0 0 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3 3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06a8.99 8.99 0 0 0 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4 9.91 6.09 12 8.18V4z"/></svg>
+      <button type="button" class="btn-mute" id="btn-mute" aria-label="Mute">
+        <svg id="icon-vol" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77 0-4.28-2.99-7.86-7-8.77z"/></svg>
+        <svg id="icon-mute" viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M16.5 12A4.5 4.5 0 0 0 14 7.97v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51A8.796 8.796 0 0 0 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3 3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06a8.99 8.99 0 0 0 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4 9.91 6.09 12 8.18V4z"/></svg>
       </button>
       <input type="range" id="vol" class="vol-slider" min="0" max="1" step="0.05" value="1" aria-label="Volume">
     </div>
   </div>
 
-  <div class="player-caption" id="caption-el" style="display:none"></div>
-  <div class="player-error" id="error-el" style="display:none">Unable to load audio file.</div>
+  <div class="player-caption" id="caption-el" hidden></div>
+  <a class="print-url" id="print-url" target="_blank" rel="noopener noreferrer"></a>
+  <div class="player-error" id="error-el" role="status" hidden>Unable to load audio file.</div>
 </div>
 
 <audio id="audio" preload="metadata"></audio>
 
-<script>
-(function () {
-  const params  = new URLSearchParams(location.search);
-  const src     = params.get('src');
-  const caption = params.get('caption');
-  const title   = params.get('title');
-  const autoplay= params.get('autoplay') === 'true';
-  const loop    = params.get('loop')     === 'true';
+<script src="../js/entreluma-component.js"></script>
+<script type="module">
+  import { marked } from "https://cdn.jsdelivr.net/npm/marked@18.0.5/lib/marked.esm.js";
+  import { parseVimeoTime as parseTime, parseVimeoPlaybackRange as parseRange } from "../js/entreluma-vimeo.mjs";
 
-  const audio     = document.getElementById('audio');
-  const btnPlay   = document.getElementById('btn-play');
-  const iconPlay  = document.getElementById('icon-play');
-  const iconPause = document.getElementById('icon-pause');
-  const seek      = document.getElementById('seek');
-  const timeEl    = document.getElementById('time-el');
-  const btnMute   = document.getElementById('btn-mute');
-  const iconVol   = document.getElementById('icon-vol');
-  const iconMute  = document.getElementById('icon-mute');
-  const volSlider = document.getElementById('vol');
-  const captionEl = document.getElementById('caption-el');
-  const titleEl   = document.getElementById('title-el');
-  const errorEl   = document.getElementById('error-el');
+  const params   = new URLSearchParams(location.search);
+  const src      = params.get('src');
+  const boolParam = (name) => ['', 'true', '1'].includes(String(params.get(name) ?? 'false').toLowerCase());
 
-  if (!src) { errorEl.style.display = 'block'; errorEl.textContent = 'No audio source provided.'; return; }
+  const $ = (id) => document.getElementById(id);
+  const audio = $('audio'), btnPlay = $('btn-play'), seek = $('seek'), timeEl = $('time-el');
+  const btnMute = $('btn-mute'), volSlider = $('vol');
+  const errorEl = $('error-el');
 
-  // Populate optional UI
-  if (title)   { titleEl.textContent   = title;   titleEl.style.display   = 'block'; }
-  if (caption) { captionEl.innerHTML   = caption; captionEl.style.display = 'block'; }
+  let stopAt = null;
 
-  audio.loop = loop;
-  const ext = src.split('.').pop().toLowerCase();
-  const mimeTypes = {
-    'mp3':  'audio/mpeg',
-    'm4a':  'audio/mp4',
-    'mp4a': 'audio/mp4',
-    'ogg':  'audio/ogg',
-    'wav':  'audio/wav',
-  };
-  if (mimeTypes[ext]) {
-    const source = document.createElement('source');
-    source.src  = src;
-    source.type = mimeTypes[ext];
-    audio.appendChild(source);
-  } else {
-    audio.src = src;
+  function showError(text) {
+    errorEl.textContent = text;
+    errorEl.hidden = false;
   }
 
-  // Sync dark-mode with parent frame
-  try {
-    const parentMode = window.parent?.document?.documentElement?.dataset?.mode;
-    if (parentMode === 'dark') document.documentElement.dataset.mode = 'dark';
-  } catch (_) {}
+  function mdToHtml(markdown) {
+    const html = marked.parse(String(markdown || '')).trim();
+    const paragraph = html.match(/^<p>([\s\S]*)<\/p>$/i);
+    return paragraph ? paragraph[1] : html;
+  }
 
-  /* ── Helpers ── */
+  /* ── Host integration ── */
+
+  // Mirror the host page's Chirpy colour mode, and follow later toggles.
+  try {
+    const hostRoot = window.parent !== window ? window.parent.document.documentElement : null;
+    if (hostRoot) {
+      const sync = () => {
+        const mode = hostRoot.dataset.mode;
+        if (mode) document.documentElement.dataset.mode = mode;
+        else delete document.documentElement.dataset.mode;
+      };
+      sync();
+      new MutationObserver(sync).observe(hostRoot, { attributes: true, attributeFilter: ['data-mode'] });
+    }
+  } catch (_) { /* cross-origin host: fall back to prefers-color-scheme */ }
+
+  // Keep the host iframe sized to the rendered player.
+  new ResizeObserver(() => {
+    Entreluma.reportHeight(Math.ceil(document.documentElement.getBoundingClientRect().height));
+  }).observe(document.body);
+
+  /* ── Player ── */
+
   function fmt(s) {
     if (!isFinite(s)) return '0:00';
-    const m = Math.floor(s / 60);
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
     const ss = String(Math.floor(s % 60)).padStart(2, '0');
-    return `${m}:${ss}`;
+    return h ? `${h}:${String(m).padStart(2, '0')}:${ss}` : `${m}:${ss}`;
   }
 
   function updateTime() {
     const cur = audio.currentTime || 0;
-    const dur = audio.duration   || 0;
+    const dur = audio.duration || 0;
     timeEl.textContent = `${fmt(cur)} / ${fmt(dur)}`;
-    seek.max   = isFinite(dur) ? dur : 0;
+    seek.max = isFinite(dur) ? dur : 0;
     seek.value = cur;
-    // gradient fill for seek bar
+    seek.setAttribute('aria-valuetext', `${fmt(cur)} of ${fmt(dur)}`);
     const pct = dur > 0 ? (cur / dur) * 100 : 0;
     seek.style.background =
       `linear-gradient(to right, var(--player-accent) ${pct}%, var(--player-track-bg) ${pct}%)`;
   }
 
   function setPlayState(playing) {
-    iconPlay.style.display  = playing ? 'none'  : '';
-    iconPause.style.display = playing ? ''      : 'none';
+    $('icon-play').style.display  = playing ? 'none' : '';
+    $('icon-pause').style.display = playing ? '' : 'none';
     btnPlay.setAttribute('aria-label', playing ? 'Pause' : 'Play');
   }
 
   function setMuteState(muted) {
-    iconVol.style.display  = muted ? 'none' : '';
-    iconMute.style.display = muted ? ''     : 'none';
+    $('icon-vol').style.display  = muted ? 'none' : '';
+    $('icon-mute').style.display = muted ? '' : 'none';
     btnMute.setAttribute('aria-label', muted ? 'Unmute' : 'Mute');
   }
 
-  /* ── Events ── */
-  audio.addEventListener('loadedmetadata', updateTime);
-  audio.addEventListener('timeupdate', updateTime);
-  audio.addEventListener('ended', () => setPlayState(false));
-  audio.addEventListener('error', (e) => { 
-    if (audio.networkState === 3) { errorEl.style.display = 'block'; }
-  });
+  // Seeking before metadata has loaded is ignored by some browsers, so
+  // defer it until the duration is known.
+  function seekTo(seconds) {
+    const apply = () => { audio.currentTime = seconds; updateTime(); };
+    if (audio.readyState >= 1) apply();
+    else audio.addEventListener('loadedmetadata', apply, { once: true });
+  }
 
-  btnPlay.addEventListener('click', () => {
-    if (audio.paused) audio.play().catch(() => {});
-    else              audio.pause();
-    setPlayState(!audio.paused);
-  });
+  function playFrom(start, end = null) {
+    if (start != null) seekTo(start);
+    stopAt = end;
+    audio.play().catch((error) => console.warn('Audio playback was blocked:', error));
+  }
 
-  seek.addEventListener('input', () => {
-    audio.currentTime = seek.value;
+  function init() {
+    if (!src) return showError('No audio source provided.');
+
+    const title = params.get('title');
+    const caption = params.get('caption');
+    if (title) { $('title-el').textContent = title; $('title-el').hidden = false; }
+    if (caption) { $('caption-el').innerHTML = mdToHtml(caption); $('caption-el').hidden = false; }
+    $('print-url').href = src;
+    $('print-url').textContent = src;
+
+    let start = null;
+    let end = null;
+    for (const [name, assign] of [['start', (v) => { start = v; }], ['end', (v) => { end = v; }]]) {
+      const raw = params.get(name);
+      if (raw == null || raw.trim() === '') continue;
+      const value = parseTime(raw);
+      if (value == null) return showError(`Invalid ${name} time: ${raw}`);
+      assign(value);
+    }
+    if (end != null && end <= (start || 0)) return showError('The end time must be after the start time.');
+
+    audio.loop = boolParam('loop');
+    audio.src = src;
+
+    audio.addEventListener('loadedmetadata', updateTime);
+    audio.addEventListener('timeupdate', () => {
+      if (stopAt != null && audio.currentTime >= stopAt) {
+        stopAt = null;
+        audio.pause();
+      }
+      updateTime();
+    });
+    audio.addEventListener('play', () => setPlayState(true));
+    audio.addEventListener('pause', () => setPlayState(false));
+    audio.addEventListener('ended', () => setPlayState(false));
+    audio.addEventListener('error', () => showError('Unable to load audio file.'));
+
+    btnPlay.addEventListener('click', () => {
+      if (audio.paused) playFrom(null, stopAt);
+      else audio.pause();
+    });
+
+    seek.addEventListener('input', () => {
+      audio.currentTime = Number(seek.value);
+      updateTime();
+    });
+
+    volSlider.addEventListener('input', () => {
+      audio.volume = Number(volSlider.value);
+      audio.muted = audio.volume === 0;
+      setMuteState(audio.muted);
+    });
+
+    btnMute.addEventListener('click', () => {
+      audio.muted = !audio.muted;
+      if (!audio.muted && audio.volume === 0) { audio.volume = 0.5; volSlider.value = 0.5; }
+      setMuteState(audio.muted);
+    });
+
+    Entreluma.onAction(({ action, args }) => {
+      if (action === 'playat') {
+        const range = parseRange(args[0]);
+        if (!range) return console.warn('Audio playat ignored: invalid start/end range');
+        playFrom(range.start, range.end);
+      } else if (action === 'play') {
+        const begin = args[0] ? parseTime(args[0]) : null;
+        if (args[0] && begin == null) return console.warn('Audio play ignored: invalid start time');
+        playFrom(begin);
+      } else if (action === 'pause') {
+        audio.pause();
+      }
+    });
+
+    if (start != null) seekTo(start);
+    stopAt = end;
+    if (boolParam('autoplay')) playFrom(null, end);
     updateTime();
-  });
+  }
 
-  volSlider.addEventListener('input', () => {
-    audio.volume = volSlider.value;
-    audio.muted  = audio.volume === 0;
-    setMuteState(audio.muted);
-  });
-
-  btnMute.addEventListener('click', () => {
-    audio.muted = !audio.muted;
-    if (!audio.muted && audio.volume === 0) { audio.volume = 0.5; volSlider.value = 0.5; }
-    setMuteState(audio.muted);
-  });
-
-  if (autoplay) audio.play().catch(() => {});
-
-  updateTime();
-})();
+  init();
 </script>
 </body>
 </html>

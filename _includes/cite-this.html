@@ -15,7 +15,7 @@
       data-publisher='{{ page.publisher | default: site.title | escape }}'
       data-date='{{ page.date | date_to_xmlschema }}'
       data-updated='{{ page.updated | default: page.date | date_to_xmlschema }}'
-      data-authors='{% if page.authors %}{{ page.authors | jsonify }}{% elsif page.author %}{{ page.author | jsonify }}{% else %}[]{% endif %}'>
+      data-authors='{{ page | author_list | jsonify | escape }}'>
       <!-- Populated by JS -->
     </div>
 

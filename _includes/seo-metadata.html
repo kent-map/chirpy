@@ -1,0 +1,119 @@
+{%- comment -%}
+  Emits the jekyll-seo-tag output (passed as include.seo) with three fixes:
+
+  1. Social images. jekyll-seo-tag writes `wc:` image shorthand unchanged, so
+     og:image, twitter:image and the JSON-LD image held values like
+     `wc:Cryptomeria_japonica_...jpg`. Its own image tags are dropped and
+     rebuilt here from the URL resolved by media-url.html (width 1200).
+  2. Scholarly citation tags (Highwire Press) on posts, per Google Scholar's
+     inclusion guidelines. One citation_author per author via `author_list`.
+  3. JSON-LD on posts is a ScholarlyArticle with a Person per author, replacing
+     the seo-tag BlogPosting block so each page has exactly one JSON-LD block.
+
+  Non-post pages keep the seo-tag JSON-LD unchanged.
+{%- endcomment -%}
+
+{%- assign is_post = false -%}
+{%- if page.collection == 'posts' -%}{%- assign is_post = true -%}{%- endif -%}
+
+{%- comment -%} Resolve the sharing image {%- endcomment -%}
+{%- assign img_src = page.image.path | default: page.image -%}
+{%- if img_src == nil or img_src == empty -%}
+  {%- assign img_src = site.social_preview_image -%}
+{%- endif -%}
+{%- assign img_url = '' -%}
+{%- if img_src and img_src != empty -%}
+  {%- assign p3 = img_src | slice: 0, 3 -%}
+  {%- assign is_remote = false -%}
+  {%- if img_src contains '://' -%}{%- assign is_remote = true -%}{%- endif -%}
+  {%- if p3 == 'wc:' or img_src contains 'commons.wikimedia.org' or is_remote == false -%}
+    {%- capture img_url -%}{% include media-url.html src=img_src subpath=page.media_subpath absolute=true width=1200 %}{%- endcapture -%}
+    {%- assign img_url = img_url | strip -%}
+  {%- else -%}
+    {%- assign img_url = img_src -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if img_url != '' -%}
+  {%- assign img_head = img_url | slice: 0, 2 -%}
+  {%- if img_head == '//' -%}
+    {%- assign img_url = 'https:' | append: img_url -%}
+  {%- elsif img_head contains '/' -%}
+    {%- assign img_url = img_url | absolute_url -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- comment -%} Split the seo-tag JSON-LD from the meta tags {%- endcomment -%}
+{%- assign ld_open = '<script type="application/ld+json">' -%}
+{%- assign seo_parts = include.seo | split: ld_open -%}
+{%- assign seo_meta = seo_parts[0] -%}
+{%- assign seo_ld = '' -%}
+{%- assign seo_tail = '' -%}
+{%- if seo_parts.size > 1 -%}
+  {%- assign ld_parts = seo_parts[1] | split: '</script>' -%}
+  {%- assign seo_ld = ld_open | append: ld_parts[0] | append: '</script>' -%}
+  {%- assign seo_tail = ld_parts[1] -%}
+{%- endif -%}
+
+{%- comment -%} Drop seo-tag image and card tags; rebuilt below {%- endcomment -%}
+{%- capture nl %}
+{% endcapture -%}
+{%- assign lines = seo_meta | split: nl -%}
+{%- for line in lines -%}
+  {%- if line contains 'property="og:image' or line contains 'twitter:image' or line contains 'name="twitter:card"' -%}{%- continue -%}{%- endif -%}
+  {%- unless line == '' %}
+{{ line }}
+  {%- endunless -%}
+{%- endfor %}
+{%- if img_url != '' %}
+<meta property="og:image" content="{{ img_url | escape }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="{{ img_url | escape }}" />
+{%- else %}
+<meta name="twitter:card" content="summary" />
+{%- endif -%}
+
+{%- if is_post -%}
+  {%- assign authors = page | author_list -%}
+  {%- assign publisher = site.entreluma.citation_publisher | default: site.title -%}
+  {%- assign canonical = page.url | absolute_url -%}
+  {%- assign tags = page.tags | default: empty %}
+<meta name="citation_title" content="{{ page.title | strip_html | escape }}" />
+  {%- for a in authors %}
+<meta name="citation_author" content="{{ a | escape }}" />
+  {%- endfor %}
+<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}" />
+<meta name="citation_online_date" content="{{ page.date | date: '%Y/%m/%d' }}" />
+<meta name="citation_publisher" content="{{ publisher | escape }}" />
+<meta name="citation_language" content="{{ site.lang | default: 'en' }}" />
+  {%- if tags.size > 0 %}
+<meta name="citation_keywords" content="{{ tags | join: '; ' | escape }}" />
+  {%- endif %}
+<meta name="citation_fulltext_html_url" content="{{ canonical }}" />
+<meta name="citation_abstract_html_url" content="{{ canonical }}" />
+
+  {%- capture author_json -%}
+    [{%- for a in authors -%}{"@type":"Person","name":{{ a | jsonify }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}]
+  {%- endcapture -%}
+  {%- assign modified = page.last_modified_at | default: page.date %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ScholarlyArticle",
+"headline":{{ page.title | strip_html | jsonify }},
+"description":{{ page.description | default: site.description | strip_html | strip_newlines | jsonify }},
+"author":{{ author_json }},
+"datePublished":{{ page.date | date_to_xmlschema | jsonify }},
+"dateModified":{{ modified | date_to_xmlschema | jsonify }},
+{%- if img_url != '' %}
+"image":{{ img_url | jsonify }},
+{%- endif %}
+"keywords":{{ tags | jsonify }},
+"articleSection":{{ page.categories | default: empty | jsonify }},
+"inLanguage":{{ site.lang | default: 'en' | jsonify }},
+"url":{{ canonical | jsonify }},
+"mainEntityOfPage":{"@type":"WebPage","@id":{{ canonical | jsonify }}},
+"publisher":{"@type":"Organization","name":{{ publisher | jsonify }},"logo":{"@type":"ImageObject","url":{{ site.avatar | absolute_url | jsonify }}}},
+"isPartOf":{"@type":"WebSite","name":{{ site.title | jsonify }},"url":{{ site.url | append: site.baseurl | append: '/' | jsonify }}}}
+</script>
+{%- else %}
+{{ seo_ld }}
+{%- endif %}
+{{ seo_tail }}
