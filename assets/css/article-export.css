@@ -146,7 +146,6 @@
   text-align: center;
 }
 
-.article-print-sheet__hero img,
 .article-print-sheet figure img,
 .article-print-sheet .article-export-image {
   display: block;
@@ -155,6 +154,20 @@
   max-height: 170mm;
   margin: 0 auto;
   object-fit: contain;
+}
+
+/* The header image prints as the site shows it: a full-width 40:21 banner
+   cropped to fill (Chirpy's .preview-img), not a contained figure. */
+.article-print-sheet .article-print-sheet__hero img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: 40 / 21;
+  margin: 0;
+  object-fit: cover;
+  border-radius: 6px;
 }
 
 .article-print-sheet figcaption,
