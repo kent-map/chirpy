@@ -2,6 +2,7 @@
 title: "Chatham Convict Prison"
 description: "Chatham convict prison opened in 1856. Over the next 25 years Chatham Dockyard was extended to 4 times its original size, using convict labour. Conditions in the prison were brutal, leading to episodes of violence. In 1892 the prison closed and its cell-blocks were dismantled. The Royal Naval barracks built on its former site are today home to the Universities at Medway campus."
 date: 2022-09-01
+author: Kent Maps Online
 categories: [ 19c ]
 tags: [ Crime & punishment, Rivers & marshes, Work & industry ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg

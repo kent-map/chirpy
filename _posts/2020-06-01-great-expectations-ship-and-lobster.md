@@ -2,6 +2,7 @@
 title: "The Ship and Lobster"
 description: "Magwitch’s last hours of freedom before his arrest by Customs officials are spent in an inn called The Ship. This is most likely to be based on the Ship and Lobster in Gravesend, only a few miles away from Cooling churchyard where the story begins."
 date: 2020-06-01
+author: Kent Maps Online
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Crime & punishment, Rivers & marshes, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg

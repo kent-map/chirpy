@@ -2,6 +2,7 @@
 title: "Dickens and Canterbury"
 description: "David Copperfield's Canterbury setting galvanised local calls for a local branch of the Dickens Society. But Dickens's response to the city is more ambivalent than the novel suggests."
 date: 2020-06-01
+author: Kent Maps Online
 categories: [ dickens ]
 tags: [ Literary places, Texts & genres, Towns & cities, Maps & place-making ]
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg
