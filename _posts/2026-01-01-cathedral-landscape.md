@@ -8,6 +8,7 @@ tags: [ Buildings & architecture, Towns & cities, Maps & place-making, Countrysi
 image: https://upload.wikimedia.org/wikipedia/commons/3/3f/Harvest_Time_at_Wincheap_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 permalink: /landscape/cathedral-landscape/
 published: true
+featured: true
 toc: false  
 ---
 
