@@ -8,6 +8,7 @@ tags: [ Arts & performance, Buildings & architecture, Towns & cities, Representa
 image: https://raw.githubusercontent.com/kent-map/images/main/banners/HollarThenorthprospect.jpg
 permalink: /landscape/sense-place/
 published: true
+featured: true
 toc: false  
 ---
 
