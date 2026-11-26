@@ -8,6 +8,7 @@ tags: [ Buildings & architecture, Towns & cities, Culture & society, Heritage & 
 image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg
 permalink: /medieval/medieval-canterbury/
 published: true
+featured: true
 toc: false  
 ---
 
