@@ -11,12 +11,11 @@ published: true
 toc: false  
 ---
 
-
-{% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
-
 [Nora] Geraldine (Gerry) Gordon Salmon, a popular historical fiction writer of the 1920s-1960s, lived in [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home) and [Harbledown](Q5654535) for much of her career. Born at Ryton on Tyne on the 19th January 1897, Geraldine was the daughter of John and Jennie Maria (Minnie) Salmon. Her father, a retired solicitor, married Minnie in 1896 after the death of his first wife; Minnie was almost 30 years younger than him. John already had four grown-up daughters and three sons. Geraldine was taught at home by a governess, and as the only child of a much older couple, she may have spent a lot of time in her own company. 
 
 <param ve-Image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/St_Nicholas_Church_Harbledown_1.jpg" label="St Nicholas Church, Harbledown" attribution="Josh Tilley, CC BY-SA 4.0, via Wikimedia Commons">
+
+{% include embed/map.html center="Q29303" zoom="12" markers="Q29303" allmaps="02beda348c553bd7~OS SE England & London 1933" %}
 
 At some point, after the death of her father in 1912, Geraldine moved with Minnie to [Canterbury]({{ site.baseurl }}/canterbury/20c-canterbury-home), where they lived at 1, London Road, a large townhouse opposite St Dunstan’s Church. Minnie named the house Cleadon,  after their former family home Cleadon Park, in South Shields.[^ref1] Minnie’s sister Rachel was also widowed at this time and it is possible that she moved to Kent to live with her sister and niece. We do not know much about Geraldine’s life at this time, although we do know that she joined the Beaney Institute, and regularly borrowed books, fuelling her fertile imagination. In May 1919, she entered _The Bookman_ prize competition for the best original lyric and received a special commendation.[^ref2]  
 
