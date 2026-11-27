@@ -41,7 +41,9 @@ Rejoicing in the light of Godly powers;
 The star-like daisies in perfection seem    
 To smile a welcome, each a starlight queen.   
 Why come they forth to live but for an hour  
-<br><br>
+
+{% include embed/image.html src="wc:St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" aspect="1.575" caption="St Nicholas, Thanington Without" %}
+
 Here in the churchyard then, O man, take heed,    
 And strive to learn His lesson, for indeed    
 Tis here a man of care can find his way    
@@ -49,9 +51,7 @@ To learn that lesson on the churchyard sod.
 Humbled though guided by His loving rod,    
 He must reflect, repent, and look to God!   
 December 14 1869.
-
-{% include embed/image.html src="wc:St_Nicholas%2C_Thanington_Without_-_geograph.org.uk_-_2912744.jpg" aspect="1.575" caption="St Nicholas, Thanington Without" %}
-
+<br><br>
 It is possible that Carrick refers to himself when he speaks of 'a man of care' as educational reforms in the 1870s may have made his penmanship classes seem outmoded to his middle-class audience. 
 <br><br>
 In May 1890, Charles quit Kent Academy after forty years of teaching, promising to continue his private lessons in the homes of his pupils. He moved to 2, Summer Hill, Harbledown but died later that summer whilst undergoing an operation in a London hospital. He was remembered by the citizens of [Canterbury]({{ site.baseurl }}/19c/19c-canterbury/) for his "serious reflections" on the death of many of its leading inhabitants.[^ref11] One wonders whether their relatives paid for them. He was buried on 21 August at Harbledown. 
