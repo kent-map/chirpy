@@ -14,20 +14,20 @@ toc: false
 
 ‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of [Canterbury](Q29303), dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’   
 _David Copperfield_
+<br><br>
+When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
+very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.[^ref1]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/images/main/dickens/In_Dickens_Land._The_Little_Inn,_Canterbury.jpg" aspect="0.75" caption="Little Inn, Dickens Land" %}
 
-When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
-very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.[^ref1]
+It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
+a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
 
 {% include embed/image-compare.html
   before="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/d4255b03-4d19-411c-b6b5-cd6e7632fe73.jpg"
   after="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/aaceb5d3-7946-4843-8443-d6663752501a.jpg"
   caption="House of Agnes / House of Agnes, 2021 by Nat Lowden and Sara Gelencer"
   aspect="1.5" %}
-
-It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
-a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/c7538ee6-6e4e-4321-a748-578148758e2a.jpg" aspect="1.691" caption="Mint Yard 12079 Kings School" attribution=" By kind permission of Peter Henderson" %}
 
@@ -49,8 +49,10 @@ Though a plaque on the wall of the Sun Hotel claims it as Dickens’s ‘Little 
   aspect="1.5" %}
 
 Dickens’ relationship with [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of [_David Copperfield_]({{ site.baseurl }}/dickens/david-copperfield-curated-walk) would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham (Rochester) in [_The Mystery of Edwin Drood_ )]({{ site.baseurl }}/dickens/edwin-drood-curated-walk), but that is not a feature of his letters or other writings. He bought Cruikshank's _Bottle_ here in 1847, took a friend 'in tow to Canterbury' in 1848,[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] But the only obviously affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.
-
-Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes]({{ site.baseurl }}/dickens/mobile-landscapes)) which may be the hotel Mr Dick stays in on his frequent visits to the city (Charles Harper claims the 'County Inn' as the original but confuses it with the nearby Fountain. The Fountain was subsequently destroyed in WW2, and the County Inn changed its name to the Abode). 
+<br><br>
+Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes]({{ site.baseurl }}/dickens/mobile-landscapes)) which may be the hotel Mr Dick stays in on his frequent visits to the city (Charles Harper claims the 'County Inn' as the original but confuses it with the nearby Fountain. The Fountain was subsequently destroyed in WW2, and the County Inn changed its name to the Abode).
+<br><br>
+Research on Micawber's inn and Mr Dick's inn by Ken Moffat.
 
 {% include embed/image.html src="wc:Abode_Hotel_Canterbury.jpg" aspect="1.0" caption="Abode Hotel by DaKey2insight, CC BY-SA 4.0, via Wikimedia Commons" %}
 
@@ -65,8 +67,6 @@ Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific 
 Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide for Pilgrims_. Canterbury: Canterbury & District Chamber of Trade, 1928.   
 
 {% include embed/image.html src="wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" aspect="0.693" caption="David reaches Canterbury" %}
-
-Research on Micawber's inn and Mr Dick's inn by Ken Moffat.
 
 ### References
 
