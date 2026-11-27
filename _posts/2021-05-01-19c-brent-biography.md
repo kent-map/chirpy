@@ -24,12 +24,12 @@ John Brent was himself a political campaigner from a young age, becoming a membe
 
 It is unclear what formal education Brent received (he was not registered at King's, the only [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) school operating at the time); but having begun work as a miller, he soon turned instead to literature and antiquarian pursuits. By the age of 26 he had published _The Sea Wolf, a Romance_ (1834), followed by _Lays of Poland_ in 1836 and [_Lays and Legends of Kent_]( https://books.googleusercontent.com/books/content?req=AKW5QadY0R5Cm4VnasEGIr2yjX6hcxRy5WKamnyzV88Kz5friiGL12cnFDMqmTJB5MTx89mslYp10DO_ZUws8fJWJDXT8eDF11Z4gMJ4rM2PbH87qyk2cH2YE7BWY_j7p8P8CeSgbH_LhpfR6aJ84ruTXzaeMXF7zqND_csLrvBp9mRjVaaQ8LlG6YDZJIhjRpE-Y8UD3J4HE8JOFANoGM0KFaBlpgwkEM7_uylI76SJD9D4mzOn28pPgFTkGwpXCzdCwfwm_LrtNrAZeJRQkayR0jBRQsas_tiR6j2trshM3eiaUCqK6YY)
 and Guillemette La Delanasse (both published in 1840). In the same year he contributed to the [_Kentish Coronal_](https://www.google.co.uk/books/edition/The_Kentish_coronal_original_prose_and_p/oraka2LFkaAC?hl=en&gbpv=1), edited by [Henry Gardiner Adams]({{ site.baseurl }}/19c/19c-gardiner-adams-biography). Further literary work was to follow, including _The Battle Cross: A Romance of the Fourteenth Century and further volumes of poetry and fiction._
-
-{% include embed/image.html src="wc:Waterwheel_pit%2C_Abbot%27s_Mill_-_geograph.org.uk_-_1921736.jpg" aspect="0.75" caption="Waterwheel pit, Abbot's Mill, Mill Lane, Canterbury - one of the six mills in Canterbury" %}
-
+<br><br>
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&view=1up&seq=9).  A fan of that quintessential self-made man [Charles Dickens]({{ site.baseurl }}/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in [Canterbury]({{ site.baseurl }}/19c/19c-canterbury) in 1861. What is certain is that like [Henry Adams]({{ site.baseurl }}/19c/19c-gardiner-adams-biography), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent /
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&pg=PA99&dq=%22Dickens%22+and+%22John+Brent%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&q=%22Dickens%22%20and%20%22John%20Brent%22&f=false).
+
+{% include embed/image.html src="wc:Waterwheel_pit%2C_Abbot%27s_Mill_-_geograph.org.uk_-_1921736.jpg" aspect="0.75" caption="Waterwheel pit, Abbot's Mill, Mill Lane, Canterbury - one of the six mills in Canterbury" %}
 
 {% include embed/image.html src="https://raw.githubusercontent.com/kent-map/kmo-forum-images/main/8170ce97-3fe7-4dac-b063-ff35b17faecb.jpg" aspect="0.75" caption="Canterbury in the Olden Time" attribution="John Brent" %}
 
